@@ -1,0 +1,1547 @@
+﻿1
+00:01:57,958 --> 00:01:59,833
+[BALMUNG] Move that tree a
+little more to the right.
+
+2
+00:01:59,916 --> 00:02:01,708
+It's difficult to see
+the tree behind it.
+
+3
+00:02:01,791 --> 00:02:02,958
+[WORKER] Yes, sir.
+
+4
+00:02:06,333 --> 00:02:07,250
+Well done.
+
+5
+00:02:07,333 --> 00:02:09,750
+That's very good.
+Please continue.
+
+6
+00:02:09,833 --> 00:02:11,166
+[WORKER] Thank you, sir.
+
+7
+00:02:13,833 --> 00:02:15,500
+Reki?
+
+8
+00:02:15,583 --> 00:02:17,208
+[REKI] Yes, sir.
+
+9
+00:02:17,291 --> 00:02:18,625
+I was looking into
+your encounter
+
+10
+00:02:18,708 --> 00:02:21,250
+with the Super Shogun
+the other day, Lord Balmung...
+
+11
+00:02:22,458 --> 00:02:25,208
+[REKI] There was no record of it
+in the system management log.
+
+12
+00:02:25,291 --> 00:02:28,416
+An Armored Super Shogun
+has never appeared in that area.
+
+13
+00:02:32,541 --> 00:02:34,250
+[BALMUNG] Is that so?
+
+14
+00:02:42,208 --> 00:02:45,833
+[BALMUNG] So then,
+what was it I fought?
+
+15
+00:02:48,000 --> 00:02:49,625
+Uh, Lord Balmung?
+
+16
+00:02:50,250 --> 00:02:52,625
+[BALMUNG] Please continue
+with the investigation.
+
+17
+00:02:52,708 --> 00:02:54,958
+The personnel in
+system management
+
+18
+00:02:55,041 --> 00:02:56,666
+are professionals
+at managing data.
+
+19
+00:02:56,750 --> 00:02:57,875
+[REKI] Yes, sir.
+
+20
+00:03:00,708 --> 00:03:03,083
+Hmph. This event is
+shaping up very nicely.
+
+21
+00:03:03,166 --> 00:03:04,541
+It'll be amongst
+the best I've had
+
+22
+00:03:04,625 --> 00:03:06,541
+a hand in creating
+in a long time.
+
+23
+00:03:06,625 --> 00:03:09,291
+Yeah, you say that
+every time, sir...
+
+24
+00:03:09,375 --> 00:03:11,333
+Huh? Lord Balmung.
+
+25
+00:03:20,208 --> 00:03:22,208
+[SHUGO] Huh? You're back?
+
+26
+00:03:22,291 --> 00:03:26,000
+[FATHER] Yeah. I was on the
+road and just stopped by.
+
+27
+00:03:26,083 --> 00:03:28,083
+I have to go back
+to the office now.
+
+28
+00:03:29,041 --> 00:03:31,125
+I don't know if
+I'll be home tonight.
+
+29
+00:03:31,208 --> 00:03:33,666
+Just do what you
+want for dinner.
+
+30
+00:03:33,750 --> 00:03:35,125
+Oh...
+
+31
+00:03:35,208 --> 00:03:36,750
+[FATHER] Okay then.
+
+32
+00:03:42,833 --> 00:03:45,166
+'kay! Let's get going.
+
+33
+00:03:57,250 --> 00:03:58,833
+[SHUGO] Where is she...?
+
+34
+00:04:00,333 --> 00:04:02,458
+Hi Shugo!
+
+35
+00:04:02,541 --> 00:04:03,333
+Sorry to keep you wait--
+
+36
+00:04:03,416 --> 00:04:04,416
+You're late!
+
+37
+00:04:04,500 --> 00:04:06,500
+Ah! I-I said I'm sorry.
+
+38
+00:04:06,583 --> 00:04:10,041
+I wasn't THAT late... Hmm? Huh?
+
+39
+00:04:13,416 --> 00:04:14,958
+Aren't you that hunter...
+
+40
+00:04:15,041 --> 00:04:18,666
+The Rare Hunter of Love and
+Courage, Mireille, remember?!
+
+41
+00:04:18,750 --> 00:04:20,875
+Hey, hey, where
+are you going today?
+
+42
+00:04:20,958 --> 00:04:23,708
+Can I come with you?
+Can I? Can I? Please?
+
+43
+00:04:23,791 --> 00:04:25,208
+We haven't decided where...
+
+44
+00:04:25,291 --> 00:04:27,333
+Then I shall be
+your trusted guide.
+
+45
+00:04:27,416 --> 00:04:28,500
+[RENA] C'mon Shugo!
+
+46
+00:04:28,583 --> 00:04:32,333
+We are so outta here!
+Speed Charm!
+
+47
+00:04:32,416 --> 00:04:34,000
+HEEEY!
+
+48
+00:04:34,083 --> 00:04:36,041
+[RENA] Buh-bye.
+
+49
+00:04:36,791 --> 00:04:39,500
+It's not very nice to
+use <i>that</i> charm here!
+
+50
+00:04:47,583 --> 00:04:50,833
+As it turns out I've been
+burned pretty badly before.
+
+51
+00:04:50,916 --> 00:04:52,125
+Oh, my goodness.
+
+52
+00:04:52,208 --> 00:04:55,041
+You've been burned?
+I'm so sorry to hear that.
+
+53
+00:04:55,125 --> 00:04:58,250
+No, uh, that's not really
+what I meant to say...
+
+54
+00:04:58,333 --> 00:05:01,541
+Hm... How can I say
+it more clearly...?
+
+55
+00:05:01,625 --> 00:05:03,416
+Please, just say
+whatever you'd like.
+
+56
+00:05:03,500 --> 00:05:06,125
+Looks like we've lost her.
+
+57
+00:05:06,791 --> 00:05:07,958
+Y'know I wouldn't
+actually mind going
+
+58
+00:05:08,041 --> 00:05:10,041
+on an adventure
+with that Rare Hunter.
+
+59
+00:05:10,125 --> 00:05:13,458
+I want to explore The World
+with you, Shugo, not with her.
+
+60
+00:05:13,541 --> 00:05:15,166
+That's why we're here.
+
+61
+00:05:15,625 --> 00:05:17,166
+[SHUGO] Ah... Rena...
+
+62
+00:05:17,250 --> 00:05:19,250
+Hey... What's that?
+
+63
+00:05:19,333 --> 00:05:20,750
+[RENA] It's an event notice.
+
+64
+00:05:20,833 --> 00:05:23,958
+Whenever there is an event,
+that's how it's advertised.
+
+65
+00:05:24,041 --> 00:05:26,791
+[SHUGO] Wow! I had no idea.
+
+66
+00:05:26,875 --> 00:05:29,000
+This one's for a
+flower-viewing event
+
+67
+00:05:29,083 --> 00:05:30,291
+You can read that?
+
+68
+00:05:30,375 --> 00:05:31,791
+Well of course!
+
+69
+00:05:31,875 --> 00:05:35,875
+"Heroes, gather at the area,
+Voluptuous Cherry Maze!
+
+70
+00:05:35,958 --> 00:05:39,250
+I look forward to the
+blooming of glorious blossoms."
+
+71
+00:05:39,333 --> 00:05:41,291
+So, that actually
+means something?
+
+72
+00:05:41,375 --> 00:05:44,250
+In other words, we need to go
+to the area that it mentions,
+
+73
+00:05:44,333 --> 00:05:46,916
+then we need to figure out
+how to make the flowers bloom.
+
+74
+00:05:47,000 --> 00:05:48,666
+If you can successfully
+clear the event,
+
+75
+00:05:48,750 --> 00:05:51,458
+then you get some rare item
+to add to your inventory.
+
+76
+00:05:51,541 --> 00:05:53,375
+Hey! Sounds like fun!
+
+77
+00:05:53,458 --> 00:05:54,583
+Wanna go?
+
+78
+00:05:54,666 --> 00:05:56,333
+Can anyone enter an event?
+
+79
+00:05:56,416 --> 00:05:57,875
+Oh, of course!
+
+80
+00:05:57,958 --> 00:06:01,750
+We'll use the gate to go to
+Voluptuous Cherry Maze... Ah...
+
+81
+00:06:01,833 --> 00:06:02,583
+Is something wrong?
+
+82
+00:06:02,666 --> 00:06:03,958
+[RENA] It says here:
+
+83
+00:06:04,041 --> 00:06:06,291
+"Various skills are
+required to clear this event."
+
+84
+00:06:06,375 --> 00:06:09,166
+Shugo, It might be difficult
+for us to clear this event
+
+85
+00:06:09,250 --> 00:06:11,041
+without a Wavemaster
+in our party.
+
+86
+00:06:11,125 --> 00:06:12,583
+A Wavemaster?
+
+87
+00:06:14,708 --> 00:06:17,333
+Guess what?
+I'm a Wavemaster.
+
+88
+00:06:18,666 --> 00:06:22,125
+Maybe we can join forces and
+clear out this event together?
+
+89
+00:06:22,208 --> 00:06:23,958
+Lucky us!!
+
+90
+00:06:35,708 --> 00:06:39,041
+Uh... This area is
+Voluptuous Cherry Maze?
+
+91
+00:06:39,125 --> 00:06:40,041
+[MIREILLE] I don't get it.
+
+92
+00:06:40,125 --> 00:06:41,958
+They're not blooming at all!
+
+93
+00:06:42,041 --> 00:06:45,250
+[RENA] This is an event
+to make them bloom!
+
+94
+00:06:46,333 --> 00:06:48,791
+Cherry blossoms... Oh...
+
+95
+00:06:52,750 --> 00:06:55,583
+Might as well
+get started. Repth!
+
+96
+00:07:00,708 --> 00:07:01,916
+Nothing happened.
+
+97
+00:07:02,000 --> 00:07:03,541
+Did I miss something?
+
+98
+00:07:03,625 --> 00:07:04,500
+Uh...
+
+99
+00:07:04,583 --> 00:07:07,708
+Try this one... Pha Repth!
+
+100
+00:07:11,833 --> 00:07:15,125
+It doesn't look like recovery
+spells are the answer here.
+
+101
+00:07:16,125 --> 00:07:17,708
+I got it, you
+have to give water
+
+102
+00:07:17,791 --> 00:07:19,708
+to flowers to make
+them bloom, right?
+
+103
+00:07:19,791 --> 00:07:21,333
+Water, yeah!
+
+104
+00:07:21,416 --> 00:07:22,833
+Yeah!
+
+105
+00:07:22,916 --> 00:07:24,208
+Rue Rom!
+
+106
+00:07:35,333 --> 00:07:37,708
+I guess that
+wasn't it either...
+
+107
+00:07:37,791 --> 00:07:39,083
+[RENA] Hang on a second!
+
+108
+00:07:41,166 --> 00:07:44,375
+Try something that doesn't
+get us all soaking wet.
+
+109
+00:07:44,458 --> 00:07:45,625
+Ah! Maybe what we need
+
+110
+00:07:45,708 --> 00:07:48,041
+is some kind of item
+to help us out here.
+
+111
+00:07:48,125 --> 00:07:49,875
+I'll just go look for one!
+
+112
+00:07:49,958 --> 00:07:51,750
+Hey! Come baaaack!
+
+113
+00:07:52,958 --> 00:07:54,125
+Oh, man.
+
+114
+00:07:54,208 --> 00:07:57,000
+Now my costume's gotten
+all soaked and ruined.
+
+115
+00:07:57,083 --> 00:07:58,875
+Breathtaking
+like the dew drops
+
+116
+00:07:58,958 --> 00:08:01,000
+on a spring morning, isn't she?
+
+117
+00:08:06,500 --> 00:08:08,708
+Takes your breath
+away, for sure.
+
+118
+00:08:08,791 --> 00:08:11,166
+Uh, what's that?
+
+119
+00:08:11,250 --> 00:08:13,500
+Uh, I didn't say anything.
+
+120
+00:08:24,916 --> 00:08:27,416
+There's nothing like
+it to quench the thirst.
+
+121
+00:08:27,500 --> 00:08:31,583
+What is still lacking...
+the flowers... yes.
+
+122
+00:08:31,666 --> 00:08:33,250
+[REKI] Lord Balmung...
+
+123
+00:08:33,333 --> 00:08:35,541
+Hey, what are you doing
+hanging out here at this hour,
+
+124
+00:08:35,625 --> 00:08:38,500
+when today's event
+has already started...
+
+125
+00:08:38,583 --> 00:08:41,333
+[REKI] Oh, ah...
+you wrote code for sake?
+
+126
+00:08:41,416 --> 00:08:43,541
+You can't feel it's
+effects here, you know?
+
+127
+00:08:43,625 --> 00:08:44,750
+Don't say that.
+
+128
+00:08:44,833 --> 00:08:45,791
+This is "refined."
+
+129
+00:08:45,875 --> 00:08:46,875
+Yeah, yeah.
+
+130
+00:08:46,958 --> 00:08:48,750
+And obviously it's
+impossible for me
+
+131
+00:08:48,833 --> 00:08:50,666
+to have a sense of "refinement."
+
+132
+00:08:50,750 --> 00:08:52,666
+[BALMUNG]
+So, about that monster...
+
+133
+00:08:52,750 --> 00:08:54,666
+[REKI] It's still
+undergoing investigation.
+
+134
+00:08:54,750 --> 00:08:56,291
+Given who it is
+we're dealing with...
+
+135
+00:08:56,375 --> 00:08:59,166
+This one's going
+to take me some time.
+
+136
+00:09:01,000 --> 00:09:03,500
+[REKI] It seems that no one
+has solved the event yet...
+
+137
+00:09:03,583 --> 00:09:05,625
+[BALMUNG] The landscape
+remains dismal...
+
+138
+00:09:05,708 --> 00:09:08,250
+The beautiful sake sheds tears.
+
+139
+00:09:08,333 --> 00:09:10,333
+[REKI] Perhaps the
+event was too difficult?
+
+140
+00:09:10,416 --> 00:09:12,958
+It's all common sense.
+
+141
+00:09:19,958 --> 00:09:21,708
+The heroes have returned...
+
+142
+00:09:26,500 --> 00:09:27,958
+Cherry blossoms...
+
+143
+00:09:28,583 --> 00:09:32,250
+When we were young,
+we used to go see them a lot.
+
+144
+00:09:33,625 --> 00:09:43,208
+[children laughing]
+
+145
+00:09:43,291 --> 00:09:45,833
+[MOTHER] Shugo! Rena! Let's eat!
+
+146
+00:09:45,916 --> 00:09:47,708
+[FATHER] Or we'll eat it first.
+
+147
+00:09:47,791 --> 00:09:49,041
+[MOTHER]
+Come on you two!
+
+148
+00:09:49,125 --> 00:09:50,833
+[YOUNG RENA] We won't let you!
+
+149
+00:09:55,791 --> 00:09:58,916
+Those were
+some good times...
+
+150
+00:10:02,000 --> 00:10:04,000
+[SHUGO] Sometimes I wonder...
+
+151
+00:10:04,083 --> 00:10:07,875
+I wonder if fallen cherry
+blossoms can be brought back?
+
+152
+00:10:09,666 --> 00:10:11,333
+[RENA] Shugo,
+we need to figure out
+
+153
+00:10:11,416 --> 00:10:14,250
+a way to make those flowers
+bloom, don't you think.
+
+154
+00:10:14,333 --> 00:10:16,375
+Huh? Yeah.
+
+155
+00:10:17,041 --> 00:10:18,375
+[dog barks]
+
+156
+00:10:22,750 --> 00:10:26,666
+[SHUGO] Hey, Rena!
+It's a dog--a big doggie!
+
+157
+00:10:26,750 --> 00:10:32,250
+Give me your paw! Down. Again.
+
+158
+00:10:34,583 --> 00:10:36,083
+[SHUGO] It really likes me!
+
+159
+00:10:38,666 --> 00:10:39,750
+[RENA] You really like animals
+
+160
+00:10:39,833 --> 00:10:41,375
+don't you, big brother?
+
+161
+00:10:41,458 --> 00:10:44,708
+It's too bad Mom was allergic
+and we never got one.
+
+162
+00:10:44,791 --> 00:10:46,541
+I wonder where
+it came from?
+
+163
+00:10:46,625 --> 00:10:47,833
+Do you think I can get one?
+
+164
+00:10:47,916 --> 00:10:49,250
+Uh, I don't remember reading
+
+165
+00:10:49,333 --> 00:10:52,875
+about there being any dog
+raising here in The World.
+
+166
+00:10:52,958 --> 00:10:54,583
+I want one!
+
+167
+00:10:55,458 --> 00:10:56,291
+[BALMUNG] You want one?
+
+168
+00:10:56,375 --> 00:10:57,833
+Yeah, you bet!
+
+169
+00:10:59,708 --> 00:11:01,083
+[SHUGO]  Hey, I know you.
+
+170
+00:11:01,166 --> 00:11:03,041
+You're that guy
+who saved us before.
+
+171
+00:11:03,125 --> 00:11:04,833
+That's Lord Balmung!
+
+172
+00:11:04,916 --> 00:11:08,125
+Whaddya mean...
+"Lord" Balmung.
+
+173
+00:11:11,041 --> 00:11:14,500
+So, Kite...
+and BlackRose...
+
+174
+00:11:17,000 --> 00:11:18,041
+That's right!
+
+175
+00:11:18,125 --> 00:11:20,083
+I've read about this before!
+
+176
+00:11:20,166 --> 00:11:24,083
+"Beneath the blooming cherry
+trees are buried corpses!"
+
+177
+00:11:24,166 --> 00:11:26,958
+I haven't spotted any
+conspicuous items nearby so,
+
+178
+00:11:27,041 --> 00:11:30,750
+if I unearth a corpse or two,
+the cherries just have to bloom.
+
+179
+00:11:30,833 --> 00:11:32,916
+A character contest?
+
+180
+00:11:33,000 --> 00:11:35,500
+Yeah! It was a great victory.
+
+181
+00:11:35,583 --> 00:11:37,250
+My name is Rena.
+
+182
+00:11:37,333 --> 00:11:40,750
+The one here in the Kite costume
+is my twin brother, Shugo!
+
+183
+00:11:40,833 --> 00:11:42,125
+Hello.
+
+184
+00:11:42,208 --> 00:11:45,250
+Rena... Shugo...
+
+185
+00:11:47,833 --> 00:11:49,083
+[BALMUNG]
+That bracelet...
+
+186
+00:11:49,166 --> 00:11:51,125
+[SHUGO] Oh, this...
+
+187
+00:11:51,208 --> 00:11:53,875
+I got it... from
+a girl all in white.
+
+188
+00:11:56,375 --> 00:11:57,708
+I guess there must
+have been some kind of
+
+189
+00:11:57,791 --> 00:12:00,458
+special event attached
+to this character.
+
+190
+00:12:00,541 --> 00:12:03,375
+She told me, "Only you
+can save this world,"
+
+191
+00:12:03,458 --> 00:12:05,041
+then she gave this to me.
+
+192
+00:12:05,875 --> 00:12:07,500
+Please help...
+
+193
+00:12:11,166 --> 00:12:12,375
+[BALMUNG thinking]
+Aura...?
+
+194
+00:12:12,458 --> 00:12:17,375
+[MIREILLE] Ah! I found it!
+
+195
+00:12:17,458 --> 00:12:19,458
+I knew I was right
+about this one!
+
+196
+00:12:19,541 --> 00:12:23,083
+If I make the flowers bloom,
+the rare item will be mine!
+
+197
+00:12:35,666 --> 00:12:37,416
+Ah... you gotta
+be kiddin' me!
+
+198
+00:12:37,500 --> 00:12:39,125
+A Fighting Bones?
+
+199
+00:12:42,208 --> 00:12:44,208
+[SHUGO] Uhm... How come
+you've been so quiet
+
+200
+00:12:44,291 --> 00:12:45,666
+for such a long time?
+
+201
+00:12:45,750 --> 00:12:49,000
+You can tell us,
+if something is bothering you.
+
+202
+00:12:49,083 --> 00:12:52,000
+Or is it really that you want
+this bracelet for yourself?
+
+203
+00:12:52,083 --> 00:12:53,458
+Hey, Shugo!
+
+204
+00:12:53,541 --> 00:12:54,958
+Don't insult Lord Balmung
+after what he's done for us.
+
+205
+00:12:55,041 --> 00:12:57,333
+Hey, it was only a little joke!
+
+206
+00:12:57,416 --> 00:12:59,666
+[BALMUNG] If only it were...
+
+207
+00:12:59,750 --> 00:13:02,416
+Huh?
+
+208
+00:13:02,500 --> 00:13:05,333
+Lord Balmung,
+I know it's a little late
+
+209
+00:13:05,416 --> 00:13:07,875
+but could you tell me something?
+
+210
+00:13:07,958 --> 00:13:09,500
+[BALMUNG] Mm?
+
+211
+00:13:09,583 --> 00:13:13,416
+Uh, back at the
+dangerous spot the other day...
+
+212
+00:13:13,500 --> 00:13:15,416
+...when you came in
+and saved me...
+
+213
+00:13:15,500 --> 00:13:17,750
+[MIREILLE]
+Heeeelp!!
+
+214
+00:13:33,291 --> 00:13:34,916
+[MIREILLE] No way!!!
+
+215
+00:13:39,958 --> 00:13:41,166
+Mireille?
+
+216
+00:13:42,083 --> 00:13:43,250
+What's going on?
+
+217
+00:13:52,250 --> 00:13:53,458
+What's going on?
+
+218
+00:13:53,541 --> 00:13:55,875
+And why is there a
+Fighting Bones here anyway?
+
+219
+00:13:55,958 --> 00:13:58,125
+Is it supposed to
+be part of the event?
+
+220
+00:13:58,208 --> 00:13:59,625
+Impossible.
+
+221
+00:13:59,708 --> 00:14:02,750
+I never intended for there
+to be monsters in this event!
+
+222
+00:14:02,833 --> 00:14:04,000
+Lord Balmung!
+
+223
+00:14:04,083 --> 00:14:05,416
+Reki? Was it you?!
+
+224
+00:14:05,500 --> 00:14:06,666
+It wasn't me, sir!
+
+225
+00:14:06,750 --> 00:14:09,083
+I don't have that
+kind of time to waste!
+
+226
+00:14:09,166 --> 00:14:11,250
+[SHUGO] Is that monster strong?
+
+227
+00:14:11,333 --> 00:14:13,791
+[RENA] Insanely strong!
+If they put one in here,
+
+228
+00:14:13,875 --> 00:14:16,416
+there'd be no way
+for a newbie to enter.
+
+229
+00:14:29,625 --> 00:14:31,083
+Vak Revolver!
+
+230
+00:14:39,791 --> 00:14:40,625
+[BALMUNG] That can't be...
+
+231
+00:14:40,708 --> 00:14:41,375
+No way!
+
+232
+00:14:41,458 --> 00:14:42,416
+It's reviving!
+
+233
+00:14:42,500 --> 00:14:44,416
+[BALMUNG] Reki!
+It's dangerous here!
+
+234
+00:14:44,500 --> 00:14:46,625
+Evacuate all player
+characters from this area!
+
+235
+00:14:46,708 --> 00:14:47,750
+Yes, sir.
+
+236
+00:14:47,833 --> 00:14:48,833
+All of you should
+get out of this area
+
+237
+00:14:48,916 --> 00:14:50,541
+as quickly as you can!
+
+238
+00:14:55,375 --> 00:14:56,958
+What's happening to this game?
+
+239
+00:15:03,375 --> 00:15:04,458
+Rena!
+
+240
+00:15:04,541 --> 00:15:05,791
+Oh, Shugo!
+
+241
+00:15:07,458 --> 00:15:08,541
+Rena!
+
+242
+00:15:09,458 --> 00:15:11,291
+Shugo! Help!
+
+243
+00:15:11,375 --> 00:15:15,375
+Rena! Data... Drain!
+
+244
+00:15:36,083 --> 00:15:38,208
+Wh-Why can't I move my sword?
+
+245
+00:15:38,291 --> 00:15:39,708
+Could the Data Drain
+be affecting
+
+246
+00:15:39,791 --> 00:15:42,041
+everyone in the immediate area?
+
+247
+00:15:42,125 --> 00:15:43,916
+[MIREILLE] This is for
+scaring me half to death!
+
+248
+00:15:44,000 --> 00:15:46,708
+Vak Don! Vak Don! Vak Don!
+
+249
+00:15:46,791 --> 00:15:49,083
+Oh! Why won't my spells work?
+
+250
+00:15:50,208 --> 00:15:52,875
+Rena... Hey, are you all right?
+
+251
+00:15:54,583 --> 00:15:55,958
+Oh, my Shugo!
+
+252
+00:15:56,041 --> 00:15:57,500
+Eh?
+
+253
+00:15:57,583 --> 00:15:59,166
+I... really...
+
+254
+00:15:59,250 --> 00:16:01,125
+...LOVE YOU, Shugo!
+
+255
+00:16:06,500 --> 00:16:09,958
+Rena... What are
+you doing? Stop it!
+
+256
+00:16:10,041 --> 00:16:13,333
+Oh, you are soooo brave.
+
+257
+00:16:13,416 --> 00:16:15,625
+Rena... you know...
+
+258
+00:16:15,708 --> 00:16:18,666
+we're brother and sister.
+You're freaking me out.
+
+259
+00:16:18,750 --> 00:16:19,833
+[OHKA] Shugo!
+
+260
+00:16:23,333 --> 00:16:25,083
+[OHKA] Shugo!
+Leave the rest to me!
+
+261
+00:16:26,375 --> 00:16:27,833
+Uh, who said that?
+
+262
+00:16:31,666 --> 00:16:40,583
+Oh...
+
+263
+00:16:40,666 --> 00:16:42,750
+Well, that was my
+first transformation,
+
+264
+00:16:42,833 --> 00:16:45,041
+I guess I just blew
+my cover completely, huh?
+
+265
+00:16:45,791 --> 00:16:48,250
+[MIREILLE] Ohka!
+Ohka's fighting with us!
+
+266
+00:16:48,333 --> 00:16:49,583
+[SHUGO] She's a friend of yours?
+
+267
+00:16:49,666 --> 00:16:51,625
+[MIREILLE]
+Yup! Divine Fist Ohka!
+
+268
+00:16:51,708 --> 00:16:54,583
+One of the most famous
+melee fighters in The World!
+
+269
+00:16:54,666 --> 00:16:57,458
+She's INCREDIBLY strong!
+
+270
+00:17:02,000 --> 00:17:04,916
+[OHKA] Shugo, you know
+you're wrong about one thing.
+
+271
+00:17:05,000 --> 00:17:06,250
+Eh?
+
+272
+00:17:11,000 --> 00:17:12,083
+Man, how brittle...
+
+273
+00:17:12,166 --> 00:17:14,208
+you must have
+a calcium deficiency.
+
+274
+00:17:16,625 --> 00:17:18,833
+[OHKA] And I'm not
+a dog I'm a wolf.
+
+275
+00:17:20,291 --> 00:17:23,166
+Actually I'm a
+werewolf, to be specific.
+
+276
+00:17:23,250 --> 00:17:25,125
+You're a werewolf?
+
+277
+00:17:25,208 --> 00:17:27,291
+And I'm not
+through with you yet!
+
+278
+00:17:38,916 --> 00:17:40,958
+Divine Fist Ohka...
+
+279
+00:17:41,041 --> 00:17:44,083
+There can be no doubt
+she deserves her reputation.
+
+280
+00:17:44,166 --> 00:17:45,583
+So strong...
+
+281
+00:17:55,666 --> 00:17:59,166
+[MIREILLE] She truly
+is Divine Fist Ohka!
+
+282
+00:18:02,875 --> 00:18:06,166
+The effects of the Data Drain
+have finally worn off...
+
+283
+00:18:06,250 --> 00:18:09,208
+Uh, Shugo,
+what am I doing here with you?
+
+284
+00:18:09,291 --> 00:18:11,875
+Rena? You're all right now?
+
+285
+00:18:13,333 --> 00:18:15,166
+[RENA] Put me down, Shugo!
+
+286
+00:18:15,250 --> 00:18:18,291
+Ok, I'll put you down but
+you're the one that said, uh...
+
+287
+00:18:18,375 --> 00:18:19,416
+Oh, wow!
+
+288
+00:18:19,500 --> 00:18:20,708
+Strange things are
+certainly happening
+
+289
+00:18:20,791 --> 00:18:22,833
+around Shugo and Rena again.
+
+290
+00:18:22,916 --> 00:18:25,333
+Oh, those limited-
+edition characters!
+
+291
+00:18:32,125 --> 00:18:34,041
+Hey, Mireille!
+Don't look now but...
+
+292
+00:18:34,125 --> 00:18:35,541
+It can't be!
+
+293
+00:18:35,625 --> 00:18:38,291
+Your spells you cast earlier
+are finally taking effect.
+
+294
+00:18:48,791 --> 00:18:51,208
+Aww! The cherry trees!
+
+295
+00:18:55,333 --> 00:18:56,625
+That's it!
+
+296
+00:19:01,125 --> 00:19:03,291
+The Old Man Who
+Made the Flowers Bloom!
+
+297
+00:19:03,375 --> 00:19:04,875
+The Old Man Who did what?
+
+298
+00:19:04,958 --> 00:19:06,083
+[SHUGO]
+The old folk tale!
+
+299
+00:19:06,166 --> 00:19:07,708
+Upon the withered trees...
+
+300
+00:19:07,791 --> 00:19:09,666
+Let's make the flowers bloom!
+
+301
+00:19:15,083 --> 00:19:17,208
+Yes, that's correct!
+
+302
+00:19:17,291 --> 00:19:18,416
+[MIREILLE]
+All right then!
+
+303
+00:19:19,875 --> 00:19:21,375
+Juk Rom!
+
+304
+00:19:23,166 --> 00:19:24,291
+Ahhh...
+
+305
+00:19:55,041 --> 00:19:56,791
+[REKI] I don't understand.
+
+306
+00:19:56,875 --> 00:19:59,125
+Why did the Fighting
+Bones appear...?
+
+307
+00:19:59,208 --> 00:20:01,875
+Was it a data corruption?
+
+308
+00:20:02,875 --> 00:20:06,166
+Right now, too many
+things are worrying me.
+
+309
+00:20:07,958 --> 00:20:09,125
+[BALMUNG]
+But now...
+
+310
+00:20:11,500 --> 00:20:12,958
+Just for this moment...
+
+311
+00:20:13,041 --> 00:20:15,375
+Let us enjoy the
+wondrous cherry blossoms.
+
+312
+00:20:15,458 --> 00:20:16,750
+[REKI] Uh... Yes, sir.
+
+313
+00:20:16,833 --> 00:20:19,708
+[MIREILLE] Ah! We found it!
+We got the rare item!
+
+314
+00:20:21,875 --> 00:20:22,833
+Shugo was the one
+
+315
+00:20:22,916 --> 00:20:24,416
+that cleared today's
+event, remember.
+
+316
+00:20:24,500 --> 00:20:25,791
+The item is his...
+
+317
+00:20:25,875 --> 00:20:29,125
+Ah! Rare item!!! I want it!!
+I want it!! I want it!!
+
+318
+00:20:29,208 --> 00:20:31,291
+[MIREILLE] What is it?!
+What is it?! What is it?!
+
+319
+00:20:31,375 --> 00:20:32,083
+Oooh...?
+
+320
+00:20:32,166 --> 00:20:33,541
+[OHKA] Chill out Mireille.
+
+321
+00:20:34,833 --> 00:20:37,541
+[SHUGO] Uh... What is this?
+
+322
+00:20:37,625 --> 00:20:40,000
+It looks kinda
+like a dog collar...
+
+323
+00:20:40,083 --> 00:20:42,416
+That doesn't
+make much sense.
+
+324
+00:20:43,750 --> 00:20:46,125
+Oh! It's about the Old Man
+Who Made Flowers Bloom.
+
+325
+00:20:46,208 --> 00:20:48,666
+Hey, didn't he have a
+dog in that story?
+
+326
+00:20:48,750 --> 00:20:50,875
+So this has to be its collar!
+
+327
+00:20:51,416 --> 00:20:55,000
+[SHUGO] Are you kidding me?!
+What am I going to do with this?
+
+328
+00:20:55,083 --> 00:20:58,666
+You can't raise dogs
+in The World, can you?
+
+329
+00:20:58,750 --> 00:21:00,166
+You could always...
+
+330
+00:21:00,250 --> 00:21:02,500
+...put it on me,
+if you felt like it.
+
+331
+00:21:03,458 --> 00:21:06,000
+I wouldn't mind it... fly boy.
+
+332
+00:21:06,083 --> 00:21:08,583
+Uh, yeah... I don't...
+
+333
+00:21:08,666 --> 00:21:10,291
+That sounds like a good idea.
+
+334
+00:21:10,375 --> 00:21:11,541
+[RENA] Uh, Shugo!
+
+335
+00:21:11,625 --> 00:21:13,708
+I just remembered
+I have to go make dinner!
+
+336
+00:21:13,791 --> 00:21:15,083
+Let's go, NOW!
+
+337
+00:21:15,166 --> 00:21:17,958
+That girl is certainly
+serious about making dinner.
+
+338
+00:21:18,041 --> 00:21:20,333
+I'll treasure this
+necklace always.
+
+339
+00:21:20,416 --> 00:21:23,208
+If you ever need me
+just send me a message.
+
+340
+00:22:01,958 --> 00:22:03,916
+[RENA] I've got
+information on items!
+
+341
+00:22:04,000 --> 00:22:06,916
+If you go to the area
+Blazing Purgatory Valley
+
+342
+00:22:07,000 --> 00:22:10,250
+you can supposedly get a
+hold of a Phoenix Feather.
+
+343
+00:22:10,333 --> 00:22:13,125
+Hey, Shugo, this is
+your chance to be a hero!
+
+344
+00:22:13,208 --> 00:22:14,291
+...Or not.
+
+345
+00:22:14,375 --> 00:22:16,041
+Hey, who is that?!
+
