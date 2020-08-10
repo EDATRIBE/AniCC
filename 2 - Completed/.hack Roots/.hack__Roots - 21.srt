@@ -1,0 +1,1748 @@
+﻿1
+00:02:07,000 --> 00:02:08,625
+Hey, are you okay?
+
+2
+00:02:08,708 --> 00:02:12,875
+What happened?
+
+3
+00:02:12,958 --> 00:02:14,250
+[MIDORI]
+Tri-Edge!
+
+4
+00:02:17,875 --> 00:02:19,166
+Tri-Edge?
+
+5
+00:02:25,250 --> 00:02:26,583
+Hey did you hear
+there's a Player Character
+
+6
+00:02:26,666 --> 00:02:28,541
+that got away from Tri-Edge?
+
+7
+00:02:28,625 --> 00:02:29,541
+Of course!
+
+8
+00:02:29,625 --> 00:02:30,583
+It wouldn't be
+such a big deal
+
+9
+00:02:30,666 --> 00:02:32,166
+if everyone who
+encountered Tri-Edge
+
+10
+00:02:32,250 --> 00:02:33,458
+simply became a Lost One.
+
+11
+00:02:33,541 --> 00:02:34,791
+Yeah, that's true.
+
+12
+00:02:34,875 --> 00:02:35,958
+So, who was it?
+
+13
+00:02:36,041 --> 00:02:37,500
+It wasn't the
+Black Adept Rogue, was it?
+
+14
+00:02:37,583 --> 00:02:40,291
+No, it was
+a Blue Edge Punisher.
+
+15
+00:02:40,375 --> 00:02:41,833
+Really?
+
+16
+00:02:41,916 --> 00:02:44,916
+[IITA] I think the one that
+got away is that stuffed animal,
+
+17
+00:02:45,000 --> 00:02:47,458
+the one who always sits
+at the edge of the canal.
+
+18
+00:02:47,541 --> 00:02:50,875
+[PILOCCIO] Yeah it could be,
+but he's a Harvest Cleric
+
+19
+00:02:50,958 --> 00:02:52,541
+and he's more brown than blue.
+
+20
+00:02:52,625 --> 00:02:54,416
+Yeah, I guess you're right.
+
+21
+00:02:54,500 --> 00:02:56,791
+I'm going to the port
+to gather some information.
+
+22
+00:03:05,458 --> 00:03:07,416
+It's definitely
+this Player Character.
+
+23
+00:03:07,500 --> 00:03:09,541
+[YATA/NAOBI]
+So she escaped Tri-Edge.
+
+24
+00:03:09,625 --> 00:03:12,291
+She looks like
+a rare character.
+
+25
+00:03:12,375 --> 00:03:15,625
+[PI/ENDER] That one
+is legitimate, though.
+
+26
+00:03:16,375 --> 00:03:17,375
+Tri-Edge.
+
+27
+00:03:17,458 --> 00:03:18,500
+The Lost Ones.
+
+28
+00:03:18,583 --> 00:03:20,416
+A series of
+mysterious phenomena.
+
+29
+00:03:20,500 --> 00:03:23,000
+Is this PC
+just another player
+
+30
+00:03:23,083 --> 00:03:25,250
+that got swept up
+with the tides,
+
+31
+00:03:25,333 --> 00:03:29,291
+or is there something
+more at play here...?
+
+32
+00:03:30,291 --> 00:03:31,916
+What would you
+like me to do?
+
+33
+00:03:32,000 --> 00:03:33,083
+Well, Pi.
+
+34
+00:03:33,166 --> 00:03:34,625
+Yes.
+
+35
+00:03:34,708 --> 00:03:37,708
+Think like Ovan would think,
+then act like Ovan would act.
+
+36
+00:03:37,791 --> 00:03:40,458
+I see.
+
+37
+00:03:59,625 --> 00:04:00,750
+[TABBY]
+Where's Phyllo?
+
+38
+00:04:00,833 --> 00:04:02,625
+[TOUTA/TAWARAYA]
+Hi there!
+
+39
+00:04:02,708 --> 00:04:04,958
+I haven't seen
+him yet today.
+
+40
+00:04:05,041 --> 00:04:06,291
+Oh.
+
+41
+00:04:06,375 --> 00:04:07,791
+He's usually here,
+
+42
+00:04:07,875 --> 00:04:09,958
+so it seems kinda weird
+when he's not around.
+
+43
+00:04:10,041 --> 00:04:12,583
+Is something going on?
+
+44
+00:04:12,666 --> 00:04:15,791
+You don't have
+time to talk do you?
+
+45
+00:04:15,875 --> 00:04:17,000
+Sure.
+
+46
+00:04:17,083 --> 00:04:18,375
+I was wondering...
+
+47
+00:04:18,458 --> 00:04:23,958
+If I were Shino, what
+would I be doing right now?
+
+48
+00:04:24,666 --> 00:04:26,166
+I've been thinking
+this whole time
+
+49
+00:04:26,250 --> 00:04:28,875
+about what it
+is that I can do.
+
+50
+00:04:28,958 --> 00:04:32,541
+But no matter
+how hard I try
+
+51
+00:04:32,625 --> 00:04:35,166
+I can't be like Shino.
+
+52
+00:04:35,250 --> 00:04:38,583
+So, I should just do
+my best with what I can do.
+
+53
+00:04:38,666 --> 00:04:40,291
+And what would that be?
+
+54
+00:04:40,375 --> 00:04:43,291
+I'm actually not too
+sure about what to do.
+
+55
+00:04:43,375 --> 00:04:46,208
+That's why I came
+to get Phyllo's advice.
+
+56
+00:04:48,833 --> 00:04:51,041
+I think that you
+should be a guild master.
+
+57
+00:04:51,125 --> 00:04:52,458
+Huh?
+
+58
+00:04:52,541 --> 00:04:54,333
+There are things
+you can do with a team
+
+59
+00:04:54,416 --> 00:04:55,916
+that you simply
+can't do alone.
+
+60
+00:04:56,000 --> 00:04:58,083
+Why don't you just
+make a guild for now?
+
+61
+00:04:58,166 --> 00:05:00,291
+Then see where
+things go from there.
+
+62
+00:05:19,000 --> 00:05:20,166
+It's really too bad...
+
+63
+00:05:20,250 --> 00:05:22,708
+but like I said,
+you guys are no match for me.
+
+64
+00:05:22,791 --> 00:05:24,208
+Come on.
+
+65
+00:05:24,291 --> 00:05:26,083
+How can you really know that
+for sure until you try us?
+
+66
+00:05:26,166 --> 00:05:29,458
+Well, maybe the
+rumors are false.
+
+67
+00:05:37,833 --> 00:05:40,250
+[HASEO] The word on the street
+is that you know Tri-Edge.
+
+68
+00:05:40,333 --> 00:05:42,541
+Master Yata.
+
+69
+00:05:49,208 --> 00:05:51,166
+This is beyond anything
+we could have expected.
+
+70
+00:06:13,500 --> 00:06:15,625
+Is that all you've got?
+
+71
+00:06:22,083 --> 00:06:25,333
+[SABURO] Man! That punk!
+
+72
+00:06:25,416 --> 00:06:27,375
+I can't get that
+guy out of my head.
+
+73
+00:06:35,666 --> 00:06:39,750
+Don't think you can scare
+me with your brute strength.
+
+74
+00:06:39,833 --> 00:06:43,875
+I am who I am because
+I'm able to wield this power.
+
+75
+00:06:43,958 --> 00:06:44,791
+What do you want?
+
+76
+00:06:44,875 --> 00:06:46,666
+Your "hit-me-if-you-can"
+service.
+
+77
+00:06:46,750 --> 00:06:48,416
+I get one minute, right?
+
+78
+00:06:48,500 --> 00:06:50,083
+Is that what you came for?
+
+79
+00:06:50,166 --> 00:06:51,500
+How much?
+
+80
+00:06:51,583 --> 00:06:56,333
+If you become a repeat customer,
+the first time is free.
+
+81
+00:06:57,041 --> 00:06:59,125
+So that's why
+I started up a guild,
+
+82
+00:06:59,208 --> 00:07:01,750
+but I still don't
+know what to do.
+
+83
+00:07:01,833 --> 00:07:04,291
+[SEISAKU] Personally, I think
+you should take things in order.
+
+84
+00:07:04,375 --> 00:07:05,583
+Huh?
+
+85
+00:07:05,666 --> 00:07:10,958
+First, what do
+you want to do?
+
+86
+00:07:11,041 --> 00:07:13,083
+I really wanna help Haseo.
+
+87
+00:07:13,166 --> 00:07:14,416
+What do you
+mean help?
+
+88
+00:07:14,500 --> 00:07:17,208
+I think that maybe
+I'm capable of healing people.
+
+89
+00:07:17,291 --> 00:07:19,583
+Not just Haseo, but I'm
+certain I can revive others
+
+90
+00:07:19,666 --> 00:07:22,666
+including those people
+who've been killed by Haseo.
+
+91
+00:07:22,750 --> 00:07:26,375
+Healing is not a job
+for a Tribal Grappler.
+
+92
+00:07:26,458 --> 00:07:30,166
+But I could... if I carried
+the maximum number of items.
+
+93
+00:07:30,250 --> 00:07:32,333
+There's no way
+you can get
+
+94
+00:07:32,416 --> 00:07:33,750
+enough money to do
+something like that.
+
+95
+00:07:33,833 --> 00:07:35,375
+I guess.
+
+96
+00:07:35,458 --> 00:07:37,083
+But you did ask me
+what I want to do.
+
+97
+00:07:39,583 --> 00:07:41,583
+True.
+
+98
+00:07:41,666 --> 00:07:42,500
+Alright,
+let's move on.
+
+99
+00:07:42,583 --> 00:07:44,166
+Next you have
+to figure out
+
+100
+00:07:44,250 --> 00:07:48,291
+what you need to do
+in order to achieve that.
+
+101
+00:07:48,375 --> 00:07:50,000
+I don't know.
+
+102
+00:07:52,500 --> 00:07:53,500
+I'll give you
+a hand.
+
+103
+00:07:53,583 --> 00:07:56,458
+Huh?
+
+104
+00:07:56,916 --> 00:07:58,583
+Listen I'll do whatever
+you need me to do.
+
+105
+00:07:58,666 --> 00:08:00,625
+So why don't we do
+our best together?
+
+106
+00:08:22,500 --> 00:08:23,333
+That's all you get.
+
+107
+00:08:23,416 --> 00:08:27,250
+Your free minute is up.
+
+108
+00:08:27,333 --> 00:08:28,958
+So I guess that's it.
+
+109
+00:08:29,041 --> 00:08:30,666
+Master Yata,
+look at this.
+
+110
+00:08:34,416 --> 00:08:35,708
+I've just finished
+investigating
+
+111
+00:08:35,791 --> 00:08:38,416
+the details
+of her player log.
+
+112
+00:08:38,500 --> 00:08:40,333
+It's here at
+Briona Gwydion.
+
+113
+00:08:40,416 --> 00:08:41,708
+Give me the gist of it.
+
+114
+00:08:41,791 --> 00:08:44,458
+Please wait,
+there's one more.
+
+115
+00:08:44,541 --> 00:08:51,375
+This is the log of
+Tri-Edge and Ovan's battle.
+
+116
+00:08:51,458 --> 00:08:53,541
+Same time, same place.
+
+117
+00:08:53,625 --> 00:08:55,208
+In other words,
+she witnessed
+
+118
+00:08:55,291 --> 00:08:57,583
+the battle between
+Tri-Edge and Ovan.
+
+119
+00:08:57,666 --> 00:09:01,083
+She was there
+the entire time.
+
+120
+00:09:01,166 --> 00:09:02,250
+Very interesting.
+
+121
+00:09:02,333 --> 00:09:04,791
+But that event is
+already in the past.
+
+122
+00:09:04,875 --> 00:09:06,083
+Tell me.
+
+123
+00:09:06,166 --> 00:09:08,083
+What are you going to do
+with this information?
+
+124
+00:09:08,166 --> 00:09:09,750
+As you said,
+I will think like Ovan
+
+125
+00:09:09,833 --> 00:09:12,916
+and I will act like Ovan.
+
+126
+00:09:13,000 --> 00:09:14,875
+Welcome back Pilo.
+
+127
+00:09:14,958 --> 00:09:16,041
+"Hit-me-if-you-can."
+
+128
+00:09:16,125 --> 00:09:17,541
+Huh?
+
+129
+00:09:17,625 --> 00:09:19,750
+The survivor Midori has a
+"hit-me-if-you-can" business.
+
+130
+00:09:19,833 --> 00:09:22,833
+I don't get it.
+
+131
+00:09:22,916 --> 00:09:23,750
+Basically,
+for the right price
+
+132
+00:09:23,833 --> 00:09:26,583
+anybody can try
+and attack her.
+
+133
+00:09:26,666 --> 00:09:29,041
+No, I still
+don't understand.
+
+134
+00:09:29,125 --> 00:09:30,875
+She puts a bounty on herself
+
+135
+00:09:30,958 --> 00:09:33,125
+and gets other players
+to pay to challenge her.
+
+136
+00:09:33,208 --> 00:09:35,500
+If they can hit her once,
+they get a reward.
+
+137
+00:09:35,583 --> 00:09:37,416
+If not, she keeps the cash.
+
+138
+00:09:37,500 --> 00:09:39,500
+It really must be
+the end of this world
+
+139
+00:09:39,583 --> 00:09:41,500
+for a business like
+that to be profitable.
+
+140
+00:09:41,583 --> 00:09:43,083
+Is it really
+successful?
+
+141
+00:09:43,166 --> 00:09:45,291
+It seems to be.
+
+142
+00:09:45,375 --> 00:09:48,916
+Welcome to our shop!
+
+143
+00:09:49,000 --> 00:09:50,000
+Where's Touta?
+
+144
+00:09:50,083 --> 00:09:51,000
+Do you know him?
+
+145
+00:09:51,083 --> 00:09:52,333
+Well, yes.
+
+146
+00:09:52,416 --> 00:09:53,916
+The reason I'm here is
+to offer some information.
+
+147
+00:09:54,000 --> 00:09:57,000
+Sorry, but we don't buy
+or sell information here.
+
+148
+00:09:57,083 --> 00:09:59,750
+I'm not trying
+to sell information.
+
+149
+00:09:59,833 --> 00:10:02,041
+I said "offer," didn't I?
+
+150
+00:10:02,125 --> 00:10:04,708
+Well that
+probably won't work.
+
+151
+00:10:04,791 --> 00:10:05,916
+There's nothing more
+expensive than what's free.
+
+152
+00:10:06,000 --> 00:10:07,333
+It's not like
+I'm not offering
+
+153
+00:10:07,416 --> 00:10:09,250
+the information
+to you anyway.
+
+154
+00:10:09,333 --> 00:10:10,333
+Touta should be the one
+
+155
+00:10:10,416 --> 00:10:12,000
+to make that decision,
+don't you think?
+
+156
+00:10:12,083 --> 00:10:14,208
+Yeah, I guess...
+
+157
+00:10:15,416 --> 00:10:18,166
+Alright then... so...
+you wanna hear it?
+
+158
+00:10:51,166 --> 00:10:52,458
+Hi!
+
+159
+00:10:55,500 --> 00:10:56,750
+Hold on a minute--
+
+160
+00:10:56,833 --> 00:10:58,666
+You can have
+this PC body back.
+
+161
+00:10:58,750 --> 00:10:59,875
+What do I need to do?
+
+162
+00:10:59,958 --> 00:11:02,166
+If I log out, will that
+do the trick for ya?
+
+163
+00:11:02,250 --> 00:11:03,125
+Huh?
+
+164
+00:11:03,208 --> 00:11:04,916
+You did say you
+wanted to use it.
+
+165
+00:11:05,000 --> 00:11:07,250
+So I'm giving it back now.
+
+166
+00:11:07,333 --> 00:11:09,250
+What are you up to?
+
+167
+00:11:09,333 --> 00:11:10,333
+Nothing at all.
+
+168
+00:11:10,416 --> 00:11:11,875
+Don't you think
+it's much better to have
+
+169
+00:11:11,958 --> 00:11:14,416
+a cheap crappy car that
+I can use whenever I want,
+
+170
+00:11:14,500 --> 00:11:16,083
+than a fancy expensive car
+
+171
+00:11:16,166 --> 00:11:17,666
+that could be taken
+away at any moment?
+
+172
+00:11:17,750 --> 00:11:19,666
+I actually
+understand you for once.
+
+173
+00:11:19,750 --> 00:11:21,416
+So what are you
+planning to do
+
+174
+00:11:21,500 --> 00:11:22,916
+with your cheap crappy car
+
+175
+00:11:23,000 --> 00:11:24,500
+that you can use
+whenever you want?
+
+176
+00:11:24,583 --> 00:11:26,041
+I'll give you a hint!
+
+177
+00:11:26,125 --> 00:11:27,958
+Haseo.
+
+178
+00:11:28,666 --> 00:11:31,250
+I think I'd just like to
+watch him a little bit more.
+
+179
+00:11:31,333 --> 00:11:32,541
+I don't need it.
+
+180
+00:11:32,625 --> 00:11:33,708
+What?
+
+181
+00:11:33,791 --> 00:11:35,041
+That Player Character
+is useless anyway,
+
+182
+00:11:35,125 --> 00:11:36,625
+you can have it.
+
+183
+00:11:36,708 --> 00:11:37,875
+But why?
+
+184
+00:11:37,958 --> 00:11:40,333
+Like I said,
+it's become useless to me.
+
+185
+00:11:40,416 --> 00:11:42,750
+Didn't I just tell you
+I don't need it anymore?
+
+186
+00:11:42,833 --> 00:11:45,000
+No matter how long
+you keep sour milk,
+
+187
+00:11:45,083 --> 00:11:47,500
+it's not like you're ever
+gonna drink it again, are you?
+
+188
+00:11:47,583 --> 00:11:49,583
+Even if it ferments
+and turns into cheese,
+
+189
+00:11:49,666 --> 00:11:52,750
+that's not
+the original intent--
+
+190
+00:11:52,833 --> 00:11:54,083
+I take back
+what I said
+
+191
+00:11:54,166 --> 00:11:56,333
+'cause I'm sick of
+your stupid metaphors!
+
+192
+00:11:56,416 --> 00:11:57,833
+Really?
+
+193
+00:11:57,916 --> 00:11:58,916
+That's right.
+
+194
+00:11:59,000 --> 00:12:01,000
+I'm giving you
+that PC body.
+
+195
+00:12:01,083 --> 00:12:04,250
+Don't come
+near me again!
+
+196
+00:12:04,333 --> 00:12:06,291
+So those are the conditions
+for me to be free?
+
+197
+00:12:10,666 --> 00:12:15,000
+Sometimes it's like dealing
+with a grouchy five-year-old.
+
+198
+00:12:15,083 --> 00:12:16,500
+What a brat.
+
+199
+00:12:22,791 --> 00:12:23,541
+Hi guys!
+
+200
+00:12:23,625 --> 00:12:25,625
+How's business coming along?
+
+201
+00:12:25,708 --> 00:12:26,791
+Oh, hey Touta!
+
+202
+00:12:26,875 --> 00:12:29,041
+Pilo and I got some
+amazing information!
+
+203
+00:12:29,125 --> 00:12:31,625
+Yeah it's about
+the player who witnessed
+
+204
+00:12:31,708 --> 00:12:34,583
+the battle between
+Tri-Edge and another PC.
+
+205
+00:12:34,666 --> 00:12:36,000
+You guys know who it is?
+
+206
+00:12:36,083 --> 00:12:38,375
+And we also learned that
+the player in question
+
+207
+00:12:38,458 --> 00:12:40,833
+actually fought
+with Tri-Edge too!
+
+208
+00:12:40,916 --> 00:12:43,166
+So I guess that would
+make them a witness as
+
+209
+00:12:43,250 --> 00:12:44,750
+well as a survivor then.
+
+210
+00:12:44,833 --> 00:12:45,958
+Got a name yet?
+
+211
+00:12:46,041 --> 00:12:47,041
+Midori.
+
+212
+00:12:47,125 --> 00:12:48,250
+Midori.
+
+213
+00:12:48,333 --> 00:12:49,916
+She isn't logged in
+right now by any chance?
+
+214
+00:12:50,000 --> 00:12:52,375
+She has a very
+strange business.
+
+215
+00:12:52,458 --> 00:12:54,958
+A so-called
+"hit-me-if-you-can" business.
+
+216
+00:12:55,041 --> 00:12:56,791
+Who's the source
+of this information?
+
+217
+00:12:56,875 --> 00:12:57,875
+Some girl.
+
+218
+00:12:57,958 --> 00:12:59,666
+Her name's Pi,
+and she has pink hair.
+
+219
+00:12:59,750 --> 00:13:02,916
+You know her?
+
+220
+00:13:03,000 --> 00:13:05,250
+She seemed to know you.
+
+221
+00:13:05,333 --> 00:13:07,500
+If you know her you should
+show her your appreciation.
+
+222
+00:13:07,583 --> 00:13:09,291
+Plus she seemed
+to know that we were
+
+223
+00:13:09,375 --> 00:13:12,083
+looking for that
+information already.
+
+224
+00:13:12,166 --> 00:13:13,291
+I'll be back in a bit.
+
+225
+00:13:31,375 --> 00:13:34,416
+Why? Why not me?
+
+226
+00:13:34,500 --> 00:13:37,250
+How can Midori
+come across Tri-Edge
+
+227
+00:13:37,333 --> 00:13:39,583
+when I've been
+hunting for him?
+
+228
+00:13:47,125 --> 00:13:50,916
+ You're the one with the
+"hit-me-if-you-can" business.
+
+229
+00:13:51,000 --> 00:13:53,083
+And you are...?
+
+230
+00:13:53,166 --> 00:13:57,083
+Well you can call me
+the tip-off man, Touta.
+
+231
+00:13:57,166 --> 00:13:59,833
+So, you're here
+doing business too.
+
+232
+00:13:59,916 --> 00:14:01,541
+There's something
+I wanna ask you.
+
+233
+00:14:01,625 --> 00:14:03,250
+What?
+
+234
+00:14:03,333 --> 00:14:05,875
+You have to tell me
+if you know Tri-Edge.
+
+235
+00:14:05,958 --> 00:14:07,416
+It's that again, huh.
+
+236
+00:14:07,500 --> 00:14:08,875
+What do you mean "again"?
+
+237
+00:14:08,958 --> 00:14:10,125
+You're actually
+not the only one
+
+238
+00:14:10,208 --> 00:14:12,000
+who's wanted to
+know about that.
+
+239
+00:14:12,083 --> 00:14:14,000
+You're pretty
+popular, aren't you?
+
+240
+00:14:14,083 --> 00:14:16,583
+Word on the street has it
+that you're not only a survivor,
+
+241
+00:14:16,666 --> 00:14:18,625
+but in fact
+you're also a witness.
+
+242
+00:14:18,708 --> 00:14:20,125
+Isn't that right?
+
+243
+00:14:20,208 --> 00:14:22,208
+What are you suggesting?
+
+244
+00:14:22,291 --> 00:14:24,208
+What I'm saying is
+that you faced Tri-Edge
+
+245
+00:14:24,291 --> 00:14:26,291
+and barely got
+away with your life.
+
+246
+00:14:26,375 --> 00:14:30,291
+That's true, but I'm not
+sure what you mean by "witness."
+
+247
+00:14:30,375 --> 00:14:32,666
+You encountered
+Tri-Edge once before
+
+248
+00:14:32,750 --> 00:14:34,625
+and saw
+something interesting.
+
+249
+00:14:34,708 --> 00:14:39,291
+A battle between Tri-Edge
+and another player.
+
+250
+00:14:50,916 --> 00:14:52,875
+[gunshots]
+
+251
+00:14:57,291 --> 00:15:00,250
+The information
+you have is correct.
+
+252
+00:15:01,916 --> 00:15:04,791
+I've encountered Tri-Edge
+on more than one occasion.
+
+253
+00:15:04,875 --> 00:15:08,041
+Or perhaps I should say
+I saw him one of those times.
+
+254
+00:15:08,125 --> 00:15:11,375
+So is that all
+you wanted to ask me?
+
+255
+00:15:11,458 --> 00:15:12,791
+I wanna know more
+about the player
+
+256
+00:15:12,875 --> 00:15:14,708
+that was
+fighting Tri-Edge.
+
+257
+00:15:14,791 --> 00:15:16,583
+I don't think
+I could tell you.
+
+258
+00:15:16,666 --> 00:15:18,541
+I was watching
+from far away.
+
+259
+00:15:18,625 --> 00:15:20,833
+Then what
+can you tell me?
+
+260
+00:15:48,291 --> 00:15:50,791
+I don't remember.
+
+261
+00:15:51,416 --> 00:15:53,958
+He seemed to know...
+
+262
+00:15:54,041 --> 00:15:55,541
+It was a guy then?
+
+263
+00:15:55,625 --> 00:15:59,583
+He knew his way around the
+Lost Ground "Briona Gwydion."
+
+264
+00:15:59,666 --> 00:16:02,291
+I understand.
+
+265
+00:16:02,375 --> 00:16:04,083
+You won't get any more
+information out of me,
+
+266
+00:16:04,166 --> 00:16:05,875
+no matter how hard you try.
+
+267
+00:16:05,958 --> 00:16:07,875
+That's all right.
+
+268
+00:16:09,708 --> 00:16:10,791
+What is this?
+
+269
+00:16:10,875 --> 00:16:13,208
+Just a little something
+for the information.
+
+270
+00:16:13,291 --> 00:16:14,625
+Are you stupid?
+
+271
+00:16:14,708 --> 00:16:17,333
+After someone answers your
+questions out of kindness.
+
+272
+00:16:17,416 --> 00:16:18,958
+You must know
+the purpose of this
+
+273
+00:16:19,041 --> 00:16:21,458
+was only to show my
+gratitude for your kindness.
+
+274
+00:16:21,541 --> 00:16:22,625
+I don't want it.
+
+275
+00:16:22,708 --> 00:16:24,458
+Then I guess that means
+I still owe you one.
+
+276
+00:16:24,541 --> 00:16:25,916
+See you later.
+
+277
+00:16:28,791 --> 00:16:31,208
+Will Haseo fight
+with Midori again?
+
+278
+00:16:31,291 --> 00:16:32,791
+Yes.
+
+279
+00:16:32,875 --> 00:16:35,500
+This time it won't be one of her
+"hit-me-if-you-can" services.
+
+280
+00:16:35,583 --> 00:16:37,916
+She'll be fighting
+with all of her strength.
+
+281
+00:16:38,000 --> 00:16:39,250
+Will it shake him up?
+
+282
+00:16:39,333 --> 00:16:41,083
+It won't hurt to try.
+
+283
+00:16:41,166 --> 00:16:44,500
+That's how Ovan
+would think, isn't it?
+
+284
+00:16:50,833 --> 00:16:53,291
+Hey! Are you ready?
+
+285
+00:16:53,375 --> 00:16:54,416
+Yup!
+
+286
+00:16:54,500 --> 00:16:55,583
+That character...
+
+287
+00:16:55,666 --> 00:16:57,166
+I'm afraid you'll
+have to get rid of it.
+
+288
+00:16:57,250 --> 00:16:58,208
+How come?
+
+289
+00:16:58,291 --> 00:17:00,208
+The impact of
+first impressions.
+
+290
+00:17:00,291 --> 00:17:01,958
+A guild should
+be well-rounded.
+
+291
+00:17:02,041 --> 00:17:03,958
+Are you saying I
+should remake myself?
+
+292
+00:17:04,041 --> 00:17:06,833
+That's right.
+Your vocation again?
+
+293
+00:17:06,916 --> 00:17:08,375
+Blade Brandier.
+
+294
+00:17:08,458 --> 00:17:11,125
+Then you should change your
+vocation to a Harvest Cleric.
+
+295
+00:17:11,208 --> 00:17:12,208
+What?
+
+296
+00:17:12,291 --> 00:17:13,333
+How about me?
+
+297
+00:17:13,416 --> 00:17:14,750
+You've already
+opened a guild
+
+298
+00:17:14,833 --> 00:17:16,375
+so you can't
+change your character.
+
+299
+00:17:16,458 --> 00:17:18,708
+Oh yeah.
+
+300
+00:17:18,791 --> 00:17:21,250
+Hold on, so it's just the two
+of you doing this together?
+
+301
+00:17:21,333 --> 00:17:22,833
+Uh, yeah.
+
+302
+00:17:22,916 --> 00:17:24,916
+What is the minimum
+number for a party?
+
+303
+00:17:25,000 --> 00:17:26,458
+Um, three?
+
+304
+00:17:26,541 --> 00:17:27,958
+You're missing
+one person.
+
+305
+00:17:28,041 --> 00:17:29,916
+One more, huh?
+
+306
+00:17:30,000 --> 00:17:31,166
+How about Phyllo?
+
+307
+00:17:31,250 --> 00:17:32,750
+Are you serious?
+
+308
+00:17:32,833 --> 00:17:34,375
+I guess not.
+
+309
+00:17:34,458 --> 00:17:35,583
+Of course.
+
+310
+00:17:35,666 --> 00:17:37,083
+If Phyllo was gonna
+do anything like
+
+311
+00:17:37,166 --> 00:17:38,791
+that I'd have
+him help me first.
+
+312
+00:17:38,875 --> 00:17:41,916
+Just one more person.
+
+313
+00:17:42,000 --> 00:17:43,333
+One of my
+"real world" friends
+
+314
+00:17:43,416 --> 00:17:45,208
+said he's gonna
+start playing soon.
+
+315
+00:17:45,291 --> 00:17:47,500
+I'll see if Hideyo
+wants to join us.
+
+316
+00:17:47,583 --> 00:17:48,666
+Hideyo?
+
+317
+00:17:48,750 --> 00:17:50,500
+That's a very plain
+name isn't it?
+
+318
+00:17:50,583 --> 00:17:51,625
+And then...
+
+319
+00:17:51,708 --> 00:17:52,708
+Uh-Huh?
+
+320
+00:17:52,791 --> 00:17:54,000
+I'll ditch this character.
+
+321
+00:17:54,083 --> 00:17:55,458
+Nya?
+
+322
+00:17:55,541 --> 00:17:56,958
+It's okay.
+
+323
+00:17:57,041 --> 00:17:59,000
+Alright, now that the members
+have been decided,
+
+324
+00:17:59,083 --> 00:18:01,541
+you need to start thinking
+about your catchphrase.
+
+325
+00:18:01,625 --> 00:18:03,458
+Catchphrase?
+
+326
+00:18:03,541 --> 00:18:04,833
+If you wanna be
+remembered in the future,
+
+327
+00:18:04,916 --> 00:18:06,708
+you're gonna have to come up
+with a mission statement.
+
+328
+00:18:06,791 --> 00:18:07,916
+I see.
+
+329
+00:18:08,000 --> 00:18:09,916
+So what are you
+gonna call your guild?
+
+330
+00:18:10,000 --> 00:18:11,041
+Paw Pad Squadron!
+
+331
+00:18:11,125 --> 00:18:12,250
+Paw Pad?
+
+332
+00:18:12,333 --> 00:18:14,041
+What, you mean like...
+
+333
+00:18:14,125 --> 00:18:15,083
+the little soft parts
+of a dog or cat's paw?
+
+334
+00:18:15,166 --> 00:18:17,083
+Yeah.
+
+335
+00:18:17,166 --> 00:18:18,541
+Is it bad?
+
+336
+00:18:18,625 --> 00:18:21,375
+[giggles] Perfect!
+
+337
+00:18:39,833 --> 00:18:41,500
+Sorry I'm late.
+
+338
+00:18:41,583 --> 00:18:43,083
+So what is it?
+
+339
+00:18:43,166 --> 00:18:44,750
+There's a Player Character
+
+340
+00:18:44,833 --> 00:18:46,916
+who defeated
+Tri-Edge at Briona Gwydion.
+
+341
+00:18:47,000 --> 00:18:48,583
+What did you say?
+
+342
+00:18:48,666 --> 00:18:52,083
+Are you telling me that
+Tri-Edge isn't around anymore?
+
+343
+00:18:52,166 --> 00:18:53,958
+I really don't
+know about that.
+
+344
+00:18:54,041 --> 00:18:55,208
+Who was it?
+
+345
+00:18:55,291 --> 00:18:56,916
+Who and where is
+the guy that defeated him?
+
+346
+00:18:57,000 --> 00:18:58,041
+I don't know.
+
+347
+00:18:58,125 --> 00:18:59,625
+My informant
+doesn't seem to remember,
+
+348
+00:18:59,708 --> 00:19:01,916
+and there's no way I can
+dig for the information.
+
+349
+00:19:02,000 --> 00:19:03,416
+Tell me who told you this.
+
+350
+00:19:03,500 --> 00:19:04,833
+Midori.
+
+351
+00:19:04,916 --> 00:19:07,041
+The player who has the
+"hit-me-if-you-can" business.
+
+352
+00:19:07,125 --> 00:19:08,250
+I know her!
+
+353
+00:19:08,333 --> 00:19:11,500
+She's a survivor and
+a witness or so I heard.
+
+354
+00:19:11,583 --> 00:19:13,291
+No, it would be
+the other way around.
+
+355
+00:19:13,375 --> 00:19:14,708
+She was able to survive
+
+356
+00:19:14,791 --> 00:19:17,166
+because she has
+witnessed him before.
+
+357
+00:19:17,250 --> 00:19:18,958
+That seems to
+be more logical.
+
+358
+00:19:19,041 --> 00:19:22,041
+Where are you going?
+
+359
+00:19:22,125 --> 00:19:25,666
+Where do you think?
+
+360
+00:19:29,166 --> 00:19:31,541
+Well I guess that
+was to be expected.
+
+361
+00:20:09,333 --> 00:20:11,125
+What do you
+want this time?
+
+362
+00:20:11,208 --> 00:20:12,375
+You!
+
+363
+00:20:12,458 --> 00:20:14,166
+What do you
+know about Tri-Edge?
+
+364
+00:20:14,250 --> 00:20:15,625
+I already told you!
+
+365
+00:20:15,708 --> 00:20:18,250
+I've heard that you were there
+when Tri-Edge was defeated.
+
+366
+00:20:18,333 --> 00:20:19,458
+And if I was?
+
+367
+00:20:19,541 --> 00:20:21,375
+You'd better think harder
+
+368
+00:20:21,458 --> 00:20:23,375
+and tell me about
+the one who beat him.
+
+369
+00:20:23,458 --> 00:20:27,041
+Get lost, I don't
+want to remember.
+
+370
+00:20:35,708 --> 00:20:38,625
+I can smell
+death in the air.
+
+371
+00:20:40,000 --> 00:20:41,375
+I wish you were good enough
+
+372
+00:20:41,458 --> 00:20:55,958
+to take Tri-Edge's place
+and fight just like him.
+
+373
+00:20:56,041 --> 00:20:57,166
+You're not bad.
+
+374
+00:20:57,250 --> 00:21:00,166
+You're actually
+pretty good.
+
+375
+00:21:01,041 --> 00:21:04,083
+Tell me... who
+exactly are you?
+
+376
+00:21:04,166 --> 00:21:08,458
+I told you, I run a
+"hit-me-if-you-can" business.
+
+377
+00:21:42,541 --> 00:21:45,500
+He was pretty strong
+you know, that Tri-Edge.
+
+378
+00:21:45,583 --> 00:21:48,083
+Guess you're just
+not strong enough.
+
+379
+00:21:48,166 --> 00:21:50,791
+Whatever.
+
+380
+00:21:58,375 --> 00:22:01,833
+Apparently the Factor
+is still dormant.
+
+381
+00:22:16,000 --> 00:22:17,750
+What is this?
+
+382
+00:22:17,833 --> 00:22:22,291
+I can't even defeat the one who
+barely got away from Tri-Edge?
+

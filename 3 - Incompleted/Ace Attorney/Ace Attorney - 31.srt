@@ -1,0 +1,2682 @@
+﻿1
+00:00:08,500 --> 00:00:10,416
+[PHOENIX] I'm Phoenix Wright,
+a defense attorney.
+
+2
+00:00:10,500 --> 00:00:12,541
+While my reputation
+has grown lately,
+
+3
+00:00:12,625 --> 00:00:15,000
+there are still plenty
+of challenges ahead of me.
+
+4
+00:00:15,083 --> 00:00:17,500
+No matter the odds,
+it's my job to stand up
+
+5
+00:00:17,583 --> 00:00:19,750
+for those who have no one
+else in their corner.
+
+6
+00:00:19,833 --> 00:00:21,791
+I take the courtroom
+again today,
+
+7
+00:00:21,875 --> 00:00:25,208
+to defend my client
+and find the truth,
+
+8
+00:00:25,291 --> 00:00:26,375
+That's enough!
+
+9
+00:00:26,458 --> 00:00:28,541
+This trial has gone on
+far too long.
+
+10
+00:00:28,625 --> 00:00:30,875
+The court sees
+no reason to continue.
+
+11
+00:00:30,958 --> 00:00:32,791
+[MAGGEY]
+You can't be serious!
+
+12
+00:00:32,875 --> 00:00:34,250
+But I saw it!
+
+13
+00:00:36,291 --> 00:00:37,708
+[MAGGEY]
+There was another man!
+
+14
+00:00:37,791 --> 00:00:40,875
+He's the real killer!
+
+15
+00:00:40,958 --> 00:00:42,958
+Why won't anyone believe me?!
+
+16
+00:00:45,500 --> 00:00:47,125
+[JUDGE] I shall hereby
+hand down the verdict
+
+17
+00:00:47,208 --> 00:00:49,416
+in the case against
+Maggey Byrde.
+
+18
+00:00:50,916 --> 00:00:52,833
+Guilty as charged!
+
+19
+00:00:52,916 --> 00:00:54,625
+[MAGGEY]
+It wasn't me!
+
+20
+00:00:54,708 --> 00:00:55,916
+Heh.
+
+21
+00:02:30,708 --> 00:02:31,916
+[PHOENIX]
+New Year's cards?
+
+22
+00:02:32,000 --> 00:02:34,000
+[MAYA] Well, it is
+getting close to that time.
+
+23
+00:02:34,083 --> 00:02:36,250
+And you gotta do your
+part, so start writing!
+
+24
+00:02:39,000 --> 00:02:40,250
+We could just print them.
+
+25
+00:02:40,333 --> 00:02:42,625
+Hand-written's more personal!
+
+26
+00:02:42,708 --> 00:02:45,333
+I've been saying "thank you
+for helping us to the very end,"
+
+27
+00:02:45,416 --> 00:02:47,083
+so write that.
+
+28
+00:02:47,166 --> 00:02:49,750
+"Thank you for helping
+us to the very end."
+
+29
+00:02:49,833 --> 00:02:52,125
+Hmm? What do you mean,
+"to the very end"?
+
+30
+00:02:52,208 --> 00:02:54,416
+That sounds like
+we're closing up shop!
+
+31
+00:02:54,500 --> 00:02:55,541
+Huh?
+
+32
+00:02:55,625 --> 00:02:57,125
+You're hopeless.
+
+33
+00:02:57,208 --> 00:02:58,333
+--[rumbling]
+--[PHOENIX] Hmm?
+
+34
+00:02:58,416 --> 00:02:59,750
+It's the cops!
+
+35
+00:02:59,833 --> 00:03:01,250
+Woah, is something wrong?
+
+36
+00:03:01,333 --> 00:03:03,291
+[GUMSHOE] No, I screamed my
+head off cuz I felt like it!
+
+37
+00:03:03,375 --> 00:03:05,500
+What's the deal with this?
+
+38
+00:03:05,583 --> 00:03:08,208
+[MAYA] "Deadly Poisoning
+Brings Guilty Verdict.
+
+39
+00:03:08,291 --> 00:03:11,083
+Defense Attorney Wright...
+Trounced"?!
+
+40
+00:03:13,666 --> 00:03:17,041
+[PHOENIX] "The defense gave a
+childishly amateur performance"?
+
+41
+00:03:17,125 --> 00:03:18,791
+Wright must take full
+responsibility for
+
+42
+00:03:18,875 --> 00:03:20,541
+the ruling in this case"?!
+
+43
+00:03:20,625 --> 00:03:21,958
+I do?!
+
+44
+00:03:22,041 --> 00:03:23,416
+[GUMSHOE] And all while
+I was away scouting for clues
+
+45
+00:03:23,500 --> 00:03:26,041
+and upholdin' justice.
+
+46
+00:03:26,125 --> 00:03:27,500
+Here're your souvenirs.
+
+47
+00:03:27,583 --> 00:03:29,000
+Oh, thanks, Dick.
+
+48
+00:03:29,083 --> 00:03:31,500
+Don't change the subject!
+What's this article all about?!
+
+49
+00:03:31,583 --> 00:03:34,250
+[PHOENIX] I have no idea!
+And you changed the subject!
+
+50
+00:03:34,333 --> 00:03:36,875
+I'm stumped, too, and
+this issue is a month old.
+
+51
+00:03:36,958 --> 00:03:38,791
+Uh, more to the point,
+I wasn't involved
+
+52
+00:03:38,875 --> 00:03:40,375
+in any poisoning cases lately.
+
+53
+00:03:40,458 --> 00:03:41,375
+Ah!
+
+54
+00:03:41,458 --> 00:03:42,833
+Everything about this is weird.
+
+55
+00:03:42,916 --> 00:03:45,625
+If it wasn't you, then why
+do people think it was?
+
+56
+00:03:45,708 --> 00:03:47,125
+Wait, don't tell me.
+
+57
+00:03:47,208 --> 00:03:48,875
+An imposter Nick?
+
+58
+00:03:48,958 --> 00:03:51,250
+What? An imposter?
+
+59
+00:03:51,333 --> 00:03:52,625
+[GUMSHOE]
+Either way!
+
+60
+00:03:52,708 --> 00:03:54,958
+You're comin' with me to
+apologize to the defendant.
+
+61
+00:03:55,041 --> 00:03:57,291
+And then you're gonna take
+the case back to court.
+
+62
+00:03:57,375 --> 00:03:58,291
+You got that?
+
+63
+00:03:58,375 --> 00:03:59,833
+Hey, come on, calm down, man.
+
+64
+00:03:59,916 --> 00:04:01,541
+Why are you getting
+yourself so worked up?
+
+65
+00:04:01,625 --> 00:04:06,000
+[GUMSHOE] Ah! Well. You'll get
+it, when you see the defendant.
+
+66
+00:04:06,083 --> 00:04:09,750
+Just help! It's your
+responsibility to defend her!
+
+67
+00:04:09,833 --> 00:04:12,041
+That was odd.
+
+68
+00:04:12,125 --> 00:04:13,208
+He's got a point.
+
+69
+00:04:13,291 --> 00:04:14,875
+If this client entrusted
+a case to my fake
+
+70
+00:04:14,958 --> 00:04:16,916
+based on my reputation,
+
+71
+00:04:17,000 --> 00:04:19,666
+then I guess I kind
+of am responsible.
+
+72
+00:04:19,750 --> 00:04:21,041
+[PHOENIX]
+And my impostor was willing to
+
+73
+00:04:21,125 --> 00:04:25,083
+defend this client, huh?
+I better find out who it is.
+
+74
+00:04:30,041 --> 00:04:32,291
+[MAGGEY]
+Ah! Mr. Wright!
+
+75
+00:04:32,375 --> 00:04:34,125
+--It's you!
+--[MAGGEY growls]
+
+76
+00:04:34,208 --> 00:04:35,625
+[MAYA]
+Maggey?!
+
+77
+00:04:35,708 --> 00:04:36,916
+[PHOENIX]
+This is Maggey Byrde,
+
+78
+00:04:37,000 --> 00:04:40,166
+a police officer
+I defended once before.
+
+79
+00:04:40,250 --> 00:04:43,625
+She was accused of murdering
+her superior officer.
+
+80
+00:04:43,708 --> 00:04:45,541
+What are you doing in here?
+
+81
+00:04:45,625 --> 00:04:46,916
+I thought I got you acquitted!
+
+82
+00:04:47,000 --> 00:04:48,875
+Oh, ha-ha, funny joke!
+
+83
+00:04:48,958 --> 00:04:52,291
+That fifth-rate defense job of
+yours got me declared guilty!
+
+84
+00:04:52,375 --> 00:04:56,000
+I understand why you're angry,
+but let me explain!
+
+85
+00:04:56,083 --> 00:04:57,625
+[MAGGEY]
+A phony?
+
+86
+00:04:57,708 --> 00:04:59,875
+I'm finding it kind
+of hard to believe myself,
+
+87
+00:04:59,958 --> 00:05:01,791
+to be honest with you.
+
+88
+00:05:01,875 --> 00:05:02,875
+[MAGGEY]
+Looking back now,
+
+89
+00:05:02,958 --> 00:05:05,750
+I guess things did
+feel a little off.
+
+90
+00:05:05,833 --> 00:05:06,750
+A little?
+
+91
+00:05:06,833 --> 00:05:08,000
+Yeah, just a little.
+
+92
+00:05:08,083 --> 00:05:09,416
+Like how you were
+a bit taller than normal,
+
+93
+00:05:09,500 --> 00:05:11,583
+looked kind of shady,
+your voice sounded sorta weird,
+
+94
+00:05:11,666 --> 00:05:13,625
+and how you had
+this funny accent.
+
+95
+00:05:13,708 --> 00:05:15,458
+So the guy was nothing like me.
+
+96
+00:05:15,541 --> 00:05:17,666
+Hang on a second, let me
+tell you what was the same!
+
+97
+00:05:17,750 --> 00:05:20,041
+He had your spikey hair
+and your blue suit!
+
+98
+00:05:20,125 --> 00:05:22,000
+[MAYA] Those are your
+signature features.
+
+99
+00:05:22,083 --> 00:05:23,333
+Come on.
+
+100
+00:05:23,416 --> 00:05:25,791
+By the way, how come
+you're dressed like that?
+
+101
+00:05:25,875 --> 00:05:27,541
+After the incident
+with the first murder,
+
+102
+00:05:27,625 --> 00:05:30,791
+I quit the force and started
+working at a restaurant!
+
+103
+00:05:30,875 --> 00:05:33,375
+That sounds like
+a nice change of pace.
+
+104
+00:05:33,458 --> 00:05:35,708
+Why don't you fill us in
+on what happened?
+
+105
+00:05:35,791 --> 00:05:37,041
+[MAGGEY sighs]
+Yeah, sure.
+
+106
+00:05:37,125 --> 00:05:39,250
+It all started last month.
+
+107
+00:05:39,333 --> 00:05:40,583
+There were two men
+at the restaurant,
+
+108
+00:05:40,666 --> 00:05:43,333
+sharing a table
+and drinking coffee.
+
+109
+00:05:43,416 --> 00:05:45,666
+When, out of nowhere--
+one of the men
+
+110
+00:05:45,750 --> 00:05:48,291
+slipped some poison
+into the other's cup.
+
+111
+00:05:48,375 --> 00:05:50,291
+It only took one sip.
+
+112
+00:05:50,375 --> 00:05:51,416
+[rasps]
+
+113
+00:05:51,500 --> 00:05:52,750
+[gasps]
+
+114
+00:05:52,833 --> 00:05:53,875
+[MAGGEY]
+It was awful.
+
+115
+00:05:53,958 --> 00:05:57,333
+I was so shocked.
+I passed right out.
+
+116
+00:05:57,416 --> 00:05:59,250
+[PHOENIX] Did you know
+the victim personally?
+
+117
+00:05:59,333 --> 00:06:01,791
+Not at all!
+I'd never seen the guy before!
+
+118
+00:06:01,875 --> 00:06:04,333
+Lack of motivation
+does help our case.
+
+119
+00:06:04,416 --> 00:06:06,875
+And that mystery man
+has to be the killer.
+
+120
+00:06:06,958 --> 00:06:09,208
+Then why would
+they convict poor Maggey?
+
+121
+00:06:09,291 --> 00:06:10,250
+Because...
+
+122
+00:06:10,333 --> 00:06:12,000
+...no one else saw it happen.
+
+123
+00:06:12,083 --> 00:06:13,708
+[MAYA]
+Really?
+
+124
+00:06:13,791 --> 00:06:17,375
+[MAGGEY] The chef, the other
+customer, everyone testified.
+
+125
+00:06:17,458 --> 00:06:18,791
+They said the victim
+was sitting alone
+
+126
+00:06:18,875 --> 00:06:20,791
+at his table the whole time!
+
+127
+00:06:20,875 --> 00:06:22,125
+Seriously?
+
+128
+00:06:22,208 --> 00:06:23,541
+And then, to top it all off,
+
+129
+00:06:23,625 --> 00:06:25,125
+they found a small
+bottle of poison
+
+130
+00:06:25,208 --> 00:06:26,791
+in the pocket of my apron.
+
+131
+00:06:26,875 --> 00:06:28,833
+What? Why were
+you carrying poison?
+
+132
+00:06:28,916 --> 00:06:31,166
+It wasn't mine,
+I don't know how it got there!
+
+133
+00:06:31,250 --> 00:06:33,833
+Maybe the real killer it in when
+I was passed out
+
+134
+00:06:33,916 --> 00:06:35,916
+And this man no one else saw.
+
+135
+00:06:36,000 --> 00:06:37,583
+You're sure he was there?
+
+136
+00:06:37,666 --> 00:06:39,166
+[MAGGEY]
+I'm dead sure!
+
+137
+00:06:39,250 --> 00:06:42,083
+I mean, I was the one who took
+the coffee over to their table!
+
+138
+00:06:42,166 --> 00:06:43,875
+So what were these guys like?
+
+139
+00:06:43,958 --> 00:06:46,416
+Let's see. When I first saw
+them, I thought they might be in
+
+140
+00:06:46,500 --> 00:06:48,333
+the music industry or something.
+
+141
+00:06:48,416 --> 00:06:51,666
+The victim was focusing
+really hard on his earphone.
+
+142
+00:06:51,750 --> 00:06:55,708
+And there was what looked
+like a sample CD on the table.
+
+143
+00:06:55,791 --> 00:06:57,625
+Was it an unmarked CD?
+
+144
+00:06:57,708 --> 00:07:01,291
+[MAGGEY] No, it said
+"MC"-something on it in marker.
+
+145
+00:07:01,375 --> 00:07:03,333
+Must've been a band
+preparing their debut.
+
+146
+00:07:03,416 --> 00:07:05,458
+Like what's-his-face,
+"MC Screwdriver?"
+
+147
+00:07:05,541 --> 00:07:07,458
+I doubt it's
+who you're thinking of.
+
+148
+00:07:07,541 --> 00:07:08,958
+So Mr. Wright.
+
+149
+00:07:09,041 --> 00:07:11,333
+Do you think it's
+possible to get a retrial?
+
+150
+00:07:11,416 --> 00:07:12,541
+[PHOENIX]
+Mm-hmm.
+
+151
+00:07:12,625 --> 00:07:14,666
+The defense attorney
+lied about his identity.
+
+152
+00:07:14,750 --> 00:07:17,375
+It shouldn't be much
+trouble to get a do-over.
+
+153
+00:07:17,458 --> 00:07:20,166
+[gasps] My life's been
+a full course meal of bad luck,
+
+154
+00:07:20,250 --> 00:07:21,625
+complete with
+defeat for dessert.
+
+155
+00:07:21,708 --> 00:07:23,166
+I've been hit by
+all sorts of vehicles,
+
+156
+00:07:23,250 --> 00:07:25,083
+gotten sick from every kind
+of food, been falsely accused
+
+157
+00:07:25,166 --> 00:07:27,750
+of murder twice,
+and even landed a phony lawyer.
+
+158
+00:07:27,833 --> 00:07:29,208
+Fake Nick!
+
+159
+00:07:29,291 --> 00:07:30,541
+Why'd you have to do this?!
+She's been through enough!
+
+160
+00:07:30,625 --> 00:07:31,875
+Why're you glaring at me?
+
+161
+00:07:31,958 --> 00:07:34,166
+I got through it all,
+and I'll get through this!
+
+162
+00:07:34,250 --> 00:07:36,666
+And one day,
+I'll find the life I want.
+
+163
+00:07:36,750 --> 00:07:38,416
+A normal and happy one!
+
+164
+00:07:38,500 --> 00:07:39,916
+[MAYA]
+So inspirational.
+
+165
+00:07:40,000 --> 00:07:41,291
+Maggey.
+
+166
+00:07:41,375 --> 00:07:43,875
+Will you allow me to defend you,
+this time for real?
+
+167
+00:07:43,958 --> 00:07:45,625
+Of course, Mr. Wright.
+
+168
+00:07:45,708 --> 00:07:49,125
+I'm so glad!
+Thank you for believing in me!
+
+169
+00:07:49,208 --> 00:07:50,541
+[PHOENIX] Whoever used
+my name to frame her
+
+170
+00:07:50,625 --> 00:07:52,625
+for murder had better watch out.
+
+171
+00:07:52,708 --> 00:07:53,791
+We'll get 'em.
+
+172
+00:07:55,541 --> 00:07:57,666
+[MAYA]
+Trés Bien, huh?
+
+173
+00:07:57,750 --> 00:08:00,333
+Interesting place.
+
+174
+00:08:00,416 --> 00:08:01,666
+[PHOENIX] Yeah, if you're
+into suffocating from
+
+175
+00:08:01,750 --> 00:08:04,041
+the overwhelming
+scent of flowers.
+
+176
+00:08:04,125 --> 00:08:06,166
+Is there not
+a single person here?
+
+177
+00:08:06,250 --> 00:08:07,208
+Hello--
+
+178
+00:08:07,958 --> 00:08:09,041
+[squeals]
+
+179
+00:08:09,125 --> 00:08:10,458
+Sorry, didn't see you there!
+
+180
+00:08:10,541 --> 00:08:11,541
+[GIRL hums]
+
+181
+00:08:11,625 --> 00:08:12,916
+[PHOENIX]
+Hmm?
+
+182
+00:08:13,000 --> 00:08:15,791
+[ARMSTRONG]
+Ooh, la-la! We have guests!
+
+183
+00:08:15,875 --> 00:08:17,208
+<i>Bonjour</i> !
+
+184
+00:08:17,291 --> 00:08:18,291
+Uh, hello, sir.
+
+185
+00:08:18,375 --> 00:08:19,666
+[ARMSTRONG]
+<i>Bienvenue!</i>
+
+186
+00:08:19,750 --> 00:08:22,166
+Welcome to
+<i>mon petite</i> restaurant!
+
+187
+00:08:22,250 --> 00:08:24,500
+Oh, <i>monsieur</i> , what is
+ze cause of such a face!
+
+188
+00:08:24,583 --> 00:08:25,875
+I'm sorry?
+
+189
+00:08:25,958 --> 00:08:28,541
+Like a puppy
+rejected by life itself!
+
+190
+00:08:28,625 --> 00:08:30,541
+You're fatigued, non?
+
+191
+00:08:30,625 --> 00:08:32,416
+You need zis!
+
+192
+00:08:32,500 --> 00:08:34,458
+Oil of bergamot.
+
+193
+00:08:34,541 --> 00:08:36,833
+With peppermint and clary sage.
+
+194
+00:08:36,916 --> 00:08:39,666
+It will bring
+out your very own...
+
+195
+00:08:39,750 --> 00:08:42,541
+...natural beauty!
+
+196
+00:08:42,625 --> 00:08:44,500
+Can't say that
+was on my to-do list.
+
+197
+00:08:44,583 --> 00:08:47,791
+Oh, well. If you will
+be seated, Monsieur Wright.
+
+198
+00:08:47,875 --> 00:08:49,333
+Wait, how do you know my name?
+
+199
+00:08:49,416 --> 00:08:50,958
+[ARMSTRONG] I could never
+forget ze name of a man
+
+200
+00:08:51,041 --> 00:08:54,458
+who flirted with me!
+Especially in ze courtroom!
+
+201
+00:08:54,541 --> 00:08:57,458
+I bet your imposter
+cross-examined him in the trial.
+
+202
+00:08:57,541 --> 00:09:00,750
+<i>Je m'appelle</i> Jean
+Armstrong, ze chef here!
+
+203
+00:09:00,833 --> 00:09:02,291
+Remember?
+
+204
+00:09:02,375 --> 00:09:04,916
+--[MAYA] Uh.
+--[PHOENIX groans]
+
+205
+00:09:05,000 --> 00:09:06,750
+[ARMSTRONG]
+It was ze third of last month.
+
+206
+00:09:06,833 --> 00:09:09,458
+Just after one in ze afternoon.
+
+207
+00:09:09,541 --> 00:09:13,125
+A man enjoying a coffee
+suddenly became violently ill.
+
+208
+00:09:13,208 --> 00:09:14,958
+Because of the
+poison in his coffee?
+
+209
+00:09:15,041 --> 00:09:17,500
+[ARMSTRONG] Zat's right.
+I was in ze kitchen.
+
+210
+00:09:17,583 --> 00:09:21,541
+I heard ze sound of someone
+collapsing and came running.
+
+211
+00:09:21,625 --> 00:09:24,458
+Maggey had passed out.
+
+212
+00:09:24,541 --> 00:09:26,375
+There should've been
+another man at that table,
+
+213
+00:09:26,458 --> 00:09:28,291
+across from the one you saw.
+
+214
+00:09:28,375 --> 00:09:30,250
+Yes, zat's what
+Maggey is saying.
+
+215
+00:09:30,333 --> 00:09:33,458
+And you're sure?
+You didn't see anyone else?
+
+216
+00:09:33,541 --> 00:09:35,458
+Mon answer is ze same.
+
+217
+00:09:35,541 --> 00:09:37,125
+Zere was no one else zere.
+
+218
+00:09:37,208 --> 00:09:38,583
+But that's not possible!
+
+219
+00:09:38,666 --> 00:09:41,791
+[ARMSTRONG] Ze other customer
+didn't see him, either.
+
+220
+00:09:41,875 --> 00:09:43,625
+Honestly. I'm not
+surprised she was
+
+221
+00:09:43,708 --> 00:09:46,458
+ze prime suspect
+after what took place.
+
+222
+00:09:46,541 --> 00:09:48,000
+[PHOENIX]
+What do you mean by that?
+
+223
+00:09:48,083 --> 00:09:49,750
+[ARMSTRONG]
+Ze lottery ticket.
+
+224
+00:09:49,833 --> 00:09:51,125
+How could you forget?
+
+225
+00:09:51,208 --> 00:09:53,000
+First I've heard of it.
+
+226
+00:09:53,083 --> 00:09:56,125
+Ze man was listening
+to ze radio with his earphone.
+
+227
+00:09:56,208 --> 00:09:57,500
+In one ear.
+
+228
+00:09:57,583 --> 00:10:00,250
+[PHOENIX] The earphone.
+Maggey mentioned that, too.
+
+229
+00:10:00,333 --> 00:10:02,250
+[ARMSTRONG] Ze winning number
+was announced on ze news,
+
+230
+00:10:02,333 --> 00:10:05,208
+I believe. Because all of
+ze sudden he shouted!
+
+231
+00:10:05,291 --> 00:10:07,500
+Five hundred grand! I won!
+
+232
+00:10:07,583 --> 00:10:08,500
+Five hundred thousand?
+
+233
+00:10:08,583 --> 00:10:10,500
+That's a whole lotta dolla!
+
+234
+00:10:10,583 --> 00:10:12,000
+[ARMSTRONG]
+Oui. And in ze court,
+
+235
+00:10:12,083 --> 00:10:13,833
+zey said zat was her motive.
+
+236
+00:10:13,916 --> 00:10:17,750
+She poisoned him to
+take zat lottery ticket.
+
+237
+00:10:17,833 --> 00:10:19,000
+[MAYA]
+Oh, come on.
+
+238
+00:10:19,083 --> 00:10:21,000
+I simply couldn't believe it.
+
+239
+00:10:21,083 --> 00:10:22,583
+We don't believe it, either.
+
+240
+00:10:22,666 --> 00:10:24,416
+That's why we're trying
+to prove her innocence.
+
+241
+00:10:24,500 --> 00:10:26,833
+But we need some sort
+of lead to do that.
+
+242
+00:10:26,916 --> 00:10:28,250
+Can you remember anything else?
+
+243
+00:10:28,333 --> 00:10:30,708
+Anything at all could help.
+
+244
+00:10:30,791 --> 00:10:34,000
+Let me think. Oh, zat's right.
+
+245
+00:10:34,083 --> 00:10:35,958
+I remember zere was
+a prescription bag
+
+246
+00:10:36,041 --> 00:10:37,833
+on the table next to him.
+
+247
+00:10:37,916 --> 00:10:38,958
+A prescription bag?
+
+248
+00:10:39,041 --> 00:10:40,250
+Just sitting there?
+
+249
+00:10:40,333 --> 00:10:42,208
+Oui. I just remembered.
+
+250
+00:10:42,291 --> 00:10:44,708
+Did you happen to
+mention that at the last trial?
+
+251
+00:10:44,791 --> 00:10:46,791
+Non, non, I'd
+forgotten all about it.
+
+252
+00:10:46,875 --> 00:10:48,125
+That's our lead!
+
+253
+00:10:48,208 --> 00:10:50,333
+[PHOENIX] Do you know what
+kind of medicine it was?
+
+254
+00:10:50,416 --> 00:10:51,875
+<i>Lo siento.</i>
+
+255
+00:10:51,958 --> 00:10:54,166
+Now you're speaking Spanish.
+
+256
+00:10:54,250 --> 00:10:55,916
+[PHOENIX]
+Medicine.
+
+257
+00:10:56,000 --> 00:10:58,833
+How is she?
+Is Maggey doing all right?
+
+258
+00:10:58,916 --> 00:11:01,791
+[PHOENIX] I wish I could
+say she was, but not really.
+
+259
+00:11:01,875 --> 00:11:03,666
+Understandable.
+
+260
+00:11:03,750 --> 00:11:05,333
+I've been thinking
+about her a lot,
+
+261
+00:11:05,416 --> 00:11:08,000
+I've been so shorthanded
+since I lost her!
+
+262
+00:11:08,083 --> 00:11:09,458
+[MAYA]
+But nobody's here.
+
+263
+00:11:09,541 --> 00:11:10,875
+Say that louder, will yah?
+
+264
+00:11:10,958 --> 00:11:14,000
+[ARMSTRONG]
+Mademoiselle! You pass ze test!
+
+265
+00:11:14,083 --> 00:11:16,166
+Will you work
+here starting tomorrow?
+
+266
+00:11:16,250 --> 00:11:17,875
+Are you serious? Can I really?
+
+267
+00:11:17,958 --> 00:11:19,375
+You want to?!
+
+268
+00:11:19,458 --> 00:11:21,500
+Your style leaves
+much to be desired,
+
+269
+00:11:21,583 --> 00:11:22,791
+but your face is decent.
+
+270
+00:11:22,875 --> 00:11:24,833
+That's so sweet of you! Aww.
+
+271
+00:11:24,916 --> 00:11:27,833
+Maya? Don't forget, we've got
+Maggey's trial tomorrow!
+
+272
+00:11:27,916 --> 00:11:29,625
+Zen come in afterwards!
+
+273
+00:11:29,708 --> 00:11:31,250
+<i>S'il vous plait</i> !
+
+274
+00:11:31,333 --> 00:11:32,500
+See-woo plate!
+
+275
+00:11:32,583 --> 00:11:35,416
+Really? Why's this
+exciting for you?
+
+276
+00:11:39,583 --> 00:11:41,333
+[MAYA]
+The trial's tomorrow morning.
+
+277
+00:11:41,416 --> 00:11:43,791
+[PHOENIX] And we've found
+ourselves a new clue.
+
+278
+00:11:43,875 --> 00:11:46,041
+We have to believe our
+client and do our best.
+
+279
+00:11:46,125 --> 00:11:48,791
+[MAYA] Our big problem is that
+everyone says the same thing.
+
+280
+00:11:48,875 --> 00:11:51,750
+Except for Maggey. That man...
+
+281
+00:11:51,833 --> 00:11:54,083
+The man who disappeared. Yeah.
+
+282
+00:11:54,166 --> 00:11:55,875
+[MAYA] And then there's
+the winning lottery ticket,
+
+283
+00:11:55,958 --> 00:11:57,750
+and the poison in her pocket.
+
+284
+00:11:57,833 --> 00:12:00,125
+You'll have to
+fight off all of that.
+
+285
+00:12:00,208 --> 00:12:02,416
+And I will. For Maggey.
+
+286
+00:12:02,500 --> 00:12:05,541
+I can't let her be convicted on
+a second false accusation.
+
+287
+00:12:05,625 --> 00:12:07,791
+[MAYA] You know just what
+to say to get me fired up!
+
+288
+00:12:07,875 --> 00:12:10,166
+Let's do this! [giggles]
+
+289
+00:12:10,250 --> 00:12:11,208
+[PHOENIX]
+Hmm.
+
+290
+00:12:15,750 --> 00:12:19,041
+[JUDGE] Court is now in session
+for the trial of Maggey Byrde.
+
+291
+00:12:19,125 --> 00:12:20,500
+Again.
+
+292
+00:12:20,583 --> 00:12:23,583
+The defense is ready
+to begin, Your Honor.
+
+293
+00:12:23,666 --> 00:12:25,916
+[GODOT]
+Mm. [slurps] Bitter.
+
+294
+00:12:26,000 --> 00:12:27,875
+Now, then. Umm, Mr. Wright?
+
+295
+00:12:27,958 --> 00:12:29,500
+--[PHOENIX] Yes?
+--[yekos]
+
+296
+00:12:29,583 --> 00:12:30,583
+What are you doing?!
+
+297
+00:12:30,666 --> 00:12:32,375
+Well, whenever I
+addressed you last time,
+
+298
+00:12:32,458 --> 00:12:34,208
+you'd go, "Talkin' to me?!"
+
+299
+00:12:34,291 --> 00:12:36,208
+So. Your politeness
+shocked me a bit.
+
+300
+00:12:36,291 --> 00:12:38,583
+Like I said,
+that was an imposter.
+
+301
+00:12:39,541 --> 00:12:42,041
+[GODOT] So, someone switched
+out the pot for decaf.
+
+302
+00:12:42,125 --> 00:12:44,000
+That doesn't matter.
+
+303
+00:12:44,083 --> 00:12:46,291
+I wanna find out
+if you're the real deal.
+
+304
+00:12:46,375 --> 00:12:48,208
+Right here, right now.
+
+305
+00:12:48,291 --> 00:12:49,833
+[PHOENIX growls]
+
+306
+00:12:49,916 --> 00:12:51,541
+The court has
+already given its verdict
+
+307
+00:12:51,625 --> 00:12:54,583
+on this case once. However.
+
+308
+00:12:54,666 --> 00:12:57,583
+Since there was an issue with
+the defense's representation,
+
+309
+00:12:57,666 --> 00:12:59,958
+we will now hold
+a special retrial.
+
+310
+00:13:00,041 --> 00:13:02,833
+The prosecution's
+as real as it's ever been.
+
+311
+00:13:02,916 --> 00:13:04,458
+Now why don't we get to work?
+
+312
+00:13:04,541 --> 00:13:06,166
+I'd like to call a witness.
+
+313
+00:13:08,458 --> 00:13:12,375
+I'm Dick Gumshoe, and
+I'm a detective with the police.
+
+314
+00:13:12,458 --> 00:13:14,083
+The victim's name was Glen Elg.
+
+315
+00:13:14,166 --> 00:13:16,333
+He was a professional
+programmer.
+
+316
+00:13:16,416 --> 00:13:19,375
+The cause of death
+was potassium cyanide poisoning.
+
+317
+00:13:19,458 --> 00:13:21,291
+Traces of it were found
+on the coffee cup
+
+318
+00:13:21,375 --> 00:13:22,875
+the defendant
+brought the victim.
+
+319
+00:13:22,958 --> 00:13:24,416
+The defendant
+has testified there was
+
+320
+00:13:24,500 --> 00:13:25,916
+another man there.
+
+321
+00:13:26,000 --> 00:13:27,541
+--At the table, sitting across
+--[GUMSHOE] Yeah, yeah,
+
+322
+00:13:27,625 --> 00:13:28,708
+--she did, she did!
+--Yeah. But sadly,
+
+323
+00:13:28,791 --> 00:13:30,708
+the chef and the
+other customer
+
+324
+00:13:30,791 --> 00:13:31,916
+have testified otherwise.
+
+325
+00:13:32,000 --> 00:13:33,875
+--[gasps]
+--Haven't they?
+
+326
+00:13:33,958 --> 00:13:37,416
+That's correct. Their two
+testimonies do line up on that.
+
+327
+00:13:37,500 --> 00:13:40,666
+Both of 'em said there
+was no other guy at the table.
+
+328
+00:13:40,750 --> 00:13:41,833
+[MAGGEY sighs]
+
+329
+00:13:41,916 --> 00:13:43,750
+Are we absolutely
+certain the victim drank
+
+330
+00:13:43,833 --> 00:13:45,041
+the coffee in question?
+
+331
+00:13:45,125 --> 00:13:47,000
+[GODOT]
+Hmph. See for yourself.
+
+332
+00:13:47,083 --> 00:13:49,666
+[JUDGE] There is clearly
+a coffee stain on the rim.
+
+333
+00:13:49,750 --> 00:13:52,333
+[GODOT] That's a steaming
+cup a' proof right there.
+
+334
+00:13:52,416 --> 00:13:54,416
+He drank the coffee
+the defendant brought him.
+
+335
+00:13:54,500 --> 00:13:56,458
+[gulping]
+
+336
+00:13:56,541 --> 00:13:57,458
+Like so!
+
+337
+00:13:57,541 --> 00:13:58,958
+Okay, maybe, but...
+
+338
+00:13:59,041 --> 00:14:01,833
+The defendant and victim
+didn't know each other.
+
+339
+00:14:01,916 --> 00:14:03,375
+She had no motive!
+
+340
+00:14:03,458 --> 00:14:05,750
+[GODOT] Five hundred thousand
+bucks beg to differ.
+
+341
+00:14:05,833 --> 00:14:07,375
+I didn't take that, I swear!
+
+342
+00:14:07,458 --> 00:14:10,958
+[GODOT] Detective! Where was
+this lottery ticket recovered?
+
+343
+00:14:11,041 --> 00:14:12,500
+On the defendant.
+
+344
+00:14:12,583 --> 00:14:15,291
+When we patted her down right
+after the incident happened.
+
+345
+00:14:15,375 --> 00:14:16,666
+No way, it was?
+
+346
+00:14:16,750 --> 00:14:19,000
+[MAGGEY]
+Uh-uh. Mm-mm!
+
+347
+00:14:19,083 --> 00:14:20,041
+Why don't we wrap this up
+
+348
+00:14:20,125 --> 00:14:23,000
+with our final sip
+of evidence?
+
+349
+00:14:23,083 --> 00:14:24,208
+Take a look.
+
+350
+00:14:24,291 --> 00:14:25,708
+[PHOENIX]
+Did he say "sip"?
+
+351
+00:14:26,791 --> 00:14:27,875
+[gasping]
+
+352
+00:14:27,958 --> 00:14:29,666
+This is the apron
+the accused was wearing
+
+353
+00:14:29,750 --> 00:14:31,291
+at the time of the murder.
+
+354
+00:14:31,375 --> 00:14:33,583
+Yikes. That'll never come out.
+
+355
+00:14:33,666 --> 00:14:35,375
+Yeah, but what is it?
+
+356
+00:14:35,458 --> 00:14:38,583
+[GODOT] The bottle of poison
+was found in this pocket.
+
+357
+00:14:38,666 --> 00:14:40,166
+That right, Detective?
+
+358
+00:14:40,250 --> 00:14:42,541
+[GUMSHOE] Yeah, and
+Maggey's, the defendant's prints
+
+359
+00:14:42,625 --> 00:14:44,291
+were the only ones on it.
+
+360
+00:14:44,375 --> 00:14:48,458
+[CROWD gasping, murmurin]
+
+361
+00:14:48,541 --> 00:14:49,958
+Wait, that's it?
+
+362
+00:14:50,041 --> 00:14:52,666
+You're not gonna mention
+the huge red stain?
+
+363
+00:14:52,750 --> 00:14:54,250
+[GODOT]
+What stain?
+
+364
+00:14:54,333 --> 00:14:57,250
+It could be blood,
+but there's a lot there.
+
+365
+00:14:57,333 --> 00:14:58,916
+No one told me!
+
+366
+00:14:59,000 --> 00:15:01,541
+[PHOENIX] Can you see
+anything out of that visor?
+
+367
+00:15:01,625 --> 00:15:04,250
+[MAGGEY]
+U-Um... It's not blood.
+
+368
+00:15:04,333 --> 00:15:05,583
+It's just ketchup.
+
+369
+00:15:05,666 --> 00:15:07,000
+[GODOT]
+Huh?
+
+370
+00:15:07,083 --> 00:15:08,625
+[MAGGEY] I got some on
+my apron while carrying
+
+371
+00:15:08,708 --> 00:15:11,041
+a tray of breakfast
+stuff to a table.
+
+372
+00:15:11,125 --> 00:15:14,083
+[JUDGE] Refrain from
+scaring us, defense.
+
+373
+00:15:14,166 --> 00:15:15,416
+Pull a stunt like that again,
+
+374
+00:15:15,500 --> 00:15:17,083
+and you'll be drinking
+your joe through a straw.
+
+375
+00:15:17,166 --> 00:15:18,583
+[PHOENIX]
+Right. I'm sorry.
+
+376
+00:15:21,208 --> 00:15:22,708
+Order.
+
+377
+00:15:22,791 --> 00:15:24,750
+I've yet to see anything that
+makes me doubt the last verdict.
+
+378
+00:15:24,833 --> 00:15:26,250
+--[gasps]
+--Oh, no.
+
+379
+00:15:27,416 --> 00:15:28,333
+You've got this!
+
+380
+00:15:28,416 --> 00:15:30,291
+[PHOENIX]
+Mm-hmm. Your Honor,
+
+381
+00:15:30,375 --> 00:15:31,333
+the defense would
+like to present
+
+382
+00:15:31,416 --> 00:15:33,833
+new evidence to the court.
+
+383
+00:15:33,916 --> 00:15:34,916
+Oh?
+
+384
+00:15:35,000 --> 00:15:37,250
+We spoke to Trés Bien's
+chef, Armstrong.
+
+385
+00:15:37,333 --> 00:15:39,625
+He gave us some new information.
+
+386
+00:15:39,708 --> 00:15:41,666
+[ARMSTRONG] I remember
+zere was a prescription bag
+
+387
+00:15:41,750 --> 00:15:43,583
+on ze table next to him.
+
+388
+00:15:43,666 --> 00:15:45,375
+[JUDGE]
+A prescription bag?
+
+389
+00:15:45,458 --> 00:15:48,666
+This was indeed not deliberated
+on during the last trial.
+
+390
+00:15:48,750 --> 00:15:50,375
+I believe this
+is an important piece of--
+
+391
+00:15:50,458 --> 00:15:52,125
+[GODOT]
+Objection!
+
+392
+00:15:52,208 --> 00:15:54,291
+We've already investigated that.
+
+393
+00:15:55,791 --> 00:15:58,291
+[GODOT] Yes, there was a
+prescription bag at the scene.
+
+394
+00:15:58,375 --> 00:16:00,625
+But it was empty.
+
+395
+00:16:00,708 --> 00:16:02,166
+You already looked?
+
+396
+00:16:02,250 --> 00:16:03,333
+We searched the scene,
+
+397
+00:16:03,416 --> 00:16:05,583
+and couldn't find any
+medicine anywhere.
+
+398
+00:16:05,666 --> 00:16:07,041
+That's not good!
+
+399
+00:16:07,125 --> 00:16:08,166
+Hold on.
+
+400
+00:16:08,250 --> 00:16:09,833
+The victim was
+poisoned to death!
+
+401
+00:16:09,916 --> 00:16:12,708
+There's a chance the missing
+medicine was laced with poison.
+
+402
+00:16:12,791 --> 00:16:15,041
+Investigating this should
+be our top priority.
+
+403
+00:16:15,125 --> 00:16:17,666
+No complaints here,
+let's investigate now.
+
+404
+00:16:17,750 --> 00:16:19,250
+Read the bottom line.
+
+405
+00:16:19,333 --> 00:16:22,125
+Ah. Otolaryngological?
+
+406
+00:16:22,208 --> 00:16:24,250
+Glen Elg got into
+a fight with a coworker
+
+407
+00:16:24,333 --> 00:16:26,125
+the day before the murder.
+
+408
+00:16:26,208 --> 00:16:28,041
+During the altercation,
+he suffered a blow to
+
+409
+00:16:28,125 --> 00:16:31,000
+the side of the head and
+ruptured his left eardrum.
+
+410
+00:16:31,083 --> 00:16:32,041
+[PHOENIX gasps]
+
+411
+00:16:32,125 --> 00:16:33,583
+His prescription
+is applied topically
+
+412
+00:16:33,666 --> 00:16:35,041
+to the inner ear.
+
+413
+00:16:35,125 --> 00:16:36,750
+Not something to be ingested.
+
+414
+00:16:36,833 --> 00:16:39,583
+What? You're kidding me!
+
+415
+00:16:39,666 --> 00:16:42,125
+[GODOT]
+Hmph. That settles it.
+
+416
+00:16:42,208 --> 00:16:44,083
+You're obviously fake after all.
+
+417
+00:16:44,166 --> 00:16:47,208
+[PHOENIX]
+This is not going like I wanted.
+
+418
+00:16:47,291 --> 00:16:48,708
+That's quite enough.
+
+419
+00:16:48,791 --> 00:16:51,333
+This court sees no reason
+to pursue the trial any longer
+
+420
+00:16:51,416 --> 00:16:52,833
+than we already have.
+
+421
+00:16:52,916 --> 00:16:53,875
+[GUMSHOE]
+Hold it!
+
+422
+00:16:53,958 --> 00:16:55,416
+We haven't heard
+from a witness yet!
+
+423
+00:16:55,500 --> 00:16:58,291
+We can't conclude the trial
+without hearing his testimony!
+
+424
+00:16:58,375 --> 00:16:59,708
+Who's he mean?
+
+425
+00:16:59,791 --> 00:17:01,916
+[JUDGE] We heard all
+relevant testimony a month ago,
+
+426
+00:17:02,000 --> 00:17:03,208
+did we not?
+
+427
+00:17:03,291 --> 00:17:05,458
+The defense hasn't
+cross-examined them!
+
+428
+00:17:05,541 --> 00:17:06,791
+[JUDGE]
+Hmm?
+
+429
+00:17:06,875 --> 00:17:08,625
+Your Honor, I've arranged
+a witness to the crime.
+
+430
+00:17:08,708 --> 00:17:11,666
+No objections
+from the prosecution.
+
+431
+00:17:11,750 --> 00:17:13,625
+Detective Gumshoe!
+
+432
+00:17:13,708 --> 00:17:14,750
+[GUMSHOE]
+Hmm.
+
+433
+00:17:14,833 --> 00:17:16,000
+So be it, then.
+
+434
+00:17:16,083 --> 00:17:18,000
+Your witness may
+approach the stand.
+
+435
+00:17:19,791 --> 00:17:21,708
+The name is Victor Kudo.
+
+436
+00:17:21,791 --> 00:17:23,541
+Born and bred in
+the low-lying district,
+
+437
+00:17:23,625 --> 00:17:25,458
+I'm a craftsman
+through and through.
+
+438
+00:17:25,541 --> 00:17:27,125
+At the time of the incident,
+
+439
+00:17:27,208 --> 00:17:29,041
+you were inside the
+restaurant, weren't you?
+
+440
+00:17:29,125 --> 00:17:30,875
+[KUDO] Uh-huh. Like I
+said the last time,
+
+441
+00:17:30,958 --> 00:17:33,625
+I was eating some seeds over
+a cup of javaccino.
+
+442
+00:17:33,708 --> 00:17:36,666
+Victor. Will you tell
+the court what you saw?
+
+443
+00:17:36,750 --> 00:17:37,708
+We're eager to know.
+
+444
+00:17:37,791 --> 00:17:39,250
+Yeah, yeah, whatever.
+
+445
+00:17:39,333 --> 00:17:41,625
+Drinkin' a cup of javaccino
+at that time had become
+
+446
+00:17:41,708 --> 00:17:43,500
+sort of a daily routine.
+
+447
+00:17:43,583 --> 00:17:45,833
+So there I am, and
+I see the serving girl slipping
+
+448
+00:17:45,916 --> 00:17:48,125
+a white powder into
+the guy's cup.
+
+449
+00:17:48,208 --> 00:17:49,416
+And then...
+
+450
+00:17:52,375 --> 00:17:54,666
+The man collapsed!
+
+451
+00:17:54,750 --> 00:17:57,083
+And she was the girl I saw!
+
+452
+00:17:57,166 --> 00:17:58,541
+Are you absolutely sure?
+
+453
+00:17:58,625 --> 00:18:00,500
+[KUDO]
+Of course! I wouldn't forget!
+
+454
+00:18:00,583 --> 00:18:02,041
+She's got that uniform!
+
+455
+00:18:02,125 --> 00:18:03,083
+Uniform?
+
+456
+00:18:03,166 --> 00:18:04,666
+It's so revealing.
+
+457
+00:18:04,750 --> 00:18:06,083
+I mean... What?
+
+458
+00:18:06,166 --> 00:18:09,041
+Am I supposed to not look
+at her legs in that getup?
+
+459
+00:18:09,125 --> 00:18:10,583
+[chomping]
+
+460
+00:18:10,666 --> 00:18:12,291
+I believe the
+witness also remembers
+
+461
+00:18:12,375 --> 00:18:13,958
+the victim well, no?
+
+462
+00:18:14,041 --> 00:18:15,041
+My memory's great!
+
+463
+00:18:15,125 --> 00:18:17,208
+If I'm wrong,
+I'll sing like a bird
+
+464
+00:18:17,291 --> 00:18:19,166
+and eat seeds at the same time!
+
+465
+00:18:19,250 --> 00:18:21,375
+Okay, then. Go on.
+
+466
+00:18:21,458 --> 00:18:23,250
+I remember all the details.
+
+467
+00:18:23,333 --> 00:18:26,208
+The whole time, he kept rustling
+the pages of his newspaper
+
+468
+00:18:26,291 --> 00:18:27,875
+with his right hand.
+
+469
+00:18:27,958 --> 00:18:29,916
+And while he did,
+he gulped down his drink
+
+470
+00:18:30,000 --> 00:18:31,500
+with his left hand.
+
+471
+00:18:31,583 --> 00:18:34,000
+The left? But that can't be.
+
+472
+00:18:34,083 --> 00:18:35,333
+What do you mean?
+
+473
+00:18:35,416 --> 00:18:37,125
+The coffee stain
+on the cup indicates
+
+474
+00:18:37,208 --> 00:18:40,000
+the victim drank with his
+right hand, not his left.
+
+475
+00:18:40,083 --> 00:18:41,458
+[gasping]
+
+476
+00:18:41,541 --> 00:18:44,291
+Nah, you're wrong.
+I remember it clear as day, kid!
+
+477
+00:18:44,375 --> 00:18:45,875
+Wasn't he wearing
+that weird blue lens
+
+478
+00:18:45,958 --> 00:18:47,625
+over his left eye ball?
+
+479
+00:18:47,708 --> 00:18:49,000
+That's correct.
+
+480
+00:18:49,083 --> 00:18:51,000
+It's a small computer monitor
+used by programmers,
+
+481
+00:18:51,083 --> 00:18:52,625
+aptly called a "monocle."
+
+482
+00:18:52,708 --> 00:18:54,833
+Yeah! So like
+I was saying before,
+
+483
+00:18:54,916 --> 00:18:56,833
+he wore his earphone on
+the same side as that thing
+
+484
+00:18:56,916 --> 00:18:58,541
+and was listening to the radio!
+
+485
+00:18:58,625 --> 00:19:00,083
+He messed with
+it then used the same hand
+
+486
+00:19:00,166 --> 00:19:01,833
+to drink his javaccino.
+
+487
+00:19:01,916 --> 00:19:02,958
+[slurps]
+
+488
+00:19:03,041 --> 00:19:04,125
+[PHOENIX]
+Objection!
+
+489
+00:19:05,958 --> 00:19:07,750
+[PHOENIX]
+That, sir, is impossible.
+
+490
+00:19:09,625 --> 00:19:13,208
+[wails]
+What's that supposed to mean?!
+
+491
+00:19:13,291 --> 00:19:15,750
+The victim's left eardrum
+had been ruptured.
+
+492
+00:19:15,833 --> 00:19:17,750
+He got into a fight
+the day before.
+
+493
+00:19:17,833 --> 00:19:19,708
+He couldn't possibly
+have worn his earphone
+
+494
+00:19:19,791 --> 00:19:22,250
+in that ear.
+He couldn't hear out of it!
+
+495
+00:19:22,333 --> 00:19:24,291
+[KUDO]
+Is that true?
+
+496
+00:19:24,375 --> 00:19:26,375
+--It is.
+--[KUDO] Buh-Birdie!
+
+497
+00:19:26,458 --> 00:19:28,625
+Pretty, pretty bird!
+
+498
+00:19:28,708 --> 00:19:30,541
+Your Honor,
+this clearly sheds doubt
+
+499
+00:19:30,625 --> 00:19:33,416
+on his memory, and his claim
+that he saw the defendant.
+
+500
+00:19:33,500 --> 00:19:35,625
+Oh, shut up! Whaddya you know?
+
+501
+00:19:35,708 --> 00:19:37,833
+I saw her! I got a
+great look at her!
+
+502
+00:19:37,916 --> 00:19:39,083
+In that case,
+do you remember
+
+503
+00:19:39,166 --> 00:19:41,250
+any distinctive features
+about the waitress?
+
+504
+00:19:41,333 --> 00:19:43,208
+You bet her beautiful butt I do!
+
+505
+00:19:43,291 --> 00:19:45,000
+There was that
+big ribbon in her hair.
+
+506
+00:19:45,083 --> 00:19:47,250
+Her apron straps were
+about to come undone.
+
+507
+00:19:47,333 --> 00:19:49,291
+And then, of course,
+there were those legs of hers.
+
+508
+00:19:49,375 --> 00:19:51,291
+Couldn't help but get
+a glimpse, you know?
+
+509
+00:19:51,375 --> 00:19:52,583
+How's that?
+
+510
+00:19:52,666 --> 00:19:55,125
+It's only stuff
+you'd notice from behind.
+
+511
+00:19:55,208 --> 00:19:56,875
+And what about her face?
+
+512
+00:19:56,958 --> 00:19:58,125
+Did you see that at all?
+
+513
+00:19:58,208 --> 00:20:00,041
+Huh? Obviously, I saw her face!
+
+514
+00:20:00,125 --> 00:20:02,166
+I don't know how to say this
+without sounding like a jerk,
+
+515
+00:20:02,250 --> 00:20:04,291
+but she was pretty
+ordinary looking.
+
+516
+00:20:04,375 --> 00:20:05,916
+Putting aside that
+rude assessment,
+
+517
+00:20:06,000 --> 00:20:08,208
+how could you not mention
+my glasses you dog?
+
+518
+00:20:08,291 --> 00:20:09,625
+I get the feeling
+this guy didn't see
+
+519
+00:20:09,708 --> 00:20:10,833
+Maggey from the front.
+
+520
+00:20:10,916 --> 00:20:12,875
+Or at least didn't
+care to remember.
+
+521
+00:20:12,958 --> 00:20:16,333
+[gasps]
+
+522
+00:20:16,416 --> 00:20:20,166
+[PHOENIX] Mr. Kudo. Do you
+recognize this apron?
+
+523
+00:20:20,250 --> 00:20:22,583
+Yeah, that's the one they
+use at the restaurant, right?
+
+524
+00:20:22,666 --> 00:20:23,833
+[PHOENIX]
+Have you seen this one?
+
+525
+00:20:23,916 --> 00:20:26,000
+I never saw
+one of them so filthy.
+
+526
+00:20:26,083 --> 00:20:27,500
+[PHOENIX]
+That's interesting.
+
+527
+00:20:27,583 --> 00:20:29,291
+Because on the day
+of the murder,
+
+528
+00:20:29,375 --> 00:20:31,416
+the defendant
+wore this very apron.
+
+529
+00:20:31,500 --> 00:20:32,541
+Wait, she did?
+
+530
+00:20:32,625 --> 00:20:33,541
+[gasps]
+
+531
+00:20:33,625 --> 00:20:35,375
+Even if you forgot her face.
+
+532
+00:20:35,458 --> 00:20:38,083
+You couldn't have forgotten
+this bright red blemish.
+
+533
+00:20:38,166 --> 00:20:39,666
+That is...
+
+534
+00:20:39,750 --> 00:20:41,916
+...if you'd actually ever seen
+the defendant from the front!
+
+535
+00:20:42,000 --> 00:20:43,916
+[KUDO growls]
+Shut your trap!
+
+536
+00:20:44,000 --> 00:20:45,750
+My eyes were peeled
+the entire time!
+
+537
+00:20:45,833 --> 00:20:47,875
+Since I was only there for...
+
+538
+00:20:47,958 --> 00:20:49,041
+Her legs I assume?
+
+539
+00:20:49,125 --> 00:20:51,375
+[KUDO whimpers]
+Buh-buh-birdie!
+
+540
+00:20:51,458 --> 00:20:52,958
+Pretty, pretty bird!
+
+541
+00:20:53,041 --> 00:20:54,375
+Order in the court.
+
+542
+00:20:54,458 --> 00:20:57,041
+As the witness's
+testimony seems suspect.
+
+543
+00:20:57,125 --> 00:21:00,250
+I cannot, with good conscience,
+pass a verdict at this time.
+
+544
+00:21:00,333 --> 00:21:01,916
+I order the defense
+and prosecution
+
+545
+00:21:02,000 --> 00:21:03,666
+to investigate
+this case further.
+
+546
+00:21:03,750 --> 00:21:05,708
+Understood.
+
+547
+00:21:05,791 --> 00:21:06,875
+[GODOT sighs]
+
+548
+00:21:06,958 --> 00:21:08,291
+[BOTH gasp, giggle]
+
+549
+00:21:08,375 --> 00:21:09,833
+[sighs]
+
+550
+00:21:11,041 --> 00:21:13,750
+And with that,
+court is adjourned for now.
+
+551
+00:21:15,291 --> 00:21:16,541
+[MAYA]
+Way to go, Nick!
+
+552
+00:21:16,625 --> 00:21:17,916
+You rocked it!
+
+553
+00:21:18,000 --> 00:21:19,791
+You got the verdict
+postponed to the next date!
+
+554
+00:21:19,875 --> 00:21:21,625
+Not to mention
+made Maggey's day!
+
+555
+00:21:21,708 --> 00:21:23,166
+But the question remains.
+
+556
+00:21:23,250 --> 00:21:25,750
+How do we explain
+the different testimonies?
+
+557
+00:21:25,833 --> 00:21:26,750
+[MAYA]
+Hmm?
+
+558
+00:21:26,833 --> 00:21:28,208
+[PHOENIX]
+That's a flashy color.
+
+559
+00:21:28,291 --> 00:21:30,000
+And it's all beaten up.
+
+560
+00:21:30,083 --> 00:21:31,125
+[TIGRE]
+Hey!
+
+561
+00:21:32,333 --> 00:21:33,708
+[MAYA]
+What, what, what?!
+
+562
+00:21:33,791 --> 00:21:36,541
+Whad'you think you're
+doin' with my hot ride, sucker?
+
+563
+00:21:36,625 --> 00:21:37,916
+I atta beat yah so hard,
+
+564
+00:21:38,000 --> 00:21:40,083
+it'll feel like you were
+smoochin' the express train!
+
+565
+00:21:40,166 --> 00:21:42,625
+I'm sorry, man, I was
+just checking it out!
+
+566
+00:21:42,708 --> 00:21:44,333
+[MAYA]
+Um... Are you...
+
+567
+00:21:44,416 --> 00:21:45,875
+...the imposter Nick?
+
+568
+00:21:45,958 --> 00:21:47,458
+--[gasps]
+--Heh?
+
+569
+00:21:49,458 --> 00:21:51,375
+I don't gotta take this garbage.
+
+570
+00:21:51,458 --> 00:21:52,583
+I atta beat you so hard,
+
+571
+00:21:52,666 --> 00:21:54,625
+the express train'll
+feel like pillows!
+
+572
+00:21:54,708 --> 00:21:55,875
+Uh...
+
+573
+00:21:55,958 --> 00:21:57,000
+[TIGRE]
+I atta beat you so hard...
+
+574
+00:23:27,541 --> 00:23:29,583
+[PHOENIX]
+Objection!
+
+575
+00:23:29,666 --> 00:23:31,791
+At Trés Bien,
+the restaurant of mystery,
+
+576
+00:23:31,875 --> 00:23:33,791
+Maya begins her part-time job!
+
+577
+00:23:33,875 --> 00:23:36,125
+While we search for
+the identity of my imposter,
+
+578
+00:23:36,208 --> 00:23:38,125
+a mysterious woman appears.
+
+579
+00:23:38,208 --> 00:23:41,333
+As it turns out, it's possible
+that a traffic accident
+
+580
+00:23:41,416 --> 00:23:43,291
+had something to do
+with the murder.
+
+581
+00:23:43,375 --> 00:23:46,291
+The more we learn,
+the more questions we have.
+
+582
+00:23:46,375 --> 00:23:48,875
+Find the contradictions!
+Believe in the truth!
+
+583
+00:23:48,958 --> 00:23:52,333
+Next episode: "Recipe
+for Turnabout -- 2nd Trial"!
+
+584
+00:23:52,416 --> 00:23:53,541
+Take that!
+

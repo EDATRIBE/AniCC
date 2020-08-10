@@ -1,0 +1,5301 @@
+﻿1
+00:00:08,208 --> 00:00:08,958
+[PHOENIX]
+My name is Phoenix Wright,
+
+2
+00:00:09,041 --> 00:00:10,375
+and I'm a defense attorney.
+
+3
+00:00:10,458 --> 00:00:12,250
+I've made a pledge to
+stand up for those who have
+
+4
+00:00:12,333 --> 00:00:14,166
+no one else in their corner.
+
+5
+00:00:14,250 --> 00:00:15,833
+No matter how
+tough the case may be,
+
+6
+00:00:15,916 --> 00:00:18,000
+or how high the odds
+are stacked against us.
+
+7
+00:00:18,083 --> 00:00:20,958
+I'll do whatever it takes
+to fight for the truth!
+
+8
+00:00:21,041 --> 00:00:22,708
+But of course,
+there was a time before I made
+
+9
+00:00:22,791 --> 00:00:25,333
+that pledge and earned
+my attorney's badge.
+
+10
+00:00:25,416 --> 00:00:26,875
+Five years ago,
+something changed
+
+11
+00:00:26,958 --> 00:00:28,791
+the direction of my life
+and convinced me
+
+12
+00:00:28,875 --> 00:00:30,708
+to be a voice for justice!
+
+13
+00:00:37,041 --> 00:00:39,208
+[DOUG] Listen, man.
+You should stop seeing her.
+
+14
+00:00:39,291 --> 00:00:40,666
+[PHOENIX]
+What? How is our relationship
+
+15
+00:00:40,750 --> 00:00:42,083
+any of your business?
+
+16
+00:00:42,166 --> 00:00:43,708
+[thunder rumbles]
+
+17
+00:00:43,791 --> 00:00:45,916
+Please. This is
+for your own sake.
+
+18
+00:00:46,000 --> 00:00:48,083
+She's bad news,
+and that's putting it lightly.
+
+19
+00:00:48,166 --> 00:00:49,875
+[PHOENIX growls]
+You're lying!
+
+20
+00:00:49,958 --> 00:00:51,875
+[DOUG] There's something
+you need to know about her.
+
+21
+00:00:51,958 --> 00:00:53,250
+Before you get hurt.
+
+22
+00:00:54,666 --> 00:00:56,458
+[thunder rumbles]
+
+23
+00:00:56,541 --> 00:00:57,583
+[PHOENIX]
+Shut your mouth!
+
+24
+00:00:57,666 --> 00:00:59,750
+She's not like that!
+There's no way!
+
+25
+00:00:59,833 --> 00:01:01,041
+[blow lands]
+
+26
+00:01:08,291 --> 00:01:11,083
+[PHOENIX]
+No. It's not my fault.
+
+27
+00:01:11,166 --> 00:01:13,416
+It... couldn't be.
+
+28
+00:01:13,500 --> 00:01:15,291
+I didn't kill this guy!
+
+29
+00:01:16,083 --> 00:01:18,125
+[thunder cracks
+
+30
+00:03:01,791 --> 00:03:04,041
+[MIA]
+Ugh. It's almost time.
+
+31
+00:03:04,125 --> 00:03:06,000
+I can't believe
+how nervous I am.
+
+32
+00:03:11,333 --> 00:03:12,458
+[MARVIN clears throat]
+
+33
+00:03:12,541 --> 00:03:15,958
+[MIA yelps]
+You startled me, Mr. Grossberg!
+
+34
+00:03:16,041 --> 00:03:17,541
+Good morning!
+
+35
+00:03:17,625 --> 00:03:20,583
+Now, now, Mia.
+There's no need to be so jumpy.
+
+36
+00:03:20,666 --> 00:03:22,666
+You might get questioned
+for suspicious behavior.
+
+37
+00:03:22,750 --> 00:03:24,708
+I'm perfectly calm, thank you.
+
+38
+00:03:24,791 --> 00:03:26,208
+Is this not the face
+of tranquility?!
+
+39
+00:03:26,291 --> 00:03:29,458
+--Uh... Ms. Fey! [coughs]
+--Please forgive my outburst.
+
+40
+00:03:29,541 --> 00:03:32,541
+I understand the emotion,
+but no more manhandling!
+
+41
+00:03:32,625 --> 00:03:35,666
+[sighs] Your first time
+trying a case, eh?
+
+42
+00:03:35,750 --> 00:03:38,500
+I, Marvin Grossberg,
+vow to be your rock.
+
+43
+00:03:38,583 --> 00:03:39,666
+Actually, to be clear,
+
+44
+00:03:39,750 --> 00:03:41,458
+this'll be my second
+time to try a case.
+
+45
+00:03:41,541 --> 00:03:43,666
+Nevertheless,
+you gave me quite a surprise.
+
+46
+00:03:43,750 --> 00:03:46,041
+What made you come to me
+all fiery eyed last night
+
+47
+00:03:46,125 --> 00:03:47,750
+and insist on handling this?
+
+48
+00:03:47,833 --> 00:03:51,166
+When I heard about it yesterday,
+it caught my interest.
+
+49
+00:03:51,250 --> 00:03:53,541
+[MIA] The defendant's name
+is Phoenix Wright.
+
+50
+00:03:53,625 --> 00:03:55,000
+He's accused of murder,
+
+51
+00:03:55,083 --> 00:03:57,916
+and the official cause of
+death was electrocution.
+
+52
+00:03:59,291 --> 00:04:00,458
+[MARVIN]
+And here he is.
+
+53
+00:04:00,541 --> 00:04:02,083
+This is Phoenix Wright.
+
+54
+00:04:02,166 --> 00:04:05,083
+The man whose freedom you
+will be fighting for today.
+
+55
+00:04:05,166 --> 00:04:07,208
+[PHOENIX] Thanks so much
+for taking my case!
+
+56
+00:04:07,291 --> 00:04:08,708
+I know you can clear my name!
+
+57
+00:04:08,791 --> 00:04:10,583
+I'll help you anyway I can!
+
+58
+00:04:10,666 --> 00:04:11,916
+[coughs]
+
+59
+00:04:12,000 --> 00:04:14,416
+Yes, of course. Thank you.
+
+60
+00:04:14,500 --> 00:04:15,208
+Mister Wry!
+
+61
+00:04:15,291 --> 00:04:16,291
+[PHOENIX]
+Great!
+
+62
+00:04:17,791 --> 00:04:19,125
+[PHOENIX]
+Oh, but my name.
+
+63
+00:04:19,208 --> 00:04:21,166
+It's Wright, like
+the flying brothers.
+
+64
+00:04:21,250 --> 00:04:24,291
+I misspoke, Mr. Wright!
+It won't happen again!
+
+65
+00:04:24,375 --> 00:04:26,083
+I swear on my life
+I won't fail you!
+
+66
+00:04:26,166 --> 00:04:27,375
+[coughs]
+
+67
+00:04:27,458 --> 00:04:29,416
+Forgive me.
+
+68
+00:04:32,583 --> 00:04:34,208
+[PHOENIX] All I want is
+to prove my innocence,
+
+69
+00:04:34,291 --> 00:04:36,291
+because I would
+never kill anybody!
+
+70
+00:04:36,375 --> 00:04:38,041
+[MIA] I need to keep
+things in perspective,
+
+71
+00:04:38,125 --> 00:04:40,125
+he's got every right
+to be nervous.
+
+72
+00:04:40,208 --> 00:04:42,500
+Come on, Mia. Stay strong!
+
+73
+00:04:42,583 --> 00:04:43,916
+My first trial, a year ago,
+
+74
+00:04:44,000 --> 00:04:46,500
+was such a
+traumatizing experience.
+
+75
+00:04:46,583 --> 00:04:50,583
+I thought I'd never set
+foot inside a courtroom again.
+
+76
+00:04:50,666 --> 00:04:52,750
+But I can't keep running away.
+
+77
+00:04:52,833 --> 00:04:55,375
+I have to go back
+and face my fears.
+
+78
+00:04:55,458 --> 00:04:56,541
+And this time...
+
+79
+00:04:56,625 --> 00:04:58,416
+...I believe in myself.
+
+80
+00:04:58,500 --> 00:05:00,500
+I'm gonna win this!
+
+81
+00:05:00,583 --> 00:05:06,083
+[CROWD murmuring]
+
+82
+00:05:06,166 --> 00:05:07,500
+Order, please!
+
+83
+00:05:07,583 --> 00:05:10,000
+This court is hereby in session
+to hear the murder trial
+
+84
+00:05:10,083 --> 00:05:11,541
+of Mister Phoenix Wright.
+
+85
+00:05:11,625 --> 00:05:14,333
+The defense team is
+ready to begin, Your Honor.
+
+86
+00:05:14,416 --> 00:05:17,583
+Yes, Your Honor. The
+prosecution is ready as well.
+
+87
+00:05:17,666 --> 00:05:19,583
+Ms. Fey. Am I to understand
+
+88
+00:05:19,666 --> 00:05:21,375
+that you'll be
+leading the defense?
+
+89
+00:05:21,458 --> 00:05:23,916
+Um... Yes. Is there a problem?
+
+90
+00:05:24,000 --> 00:05:26,541
+No, but I was under the
+impression Mister Grossberg
+
+91
+00:05:26,625 --> 00:05:28,250
+would be fulfilling
+duties of council.
+
+92
+00:05:28,333 --> 00:05:31,208
+Oh. Well... Mister Grossberg
+had an urgent matter
+
+93
+00:05:31,291 --> 00:05:32,875
+that came up all of a sudden.
+
+94
+00:05:32,958 --> 00:05:34,708
+So I'm here in his
+stead, Your Honor.
+
+95
+00:05:34,791 --> 00:05:35,875
+Is that the case?
+
+96
+00:05:35,958 --> 00:05:37,541
+Because that man
+standing next to you looks
+
+97
+00:05:37,625 --> 00:05:39,375
+a lot like him, Ms. Fey.
+
+98
+00:05:39,458 --> 00:05:40,833
+That's true.
+
+99
+00:05:40,916 --> 00:05:42,375
+It turns out the urgent
+matter was that
+
+100
+00:05:42,458 --> 00:05:44,750
+I desperately needed to
+observe this trial, Your Honor.
+
+101
+00:05:44,833 --> 00:05:45,625
+[MIA]
+Mm-hmm.
+
+102
+00:05:45,708 --> 00:05:46,625
+[JUDGE]
+Hmmmm.
+
+103
+00:05:46,708 --> 00:05:48,041
+[CROWD murmuring]
+
+104
+00:05:48,125 --> 00:05:49,375
+[JUDGE]
+Well then.
+
+105
+00:05:49,458 --> 00:05:51,000
+Mister Payne, proceed with
+your opening statement.
+
+106
+00:05:51,083 --> 00:05:53,166
+[PAYNE]
+Hmm. It boggles the mind.
+
+107
+00:05:53,250 --> 00:05:55,000
+To think they would send
+someone so green to go
+
+108
+00:05:55,083 --> 00:05:57,166
+against a "rookie
+killer" like me.
+
+109
+00:05:57,250 --> 00:05:58,666
+[MIA growls]
+
+110
+00:05:58,750 --> 00:06:00,625
+[PAYNE] Anyway, I'd like to
+proceed with a brief summary
+
+111
+00:06:00,708 --> 00:06:02,291
+of the events in question.
+
+112
+00:06:02,375 --> 00:06:04,916
+This tragic incident
+occurred one rainy afternoon,
+
+113
+00:06:05,000 --> 00:06:07,708
+on the local campus
+of Ivy University.
+
+114
+00:06:07,791 --> 00:06:10,250
+The victim of this
+horrific crime was Doug Swallow,
+
+115
+00:06:10,333 --> 00:06:13,166
+a senior so close to finishing
+his pharmacology degree.
+
+116
+00:06:13,250 --> 00:06:14,625
+[JUDGE]
+Pharmacology.
+
+117
+00:06:14,708 --> 00:06:16,208
+[PAYNE] Some fellow students
+discovered the crime scene
+
+118
+00:06:16,291 --> 00:06:17,541
+and notified the authorities.
+
+119
+00:06:17,625 --> 00:06:19,916
+They found Mr. Swallow's
+body, and the defendant
+
+120
+00:06:20,000 --> 00:06:23,083
+who'd made a complete
+mess of his get-away attempt.
+
+121
+00:06:23,166 --> 00:06:25,625
+Phoenix Wright sits before us.
+
+122
+00:06:25,708 --> 00:06:27,708
+Wright is a third-year
+Ivy University student
+
+123
+00:06:27,791 --> 00:06:30,375
+who is pursuing a degree
+in the arts, of all things.
+
+124
+00:06:30,458 --> 00:06:32,416
+Apparently, this man
+and the late Mister Swallow
+
+125
+00:06:32,500 --> 00:06:34,666
+had some bad blood
+between the two of them.
+
+126
+00:06:34,750 --> 00:06:36,250
+Please elaborate.
+
+127
+00:06:36,333 --> 00:06:38,416
+[PHOENIX] You make it sound like
+there was some big feud, but...
+
+128
+00:06:38,500 --> 00:06:40,041
+[coughs]
+
+129
+00:06:40,125 --> 00:06:42,875
+[JUDGE] Contain your coughing
+or we'll be forced to eject you.
+
+130
+00:06:42,958 --> 00:06:44,458
+[CROWD murmurin]
+
+131
+00:06:44,541 --> 00:06:45,916
+But there was a disagreement
+
+132
+00:06:46,000 --> 00:06:48,833
+between the two men.
+Wasn't there, young lady?
+
+133
+00:06:48,916 --> 00:06:49,791
+[MIA gasps]
+
+134
+00:06:49,875 --> 00:06:51,166
+Nothing to say?
+
+135
+00:06:51,250 --> 00:06:53,708
+[chuckles] If you call yourself
+a defense attorney,
+
+136
+00:06:53,791 --> 00:06:56,333
+surely, you must know all
+about what went down.
+
+137
+00:06:56,416 --> 00:06:59,708
+[MIA] So. He wants to
+test me, does he? Fine.
+
+138
+00:06:59,791 --> 00:07:01,250
+I'm not scared of Payne.
+
+139
+00:07:02,416 --> 00:07:04,458
+I assume this so-called
+"bad blood" you mention
+
+140
+00:07:04,541 --> 00:07:06,958
+has to do with Dahlia Hawthorne?
+
+141
+00:07:07,041 --> 00:07:08,916
+[JUDGE]
+And who might that be?
+
+142
+00:07:09,000 --> 00:07:11,666
+[PAYNE] Currently, the
+defendant's girlfriend.
+
+143
+00:07:11,750 --> 00:07:14,708
+But until half a year ago,
+Miss Hawthorne could usually be
+
+144
+00:07:14,791 --> 00:07:17,375
+found hanging on the arm of
+the victim, Mister Swallow
+
+145
+00:07:17,458 --> 00:07:19,750
+I'm sure that romantic
+entanglement was the motive
+
+146
+00:07:19,833 --> 00:07:21,458
+behind this senseless murder.
+
+147
+00:07:21,541 --> 00:07:24,875
+[JUDGE] Hmm. So it was your
+run-of-the mill love triangle.
+
+148
+00:07:24,958 --> 00:07:26,166
+[PHOENIX]
+I object!
+
+149
+00:07:26,250 --> 00:07:28,291
+You'd better keep my
+sweet Dollie out of this!
+
+150
+00:07:28,375 --> 00:07:29,583
+--[JUDGE] Hmm?
+--[PHOENIX] You hear me?
+
+151
+00:07:29,666 --> 00:07:30,958
+[PAYNE] Please take
+another look at the victim
+
+152
+00:07:31,041 --> 00:07:32,750
+in the crime scene photo.
+
+153
+00:07:32,833 --> 00:07:34,000
+[gasping]
+
+154
+00:07:34,083 --> 00:07:35,958
+[JUDGE] Hm. Is he
+holding a medicine bottle?
+
+155
+00:07:36,041 --> 00:07:38,291
+[PAYNE]
+Indeed. It's Coldkiller Z,
+
+156
+00:07:38,375 --> 00:07:40,833
+an elixir that claims
+it "kills colds dead."
+
+157
+00:07:40,916 --> 00:07:42,958
+[PHOENIX]
+Hey, wait a second, that's mine!
+
+158
+00:07:43,041 --> 00:07:44,666
+I'd been trying to
+kill this cold with it,
+
+159
+00:07:44,750 --> 00:07:47,541
+but I ended up losing the
+bottle somewhere that day.
+
+160
+00:07:47,625 --> 00:07:50,458
+I could swear I had it
+on me till lunchtime, at least.
+
+161
+00:07:50,541 --> 00:07:52,416
+[JUDGE]
+Defendant! Control yourself!
+
+162
+00:07:52,500 --> 00:07:53,500
+[PHOENIX]
+I'm sorry, sir.
+
+163
+00:07:53,583 --> 00:07:54,916
+[MIA]
+He behaves like a child.
+
+164
+00:07:55,000 --> 00:07:57,208
+[PAYNE] Your Honor.
+The defendant's fingerprints
+
+165
+00:07:57,291 --> 00:07:59,833
+were found all over the bottle,
+so he's telling the truth.
+
+166
+00:07:59,916 --> 00:08:01,750
+Mere moments
+before his untimely death,
+
+167
+00:08:01,833 --> 00:08:03,416
+the victim used the last
+bit of his strength
+
+168
+00:08:03,500 --> 00:08:06,125
+he could muster to wrest it
+from the hands of his attacker.
+
+169
+00:08:06,208 --> 00:08:07,583
+All to ensure
+that the killer would be
+
+170
+00:08:07,666 --> 00:08:10,083
+identified as Phoenix Wright!
+
+171
+00:08:10,166 --> 00:08:12,000
+[PHOENIX yells]
+
+172
+00:08:12,083 --> 00:08:14,625
+His argument
+carries incredible force!
+
+173
+00:08:14,708 --> 00:08:16,541
+Another thing I'd
+like to mention is the watch
+
+174
+00:08:16,625 --> 00:08:19,291
+pictured here on the
+victim's wrist is broken.
+
+175
+00:08:19,375 --> 00:08:20,708
+[JUDGE]
+Is that so?
+
+176
+00:08:20,791 --> 00:08:22,083
+[PAYNE]
+The impact from the death-blow
+
+177
+00:08:22,166 --> 00:08:24,416
+is what likely
+caused it to break.
+
+178
+00:08:24,500 --> 00:08:26,500
+So we can take that to
+mean the time of the murder
+
+179
+00:08:26,583 --> 00:08:28,958
+was exactly 3:05 PM.
+
+180
+00:08:29,041 --> 00:08:31,833
+Let us proceed to the
+defendant's cross-examination.
+
+181
+00:08:31,916 --> 00:08:33,875
+State your name and occupation.
+
+182
+00:08:33,958 --> 00:08:36,083
+[PHOENIX] Gladly! My
+name is Phoenix Wright!
+
+183
+00:08:36,166 --> 00:08:40,708
+My occupation is,
+uh, accused murderer?
+
+184
+00:08:40,791 --> 00:08:42,833
+What did you do
+before you were arrested?!
+
+185
+00:08:42,916 --> 00:08:45,000
+[PHOENIX]
+Oh. I'm a college student!
+
+186
+00:08:45,083 --> 00:08:46,541
+[JUDGE] Mister Wright,
+please tell the court
+
+187
+00:08:46,625 --> 00:08:48,750
+about the events of said day.
+
+188
+00:08:51,416 --> 00:08:53,250
+[PHOENIX] That morning,
+Doug had asked me to meet him
+
+189
+00:08:53,333 --> 00:08:57,333
+behind the Pharmacology
+Department at 2:45 PM.
+
+190
+00:08:57,416 --> 00:09:00,625
+We talked for a bit and then
+parted ways around 3.
+
+191
+00:09:00,708 --> 00:09:03,416
+So, had you and the victim
+had any previous interactions?
+
+192
+00:09:03,500 --> 00:09:04,916
+[PHOENIX]
+Never. That was the first time
+
+193
+00:09:05,000 --> 00:09:06,500
+we'd spoken to each other.
+
+194
+00:09:06,583 --> 00:09:08,833
+He said he wanted to
+talk to me about Dollie.
+
+195
+00:09:08,916 --> 00:09:11,166
+Dahlia Hawthorne. Right, Wright?
+
+196
+00:09:11,250 --> 00:09:13,208
+[PHOENIX]
+Yes, Dollie, my soulmate!
+
+197
+00:09:13,291 --> 00:09:15,750
+This sweater I'm wearing
+is a token of our love.
+
+198
+00:09:15,833 --> 00:09:17,791
+And she gave me
+this beautiful pendant!
+
+199
+00:09:17,875 --> 00:09:20,208
+Before I met him,
+she and I had lunch together!
+
+200
+00:09:20,291 --> 00:09:22,041
+She made omelets and
+it was just like eating
+
+201
+00:09:22,125 --> 00:09:23,375
+a little bite of Heaven!
+
+202
+00:09:23,458 --> 00:09:25,541
+You testified that you
+and the victim had a talk.
+
+203
+00:09:25,625 --> 00:09:27,250
+Was that really
+all that happened?
+
+204
+00:09:27,333 --> 00:09:29,000
+[PHOENIX]
+Uh, what do you mean by that?
+
+205
+00:09:29,083 --> 00:09:31,083
+Did the situation
+get heated and escalate
+
+206
+00:09:31,166 --> 00:09:34,375
+into something physical?
+Like shoving?
+
+207
+00:09:34,458 --> 00:09:36,333
+[PHOENIX] No way, I'm just
+not that kind of person,
+
+208
+00:09:36,416 --> 00:09:37,875
+I would never lay
+a finger on the guy!
+
+209
+00:09:37,958 --> 00:09:38,958
+[PAYNE]
+Objection!
+
+210
+00:09:39,041 --> 00:09:40,291
+Please, Your Honor.
+
+211
+00:09:40,375 --> 00:09:42,875
+Go and take another look
+at the crime scene photo.
+
+212
+00:09:42,958 --> 00:09:45,708
+You can see the victim
+was wearing a leather jacket.
+
+213
+00:09:45,791 --> 00:09:48,166
+Upon further inspection,
+we found the defendant's
+
+214
+00:09:48,250 --> 00:09:50,208
+palm print on the left breast.
+
+215
+00:09:50,291 --> 00:09:52,208
+It's there, clear as day.
+
+216
+00:09:52,291 --> 00:09:53,458
+[MIA gasps]
+
+217
+00:09:53,541 --> 00:09:55,458
+Obviously, Mister Wright,
+your testimony
+
+218
+00:09:55,541 --> 00:09:57,166
+to the court is full of lies!
+
+219
+00:09:57,250 --> 00:09:59,500
+[yells, coughs]
+
+220
+00:09:59,583 --> 00:10:01,583
+Well, Wright,
+what do you have to say?
+
+221
+00:10:01,666 --> 00:10:03,083
+[PHOENIX]
+That's exactly what happened!
+
+222
+00:10:03,166 --> 00:10:06,250
+I'm so sorry!
+I really did shove him!
+
+223
+00:10:06,333 --> 00:10:07,458
+[CROWD gasping, murmurin]
+
+224
+00:10:07,541 --> 00:10:09,416
+[JUDGE] Order in the court!
+Order, please!
+
+225
+00:10:09,500 --> 00:10:11,333
+I'm shocked. This is
+the first I've heard of it.
+
+226
+00:10:11,416 --> 00:10:14,333
+We're done, Mia. Might
+as well stick a big fork in us.
+
+227
+00:10:14,416 --> 00:10:16,541
+Not yet. I can't
+just let it end like this.
+
+228
+00:10:16,625 --> 00:10:18,500
+I can think of only one
+way the defendant could have
+
+229
+00:10:18,583 --> 00:10:20,791
+left such an
+unmistakable hand print.
+
+230
+00:10:20,875 --> 00:10:23,333
+He assaulted the
+victim with an intent to kill!
+
+231
+00:10:23,416 --> 00:10:24,375
+[gasps]
+
+232
+00:10:24,458 --> 00:10:25,916
+[JUDGE]
+Hmm. That does make sense.
+
+233
+00:10:26,000 --> 00:10:27,625
+[MIA]
+Objection!
+
+234
+00:10:27,708 --> 00:10:29,000
+[gasping]
+
+235
+00:10:29,083 --> 00:10:30,791
+[PHOENIX]
+Ms. Fey?
+
+236
+00:10:30,875 --> 00:10:33,000
+Even if my client
+did shove the victim,
+
+237
+00:10:33,083 --> 00:10:34,958
+the blow did not
+actually cause his death.
+
+238
+00:10:35,041 --> 00:10:36,166
+This is not a murder!
+
+239
+00:10:36,250 --> 00:10:38,500
+Care to explain that, defense?
+
+240
+00:10:38,583 --> 00:10:40,208
+Look at the autopsy report.
+
+241
+00:10:40,291 --> 00:10:43,083
+It states the cause of
+death was electrocution.
+
+242
+00:10:43,166 --> 00:10:44,833
+He died by electrocution?
+
+243
+00:10:44,916 --> 00:10:46,291
+Remember what
+the weather was like?
+
+244
+00:10:46,375 --> 00:10:48,625
+I mean it was raining cats
+and dogs the entire day.
+
+245
+00:10:48,708 --> 00:10:50,750
+[thunder cracks
+
+246
+00:10:50,833 --> 00:10:52,208
+Considering that fact,
+
+247
+00:10:52,291 --> 00:10:54,333
+it stands to reason the
+most likely cause of death
+
+248
+00:10:54,416 --> 00:10:55,791
+would be a lightning strike.
+
+249
+00:10:55,875 --> 00:10:57,208
+[JUDGE]
+It was an act of God?
+
+250
+00:10:57,291 --> 00:10:59,041
+This wasn't a murder after all.
+
+251
+00:10:59,125 --> 00:11:01,541
+But rather an unfortunate
+freak accident!
+
+252
+00:11:01,625 --> 00:11:03,583
+Oh, brilliant
+deduction, Ms. Fey.
+
+253
+00:11:03,666 --> 00:11:06,458
+[PAYNE chuckles] I wouldn't
+begin the celebration yet
+
+254
+00:11:06,541 --> 00:11:08,208
+if I were you, young rookie.
+
+255
+00:11:08,291 --> 00:11:10,375
+A seasoned prosecutor
+covers every base,
+
+256
+00:11:10,458 --> 00:11:13,458
+so of course I investigated
+the meteorological report.
+
+257
+00:11:13,541 --> 00:11:14,625
+[MIA gasps]
+
+258
+00:11:14,708 --> 00:11:16,166
+There were, in fact,
+no lightning strikes
+
+259
+00:11:16,250 --> 00:11:18,041
+in that area on the
+day of the murder.
+
+260
+00:11:18,125 --> 00:11:19,583
+What? There weren't?
+
+261
+00:11:19,666 --> 00:11:21,833
+Simply look at
+the crime scene photo.
+
+262
+00:11:21,916 --> 00:11:25,208
+And Mister Swallow's true cause
+of death is clearly visible.
+
+263
+00:11:25,291 --> 00:11:26,958
+[MIA]
+That thing. Above him.
+
+264
+00:11:27,041 --> 00:11:29,083
+Is that a severed
+electric cable?
+
+265
+00:11:29,166 --> 00:11:31,708
+Precisely. Your
+client heartlessly pushed
+
+266
+00:11:31,791 --> 00:11:34,666
+the victim toward that cable
+hoping it would end his life.
+
+267
+00:11:34,750 --> 00:11:36,708
+Which, as we all know,
+was exactly the thing
+
+268
+00:11:36,791 --> 00:11:38,541
+that killed Mister Swallow.
+
+269
+00:11:38,625 --> 00:11:40,375
+[yelps]
+
+270
+00:11:40,458 --> 00:11:42,875
+[MIA]
+Was that all just a trap?
+
+271
+00:11:44,125 --> 00:11:46,583
+The prosecution has
+presented a credible motive
+
+272
+00:11:46,666 --> 00:11:48,791
+and explained the method
+of murder in this case.
+
+273
+00:11:48,875 --> 00:11:51,458
+Hold on. No one's proven
+Wright meant to kill him!
+
+274
+00:11:51,541 --> 00:11:53,541
+Did he even know about
+the severed cable?
+
+275
+00:11:53,625 --> 00:11:55,625
+[coughs]
+
+276
+00:11:55,708 --> 00:11:59,000
+It's so sad. The defense
+has resorted to conjecture.
+
+277
+00:11:59,083 --> 00:12:01,083
+Very well.
+I suppose I'll spare you
+
+278
+00:12:01,166 --> 00:12:04,250
+from any further desperation
+and finish you off for good.
+
+279
+00:12:04,333 --> 00:12:05,500
+What do you mean by that?
+
+280
+00:12:05,583 --> 00:12:07,250
+[PAYNE]
+The prosecution has a witness
+
+281
+00:12:07,333 --> 00:12:09,083
+whose testimony is unassailable.
+
+282
+00:12:09,166 --> 00:12:11,333
+[JUDGE] And who might
+that be, Mister Payne?
+
+283
+00:12:11,416 --> 00:12:13,083
+This witness has
+had a horrifying image
+
+284
+00:12:13,166 --> 00:12:14,666
+burned into their mind forever.
+
+285
+00:12:14,750 --> 00:12:16,708
+They actually saw
+the murder as it happened.
+
+286
+00:12:16,791 --> 00:12:17,708
+[gasping]
+
+287
+00:12:17,791 --> 00:12:19,250
+[JUDGE]
+Did they now?
+
+288
+00:12:19,333 --> 00:12:22,375
+[PAYNE chuckles] She has already
+come up in this very trial.
+
+289
+00:12:22,458 --> 00:12:24,083
+Her name is
+Miss Dahlia Hawthorne!
+
+290
+00:12:24,166 --> 00:12:25,416
+[MIA growls]
+
+291
+00:12:25,500 --> 00:12:27,250
+[PHOENIX] Oh, I knew
+that my sweet little Dollie
+
+292
+00:12:27,333 --> 00:12:28,583
+would come and save me!
+
+293
+00:12:28,666 --> 00:12:29,625
+My love!
+
+294
+00:12:29,708 --> 00:12:31,875
+[coughs]
+
+295
+00:12:31,958 --> 00:12:33,416
+[JUDGE]
+Order in this court!
+
+296
+00:12:33,500 --> 00:12:36,500
+I call Miss Dahlia Hawthorne
+to come to the witness stand!
+
+297
+00:12:42,750 --> 00:12:43,875
+[PHOENIX]
+Dollie!
+
+298
+00:12:51,916 --> 00:12:53,875
+[DAHLIA giggles]
+
+299
+00:12:53,958 --> 00:12:56,833
+I'm afraid this witness
+reeks of bad news for us.
+
+300
+00:12:56,916 --> 00:12:59,291
+[MIA]
+Hmph. I doubt that.
+
+301
+00:12:59,375 --> 00:13:02,625
+In fact, this is just the
+news I've been waiting for.
+
+302
+00:13:04,375 --> 00:13:07,500
+Your time's up...
+Dahlia Hawthorne!
+
+303
+00:13:09,500 --> 00:13:10,833
+[PAYNE]
+If you would be so kind--
+
+304
+00:13:10,916 --> 00:13:13,041
+Who are you, and what do you do?
+
+305
+00:13:13,125 --> 00:13:15,541
+Who, me? Well, I, uh...
+
+306
+00:13:15,625 --> 00:13:17,000
+Aww, poor thing.
+
+307
+00:13:17,083 --> 00:13:19,041
+There's no reason for you
+to be nervous, sweetie.
+
+308
+00:13:19,125 --> 00:13:21,083
+Yeah! If anyone
+even makes one rude remark
+
+309
+00:13:21,166 --> 00:13:23,125
+toward you, I will make
+them eat their words!
+
+310
+00:13:23,208 --> 00:13:25,875
+I'll use my gavel to
+teach them about respect!
+
+311
+00:13:25,958 --> 00:13:27,833
+[MIA] How comforting
+that they're glaring at me
+
+312
+00:13:27,916 --> 00:13:29,500
+when they say that.
+
+313
+00:13:29,583 --> 00:13:31,291
+You're both sweet.
+
+314
+00:13:31,375 --> 00:13:32,666
+Oh, but of course.
+
+315
+00:13:32,750 --> 00:13:34,125
+It's my pleasure, dear.
+
+316
+00:13:34,208 --> 00:13:36,750
+I believe you'd asked for
+her name and occupation?
+
+317
+00:13:36,833 --> 00:13:41,500
+[DAHLIA] Hmm. You're still
+the same as ever, Mia Fey.
+
+318
+00:13:41,583 --> 00:13:42,625
+[MIA]
+Hmph.
+
+319
+00:13:44,250 --> 00:13:48,166
+Oh, my. Does this mean the two
+of you are already acquainted?
+
+320
+00:13:48,250 --> 00:13:49,916
+We've met, just once.
+
+321
+00:13:50,000 --> 00:13:52,916
+To answer your question,
+my name is Dahlia Hawthorne.
+
+322
+00:13:53,000 --> 00:13:56,000
+A literature student
+at Ivy University.
+
+323
+00:13:56,083 --> 00:13:58,083
+It's truly an honor
+to be here in the presence
+
+324
+00:13:58,166 --> 00:13:59,833
+of such great legal minds.
+
+325
+00:13:59,916 --> 00:14:00,833
+I'm honored, too.
+
+326
+00:14:00,916 --> 00:14:03,000
+Yet still we try to stay humble.
+
+327
+00:14:03,083 --> 00:14:04,958
+She wasted zero time
+getting the old boys
+
+328
+00:14:05,041 --> 00:14:06,791
+wrapped around her
+little finger.
+
+329
+00:14:10,541 --> 00:14:12,666
+[DAHLIA] That day, I
+had gone over to meet
+
+330
+00:14:12,750 --> 00:14:15,250
+sweetie Feenie
+after class let out.
+
+331
+00:14:15,333 --> 00:14:17,958
+[JUDGE]
+Who's that? Oh, the defendant?
+
+332
+00:14:18,041 --> 00:14:20,875
+[DAHLIA] Yes, sir. I came
+across Feenie and Dougie.
+
+333
+00:14:20,958 --> 00:14:22,666
+They were having
+some sort of conversation
+
+334
+00:14:22,750 --> 00:14:25,166
+behind the building.
+
+335
+00:14:25,250 --> 00:14:27,500
+I was too far to hear
+what they were saying,
+
+336
+00:14:27,583 --> 00:14:30,833
+but all of a sudden Dougie got
+angry and gave Feenie a big pow.
+
+337
+00:14:30,916 --> 00:14:33,291
+Say what? The victim
+pow'd the defendant?
+
+338
+00:14:33,375 --> 00:14:35,125
+[DAHLIA] Yeah! I didn't see
+Feenie do anything
+
+339
+00:14:35,208 --> 00:14:36,541
+to deserve it!
+
+340
+00:14:36,625 --> 00:14:39,166
+He had no choice but
+to shove him back after that.
+
+341
+00:14:40,625 --> 00:14:42,500
+[DAHLIA] Poor Dougie
+slammed into the utility pole
+
+342
+00:14:42,583 --> 00:14:44,625
+and snapped the electric cable.
+
+343
+00:14:46,875 --> 00:14:48,791
+I could see Dougie
+get up and desperately try
+
+344
+00:14:48,875 --> 00:14:52,000
+to skedaddle his way outta
+there, but Feeny followed him.
+
+345
+00:14:52,083 --> 00:14:54,458
+He ran over and shoved him
+again from the back,
+
+346
+00:14:54,541 --> 00:14:56,708
+knocking him to the ground.
+
+347
+00:14:56,791 --> 00:14:58,791
+And at the exact same
+moment that Dougie collapsed,
+
+348
+00:14:58,875 --> 00:15:01,208
+I heard an extremely loud,
+cracking noise.
+
+349
+00:15:01,291 --> 00:15:03,125
+I thought my little
+heart was going to pitter-patter
+
+350
+00:15:03,208 --> 00:15:04,458
+right out of my chest!
+
+351
+00:15:04,541 --> 00:15:07,125
+I'm pitter-pattering
+just hearing about it.
+
+352
+00:15:07,208 --> 00:15:09,125
+A loud cracking noise, you say?
+
+353
+00:15:09,208 --> 00:15:11,000
+There's no doubt that what
+you heard must've been
+
+354
+00:15:11,083 --> 00:15:12,958
+the victim being electrocuted.
+
+355
+00:15:13,041 --> 00:15:14,541
+[DAHLIA] All of this happened
+mere moments after
+
+356
+00:15:14,625 --> 00:15:17,041
+that cable was knocked
+loose and fell.
+
+357
+00:15:19,208 --> 00:15:20,291
+[MIA gasps]
+
+358
+00:15:20,375 --> 00:15:22,916
+Well then.
+The witness's testimony
+
+359
+00:15:23,000 --> 00:15:25,291
+makes it crystal clear
+how the murder happened.
+
+360
+00:15:25,375 --> 00:15:26,958
+And the prosecution
+has also gathered
+
+361
+00:15:27,041 --> 00:15:28,833
+corroborating testimony.
+
+362
+00:15:28,916 --> 00:15:30,458
+Oh? Who'd you get that from?
+
+363
+00:15:30,541 --> 00:15:32,791
+[PAYNE] The science majors
+who were conducting experiments
+
+364
+00:15:32,875 --> 00:15:34,583
+in one of the labs nearby.
+
+365
+00:15:34,666 --> 00:15:36,875
+Allow me to read
+their prepared statement.
+
+366
+00:15:36,958 --> 00:15:39,541
+"Around 3 PM, all of the
+electrical equipment in the lab
+
+367
+00:15:39,625 --> 00:15:41,791
+simultaneously lost power."
+
+368
+00:15:41,875 --> 00:15:44,458
+[JUDGE]
+So, was there a blackout?
+
+369
+00:15:44,541 --> 00:15:46,500
+[PAYNE] Yes. There are
+logs of a blackout taking
+
+370
+00:15:46,583 --> 00:15:48,666
+place at 2:55 PM.
+
+371
+00:15:48,750 --> 00:15:50,333
+The equipment
+in that particular lab
+
+372
+00:15:50,416 --> 00:15:52,375
+requires high
+voltage to operate.
+
+373
+00:15:52,458 --> 00:15:54,375
+Which was being supplied
+by the cable that had been
+
+374
+00:15:54,458 --> 00:15:56,750
+severed at that time.
+
+375
+00:15:56,833 --> 00:16:00,208
+The defendant met with the
+victim at 2:45 that afternoon.
+
+376
+00:16:00,291 --> 00:16:02,875
+And a mere ten minutes later he
+had caused the untimely death
+
+377
+00:16:02,958 --> 00:16:04,666
+of poor Mister Swallow.
+
+378
+00:16:04,750 --> 00:16:06,291
+This is the shocking
+truth of what happened
+
+379
+00:16:06,375 --> 00:16:07,875
+that fateful day!
+
+380
+00:16:07,958 --> 00:16:09,833
+[CROWD murmurin]
+
+381
+00:16:09,916 --> 00:16:13,083
+[JUDGE] Hmm. There's
+little room for doubt.
+
+382
+00:16:13,166 --> 00:16:15,666
+Thanks for your brave
+and helpful testimony.
+
+383
+00:16:15,750 --> 00:16:17,000
+Thank you.
+
+384
+00:16:17,083 --> 00:16:18,666
+I couldn't hide the truth
+from you, Your Honor.
+
+385
+00:16:18,750 --> 00:16:19,625
+[MIA]
+Objection!
+
+386
+00:16:19,708 --> 00:16:21,500
+--[yells]
+--[screams]
+
+387
+00:16:23,125 --> 00:16:25,875
+I hate to break it to you,
+but that's not going to fly.
+
+388
+00:16:25,958 --> 00:16:27,250
+Huh?
+
+389
+00:16:27,333 --> 00:16:28,708
+[MIA] The only thing brave
+about her testimony...
+
+390
+00:16:28,791 --> 00:16:30,625
+...is that she's
+risking perjury!
+
+391
+00:16:30,708 --> 00:16:32,666
+[PAYNE]
+Really? In what way?
+
+392
+00:16:32,750 --> 00:16:33,791
+[DAHLIA growls]
+
+393
+00:16:33,875 --> 00:16:36,375
+The electric cable
+was severed at 2:55.
+
+394
+00:16:36,458 --> 00:16:39,833
+This must be when my client
+admittedly shoved the victim.
+
+395
+00:16:39,916 --> 00:16:41,791
+But looking at
+the crime scene photo.
+
+396
+00:16:41,875 --> 00:16:45,291
+We can see the victim's watch
+stopped functioning at 3:05.
+
+397
+00:16:45,375 --> 00:16:47,208
+How can you explain
+the ten minute gap?
+
+398
+00:16:47,291 --> 00:16:48,500
+[gasping]
+
+399
+00:16:48,583 --> 00:16:49,708
+[gasps]
+
+400
+00:16:49,791 --> 00:16:51,833
+In the sworn testimony
+you gave the court,
+
+401
+00:16:51,916 --> 00:16:54,041
+you stated that the incident
+took place mere moments
+
+402
+00:16:54,125 --> 00:16:56,041
+after the cable was
+severed right?
+
+403
+00:16:56,125 --> 00:16:58,250
+I'll ask again!
+
+404
+00:16:58,333 --> 00:17:00,333
+Do you have any
+reasonable explanation
+
+405
+00:17:00,416 --> 00:17:01,541
+for this discrepancy?
+
+406
+00:17:01,625 --> 00:17:02,458
+[DAHLIA whimpers]
+
+407
+00:17:02,541 --> 00:17:03,791
+[yelps]
+
+408
+00:17:03,875 --> 00:17:07,541
+[CROWD murmurin]
+
+409
+00:17:07,625 --> 00:17:09,208
+Tell me, Miss Hawthorne.
+
+410
+00:17:09,291 --> 00:17:11,708
+Why must you continuously
+spout these lies?
+
+411
+00:17:11,791 --> 00:17:12,958
+What?
+
+412
+00:17:13,041 --> 00:17:13,916
+[MIA] It's almost like
+you're actively trying
+
+413
+00:17:14,000 --> 00:17:15,541
+to frame your boyfriend.
+
+414
+00:17:15,625 --> 00:17:16,458
+[DAHLIA growls]
+
+415
+00:17:16,541 --> 00:17:17,916
+--[JUDGE] Hmm?
+--[PAYNE gasps]
+
+416
+00:17:18,000 --> 00:17:20,458
+[PHOENIX] But... why would
+she wanna frame me?
+
+417
+00:17:20,541 --> 00:17:26,500
+[CROWD murmuring]
+
+418
+00:17:26,583 --> 00:17:29,666
+[MIA] You seem to be a magnet
+for tragic incidents like this.
+
+419
+00:17:29,750 --> 00:17:32,291
+The last one was
+only eight months ago.
+
+420
+00:17:32,375 --> 00:17:34,666
+[JUDGE]
+Hmm? What happened then?
+
+421
+00:17:34,750 --> 00:17:36,541
+[DAHLIA gasps, growls]
+
+422
+00:17:39,250 --> 00:17:41,750
+To jog your memory,
+this particular event took place
+
+423
+00:17:41,833 --> 00:17:43,708
+in this courthouse.
+
+424
+00:17:43,791 --> 00:17:44,833
+Observe.
+
+425
+00:17:44,916 --> 00:17:46,375
+[PAYNE]
+What is it?
+
+426
+00:17:46,458 --> 00:17:50,541
+[JUDGE] Hm. I remember now.
+What a shock that was.
+
+427
+00:17:50,625 --> 00:17:52,916
+[MIA] Miss Hawthorne.
+You were on the scene as well,
+
+428
+00:17:53,000 --> 00:17:54,916
+when that terrible
+incident took place.
+
+429
+00:17:55,000 --> 00:17:56,250
+[DAHLIA gasps]
+
+430
+00:17:56,333 --> 00:17:57,458
+[MIA] When researching
+the investigation reports
+
+431
+00:17:57,541 --> 00:17:59,375
+submitted at the time,
+
+432
+00:17:59,458 --> 00:18:02,583
+I couldn't help but notice
+who was the prime suspect.
+
+433
+00:18:02,666 --> 00:18:04,041
+It was you!
+
+434
+00:18:04,125 --> 00:18:06,000
+That's totally ludicrous!
+
+435
+00:18:06,083 --> 00:18:08,250
+[PHOENIX]
+Dollie was the prime suspect?
+
+436
+00:18:08,333 --> 00:18:09,708
+I don't believe it.
+
+437
+00:18:09,791 --> 00:18:12,250
+The crime that rocked this
+courthouse eight months ago
+
+438
+00:18:12,333 --> 00:18:13,916
+has a link to this case.
+
+439
+00:18:14,000 --> 00:18:15,416
+--Say wha...?
+--And what would that be,
+
+440
+00:18:15,500 --> 00:18:17,625
+--defense?
+--There was a trial going on.
+
+441
+00:18:17,708 --> 00:18:19,041
+The defense lawyer
+summoned a witness
+
+442
+00:18:19,125 --> 00:18:20,375
+to come in for questioning.
+
+443
+00:18:20,458 --> 00:18:23,083
+And they are the link
+to this current case.
+
+444
+00:18:23,166 --> 00:18:26,291
+The witness
+was Dahlia Hawthorne.
+
+445
+00:18:26,375 --> 00:18:27,666
+[DAHLIA growls]
+
+446
+00:18:27,750 --> 00:18:30,625
+[MIA] She met the lawyer
+in the cafeteria downstairs.
+
+447
+00:18:33,666 --> 00:18:35,291
+[MIA] And that's where
+it all happened.
+
+448
+00:18:37,541 --> 00:18:39,166
+Somebody laced
+the coffee that lawyer
+
+449
+00:18:39,250 --> 00:18:41,791
+was drinking with poison.
+And Miss Hawthorne was named
+
+450
+00:18:41,875 --> 00:18:43,791
+suspect number
+one in that crime.
+
+451
+00:18:43,875 --> 00:18:45,541
+[PHOENIX]
+Not my sweet Dollie.
+
+452
+00:18:45,625 --> 00:18:47,166
+No. It's not true.
+
+453
+00:18:47,250 --> 00:18:48,583
+I have a request.
+
+454
+00:18:48,666 --> 00:18:51,208
+No, a demand, that Miss
+Hawthorne give sworn testimony
+
+455
+00:18:51,291 --> 00:18:53,083
+regarding that incident
+before this court!
+
+456
+00:18:53,166 --> 00:18:54,375
+[PAYNE]
+Objection!
+
+457
+00:18:54,458 --> 00:18:56,750
+What? That's completely absurd!
+
+458
+00:18:56,833 --> 00:18:58,083
+I won't stand for this!
+
+459
+00:18:58,166 --> 00:18:59,208
+I, uh...
+
+460
+00:18:59,291 --> 00:19:00,666
+I fail to see how
+an isolated incident
+
+461
+00:19:00,750 --> 00:19:01,791
+has anything to
+do with this case!
+
+462
+00:19:01,875 --> 00:19:03,375
+[DAHLIA]
+Mister Prosecutor?
+
+463
+00:19:03,458 --> 00:19:06,250
+I believe I was speaking,
+when you interrupted me.
+
+464
+00:19:06,333 --> 00:19:10,791
+Oh. I'm sorry. Go ahead, dear.
+
+465
+00:19:10,875 --> 00:19:12,166
+I appreciate it.
+
+466
+00:19:12,250 --> 00:19:14,291
+And what Ms. Fey
+was saying is true.
+
+467
+00:19:14,375 --> 00:19:17,041
+Eight months ago, I was
+under a suspicious eyeball.
+
+468
+00:19:17,125 --> 00:19:19,708
+[JUDGE] You mean...
+The police were eyeballing you?
+
+469
+00:19:19,791 --> 00:19:22,833
+[DAHLIA] That's why I wanna set
+the record straight for good.
+
+470
+00:19:22,916 --> 00:19:26,458
+And prove beyond any doubt
+I had absolutely no part in it!
+
+471
+00:19:26,541 --> 00:19:27,750
+But... There's no need
+
+472
+00:19:27,833 --> 00:19:29,250
+for you to go through
+all that trauma again!
+
+473
+00:19:29,333 --> 00:19:30,875
+[gavel bangs]
+
+474
+00:19:30,958 --> 00:19:32,750
+The end goal
+of this trial today,
+
+475
+00:19:32,833 --> 00:19:35,500
+is to figure out who's at
+fault for a loss of life.
+
+476
+00:19:35,583 --> 00:19:37,458
+You believe her
+testimony on that case
+
+477
+00:19:37,541 --> 00:19:39,000
+will help us reach that goal?
+
+478
+00:19:39,083 --> 00:19:40,583
+I do.
+
+479
+00:19:40,666 --> 00:19:43,666
+Then the prosecution's
+objection is overruled.
+
+480
+00:19:43,750 --> 00:19:46,083
+I appreciate it, Your Honor.
+
+481
+00:19:46,166 --> 00:19:47,166
+[PHOENIX]
+Dollie...
+
+482
+00:19:47,250 --> 00:19:49,000
+[PAYNE whines]
+
+483
+00:19:49,083 --> 00:19:51,333
+[MIA] All right, now that I've
+tied the two crimes together,
+
+484
+00:19:51,416 --> 00:19:54,166
+I need to stay on the offensive.
+I've got this!
+
+485
+00:19:54,250 --> 00:19:55,750
+Excellent move, Ms. Fey.
+
+486
+00:19:55,833 --> 00:19:58,250
+I finally understand why you
+were so hell-bent on taking on
+
+487
+00:19:58,333 --> 00:19:59,583
+this particular case.
+
+488
+00:19:59,666 --> 00:20:00,958
+I had my reasons.
+
+489
+00:20:01,041 --> 00:20:04,541
+Oh. This kind of spunk
+lights a fire inside me!
+
+490
+00:20:04,625 --> 00:20:07,291
+Go on and take no prisoners!
+Give 'em hell!
+
+491
+00:20:07,375 --> 00:20:08,791
+Right!
+
+492
+00:20:08,875 --> 00:20:10,500
+Things are about to get real!
+
+493
+00:20:10,583 --> 00:20:13,250
+I'll make you proud.
+Just watch me!
+
+494
+00:20:15,750 --> 00:20:17,291
+Now, Miss Hawthorne,
+
+495
+00:20:17,375 --> 00:20:19,333
+you know what's expected of you.
+
+496
+00:20:19,416 --> 00:20:22,708
+Tell us about the events
+of eight months ago.
+
+497
+00:20:22,791 --> 00:20:24,791
+That day, I was
+meeting with the lawyer
+
+498
+00:20:24,875 --> 00:20:27,833
+in the cafeteria downstairs
+to discuss something.
+
+499
+00:20:27,916 --> 00:20:30,250
+I left my seat briefly,
+just for a moment,
+
+500
+00:20:30,333 --> 00:20:32,625
+and that's when it happened.
+
+501
+00:20:32,708 --> 00:20:34,041
+When I came back to the table.
+
+502
+00:20:34,125 --> 00:20:37,375
+I found him lying prone
+on the floor.
+
+503
+00:20:37,458 --> 00:20:40,291
+You say you left your
+seat for "just a moment."
+
+504
+00:20:40,375 --> 00:20:42,583
+How long was it, exactly?
+
+505
+00:20:42,666 --> 00:20:45,000
+If I were to
+guess at a specific time?
+
+506
+00:20:45,083 --> 00:20:46,625
+Ten to 20 minutes.
+
+507
+00:20:46,708 --> 00:20:48,500
+[MIA] Why did you leave
+and where did you go?
+
+508
+00:20:48,583 --> 00:20:51,291
+[gasps]
+Well, I, uh...
+
+509
+00:20:51,375 --> 00:20:55,166
+Huh. There are some things a
+lady doesn't need to divulge.
+
+510
+00:20:55,250 --> 00:20:57,750
+Anyway, the police
+investigated her back then,
+
+511
+00:20:57,833 --> 00:21:00,583
+so this line of
+questioning is redundant.
+
+512
+00:21:00,666 --> 00:21:01,916
+I concur.
+
+513
+00:21:03,583 --> 00:21:05,916
+[DAHLIA]
+According to the constabulary,
+
+514
+00:21:06,000 --> 00:21:09,416
+they discovered some traces of
+a lethal poison in the coffee.
+
+515
+00:21:09,500 --> 00:21:11,666
+Supposedly,
+a special kind of poison.
+
+516
+00:21:11,750 --> 00:21:12,958
+What does that mean?
+
+517
+00:21:13,041 --> 00:21:14,666
+[DAHLIA]
+Well. They said it was purified
+
+518
+00:21:14,750 --> 00:21:17,375
+through a very unique
+chemical process.
+
+519
+00:21:17,458 --> 00:21:18,916
+I'd like to point
+out this young lady
+
+520
+00:21:19,000 --> 00:21:21,625
+studies literature,
+not advanced chemistry.
+
+521
+00:21:21,708 --> 00:21:24,541
+Right. Anyway,
+once the authorities arrived.
+
+522
+00:21:24,625 --> 00:21:26,333
+I was thoroughly
+frisked for evidence.
+
+523
+00:21:26,416 --> 00:21:28,250
+What? No way!
+
+524
+00:21:28,333 --> 00:21:30,083
+Those swine! How dare they?
+
+525
+00:21:30,166 --> 00:21:31,708
+[coughs]
+
+526
+00:21:31,791 --> 00:21:34,583
+Obviously, they
+didn't find any poison on me.
+
+527
+00:21:34,666 --> 00:21:37,375
+Nothing. So that
+proves my innocence!
+
+528
+00:21:37,458 --> 00:21:38,750
+She's right!
+
+529
+00:21:38,833 --> 00:21:40,416
+My Dollie is the most
+innocent girl I've ever met!
+
+530
+00:21:40,500 --> 00:21:42,000
+About this poison.
+
+531
+00:21:42,083 --> 00:21:44,750
+Do you happen to know how
+large a dose he was given?
+
+532
+00:21:44,833 --> 00:21:47,958
+I don't.
+Sorry, they didn't tell me.
+
+533
+00:21:48,041 --> 00:21:49,791
+Oh. Ms. Fey.
+
+534
+00:21:49,875 --> 00:21:53,541
+According to the officer I spoke
+with, it was a liquid poison.
+
+535
+00:21:53,625 --> 00:21:56,833
+Small enough to be contained
+inside an eyedropper bottle.
+
+536
+00:21:56,916 --> 00:21:58,375
+That's not very much at all.
+
+537
+00:21:58,458 --> 00:21:59,916
+[JUDGE]
+After the incident,
+
+538
+00:22:00,000 --> 00:22:03,083
+the entire courthouse was turned
+upside down in the search.
+
+539
+00:22:03,166 --> 00:22:05,041
+But unfortunately,
+there was no small vessel
+
+540
+00:22:05,125 --> 00:22:07,208
+like that to be found
+anywhere in the building.
+
+541
+00:22:07,291 --> 00:22:08,958
+[PAYNE]
+So, no trace of it?
+
+542
+00:22:09,041 --> 00:22:10,166
+[CROWD gasping]
+
+543
+00:22:10,250 --> 00:22:11,750
+[MIA]
+By the way. If you would...
+
+544
+00:22:11,833 --> 00:22:13,541
+Can you tell us what
+you were here to discuss
+
+545
+00:22:13,625 --> 00:22:15,208
+with the lawyer that day?
+
+546
+00:22:17,416 --> 00:22:20,125
+It was in regard to an
+incident that I was swept up in
+
+547
+00:22:20,208 --> 00:22:22,250
+when I was just a little girl.
+
+548
+00:22:22,333 --> 00:22:26,083
+For some reason he
+wanted to talk to me about it.
+
+549
+00:22:26,166 --> 00:22:28,291
+Will you share with the
+court what that incident was?
+
+550
+00:22:28,375 --> 00:22:29,708
+Objection!
+
+551
+00:22:29,791 --> 00:22:31,666
+Whatever it is, I'm sure it has
+absolutely nothing to do
+
+552
+00:22:31,750 --> 00:22:32,958
+with this trial, Your Honor!
+
+553
+00:22:33,041 --> 00:22:34,625
+Objection sustained.
+
+554
+00:22:34,708 --> 00:22:36,750
+The defense's question
+will hereby be stricken
+
+555
+00:22:36,833 --> 00:22:38,500
+from the record.
+
+556
+00:22:40,375 --> 00:22:42,125
+[MIA] You seem to get
+"swept up," as you say,
+
+557
+00:22:42,208 --> 00:22:45,041
+in a fair number of
+incidents, right?
+
+558
+00:22:45,125 --> 00:22:47,958
+When you were younger,
+eight months ago,
+
+559
+00:22:48,041 --> 00:22:49,833
+and now, this one.
+
+560
+00:22:49,916 --> 00:22:51,708
+Looking at the
+specifics of that case,
+
+561
+00:22:51,791 --> 00:22:54,708
+the tragedy with the lawyer
+occurred on the 27th of August
+
+562
+00:22:54,791 --> 00:22:56,083
+this past year.
+
+563
+00:22:56,166 --> 00:22:58,958
+You certainly have
+had an abundance of misfortune.
+
+564
+00:22:59,041 --> 00:23:00,500
+Yes, that's true.
+
+565
+00:23:00,583 --> 00:23:03,541
+Sometimes, I feel like I must've
+been born under a bad sign.
+
+566
+00:23:03,625 --> 00:23:04,666
+[PHOENIX wails]
+
+567
+00:23:04,750 --> 00:23:06,958
+Oh. My. What's wrong with you?
+
+568
+00:23:07,041 --> 00:23:11,333
+August 27th?
+That was our day of destiny!
+
+569
+00:23:11,416 --> 00:23:12,541
+Meaning what exactly?
+
+570
+00:23:12,625 --> 00:23:14,166
+That was the day
+Dollie and I first embarked
+
+571
+00:23:14,250 --> 00:23:17,375
+upon our love journey together,
+inside this courthouse!
+
+572
+00:23:17,458 --> 00:23:18,375
+[JUDGE gasping]
+
+573
+00:23:18,458 --> 00:23:19,375
+[DAHLIA growls]
+
+574
+00:23:19,458 --> 00:23:21,000
+You remember
+that magical moment!
+
+575
+00:23:21,083 --> 00:23:22,416
+Right, babe?
+
+576
+00:23:22,500 --> 00:23:24,041
+When we first met down in
+the basement reading room?
+
+577
+00:23:24,125 --> 00:23:27,541
+Feenie. Not now.
+That's between us.
+
+578
+00:23:27,625 --> 00:23:29,125
+You met Miss
+Hawthorne down there?
+
+579
+00:23:29,208 --> 00:23:30,708
+You bet!
+
+580
+00:23:30,791 --> 00:23:33,041
+I was studying in the reading
+room when my angel descended.
+
+581
+00:23:33,125 --> 00:23:36,333
+My soul mate was sent to me
+straight from Heaven!
+
+582
+00:23:36,416 --> 00:23:37,958
+The moment we
+laid eyes on each other,
+
+583
+00:23:38,041 --> 00:23:40,250
+the air itself became electric!
+
+584
+00:23:40,333 --> 00:23:42,916
+We're living proof
+of love at first sight!
+
+585
+00:23:44,083 --> 00:23:45,833
+And she is so generous!
+
+586
+00:23:45,916 --> 00:23:48,125
+She gave me this
+pendant right then!
+
+587
+00:23:48,208 --> 00:23:50,958
+A symbol of our undying love!
+
+588
+00:23:51,041 --> 00:23:52,625
+She took one
+look at me and said,
+
+589
+00:23:52,708 --> 00:23:54,333
+"I want you to have this."
+
+590
+00:23:54,416 --> 00:23:57,791
+And she shyly took it off
+her neck and put it on mine!
+
+591
+00:23:57,875 --> 00:24:01,416
+Oh, wow. So she gave
+this to you that very day?
+
+592
+00:24:01,500 --> 00:24:03,125
+--Just on a whim?
+--She did!
+
+593
+00:24:03,208 --> 00:24:06,375
+It fills me with so much joy,
+I show it to everyone I meet.
+
+594
+00:24:06,458 --> 00:24:08,416
+Joy is contagious,
+and I'm trying to spread
+
+595
+00:24:08,500 --> 00:24:09,666
+--as much as I can.
+--[DAHLIA] Feenie, I said...
+
+596
+00:24:09,750 --> 00:24:11,833
+But she gets
+embarrassed so darn easily.
+
+597
+00:24:11,916 --> 00:24:13,875
+So every time that
+we've met up lately,
+
+598
+00:24:13,958 --> 00:24:16,250
+she tries to make me
+give it back to her.
+
+599
+00:24:16,333 --> 00:24:19,000
+Give it back?
+But it was a gift, right?
+
+600
+00:24:19,083 --> 00:24:21,166
+Huh. Seems odd to me.
+
+601
+00:24:21,250 --> 00:24:24,125
+Ha! Well, she's definitely
+a one-in-a-million girl!
+
+602
+00:24:24,208 --> 00:24:26,541
+Even on the day I met Doug,
+she was like, "Give it back!"
+
+603
+00:24:26,625 --> 00:24:28,250
+and I was like, "But I'm
+so proud of our love!"
+
+604
+00:24:28,333 --> 00:24:29,541
+Feenie, stop!
+
+605
+00:24:29,625 --> 00:24:30,458
+[gasps]
+
+606
+00:24:30,541 --> 00:24:33,041
+[DAHLIA growls]
+
+607
+00:24:33,125 --> 00:24:35,416
+Enough! I will have order!
+
+608
+00:24:37,000 --> 00:24:40,083
+Ah! [coughs]
+
+609
+00:24:40,166 --> 00:24:43,833
+Let go! [coughs]
+
+610
+00:24:43,916 --> 00:24:45,083
+[gasps]
+
+611
+00:24:47,791 --> 00:24:48,958
+[MIA]
+Eight months ago,
+
+612
+00:24:49,041 --> 00:24:51,083
+Dahlia Hawthorne left
+her seat at the table,
+
+613
+00:24:51,166 --> 00:24:53,416
+and my colleague
+collapsed onto the floor.
+
+614
+00:24:53,500 --> 00:24:56,375
+That same day, she met
+Mister Wright in this building,
+
+615
+00:24:56,458 --> 00:24:58,083
+and gave him a strange pendant.
+
+616
+00:24:59,875 --> 00:25:01,833
+It's perfectly clear to me now.
+
+617
+00:25:01,916 --> 00:25:04,708
+[JUDGE]
+Hmm? Well, that makes one of us.
+
+618
+00:25:04,791 --> 00:25:05,875
+Your Honor,
+
+619
+00:25:05,958 --> 00:25:08,375
+I know what happened
+eight months ago.
+
+620
+00:25:08,458 --> 00:25:12,041
+And the one who
+poisoned that cup of coffee...
+
+621
+00:25:12,125 --> 00:25:14,666
+...was this woman,
+Dahlia Hawthorne.
+
+622
+00:25:14,750 --> 00:25:16,583
+No, that's impossible.
+
+623
+00:25:16,666 --> 00:25:19,791
+Remember? The police patted
+me down and searched me.
+
+624
+00:25:19,875 --> 00:25:22,625
+Of course, they didn't
+find any trace of poison.
+
+625
+00:25:22,708 --> 00:25:24,208
+What's more...
+
+626
+00:25:24,291 --> 00:25:26,041
+The poison container was nowhere
+to be found in the courthouse.
+
+627
+00:25:26,125 --> 00:25:28,916
+You have no evidence
+to support this claim!
+
+628
+00:25:29,000 --> 00:25:31,958
+Because all you had
+to do was hide the container.
+
+629
+00:25:32,041 --> 00:25:33,791
+Somewhere they
+wouldn't think to look for it.
+
+630
+00:25:33,875 --> 00:25:34,875
+[DAHLIA growls]
+
+631
+00:25:34,958 --> 00:25:36,375
+[PAYNE]
+But they searched everywhere!
+
+632
+00:25:36,458 --> 00:25:39,125
+Right? Every corner.
+High and low.
+
+633
+00:25:39,208 --> 00:25:42,291
+Tell us. Just where
+did she hide it?
+
+634
+00:25:42,375 --> 00:25:44,125
+[MIA]
+This is a pivotal moment.
+
+635
+00:25:44,208 --> 00:25:46,500
+I've reached the
+point of no return.
+
+636
+00:25:46,583 --> 00:25:49,916
+That day, after you had
+poisoned the lawyer's coffee,
+
+637
+00:25:50,000 --> 00:25:53,291
+you left your seat, so you could
+go and dispose of the evidence.
+
+638
+00:25:53,375 --> 00:25:55,875
+Immediately afterward,
+by some miracle of fate,
+
+639
+00:25:55,958 --> 00:25:57,541
+in the basement
+of this courthouse,
+
+640
+00:25:57,625 --> 00:25:59,208
+you met your new boyfriend.
+
+641
+00:25:59,291 --> 00:26:00,125
+[gasps]
+
+642
+00:26:00,208 --> 00:26:02,250
+Uh, what? Hang on.
+
+643
+00:26:02,333 --> 00:26:03,500
+[MIA]
+But in truth...
+
+644
+00:26:03,583 --> 00:26:05,291
+What she'd really found
+on that eventful day,
+
+645
+00:26:05,375 --> 00:26:07,250
+was the perfect hiding place.
+
+646
+00:26:07,333 --> 00:26:09,208
+Somebody completely unrelated.
+
+647
+00:26:09,291 --> 00:26:11,583
+A person the cops
+would never think to search.
+
+648
+00:26:11,666 --> 00:26:12,625
+A rube.
+
+649
+00:26:14,125 --> 00:26:16,250
+That man is right there.
+
+650
+00:26:16,333 --> 00:26:17,291
+Phoenix Wright.
+
+651
+00:26:17,375 --> 00:26:19,791
+[PHOENIX]
+Uhh...
+
+652
+00:26:19,875 --> 00:26:22,208
+What? No... Don't tell me!
+
+653
+00:26:22,291 --> 00:26:24,916
+Hidden in the pendant?
+
+654
+00:26:25,000 --> 00:26:26,750
+There is a very
+high likelihood it contains
+
+655
+00:26:26,833 --> 00:26:28,666
+the same deadly poison.
+
+656
+00:26:28,750 --> 00:26:31,916
+[CROWD gasping, murmuring]
+
+657
+00:26:32,000 --> 00:26:33,875
+If you look at it closely,
+
+658
+00:26:33,958 --> 00:26:37,083
+you can see there is still some
+liquid remaining in the bottle.
+
+659
+00:26:37,166 --> 00:26:39,000
+It must be analyzed at once!
+
+660
+00:26:39,083 --> 00:26:40,291
+[screams]
+
+661
+00:26:40,375 --> 00:26:41,291
+[CROWD murmuring]
+
+662
+00:26:41,375 --> 00:26:42,875
+[JUDGE]
+Order! Order, please!
+
+663
+00:26:42,958 --> 00:26:44,291
+Calm yourselves!
+
+664
+00:26:44,375 --> 00:26:47,000
+Now, what's going on here?
+
+665
+00:26:47,083 --> 00:26:48,250
+[PHOENIX]
+Objection!
+
+666
+00:26:48,333 --> 00:26:50,958
+On behalf of
+sweet Dollie, I object!
+
+667
+00:26:51,041 --> 00:26:52,791
+Wait! Seriously?
+
+668
+00:26:52,875 --> 00:26:55,250
+[JUDGE] I warned you,
+defendant! Get back!
+
+669
+00:26:55,333 --> 00:26:58,500
+Ah! No! It's not right!
+
+670
+00:26:58,583 --> 00:27:01,250
+My girlfriend would never
+do anything like that!
+
+671
+00:27:01,333 --> 00:27:02,833
+But how can you be so sure?
+
+672
+00:27:02,916 --> 00:27:05,208
+First off... Because...
+
+673
+00:27:05,291 --> 00:27:07,041
+I mean, there's no way
+she could've whipped up
+
+674
+00:27:07,125 --> 00:27:08,458
+some kind of specialized poison.
+
+675
+00:27:08,541 --> 00:27:10,041
+Yeah! Right!
+
+676
+00:27:10,125 --> 00:27:13,291
+It took knowledge of advanced
+chemical processes to purify it!
+
+677
+00:27:13,375 --> 00:27:14,750
+Dollie's an artist.
+
+678
+00:27:14,833 --> 00:27:17,250
+She would have no idea
+how to go about that!
+
+679
+00:27:17,333 --> 00:27:21,166
+Sorry. All she had to do
+was know where to find it.
+
+680
+00:27:21,250 --> 00:27:22,625
+[gasps]
+
+681
+00:27:22,708 --> 00:27:26,416
+[MIA] Just think. What was
+the victim's field of study?
+
+682
+00:27:26,500 --> 00:27:29,000
+It was pharmacology, remember?
+
+683
+00:27:29,083 --> 00:27:31,333
+If she could access his lab,
+
+684
+00:27:31,416 --> 00:27:34,708
+she could then procure all
+manner of poisonous chemicals.
+
+685
+00:27:34,791 --> 00:27:36,125
+[PHOENIX gasps]
+
+686
+00:27:39,166 --> 00:27:40,708
+Mister Wright,
+I ask that you please
+
+687
+00:27:40,791 --> 00:27:42,958
+hand over that pendant.
+
+688
+00:27:43,041 --> 00:27:45,083
+If we can analyze it,
+you could leave this courtroom
+
+689
+00:27:45,166 --> 00:27:46,250
+as a free man.
+
+690
+00:27:46,333 --> 00:27:47,458
+[PHOENIX groans]
+
+691
+00:27:47,541 --> 00:27:49,833
+What do you say?
+
+692
+00:27:49,916 --> 00:27:51,500
+[PHOENIX]
+What do you think?
+
+693
+00:27:51,583 --> 00:27:53,416
+I say...
+
+694
+00:27:53,500 --> 00:27:55,958
+There's no freaking way!
+
+695
+00:27:56,041 --> 00:27:56,958
+[wails, sobs]
+
+696
+00:27:57,041 --> 00:27:58,333
+[PAYNE]
+Where could he be going?!
+
+697
+00:27:58,416 --> 00:28:01,166
+[JUDGE] Bailiffs! Don't
+let him leave the building!
+
+698
+00:28:01,250 --> 00:28:02,583
+The boy's gone nuts.
+
+699
+00:28:02,666 --> 00:28:04,208
+Is he pleading insanity?
+
+700
+00:28:07,000 --> 00:28:08,541
+What is he thinking?
+
+701
+00:28:13,166 --> 00:28:15,625
+What kind of fool
+tries to flee a courtroom?
+
+702
+00:28:15,708 --> 00:28:17,208
+Have you no sense, boy?
+
+703
+00:28:17,291 --> 00:28:19,250
+[PHOENIX]
+I'm sorry, sir...
+
+704
+00:28:19,333 --> 00:28:20,333
+[banging]
+
+705
+00:28:20,416 --> 00:28:21,916
+[PAYNE]
+If apologies worked in court,
+
+706
+00:28:22,000 --> 00:28:23,583
+all of us would be out of a job!
+
+707
+00:28:23,666 --> 00:28:25,041
+Anyway.
+
+708
+00:28:25,125 --> 00:28:28,125
+Mister Wright, will you please
+hand over the pendant?
+
+709
+00:28:28,208 --> 00:28:30,500
+[PHOENIX grunts]
+
+710
+00:28:30,583 --> 00:28:32,541
+[MIA]
+You do have it, correct?
+
+711
+00:28:32,625 --> 00:28:35,875
+[PHOENIX sighs]
+I'm sorry!
+
+712
+00:28:35,958 --> 00:28:39,416
+Uh... [gasps] Sorry for what?
+
+713
+00:28:39,500 --> 00:28:43,416
+[PHOENIX sighs]
+For... eating it.
+
+714
+00:28:44,625 --> 00:28:46,250
+[BOTH sigh]
+
+715
+00:28:47,333 --> 00:28:49,250
+--Huh?
+--[MIA] What did he say?!
+
+716
+00:28:49,333 --> 00:28:50,875
+[PHOENIX]
+Yeah. It was too big.
+
+717
+00:28:50,958 --> 00:28:54,000
+So I had to break it into
+little pieces and chew it.
+
+718
+00:28:54,083 --> 00:28:55,166
+[groans]
+
+719
+00:28:55,250 --> 00:28:58,083
+You... did... what...?
+
+720
+00:28:58,166 --> 00:28:59,541
+[wails]
+
+721
+00:28:59,625 --> 00:29:01,916
+[screams]
+
+722
+00:29:02,000 --> 00:29:03,208
+[PHOENIX sobs]
+
+723
+00:29:03,291 --> 00:29:05,125
+Mr. Wright! Are you okay?!
+
+724
+00:29:05,208 --> 00:29:07,625
+That botttle--
+There was poison in it!
+
+725
+00:29:07,708 --> 00:29:10,583
+[DAHLIA cackles] I bet
+you're really disappointed
+
+726
+00:29:10,666 --> 00:29:13,208
+that he didn't die, huh?
+
+727
+00:29:13,291 --> 00:29:14,625
+Aren't you, hag?
+
+728
+00:29:14,708 --> 00:29:15,833
+[MIA gasps]
+
+729
+00:29:15,916 --> 00:29:18,000
+Because...
+the fact he's alive
+
+730
+00:29:18,083 --> 00:29:20,000
+proves there wasn't
+any poison in there.
+
+731
+00:29:20,083 --> 00:29:22,125
+[MIA] But that tiny little bit
+that was left probably
+
+732
+00:29:22,208 --> 00:29:23,833
+wasn't enough to do anything.
+
+733
+00:29:23,916 --> 00:29:25,000
+And besides...
+
+734
+00:29:26,416 --> 00:29:28,000
+It has been eight months!
+
+735
+00:29:28,083 --> 00:29:29,958
+Maybe it lost its potency!
+
+736
+00:29:30,041 --> 00:29:31,125
+Think so?
+
+737
+00:29:31,208 --> 00:29:32,708
+[MIA gulps]
+
+738
+00:29:32,791 --> 00:29:34,625
+[DAHLIA chuckles] Talking down
+to me without proof I've done
+
+739
+00:29:34,708 --> 00:29:37,375
+anything wrong must
+be an old lady thing.
+
+740
+00:29:37,458 --> 00:29:39,791
+Yeah. Wouldn't
+you agree, grandpa?
+
+741
+00:29:39,875 --> 00:29:42,666
+Huh? Uh... I guess.
+
+742
+00:29:42,750 --> 00:29:43,958
+In any case...
+
+743
+00:29:45,791 --> 00:29:48,166
+Right now, the victim is dead.
+
+744
+00:29:48,250 --> 00:29:50,833
+The pendant is inside
+the defendant's belly.
+
+745
+00:29:50,916 --> 00:29:54,041
+You don't have any decisive
+evidence against Miss Hawthorne.
+
+746
+00:29:54,125 --> 00:29:55,291
+Or do you, defense?
+
+747
+00:29:55,375 --> 00:29:56,375
+[MIA growls]
+
+748
+00:29:56,458 --> 00:29:58,500
+You're here
+to defend your client.
+
+749
+00:29:58,583 --> 00:30:00,625
+Trusting him is
+the noble thing to do.
+
+750
+00:30:00,708 --> 00:30:02,375
+It's actually rather
+heartwarming to see
+
+751
+00:30:02,458 --> 00:30:04,041
+how much faith
+you've put in the boy.
+
+752
+00:30:04,125 --> 00:30:05,250
+[PHOENIX gasps]
+
+753
+00:30:05,333 --> 00:30:08,708
+[PAYNE] But! The prosecution
+is no different!
+
+754
+00:30:08,791 --> 00:30:11,666
+I would trust my very
+life on Miss Hawthorne's word!
+
+755
+00:30:11,750 --> 00:30:14,125
+I take her testimony
+as absolute truth!
+
+756
+00:30:14,208 --> 00:30:16,041
+Which is why I state
+without fear of reproach
+
+757
+00:30:16,125 --> 00:30:18,833
+that your deduction
+was pure fantasy.
+
+758
+00:30:18,916 --> 00:30:20,291
+Well. I'm done.
+
+759
+00:30:20,375 --> 00:30:22,166
+What a total waste of my time.
+
+760
+00:30:22,250 --> 00:30:24,958
+Can someone remind me who
+started this whole witch hunt,
+
+761
+00:30:25,041 --> 00:30:29,041
+and tried to drag a completely
+unrelated case into this one?
+
+762
+00:30:29,125 --> 00:30:31,000
+I was under the
+impression we were here today
+
+763
+00:30:31,083 --> 00:30:32,583
+to solve Dougie's murder.
+
+764
+00:30:32,666 --> 00:30:35,750
+Am I wrong? Old hag.
+
+765
+00:30:35,833 --> 00:30:37,916
+[PHOENIX]
+Whoa. Dollie...?
+
+766
+00:30:38,000 --> 00:30:39,416
+[MIA]
+I've almost got her.
+
+767
+00:30:39,500 --> 00:30:41,208
+I can't let her just
+stroll out of here,
+
+768
+00:30:41,291 --> 00:30:43,875
+but I have to find the
+evidence to nail her.
+
+769
+00:30:43,958 --> 00:30:46,583
+It seems you've
+reached a dead end.
+
+770
+00:30:46,666 --> 00:30:49,583
+[MIA growls]
+Please, Mister Wright!
+
+771
+00:30:49,666 --> 00:30:52,500
+The truth. You need
+to start telling the truth!
+
+772
+00:30:52,583 --> 00:30:55,458
+Not the lies she fed you!
+I know you're better than this.
+
+773
+00:30:55,541 --> 00:30:57,583
+You can be a voice for justice!
+
+774
+00:30:57,666 --> 00:30:59,625
+[PHOENIX]
+I... don't know.
+
+775
+00:30:59,708 --> 00:31:01,875
+The time has come for you
+to start doing what's right,
+
+776
+00:31:01,958 --> 00:31:04,916
+Mister Wright! We can't find
+the truth without your help!
+
+777
+00:31:05,000 --> 00:31:09,750
+[PHOENIX]
+Me? Really? You need my help?
+
+778
+00:31:09,833 --> 00:31:11,250
+Very well.
+
+779
+00:31:11,333 --> 00:31:13,500
+Now that the cloud of suspicion
+surrounding Miss Hawthorne
+
+780
+00:31:13,583 --> 00:31:15,791
+has been cleared up, the line
+of questioning regarding
+
+781
+00:31:15,875 --> 00:31:17,333
+old cases will come to an en--
+
+782
+00:31:17,416 --> 00:31:18,416
+Hold it, judge!
+
+783
+00:31:18,500 --> 00:31:20,333
+[gasping
+
+784
+00:31:20,416 --> 00:31:22,125
+[PHOENIX]
+I'm so sorry, Ms. Fey.
+
+785
+00:31:22,208 --> 00:31:24,250
+You believed in me and
+were willing to stake
+
+786
+00:31:24,333 --> 00:31:27,666
+your reputation on my word.
+I've let you down...
+
+787
+00:31:27,750 --> 00:31:28,958
+Mister Wright...
+
+788
+00:31:30,875 --> 00:31:32,666
+[PHOENIX]
+But I can't keep this up.
+
+789
+00:31:32,750 --> 00:31:34,916
+I need to tell you
+what really happened.
+
+790
+00:31:35,000 --> 00:31:36,083
+It's not what you said?
+
+791
+00:31:36,166 --> 00:31:37,708
+Feenie. Careful.
+
+792
+00:31:37,791 --> 00:31:41,375
+[PHOENIX]
+Mm-mm. Sorry, Dollie.
+
+793
+00:31:41,458 --> 00:31:44,666
+I'm done lying.
+I can't keep covering for you.
+
+794
+00:31:44,750 --> 00:31:46,583
+Ugh! Feenie!
+
+795
+00:31:46,666 --> 00:31:50,166
+Your time is up!
+It's his turn to testify!
+
+796
+00:31:50,250 --> 00:31:51,250
+[DAHLIA growls]
+
+797
+00:31:51,333 --> 00:31:52,583
+I'll tell you
+everything I know
+
+798
+00:31:52,666 --> 00:31:54,500
+about what happened that day.
+
+799
+00:31:54,583 --> 00:31:57,208
+The day Doug Swallow
+was murdered.
+
+800
+00:31:57,291 --> 00:31:59,458
+[DOUG] Listen, man.
+You should stop seeing her.
+
+801
+00:31:59,541 --> 00:32:00,833
+[PHOENIX] What?
+How is our relationship
+
+802
+00:32:00,916 --> 00:32:02,416
+any of your business?
+
+803
+00:32:02,500 --> 00:32:04,333
+Please, this is
+for your own sake.
+
+804
+00:32:04,416 --> 00:32:06,541
+She's bad news, and
+that's putting it lightly.
+
+805
+00:32:06,625 --> 00:32:08,250
+[PHOENIX growls]
+You're lying!
+
+806
+00:32:08,333 --> 00:32:09,791
+[DOUG] There's something you
+need to know about her.
+
+807
+00:32:09,875 --> 00:32:12,333
+Before you get hurt.
+
+808
+00:32:12,416 --> 00:32:14,291
+She stole poison
+from our lab and I'm scared
+
+809
+00:32:14,375 --> 00:32:15,333
+of what she'll do with it.
+
+810
+00:32:15,416 --> 00:32:17,041
+No. Seriously?
+
+811
+00:32:17,125 --> 00:32:19,708
+[DOUG] Mm-hmm.
+Look, she's done it before.
+
+812
+00:32:19,791 --> 00:32:22,375
+Eight months ago,
+a drug sample came up missing.
+
+813
+00:32:22,458 --> 00:32:25,250
+We noticed it immediately
+after she dropped by the lab.
+
+814
+00:32:25,333 --> 00:32:27,125
+I know it was her.
+Without a doubt!
+
+815
+00:32:27,208 --> 00:32:28,375
+[PHOENIX gasps]
+
+816
+00:32:29,166 --> 00:32:30,250
+Shut your mouth!
+
+817
+00:32:30,333 --> 00:32:32,625
+She's not like that!
+There's no way!
+
+818
+00:32:32,708 --> 00:32:33,875
+[DOUG grunts]
+
+819
+00:32:37,375 --> 00:32:38,666
+[PAYNE]
+Bah. What rubbish!
+
+820
+00:32:38,750 --> 00:32:41,041
+[MIA] Did Mister Swallow
+really tell you all of that?
+
+821
+00:32:41,125 --> 00:32:44,125
+[DAHLIA] You're full of it!
+That's a lie and you know it!
+
+822
+00:32:44,208 --> 00:32:45,541
+[PHOENIX]
+After I pushed him,
+
+823
+00:32:45,625 --> 00:32:48,125
+I got out of there as fast
+as I possibly could.
+
+824
+00:32:48,208 --> 00:32:51,083
+But I got worried, so I came
+back a little bit later.
+
+825
+00:32:53,000 --> 00:32:54,791
+And I saw Dollie
+kneeling over him.
+
+826
+00:32:54,875 --> 00:32:56,833
+[CROWD gasping]
+
+827
+00:32:56,916 --> 00:32:58,000
+[DAHLIA growls]
+
+828
+00:32:59,583 --> 00:33:00,625
+[DAHLIA gasps]
+
+829
+00:33:02,708 --> 00:33:04,458
+[gasps]
+
+830
+00:33:04,541 --> 00:33:05,791
+[PHOENIX gasps]
+
+831
+00:33:11,625 --> 00:33:15,333
+But she told me
+that I had to swear on my life
+
+832
+00:33:15,416 --> 00:33:16,833
+that I wouldn't tell anybody.
+
+833
+00:33:18,791 --> 00:33:20,291
+I'm so sorry!
+
+834
+00:33:20,375 --> 00:33:23,583
+[MIA] I knew it. She stole
+that poison eight months ago.
+
+835
+00:33:23,666 --> 00:33:25,583
+And now she's done it again.
+
+836
+00:33:25,666 --> 00:33:27,083
+I can win this.
+
+837
+00:33:27,166 --> 00:33:29,541
+With his testimony,
+I can finally make the link
+
+838
+00:33:29,625 --> 00:33:31,833
+between the two cases.
+
+839
+00:33:31,916 --> 00:33:33,708
+[MIA] The night before Doug
+Swallow's young life
+
+840
+00:33:33,791 --> 00:33:35,333
+was tragically cut short,
+
+841
+00:33:35,416 --> 00:33:38,375
+Dahlia Hawthorne stole
+poison from his lab.
+
+842
+00:33:38,458 --> 00:33:39,833
+Her motive was simple.
+
+843
+00:33:41,666 --> 00:33:43,166
+She committed the
+theft because murder
+
+844
+00:33:43,250 --> 00:33:44,625
+was next on her agenda.
+
+845
+00:33:44,708 --> 00:33:46,083
+To poison someone?
+
+846
+00:33:46,166 --> 00:33:48,041
+What? That's ridiculous!
+
+847
+00:33:48,125 --> 00:33:50,541
+Doug Swallow's cause of
+death was electrocution!
+
+848
+00:33:52,708 --> 00:33:54,958
+He wasn't the person
+she intended to poison.
+
+849
+00:33:55,041 --> 00:33:56,708
+Huh? Then who?
+
+850
+00:33:56,791 --> 00:33:59,000
+We know. That there
+was a certain item
+
+851
+00:33:59,083 --> 00:34:01,875
+that you desperately wanted to
+get back into your possession.
+
+852
+00:34:01,958 --> 00:34:03,833
+Even if it meant
+killing someone.
+
+853
+00:34:03,916 --> 00:34:05,333
+Wait, you mean...
+
+854
+00:34:05,416 --> 00:34:06,791
+Ah... Dollie...
+
+855
+00:34:06,875 --> 00:34:08,000
+I'm sorry.
+
+856
+00:34:08,083 --> 00:34:09,625
+But I'm afraid the one
+Dahlia Hawthorne
+
+857
+00:34:09,708 --> 00:34:11,541
+was trying to poison...
+
+858
+00:34:11,625 --> 00:34:13,458
+...is here.
+
+859
+00:34:13,541 --> 00:34:15,833
+Her boyfriend, Phoenix Wright!
+
+860
+00:34:15,916 --> 00:34:16,916
+[PHOENIX gasps]
+
+861
+00:34:17,000 --> 00:34:20,708
+[wails]
+
+862
+00:34:21,708 --> 00:34:24,375
+[PHOENIX]
+My sweet Dollie...
+
+863
+00:34:24,458 --> 00:34:27,541
+She really... was
+trying to kill me?
+
+864
+00:34:27,625 --> 00:34:28,750
+Objection!
+
+865
+00:34:28,833 --> 00:34:30,541
+Enough with all this poppycock!
+
+866
+00:34:30,625 --> 00:34:32,708
+Miss Hawthorne is clearly
+in love with this man!
+
+867
+00:34:32,791 --> 00:34:34,708
+Yes. Madly in love!
+
+868
+00:34:34,791 --> 00:34:38,500
+I'd never hurt my Feenie.
+How could you say that?
+
+869
+00:34:38,583 --> 00:34:39,833
+It's sick.
+
+870
+00:34:39,916 --> 00:34:42,083
+Eight months ago, after
+you poisoned that coffee,
+
+871
+00:34:42,166 --> 00:34:45,041
+you had yet another
+nefarious goal on your mind.
+
+872
+00:34:45,125 --> 00:34:46,583
+Getting rid of the evidence.
+
+873
+00:34:46,666 --> 00:34:49,625
+The pendant with the poison
+bottle had to be disposed of.
+
+874
+00:34:49,708 --> 00:34:51,916
+Miss Hawthorne
+put her wiles to good use.
+
+875
+00:34:52,000 --> 00:34:54,291
+She found someone
+who'd gladly take it from her.
+
+876
+00:34:54,375 --> 00:34:55,625
+However...
+
+877
+00:34:55,708 --> 00:34:58,333
+There was one big problem
+she didn't account for.
+
+878
+00:34:58,416 --> 00:35:01,125
+Her love-struck mark refused
+to give back her "gift."
+
+879
+00:35:01,208 --> 00:35:02,458
+[PHOENIX gasps]
+
+880
+00:35:02,541 --> 00:35:05,625
+Mister Wright, excuse me,
+but have you wondered
+
+881
+00:35:05,708 --> 00:35:07,708
+why she fell so hard
+for you that day,
+
+882
+00:35:07,791 --> 00:35:09,750
+and why you've stayed
+together all this time?
+
+883
+00:35:09,833 --> 00:35:11,791
+[PHOENIX]
+Well, because she...
+
+884
+00:35:11,875 --> 00:35:14,541
+[MIA]
+She was after something.
+
+885
+00:35:14,625 --> 00:35:16,041
+She wanted the pendant back.
+
+886
+00:35:16,125 --> 00:35:17,458
+[PHOENIX gasps]
+
+887
+00:35:17,541 --> 00:35:19,791
+She got close to you for
+that crucial piece of evidence.
+
+888
+00:35:19,875 --> 00:35:22,083
+Her "gift" for a man
+she didn't know.
+
+889
+00:35:22,166 --> 00:35:23,708
+To you, it was a treasure.
+
+890
+00:35:23,791 --> 00:35:25,041
+A symbol of true love,
+
+891
+00:35:25,125 --> 00:35:27,791
+and something you shared
+with anyone who'd look.
+
+892
+00:35:27,875 --> 00:35:29,333
+So... you mean...
+
+893
+00:35:29,416 --> 00:35:31,375
+The only reason
+she dated him was...
+
+894
+00:35:31,458 --> 00:35:34,541
+To get it back, even if it
+meant she had to murder him.
+
+895
+00:35:34,625 --> 00:35:38,333
+[PHOENIX] No. It's because
+we were in love, right?
+
+896
+00:35:38,416 --> 00:35:42,625
+Ugh. Moron. Would you
+get out of the way already?
+
+897
+00:35:42,708 --> 00:35:45,041
+Dumb boy, how could
+any woman ever count on you
+
+898
+00:35:45,125 --> 00:35:46,708
+to take care of things for her?
+
+899
+00:35:46,791 --> 00:35:48,375
+I don't know how many times
+I told you to keep
+
+900
+00:35:48,458 --> 00:35:50,125
+your big mouth shut about me.
+
+901
+00:35:50,208 --> 00:35:51,333
+You're worthless!
+
+902
+00:35:51,416 --> 00:35:52,375
+[PHOENIX gasps]
+
+903
+00:35:52,458 --> 00:35:54,041
+Uh... Witness?
+
+904
+00:35:54,125 --> 00:35:55,958
+Ah, I can tell
+you plan on making me out
+
+905
+00:35:56,041 --> 00:35:58,083
+to be a murderer
+no matter what I say.
+
+906
+00:35:58,166 --> 00:35:59,666
+You've done it to yourself.
+
+907
+00:35:59,750 --> 00:36:00,916
+It's all on you.
+
+908
+00:36:01,000 --> 00:36:04,125
+Oh, is it now?
+You have nothing concrete on me.
+
+909
+00:36:04,208 --> 00:36:06,791
+You're screwed, because
+this blubbering little man-child
+
+910
+00:36:06,875 --> 00:36:09,208
+took your best piece of
+evidence and gobbled it up.
+
+911
+00:36:09,291 --> 00:36:11,875
+You have no proof, and you
+still have the nerve to treat me
+
+912
+00:36:11,958 --> 00:36:14,208
+like I'm some sort of
+homicidal maniac?
+
+913
+00:36:14,291 --> 00:36:15,750
+I've wasted enough
+of my time here,
+
+914
+00:36:15,833 --> 00:36:17,291
+so I'll be taking my leave.
+
+915
+00:36:17,375 --> 00:36:19,000
+[JUDGE]
+Uhh, we're not done yet.
+
+916
+00:36:19,083 --> 00:36:21,750
+[DAHLIA] Your Honor. I trust
+you'll discipline this nasty,
+
+917
+00:36:21,833 --> 00:36:24,416
+overzealous old hag
+appropriately, won't you?
+
+918
+00:36:24,500 --> 00:36:26,375
+[MIA]
+Hold it!
+
+919
+00:36:26,458 --> 00:36:29,291
+For what? Did you find
+your decisive evidence?
+
+920
+00:36:29,375 --> 00:36:31,833
+I refuse to let a person
+like you walk free.
+
+921
+00:36:31,916 --> 00:36:33,083
+[MARVIN]
+Careful, Mia.
+
+922
+00:36:33,166 --> 00:36:34,541
+If you keep badgering
+the witness like this,
+
+923
+00:36:34,625 --> 00:36:37,041
+you could be forced to pay
+the ultimate price for it.
+
+924
+00:36:37,125 --> 00:36:39,166
+And what do you mean by that?
+
+925
+00:36:39,250 --> 00:36:40,916
+He means the penalty
+could entail you being
+
+926
+00:36:41,000 --> 00:36:42,750
+permanently stripped
+of your badge.
+
+927
+00:36:42,833 --> 00:36:44,208
+What? Really?
+
+928
+00:36:44,291 --> 00:36:47,541
+It's the truth.
+You'd be even more washed up.
+
+929
+00:36:47,625 --> 00:36:49,083
+[MIA] If I don't back off,
+I could be putting
+
+930
+00:36:49,166 --> 00:36:51,583
+my career in jeopardy.
+
+931
+00:36:51,666 --> 00:36:55,416
+But I swore to fight for
+justice and uphold the law.
+
+932
+00:36:55,500 --> 00:36:59,250
+What good is this badge if
+I abandon the fight so easily?
+
+933
+00:36:59,333 --> 00:37:01,750
+Very well. I order
+the defense to present
+
+934
+00:37:01,833 --> 00:37:04,083
+any evidence it has
+against Miss Hawthorne.
+
+935
+00:37:04,166 --> 00:37:06,000
+Yes, Your Honor.
+
+936
+00:37:06,083 --> 00:37:07,583
+You stupid old cow.
+
+937
+00:37:07,666 --> 00:37:09,500
+[MIA] The key to this whole
+thing is that poison
+
+938
+00:37:09,583 --> 00:37:12,791
+she stole from the lab.
+And for me, it's do or die!
+
+939
+00:37:12,875 --> 00:37:14,083
+C'mon, Mia!
+
+940
+00:37:14,166 --> 00:37:15,666
+[DAHLIA] I've read a
+lot of books in my time
+
+941
+00:37:15,750 --> 00:37:17,875
+studying literature, but you
+going down in flames is
+
+942
+00:37:17,958 --> 00:37:20,583
+going to be one of
+my favorite stories.
+
+943
+00:37:20,666 --> 00:37:22,083
+Maybe I'll write about it.
+
+944
+00:37:22,166 --> 00:37:24,500
+I believe in you, Miss Fey.
+
+945
+00:37:24,583 --> 00:37:27,958
+There is irrefutable evidence
+of Dahlia Hawthorne's crime.
+
+946
+00:37:28,041 --> 00:37:31,583
+And I have it. Remember this?
+
+947
+00:37:31,666 --> 00:37:33,208
+It's what kills colds dead.
+
+948
+00:37:33,291 --> 00:37:35,750
+This bottle of Coldkiller Z
+the victim was holding.
+
+949
+00:37:35,833 --> 00:37:37,250
+Don't make me laugh.
+
+950
+00:37:37,333 --> 00:37:39,166
+That's your "killer" proof, huh?
+
+951
+00:37:39,250 --> 00:37:40,791
+Perhaps our rookie
+defense lawyer
+
+952
+00:37:40,875 --> 00:37:42,416
+isn't feeling well either.
+
+953
+00:37:42,500 --> 00:37:43,833
+[MIA]
+I'm fine.
+
+954
+00:37:43,916 --> 00:37:46,375
+But no matter how I felt,
+I wouldn't be taking this.
+
+955
+00:37:46,458 --> 00:37:49,000
+Especially not
+this particular bottle.
+
+956
+00:37:49,083 --> 00:37:52,166
+'Cause this stuff, will
+kill more than just a cold.
+
+957
+00:37:52,250 --> 00:37:53,666
+[CROWD gasping]
+
+958
+00:37:53,750 --> 00:37:55,416
+[PAYNE]
+Wait. You think it's poisoned?
+
+959
+00:37:55,500 --> 00:37:56,583
+[DAHLIA growls]
+
+960
+00:37:56,666 --> 00:37:59,500
+Do you recall the
+defendant's testimony?
+
+961
+00:37:59,583 --> 00:38:01,166
+[PHOENIX] I'd been trying
+to kill this cold with it,
+
+962
+00:38:01,250 --> 00:38:03,875
+but I ended up losing the
+bottle somewhere that day.
+
+963
+00:38:03,958 --> 00:38:06,833
+I could swear I had it
+on me till lunchtime, at least.
+
+964
+00:38:06,916 --> 00:38:08,166
+Lunchtime.
+
+965
+00:38:08,250 --> 00:38:10,000
+That's when Miss Hawthorne
+made off with his bottle
+
+966
+00:38:10,083 --> 00:38:11,583
+of Coldkiller Z.
+
+967
+00:38:11,666 --> 00:38:13,125
+She knew he would take it.
+
+968
+00:38:13,208 --> 00:38:14,791
+So she laced it with poison.
+
+969
+00:38:14,875 --> 00:38:16,541
+Bunk. Utter claptrap.
+
+970
+00:38:16,625 --> 00:38:18,208
+If that's true,
+how do you explain
+
+971
+00:38:18,291 --> 00:38:20,208
+why the victim
+was holding the bottle?
+
+972
+00:38:23,250 --> 00:38:26,541
+[MIA] Think back to the crime
+that happened eight months ago.
+
+973
+00:38:26,625 --> 00:38:29,041
+Where did she hide the
+evidence after that went down?
+
+974
+00:38:29,125 --> 00:38:30,666
+[JUDGE] And where
+would that be, defense?
+
+975
+00:38:30,750 --> 00:38:33,500
+[MIA] In that instance, the
+poison was inside her pendant.
+
+976
+00:38:33,583 --> 00:38:36,625
+Which she made sure to quickly
+pass along to someone else.
+
+977
+00:38:36,708 --> 00:38:39,000
+The boy she ran
+into in the reading room--
+
+978
+00:38:39,083 --> 00:38:41,333
+Phoenix Wright.
+
+979
+00:38:41,416 --> 00:38:43,166
+She used a
+similar tactic in this case
+
+980
+00:38:43,250 --> 00:38:44,541
+with Mister Swallow.
+
+981
+00:38:44,625 --> 00:38:46,541
+My client says he left
+the scene immediately
+
+982
+00:38:46,625 --> 00:38:48,416
+after he shoved the victim.
+
+983
+00:38:48,500 --> 00:38:50,333
+She had seen
+and heard everything.
+
+984
+00:38:50,416 --> 00:38:52,750
+The argument,
+Mister Swallow's accusation.
+
+985
+00:38:52,833 --> 00:38:54,708
+She watched as he was shoved.
+
+986
+00:38:54,791 --> 00:38:58,291
+She also saw the
+severed electrical cable.
+
+987
+00:38:58,375 --> 00:39:00,625
+She realized the victim
+would not remain silent
+
+988
+00:39:00,708 --> 00:39:01,875
+about her crimes.
+
+989
+00:39:01,958 --> 00:39:04,250
+So she decided to use
+the cable to guarantee
+
+990
+00:39:04,333 --> 00:39:06,333
+he wouldn't tell anybody else.
+
+991
+00:39:07,375 --> 00:39:09,250
+[JUDGE] If that's the case,
+then what do you make
+
+992
+00:39:09,333 --> 00:39:11,750
+of the testimony she
+gave the court earlier?
+
+993
+00:39:11,833 --> 00:39:13,666
+[MIA] Nothing but
+a well-rehearsed lie.
+
+994
+00:39:13,750 --> 00:39:15,250
+[PAYNE]
+How could she have done it?
+
+995
+00:39:15,333 --> 00:39:17,583
+[MIA] Well, she is
+a rather frail little thing,
+
+996
+00:39:17,666 --> 00:39:19,666
+so it would take her some
+time to move Swallow's body
+
+997
+00:39:19,750 --> 00:39:21,125
+to where she needed it.
+
+998
+00:39:21,208 --> 00:39:24,208
+Which explains the time
+discrepancy in the testimony.
+
+999
+00:39:24,291 --> 00:39:26,791
+The ten minutes between
+the cable falling and his death.
+
+1000
+00:39:26,875 --> 00:39:28,958
+[PHOENIX gasps]
+
+1001
+00:39:29,041 --> 00:39:30,166
+At this point.
+
+1002
+00:39:30,250 --> 00:39:32,541
+Another problem arose
+for Miss Hawthorne.
+
+1003
+00:39:32,625 --> 00:39:36,250
+The defendant, who she'd seen
+leaving the scene, came back.
+
+1004
+00:39:36,333 --> 00:39:38,166
+Also, because
+of the power outage,
+
+1005
+00:39:38,250 --> 00:39:40,500
+the students in the lab
+came out to investigate.
+
+1006
+00:39:40,583 --> 00:39:42,791
+Which caused her to panic.
+
+1007
+00:39:42,875 --> 00:39:44,375
+After all,
+
+1008
+00:39:44,458 --> 00:39:47,250
+she was carrying something she
+did not want to be caught with.
+
+1009
+00:39:47,333 --> 00:39:49,750
+The bottle of
+poisoned cold medicine.
+
+1010
+00:39:49,833 --> 00:39:51,333
+The police had
+frisked her before,
+
+1011
+00:39:51,416 --> 00:39:52,791
+what if they did it again?
+
+1012
+00:39:52,875 --> 00:39:56,000
+It was the same situation
+she'd been in the last time.
+
+1013
+00:39:56,083 --> 00:39:58,583
+And so she did what worked
+so well for her eight months
+
+1014
+00:39:58,666 --> 00:40:02,000
+earlier in the courthouse.
+She passed it off.
+
+1015
+00:40:02,083 --> 00:40:05,125
+And placed it
+in the victim's hand!
+
+1016
+00:40:05,208 --> 00:40:07,708
+[DAHLIA]
+Ugh. This is so stupid.
+
+1017
+00:40:07,791 --> 00:40:10,583
+If you think anybody would
+believe this, you're crazy.
+
+1018
+00:40:10,666 --> 00:40:12,041
+Wouldn't you agree?
+
+1019
+00:40:12,125 --> 00:40:13,541
+Uh. Yeah.
+
+1020
+00:40:13,625 --> 00:40:15,375
+The defense has
+gotten desperate.
+
+1021
+00:40:15,458 --> 00:40:17,708
+Don't worry, it's just drivel
+and nothing more.
+
+1022
+00:40:17,791 --> 00:40:19,291
+[MIA]
+Objection!
+
+1023
+00:40:19,375 --> 00:40:21,791
+As a matter of fact,
+I feel quite confident.
+
+1024
+00:40:21,875 --> 00:40:24,583
+However, speaking
+of desperation.
+
+1025
+00:40:24,666 --> 00:40:26,666
+Miss Hawthorne.
+
+1026
+00:40:26,750 --> 00:40:28,875
+Are you willing to take
+this cold medicine?
+
+1027
+00:40:28,958 --> 00:40:30,208
+[gasps]
+
+1028
+00:40:30,291 --> 00:40:32,375
+Mister Wright ate
+that little pendant of yours.
+
+1029
+00:40:32,458 --> 00:40:34,458
+Care to do the same with this?
+
+1030
+00:40:34,541 --> 00:40:36,708
+If it's not poisoned,
+then what would be the harm?
+
+1031
+00:40:36,791 --> 00:40:38,083
+[DAHLIA growls]
+
+1032
+00:40:38,166 --> 00:40:40,041
+You've testified to the
+court about your innocence.
+
+1033
+00:40:40,125 --> 00:40:43,375
+So, why don't you take
+this chance to prove it?
+
+1034
+00:40:43,458 --> 00:40:45,166
+Right here and now!
+
+1035
+00:40:46,958 --> 00:40:53,875
+[DAHLIA snarling]
+
+1036
+00:40:53,958 --> 00:40:58,625
+[DAHLIA, demonic voice]
+Mia... Mia...
+
+1037
+00:40:58,708 --> 00:41:00,625
+Fey...
+
+1038
+00:41:00,708 --> 00:41:03,208
+Mia Fey!
+
+1039
+00:41:03,291 --> 00:41:04,666
+[MIA grunts]
+
+1040
+00:41:04,750 --> 00:41:07,458
+[demonic] Do you believe you
+can take me down forever?
+
+1041
+00:41:07,541 --> 00:41:11,833
+[cackles]
+
+1042
+00:41:11,916 --> 00:41:14,458
+Okay, fine. You stupid hag.
+
+1043
+00:41:14,541 --> 00:41:17,291
+Enjoy it while you can.
+
+1044
+00:41:17,375 --> 00:41:19,291
+[normal voice] I suppose I can
+allow you to claim victory
+
+1045
+00:41:19,375 --> 00:41:20,458
+this time around.
+
+1046
+00:41:20,541 --> 00:41:21,791
+[gasps]
+
+1047
+00:41:21,875 --> 00:41:24,583
+Just know... This won't
+be the last you see of me.
+
+1048
+00:41:24,666 --> 00:41:28,000
+You and I will meet again.
+Of that, I'm certain.
+
+1049
+00:41:28,083 --> 00:41:29,708
+I must be going now.
+
+1050
+00:41:29,791 --> 00:41:32,166
+Off to spend some time
+with the boys in blue.
+
+1051
+00:41:32,250 --> 00:41:33,791
+I wish you the best of luck.
+
+1052
+00:41:33,875 --> 00:41:35,083
+You'll need it
+
+1053
+00:41:37,041 --> 00:41:38,125
+[PHOENIX gasps]
+
+1054
+00:41:44,458 --> 00:41:46,958
+[MIA]
+Finally, it's over.
+
+1055
+00:41:47,041 --> 00:41:47,791
+[banging
+
+1056
+00:41:47,875 --> 00:41:49,000
+[gasps]
+
+1057
+00:41:49,083 --> 00:41:51,333
+No, this is a total
+miscarriage of justice!
+
+1058
+00:41:51,416 --> 00:41:53,750
+You failed to present
+a drop of proof against her!
+
+1059
+00:41:53,833 --> 00:41:55,208
+If you believe that...
+
+1060
+00:41:55,291 --> 00:41:56,625
+I should ask you.
+
+1061
+00:41:56,708 --> 00:41:58,833
+Would you like to try
+a sample of this medicine?
+
+1062
+00:41:58,916 --> 00:42:00,000
+Huh?
+
+1063
+00:42:00,083 --> 00:42:01,250
+[MIA] If she's as
+innocent as you claim,
+
+1064
+00:42:01,333 --> 00:42:03,375
+surely, there's nothing
+harmful in this bottle.
+
+1065
+00:42:03,458 --> 00:42:05,041
+It may even clear your sinuses.
+
+1066
+00:42:05,125 --> 00:42:06,666
+Oh. Well, uh...
+
+1067
+00:42:06,750 --> 00:42:08,541
+I don't really care
+to right now.
+
+1068
+00:42:08,625 --> 00:42:10,583
+But going off
+of what you said earlier,
+
+1069
+00:42:10,666 --> 00:42:12,916
+I thought you would bet your
+very life Miss Hawthorne's word
+
+1070
+00:42:13,000 --> 00:42:14,333
+was the absolute truth.
+
+1071
+00:42:14,416 --> 00:42:16,541
+Huh?
+
+1072
+00:42:16,625 --> 00:42:18,000
+Well, "Rookie Killer"?
+
+1073
+00:42:18,083 --> 00:42:20,541
+Why don't you show this
+rookie how it's really done?
+
+1074
+00:42:20,625 --> 00:42:22,666
+Do you still abide by
+your previous assertion
+
+1075
+00:42:22,750 --> 00:42:24,250
+of trust in her?
+
+1076
+00:42:24,333 --> 00:42:26,833
+If you're really willing
+to put your life on the line.
+
+1077
+00:42:26,916 --> 00:42:28,875
+Just how much
+is that life worth?
+
+1078
+00:42:28,958 --> 00:42:32,541
+Please, no!
+This can't be happening!
+
+1079
+00:42:32,625 --> 00:42:34,166
+Not my beautiful pompadour!
+
+1080
+00:42:34,250 --> 00:42:36,416
+It's flying right off my head!
+
+1081
+00:42:36,500 --> 00:42:38,708
+[groans]
+
+1082
+00:42:38,791 --> 00:42:40,291
+Defense.
+
+1083
+00:42:40,375 --> 00:42:42,833
+I have a sneaking suspicion you
+may harbor some sort of grudge
+
+1084
+00:42:42,916 --> 00:42:44,375
+against Miss Hawthorne.
+
+1085
+00:42:44,458 --> 00:42:49,333
+[gasps] Your Honor. My feelings
+had nothing to do with this.
+
+1086
+00:42:49,416 --> 00:42:51,375
+Very well, then.
+
+1087
+00:42:51,458 --> 00:42:54,041
+If there is no further testimony
+to be heard today,
+
+1088
+00:42:54,125 --> 00:42:55,708
+the court is ready to
+hand down the verdict
+
+1089
+00:42:55,791 --> 00:42:57,208
+for Mister Phoenix Wright.
+
+1090
+00:42:59,166 --> 00:43:00,458
+Not guilty!
+
+1091
+00:43:00,541 --> 00:43:03,083
+[CROWD cheers]
+
+1092
+00:43:03,166 --> 00:43:04,708
+[PHOENIX]
+Dollie...
+
+1093
+00:43:06,458 --> 00:43:08,708
+I declare this
+court to be adjourned!
+
+1094
+00:43:11,083 --> 00:43:13,500
+[MARVIN] Great work!
+Quite masterfully done!
+
+1095
+00:43:13,583 --> 00:43:14,833
+I appreciate that.
+
+1096
+00:43:14,916 --> 00:43:16,291
+Thanks, Mister Grossberg.
+
+1097
+00:43:16,375 --> 00:43:18,833
+This case really made
+me think about something.
+
+1098
+00:43:18,916 --> 00:43:21,500
+Just how crucial it is to
+have a client relationship
+
+1099
+00:43:21,583 --> 00:43:23,541
+that is built on mutual trust.
+
+1100
+00:43:23,625 --> 00:43:26,958
+Heh. Congratulations,
+Mister Wright.
+
+1101
+00:43:27,041 --> 00:43:30,458
+You know... I've
+been doing some thinking, too.
+
+1102
+00:43:30,541 --> 00:43:31,666
+About what?
+
+1103
+00:43:31,750 --> 00:43:33,166
+Was that really her?
+
+1104
+00:43:33,250 --> 00:43:35,375
+Have I been that
+naïve this entire time?
+
+1105
+00:43:35,458 --> 00:43:36,166
+Huh?
+
+1106
+00:43:36,250 --> 00:43:37,750
+The girl I loved...
+
+1107
+00:43:37,833 --> 00:43:40,250
+She would never have said and
+done all those terrible things.
+
+1108
+00:43:40,333 --> 00:43:43,458
+[MIA sighs]
+
+1109
+00:43:43,541 --> 00:43:46,583
+It's tough, but learn from
+this and move on.
+
+1110
+00:43:46,666 --> 00:43:49,458
+I know. You're right.
+
+1111
+00:43:49,541 --> 00:43:50,958
+Let me ask you this.
+
+1112
+00:43:51,041 --> 00:43:52,458
+About your job--
+
+1113
+00:43:52,541 --> 00:43:55,583
+Lawyers help people out whenever
+they're in trouble, right?
+
+1114
+00:43:55,666 --> 00:43:57,875
+Well, that's my
+personal philosophy.
+
+1115
+00:43:57,958 --> 00:43:59,333
+Nice.
+
+1116
+00:43:59,416 --> 00:44:01,750
+I've been taking law classes
+and it's got me thinking.
+
+1117
+00:44:01,833 --> 00:44:04,708
+If I become a lawyer
+there's a friend I could help.
+
+1118
+00:44:04,791 --> 00:44:06,750
+After meeting you,
+I've made up my mind.
+
+1119
+00:44:06,833 --> 00:44:07,791
+Oh, really?
+
+1120
+00:44:07,875 --> 00:44:09,916
+I have! I'll study hard.
+
+1121
+00:44:10,000 --> 00:44:13,333
+I'm gonna be a lawyer for sure!
+And maybe someday--
+
+1122
+00:44:13,416 --> 00:44:16,291
+You and I will meet again
+in the courtroom!
+
+1123
+00:44:16,375 --> 00:44:18,000
+[MIA]
+Hmm. Yeah.
+
+1124
+00:44:20,750 --> 00:44:25,708
+[heart monitor beeping]
+
+1125
+00:44:26,875 --> 00:44:30,666
+[MIA] I finally settled the
+score for you, like I promised.
+
+1126
+00:44:33,583 --> 00:44:34,958
+I'll be back.
+
+1127
+00:44:42,083 --> 00:44:45,208
+[PHOENIX] It's been five years
+since that case was closed.
+
+1128
+00:44:48,208 --> 00:44:49,708
+[PHOENIX]
+I did become a lawyer.
+
+1129
+00:44:49,791 --> 00:44:51,583
+And I even helped my old friend.
+
+1130
+00:44:51,666 --> 00:44:56,250
+But... Mia's no longer with us.
+She's in a better place.
+
+1131
+00:44:56,333 --> 00:44:59,791
+Even though she's gone,
+she's here in other ways.
+
+1132
+00:44:59,875 --> 00:45:02,125
+And I can always
+hear her in my mind.
+
+1133
+00:45:02,208 --> 00:45:03,666
+[MIA]
+Phoenix.
+
+1134
+00:45:03,750 --> 00:45:06,333
+Remember to always believe in
+your client, no matter what.
+
+1135
+00:45:06,416 --> 00:45:08,125
+The power of that trust
+will guide you through
+
+1136
+00:45:08,208 --> 00:45:11,375
+the toughest cases.
+Like a light in the darkness.
+
+1137
+00:46:42,458 --> 00:46:44,000
+[PHOENIX]
+Objection!
+
+1138
+00:46:44,083 --> 00:46:46,333
+A broken shell weaves
+a tale of memories
+
+1139
+00:46:46,416 --> 00:46:48,458
+from Mia to Maya to now.
+
+1140
+00:46:48,541 --> 00:46:50,250
+Little Pearl's journey
+through her past
+
+1141
+00:46:50,333 --> 00:46:51,791
+is about to begin.
+
+1142
+00:46:51,875 --> 00:46:55,291
+Wait! I can't let her go alone!
+I gotta go with her!
+
+1143
+00:46:55,375 --> 00:46:57,541
+Look for a new shell,
+solve the mystery,
+
+1144
+00:46:57,625 --> 00:46:59,458
+and carve a path to the future!
+
+1145
+00:46:59,541 --> 00:47:01,625
+For the first time,
+Pearl and I are gonna have
+
+1146
+00:47:01,708 --> 00:47:04,041
+an adventure together.
+Let's hit the road!
+
+1147
+00:47:04,125 --> 00:47:06,541
+Find the contradictions!
+Believe in the truth!
+
+1148
+00:47:06,625 --> 00:47:08,916
+Next Episode: "Hear the
+Waves of Turnabout!"
+
+1149
+00:47:09,000 --> 00:47:10,291
+Take that!
+

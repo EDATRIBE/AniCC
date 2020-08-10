@@ -1,0 +1,2208 @@
+﻿1
+00:00:08,375 --> 00:00:10,083
+[PHOENIX] I'm Phoenix Wright,
+attorney-at-law,
+
+2
+00:00:10,166 --> 00:00:13,250
+and my next case takes
+place in a peculiar venue.
+
+3
+00:00:13,333 --> 00:00:16,458
+A luxury express train, shooting
+northward through the snow--
+
+4
+00:00:16,541 --> 00:00:18,000
+The Silver Star.
+
+5
+00:00:18,083 --> 00:00:21,708
+Inside its exquisite dining car,
+a trial is about to begin.
+
+6
+00:00:21,791 --> 00:00:24,708
+It's a bizarre setting, but
+my extremely unusual client
+
+7
+00:00:24,791 --> 00:00:26,083
+fits right in.
+
+8
+00:00:30,375 --> 00:00:31,625
+If you'd come to order,
+
+9
+00:00:31,708 --> 00:00:34,708
+court is now in session
+for the trial of fugitive
+
+10
+00:00:34,791 --> 00:00:36,333
+Avery Richman!
+
+11
+00:02:10,958 --> 00:02:13,541
+[PHOENIX] December 31:
+Maya and I have been invited
+
+12
+00:02:13,625 --> 00:02:15,791
+to ring in the New Year
+with a luxurious trip
+
+13
+00:02:15,875 --> 00:02:19,166
+on the maiden voyage of
+a one of a kind railway liner.
+
+14
+00:02:19,250 --> 00:02:21,708
+Now. The moment you've
+been waiting for.
+
+15
+00:02:21,791 --> 00:02:24,291
+We're proud to bring you the
+ultimate in first-class travel.
+
+16
+00:02:24,375 --> 00:02:27,333
+Ladies and gentlemen--
+The Silver Star Express!
+
+17
+00:02:27,416 --> 00:02:29,375
+This train is a
+labor of love, folks.
+
+18
+00:02:29,458 --> 00:02:31,750
+Love for the elegance of the
+steam-powered locomotive,
+
+19
+00:02:31,833 --> 00:02:33,208
+and Japan itself.
+
+20
+00:02:33,291 --> 00:02:35,625
+A gift to our society from
+the Goldstruck Republic's
+
+21
+00:02:35,708 --> 00:02:39,500
+prominent tycoon, Avery Richman!
+
+22
+00:02:39,583 --> 00:02:41,500
+Mr. Richman sends his blessings.
+
+23
+00:02:41,583 --> 00:02:44,916
+Sadly, he couldn't be here to
+celebrate this occasion with us,
+
+24
+00:02:45,000 --> 00:02:48,750
+but regardless, we'll be
+departing soon, so all aboard!
+
+25
+00:02:48,833 --> 00:02:52,750
+This is so cool!
+A luxury choo-choo train!
+
+26
+00:02:52,833 --> 00:02:54,833
+I think it's all
+very nostal-chic.
+
+27
+00:02:54,916 --> 00:02:56,708
+I think you mean nostal-gic.
+
+28
+00:03:00,291 --> 00:03:03,625
+Ooh! Come on!
+Let's climb on board, Nick!
+
+29
+00:03:03,708 --> 00:03:05,291
+[GUMSHOE]
+Whoa, you two again?
+
+30
+00:03:05,375 --> 00:03:06,375
+[MAYA gasps]
+
+31
+00:03:06,458 --> 00:03:07,791
+[PHOENIX]
+Hello, Detective Gumshoe.
+
+32
+00:03:07,875 --> 00:03:09,541
+[MAYA]
+Hello, Judge. Judge?
+
+33
+00:03:09,625 --> 00:03:11,541
+Hello. Nice day.
+
+34
+00:03:11,625 --> 00:03:14,166
+We both sent in
+a postcard and won a trip!
+
+35
+00:03:14,250 --> 00:03:16,000
+I'm going on an
+all-expenses paid tour of
+
+36
+00:03:16,083 --> 00:03:19,041
+the hot springs up north on
+board this old-timey train!
+
+37
+00:03:19,125 --> 00:03:21,833
+Yeah? We got an invitation!
+
+38
+00:03:21,916 --> 00:03:23,625
+With a fancy wax seal!
+
+39
+00:03:23,708 --> 00:03:25,875
+Wha--? Personally invited?
+
+40
+00:03:25,958 --> 00:03:27,458
+So which car are you two in?
+
+41
+00:03:27,541 --> 00:03:29,208
+We'll be right up front
+in the first one.
+
+42
+00:03:29,291 --> 00:03:31,166
+They put us back in car 3.
+
+43
+00:03:31,250 --> 00:03:33,125
+We should totally meet up later!
+
+44
+00:03:36,000 --> 00:03:37,125
+Here.
+
+45
+00:03:37,208 --> 00:03:39,500
+Thank you very much, young lady.
+
+46
+00:03:39,583 --> 00:03:41,250
+Miss Maya Fey and
+Mister Phoenix Wright,
+
+47
+00:03:41,333 --> 00:03:43,500
+welcome to the Silver Star.
+
+48
+00:03:43,583 --> 00:03:45,125
+It's a pleasure
+to meet you both.
+
+49
+00:03:45,208 --> 00:03:48,208
+My name is Rick and I'll be
+your attendant on this journey.
+
+50
+00:03:48,291 --> 00:03:49,750
+[MAYA]
+Pleasure to meet you, too!
+
+51
+00:03:49,833 --> 00:03:52,250
+I see you'll be staying
+in the Sakura Room today.
+
+52
+00:03:52,333 --> 00:03:53,708
+The Sakura Room?
+
+53
+00:03:53,791 --> 00:03:57,125
+Ah! Even the name screams
+"traditional elegance!"
+
+54
+00:03:58,500 --> 00:04:00,458
+I can't wait to see inside!
+
+55
+00:04:02,166 --> 00:04:06,166
+[MAYA giggles]
+It's absolutely beautiful!
+
+56
+00:04:06,250 --> 00:04:08,000
+Wow, we get our own compartment.
+
+57
+00:04:08,083 --> 00:04:12,208
+[MAYA giggles]
+This is great! Travel in style!
+
+58
+00:04:12,291 --> 00:04:14,291
+[PHOENIX sighs]
+Very nice.
+
+59
+00:04:14,375 --> 00:04:15,958
+I'm so happy you like it!
+
+60
+00:04:16,041 --> 00:04:18,583
+Mister Richman had the idea
+for a private rail line.
+
+61
+00:04:18,666 --> 00:04:21,958
+So he bought an unused one
+and gave us the Silver Star.
+
+62
+00:04:22,041 --> 00:04:24,083
+We take great
+pride in the design.
+
+63
+00:04:24,166 --> 00:04:26,833
+Its retro look is inspired by
+the old steam engine trains
+
+64
+00:04:26,916 --> 00:04:28,375
+from the 1950s.
+
+65
+00:04:28,458 --> 00:04:29,708
+[GUMSHOE gasps]
+
+66
+00:04:29,791 --> 00:04:31,750
+[RICK] No detail inside or
+out has been overlooked.
+
+67
+00:04:31,833 --> 00:04:34,333
+Although the styling harkens
+back to an earlier time,
+
+68
+00:04:34,416 --> 00:04:36,250
+the train's engines
+and propulsion system
+
+69
+00:04:36,333 --> 00:04:38,250
+are cutting edge technologies.
+
+70
+00:04:39,250 --> 00:04:41,541
+By the way.
+In case you're interested.
+
+71
+00:04:41,625 --> 00:04:43,500
+Every single crew member
+aboard hails from
+
+72
+00:04:43,583 --> 00:04:44,875
+Mister Richman's homeland.
+
+73
+00:04:44,958 --> 00:04:46,500
+[MAYA]
+Oh, that means you, too?
+
+74
+00:04:46,583 --> 00:04:49,708
+Yes. I'm originally from
+the Goldstruck Republic.
+
+75
+00:04:49,791 --> 00:04:52,625
+I hear Mister Richman's really
+into Japanese culture.
+
+76
+00:04:52,708 --> 00:04:55,166
+And he even recently became
+a naturalized citizen.
+
+77
+00:04:55,250 --> 00:04:56,416
+[RICK]
+That's true.
+
+78
+00:04:56,500 --> 00:04:58,666
+Ah. That explains
+why there's a Sakura Room.
+
+79
+00:04:58,750 --> 00:05:00,625
+This railway is
+a coming together of a lot
+
+80
+00:05:00,708 --> 00:05:02,541
+of Mister Richman's interests.
+
+81
+00:05:02,625 --> 00:05:04,000
+His dreams.
+
+82
+00:05:04,083 --> 00:05:06,125
+We hope your journey
+is a pleasant one.
+
+83
+00:05:07,583 --> 00:05:10,125
+Wow, this is really
+something else.
+
+84
+00:05:10,208 --> 00:05:12,666
+Makes ya wonder why someone
+like you got an invitation.
+
+85
+00:05:12,750 --> 00:05:14,291
+I mean, I never had
+a clue that you were
+
+86
+00:05:14,375 --> 00:05:16,041
+such a big shot, Nick.
+
+87
+00:05:16,125 --> 00:05:18,083
+Yeah, it's kinda funny
+you mention that.
+
+88
+00:05:18,166 --> 00:05:20,750
+I don't have any sort of
+connection to Mr. Richman.
+
+89
+00:05:20,833 --> 00:05:23,750
+So I'm actually at a loss
+as to why I was invited.
+
+90
+00:05:23,833 --> 00:05:27,083
+I guess it is a mystery
+why he'd ask some nobody.
+
+91
+00:05:27,166 --> 00:05:28,208
+[PHOENIX gasps]
+
+92
+00:05:28,291 --> 00:05:29,958
+Anyway, let's look around.
+
+93
+00:05:30,041 --> 00:05:31,500
+Explore a bit!
+
+94
+00:05:32,958 --> 00:05:34,416
+Hurry up!
+
+95
+00:05:34,500 --> 00:05:35,416
+[PHOENIX sighs]
+
+96
+00:05:35,500 --> 00:05:36,750
+Of course, sir.
+
+97
+00:05:41,208 --> 00:05:44,416
+Pardon me. Where is
+the Chrysanthemum Room?
+
+98
+00:05:44,500 --> 00:05:45,791
+[RICK]
+Follow me, sir.
+
+99
+00:05:47,458 --> 00:05:49,458
+Long time no see.
+
+100
+00:05:49,541 --> 00:05:51,083
+Yes, indeed.
+
+101
+00:05:51,166 --> 00:05:52,208
+[RICK]
+Having a look around?
+
+102
+00:05:52,291 --> 00:05:53,625
+You know it!
+
+103
+00:05:53,708 --> 00:05:55,041
+[RICK]
+Nice! Have fun!
+
+104
+00:05:56,833 --> 00:05:58,041
+Here we are, sir.
+
+105
+00:05:58,125 --> 00:05:59,500
+I appreciate it.
+
+106
+00:06:03,083 --> 00:06:04,375
+[BOTH gasp]
+
+107
+00:06:06,583 --> 00:06:08,916
+[police sirens blaring]
+
+108
+00:06:09,000 --> 00:06:10,458
+[VOICE A]
+Attention, all units!
+
+109
+00:06:10,541 --> 00:06:13,750
+The fugitive has escaped the
+flight and is still at large.
+
+110
+00:06:13,833 --> 00:06:16,000
+Set up checkpoints
+on every transportation system
+
+111
+00:06:16,083 --> 00:06:17,041
+in the area.
+
+112
+00:06:17,125 --> 00:06:18,666
+If you do encounter
+the fugitive,
+
+113
+00:06:18,750 --> 00:06:21,541
+please exercise extreme
+caution when approaching.
+
+114
+00:06:21,625 --> 00:06:24,583
+We cannot risk the
+safety of civilians.
+
+115
+00:06:24,666 --> 00:06:26,041
+[COP A] Looks like
+there's a nasty storm
+
+116
+00:06:26,125 --> 00:06:27,416
+coming our way tonight.
+
+117
+00:06:27,500 --> 00:06:29,208
+[COP B] Yeah, that's not
+gonna make this any easier.
+
+118
+00:06:29,291 --> 00:06:31,083
+We've definitely got
+our work cut out for us.
+
+119
+00:06:31,166 --> 00:06:33,791
+[COP A] Last thing we need
+is a diplomatic crisis.
+
+120
+00:06:33,875 --> 00:06:36,125
+[MAYA] Hey, we're right
+next to the dining car!
+
+121
+00:06:36,208 --> 00:06:38,958
+That's pretty convenient!
+
+122
+00:06:39,041 --> 00:06:40,500
+[BOTH gasp]
+
+123
+00:06:40,583 --> 00:06:43,458
+[PHOENIX] Wonder if the
+food's as rich as the décor.
+
+124
+00:06:43,541 --> 00:06:46,083
+[REGINA]
+I didn't know. We can't do it.
+
+125
+00:06:46,166 --> 00:06:47,500
+[ATTENDANT A] But we
+have specific orders from
+
+126
+00:06:47,583 --> 00:06:48,875
+Mister Richman that
+we're to meet all
+
+127
+00:06:48,958 --> 00:06:51,791
+the passengers' demands.
+No matter what they may be.
+
+128
+00:06:51,875 --> 00:06:53,541
+The king said that?
+
+129
+00:06:53,625 --> 00:06:55,583
+[sighs]
+
+130
+00:06:55,666 --> 00:06:58,833
+Well, if that's the case,
+please come this way.
+
+131
+00:06:58,916 --> 00:06:59,833
+Thanks.
+
+132
+00:06:59,916 --> 00:07:01,750
+Some kind of trouble. I guess?
+
+133
+00:07:01,833 --> 00:07:02,916
+[bell rings]
+
+134
+00:07:03,000 --> 00:07:04,250
+[MAYA gasps]
+
+135
+00:07:05,166 --> 00:07:07,250
+[CONDUCTOR A]
+All aboard!
+
+136
+00:07:07,333 --> 00:07:09,291
+[whistle blows]
+
+137
+00:07:29,000 --> 00:07:32,333
+[MAYA] Man, that was
+a beautiful sunset.
+
+138
+00:07:32,416 --> 00:07:33,583
+Don't you think so, Nick?
+
+139
+00:07:33,666 --> 00:07:35,625
+[gasps, growls]
+
+140
+00:07:35,708 --> 00:07:37,125
+[PHOENIX]
+After receiving the invitation,
+
+141
+00:07:37,208 --> 00:07:40,500
+I did a little digging
+into Mister Avery Richman.
+
+142
+00:07:40,583 --> 00:07:42,083
+Not like I hadn't heard of him.
+
+143
+00:07:42,166 --> 00:07:43,875
+He's one of the
+world's wealthiest men,
+
+144
+00:07:43,958 --> 00:07:46,791
+and he'd made the news when
+he became a Japanese citizen
+
+145
+00:07:46,875 --> 00:07:49,416
+and purchased an
+entire railroad line.
+
+146
+00:07:49,500 --> 00:07:52,916
+[gasps]
+What's that?
+
+147
+00:07:53,000 --> 00:07:54,833
+Ahoy, Steel Samurai.
+
+148
+00:07:54,916 --> 00:07:56,583
+Come again?
+
+149
+00:07:56,666 --> 00:07:57,958
+Pretty cool, huh?
+
+150
+00:07:58,041 --> 00:08:01,041
+But what's even cooler
+is that it's a transceiver!
+
+151
+00:08:01,125 --> 00:08:03,500
+Yeah, but what are
+we gonna do with transceivers?
+
+152
+00:08:03,583 --> 00:08:05,083
+[MAYA]
+Isn't that obvious?
+
+153
+00:08:05,166 --> 00:08:07,000
+We're gonna play bomb squad.
+
+154
+00:08:07,083 --> 00:08:08,958
+Oh. You don't say?
+
+155
+00:08:09,041 --> 00:08:12,625
+Come in, Vanguard, tell me
+you've found the bomb. Over.
+
+156
+00:08:12,708 --> 00:08:14,958
+[MAYA] Yes, sir! It has
+a red wire and a blue one.
+
+157
+00:08:15,041 --> 00:08:17,583
+What do we do? Please! Help!
+
+158
+00:08:17,666 --> 00:08:20,500
+Ugh! To hell with being careful!
+
+159
+00:08:20,583 --> 00:08:22,541
+Cut all of 'em, now!
+
+160
+00:08:25,708 --> 00:08:26,916
+You're nuts.
+
+161
+00:08:27,000 --> 00:08:28,291
+I just think we can
+have fun with games about
+
+162
+00:08:28,375 --> 00:08:30,416
+runaway trains and bomb scares!
+
+163
+00:08:30,500 --> 00:08:32,333
+You've been watching
+way too many movies.
+
+164
+00:08:32,416 --> 00:08:34,208
+[knocking]
+
+165
+00:08:34,291 --> 00:08:36,000
+I came to hang out with my pals!
+
+166
+00:08:36,083 --> 00:08:37,916
+[MAYA]
+Hey there, Gummy!
+
+167
+00:08:38,000 --> 00:08:39,791
+[GUMSHOE] Thanks for showing
+me the way, Regina.
+
+168
+00:08:39,875 --> 00:08:41,500
+Much appreciated!
+
+169
+00:08:41,583 --> 00:08:44,333
+I'm glad to help!
+You guys have fun, okay?
+
+170
+00:08:49,791 --> 00:08:52,875
+Commence with the operation.
+We'll secure our king.
+
+171
+00:08:52,958 --> 00:08:55,666
+Right. There was an issue
+in the dining car earlier.
+
+172
+00:08:55,750 --> 00:08:57,125
+Yes, I heard.
+
+173
+00:08:57,208 --> 00:08:59,416
+Special request from
+a valued passenger.
+
+174
+00:08:59,500 --> 00:09:02,291
+It's unexpected, but we
+still have to fulfill it.
+
+175
+00:09:02,375 --> 00:09:04,291
+--Right.
+--Nothing to worry about.
+
+176
+00:09:04,375 --> 00:09:06,291
+Stick to the plan
+and it'll be fine.
+
+177
+00:09:06,375 --> 00:09:08,333
+[REGINA]
+Yeah.
+
+178
+00:09:08,416 --> 00:09:09,750
+[sighs]
+
+179
+00:09:11,458 --> 00:09:12,541
+[door clacks]
+
+180
+00:09:14,708 --> 00:09:16,250
+[RICK]
+May I help you with something?
+
+181
+00:09:16,333 --> 00:09:18,000
+Some scotch. Neat.
+
+182
+00:09:18,083 --> 00:09:20,500
+I'll get right
+on it, sir. No problem.
+
+183
+00:09:25,291 --> 00:09:26,625
+A book about trains, huh?
+
+184
+00:09:26,708 --> 00:09:27,958
+Oh, that?
+
+185
+00:09:28,041 --> 00:09:29,583
+Thought I'd learn something
+about this railroad.
+
+186
+00:09:29,666 --> 00:09:31,791
+Originally, it was
+a short local line.
+
+187
+00:09:31,875 --> 00:09:33,958
+But it eventually grew and
+became a way for the people
+
+188
+00:09:34,041 --> 00:09:36,208
+in the area to get almost
+anywhere in the country.
+
+189
+00:09:36,291 --> 00:09:37,500
+Yeah?
+
+190
+00:09:37,583 --> 00:09:38,625
+But what's interesting--
+
+191
+00:09:38,708 --> 00:09:39,958
+Is not this!
+
+192
+00:09:40,041 --> 00:09:42,208
+There's nothing more lame
+than a railroad geek!
+
+193
+00:09:42,291 --> 00:09:44,125
+We should play
+with these instead!
+
+194
+00:09:44,208 --> 00:09:47,958
+Whoa! You got an "Ahoy,
+Steel Samurai!" That's cool.
+
+195
+00:09:48,041 --> 00:09:50,166
+But, uh, what are we
+gonna do with them?
+
+196
+00:09:50,250 --> 00:09:53,166
+It's, like, so
+obvious! C'mon, pal!
+
+197
+00:09:53,250 --> 00:09:54,416
+We're gonna play bomb squad.
+
+198
+00:09:54,500 --> 00:09:56,875
+Yeah! That's more like it!
+
+199
+00:09:56,958 --> 00:09:58,250
+[PHOENIX gasps]
+
+200
+00:09:58,333 --> 00:10:00,625
+High adventures with
+runaway trains and bomb scares!
+
+201
+00:10:00,708 --> 00:10:02,000
+That sounds like fun to me!
+
+202
+00:10:02,083 --> 00:10:05,708
+Wow, awesome!
+You know how to play!
+
+203
+00:10:08,875 --> 00:10:10,958
+Right. It's
+Sergeant Skip calling.
+
+204
+00:10:11,041 --> 00:10:14,375
+Vangaurd, if you copy me,
+come in, stat! Over!
+
+205
+00:10:14,458 --> 00:10:15,458
+[GUMSHOE]
+I'm currently en route.
+
+206
+00:10:15,541 --> 00:10:17,000
+Moving through car 2.
+
+207
+00:10:18,833 --> 00:10:21,583
+And I'm entering
+the third car, sergeant Skip!
+
+208
+00:10:21,666 --> 00:10:24,416
+Now. Commence scanning
+the perimeter for explosives!
+
+209
+00:10:24,500 --> 00:10:26,583
+[MAYA]
+Not so fast, ya moron!
+
+210
+00:10:26,666 --> 00:10:28,416
+Don't you realize that
+these passengers' lives
+
+211
+00:10:28,500 --> 00:10:29,708
+are in our hands?
+
+212
+00:10:29,791 --> 00:10:32,916
+So failure's not
+an option! Ya dig?
+
+213
+00:10:33,000 --> 00:10:35,500
+[GUMSHOE] Uh, yeah.
+About the "moron" crack.
+
+214
+00:10:35,583 --> 00:10:37,166
+Was that necessary?
+
+215
+00:10:37,250 --> 00:10:40,666
+[MAYA] Don't sweat the
+small stuff, Vanguard. Over.
+
+216
+00:10:40,750 --> 00:10:42,958
+They are quite the pair.
+
+217
+00:10:43,041 --> 00:10:45,541
+[GUMSHOE] Vanguard calling!
+I've found the bomb!
+
+218
+00:10:45,625 --> 00:10:47,791
+And it's a real doozy!
+
+219
+00:10:47,875 --> 00:10:50,041
+[GUMSHOE] I've never seen
+anything like it in my life!
+
+220
+00:10:50,125 --> 00:10:52,166
+The thing has got
+five freakin' wires!
+
+221
+00:10:52,250 --> 00:10:56,083
+No way. Well.
+Screw it, just cut 'em all!
+
+222
+00:10:56,166 --> 00:10:57,625
+What?
+
+223
+00:10:57,708 --> 00:10:59,875
+But Sergeant Skip, the thing's
+gonna explode if I do that!
+
+224
+00:10:59,958 --> 00:11:00,916
+[REGINA]
+Excuse me, sir.
+
+225
+00:11:01,000 --> 00:11:02,041
+[yelps]
+Yeah?
+
+226
+00:11:02,125 --> 00:11:03,500
+I mean, can I help
+you with something?
+
+227
+00:11:03,583 --> 00:11:06,083
+Is there a bomb?
+I just overheard you.
+
+228
+00:11:06,166 --> 00:11:09,833
+[laughs] No, sorry.
+It's just a game.
+
+229
+00:11:09,916 --> 00:11:12,291
+Ya know, luxury train.
+Mysteries and whatnot?
+
+230
+00:11:12,375 --> 00:11:13,625
+I see.
+
+231
+00:11:14,708 --> 00:11:16,791
+Anyway, dinner service for
+our car 3 passengers
+
+232
+00:11:16,875 --> 00:11:18,416
+begins promptly at 6.
+
+233
+00:11:18,500 --> 00:11:20,666
+[GUMSHOE]
+Oh, okay. Sounds good to me!
+
+234
+00:11:20,750 --> 00:11:23,083
+Ah, so the two cars have
+dinner at different times.
+
+235
+00:11:23,166 --> 00:11:26,958
+[GUMSHOE] Uh... Well,
+I guess I'm gonna go dig in
+
+236
+00:11:27,041 --> 00:11:28,291
+before it's gone.
+
+237
+00:11:33,750 --> 00:11:34,875
+[gasps]
+
+238
+00:11:34,958 --> 00:11:36,583
+Hey.
+
+239
+00:11:36,666 --> 00:11:38,166
+[GUMSHOE]
+Really?
+
+240
+00:11:38,250 --> 00:11:40,291
+You actually brought along the
+ol' gavel with you on vacation?
+
+241
+00:11:40,375 --> 00:11:43,791
+Yeah. Honestly, I just
+don't feel complete without it.
+
+242
+00:11:43,875 --> 00:11:45,875
+[laughs]
+
+243
+00:11:45,958 --> 00:11:49,250
+[BOTH chomp, sigh]
+
+244
+00:11:54,291 --> 00:11:55,916
+[PHOENIX]
+Almost 8 o'clock.
+
+245
+00:11:56,000 --> 00:11:58,291
+Well, we should probably
+get ready to go to dinner.
+
+246
+00:11:58,375 --> 00:11:59,583
+Aye-aye!
+
+247
+00:12:20,125 --> 00:12:21,916
+[BOTH slurp]
+
+248
+00:12:22,000 --> 00:12:23,208
+Ah.
+
+249
+00:12:23,291 --> 00:12:25,083
+One hell of a trip, ain't it?
+
+250
+00:12:25,166 --> 00:12:26,833
+You said it, pal.
+
+251
+00:12:26,916 --> 00:12:28,000
+[gasps]
+
+252
+00:12:28,083 --> 00:12:30,041
+[GUMSHOE]
+Hm? What's the matter, boss?
+
+253
+00:12:30,125 --> 00:12:32,000
+Well, I'm afraid that
+I must have forgotten something
+
+254
+00:12:32,083 --> 00:12:33,625
+in the dining car.
+
+255
+00:12:33,708 --> 00:12:36,000
+[MAYA]
+Mm! Yummy!
+
+256
+00:12:36,083 --> 00:12:37,958
+[gasps]
+There's the judge.
+
+257
+00:12:40,333 --> 00:12:42,000
+[MAYA]
+Wonder what he's up to?
+
+258
+00:12:43,125 --> 00:12:45,833
+[Good Morning to All plays]
+
+259
+00:12:45,916 --> 00:12:46,958
+[JUDGE]
+Hmm?
+
+260
+00:12:48,416 --> 00:12:50,541
+[JAM]
+Oh, dear, what's that?
+
+261
+00:12:50,625 --> 00:12:53,375
+[gasps] They're putting
+on some kind of show!
+
+262
+00:12:55,541 --> 00:12:56,833
+Jeez Louise.
+
+263
+00:12:56,916 --> 00:12:58,916
+I didn't know there was
+gonna be a blizzard comin'.
+
+264
+00:13:00,375 --> 00:13:03,083
+Wait a second? What's going on?
+
+265
+00:13:06,375 --> 00:13:08,041
+[gasps]
+
+266
+00:13:10,791 --> 00:13:13,708
+Holy cow! Is that a human soul?
+
+267
+00:13:13,791 --> 00:13:16,416
+--[brakes squealing]
+--Whoa! Whoa! Whoa!
+
+268
+00:13:18,125 --> 00:13:19,875
+Why would they
+stop the train out here?
+
+269
+00:13:19,958 --> 00:13:21,958
+Doesn't make a
+lick o' sense to me.
+
+270
+00:13:22,041 --> 00:13:23,833
+[crashing]
+
+271
+00:13:25,791 --> 00:13:27,666
+What's up now?
+
+272
+00:13:38,083 --> 00:13:40,208
+[whistle blows]
+
+273
+00:13:44,833 --> 00:13:46,125
+[PHOENIX]
+We're moving again.
+
+274
+00:13:46,208 --> 00:13:49,000
+[sighs]
+I wasn't expecting that.
+
+275
+00:13:49,083 --> 00:13:51,125
+Excuse me.
+Are you all right, ma'am?
+
+276
+00:13:51,208 --> 00:13:52,541
+Yes, dearie.
+
+277
+00:13:52,625 --> 00:13:55,125
+And aren't you just the
+sweetest for asking about me.
+
+278
+00:13:55,208 --> 00:13:58,166
+[gasps]
+What was that all about?
+
+279
+00:13:58,250 --> 00:14:00,375
+I swear that was
+a person's soul out there.
+
+280
+00:14:00,458 --> 00:14:01,125
+[REGINA]
+Sir.
+
+281
+00:14:01,208 --> 00:14:02,416
+[gasps, yelps]
+
+282
+00:14:05,541 --> 00:14:06,708
+[gasps]
+
+283
+00:14:06,791 --> 00:14:08,500
+Please be quiet!
+
+284
+00:14:08,583 --> 00:14:10,666
+[GUMSHOE]
+Hey, you're the guy!
+
+285
+00:14:10,750 --> 00:14:12,375
+Who I am,
+is the man taking control
+
+286
+00:14:12,458 --> 00:14:13,583
+over the Silver Star.
+
+287
+00:14:13,666 --> 00:14:15,208
+You're doing what, now?
+
+288
+00:14:19,541 --> 00:14:21,125
+I'll need your cell phone.
+
+289
+00:14:21,208 --> 00:14:23,916
+We shall be confiscating
+all communication devices.
+
+290
+00:14:24,000 --> 00:14:26,000
+But if you do as we say,
+you can rest assured,
+
+291
+00:14:26,083 --> 00:14:28,291
+your safety is guaranteed.
+
+292
+00:14:28,375 --> 00:14:29,750
+[PASSENGER A]
+What's going on here?!
+
+293
+00:14:29,833 --> 00:14:31,041
+[WOMAN screams]
+
+294
+00:14:31,125 --> 00:14:32,416
+Please, sir, inside.
+
+295
+00:14:32,500 --> 00:14:33,708
+[GUMSHOE growls]
+
+296
+00:14:35,166 --> 00:14:37,416
+[GUMSHOE growls]
+This is messed up.
+
+297
+00:14:38,625 --> 00:14:40,708
+The judge went
+back to the dining car.
+
+298
+00:14:40,791 --> 00:14:43,333
+Phoenix and Maya, too.
+I hope they're okay.
+
+299
+00:14:44,625 --> 00:14:46,541
+[whistle blows]
+
+300
+00:14:53,250 --> 00:14:55,416
+Hello, my name is Avery Richman.
+
+301
+00:14:55,500 --> 00:14:59,125
+From the Goldstruck Republic.
+Patriarch of the Richman Family.
+
+302
+00:14:59,208 --> 00:15:01,833
+I'm also the owner
+of the Silver Star Express.
+
+303
+00:15:01,916 --> 00:15:03,291
+What's this about?
+
+304
+00:15:03,375 --> 00:15:05,333
+[RICHMAN] First off,
+I'd like to extend my deepest,
+
+305
+00:15:05,416 --> 00:15:08,083
+heartfelt apologies
+for scaring you like this.
+
+306
+00:15:08,166 --> 00:15:09,541
+The purpose of the
+guns in our hands
+
+307
+00:15:09,625 --> 00:15:11,791
+is not to simply cause fear.
+
+308
+00:15:11,875 --> 00:15:14,166
+They symbolize our
+dedication to our cause.
+
+309
+00:15:14,250 --> 00:15:17,833
+The resolve that we carry.
+Please, try to understand that.
+
+310
+00:15:17,916 --> 00:15:19,333
+And what's your cause?
+
+311
+00:15:19,416 --> 00:15:23,166
+Heh. Let's take
+things one step at a time.
+
+312
+00:15:23,250 --> 00:15:25,333
+Now, if you would be so kind.
+
+313
+00:15:25,416 --> 00:15:27,583
+Hand over any and all
+communication devices
+
+314
+00:15:27,666 --> 00:15:28,958
+you might have.
+
+315
+00:15:33,000 --> 00:15:34,000
+[ATTENDANT B]
+What is this?
+
+316
+00:15:34,083 --> 00:15:35,583
+Ahoy, Steel Samurai.
+
+317
+00:15:35,666 --> 00:15:37,166
+[ATTENDANT B]
+Oh-kay?
+
+318
+00:15:37,250 --> 00:15:38,791
+It's just a toy, really.
+
+319
+00:15:38,875 --> 00:15:40,208
+[RICHMAN]
+Let it go.
+
+320
+00:15:40,291 --> 00:15:44,166
+I clearly told you not to
+place anyone under duress.
+
+321
+00:15:44,250 --> 00:15:45,875
+Please forgive me, sir.
+
+322
+00:15:45,958 --> 00:15:47,750
+Apologies for his rudeness.
+
+323
+00:15:47,833 --> 00:15:49,333
+Yeah. Sure.
+
+324
+00:15:49,416 --> 00:15:51,833
+[JAM]
+Avery Richman?
+
+325
+00:15:51,916 --> 00:15:54,125
+[RICHMAN]
+It's been quite a while, Madame.
+
+326
+00:15:54,208 --> 00:15:55,916
+Uh. I'm sorry, sir.
+
+327
+00:15:56,000 --> 00:15:59,041
+But weren't you sentenced to
+death over in the United States?
+
+328
+00:15:59,125 --> 00:16:00,541
+Really?
+
+329
+00:16:00,625 --> 00:16:04,208
+Yes. One year ago,
+I did stand trial for murder.
+
+330
+00:16:04,291 --> 00:16:06,125
+And that travesty of
+justice was held in
+
+331
+00:16:06,208 --> 00:16:07,750
+an American court of law.
+
+332
+00:16:07,833 --> 00:16:09,333
+They declared me guilty.
+
+333
+00:16:09,416 --> 00:16:11,375
+Then why are you in Japan now?
+
+334
+00:16:11,458 --> 00:16:13,375
+I was in the process
+of being transferred
+
+335
+00:16:13,458 --> 00:16:14,833
+to a Japanese prison.
+
+336
+00:16:14,916 --> 00:16:16,250
+I see.
+
+337
+00:16:16,333 --> 00:16:18,791
+Because you had become a
+naturalized citizen of Japan.
+
+338
+00:16:18,875 --> 00:16:20,833
+They decided to
+extradite you back home.
+
+339
+00:16:20,916 --> 00:16:22,333
+That's correct.
+
+340
+00:16:22,416 --> 00:16:25,416
+I was ordered to return to
+Japan to carry out my sentence.
+
+341
+00:16:25,500 --> 00:16:27,416
+But I managed
+to escape from the airport,
+
+342
+00:16:27,500 --> 00:16:30,416
+and now I stand before
+you aboard the Silver Star.
+
+343
+00:16:30,500 --> 00:16:32,958
+Exactly how I had
+been planning all along.
+
+344
+00:16:33,041 --> 00:16:35,208
+So. It's part
+of some larger plot?
+
+345
+00:16:35,291 --> 00:16:37,875
+Yes. I have spent
+innumerable hours
+
+346
+00:16:37,958 --> 00:16:40,083
+formulating my method of escape.
+
+347
+00:16:40,166 --> 00:16:41,958
+Of course, there's
+no way I could've pulled off
+
+348
+00:16:42,041 --> 00:16:43,666
+such an elaborate scheme alone.
+
+349
+00:16:43,750 --> 00:16:44,875
+That's the reason I have
+
+350
+00:16:44,958 --> 00:16:47,375
+so many trustworthy
+companions at my side.
+
+351
+00:16:47,458 --> 00:16:49,916
+Every single one of them
+is from my true homeland,
+
+352
+00:16:50,000 --> 00:16:51,916
+the Goldstruck Republic.
+
+353
+00:16:52,000 --> 00:16:54,291
+Their belief in my innocence
+has remained steadfast
+
+354
+00:16:54,375 --> 00:16:55,958
+throughout this ordeal.
+
+355
+00:16:56,041 --> 00:16:58,666
+And they have supported
+me every step of the way.
+
+356
+00:16:58,750 --> 00:17:01,000
+My gratitude to them
+knows no bounds.
+
+357
+00:17:01,083 --> 00:17:04,416
+So to put it in other words,
+they're all your accomplices.
+
+358
+00:17:04,500 --> 00:17:06,166
+What's your end goal with this?
+
+359
+00:17:06,250 --> 00:17:09,208
+You may be hidden inside your
+own train for the time being.
+
+360
+00:17:09,291 --> 00:17:11,791
+But it will reach its
+destination tomorrow morning.
+
+361
+00:17:11,875 --> 00:17:13,208
+And at that point...
+
+362
+00:17:13,291 --> 00:17:15,041
+...it's game over.
+
+363
+00:17:15,125 --> 00:17:17,458
+My goal, is but a simple one.
+
+364
+00:17:17,541 --> 00:17:18,916
+I want a retrial.
+
+365
+00:17:19,000 --> 00:17:22,750
+[whistle blows]
+
+366
+00:17:22,833 --> 00:17:25,708
+Are you serious?
+That's preposterous!
+
+367
+00:17:25,791 --> 00:17:28,000
+The first trial
+was a total sham.
+
+368
+00:17:28,083 --> 00:17:30,500
+Nothing but false testimony
+and faux evidence.
+
+369
+00:17:30,583 --> 00:17:32,541
+Lies upon more lies!
+
+370
+00:17:32,625 --> 00:17:36,333
+And I'll present my case before
+you tonight to prove it!
+
+371
+00:17:36,416 --> 00:17:38,833
+Is that so? How exactly?
+
+372
+00:17:38,916 --> 00:17:41,833
+It's beginning
+right here and right now!
+
+373
+00:17:41,916 --> 00:17:43,291
+On this train.
+
+374
+00:17:43,375 --> 00:17:47,500
+With all of you present.
+I have my retrial!
+
+375
+00:17:47,583 --> 00:17:50,958
+[gasping]
+
+376
+00:17:51,041 --> 00:17:52,708
+[PHOENIX]
+But Mr. Richman,
+
+377
+00:17:52,791 --> 00:17:54,833
+you realize you're
+on a running train.
+
+378
+00:17:54,916 --> 00:17:57,166
+How you do plan on
+doing that here?
+
+379
+00:17:57,250 --> 00:18:00,833
+[RICHMAN] This rail car has
+everything we need for a trial.
+
+380
+00:18:00,916 --> 00:18:03,833
+There's a courtroom...
+and witnesses!
+
+381
+00:18:14,000 --> 00:18:15,541
+That is the reason.
+
+382
+00:18:15,625 --> 00:18:18,375
+I specifically
+invited each of you.
+
+383
+00:18:22,125 --> 00:18:24,958
+Seems we've got ourselves into
+one hell of a pickle here.
+
+384
+00:18:30,458 --> 00:18:32,833
+[REGINA clears throat]
+
+385
+00:18:32,916 --> 00:18:34,208
+I'm gonna ask you nicely.
+
+386
+00:18:34,291 --> 00:18:35,875
+Please, get back inside.
+
+387
+00:18:35,958 --> 00:18:37,333
+[GUMSHOE growls]
+
+388
+00:18:37,416 --> 00:18:39,166
+I'm afraid I don't
+understand exactly how
+
+389
+00:18:39,250 --> 00:18:41,791
+we here could
+qualify as witnesses.
+
+390
+00:18:41,875 --> 00:18:45,000
+[RICHMAN] Everyone I invited
+to travel in car 1
+
+391
+00:18:45,083 --> 00:18:47,833
+is related to my case
+in some form or fashion.
+
+392
+00:18:47,916 --> 00:18:49,750
+Nobody can deny
+their involvement.
+
+393
+00:18:49,833 --> 00:18:51,750
+[gasping]
+
+394
+00:18:51,833 --> 00:18:53,833
+Yeah? So who'll defend you?
+
+395
+00:18:53,916 --> 00:18:55,916
+I'm surprised you must ask.
+
+396
+00:18:56,000 --> 00:18:59,541
+It'll be you, of course,
+Mr. Phoenix Wright!
+
+397
+00:18:59,625 --> 00:19:01,333
+You've shown outstanding skill.
+
+398
+00:19:01,416 --> 00:19:03,791
+Why else would I have invited
+you aboard my train?
+
+399
+00:19:03,875 --> 00:19:05,833
+[MAYA]
+What about a prosecutor?
+
+400
+00:19:05,916 --> 00:19:08,708
+Am I correct to
+assume that would be me?
+
+401
+00:19:08,791 --> 00:19:11,208
+[RICHMAN]
+Exactly, Mister Turnbull.
+
+402
+00:19:11,291 --> 00:19:13,083
+[PHOENIX]
+Who's that?
+
+403
+00:19:13,166 --> 00:19:15,541
+I'm with the United States
+Attorney's Office.
+
+404
+00:19:15,625 --> 00:19:17,375
+Tristan Turnbull, esquire.
+
+405
+00:19:17,458 --> 00:19:18,541
+[rattling]
+
+406
+00:19:18,625 --> 00:19:20,291
+Who's there?!
+
+407
+00:19:20,375 --> 00:19:22,958
+[JUDGE]
+M-Me...?
+
+408
+00:19:23,041 --> 00:19:24,416
+Why's the judge in here?
+
+409
+00:19:24,500 --> 00:19:26,250
+We did see him come in earlier.
+
+410
+00:19:26,333 --> 00:19:27,916
+You're a judge are you?
+
+411
+00:19:28,000 --> 00:19:30,125
+[JUDGE] I just came back
+to collect my gavel.
+
+412
+00:19:30,208 --> 00:19:32,041
+But if I'd known about all this,
+
+413
+00:19:32,125 --> 00:19:35,500
+I would have certainly stayed
+inside my traveling compartment.
+
+414
+00:19:35,583 --> 00:19:37,291
+What a coincidence this is.
+
+415
+00:19:37,375 --> 00:19:39,750
+How lucky we are to have
+a sitting judge among us
+
+416
+00:19:39,833 --> 00:19:41,208
+to preside over the trial.
+
+417
+00:19:41,291 --> 00:19:43,250
+So will you do
+the honors, Your Honor?
+
+418
+00:19:43,333 --> 00:19:44,666
+Well, I suppose I can.
+
+419
+00:19:44,750 --> 00:19:46,750
+If you insist. That is.
+
+420
+00:19:46,833 --> 00:19:48,208
+What is forcibly
+holding a trial on
+
+421
+00:19:48,291 --> 00:19:49,708
+a train supposed to do?
+
+422
+00:19:49,791 --> 00:19:51,708
+We're completely isolated here.
+
+423
+00:19:51,791 --> 00:19:53,833
+[RICHMAN] I have set up
+cameras and transceivers
+
+424
+00:19:53,916 --> 00:19:55,458
+to broadcast the trial.
+
+425
+00:19:55,541 --> 00:19:57,416
+In the end... they will see.
+
+426
+00:19:57,500 --> 00:19:59,583
+I will brandish the truth
+in the faces of those
+
+427
+00:19:59,666 --> 00:20:00,791
+who have wronged me!
+
+428
+00:20:00,875 --> 00:20:02,166
+In the end?
+
+429
+00:20:02,250 --> 00:20:04,333
+The Silver Star
+arrives at her destination
+
+430
+00:20:04,416 --> 00:20:06,625
+at 7 AM. At the same time,
+
+431
+00:20:06,708 --> 00:20:08,916
+we'll be seeing the first
+sunrise of the year.
+
+432
+00:20:09,000 --> 00:20:11,625
+My wish is for the truth
+to be uncovered by then.
+
+433
+00:20:11,708 --> 00:20:13,208
+I have a question for you.
+
+434
+00:20:13,291 --> 00:20:15,166
+What do you plan to do
+if this trial finds that
+
+435
+00:20:15,250 --> 00:20:17,958
+you're guilty as well?
+
+436
+00:20:18,041 --> 00:20:20,041
+I will accept
+the verdict reached.
+
+437
+00:20:20,125 --> 00:20:22,791
+However, I'm quite sure
+that won't happen.
+
+438
+00:20:22,875 --> 00:20:25,833
+Not as long as the trial is
+conducted properly and fairly.
+
+439
+00:20:25,916 --> 00:20:27,125
+[PHOENIX grunts]
+
+440
+00:20:27,208 --> 00:20:28,958
+[TRISTAN] Hmph. Mr. Richman,
+our justice system
+
+441
+00:20:29,041 --> 00:20:31,041
+does not make mistakes.
+
+442
+00:20:31,125 --> 00:20:32,666
+I understand.
+
+443
+00:20:32,750 --> 00:20:35,833
+And I agree to act
+as your defense.
+
+444
+00:20:35,916 --> 00:20:39,125
+[RICHMAN] You have my humble
+thanks, Mr. Wright!
+
+445
+00:20:39,208 --> 00:20:41,833
+[TRISTAN] Give me 20 minutes.
+I'll need to prepare.
+
+446
+00:20:44,416 --> 00:20:47,291
+Um. Hey. Excuse me, mister.
+
+447
+00:20:47,375 --> 00:20:49,375
+I think I ate a little too much.
+
+448
+00:20:49,458 --> 00:20:51,083
+Permission to go
+to the bathroom?
+
+449
+00:20:51,166 --> 00:20:52,083
+[RICHMAN]
+Go ahead.
+
+450
+00:20:52,166 --> 00:20:53,541
+Thank you, sir!
+
+451
+00:20:57,500 --> 00:20:58,958
+[MAYA]
+Come in, Gumshoe.
+
+452
+00:20:59,041 --> 00:21:00,291
+[yelps]
+
+453
+00:21:00,375 --> 00:21:02,583
+[MAYA]
+Gumshoe, please respond!
+
+454
+00:21:04,458 --> 00:21:05,791
+Gumshoe speaking.
+
+455
+00:21:05,875 --> 00:21:07,833
+What in the hell's
+going on up there?
+
+456
+00:21:09,250 --> 00:21:12,000
+[MAYA]
+Yeah. So that's the whole story.
+
+457
+00:21:12,083 --> 00:21:14,666
+Detective. Nick really
+needs your help right now!
+
+458
+00:21:14,750 --> 00:21:16,000
+I read you.
+
+459
+00:21:16,083 --> 00:21:18,583
+I'm still back in my room
+in car 3 at the moment,
+
+460
+00:21:18,666 --> 00:21:20,666
+but the dining car
+is the next one over.
+
+461
+00:21:20,750 --> 00:21:22,458
+I'll try to make my way there.
+
+462
+00:21:27,958 --> 00:21:29,791
+[REGINA gasps]
+Hold it!
+
+463
+00:21:30,333 --> 00:21:31,791
+--[yelps]
+--[gun firing]
+
+464
+00:21:31,875 --> 00:21:34,291
+[GUMSHOE groans]
+
+465
+00:21:34,375 --> 00:21:35,708
+Are you serious, lady?
+
+466
+00:21:35,791 --> 00:21:37,333
+[GUMSHOE groans]
+
+467
+00:21:41,041 --> 00:21:43,291
+What the... Wait. No way!
+
+468
+00:21:43,375 --> 00:21:45,958
+What in the hell is happening?
+
+469
+00:21:46,041 --> 00:21:47,625
+Where's the dining car?!
+
+470
+00:21:47,708 --> 00:21:49,458
+It's supposed to be right here!
+
+471
+00:21:49,541 --> 00:21:52,583
+And it looks
+like car 1 is gone, too!
+
+472
+00:23:27,541 --> 00:23:28,916
+[PHOENIX]
+Objection!
+
+473
+00:23:29,000 --> 00:23:31,416
+Could the international
+fugitive Avery Richman
+
+474
+00:23:31,500 --> 00:23:32,791
+really be innocent?
+
+475
+00:23:32,875 --> 00:23:35,541
+My opponent, American
+prosecutor Tristan Turnbull,
+
+476
+00:23:35,625 --> 00:23:37,166
+presents scores of evidence.
+
+477
+00:23:37,250 --> 00:23:40,416
+All of it reinforces Richman's
+earlier guilty verdict.
+
+478
+00:23:40,500 --> 00:23:42,833
+To make matters worse,
+one of the key witnesses
+
+479
+00:23:42,916 --> 00:23:45,583
+is found murdered
+on board the speeding train.
+
+480
+00:23:45,666 --> 00:23:47,500
+Who could the killer be?
+
+481
+00:23:47,583 --> 00:23:50,208
+Find the contradictions!
+Believe in the truth!
+
+482
+00:23:50,291 --> 00:23:53,666
+Next episode, "Northward,
+Turnabout Express -- 2nd Trial"!
+
+483
+00:23:53,750 --> 00:23:55,083
+Take that!
+

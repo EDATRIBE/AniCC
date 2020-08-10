@@ -1,0 +1,2421 @@
+﻿1
+00:00:08,208 --> 00:00:09,375
+[PHOENIX]
+My name is Phoenix Wright
+
+2
+00:00:09,458 --> 00:00:10,958
+and I'm a defense attorney.
+
+3
+00:00:11,041 --> 00:00:12,666
+The Kurain Village's
+sacred urn
+
+4
+00:00:12,750 --> 00:00:14,375
+which holds the soul
+of Mystic Ami
+
+5
+00:00:14,458 --> 00:00:17,125
+was stolen by the phantom
+thief, Mask DeMasque.
+
+6
+00:00:17,208 --> 00:00:19,458
+When Ron DeLite
+said he was the guilty party
+
+7
+00:00:19,541 --> 00:00:21,041
+and surrendered,
+I took up his case
+
+8
+00:00:21,125 --> 00:00:23,583
+and began investigating,
+hoping to uncover the truth
+
+9
+00:00:23,666 --> 00:00:25,750
+and ensure justice is served.
+
+10
+00:00:25,833 --> 00:00:28,708
+However, that didn't
+sit right with Maya.
+
+11
+00:00:28,791 --> 00:00:32,000
+And thus... I ended up going
+into the trial alone.
+
+12
+00:00:33,791 --> 00:00:36,458
+[CROWD murmuring]
+
+13
+00:00:42,583 --> 00:00:44,041
+What is going on here?
+
+14
+00:00:44,125 --> 00:00:48,166
+Why is Mask DeMasque so popular?
+He's a criminal.
+
+15
+00:00:48,250 --> 00:00:50,000
+They've even got postcards.
+
+16
+00:00:53,583 --> 00:00:56,208
+What are you doing, Nick?
+
+17
+00:00:57,291 --> 00:00:59,250
+[PHOENIX]
+Maya would love one of those.
+
+18
+00:00:59,333 --> 00:01:02,208
+No. I'm on my own today.
+Gotta stay focused.
+
+19
+00:02:39,083 --> 00:02:41,750
+Court is now in session
+for the trial of Ron DeLite.
+
+20
+00:02:41,833 --> 00:02:42,875
+Please be seated.
+
+21
+00:02:42,958 --> 00:02:44,291
+[RON whimpers]
+
+22
+00:02:44,375 --> 00:02:48,708
+Your Honor. The defense
+is ready to proceed.
+
+23
+00:02:48,791 --> 00:02:52,708
+And what about the prosecution?
+Are you ready to begin?
+
+24
+00:02:52,791 --> 00:02:54,083
+A foolish question.
+
+25
+00:02:54,166 --> 00:02:55,625
+[gasps]
+
+26
+00:02:55,708 --> 00:02:58,000
+[GODOT] My caffeinated blood
+is always prepared for battle.
+
+27
+00:02:58,083 --> 00:03:01,375
+Let's turn the tables,
+Your Honor. Tell us--
+
+28
+00:03:01,458 --> 00:03:03,000
+Are you ready
+to roast this bean?
+
+29
+00:03:03,083 --> 00:03:05,333
+[gasps]
+Don't be absurd.
+
+30
+00:03:05,416 --> 00:03:07,416
+I'll pass judgment after
+I've heard both sides
+
+31
+00:03:07,500 --> 00:03:08,875
+and reviewed the evidence.
+
+32
+00:03:08,958 --> 00:03:10,708
+[GODOT] Wake up and
+smell the rich aroma
+
+33
+00:03:10,791 --> 00:03:12,958
+of a thief admitting his crimes.
+
+34
+00:03:13,041 --> 00:03:16,416
+This'll be quick.
+We have other cases. Right?
+
+35
+00:03:16,500 --> 00:03:18,833
+And, um... Who are you again?
+
+36
+00:03:18,916 --> 00:03:23,833
+Hmph. Godot. A legendary
+prosecutor who's never lost.
+
+37
+00:03:23,916 --> 00:03:27,416
+Is that so? And how
+many trials have you won?
+
+38
+00:03:27,500 --> 00:03:30,625
+This'll be the first time
+I've argued a case.
+
+39
+00:03:30,708 --> 00:03:32,125
+[JUDGE grunts]
+
+40
+00:03:32,208 --> 00:03:33,375
+You're a newbie?
+
+41
+00:03:33,458 --> 00:03:35,166
+I thought you said
+you were legendary.
+
+42
+00:03:35,250 --> 00:03:38,250
+Well, all prosecutors
+start off undefeated.
+
+43
+00:03:38,333 --> 00:03:40,541
+Be that as it may,
+I'd say you're pretty arrogant
+
+44
+00:03:40,625 --> 00:03:41,958
+for a rookie.
+
+45
+00:03:42,041 --> 00:03:44,875
+Every cup of excellence
+begins its life as a mere bean.
+
+46
+00:03:44,958 --> 00:03:46,375
+[JUDGE groans]
+
+47
+00:03:46,458 --> 00:03:49,041
+[PHOENIX] Why does everyone
+I face have to be a nutjob?
+
+48
+00:03:49,125 --> 00:03:52,750
+So, we finally meet.
+It's a pleasure, Mr. Trite.
+
+49
+00:03:52,833 --> 00:03:54,583
+Huh? The name's
+Phoenix Wright. And you--
+
+50
+00:03:54,666 --> 00:03:57,500
+It is my fate to do
+battle with you in this court.
+
+51
+00:03:57,583 --> 00:03:59,041
+It's why I've returned.
+
+52
+00:03:59,125 --> 00:04:01,416
+I came from the ghastly
+depths of Hell to beat you.
+
+53
+00:04:01,500 --> 00:04:02,583
+[gasps]
+
+54
+00:04:02,666 --> 00:04:04,458
+[PHOENIX]
+Should I recognize this guy?
+
+55
+00:04:04,541 --> 00:04:07,250
+He sounds like he knows me.
+
+56
+00:04:07,333 --> 00:04:08,625
+Let's get on with it.
+
+57
+00:04:08,708 --> 00:04:10,958
+We'll begin by hearing
+from the accused.
+
+58
+00:04:14,416 --> 00:04:15,750
+What are you doing?
+
+59
+00:04:15,833 --> 00:04:17,916
+We're in the middle
+of a trial here.
+
+60
+00:04:18,000 --> 00:04:20,791
+A brew that's darker
+than a moonless night sky.
+
+61
+00:04:20,875 --> 00:04:24,416
+Hotter and more acidic
+than the devil's bathwater.
+
+62
+00:04:24,500 --> 00:04:27,250
+Justice pairs well
+with a fine cup of joe.
+
+63
+00:04:27,333 --> 00:04:30,291
+[JUDGE gasps]
+I suppose I can agree with you.
+
+64
+00:04:30,375 --> 00:04:31,708
+[PHOENIX]
+Seriously?
+
+65
+00:04:31,791 --> 00:04:35,625
+Hello, court. Um, my
+legal name is Ron DeLite.
+
+66
+00:04:35,708 --> 00:04:38,250
+But, you may know me better
+as Mask DeMasque?
+
+67
+00:04:38,333 --> 00:04:39,333
+I'm him.
+
+68
+00:04:39,416 --> 00:04:41,375
+Wonderful. So,
+you admit that you're
+
+69
+00:04:41,458 --> 00:04:44,166
+the phantom thief who
+stole the Kurain urn, then.
+
+70
+00:04:44,250 --> 00:04:45,458
+You're telling us the truth?
+
+71
+00:04:45,541 --> 00:04:47,708
+[RON]
+Yes. I did that crime myself!
+
+72
+00:04:47,791 --> 00:04:49,791
+Go ahead and find me guilty.
+
+73
+00:04:49,875 --> 00:04:51,958
+Can we please just
+get this over with?
+
+74
+00:04:52,041 --> 00:04:54,000
+[PHOENIX]
+Hold it! One second.
+
+75
+00:04:54,083 --> 00:04:56,083
+You're throwing your own case?
+
+76
+00:04:56,166 --> 00:04:58,500
+Is there a reason
+you're screaming, defense?
+
+77
+00:04:58,583 --> 00:05:00,041
+[PHOENIX] Since Ron's
+not even trying to say
+
+78
+00:05:00,125 --> 00:05:01,833
+he's not the phantom thief,
+
+79
+00:05:01,916 --> 00:05:03,916
+all I can do is try to prove
+that Mask DeMasque
+
+80
+00:05:04,000 --> 00:05:06,083
+didn't actually steal the urn.
+
+81
+00:05:06,166 --> 00:05:08,458
+This is nothing
+but pure conjecture!
+
+82
+00:05:08,541 --> 00:05:11,291
+How do we know Mask DeMasque is
+the perpetrator to begin with?
+
+83
+00:05:11,375 --> 00:05:12,750
+What's that you say?
+
+84
+00:05:12,833 --> 00:05:15,083
+Are you suggesting someone
+else broke into the exhibit
+
+85
+00:05:15,166 --> 00:05:17,291
+and committed this theft?
+
+86
+00:05:17,375 --> 00:05:20,000
+That seems like the first fact
+we should get straight.
+
+87
+00:05:20,083 --> 00:05:23,333
+Interesting brew.
+Let's hear your theory.
+
+88
+00:05:23,416 --> 00:05:26,333
+I hope it's as eye opening
+as the nectar in this mug.
+
+89
+00:05:26,416 --> 00:05:28,666
+Turn your attention
+to the screen.
+
+90
+00:05:28,750 --> 00:05:30,375
+This is security-camera
+footage from
+
+91
+00:05:30,458 --> 00:05:32,291
+the Lordly Tailor's basement.
+
+92
+00:05:32,375 --> 00:05:33,666
+And here.
+
+93
+00:05:33,750 --> 00:05:36,958
+I have a photo reference
+for Mask DeMasque.
+
+94
+00:05:37,041 --> 00:05:38,791
+Someone's making
+postcards of me?
+
+95
+00:05:38,875 --> 00:05:40,250
+[PHOENIX]
+Take a close look.
+
+96
+00:05:40,333 --> 00:05:42,583
+The thief who broke
+into Lordly Tailor
+
+97
+00:05:42,666 --> 00:05:44,708
+is missing this gaudy broach!
+
+98
+00:05:46,041 --> 00:05:47,041
+It's true.
+
+99
+00:05:47,125 --> 00:05:48,875
+Therefore... It stands to reason
+
+100
+00:05:48,958 --> 00:05:51,166
+that this criminal is not
+the real phantom thief.
+
+101
+00:05:51,250 --> 00:05:54,083
+[CROWD murmuring]
+
+102
+00:05:56,375 --> 00:05:58,333
+Aptly noticed, Mr. Slight.
+
+103
+00:05:58,416 --> 00:06:00,625
+But isn't this the broach
+you're talking about?
+
+104
+00:06:00,708 --> 00:06:02,333
+Hey, where did you get that?
+
+105
+00:06:02,416 --> 00:06:03,875
+I found it hidden
+at the storeroom,
+
+106
+00:06:03,958 --> 00:06:06,250
+in the shadow of a gold statue.
+
+107
+00:06:06,333 --> 00:06:08,791
+Wait. It was at the
+crime scene all along?
+
+108
+00:06:08,875 --> 00:06:11,916
+[JUDGE] Mm-mm-mm... With this
+evidence, it would seem it was
+
+109
+00:06:12,000 --> 00:06:15,208
+the real Mask DeMasque
+who stole the urn after all.
+
+110
+00:06:15,291 --> 00:06:17,208
+You're quick on
+the uptake, gramps.
+
+111
+00:06:17,291 --> 00:06:18,833
+I raise my mug to you.
+
+112
+00:06:18,916 --> 00:06:21,625
+[PHOENIX] No! If that was
+the real Mask DeMasque,
+
+113
+00:06:21,708 --> 00:06:23,500
+then I don't have a case!
+
+114
+00:06:23,583 --> 00:06:26,750
+You giving up?
+Well, that was easy.
+
+115
+00:06:26,833 --> 00:06:29,458
+My coffee hasn't even had
+a chance to cool down yet.
+
+116
+00:06:29,541 --> 00:06:30,625
+[door creaks]
+
+117
+00:06:30,708 --> 00:06:32,500
+Wait just a minute!
+
+118
+00:06:32,583 --> 00:06:34,208
+[gasps]
+What is it Maya?
+
+119
+00:06:34,291 --> 00:06:35,625
+I have a witness.
+
+120
+00:06:35,708 --> 00:06:38,166
+He's sitting on something big,
+and he can't hold it in.
+
+121
+00:06:38,250 --> 00:06:40,958
+[PHOENIX]
+What? A witness?
+
+122
+00:06:41,041 --> 00:06:42,583
+[MAYA]
+Mm.
+
+123
+00:06:42,666 --> 00:06:44,291
+Yo, Nick, good to see ya.
+
+124
+00:06:44,375 --> 00:06:45,916
+Good to see you, Larry.
+
+125
+00:06:46,000 --> 00:06:47,416
+What are you doing here?
+
+126
+00:06:47,500 --> 00:06:50,000
+I saw him. Yesterday.
+
+127
+00:06:50,083 --> 00:06:52,541
+Hey, I know you. Butz?
+
+128
+00:06:52,625 --> 00:06:54,958
+Oh, whoa. Hi.
+What's goin' on, Maya?
+
+129
+00:06:55,041 --> 00:06:57,125
+But what could he have
+been doing at Ron's place?
+
+130
+00:06:57,208 --> 00:06:59,166
+You've got to
+hear his testimony.
+
+131
+00:06:59,250 --> 00:07:00,791
+I promise it'll be worth it.
+
+132
+00:07:00,875 --> 00:07:02,791
+[BUTZ]
+Have I got a story for you.
+
+133
+00:07:02,875 --> 00:07:04,625
+Always here to help, bruh.
+
+134
+00:07:04,708 --> 00:07:06,458
+[PHOENIX] Every time I think
+I've seen the last of him,
+
+135
+00:07:06,541 --> 00:07:08,000
+I have to see more Butz.
+
+136
+00:07:08,083 --> 00:07:11,208
+[BUTZ] Look at this. I found it
+on my rounds the other day.
+
+137
+00:07:11,291 --> 00:07:13,583
+Hey. Is that my wallet?
+
+138
+00:07:13,666 --> 00:07:15,875
+[BUTZ]
+Hmm. There was a license inside.
+
+139
+00:07:15,958 --> 00:07:18,250
+And, you know,
+other wallet stuff.
+
+140
+00:07:18,333 --> 00:07:20,250
+Anyway, I wanted
+to get it back to him,
+
+141
+00:07:20,333 --> 00:07:21,666
+like a good citizen.
+
+142
+00:07:23,250 --> 00:07:26,541
+[PHOENIX] I'm onto you, Butz.
+You just wanted to meet her.
+
+143
+00:07:26,625 --> 00:07:28,041
+You're skipping
+the important part,
+
+144
+00:07:28,125 --> 00:07:29,750
+when did you find
+the wallet, again?
+
+145
+00:07:29,833 --> 00:07:32,458
+Oh, yeah. It was
+just two days ago.
+
+146
+00:07:32,541 --> 00:07:34,625
+I saw it on the ground
+outside my building at work.
+
+147
+00:07:34,708 --> 00:07:36,750
+But why would Ron's
+wallet be at your job?
+
+148
+00:07:36,833 --> 00:07:38,666
+I mean, it's not that weird.
+
+149
+00:07:38,750 --> 00:07:40,750
+He works at the
+same place I do, right?
+
+150
+00:07:40,833 --> 00:07:41,791
+[RON whimpers]
+
+151
+00:07:41,875 --> 00:07:43,125
+[PHOENIX]
+Really?
+
+152
+00:07:43,208 --> 00:07:45,541
+Oh, and I found something
+else in his wallet, too.
+
+153
+00:07:45,625 --> 00:07:47,458
+A KB Security key card.
+
+154
+00:07:47,541 --> 00:07:50,083
+That gets you all over
+the building I patrol.
+
+155
+00:07:50,166 --> 00:07:52,333
+Each card has
+its own serial number.
+
+156
+00:07:52,416 --> 00:07:55,166
+We keep logs of when people come
+and go throughout the building,
+
+157
+00:07:55,250 --> 00:07:58,250
+day and night. That's my
+top-notch security for ya.
+
+158
+00:07:58,333 --> 00:08:00,333
+He used this? At what time?
+
+159
+00:08:00,416 --> 00:08:03,291
+[BUTZ] Let's see. I think
+it was around 1 AM.
+
+160
+00:08:03,375 --> 00:08:04,291
+[gasps]
+
+161
+00:08:04,375 --> 00:08:06,500
+[PHOENIX]
+1 AM, two nights ago?
+
+162
+00:08:06,583 --> 00:08:08,250
+That's when the urn was stolen!
+
+163
+00:08:08,333 --> 00:08:10,875
+Defendant. Is he
+correct about the fact
+
+164
+00:08:10,958 --> 00:08:13,375
+that you're employed
+by KB Security?
+
+165
+00:08:13,458 --> 00:08:17,916
+Well, not exactly.
+I used to be, until a year ago.
+
+166
+00:08:18,000 --> 00:08:19,000
+[PHOENIX]
+What happened?
+
+167
+00:08:19,083 --> 00:08:21,583
+Um... I was kind of fired.
+
+168
+00:08:21,666 --> 00:08:23,625
+Larry. How long would
+it take to get from
+
+169
+00:08:23,708 --> 00:08:26,041
+your building to Lordly Tailor?
+
+170
+00:08:26,125 --> 00:08:29,500
+[BUTZ] Hmm. I'm guessin'.
+About 30 minutes or so.
+
+171
+00:08:29,583 --> 00:08:31,250
+[PHOENIX grunts]
+Half an hour?
+
+172
+00:08:31,333 --> 00:08:32,333
+[MAYA grunts]
+
+173
+00:08:32,416 --> 00:08:33,708
+That settles it.
+
+174
+00:08:33,791 --> 00:08:35,625
+My client couldn't have been
+in two different places
+
+175
+00:08:35,708 --> 00:08:37,625
+at the exact same time.
+
+176
+00:08:37,708 --> 00:08:39,875
+--[gasps]
+--And therefore,
+
+177
+00:08:39,958 --> 00:08:42,708
+the defendant is not
+Mask DeMasque after all!
+
+178
+00:08:46,875 --> 00:08:48,458
+Pretty clever, Mr. Blight.
+
+179
+00:08:48,541 --> 00:08:49,791
+Color me impressed.
+
+180
+00:08:49,875 --> 00:08:52,458
+Although, I'm curious
+to know why you went to
+
+181
+00:08:52,541 --> 00:08:55,125
+your former place of employment
+after you were fired.
+
+182
+00:08:55,208 --> 00:08:56,791
+And at such
+a late hour, no less.
+
+183
+00:08:56,875 --> 00:08:58,291
+[RON whimpers]
+
+184
+00:08:58,375 --> 00:08:59,791
+What's going on?
+
+185
+00:08:59,875 --> 00:09:01,375
+Look at this, Nick!
+
+186
+00:09:03,375 --> 00:09:04,958
+A letter?
+
+187
+00:09:05,041 --> 00:09:07,166
+[MAYA]
+I found it at Ron's place.
+
+188
+00:09:08,458 --> 00:09:10,041
+Is this what I think it is?
+
+189
+00:09:10,125 --> 00:09:12,333
+I remembered what
+Desiree said earlier.
+
+190
+00:09:12,416 --> 00:09:14,166
+There's a lot more to
+this case than meets the eye!
+
+191
+00:09:14,250 --> 00:09:16,541
+I know it! Please!
+
+192
+00:09:16,625 --> 00:09:18,208
+I'm begging you!
+
+193
+00:09:18,291 --> 00:09:20,083
+She wasn't exaggerating.
+
+194
+00:09:20,166 --> 00:09:22,583
+I think this note could be
+what she was talking about.
+
+195
+00:09:22,666 --> 00:09:24,666
+[gasps]
+That's great!
+
+196
+00:09:24,750 --> 00:09:27,458
+I'm really sorry about
+what happened yesterday.
+
+197
+00:09:27,541 --> 00:09:29,708
+You two ended up
+fighting because of me.
+
+198
+00:09:29,791 --> 00:09:32,375
+Don't say that!
+I was the one who was wrong.
+
+199
+00:09:32,458 --> 00:09:35,666
+You both have
+my gratitude. Thanks alot.
+
+200
+00:09:36,875 --> 00:09:38,916
+[PHOENIX] Your Honor!
+The defense would now like to
+
+201
+00:09:39,000 --> 00:09:40,958
+present a shocking
+new piece of evidence!
+
+202
+00:09:41,041 --> 00:09:43,250
+[gasps]
+No, please, not that!
+
+203
+00:09:45,041 --> 00:09:47,166
+[PHOENIX]
+"Bring me 50,000 dollars."
+
+204
+00:09:47,250 --> 00:09:49,583
+Your Honor, this is
+obviously blackmail.
+
+205
+00:09:49,666 --> 00:09:52,041
+While the theft was taking place
+on the other side of town,
+
+206
+00:09:52,125 --> 00:09:54,750
+Ron DeLite was dealing with
+whoever wrote this letter...
+
+207
+00:09:54,833 --> 00:09:57,875
+...in the CEO's
+office at KB security!
+
+208
+00:09:57,958 --> 00:10:00,458
+Fascinating. But do you
+have concrete proof
+
+209
+00:10:00,541 --> 00:10:03,666
+that the kid even entered
+the CEO's office?
+
+210
+00:10:03,750 --> 00:10:05,000
+Well. I'm sure that we--
+
+211
+00:10:05,083 --> 00:10:07,125
+Of course we've got proof.
+
+212
+00:10:07,208 --> 00:10:08,791
+C'mon, tell 'em, Larry.
+
+213
+00:10:08,875 --> 00:10:11,750
+Sure thang. Look up the
+logs connected to the key card,
+
+214
+00:10:11,833 --> 00:10:13,666
+and they'll tell you exactly
+what doors he went through
+
+215
+00:10:13,750 --> 00:10:14,708
+and at what time.
+
+216
+00:10:14,791 --> 00:10:16,750
+You can do that?
+
+217
+00:10:16,833 --> 00:10:18,208
+[BUTZ chuckles]
+
+218
+00:10:18,291 --> 00:10:21,291
+[JUDGE] Prosecutor Godot.
+Do you approve?
+
+219
+00:10:21,375 --> 00:10:24,041
+Sure. In fact, I have them here.
+
+220
+00:10:24,125 --> 00:10:27,083
+These are the card logs
+for the CEO's office.
+
+221
+00:10:27,166 --> 00:10:30,458
+There is a record for 1 AM the
+night the crime was committed.
+
+222
+00:10:30,541 --> 00:10:32,833
+And I'm guessing
+it was DeLite's card.
+
+223
+00:10:32,916 --> 00:10:34,458
+What? You knew about this?
+
+224
+00:10:34,541 --> 00:10:36,041
+I don't understand.
+
+225
+00:10:36,125 --> 00:10:38,833
+Heh. I'm meticulous
+with my ground work,
+
+226
+00:10:38,916 --> 00:10:40,791
+with both research and coffee.
+
+227
+00:10:40,875 --> 00:10:43,833
+[PHOENIX] Was he testing me?
+Or is something else going on.
+
+228
+00:10:43,916 --> 00:10:45,416
+[GODOT]
+Quote, "If you don't want
+
+229
+00:10:45,500 --> 00:10:48,833
+your secret identity
+revealed." End quote.
+
+230
+00:10:48,916 --> 00:10:50,916
+I wonder what
+all this could be about.
+
+231
+00:10:51,000 --> 00:10:54,083
+See! He's talking about
+the fact I'm Mask DeMasque.
+
+232
+00:10:54,166 --> 00:10:55,250
+[gasps]
+
+233
+00:10:55,333 --> 00:10:57,041
+Irrelevant! The defendant
+clearly wasn't
+
+234
+00:10:57,125 --> 00:10:59,500
+the person who stole
+the urn that night.
+
+235
+00:10:59,583 --> 00:11:00,916
+I must agree with you.
+
+236
+00:11:01,000 --> 00:11:03,541
+DeLite was in the CEO's
+office at KB Security
+
+237
+00:11:03,625 --> 00:11:05,291
+when the crime took place.
+
+238
+00:11:05,375 --> 00:11:07,291
+The prosecutor's office
+will admit that this fact
+
+239
+00:11:07,375 --> 00:11:09,541
+should be on the record.
+
+240
+00:11:09,625 --> 00:11:12,500
+--[gasps]
+--You did it! He's not guilty.
+
+241
+00:11:12,583 --> 00:11:14,916
+--Thank you.
+--This isn't right.
+
+242
+00:11:15,000 --> 00:11:17,458
+I am the phantom thief,
+I swear it's true.
+
+243
+00:11:17,541 --> 00:11:19,583
+Well, if the defendant
+didn't do it.
+
+244
+00:11:19,666 --> 00:11:22,250
+Then who's the
+guilty party responsible?
+
+245
+00:11:22,333 --> 00:11:24,083
+We're now without a suspect.
+
+246
+00:11:24,166 --> 00:11:26,750
+[PHOENIX] Whoever stole the urn
+must have been in the warehouse.
+
+247
+00:11:26,833 --> 00:11:29,333
+It's the only thing
+that makes sense.
+
+248
+00:11:29,416 --> 00:11:31,291
+But who was there at the time?
+
+249
+00:11:35,250 --> 00:11:36,250
+[PHOENIX]
+Don't tell me!
+
+250
+00:11:36,333 --> 00:11:37,458
+Heh.
+
+251
+00:11:37,541 --> 00:11:40,041
+I believe I know who
+the thief may have been.
+
+252
+00:11:40,125 --> 00:11:42,250
+Oh, yeah? Do tell us.
+
+253
+00:11:42,333 --> 00:11:45,750
+The culprit--
+is the prosecutor's witness.
+
+254
+00:11:45,833 --> 00:11:49,166
+The real Mask DeMasque is
+Ace Detective Luke Atmey!
+
+255
+00:11:54,625 --> 00:11:56,583
+[LUKE]
+Greetings, ladies and gentlemen!
+
+256
+00:11:56,666 --> 00:11:58,000
+I have arrived.
+
+257
+00:11:59,541 --> 00:12:02,666
+[JUDGE] Now then, witness.
+State your name and occupation.
+
+258
+00:12:02,750 --> 00:12:05,166
+You've no doubt
+heard of Luke Atmey.
+
+259
+00:12:05,250 --> 00:12:07,166
+Ace Detective and
+stunning star skilled
+
+260
+00:12:07,250 --> 00:12:08,583
+at stealing the spotlight.
+
+261
+00:12:08,666 --> 00:12:10,541
+Would you mind using
+some of that illumination
+
+262
+00:12:10,625 --> 00:12:12,458
+to lighten the dark
+roast in my cup?
+
+263
+00:12:12,541 --> 00:12:15,208
+But of course.
+Your wish is my command.
+
+264
+00:12:15,291 --> 00:12:17,625
+We've got two
+real pieces of work here.
+
+265
+00:12:17,708 --> 00:12:19,958
+It's like they're feeding
+on each others' weirdness.
+
+266
+00:12:20,041 --> 00:12:20,958
+Just my luck.
+
+267
+00:12:21,041 --> 00:12:23,166
+This is simply unbelievable.
+
+268
+00:12:23,250 --> 00:12:26,041
+You seek to indict me,
+the Duke of Deduction?
+
+269
+00:12:26,125 --> 00:12:28,208
+It seems as though you've
+chosen to ignore the rules
+
+270
+00:12:28,291 --> 00:12:31,000
+of civil society again.
+
+271
+00:12:31,083 --> 00:12:32,250
+Are you sure you're
+going to be able to
+
+272
+00:12:32,333 --> 00:12:34,291
+win this one, Mr. Nick?
+
+273
+00:12:34,375 --> 00:12:36,875
+I've got no choice
+but to try my best.
+
+274
+00:12:36,958 --> 00:12:39,708
+First off, Mr. Atmey...
+
+275
+00:12:40,708 --> 00:12:43,000
+Remember what
+you said yesterday?
+
+276
+00:12:43,083 --> 00:12:45,791
+[LUKE] Indeed! And since
+I am an Ace Detective,
+
+277
+00:12:45,875 --> 00:12:48,916
+I expertly arranged an elegant
+trap to ensnare the thief.
+
+278
+00:12:49,000 --> 00:12:51,416
+In other words, it was
+possible for you to easily
+
+279
+00:12:51,500 --> 00:12:52,916
+steal the Kurain urn.
+
+280
+00:12:53,000 --> 00:12:55,416
+Wait. So, the
+detective is the thief?
+
+281
+00:12:55,500 --> 00:12:58,375
+Sadly for you, Sir Lawyer,
+that vibrant picture
+
+282
+00:12:58,458 --> 00:13:00,541
+of the villain behind you
+speaks louder than a wealth
+
+283
+00:13:00,625 --> 00:13:02,125
+of worthless words.
+
+284
+00:13:02,208 --> 00:13:04,291
+As you can see,
+it points to Mask DeMasque
+
+285
+00:13:04,375 --> 00:13:06,125
+as the culprit, not me!
+
+286
+00:13:07,333 --> 00:13:09,083
+By the way, that
+footage was captured
+
+287
+00:13:09,166 --> 00:13:11,291
+by a Lordly Tailor camera, yes?
+
+288
+00:13:11,375 --> 00:13:13,000
+So, it hasn't
+been tampered with.
+
+289
+00:13:14,250 --> 00:13:16,208
+Because there
+was no need for it to be.
+
+290
+00:13:16,291 --> 00:13:17,583
+[LUKE whimpers]
+
+291
+00:13:17,666 --> 00:13:19,500
+You could pretend to be
+on guard duty as a detective
+
+292
+00:13:19,583 --> 00:13:22,416
+and also steal the urn
+as a phantom thief!
+
+293
+00:13:22,500 --> 00:13:25,791
+Luke Atmey!
+You are Mask DeMasque.
+
+294
+00:13:25,875 --> 00:13:26,958
+Admit it!
+
+295
+00:13:27,041 --> 00:13:28,541
+[yelped]
+
+296
+00:13:28,625 --> 00:13:30,750
+What say you
+to this charge, witness?
+
+297
+00:13:33,708 --> 00:13:35,083
+[cackles]
+
+298
+00:13:35,166 --> 00:13:36,500
+He's laughing?
+
+299
+00:13:38,916 --> 00:13:42,333
+Yes, Mask DeMasque is
+truly a maniacal mastermind.
+
+300
+00:13:42,416 --> 00:13:44,333
+And as such, I,
+Detective Luke Atmey,
+
+301
+00:13:44,416 --> 00:13:46,916
+am the only genuine genius
+with the deftness and daring
+
+302
+00:13:47,000 --> 00:13:49,291
+to don the dastardly disguise.
+
+303
+00:13:49,375 --> 00:13:50,666
+Wouldn't you agree?
+
+304
+00:13:50,750 --> 00:13:53,041
+Are you admitting that
+you're guilty of this crime?
+
+305
+00:13:53,125 --> 00:13:54,458
+You've got 'em!
+
+306
+00:13:55,416 --> 00:13:57,083
+Yes, Mr. Atmey!
+
+307
+00:13:57,166 --> 00:13:59,333
+I hereby indict you
+as Mask DeMasque.
+
+308
+00:13:59,416 --> 00:14:01,291
+[GODOT]
+Objection!
+
+309
+00:14:01,375 --> 00:14:02,291
+[gasping]
+
+310
+00:14:02,375 --> 00:14:04,083
+[PHOENIX gaqsps]
+
+311
+00:14:04,166 --> 00:14:06,500
+[GODOT]
+Godot Blend number 102.
+
+312
+00:14:06,583 --> 00:14:08,000
+Have a sample on the house.
+
+313
+00:14:08,083 --> 00:14:09,708
+Sir. What's the meaning of this?
+
+314
+00:14:09,791 --> 00:14:12,291
+The Detective is
+really an Ace Thief?
+
+315
+00:14:12,375 --> 00:14:14,958
+It's a fairy tale filled with
+sweetener to be sure,
+
+316
+00:14:15,041 --> 00:14:17,250
+but reality is far more bitter.
+
+317
+00:14:18,625 --> 00:14:20,375
+I have to admit,
+his theory makes
+
+318
+00:14:20,458 --> 00:14:21,875
+perfect sense to me.
+
+319
+00:14:21,958 --> 00:14:25,083
+It would make sense
+if there were any truth to it,
+
+320
+00:14:25,166 --> 00:14:26,416
+Mr. Smite.
+
+321
+00:14:26,500 --> 00:14:27,458
+[PHOENIX groans]
+
+322
+00:14:27,541 --> 00:14:29,666
+The Urn's guardian is its thief?
+
+323
+00:14:29,750 --> 00:14:31,416
+That's quite the narrative.
+
+324
+00:14:31,500 --> 00:14:34,333
+But you'd better show all of us
+the proof of your claim.
+
+325
+00:14:34,416 --> 00:14:36,458
+Otherwise, I suggest that
+you throw out the pot
+
+326
+00:14:36,541 --> 00:14:37,958
+and try another grind.
+
+327
+00:14:38,041 --> 00:14:39,291
+Yes, indeed.
+
+328
+00:14:39,375 --> 00:14:41,708
+You're rambling randomly
+in an attempt to revile me
+
+329
+00:14:41,791 --> 00:14:43,541
+as a rapscallion, right?
+
+330
+00:14:43,625 --> 00:14:46,166
+I can't imagine
+you have any evidence.
+
+331
+00:14:46,250 --> 00:14:48,166
+[PHOENIX sighs]
+
+332
+00:14:48,250 --> 00:14:49,333
+[PHOENIX]
+I'd love to settle things
+
+333
+00:14:49,416 --> 00:14:51,791
+right here and now, but...
+
+334
+00:14:51,875 --> 00:14:53,625
+[JUDGE]
+Defense?
+
+335
+00:14:53,708 --> 00:14:56,333
+Your Honor.
+I don't have proof yet...
+
+336
+00:14:56,416 --> 00:14:57,666
+[gasps]
+
+337
+00:14:57,750 --> 00:15:00,500
+[GODOT] Hmm. As I thought.
+The brew has gone stale,
+
+338
+00:15:00,583 --> 00:15:02,791
+but you're trying to
+force it down anyway.
+
+339
+00:15:02,875 --> 00:15:05,708
+[PHOENIX] This is no good!
+I've got to stay on the attack!
+
+340
+00:15:05,791 --> 00:15:08,083
+I'll never get another chance
+to prove he's the thief!
+
+341
+00:15:08,166 --> 00:15:10,916
+[LUKE] Hmm. Sounds like you
+can't back up your claims.
+
+342
+00:15:11,000 --> 00:15:12,083
+[PHOENIX whimpers]
+
+343
+00:15:12,166 --> 00:15:13,958
+It seems the cloud
+of suspicion surrounding
+
+344
+00:15:14,041 --> 00:15:16,166
+this witness has lifted,
+and therefore we--
+
+345
+00:15:16,250 --> 00:15:17,708
+[DESIRÉE]
+Hold it!
+
+346
+00:15:17,791 --> 00:15:18,708
+[JUDGE gasps]
+
+347
+00:15:18,791 --> 00:15:19,750
+[gasping]
+
+348
+00:15:21,916 --> 00:15:22,958
+--Dessie, dear!
+--Desiree!
+
+349
+00:15:23,041 --> 00:15:25,166
+Look at this. Tah-dah!
+
+350
+00:15:25,250 --> 00:15:26,166
+[gasping]
+
+351
+00:15:26,250 --> 00:15:27,875
+Wait. Is that the...
+
+352
+00:15:27,958 --> 00:15:31,125
+[MAYA gasps]
+The Kurain urn!
+
+353
+00:15:31,208 --> 00:15:32,625
+But where did you find it?
+
+354
+00:15:32,708 --> 00:15:34,000
+Isn't that obvious?
+
+355
+00:15:34,083 --> 00:15:36,083
+It was in this shady
+detective's office!
+
+356
+00:15:37,958 --> 00:15:40,708
+Detective Atmey's office.
+Does that mean...
+
+357
+00:15:41,958 --> 00:15:43,458
+I wanted to help
+Ronnie get out of this
+
+358
+00:15:43,541 --> 00:15:44,500
+any way I could.
+
+359
+00:15:44,583 --> 00:15:45,750
+[RON whimpers]
+
+360
+00:15:45,833 --> 00:15:49,625
+Ahh... Isn't the power
+of love so beautiful?
+
+361
+00:15:49,708 --> 00:15:51,208
+No. That can't be...
+
+362
+00:15:51,291 --> 00:15:53,291
+You'll find it hard to
+weasel out of this one!
+
+363
+00:15:53,375 --> 00:15:55,583
+The evidence points to guilty!
+
+364
+00:15:55,666 --> 00:15:58,833
+[GODOT] Objection!
+You're jumping to conclusions.
+
+365
+00:15:58,916 --> 00:16:00,250
+Desirée.
+
+366
+00:16:00,333 --> 00:16:02,833
+You're Ron DeLite's loving
+wife, is that correct?
+
+367
+00:16:02,916 --> 00:16:04,333
+[DESIRÉE]
+Yes, of course I am.
+
+368
+00:16:04,416 --> 00:16:06,208
+I have to commend you.
+
+369
+00:16:06,291 --> 00:16:08,083
+The lengths you've gone
+to save your husband
+
+370
+00:16:08,166 --> 00:16:09,916
+are truly inspiring.
+
+371
+00:16:10,000 --> 00:16:11,666
+What do you mean by that?
+
+372
+00:16:11,750 --> 00:16:13,458
+It'd be the easiest
+thing in the world for you
+
+373
+00:16:13,541 --> 00:16:17,291
+to bring the urn to us, from the
+home you share with Ron.
+
+374
+00:16:17,375 --> 00:16:18,458
+[CROWD gasping]
+
+375
+00:16:18,541 --> 00:16:21,958
+That's not true!
+I found it in his office!
+
+376
+00:16:22,041 --> 00:16:23,583
+The scalding truth is...
+
+377
+00:16:23,666 --> 00:16:25,958
+...this town is filled
+to the brim with lies.
+
+378
+00:16:26,041 --> 00:16:28,458
+We don't need any more
+getting through the filter.
+
+379
+00:16:28,541 --> 00:16:30,500
+[DESIRÉE]
+You're wrong! I would never.
+
+380
+00:16:30,583 --> 00:16:33,291
+[JUDGE]
+I see his point.
+
+381
+00:16:33,375 --> 00:16:36,125
+If you cannot prove that the urn
+was in the witness's office,
+
+382
+00:16:36,208 --> 00:16:39,708
+I simply cannot accept it
+as evidence in this court!
+
+383
+00:16:39,791 --> 00:16:41,458
+Don't forget
+to tip your barista.
+
+384
+00:16:41,541 --> 00:16:42,875
+[PHOENIX]
+Objection!
+
+385
+00:16:46,375 --> 00:16:48,250
+[GODOT gasps]
+
+386
+00:16:48,333 --> 00:16:51,791
+The urn was in fact
+in Detective Atmey's office,
+
+387
+00:16:51,875 --> 00:16:54,083
+and I can prove that to be true.
+
+388
+00:16:54,166 --> 00:16:56,250
+Because of the
+fingerprints on it!
+
+389
+00:16:57,458 --> 00:16:59,166
+[GODOT]
+Fingerprints? Really?
+
+390
+00:16:59,250 --> 00:17:02,541
+Oh, dear. Don't make
+us laugh, Sir Lawyer.
+
+391
+00:17:02,625 --> 00:17:04,875
+That's your big reveal? My, my.
+
+392
+00:17:04,958 --> 00:17:06,375
+How thickheaded.
+
+393
+00:17:06,458 --> 00:17:08,875
+It would be perfectly plausible
+if that urn was plastered
+
+394
+00:17:08,958 --> 00:17:10,583
+in my fingerprints.
+
+395
+00:17:10,666 --> 00:17:12,625
+After all, I was
+the slick sentinel
+
+396
+00:17:12,708 --> 00:17:14,416
+assigned its safety.
+
+397
+00:17:14,500 --> 00:17:16,500
+[PHOENIX]
+Hmph. Unfortunately for you,
+
+398
+00:17:16,583 --> 00:17:18,958
+I'm not presenting your
+fingerprints as evidence.
+
+399
+00:17:19,041 --> 00:17:19,958
+[gasps]
+
+400
+00:17:20,041 --> 00:17:21,125
+Mr. Atmey.
+
+401
+00:17:21,208 --> 00:17:24,416
+Do you recall when
+you saw me yesterday?
+
+402
+00:17:24,500 --> 00:17:27,666
+The Kurain urn was
+in your bag then, wasn't it?
+
+403
+00:17:27,750 --> 00:17:29,166
+That's quite impossible.
+
+404
+00:17:29,250 --> 00:17:31,750
+Sure, I didn't look
+in the bag myself.
+
+405
+00:17:31,833 --> 00:17:35,541
+But even better than that.
+I touched whatever was inside!
+
+406
+00:17:35,625 --> 00:17:37,416
+What! You did?
+
+407
+00:17:37,500 --> 00:17:38,625
+[PHOENIX]
+Your Honor!
+
+408
+00:17:38,708 --> 00:17:40,791
+Please have the urn
+dusted for fingerprints.
+
+409
+00:17:40,875 --> 00:17:43,041
+If my prints are on there,
+it proves beyond a doubt
+
+410
+00:17:43,125 --> 00:17:46,041
+that the urn was in Detective
+Atmey's office after all!
+
+411
+00:17:46,125 --> 00:17:49,500
+[GODOT] Objection! Isn't it
+possible you could have touched
+
+412
+00:17:49,583 --> 00:17:51,625
+the urn sometime
+before it was stolen?
+
+413
+00:17:51,708 --> 00:17:53,166
+It's not.
+
+414
+00:17:53,250 --> 00:17:56,458
+As the person in charge of the
+exhibition explained to us.
+
+415
+00:17:56,541 --> 00:17:58,416
+But I did my best to
+polish it and make it look
+
+416
+00:17:58,500 --> 00:17:59,833
+like it was worth millions!
+
+417
+00:17:59,916 --> 00:18:02,208
+I think it's quite a beautiful
+work of art, honestly!
+
+418
+00:18:02,291 --> 00:18:04,625
+She must've removed
+every fingerprint.
+
+419
+00:18:04,708 --> 00:18:08,208
+So, the only chance I had to
+touch the urn was yesterday.
+
+420
+00:18:08,291 --> 00:18:09,416
+And that's...
+
+421
+00:18:09,500 --> 00:18:12,375
+...when I was at
+the Atmey Detective Agency!
+
+422
+00:18:12,458 --> 00:18:14,500
+[LUKE whimpers]
+
+423
+00:18:14,583 --> 00:18:18,375
+Heh. That's the Godot
+Blend number 107.
+
+424
+00:18:18,458 --> 00:18:21,458
+Suddenly, it seems way
+too bitter for my taste.
+
+425
+00:18:21,541 --> 00:18:22,541
+[CROWD murmuring]
+
+426
+00:18:22,625 --> 00:18:24,958
+Officer! Take
+this urn and examine--
+
+427
+00:18:25,041 --> 00:18:28,000
+[LUKE] There's no need
+for such a display.
+
+428
+00:18:28,083 --> 00:18:30,583
+That's because... I already
+know the pompous
+
+429
+00:18:30,666 --> 00:18:32,708
+prosecutor's prints
+polluted the piece.
+
+430
+00:18:32,791 --> 00:18:34,708
+[gasps]
+What are you saying?
+
+431
+00:18:34,791 --> 00:18:36,958
+[PHOENIX]
+This is it. I finally broke him.
+
+432
+00:18:37,041 --> 00:18:41,583
+[LUKE cackles]
+
+433
+00:18:41,666 --> 00:18:42,833
+Take a good long look,
+
+434
+00:18:42,916 --> 00:18:44,625
+ladies and gentlemen
+of the court!
+
+435
+00:18:44,708 --> 00:18:47,041
+You may think it vain,
+but to find a proper rival,
+
+436
+00:18:47,125 --> 00:18:49,625
+I was forced to create
+my own villainous virtuoso.
+
+437
+00:18:49,708 --> 00:18:51,458
+A vengeful vigilante.
+
+438
+00:18:51,541 --> 00:18:53,750
+Your acute accusations
+are all affirmed.
+
+439
+00:18:53,833 --> 00:18:56,916
+It was me! I am the one
+and only Mask DeMasque!
+
+440
+00:18:57,000 --> 00:19:00,958
+I hope you all enjoyed
+my perfectly poised performance!
+
+441
+00:19:01,041 --> 00:19:05,625
+[cackles]
+
+442
+00:19:07,000 --> 00:19:09,500
+[JUDGE]
+Well. Prosecutor Godot.
+
+443
+00:19:09,583 --> 00:19:11,208
+What's Atmey's current status?
+
+444
+00:19:11,291 --> 00:19:13,791
+[GODOT] He's still in the lobby,
+laughing like a madman.
+
+445
+00:19:13,875 --> 00:19:16,541
+I wish I could laugh
+like that, to be honest.
+
+446
+00:19:18,541 --> 00:19:20,875
+That being said, I shall
+hereby hand down the verdict
+
+447
+00:19:20,958 --> 00:19:23,500
+in the case against Ron DeLite!
+
+448
+00:19:23,583 --> 00:19:24,666
+Not guilty!
+
+449
+00:19:24,750 --> 00:19:26,875
+[CROWD cheering]
+
+450
+00:19:27,916 --> 00:19:30,083
+[DESIRÉE]
+Nicky boy! Thank you so much.
+
+451
+00:19:30,166 --> 00:19:32,458
+For everything. You're a genius.
+
+452
+00:19:32,541 --> 00:19:35,125
+No. I couldn't have
+done it without your help.
+
+453
+00:19:35,208 --> 00:19:38,041
+Talk about a thrill.
+She really turned the tide.
+
+454
+00:19:38,125 --> 00:19:40,625
+I wanna be just
+like her when I grow up.
+
+455
+00:19:40,708 --> 00:19:41,875
+And Maya and Pearl,
+
+456
+00:19:41,958 --> 00:19:43,958
+I really have to thank
+the both of you, too.
+
+457
+00:19:44,041 --> 00:19:45,541
+You helped so much.
+
+458
+00:19:45,625 --> 00:19:47,625
+I'm glad we were able to!
+
+459
+00:19:49,333 --> 00:19:50,750
+What's the matter?
+
+460
+00:19:50,833 --> 00:19:53,750
+I did my best to get you out of
+this, so why are you down?
+
+461
+00:19:53,833 --> 00:19:56,333
+You're right. I know.
+
+462
+00:19:56,416 --> 00:19:59,250
+And I really appreciate it,
+honey. The thing is--
+
+463
+00:19:59,333 --> 00:20:01,833
+[GODOT] It's a little
+too early to celebrate.
+
+464
+00:20:02,875 --> 00:20:04,750
+[PHOENIX]
+Godot! What are you doing here?
+
+465
+00:20:04,833 --> 00:20:07,708
+I just came to give
+my thanks for your assistance.
+
+466
+00:20:07,791 --> 00:20:09,208
+[MAYA]
+For what, now?
+
+467
+00:20:09,291 --> 00:20:10,708
+On another case.
+
+468
+00:20:10,791 --> 00:20:12,041
+Early this morning, the body
+
+469
+00:20:12,125 --> 00:20:15,916
+of KB Security's CEO Kane
+Bullard was discovered.
+
+470
+00:20:16,000 --> 00:20:17,333
+[gasping]
+
+471
+00:20:17,416 --> 00:20:20,833
+He had been murdered,
+and the estimated time of death
+
+472
+00:20:20,916 --> 00:20:23,750
+is 1 AM on September 12th.
+
+473
+00:20:23,833 --> 00:20:26,041
+[PHOENIX]
+1 AM? You don't mean...
+
+474
+00:20:26,125 --> 00:20:27,541
+That's right,
+at the same time
+
+475
+00:20:27,625 --> 00:20:29,708
+a cheap little art piece
+was being stolen,
+
+476
+00:20:29,791 --> 00:20:32,708
+there was a murder
+happening over at KB Security.
+
+477
+00:20:32,791 --> 00:20:35,541
+All right, then.
+What brings you here?
+
+478
+00:20:35,625 --> 00:20:37,916
+We work well together
+and proved a few things
+
+479
+00:20:38,000 --> 00:20:40,666
+in court today. On the record.
+
+480
+00:20:40,750 --> 00:20:42,000
+[PHOENIX]
+Like what?
+
+481
+00:20:42,083 --> 00:20:45,375
+Like the fact that on
+September 12th at 1 AM,
+
+482
+00:20:45,458 --> 00:20:49,916
+one Mr. Ron DeLite was in the
+office of KB Security's CEO.
+
+483
+00:20:50,000 --> 00:20:52,500
+The scene of the murder.
+
+484
+00:20:52,583 --> 00:20:54,375
+After getting
+that blackmail letter,
+
+485
+00:20:54,458 --> 00:20:57,625
+he must've been
+imbrued with utter rage.
+
+486
+00:20:57,708 --> 00:20:58,625
+[gasps]
+
+487
+00:20:58,708 --> 00:21:00,000
+[GODOT]
+That's right.
+
+488
+00:21:00,083 --> 00:21:02,791
+We proved the kid's
+whereabouts in today's trial.
+
+489
+00:21:02,875 --> 00:21:04,750
+It may have been his alibi,
+
+490
+00:21:04,833 --> 00:21:07,041
+but it implicated him
+in a more serious crime.
+
+491
+00:21:07,125 --> 00:21:08,250
+Oh, no.
+
+492
+00:21:08,333 --> 00:21:10,833
+The defendant didn't
+steal the urn, true.
+
+493
+00:21:10,916 --> 00:21:12,750
+Because he was
+murdering Kane Bullard
+
+494
+00:21:12,833 --> 00:21:14,041
+at the time of the theft.
+
+495
+00:21:14,125 --> 00:21:15,083
+[gasps]
+
+496
+00:21:15,166 --> 00:21:16,916
+No! I don't believe it!
+
+497
+00:21:17,000 --> 00:21:18,291
+I'm innocent.
+
+498
+00:21:18,375 --> 00:21:21,083
+I'm only a thief, I swear.
+I'd never hurt anybody,
+
+499
+00:21:21,166 --> 00:21:22,458
+not even a fly.
+
+500
+00:21:22,541 --> 00:21:25,250
+We'll have to detain
+you for a little while longer.
+
+501
+00:21:25,333 --> 00:21:27,791
+On a different charge this time.
+
+502
+00:21:27,875 --> 00:21:29,333
+[GODOT]
+You're going down for murder.
+
+503
+00:21:29,416 --> 00:21:32,791
+What do we do? There's
+no way that Ron's a killer.
+
+504
+00:21:32,875 --> 00:21:35,291
+Was this your goal from
+the very beginning, Godot?
+
+505
+00:21:35,375 --> 00:21:37,875
+We're in for another showdown.
+
+506
+00:21:37,958 --> 00:21:39,791
+I'm buzzing with excitement.
+
+507
+00:21:39,875 --> 00:21:41,458
+[PHOENIX]
+Just who is this guy?
+
+508
+00:21:41,541 --> 00:21:44,541
+I sense a quiet but deep
+hatred coming from him!
+
+509
+00:21:44,625 --> 00:21:46,583
+What's he getting out of this?
+
+510
+00:21:46,666 --> 00:21:49,125
+No! Ronnie!
+
+511
+00:21:50,541 --> 00:21:53,875
+[PHOENIX]
+Ron DeLite? A murderer?
+
+512
+00:21:53,958 --> 00:21:55,750
+What the hell is happening?
+
+513
+00:23:27,916 --> 00:23:29,583
+[PHOENIX]
+Objection!
+
+514
+00:23:29,666 --> 00:23:31,666
+The case of the stolen
+Kurain urn has taken
+
+515
+00:23:31,750 --> 00:23:33,625
+an unexpected turn.
+
+516
+00:23:33,708 --> 00:23:37,291
+Ron was declared not guilty,
+but now he's accused of murder!
+
+517
+00:23:37,375 --> 00:23:40,666
+This must be a setup,
+but who's behind it?
+
+518
+00:23:40,750 --> 00:23:43,291
+And, after being
+revealed as Mask DeMasque,
+
+519
+00:23:43,375 --> 00:23:45,333
+the alliterative ace
+Atmey's behavior
+
+520
+00:23:45,416 --> 00:23:46,958
+has been troubling, too.
+
+521
+00:23:47,041 --> 00:23:49,166
+Who's pulling the
+strings in this case?
+
+522
+00:23:49,250 --> 00:23:52,291
+Find the contradictions!
+Believe in the truth!
+
+523
+00:23:52,375 --> 00:23:55,291
+Next Episode: "The Stolen
+Turnabout -- 3rd Trial"!
+
+524
+00:23:55,375 --> 00:23:56,375
+Take that!
+
