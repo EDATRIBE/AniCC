@@ -1,0 +1,69 @@
+[
+  {
+    "Synchronized": [
+      {
+        "number": "1",
+        "name_en": "Teasing Master Takagi-san",
+        "name_ro": "Karakai Jouzu no Takagi-san",
+        "type": "TV",
+        "tv_ep": "12",
+        "ova_ep": "",
+        "anidb_no": "13270"
+      },
+      {
+        "number": "2",
+        "name_en": "Your Name.",
+        "name_ro": "Kimi no Na wa.",
+        "type": "Movie",
+        "tv_ep": "1",
+        "ova_ep": "",
+        "anidb_no": "11829"
+      }
+    ]
+  },
+  {
+    "Completed": [
+      {
+        "number": "1",
+        "name_en": ".hack//Legend of the Twilight",
+        "name_ro": ".hack//Tasogare no Udewa Densetsu",
+        "type": "TV",
+        "tv_ep": "12",
+        "ova_ep": "",
+        "anidb_no": "447"
+      },
+      {
+        "number": "2",
+        "name_en": ".hack Quantum",
+        "name_ro": "",
+        "type": "OVA",
+        "tv_ep": "",
+        "ova_ep": "3",
+        "anidb_no": "7883"
+      },
+      {
+        "number": "3",
+        "name_en": "Ace Attorney Season 2",
+        "name_ro": "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari! Season 2",
+        "type": "OVA",
+        "tv_ep": "23",
+        "ova_ep": "3",
+        "anidb_no": "7883"
+      }
+    ]
+  },
+  {
+    "Incompleted": [
+      {
+        "number": "1",
+        "name_en": "ALL OUT!!",
+        "name_ro": "",
+        "type": "TV",
+        "tv_ep": "24",
+        "ova_ep": "",
+        "anidb_no": "11580",
+        "note": "EP1"
+      }
+    ]
+  }
+]

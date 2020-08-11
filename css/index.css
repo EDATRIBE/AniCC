@@ -1,0 +1,317 @@
+@charset "utf-8";
+html {
+    font-size: 100px;
+}
+
+body {
+    background-color: #F3F3F3;
+    margin: 0;
+    font-family: Monaco, serif;
+    -webkit-text-size-adjust: 100%;
+    font-size: 0.2rem;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+ul {
+    PADDING: 0;
+    margin: 0;
+    BORDER: medium none;
+    LIST-STYLE-TYPE: none;
+    text-overflow: ellipsis;
+}
+
+a {
+    text-decoration: none;
+}
+
+/*内页简化头部*/
+.menu_top_list {
+    height: 0.4rem;
+    width: 100%;
+    background-color: #EF9965;
+    color: #FFF;
+    font-size: 0.14rem;
+}
+
+.menu_top_list a {
+    color: #FFF;
+}
+
+.menu_top_list li {
+    float: left;
+    display: -webkit-box;
+    -webkit-box-align: center;
+    height: 0.4rem;
+}
+
+.menu_top_list li:first-child {
+    width: 18%;
+}
+
+.menu_top_list li + li {
+    width: 64%;
+    -webkit-box-pack: center;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.menu_top_list li:last-child {
+    width: 18%;
+}
+
+.book_view_top {
+    position: fixed;
+    z-index: 90;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.Content_Frame {
+    overflow: hidden;
+    padding: 0.1rem;
+}
+
+.mulu_list a {
+    color: #333;
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.mulu_list li {
+    height: 0.3rem;
+    display: -webkit-box;
+    -webkit-box-align: center;
+    border-bottom: 0.001rem solid darkgrey;
+    padding-left: 0.05rem;
+    font-size: 0.11rem;
+    font-style: normal;
+}
+
+.mulu_list li span:first-child {
+    width: 90%;
+    overflow: hidden;
+    display: block;
+    text-overflow: ellipsis;
+}
+
+.mulu_list li span:last-child {
+    display: block;
+    text-align: right;
+    width: 10%;
+    color: #F90;
+}
+
+.mulu_list a:last-child li {
+    background: inherit;
+}
+
+.container{
+    background-color: #E9E9EC;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+li.download {
+    height: 0.3rem;
+    display: -webkit-box;
+    -webkit-box-align: center;
+    border-bottom: 0.001rem solid darkgrey;
+    padding-left: 0.05rem;
+    font-size: 0.14rem;
+}
+/* PC或中大型笔记本设备 desktop */
+@media all and (min-width: 1201px) {
+    .title-desktop{
+        display: block !important;
+    }
+    .container {
+        width: 1100px;
+        width: 50%;
+    }
+    .mulu_list li {
+        height: 0.5rem;
+        display: -webkit-box;
+        -webkit-box-align: center;
+        border-bottom: 0.001rem solid darkgrey;
+        padding-left: 0.3rem;
+        font-size: 0.2rem;
+        font-style: normal;
+    }
+    li.download {
+        height: 0.5rem;
+        display: -webkit-box;
+        -webkit-box-align: center;
+        border-bottom: 0.001rem solid darkgrey;
+        padding-left: 0.3rem;
+        font-size: 0.2rem;
+    }
+    input {
+        height: 0.3rem;
+        width: 3rem;
+        font-size: 0.2rem;
+    }
+        
+    button {
+        height: 0.32rem;
+        width: 0.7rem;
+        font-size: 0.16rem;
+    }
+    }
+
+/* 中小型笔记本或大平板 laptop */
+@media all and (min-width: 980px) and (max-width: 1200px) {
+    .title-laptop{
+        display: block !important;
+    }
+    .container {
+        width: 920px;
+        width: 60%;
+    }
+    .mulu_list li {
+        height: 0.4rem;
+        display: -webkit-box;
+        -webkit-box-align: center;
+        border-bottom: 0.001rem solid darkgrey;
+        padding-left: 0.2rem;
+        font-size: 0.18rem;
+        font-style: normal;
+    }
+    li.download {
+        height: 0.4rem;
+        display: -webkit-box;
+        -webkit-box-align: center;
+        border-bottom: 0.001rem solid darkgrey;
+        padding-left: 0.2rem;
+        font-size: 0.18rem;
+    }
+    input {
+        height: 0.3rem;
+        width: 2.5rem;
+        font-size: 0.2rem;
+    }
+        
+    button {
+        height: 0.32rem;
+        width: 0.7rem;
+        font-size: 0.16rem;
+    }
+}
+/* 中型平板或小型笔记本 tablet */
+@media all and (min-width: 768px) and (max-width: 979px) {
+    .title-tablet{
+        display: block !important;
+    }
+    .container {
+        width: 720px;
+        width: 70%;
+    }
+    .mulu_list li {
+        height: 0.4rem;
+        display: -webkit-box;
+        -webkit-box-align: center;
+        border-bottom: 0.001rem solid darkgrey;
+        padding-left: 0.2rem;
+        font-size: 0.18rem;
+        font-style: normal;
+    }
+    li.download {
+        height: 0.4rem;
+        display: -webkit-box;
+        -webkit-box-align: center;
+        border-bottom: 0.001rem solid darkgrey;
+        padding-left: 0.2rem;
+        font-size: 0.18rem;
+    }
+    input {
+        height: 0.3rem;
+        width: 2.2rem;
+        font-size: 0.2rem;
+    }
+        
+    button {
+        height: 0.32rem;
+        width: 0.7rem;
+        font-size: 0.16rem;
+    }
+}
+
+/* 手机或小平板 phone */
+@media all and (min-width: 360px) and (max-width: 767px) {
+    .title-phone{
+        display: block !important;
+    }
+    .container {
+        width: 90%;
+    }
+    .mulu_list li {
+        height: 0.3rem;
+        display: -webkit-box;
+        -webkit-box-align: center;
+        border-bottom: 0.001rem solid darkgrey;
+        padding-left: 0.2rem;
+        font-size: 0.12rem;
+        font-style: normal;
+    }
+    li.download {
+        height: 0.3rem;
+        display: -webkit-box;
+        -webkit-box-align: center;
+        border-bottom: 0.001rem solid darkgrey;
+        padding-left: 0.2rem;
+        font-size: 0.12rem;
+    }
+    input {
+        height: 0.28rem;
+        width: 1.8rem;
+        font-size: 0.16rem;
+    }
+        
+    button {
+        height: 0.3rem;
+        width: 0.7rem;
+        font-size: 0.14rem;
+    }
+}
+
+/* 超小手机 phone */
+@media all and (min-width: 1px) and (max-width: 359px) {
+    .title-phone{
+        display: block !important;
+    }
+    .container {
+        width: 100%;
+    }
+    .mulu_list li {
+        height: 0.2rem;
+        display: -webkit-box;
+        -webkit-box-align: center;
+        border-bottom: 0.001rem solid darkgrey;
+        padding-left: 0rem;
+        font-size: 0.1rem;
+        font-style: normal;
+    }
+    li.download {
+        height: 0.2rem;
+        display: -webkit-box;
+        -webkit-box-align: center;
+        border-bottom: 0.001rem solid darkgrey;
+        padding-left: 0rem;
+        font-size: 0.1rem;
+    }
+    input {
+        height: 0.28rem;
+        width: 1.8rem;
+        font-size: 0.16rem;
+    }
+        
+    button {
+        height: 0.3rem;
+        width: 0.7rem;
+        font-size: 0.14rem;
+    }
+}
