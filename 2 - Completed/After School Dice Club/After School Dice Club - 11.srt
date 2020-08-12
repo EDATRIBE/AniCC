@@ -1,0 +1,2335 @@
+﻿1
+00:00:10,010 --> 00:00:13,013
+[MIDORI] What? Did you
+say George Beresford?
+
+2
+00:00:13,055 --> 00:00:15,432
+[TAKERU] Yeah. Do you
+remember him from before?
+
+3
+00:00:15,474 --> 00:00:17,392
+Like I'd ever
+forget that guy.
+
+4
+00:00:17,434 --> 00:00:19,061
+He was so annoying.
+
+5
+00:00:19,102 --> 00:00:21,021
+Well, that annoying guy's
+big‐name company,
+
+6
+00:00:21,063 --> 00:00:24,233
+Bad Dwarf, has a competition for
+unpublished games coming up
+
+7
+00:00:24,274 --> 00:00:25,943
+in the very near future.
+
+8
+00:00:25,984 --> 00:00:28,028
+The best games in the bunch
+have a serious shot
+
+9
+00:00:28,070 --> 00:00:30,030
+at getting published
+and made official.
+
+10
+00:00:31,323 --> 00:00:33,742
+Okay. But why tell me this?
+
+11
+00:00:33,784 --> 00:00:35,369
+Because I was asked to.
+
+12
+00:00:35,410 --> 00:00:37,955
+Just so happens George
+recently got in touch with me.
+
+13
+00:00:39,206 --> 00:00:40,415
+[GEORGE]
+Ah, that's right.
+
+14
+00:00:40,457 --> 00:00:43,335
+Could you relay something
+to that would‐be designer?
+
+15
+00:00:43,377 --> 00:00:46,380
+"Such a shame. I still haven't
+been able to play your game.
+
+16
+00:00:46,421 --> 00:00:48,006
+Yet."
+
+17
+00:00:49,675 --> 00:00:51,843
+[MIDORI]
+Emphasis on the yet.
+
+18
+00:00:51,885 --> 00:00:55,514
+So he's calling me out now?
+Is this a challenge?
+
+19
+00:00:55,556 --> 00:00:58,267
+Uh, I mean, it's up
+to you if you do this or not.
+
+20
+00:00:58,308 --> 00:00:59,893
+It's totally your call.
+
+21
+00:00:59,935 --> 00:01:01,812
+School starts back up
+tomorrow, though.
+
+22
+00:01:01,853 --> 00:01:04,231
+That won't leave much time
+for designing your game.
+
+23
+00:02:41,078 --> 00:02:44,039
+[AYA] Say what? You're
+gonna be in a competition?
+
+24
+00:02:44,081 --> 00:02:45,123
+Yes.
+
+25
+00:02:45,165 --> 00:02:47,501
+I might not
+know what that means.
+
+26
+00:02:47,542 --> 00:02:48,502
+[MIKI grunts]
+
+27
+00:02:48,543 --> 00:02:51,672
+It's a contest. They're
+accepting unpublished games.
+
+28
+00:02:51,713 --> 00:02:53,882
+They'll play‐test and
+analyze all of them,
+
+29
+00:02:53,924 --> 00:02:56,218
+then choose which
+game is the best.
+
+30
+00:02:56,259 --> 00:02:58,512
+And I have every
+intention of competing.
+
+31
+00:02:58,553 --> 00:03:00,180
+Oh! I gotcha.
+
+32
+00:03:00,222 --> 00:03:01,682
+How impressive, Midori!
+
+33
+00:03:01,723 --> 00:03:03,725
+But which competition is this?
+
+34
+00:03:03,767 --> 00:03:05,602
+The one put on by
+Bad Dwarf in the US.
+
+35
+00:03:05,644 --> 00:03:07,813
+Oh‐ho! You don't say!
+
+36
+00:03:07,854 --> 00:03:09,815
+Yeah, but contests like this...
+
+37
+00:03:09,856 --> 00:03:12,567
+Professional authors are
+bound to be interested, too.
+
+38
+00:03:12,609 --> 00:03:13,902
+[MIDORI] That's why
+I don't think I stand
+
+39
+00:03:13,944 --> 00:03:15,362
+any chance of winning.
+
+40
+00:03:15,404 --> 00:03:18,198
+I might even be
+completely overlooked.
+
+41
+00:03:18,240 --> 00:03:20,826
+That said, I refuse to run away.
+
+42
+00:03:20,867 --> 00:03:23,412
+Whatever happens,
+I'll see this through.
+
+43
+00:03:23,453 --> 00:03:25,163
+Your mind's made up?
+
+44
+00:03:25,205 --> 00:03:26,873
+More or less.
+
+45
+00:03:26,915 --> 00:03:29,668
+But I still need to give my
+revamped version a trial run.
+
+46
+00:03:29,710 --> 00:03:32,045
+So will you help me test it out?
+
+47
+00:03:32,087 --> 00:03:34,506
+I kinda thought
+that was a given!
+
+48
+00:03:34,548 --> 00:03:37,426
+Truly. I'm very much
+looking forward to this!
+
+49
+00:03:40,011 --> 00:03:42,013
+[MIDORI]
+One Room, version two.
+
+50
+00:03:42,055 --> 00:03:44,307
+I improved the
+overall mechanics.
+
+51
+00:03:44,349 --> 00:03:45,308
+Wow.
+
+52
+00:03:45,350 --> 00:03:47,477
+It looks even more
+like a game than before!
+
+53
+00:03:47,519 --> 00:03:49,604
+How cute.
+They're furniture cards!
+
+54
+00:03:49,646 --> 00:03:50,605
+[MIDORI]
+Right.
+
+55
+00:03:50,647 --> 00:03:54,025
+The main objective is to collect
+furniture for your own room.
+
+56
+00:03:54,067 --> 00:03:55,902
+The first thing you do
+is draw ten cards from
+
+57
+00:03:55,944 --> 00:03:58,280
+the top of the deck.
+
+58
+00:03:58,321 --> 00:04:00,407
+And there you have it.
+
+59
+00:04:00,449 --> 00:04:03,827
+That's how One Room is played.
+Did you follow all that, Emmy?
+
+60
+00:04:03,869 --> 00:04:06,079
+Ja! I pretty much have it.
+
+61
+00:04:06,121 --> 00:04:08,707
+You work to make money
+and buy furniture and trinkets
+
+62
+00:04:08,749 --> 00:04:12,502
+to fill your room with.
+Furniture items have points,
+
+63
+00:04:12,544 --> 00:04:14,713
+and bonuses are given
+by getting multiple pieces
+
+64
+00:04:14,755 --> 00:04:18,091
+of the same color, or by
+completing an entire set.
+
+65
+00:04:18,133 --> 00:04:19,593
+[MIDORI]
+Sounds like you've got it.
+
+66
+00:04:19,634 --> 00:04:22,512
+There is one huge difference
+from the first version, though.
+
+67
+00:04:22,554 --> 00:04:25,390
+You can score points
+in a lot more ways now.
+
+68
+00:04:25,432 --> 00:04:27,768
+Buying pricey stuff
+is still a good idea.
+
+69
+00:04:27,809 --> 00:04:29,603
+So not everything has changed.
+
+70
+00:04:29,644 --> 00:04:31,688
+One thing I noticed
+is there's way more
+
+71
+00:04:31,730 --> 00:04:34,816
+furniture types than before!
+And we have pets now!
+
+72
+00:04:34,858 --> 00:04:36,818
+I like the new
+work schedule.
+
+73
+00:04:36,860 --> 00:04:38,987
+Having it as a chart
+is a nice touch.
+
+74
+00:04:39,029 --> 00:04:40,989
+[MIDORI] Yeah. I
+figured fixing the values
+
+75
+00:04:41,031 --> 00:04:43,116
+might make the
+choices more difficult.
+
+76
+00:04:43,158 --> 00:04:46,036
+Nice work.
+With just one small change,
+
+77
+00:04:46,077 --> 00:04:48,288
+players are forced to act more
+strategically when deciding
+
+78
+00:04:48,330 --> 00:04:51,082
+to go to work or go shopping.
+
+79
+00:04:51,124 --> 00:04:52,918
+Way to put those brains
+of yours to use!
+
+80
+00:04:52,959 --> 00:04:55,629
+Thanks. You'll find
+I made a lot of adjustments.
+
+81
+00:04:55,670 --> 00:04:57,380
+The basic flow is the same.
+
+82
+00:04:57,422 --> 00:04:59,174
+But I can already tell it's
+come a long way from
+
+83
+00:04:59,216 --> 00:05:00,675
+the game it was before.
+
+84
+00:05:00,717 --> 00:05:02,803
+Oh, this is going
+to be so much fun!
+
+85
+00:05:02,844 --> 00:05:04,387
+The sooner we start, the better!
+
+86
+00:05:04,429 --> 00:05:07,098
+Okay. Guess that means
+it's time to give it a try.
+
+87
+00:05:07,140 --> 00:05:08,767
+[GIRLS]
+Yeah!
+
+88
+00:05:12,604 --> 00:05:14,940
+We've all placed our workers
+where we want 'em to be.
+
+89
+00:05:14,981 --> 00:05:17,067
+[AYA] Which means
+I get to go first!
+
+90
+00:05:17,108 --> 00:05:20,237
+It was pay‐day for me,
+so I'll buy this table!
+
+91
+00:05:21,279 --> 00:05:24,074
+I got paid, too,
+so I'll be taking this sofa.
+
+92
+00:05:24,115 --> 00:05:27,202
+Then I'll accept my
+seven gold and end my turn.
+
+93
+00:05:27,244 --> 00:05:29,496
+Just like that,
+round one is complete.
+
+94
+00:05:37,546 --> 00:05:40,674
+[MIDORI] Finally, we factor in
+the bonus points for each score.
+
+95
+00:05:40,715 --> 00:05:42,342
+Aya, 92 points.
+
+96
+00:05:42,384 --> 00:05:43,969
+Emmy, 84 points.
+
+97
+00:05:44,010 --> 00:05:45,929
+Miki, also 84 points.
+
+98
+00:05:45,971 --> 00:05:48,598
+And Boss, 79 points.
+
+99
+00:05:48,640 --> 00:05:49,808
+That's the game.
+
+100
+00:05:49,850 --> 00:05:52,686
+So what are your
+honest opinions?
+
+101
+00:05:52,727 --> 00:05:53,728
+Well?
+
+102
+00:05:53,770 --> 00:05:55,814
+That was amazing!
+
+103
+00:05:55,856 --> 00:05:58,149
+It actually feels like
+a real game now!
+
+104
+00:05:58,191 --> 00:06:00,527
+Yes! I genuinely had
+much more fun playing it
+
+105
+00:06:00,569 --> 00:06:03,029
+‐‐this time around.
+‐‐And you liked it, right?
+
+106
+00:06:03,071 --> 00:06:04,906
+Ja! It's neat
+and clean design
+
+107
+00:06:04,948 --> 00:06:07,617
+made it evident that this
+was a trademark Midori game.
+
+108
+00:06:07,659 --> 00:06:09,452
+It's super‐duper‐mega awesome!
+
+109
+00:06:09,494 --> 00:06:12,330
+You're gonna knock their
+socks off in the competition!
+
+110
+00:06:14,040 --> 00:06:15,500
+[MIKI]
+Um, Midori?
+
+111
+00:06:15,542 --> 00:06:17,377
+Boss, what are your
+final thoughts on it?
+
+112
+00:06:17,419 --> 00:06:19,754
+Truthfully, I'm surprised.
+
+113
+00:06:19,796 --> 00:06:21,214
+First time
+I tried your game,
+
+114
+00:06:21,256 --> 00:06:22,883
+it was full of holes
+and problems.
+
+115
+00:06:22,924 --> 00:06:24,384
+It substantially improved.
+
+116
+00:06:24,426 --> 00:06:26,094
+[MIKI, AYA giggle]
+
+117
+00:06:26,136 --> 00:06:27,512
+‐‐[TAKERU] However...
+‐‐[MIKI, AYA] Huh?
+
+118
+00:06:28,763 --> 00:06:31,683
+[TAKERU] I don't see it getting
+very far in the competition.
+
+119
+00:06:31,725 --> 00:06:32,976
+[AYA]
+Uh?
+
+120
+00:06:33,018 --> 00:06:35,020
+[TAKERU]
+The game is too neat 'n' tidy
+
+121
+00:06:35,061 --> 00:06:36,855
+for better and for worse.
+
+122
+00:06:36,897 --> 00:06:40,025
+What? Since when is being
+neat and tidy a bad thing?
+
+123
+00:06:40,066 --> 00:06:41,651
+You really think this
+game can't compete?!
+
+124
+00:06:41,693 --> 00:06:42,861
+[MIDORI]
+It's okay, Aya.
+
+125
+00:06:42,903 --> 00:06:44,779
+Yeah, but what
+about your dream?
+
+126
+00:06:44,821 --> 00:06:47,532
+[MIDORI]
+It's fine. Honestly.
+
+127
+00:06:47,574 --> 00:06:50,619
+I felt like there was something
+off while I was making it.
+
+128
+00:06:50,660 --> 00:06:52,454
+I can't put my finger on it.
+
+129
+00:06:52,495 --> 00:06:56,291
+But my game is still missing
+a very crucial element.
+
+130
+00:06:56,333 --> 00:06:57,500
+[AYA]
+Midori...
+
+131
+00:06:57,542 --> 00:06:59,044
+That may be,
+but you don't need
+
+132
+00:06:59,085 --> 00:07:00,962
+an instant solution for this.
+
+133
+00:07:01,004 --> 00:07:03,006
+You're still in your
+first year in high school.
+
+134
+00:07:03,048 --> 00:07:04,633
+You have plenty of time
+to make it further
+
+135
+00:07:04,674 --> 00:07:06,092
+than you already have.
+
+136
+00:07:06,134 --> 00:07:08,762
+Forget about the competition for
+now and just focus on taking‐‐
+
+137
+00:07:08,803 --> 00:07:09,971
+I can't do that.
+
+138
+00:07:10,013 --> 00:07:11,765
+[gasps]
+
+139
+00:07:11,806 --> 00:07:13,308
+Forgetting the contest would be
+
+140
+00:07:13,350 --> 00:07:17,145
+the same as running away.
+Running from him.
+
+141
+00:07:20,106 --> 00:07:21,566
+[EMILIA] I feel like
+you're overthinking this
+
+142
+00:07:21,608 --> 00:07:24,069
+when you don't need to.
+
+143
+00:07:24,110 --> 00:07:25,570
+[MIDORI]
+Emmy.
+
+144
+00:07:25,612 --> 00:07:27,697
+It happens when
+I make games as well.
+
+145
+00:07:27,739 --> 00:07:30,992
+Moments where things don't turn
+out like I thought they would.
+
+146
+00:07:31,034 --> 00:07:33,870
+So, I start thinking
+in simpler terms.
+
+147
+00:07:33,912 --> 00:07:35,121
+Meaning what?
+
+148
+00:07:35,163 --> 00:07:37,123
+[EMILIA] Well...
+Just do what you want to!
+
+149
+00:07:37,165 --> 00:07:39,042
+It doesn't get
+much simpler, does it?
+
+150
+00:07:40,752 --> 00:07:43,004
+Just do what I want, huh?
+
+151
+00:07:43,046 --> 00:07:44,464
+Okay.
+
+152
+00:07:44,506 --> 00:07:47,676
+[MIDORI gasps]
+What was my motivation?
+
+153
+00:07:47,717 --> 00:07:51,972
+What did I want to accomplish
+by creating this game?
+
+154
+00:07:52,013 --> 00:07:53,181
+Think back...
+
+155
+00:07:56,518 --> 00:07:59,688
+[MIDORI] For some reason,
+ever since I was a little girl,
+
+156
+00:07:59,729 --> 00:08:02,148
+the showroom for the furniture
+company my dad owns
+
+157
+00:08:02,190 --> 00:08:03,900
+has been my favorite place.
+
+158
+00:08:03,942 --> 00:08:05,276
+[SAKAMOTO]
+Hello, Miss Midori!
+
+159
+00:08:05,318 --> 00:08:07,362
+Ah. Hi, Sakamoto.
+
+160
+00:08:07,404 --> 00:08:09,823
+Are you alone today,
+or is your father here?
+
+161
+00:08:09,864 --> 00:08:10,865
+I came alone.
+
+162
+00:08:10,907 --> 00:08:12,617
+But it doesn't
+matter if he's here.
+
+163
+00:08:12,659 --> 00:08:13,743
+Oh, dear me.
+
+164
+00:08:13,785 --> 00:08:16,454
+You must've had
+another disagreement.
+
+165
+00:08:16,496 --> 00:08:17,539
+In that case...
+
+166
+00:08:17,580 --> 00:08:20,709
+Perhaps I can cast a spell on
+you to make you feel better.
+
+167
+00:08:20,750 --> 00:08:22,127
+You must be joking.
+
+168
+00:08:22,168 --> 00:08:24,587
+Jeez. How old do you
+think I am, anyway?
+
+169
+00:08:24,629 --> 00:08:26,715
+I'm not a child anymore.
+
+170
+00:08:26,756 --> 00:08:29,259
+Child or not, please
+indulge me for a moment.
+
+171
+00:08:29,300 --> 00:08:32,095
+Give this armchair a try,
+if you would be so kind.
+
+172
+00:08:32,137 --> 00:08:34,097
+[MIDORI] I have one
+just like this at home.
+
+173
+00:08:34,139 --> 00:08:35,306
+So.
+
+174
+00:08:38,768 --> 00:08:41,146
+Can you describe
+how it feels, Miss Midori?
+
+175
+00:08:41,187 --> 00:08:42,522
+[MIDORI]
+It's not bad.
+
+176
+00:08:45,233 --> 00:08:49,779
+I am so very delighted
+you find it to your liking.
+
+177
+00:08:49,821 --> 00:08:52,407
+Your recommendation
+is on point once again.
+
+178
+00:08:52,449 --> 00:08:54,617
+Dad always brags that
+you're the best floor master
+
+179
+00:08:54,659 --> 00:08:57,412
+and interior coordinator
+he's ever known.
+
+180
+00:08:57,454 --> 00:08:59,247
+Not just here,
+but in the industry.
+
+181
+00:08:59,289 --> 00:09:01,875
+I'm unworthy of such praise,
+but he's very kind.
+
+182
+00:09:01,916 --> 00:09:04,127
+You don't have to be
+modest around me, y'know.
+
+183
+00:09:04,169 --> 00:09:05,962
+Anyway, is this a new piece?
+
+184
+00:09:06,004 --> 00:09:08,715
+Yes. It came to us
+all the way from Germany.
+
+185
+00:09:08,757 --> 00:09:10,341
+What's striking about
+this piece is how,
+
+186
+00:09:10,383 --> 00:09:12,385
+in pursuit of
+functional perfection,
+
+187
+00:09:12,427 --> 00:09:14,304
+it has arrived at a
+bold new aesthetic and‐‐
+
+188
+00:09:14,345 --> 00:09:17,557
+[MIDORI] You really love
+furniture, don't you, Sakamoto?
+
+189
+00:09:17,599 --> 00:09:19,559
+Yes. I would even
+go so far as to say
+
+190
+00:09:19,601 --> 00:09:21,311
+it's my true calling.
+
+191
+00:09:21,352 --> 00:09:24,022
+Gosh. Talk about
+an exaggeration.
+
+192
+00:09:24,064 --> 00:09:27,942
+[SAKAMOTO] Oh, no! I wasn't
+exaggerating in the slightest!
+
+193
+00:09:27,984 --> 00:09:30,612
+One may love furniture,
+but there is only so much
+
+194
+00:09:30,653 --> 00:09:32,363
+a solitary person can afford,
+
+195
+00:09:32,405 --> 00:09:34,699
+no matter how great
+that love might be.
+
+196
+00:09:34,741 --> 00:09:36,201
+However, in my profession,
+
+197
+00:09:36,242 --> 00:09:38,870
+I have access to all of this
+furniture and I can arrange it
+
+198
+00:09:38,912 --> 00:09:40,872
+in any way I see fit.
+
+199
+00:09:40,914 --> 00:09:42,749
+In truth, it is
+the kind of luxury
+
+200
+00:09:42,791 --> 00:09:47,337
+no ordinary person could enjoy.
+I know how fortunate I am.
+
+201
+00:09:47,378 --> 00:09:49,506
+That's why my occupation
+is‐‐without a doubt‐‐
+
+202
+00:09:49,547 --> 00:09:51,091
+what I live for.
+
+203
+00:09:51,132 --> 00:09:52,884
+Your true calling.
+
+204
+00:09:59,849 --> 00:10:01,351
+[MIDORI] All of this
+furniture was picked by
+
+205
+00:10:01,392 --> 00:10:04,020
+my dad according to his tastes.
+
+206
+00:10:04,062 --> 00:10:07,232
+But if I had a say
+in the matter...
+
+207
+00:10:07,273 --> 00:10:11,069
+...I'd choose this
+desk‐‐and this chair!
+
+208
+00:10:11,111 --> 00:10:16,324
+[gasps]
+But it costs‐‐270,000?
+
+209
+00:10:16,366 --> 00:10:20,161
+And the desk is‐‐450,00?
+
+210
+00:10:20,203 --> 00:10:23,164
+[sighs]
+Well, that's an eye‐opener.
+
+211
+00:10:23,206 --> 00:10:25,166
+Good furniture is so expensive.
+
+212
+00:10:25,208 --> 00:10:27,418
+I was clueless even
+though I grew up with it.
+
+213
+00:10:29,546 --> 00:10:31,714
+[MIDORI]
+Sakamoto has a valid point.
+
+214
+00:10:31,756 --> 00:10:35,552
+So, someday, if I have a chance
+to pick out the furniture
+
+215
+00:10:35,593 --> 00:10:38,429
+I want as well as
+place it where I want,
+
+216
+00:10:38,471 --> 00:10:42,100
+I would get to experience
+that rare luxury firsthand.
+
+217
+00:10:44,769 --> 00:10:48,148
+If I could arrange
+everything how I wanted.
+
+218
+00:10:48,857 --> 00:10:49,816
+[gasps]
+
+219
+00:10:49,858 --> 00:10:51,526
+Hey! What's with
+the sudden outburst?
+
+220
+00:10:51,568 --> 00:10:53,945
+You really scared me just now!
+
+221
+00:10:53,987 --> 00:10:58,408
+[MIDORI] That's it. How could I
+forget something so basic?
+
+222
+00:10:58,449 --> 00:11:00,952
+The thing that
+I really wanted to do...
+
+223
+00:11:03,329 --> 00:11:06,958
+[MIDORI] At this point,
+my game is only half‐finished.
+
+224
+00:11:22,932 --> 00:11:23,975
+[TEACHER 11A]
+If the remainder is 13X...
+
+225
+00:11:24,017 --> 00:11:25,852
+[AYA]
+Really? I know it's math class,
+
+226
+00:11:25,894 --> 00:11:28,396
+but she should be counting
+numbers, not sheep!
+
+227
+00:11:28,438 --> 00:11:31,065
+[TEACHER 11A] Why don't we
+hear an answer from Ono?
+
+228
+00:11:34,444 --> 00:11:36,821
+A equals open
+parentheses 4X cubed
+
+229
+00:11:36,863 --> 00:11:39,157
+minus X squared plus
+4X squared minus
+
+230
+00:11:39,199 --> 00:11:42,827
+X minus 12X plus 3
+close parentheses.
+
+231
+00:11:42,869 --> 00:11:46,122
+Plus 13X minus 5 would
+have to equal 4X cubed
+
+232
+00:11:46,164 --> 00:11:48,750
+plus 3X squared minus 2.
+
+233
+00:11:48,791 --> 00:11:51,628
+[TEACHER 11A]
+Well done. That's correct.
+
+234
+00:11:51,669 --> 00:11:52,837
+[CLASSMATE 11A]
+Whoa! Nice one, Ono!
+
+235
+00:11:52,879 --> 00:11:54,464
+[CLASSMATE 11B]
+Impressive!
+
+236
+00:11:54,505 --> 00:11:56,716
+[snorin]
+
+237
+00:12:08,895 --> 00:12:11,105
+[EMILIA] Midori isn't
+acting like herself?
+
+238
+00:12:11,147 --> 00:12:12,523
+[AYA]
+It's horrible, Emmy!
+
+239
+00:12:12,565 --> 00:12:14,651
+She won't play
+any games with us.
+
+240
+00:12:14,692 --> 00:12:16,653
+And she always seems
+sleepy or like she's off
+
+241
+00:12:16,694 --> 00:12:18,780
+in her own little world.
+
+242
+00:12:18,821 --> 00:12:21,449
+Every thing she does
+puts the "weird" in weirdo!
+
+243
+00:12:21,491 --> 00:12:23,952
+I want the old Midori back!
+
+244
+00:12:23,993 --> 00:12:26,496
+[EMILIA giggles]
+It'll be all right.
+
+245
+00:12:26,537 --> 00:12:27,580
+[AYA, MIKI gasp]
+
+246
+00:12:27,622 --> 00:12:29,958
+[EMILIA] Let's give her
+some space for now.
+
+247
+00:12:29,999 --> 00:12:33,211
+Before you know it, she'll have
+a really fun game for us!
+
+248
+00:12:37,882 --> 00:12:39,259
+Greetings to you, Miss Midori.
+
+249
+00:12:39,300 --> 00:12:40,718
+I've been awaiting your arrival.
+
+250
+00:12:42,303 --> 00:12:45,265
+[MIDORI] I apologize for
+bothering you during work hours.
+
+251
+00:12:45,306 --> 00:12:48,101
+I just need to grab
+a few more photos.
+
+252
+00:12:48,142 --> 00:12:50,687
+[SAKAMOTO gasps]
+Good gracious!
+
+253
+00:12:50,728 --> 00:12:52,605
+You haven't hurt
+yourself, have you?
+
+254
+00:12:52,647 --> 00:12:53,606
+I'm fine.
+
+255
+00:12:53,648 --> 00:12:55,900
+I just tripped over
+my own feet, is all.
+
+256
+00:12:55,942 --> 00:12:57,318
+[SAKAMOTO]
+I hate to be presumptuous,
+
+257
+00:12:57,360 --> 00:12:58,903
+but I must ask...
+
+258
+00:12:58,945 --> 00:13:01,447
+Are you getting the proper
+amount of rest lately?
+
+259
+00:13:01,489 --> 00:13:04,325
+You appear to be rather
+unwell, young miss.
+
+260
+00:13:04,367 --> 00:13:06,828
+[MIDORI] I might've gone
+a few days without sleep.
+
+261
+00:13:06,869 --> 00:13:08,162
+Then you're sleep deprived!
+
+262
+00:13:08,204 --> 00:13:09,706
+[MIDORI]
+I'm all right.
+
+263
+00:13:09,747 --> 00:13:12,417
+Believe it or not, I actually
+feel sharper than ever.
+
+264
+00:13:12,458 --> 00:13:13,918
+[SAKAMOTO]
+Even so...
+
+265
+00:13:13,960 --> 00:13:15,378
+Can I tell you something?
+
+266
+00:13:15,420 --> 00:13:16,546
+[SAKAMOTO]
+Of course.
+
+267
+00:13:16,587 --> 00:13:19,257
+[MIDORI] You once said that
+furniture is what you live for‐‐
+
+268
+00:13:19,299 --> 00:13:21,301
+your true calling in life.
+
+269
+00:13:21,342 --> 00:13:25,346
+I used to think that was just
+hyperbole, but now I understand.
+
+270
+00:13:27,098 --> 00:13:29,142
+[MIDORI]
+I found one, too.
+
+271
+00:13:29,183 --> 00:13:30,727
+A "thing to live for."
+
+272
+00:13:32,895 --> 00:13:34,063
+[MIDORI]
+I thought a professional game
+
+273
+00:13:34,105 --> 00:13:36,357
+had to be a certain way.
+
+274
+00:13:36,399 --> 00:13:39,610
+I was trapped in that mindset,
+without an escape.
+
+275
+00:13:39,652 --> 00:13:41,779
+And thanks to
+those imaginary rules,
+
+276
+00:13:41,821 --> 00:13:45,116
+I never bothered to factor my
+own desires into the equation.
+
+277
+00:13:46,200 --> 00:13:48,870
+[MIDORI]
+Emmy was absolutely right.
+
+278
+00:13:48,911 --> 00:13:53,416
+This is my game.
+I can do whatever I want to.
+
+279
+00:13:53,458 --> 00:13:55,209
+There's nothing holding me back!
+
+280
+00:14:01,132 --> 00:14:04,010
+[MIKI] I'm worried.
+You think Midori's okay?
+
+281
+00:14:04,052 --> 00:14:06,763
+She's been out with a cold
+for three whole days now.
+
+282
+00:14:06,804 --> 00:14:09,015
+Not to mention how
+strange her behavior was.
+
+283
+00:14:09,057 --> 00:14:11,768
+[AYA] That does it. I'm gonna
+go check on her myself!
+
+284
+00:14:11,809 --> 00:14:13,561
+Then I'm coming with you!
+
+285
+00:14:13,603 --> 00:14:15,521
+[EMILIA]
+Both of you. Calm down.
+
+286
+00:14:15,563 --> 00:14:17,857
+I'm sure Midori is doing fine.
+
+287
+00:14:20,610 --> 00:14:23,446
+For some reason, the snow
+is really heavy this year.
+
+288
+00:14:23,488 --> 00:14:24,614
+Well, that worked out.
+
+289
+00:14:24,655 --> 00:14:26,491
+The three of you
+are already here.
+
+290
+00:14:26,532 --> 00:14:28,201
+[AYA whimpers]
+
+291
+00:14:28,242 --> 00:14:29,869
+‐‐[sobbing]
+‐‐[MIDORI yelps]
+
+292
+00:14:31,829 --> 00:14:34,624
+What in the world?
+What's gotten into you, Aya?
+
+293
+00:14:34,665 --> 00:14:35,917
+You're such an idiot!
+
+294
+00:14:35,958 --> 00:14:37,543
+We've been worried
+sick about you!
+
+295
+00:14:37,585 --> 00:14:40,088
+‐‐[sobbing]
+‐‐Please, don't cry!
+
+296
+00:14:40,129 --> 00:14:42,256
+Does this mean that
+you're feeling better now?
+
+297
+00:14:42,298 --> 00:14:45,134
+Miki. I'm sorry.
+
+298
+00:14:45,176 --> 00:14:48,471
+I suffered a case of tunnel
+vision on top of my cold.
+
+299
+00:14:48,513 --> 00:14:50,932
+But I'm on the road to recovery.
+
+300
+00:14:50,973 --> 00:14:53,726
+[EMILIA] Sounds to me like you
+successfully managed to finish.
+
+301
+00:14:53,768 --> 00:14:55,103
+Way to go!
+
+302
+00:14:55,144 --> 00:14:57,313
+Thank you. Finally.
+
+303
+00:14:57,355 --> 00:14:59,065
+What do you mean by "finally"?
+
+304
+00:14:59,107 --> 00:15:01,067
+Wait! Are you talking about...?
+
+305
+00:15:02,402 --> 00:15:03,569
+[MIKI gasps]
+
+306
+00:15:03,611 --> 00:15:06,614
+[AYA] Furniture tokens!
+How cute is that?
+
+307
+00:15:06,656 --> 00:15:08,866
+It's amazing that you
+made all of these by hand!
+
+308
+00:15:08,908 --> 00:15:11,285
+Yes. They're based
+on some pictures I took.
+
+309
+00:15:11,327 --> 00:15:13,121
+I can only imagine
+the amount of work
+
+310
+00:15:13,162 --> 00:15:14,872
+you put into making them.
+
+311
+00:15:14,914 --> 00:15:18,000
+[MIKI] That hard work paid off!
+So, this is what we choose from?
+
+312
+00:15:18,042 --> 00:15:19,919
+Yep! You're looking at the shop!
+
+313
+00:15:19,961 --> 00:15:21,921
+It's still a little
+awkward, though.
+
+314
+00:15:21,963 --> 00:15:24,340
+Oh, and there's this!
+
+315
+00:15:24,382 --> 00:15:27,552
+[EMILIA] Ah! These boards serve
+as the players' accommodations!
+
+316
+00:15:27,593 --> 00:15:29,470
+[MIDORI] Right! So you
+get the gratification
+
+317
+00:15:29,512 --> 00:15:31,931
+of buying something
+from the "shop board,"
+
+318
+00:15:31,973 --> 00:15:34,934
+and finding a place for it
+on your "room board."
+
+319
+00:15:34,976 --> 00:15:37,854
+Pretty soon, you'll have your
+own personalized living space.
+
+320
+00:15:39,439 --> 00:15:42,442
+[AYA] Whoa! It's just like
+building a dream home!
+
+321
+00:15:42,483 --> 00:15:44,152
+It's a game that enables
+you to choose things
+
+322
+00:15:44,193 --> 00:15:47,447
+you like and customize
+your own unique room.
+
+323
+00:15:47,488 --> 00:15:50,450
+That concept was what first
+inspired me to make this.
+
+324
+00:15:50,491 --> 00:15:53,578
+The point is to give
+you creative freedom.
+
+325
+00:15:53,619 --> 00:15:54,996
+So what do you think?
+
+326
+00:15:55,037 --> 00:15:56,998
+I think it looks super fun!
+
+327
+00:15:57,039 --> 00:15:58,833
+Ja! It's amazing
+how much difference
+
+328
+00:15:58,875 --> 00:16:00,293
+the new boards and tokens made!
+
+329
+00:16:00,334 --> 00:16:02,962
+Heck yeah! Let's hurry
+up and play it now!
+
+330
+00:16:03,004 --> 00:16:04,964
+[MIDORI]
+So enthusiastic.
+
+331
+00:16:05,006 --> 00:16:06,716
+Okay.
+
+332
+00:16:06,757 --> 00:16:09,469
+The basic flow is essentially
+the same as before.
+
+333
+00:16:09,510 --> 00:16:12,555
+When your turn comes, determine
+your income and purchase order
+
+334
+00:16:12,597 --> 00:16:16,058
+for that round by placing your
+marker on the work hour board.
+
+335
+00:16:16,100 --> 00:16:17,894
+Next is shopping.
+
+336
+00:16:17,935 --> 00:16:20,021
+[AYA] Huh? This little
+black piece is new!
+
+337
+00:16:20,062 --> 00:16:21,439
+[MIDORI]
+It's an existing shopper.
+
+338
+00:16:21,481 --> 00:16:23,107
+If a customer is in the store,
+
+339
+00:16:23,149 --> 00:16:25,610
+you have to find
+somewhere else to shop.
+
+340
+00:16:25,651 --> 00:16:27,820
+The black piece moves
+every single round.
+
+341
+00:16:27,862 --> 00:16:29,822
+Be sure to time your
+shopping sprees accordingly,
+
+342
+00:16:29,864 --> 00:16:31,741
+otherwise you
+might be in trouble.
+
+343
+00:16:31,782 --> 00:16:33,784
+Does that rule mean we
+can't go in the same stores
+
+344
+00:16:33,826 --> 00:16:35,119
+other players are in?
+
+345
+00:16:35,161 --> 00:16:36,537
+It does. Pretty sharp.
+
+346
+00:16:36,579 --> 00:16:38,372
+If a store is occupied,
+it's off‐limits
+
+347
+00:16:38,414 --> 00:16:39,832
+to everyone else that turn.
+
+348
+00:16:39,874 --> 00:16:41,792
+Aw. I had a feeling.
+
+349
+00:16:41,834 --> 00:16:43,127
+It's first‐come‐first‐serve,
+
+350
+00:16:43,169 --> 00:16:45,379
+so if you don't act fast,
+you won't get what you want!
+
+351
+00:16:45,421 --> 00:16:47,840
+In other words,
+it's a shopping race!
+
+352
+00:16:47,882 --> 00:16:48,925
+[MIDORI]
+This time around,
+
+353
+00:16:48,966 --> 00:16:51,093
+you're aiming to
+collect ten items total.
+
+354
+00:16:51,135 --> 00:16:53,596
+As soon as someone does,
+the game ends.
+
+355
+00:16:53,638 --> 00:16:55,806
+By the way, the person
+who purchases ten items
+
+356
+00:16:55,848 --> 00:16:58,226
+also receives a ten‐point bonus!
+
+357
+00:16:58,267 --> 00:16:59,685
+Now that there are
+so many choices,
+
+358
+00:16:59,727 --> 00:17:02,230
+I'm having a hard time
+deciding where to start.
+
+359
+00:17:02,271 --> 00:17:05,066
+I had a similar thought and
+developed these as a result!
+
+360
+00:17:05,107 --> 00:17:06,901
+[AYA]
+Ooh! Show me! Show me! Show me!
+
+361
+00:17:06,943 --> 00:17:09,320
+Catalog cards.
+
+362
+00:17:09,362 --> 00:17:11,197
+They list a bunch
+of things you can buy.
+
+363
+00:17:11,239 --> 00:17:13,407
+If you manage to get everything
+written on your card,
+
+364
+00:17:13,449 --> 00:17:15,785
+you receive an additional
+bonus to your score!
+
+365
+00:17:15,826 --> 00:17:18,329
+I bet you had a tough time
+coming up with these cards.
+
+366
+00:17:18,371 --> 00:17:19,372
+Didn't you?
+
+367
+00:17:19,413 --> 00:17:22,250
+[MIDORI gasps] You can tell?
+Just by looking at them?
+
+368
+00:17:22,291 --> 00:17:23,626
+I knew you'd understand!
+
+369
+00:17:23,668 --> 00:17:25,378
+Adding in catalog
+cards was‐‐by far‐‐
+
+370
+00:17:25,419 --> 00:17:26,879
+the most difficult thing I did.
+
+371
+00:17:26,921 --> 00:17:28,673
+But... they should be worth it!
+
+372
+00:17:28,714 --> 00:17:30,049
+[MIKI]
+Midori and Emmy really seem like
+
+373
+00:17:30,091 --> 00:17:31,926
+they're on the same wavelength.
+
+374
+00:17:31,968 --> 00:17:34,387
+Well. Let's get this
+play‐test underway!
+
+375
+00:17:35,888 --> 00:17:38,307
+[EMILIA] If you're ready,
+let me hear you say "Oh, ja!"
+
+376
+00:17:38,349 --> 00:17:40,142
+‐‐[AYA] Oh, yeah!
+‐‐Oh, yeah!
+
+377
+00:17:43,729 --> 00:17:45,439
+'Kay! I'm going first!
+
+378
+00:17:45,481 --> 00:17:49,527
+I'll collect my six gold,
+and I'll buy this cute rug!
+
+379
+00:17:49,569 --> 00:17:52,697
+Wow, reminds me of when
+I originally moved here!
+
+380
+00:17:52,738 --> 00:17:54,782
+I didn't have a single
+piece of furniture,
+
+381
+00:17:54,824 --> 00:17:56,951
+so it made my room seem huge!
+
+382
+00:17:56,993 --> 00:17:59,620
+[MIKI] Since it's my turn next,
+I'll grab this chair.
+
+383
+00:17:59,662 --> 00:18:01,789
+Oh! You've got
+some good tastes, Miki!
+
+384
+00:18:01,831 --> 00:18:03,874
+Affordable, yet stylish!
+
+385
+00:18:06,043 --> 00:18:07,378
+[EMILIA]
+Midori and I will earn our pay
+
+386
+00:18:07,420 --> 00:18:09,338
+and end our turns this round.
+
+387
+00:18:09,380 --> 00:18:12,091
+What? But how can you
+pass up a chance to go shop?
+
+388
+00:18:12,133 --> 00:18:14,093
+Easy. I'm trying
+to save my gold
+
+389
+00:18:14,135 --> 00:18:17,013
+so I can buy the expensive
+furniture and earn more points!
+
+390
+00:18:17,054 --> 00:18:18,180
+[AYA, MIKI]
+Huh?
+
+391
+00:18:18,222 --> 00:18:19,849
+[AYA]
+Ah! She's right!
+
+392
+00:18:19,890 --> 00:18:21,517
+[MIKI]
+I didn't even notice.
+
+393
+00:18:21,559 --> 00:18:25,479
+[AYA] Wait! This girly pink
+cabinet is‐‐14 whole points?
+
+394
+00:18:25,521 --> 00:18:27,106
+[MIKI]
+I should start saving now.
+
+395
+00:18:27,148 --> 00:18:29,233
+You both get excited so easily.
+
+396
+00:18:29,275 --> 00:18:30,234
+[AYA, MIKI]
+Huh?
+
+397
+00:18:30,276 --> 00:18:32,737
+Going for the more
+costly items is a big risk.
+
+398
+00:18:32,778 --> 00:18:34,071
+How so?
+
+399
+00:18:34,113 --> 00:18:36,157
+[EMILIA] Well... Since the
+game is over when someone buys
+
+400
+00:18:36,198 --> 00:18:38,784
+ten things, time is against me.
+
+401
+00:18:38,826 --> 00:18:40,244
+In other words...
+
+402
+00:18:40,286 --> 00:18:42,496
+So then, if the game
+ends while you're saving,
+
+403
+00:18:42,538 --> 00:18:44,373
+all that hard‐earned
+money goes to waste!
+
+404
+00:18:44,415 --> 00:18:47,126
+Right. It's not
+an outcome I'm hoping for.
+
+405
+00:18:47,168 --> 00:18:49,754
+Also, there's another
+nice bonus up for grabs
+
+406
+00:18:49,795 --> 00:18:51,631
+that goes to the person
+with the most furniture
+
+407
+00:18:51,672 --> 00:18:52,965
+at the end of the game.
+
+408
+00:18:53,007 --> 00:18:55,551
+Huh? No prob! Just buy
+a bunch of cheap stuff
+
+409
+00:18:55,593 --> 00:18:57,887
+and you'll win before anyone
+else knows what happened!
+
+410
+00:18:57,928 --> 00:18:59,472
+[MIKI]
+Mm‐hmm! That could work.
+
+411
+00:18:59,513 --> 00:19:01,641
+Oh, but what about these?
+
+412
+00:19:01,682 --> 00:19:04,560
+Ah! I forgot about
+the catalog card bonuses!
+
+413
+00:19:04,602 --> 00:19:07,271
+These points would make
+or break a victory, no doubt!
+
+414
+00:19:07,313 --> 00:19:09,774
+So... I need to save up, ASAP!
+
+415
+00:19:09,815 --> 00:19:11,692
+Okay. I'll start by
+getting what's listed
+
+416
+00:19:11,734 --> 00:19:13,903
+in the catalog.
+Will I have enough time...
+
+417
+00:19:13,944 --> 00:19:15,780
+[MIDORI]
+They're all strategizing.
+
+418
+00:19:15,821 --> 00:19:18,407
+They're totally absorbed
+in my game!
+
+419
+00:19:18,449 --> 00:19:20,201
+[EMILIA] I'm pretty sure
+I know what I want to buy.
+
+420
+00:19:20,242 --> 00:19:22,453
+[MIDORI]
+This is great!
+
+421
+00:19:22,495 --> 00:19:26,457
+I'm just so incredibly
+happy right now!
+
+422
+00:19:29,335 --> 00:19:30,920
+[MIDORI]
+Game over!
+
+423
+00:19:30,961 --> 00:19:34,256
+[AYA groans] That cabinet just
+wasn't meant to be mine.
+
+424
+00:19:34,298 --> 00:19:37,009
+Let's add up the bonuses
+and see who won.
+
+425
+00:19:37,051 --> 00:19:38,594
+Miki got 82.
+
+426
+00:19:38,636 --> 00:19:40,262
+Emmy got 84.
+
+427
+00:19:40,304 --> 00:19:42,264
+Aya got 84 as well.
+
+428
+00:19:42,306 --> 00:19:44,934
+And I managed
+a whopping 92 points.
+
+429
+00:19:44,975 --> 00:19:47,269
+What? Midori won by a landslide!
+
+430
+00:19:47,311 --> 00:19:48,437
+It's not fair!
+
+431
+00:19:48,479 --> 00:19:50,356
+Well. I am
+the game's creator.
+
+432
+00:19:50,398 --> 00:19:53,234
+I'm bound to be fairly decent
+at playing, y'know.
+
+433
+00:19:53,275 --> 00:19:54,318
+[GIRLS gasping]
+
+434
+00:19:54,360 --> 00:19:55,653
+[MIDORI]
+What? What's wrong?
+
+435
+00:19:55,695 --> 00:19:57,279
+‐‐I forgot.
+‐‐Me, too.
+
+436
+00:19:57,321 --> 00:19:58,447
+[AYA] We're best friends
+with the person
+
+437
+00:19:58,489 --> 00:19:59,740
+who invented this game!
+
+438
+00:19:59,782 --> 00:20:01,742
+That important fact
+must've slipped our minds
+
+439
+00:20:01,784 --> 00:20:03,869
+since we were so
+wrapped up in playing!
+
+440
+00:20:03,911 --> 00:20:06,997
+Ah! Stop. You really
+don't have to flatter me.
+
+441
+00:20:07,039 --> 00:20:09,041
+[EMILIA] I assure you,
+this isn't flattery.
+
+442
+00:20:09,083 --> 00:20:10,126
+[gasps]
+
+443
+00:20:10,167 --> 00:20:11,711
+This game has so many choices‐‐
+
+444
+00:20:11,752 --> 00:20:15,131
+so much creative freedom!
+You did a great job!
+
+445
+00:20:15,172 --> 00:20:16,132
+She's right.
+
+446
+00:20:16,173 --> 00:20:18,968
+The previous version didn't have
+nearly as many ways to play!
+
+447
+00:20:19,009 --> 00:20:20,386
+It's cool!
+I still can't get over
+
+448
+00:20:20,428 --> 00:20:23,639
+how you made such an
+awesome game all by yourself!
+
+449
+00:20:23,681 --> 00:20:25,599
+[MIDORI]
+By myself?
+
+450
+00:20:25,641 --> 00:20:28,811
+[MIDORI]
+No. You're wrong.
+
+451
+00:20:28,853 --> 00:20:31,522
+There is no way I could've
+made this on my own.
+
+452
+00:20:31,564 --> 00:20:32,523
+[AYA]
+Huh?
+
+453
+00:20:32,565 --> 00:20:34,275
+Not without you three.
+
+454
+00:20:34,316 --> 00:20:35,985
+Thank you for everything.
+
+455
+00:20:36,026 --> 00:20:37,528
+Whaddaya mean?
+
+456
+00:20:37,570 --> 00:20:39,280
+Silly.
+
+457
+00:20:39,321 --> 00:20:41,699
+We didn't know what you were
+doing while you were gone.
+
+458
+00:20:41,741 --> 00:20:44,493
+We had no idea you were
+working so hard on your game.
+
+459
+00:20:44,535 --> 00:20:45,911
+Yeah. We didn't help at all,
+
+460
+00:20:45,953 --> 00:20:48,289
+so I don't think we're
+very deserving of your praise.
+
+461
+00:20:48,330 --> 00:20:49,540
+Of course you are!
+
+462
+00:20:49,582 --> 00:20:51,709
+You took time to
+play‐test it for me.
+
+463
+00:20:51,751 --> 00:20:53,836
+We're besties.
+That's normal, isn't it?
+
+464
+00:20:53,878 --> 00:20:55,463
+[MIDORI] Just because
+it's normal doesn't mean
+
+465
+00:20:55,504 --> 00:20:57,757
+that I expect that of you!
+
+466
+00:20:57,798 --> 00:21:00,176
+I would've been stuck
+without people to play it.
+
+467
+00:21:00,217 --> 00:21:02,762
+You guys are the reason
+I was able to move forward.
+
+468
+00:21:02,803 --> 00:21:04,388
+[AYA, MIKI]
+Aw, Midori.
+
+469
+00:21:04,430 --> 00:21:07,391
+[MIDORI] A while back...
+I was given some advice.
+
+470
+00:21:07,433 --> 00:21:09,769
+This guy said I'd never
+complete my game.
+
+471
+00:21:09,810 --> 00:21:12,897
+Not if I kept my guard up
+and refused to let others play.
+
+472
+00:21:12,938 --> 00:21:16,484
+I thought he was just being
+a jerk and snapped back at him.
+
+473
+00:21:16,525 --> 00:21:18,903
+But after sharing
+One Room with you,
+
+474
+00:21:18,944 --> 00:21:20,237
+I think I get it now.
+
+475
+00:21:20,279 --> 00:21:23,115
+So this guy... Who is he?
+
+476
+00:21:23,157 --> 00:21:25,326
+His name's George Beresford.
+
+477
+00:21:25,367 --> 00:21:27,536
+One of my goals for this
+competition is to make him
+
+478
+00:21:27,578 --> 00:21:31,415
+play my game. Call it
+a hidden agenda, I guess.
+
+479
+00:21:31,457 --> 00:21:32,917
+You said Beresford?
+
+480
+00:21:32,958 --> 00:21:35,002
+As in the designer
+from Bad Dwarf?
+
+481
+00:21:35,044 --> 00:21:37,004
+Midori... You're so lucky!
+
+482
+00:21:37,046 --> 00:21:39,298
+[MIDORI]
+He's my boss's friend, not mine.
+
+483
+00:21:39,340 --> 00:21:40,674
+I can tell you
+he's as pretentious
+
+484
+00:21:40,716 --> 00:21:42,051
+as he is stubborn, though.
+
+485
+00:21:42,092 --> 00:21:43,552
+But you're that much closer
+
+486
+00:21:43,594 --> 00:21:46,680
+to becoming a real game author!
+You're ahead of me.
+
+487
+00:21:46,722 --> 00:21:47,723
+Not quite.
+
+488
+00:21:47,765 --> 00:21:50,226
+I wouldn't have remembered
+what I wanted on my own.
+
+489
+00:21:50,267 --> 00:21:51,644
+That one was all you.
+
+490
+00:21:51,685 --> 00:21:54,355
+That's why I think it's fair
+to say you're ahead of me.
+
+491
+00:21:54,396 --> 00:21:56,482
+Midori...
+
+492
+00:21:56,524 --> 00:21:58,234
+You both have amazing dreams!
+
+493
+00:21:58,275 --> 00:22:00,611
+It's really cool! Right, Miki?
+
+494
+00:22:00,653 --> 00:22:03,447
+Uh, yeah. Definitely.
+
+495
+00:22:03,489 --> 00:22:05,866
+[MIKI]
+Why am I feeling like this?
+
+496
+00:22:05,908 --> 00:22:09,829
+I'm happy for her,
+but also a little... sad.
+
+497
+00:23:44,798 --> 00:23:47,259
+[MIKI]
+This past year was lots of fun.
+
+498
+00:23:47,301 --> 00:23:49,929
+But am I the only one who
+wouldn't mind if things
+
+499
+00:23:49,970 --> 00:23:52,723
+stayed just like this forever?
+

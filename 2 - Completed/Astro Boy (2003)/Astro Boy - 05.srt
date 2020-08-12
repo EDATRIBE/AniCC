@@ -1,0 +1,1632 @@
+﻿1
+00:00:03,707 --> 00:00:05,309
+[♪]
+
+2
+00:01:10,659 --> 00:01:13,632
+MAN:
+Hey, Kevin! Here's a videogram
+<i>from your dad.</i>
+
+3
+00:01:13,665 --> 00:01:15,735
+<i>"How's everything</i>
+<i>back on Earth?</i>
+
+4
+00:01:15,768 --> 00:01:17,772
+<i>"Did your garter snake</i>
+<i>ever turn up?</i>
+
+5
+00:01:17,805 --> 00:01:21,145
+<i>"I sure hope you find him</i>
+<i>before your mom does.</i>
+
+6
+00:01:22,380 --> 00:01:23,883
+<i>"I'm working now as a foreman</i>
+
+7
+00:01:23,916 --> 00:01:26,521
+<i>"at a cobolite mine</i>
+<i>on one of Mars' moons.</i>
+
+8
+00:01:26,555 --> 00:01:28,491
+<i>"A tiny place called Deimos.</i>
+
+9
+00:01:28,524 --> 00:01:30,294
+<i>"It's a long way from home.</i>
+
+10
+00:01:30,327 --> 00:01:31,897
+I really miss you.
+
+11
+00:01:31,930 --> 00:01:33,600
+There are no other
+humans here.
+
+12
+00:01:33,633 --> 00:01:35,771
+Just the robots
+who work in the mine.
+
+13
+00:01:35,804 --> 00:01:37,875
+At least they do
+what I tell them,
+
+14
+00:01:37,908 --> 00:01:39,711
+except on talent night.
+
+15
+00:01:39,744 --> 00:01:42,383
+Picture 40 robots
+in a conga line!
+
+16
+00:01:42,416 --> 00:01:43,852
+[LAUGHS]
+
+17
+00:01:43,886 --> 00:01:45,789
+Well, Kevin, I'd better
+get back to--
+
+18
+00:01:45,822 --> 00:01:47,258
+Huh?
+
+19
+00:01:47,292 --> 00:01:48,494
+Hey!
+
+20
+00:01:48,527 --> 00:01:49,896
+What are you doing here?
+
+21
+00:01:51,933 --> 00:01:53,503
+No. Don't!
+
+22
+00:01:53,536 --> 00:01:55,339
+[ALARM SOUNDING]
+
+23
+00:01:55,372 --> 00:01:57,410
+What's happening?
+
+24
+00:01:57,443 --> 00:01:58,845
+The robots!
+
+25
+00:01:58,878 --> 00:02:00,348
+They're out of control.
+
+26
+00:02:01,784 --> 00:02:02,719
+Stop that!
+
+27
+00:02:09,497 --> 00:02:10,967
+Stop!
+
+28
+00:02:11,000 --> 00:02:11,902
+Argh!
+
+29
+00:02:16,610 --> 00:02:19,282
+MAN [ON VIDEOGRAM]:
+<i>They do what I tell them.</i>
+<i>They do what I tell them.</i>
+
+30
+00:02:19,315 --> 00:02:21,619
+Need help.
+
+31
+00:02:21,653 --> 00:02:24,558
+<i>I've lost all control.</i>
+
+32
+00:02:24,591 --> 00:02:26,528
+<i>I can't stop them.</i>
+
+33
+00:02:26,562 --> 00:02:29,801
+<i>The robots...are taking over!</i>
+
+34
+00:02:39,351 --> 00:02:42,891
+O'SHAY:
+But why would robots go berserk
+<i>for no reason at all?</i>
+
+35
+00:02:42,924 --> 00:02:44,895
+A lack of fiber?
+A rusty rivet?
+
+36
+00:02:44,928 --> 00:02:46,864
+Battery acid indigestion?
+
+37
+00:02:46,898 --> 00:02:48,968
+As director of the
+Ministry of Science,
+
+38
+00:02:49,002 --> 00:02:50,671
+I must find the answer.
+
+39
+00:02:50,705 --> 00:02:51,940
+Ooh, Astro...
+
+40
+00:02:51,973 --> 00:02:55,413
+I'll be going away
+for a few days.
+
+41
+00:02:55,446 --> 00:02:58,419
+I want you to stay here
+and mind Nora, okay?
+
+42
+00:02:58,452 --> 00:03:00,455
+Nora'll be fine.
+Can I come?
+
+43
+00:03:00,488 --> 00:03:03,027
+I'm going to a place
+called Deimos,
+
+44
+00:03:03,060 --> 00:03:05,865
+far away in outer space...
+
+45
+00:03:05,898 --> 00:03:08,403
+40 million miles from Earth.
+
+46
+00:03:08,437 --> 00:03:10,473
+Doctor, you've gotta take me.
+
+47
+00:03:11,608 --> 00:03:13,378
+Maybe next time, Astro.
+
+48
+00:03:13,412 --> 00:03:14,714
+Nora, I'll be back
+in a week.
+
+49
+00:03:14,748 --> 00:03:16,083
+Depending on traffic.
+
+50
+00:03:19,723 --> 00:03:21,092
+Have a good trip. Bye!
+
+51
+00:03:22,662 --> 00:03:25,768
+See you soon.
+See you real soon.
+
+52
+00:03:25,801 --> 00:03:27,737
+COMPUTER:
+<i>Deimos. Planet or potato?</i>
+
+53
+00:03:27,771 --> 00:03:29,708
+Here's maps, hotels,
+<i>shopping guide, directions.</i>
+
+54
+00:03:29,741 --> 00:03:32,179
+Ah! I know the directions.
+
+55
+00:03:32,212 --> 00:03:34,549
+Leave Earth. Go up.
+
+56
+00:03:34,583 --> 00:03:36,453
+Just take me to the spaceport,
+and hurry.
+
+57
+00:03:48,107 --> 00:03:49,610
+Yes!
+
+58
+00:03:49,643 --> 00:03:51,647
+Just in time.
+
+59
+00:03:54,485 --> 00:03:57,457
+Dr. O'Shay. We'd like to
+welcome you aboard, sir.
+
+60
+00:03:57,490 --> 00:04:00,663
+Friends, something strange
+is happening on Deimos.
+
+61
+00:04:00,696 --> 00:04:02,566
+We're going to find out what.
+Let's go.
+
+62
+00:04:03,836 --> 00:04:05,839
+[ALARM SOUNDING]
+
+63
+00:04:22,234 --> 00:04:23,871
+Initiate the launch sequence.
+
+64
+00:04:25,006 --> 00:04:26,075
+Fire jets!
+
+65
+00:04:27,143 --> 00:04:28,079
+Liftoff.
+
+66
+00:04:34,190 --> 00:04:35,993
+Activate auxiliary thrusters.
+
+67
+00:04:39,700 --> 00:04:40,567
+[GRUNTING]
+
+68
+00:04:55,260 --> 00:04:57,297
+CAPTAIN:
+<i>Disengage rocket boosters.</i>
+
+69
+00:04:59,902 --> 00:05:02,874
+<i>Set course for Deimos.</i>
+
+70
+00:05:02,907 --> 00:05:04,811
+O'SHAY:
+<i>What could have caused it?</i>
+
+71
+00:05:04,845 --> 00:05:07,783
+<i>Robots programmed to follow</i>
+<i>human orders without fail</i>
+
+72
+00:05:07,816 --> 00:05:09,686
+<i>suddenly go berserk</i>
+<i>for no reason.</i>
+
+73
+00:05:09,719 --> 00:05:11,790
+<i>It simply makes no sense.</i>
+
+74
+00:05:11,823 --> 00:05:14,328
+CAPTAIN:
+<i>Dr. O'Shay.</i>
+Huh?
+
+75
+00:05:14,362 --> 00:05:16,932
+<i>The cargo officer reports</i>
+
+76
+00:05:16,966 --> 00:05:19,336
+<i>that your luggage exceeds</i>
+<i>the allowable weight limit.</i>
+
+77
+00:05:19,371 --> 00:05:21,240
+What? Impossible.
+
+78
+00:05:21,274 --> 00:05:24,045
+I checked everything myself
+just before we left.
+
+79
+00:05:24,079 --> 00:05:26,984
+Your officer must have
+made some mistake.
+
+80
+00:05:27,017 --> 00:05:29,188
+<i>It's nothing we can't handle,</i>
+<i>Dr. O'Shay,</i>
+
+81
+00:05:29,221 --> 00:05:32,627
+but you do seem to have brought
+<i>along an extra 62.7 pounds.</i>
+
+82
+00:05:32,660 --> 00:05:34,631
+Sixty-two point se--?
+Huh?
+
+83
+00:05:49,124 --> 00:05:50,626
+Hmm? Huh?
+
+84
+00:05:52,129 --> 00:05:53,097
+[GROANS]
+
+85
+00:05:53,131 --> 00:05:54,133
+[GASPS]
+
+86
+00:05:54,166 --> 00:05:55,735
+Astro!
+
+87
+00:05:57,071 --> 00:05:58,841
+O'SHAY:
+Astro...
+
+88
+00:05:58,874 --> 00:06:00,845
+Young man,
+do you understand
+
+89
+00:06:00,878 --> 00:06:03,082
+the seriousness
+of what you've done here?
+
+90
+00:06:03,115 --> 00:06:05,887
+When you snuck on board,
+you endangered your own life
+
+91
+00:06:05,920 --> 00:06:08,825
+and the lives of every single
+person on this ship.
+
+92
+00:06:08,859 --> 00:06:11,129
+A robot's first duty
+is to protect lives.
+
+93
+00:06:11,163 --> 00:06:12,165
+But--
+
+94
+00:06:12,198 --> 00:06:13,367
+No buts!
+
+95
+00:06:14,769 --> 00:06:15,871
+I'm sorry.
+
+96
+00:06:15,905 --> 00:06:17,174
+[SIGHS]
+
+97
+00:06:17,207 --> 00:06:19,879
+Astro, now why would you do
+such a foolish thing?
+
+98
+00:06:19,912 --> 00:06:21,147
+Doctor, well, you see...
+
+99
+00:06:21,181 --> 00:06:23,117
+it sounded like
+there was trouble up here,
+
+100
+00:06:23,150 --> 00:06:24,888
+and all I wanted to do
+was help you.
+
+101
+00:06:26,791 --> 00:06:29,028
+Oh, well, I'm very proud
+of you, Astro.
+
+102
+00:06:29,061 --> 00:06:32,201
+You're advancing much faster
+than I ever imagined.
+
+103
+00:06:34,805 --> 00:06:35,873
+Astro...
+
+104
+00:06:35,907 --> 00:06:38,946
+although you were wrong
+to stow away, you're here now,
+
+105
+00:06:38,979 --> 00:06:41,083
+and you can help us
+on this mission.
+
+106
+00:06:41,117 --> 00:06:42,319
+Oh, you mean it?
+
+107
+00:06:42,352 --> 00:06:43,854
+Yes.
+
+108
+00:06:43,888 --> 00:06:46,326
+But you must promise
+not to disobey me again.
+
+109
+00:06:46,359 --> 00:06:49,197
+And perhaps you can help us
+get to the bottom of this.
+
+110
+00:06:49,231 --> 00:06:50,834
+Great!
+
+111
+00:06:50,867 --> 00:06:52,470
+CAPTAIN:
+We are now approaching Deimos,
+
+112
+00:06:52,503 --> 00:06:53,805
+<i>second moon of Mars.</i>
+
+113
+00:07:04,023 --> 00:07:05,894
+Reverse landing jets now.
+
+114
+00:07:14,442 --> 00:07:16,513
+Oh, wow!
+
+115
+00:07:16,546 --> 00:07:18,583
+[ALARM SOUNDS]
+EDDIE: Dr. O'Shay.
+
+116
+00:07:18,617 --> 00:07:21,221
+You'd better come over here
+and take a look at this.
+
+117
+00:07:21,254 --> 00:07:23,893
+<i>The command dome is falling</i>
+<i>into the mine shaft.</i>
+
+118
+00:07:23,926 --> 00:07:27,032
+O'SHAY:
+Impossible. There's practically
+<i>no gravity on Deimos.</i>
+
+119
+00:07:27,065 --> 00:07:30,037
+EDDIE:
+<i>Sir, my instruments show</i>
+a force 10 times that of Earth.
+
+120
+00:07:30,070 --> 00:07:32,274
+Help me. Hurry!
+
+121
+00:07:32,308 --> 00:07:33,576
+[GASPS]
+
+122
+00:07:33,610 --> 00:07:34,846
+O'SHAY:
+Someone's trapped inside.
+
+123
+00:07:39,621 --> 00:07:42,459
+DAVE:
+<i>Help me. Please. Hurry!</i>
+
+124
+00:07:42,492 --> 00:07:44,195
+Some strange
+magnetic force
+
+125
+00:07:44,229 --> 00:07:47,335
+seems to be pulling the dome
+into the mineshaft.
+
+126
+00:07:47,368 --> 00:07:49,038
+How is that possible?
+
+127
+00:07:49,071 --> 00:07:49,905
+[GASPS]
+
+128
+00:08:09,274 --> 00:08:11,644
+We need a rescue ship
+to get him out now.
+
+129
+00:08:11,678 --> 00:08:13,014
+ASTRO:
+There's no time!
+
+130
+00:08:13,047 --> 00:08:15,017
+Astro, where are
+you going?
+
+131
+00:08:15,050 --> 00:08:17,154
+The mineshaft's
+about to cave in.
+
+132
+00:08:17,188 --> 00:08:19,092
+It's too dangerous!
+I forbid it!
+
+133
+00:08:19,125 --> 00:08:22,263
+A robot's duty is to protect
+lives. You taught me that.
+
+134
+00:08:22,297 --> 00:08:24,634
+Oh...of course you're right.
+
+135
+00:08:24,668 --> 00:08:26,438
+We'll wait here for a signal
+from you, Astro.
+
+136
+00:08:26,471 --> 00:08:28,709
+So...be careful.
+
+137
+00:08:28,742 --> 00:08:30,011
+Got it!
+
+138
+00:08:36,022 --> 00:08:38,192
+Whoa!
+
+139
+00:08:42,433 --> 00:08:45,672
+The magnetic force is affecting
+his flying. He's out of control.
+
+140
+00:08:45,705 --> 00:08:47,375
+Whoa, help!
+
+141
+00:08:47,408 --> 00:08:49,211
+Oh, I'm losing control!
+
+142
+00:08:51,015 --> 00:08:52,016
+Oh, no!
+
+143
+00:08:53,486 --> 00:08:54,488
+Oh!
+
+144
+00:08:55,557 --> 00:08:57,025
+Astro!
+
+145
+00:09:00,165 --> 00:09:01,567
+[GASPS]
+
+146
+00:09:01,601 --> 00:09:05,040
+O'SHAY:
+<i>He has rocket-powered arms!</i>
+
+147
+00:09:05,074 --> 00:09:06,409
+I can't hold on
+any longer.
+
+148
+00:09:06,442 --> 00:09:07,478
+Help!
+
+149
+00:09:19,165 --> 00:09:20,167
+EDDIE:
+Amazing!
+
+150
+00:09:22,471 --> 00:09:24,208
+[GRUNTING]
+
+151
+00:09:26,813 --> 00:09:27,780
+Huh?
+
+152
+00:09:29,483 --> 00:09:30,753
+The robots.
+
+153
+00:09:30,786 --> 00:09:32,188
+They're helping.
+
+154
+00:09:47,716 --> 00:09:49,719
+But they were supposed to be
+out of control.
+
+155
+00:09:53,360 --> 00:09:55,129
+DAVE:
+<i>Thank you for saving me.</i>
+
+156
+00:09:55,163 --> 00:09:57,233
+Astro,
+I'm proud of you.
+
+157
+00:09:57,267 --> 00:09:59,604
+It wasn't just me
+that saved him, doctor.
+
+158
+00:09:59,637 --> 00:10:00,773
+Uh, it wasn't?
+
+159
+00:10:02,910 --> 00:10:05,748
+The robot control system
+checks out normal.
+
+160
+00:10:05,782 --> 00:10:07,385
+There's nothing to explain
+their strange behavior.
+
+161
+00:10:07,418 --> 00:10:08,788
+Hmm.
+
+162
+00:10:10,824 --> 00:10:12,194
+Uh, hey, wait a minute.
+What's all this?
+
+163
+00:10:13,662 --> 00:10:16,668
+Just a pile of waste minerals
+from the mine.
+
+164
+00:10:16,702 --> 00:10:18,771
+You wanna take a souvenir home
+to the wife and kids?
+
+165
+00:10:18,805 --> 00:10:20,842
+No, not that.
+I meant this.
+
+166
+00:10:22,512 --> 00:10:25,217
+Huh, it looks like
+some kind of pattern.
+
+167
+00:10:25,250 --> 00:10:26,652
+[ALARM SOUNDS]
+
+168
+00:10:26,686 --> 00:10:28,924
+There's a ship landing.
+
+169
+00:10:28,957 --> 00:10:32,162
+MAN:
+<i>This is Captain Archer</i>
+<i>of intergalactic security.</i>
+
+170
+00:10:32,195 --> 00:10:34,199
+<i>Clear us at once for landing.</i>
+
+171
+00:10:35,568 --> 00:10:36,737
+Who's in charge of this mine?
+
+172
+00:10:36,771 --> 00:10:38,641
+DAVE:
+I am.
+
+173
+00:10:38,674 --> 00:10:41,947
+I want a list of every
+malfunctioning robot on Deimos.
+
+174
+00:10:41,980 --> 00:10:43,716
+But the Ministry
+of Defense
+
+175
+00:10:43,750 --> 00:10:45,253
+is conducting
+this investigation.
+
+176
+00:10:45,286 --> 00:10:46,688
+Not anymore.
+
+177
+00:10:46,721 --> 00:10:48,759
+This is now
+a security matter,
+
+178
+00:10:48,792 --> 00:10:50,362
+and my job is
+to protect human life
+
+179
+00:10:50,395 --> 00:10:52,766
+and property
+by any means necessary.
+
+180
+00:10:52,799 --> 00:10:54,803
+And just what does
+that mean?
+
+181
+00:10:54,836 --> 00:10:58,710
+Here in space, when robots
+stop doing what they're told,
+
+182
+00:10:58,743 --> 00:11:01,382
+there's only one possible
+course of action.
+
+183
+00:11:01,415 --> 00:11:04,687
+Destroy any robot
+that defies orders.
+
+184
+00:11:04,720 --> 00:11:05,890
+What?
+
+185
+00:11:05,923 --> 00:11:08,460
+Well, that's
+utterly barbaric.
+
+186
+00:11:08,494 --> 00:11:10,631
+Are you saying if your
+own robots disobeyed you,
+
+187
+00:11:10,664 --> 00:11:12,668
+you would simply
+exterminate them?
+
+188
+00:11:12,702 --> 00:11:14,638
+Without a moment's
+hesitation.
+
+189
+00:11:14,671 --> 00:11:15,840
+But don't worry.
+
+190
+00:11:15,873 --> 00:11:18,245
+These aren't your
+ordinary pieces of junk.
+
+191
+00:11:18,278 --> 00:11:21,450
+They're incapable of
+disobeying me, no matter what.
+
+192
+00:11:21,483 --> 00:11:23,554
+Right, Higgins?
+
+193
+00:11:23,587 --> 00:11:25,424
+But the robots must
+have had some reason.
+
+194
+00:11:25,458 --> 00:11:27,661
+Their reasons
+don't interest me.
+
+195
+00:11:27,695 --> 00:11:29,031
+They defied orders.
+
+196
+00:11:29,064 --> 00:11:30,667
+There's nothing wrong
+with those robots.
+
+197
+00:11:30,700 --> 00:11:31,501
+What?
+
+198
+00:11:31,535 --> 00:11:33,739
+Uh, what are you
+trying to say, Astro?
+
+199
+00:11:33,772 --> 00:11:35,943
+Yeah, robot.
+
+200
+00:11:35,976 --> 00:11:37,679
+The dome.
+When I lifted it,
+
+201
+00:11:37,712 --> 00:11:39,750
+I saw the mining robots
+underneath it
+
+202
+00:11:39,783 --> 00:11:41,954
+trying to keep it
+from falling over the edge.
+
+203
+00:11:41,987 --> 00:11:44,458
+Huh? They were helping?
+
+204
+00:11:44,492 --> 00:11:46,863
+It's of no consequence now.
+
+205
+00:11:46,896 --> 00:11:50,402
+They disobeyed orders and
+abandoned their mining duties.
+
+206
+00:11:50,435 --> 00:11:51,772
+They will be destroyed.
+
+207
+00:11:51,805 --> 00:11:53,307
+If you destroy them,
+
+208
+00:11:53,340 --> 00:11:54,577
+we'll never know
+what went wrong.
+
+209
+00:11:54,610 --> 00:11:56,780
+Hmm.
+
+210
+00:11:56,814 --> 00:11:59,451
+ARCHER:
+<i>You've got exactly one hour</i>
+<i>to come up with an answer.</i>
+
+211
+00:11:59,485 --> 00:12:01,956
+<i>After that, they're history!</i>
+
+212
+00:12:01,990 --> 00:12:04,961
+ASTRO:
+<i>I just know the answer's</i>
+<i>in this mine.</i>
+
+213
+00:12:04,995 --> 00:12:06,798
+Strange.
+The spectrograph indicates
+
+214
+00:12:06,831 --> 00:12:08,668
+some unknown element
+in the rock.
+
+215
+00:12:08,702 --> 00:12:11,306
+Could that be what's causing
+the robots to act up?
+
+216
+00:12:22,560 --> 00:12:25,331
+[BUZZING]
+
+217
+00:12:29,071 --> 00:12:32,577
+TONY:
+<i>Sir, our instruments</i>
+<i>are going crazy.</i>
+
+218
+00:12:32,610 --> 00:12:35,716
+The gravitational pull
+is doubling every few feet.
+
+219
+00:12:35,750 --> 00:12:38,388
+If we continue this way,
+we risk being crushed.
+
+220
+00:12:38,421 --> 00:12:40,859
+Keep going. We must be
+nearing its source.
+
+221
+00:12:40,892 --> 00:12:43,965
+Whatever's down there
+is radiating enormous power.
+
+222
+00:12:43,998 --> 00:12:45,901
+Doctor...my sensors
+
+223
+00:12:45,934 --> 00:12:47,537
+are picking up on
+a life form down here.
+
+224
+00:12:54,917 --> 00:12:55,752
+Thirty minutes left.
+
+225
+00:12:55,786 --> 00:12:56,754
+[DOOR OPENS]
+
+226
+00:12:56,788 --> 00:12:57,956
+Huh?
+
+227
+00:12:57,990 --> 00:12:59,493
+Where are you going?
+
+228
+00:12:59,526 --> 00:13:00,995
+Stop. Do you hear me?
+
+229
+00:13:01,028 --> 00:13:02,999
+Ugh!
+
+230
+00:13:03,032 --> 00:13:05,469
+I command you
+to turn around at once.
+
+231
+00:13:07,139 --> 00:13:08,675
+You must obey me!
+Stop!
+
+232
+00:13:08,709 --> 00:13:09,844
+[ROBOT BEEPS]
+
+233
+00:13:09,877 --> 00:13:11,079
+Argh!
+
+234
+00:13:11,113 --> 00:13:11,780
+Higgins, stop them!
+
+235
+00:13:13,250 --> 00:13:14,620
+Wow, this can't be
+happening.
+
+236
+00:13:14,653 --> 00:13:16,556
+Stop, or I'll fire!
+
+237
+00:13:17,758 --> 00:13:18,860
+[BEEPS]
+
+238
+00:13:20,563 --> 00:13:21,632
+No.
+
+239
+00:13:21,665 --> 00:13:22,467
+I may need Higgins.
+
+240
+00:13:29,947 --> 00:13:31,182
+The robots have gone mad.
+
+241
+00:13:31,215 --> 00:13:33,920
+I will destroy every one!
+
+242
+00:13:49,247 --> 00:13:50,917
+EDDIE:
+<i>We're approaching</i>
+<i>the deepest level of the mine,</i>
+
+243
+00:13:50,950 --> 00:13:53,722
+<i>near the very core of Deimos.</i>
+
+244
+00:13:53,755 --> 00:13:56,595
+I had no idea
+they had dug this deep.
+
+245
+00:13:56,628 --> 00:13:58,564
+ARCHER:
+<i>Move aside.</i>
+<i>Your mission is terminated.</i>
+
+246
+00:13:59,833 --> 00:14:00,968
+Archer!
+
+247
+00:14:01,002 --> 00:14:03,006
+You said you'd
+give us an hour.
+
+248
+00:14:03,039 --> 00:14:06,212
+There's no more time for games.
+The infection has spread.
+
+249
+00:14:06,245 --> 00:14:08,782
+Before all the robots
+are contaminated,
+
+250
+00:14:08,816 --> 00:14:11,922
+I'm taking action, starting
+with the robots down here.
+
+251
+00:14:11,955 --> 00:14:14,793
+Wait! We just need
+a few more minutes.
+
+252
+00:14:14,827 --> 00:14:17,798
+You had your chance.
+Now we do it my way.
+
+253
+00:14:17,832 --> 00:14:18,767
+ASTRO:
+I don't think so.
+
+254
+00:14:18,800 --> 00:14:20,103
+O'SHAY:
+Astro!
+
+255
+00:14:20,137 --> 00:14:22,106
+Out of my way, robot.
+
+256
+00:14:22,140 --> 00:14:23,075
+No way!
+
+257
+00:14:24,310 --> 00:14:26,614
+Move aside,
+or you're scrap metal.
+
+258
+00:14:29,820 --> 00:14:31,289
+Ugh!
+
+259
+00:14:31,323 --> 00:14:34,663
+Let go. I'm warning you
+for the last time.
+
+260
+00:14:34,696 --> 00:14:37,300
+Defy me, and I'll destroy you
+like all the others!
+
+261
+00:14:37,333 --> 00:14:39,237
+Not a chance!
+I won't let you hurt them.
+
+262
+00:14:41,641 --> 00:14:43,043
+Argh!
+
+263
+00:14:43,078 --> 00:14:44,680
+Move aside!
+
+264
+00:14:44,713 --> 00:14:46,149
+I don't think so!
+
+265
+00:14:46,183 --> 00:14:48,788
+FEMALE VOICE:
+<i>Help me. Please, help me.</i>
+
+266
+00:14:48,821 --> 00:14:49,956
+Huh?
+
+267
+00:14:49,990 --> 00:14:51,125
+You lose.
+
+268
+00:14:52,394 --> 00:14:53,730
+Ugh!
+
+269
+00:14:54,865 --> 00:14:56,067
+Ow!
+
+270
+00:14:58,037 --> 00:14:59,139
+Astro!
+
+271
+00:15:01,276 --> 00:15:02,278
+Huh?
+
+272
+00:15:02,312 --> 00:15:05,183
+Now to take care
+of the other robots and-- Huh?
+
+273
+00:15:07,287 --> 00:15:08,857
+What the...?
+
+274
+00:15:13,031 --> 00:15:14,033
+What is that?
+
+275
+00:15:14,066 --> 00:15:15,101
+[GASPS]
+
+276
+00:15:19,208 --> 00:15:21,146
+What in the world?
+
+277
+00:15:26,221 --> 00:15:29,260
+Look, the robots' drills
+are all broken.
+
+278
+00:15:29,293 --> 00:15:32,466
+Then they must've busted them
+on that glowing sphere.
+
+279
+00:15:32,499 --> 00:15:34,770
+That's why they couldn't dig
+any further.
+
+280
+00:15:34,803 --> 00:15:36,473
+But what is it?
+
+281
+00:15:36,506 --> 00:15:38,943
+What's wrong?
+Why are you upset?
+
+282
+00:15:40,747 --> 00:15:44,087
+Upset? Astro, mining robots
+don't have emotions.
+
+283
+00:15:44,120 --> 00:15:45,355
+They don't?
+
+284
+00:15:45,389 --> 00:15:46,491
+Astro...
+
+285
+00:15:46,524 --> 00:15:48,327
+ask them what they know
+about this.
+
+286
+00:15:48,360 --> 00:15:49,396
+Okay.
+
+287
+00:15:49,429 --> 00:15:50,731
+Hm?
+
+288
+00:15:52,835 --> 00:15:55,807
+The robots are saying that
+someone is trapped down here.
+
+289
+00:15:55,841 --> 00:15:57,243
+They want to save him,
+
+290
+00:15:57,276 --> 00:15:59,881
+but their drills are broken
+and can't dig any further.
+
+291
+00:15:59,915 --> 00:16:01,818
+And that's all they know.
+
+292
+00:16:01,851 --> 00:16:03,487
+So they haven't gone berserk.
+
+293
+00:16:03,521 --> 00:16:05,891
+It's just their emergency
+rescue function at work.
+
+294
+00:16:05,926 --> 00:16:07,461
+That's ridiculous!
+
+295
+00:16:07,494 --> 00:16:09,833
+How could anyone be trapped
+this far underground?
+
+296
+00:16:09,866 --> 00:16:12,070
+No. Someone is inside here.
+
+297
+00:16:12,103 --> 00:16:13,539
+I heard the voice too!
+
+298
+00:16:13,572 --> 00:16:15,342
+Then you're
+malfunctioning.
+
+299
+00:16:15,375 --> 00:16:16,344
+Something about
+this sphere
+
+300
+00:16:16,377 --> 00:16:18,548
+causes all you robots
+to blow your circuits.
+
+301
+00:16:18,581 --> 00:16:20,552
+I will destroy this thing!
+
+302
+00:16:20,585 --> 00:16:22,555
+Archer, I won't let you.
+
+303
+00:16:22,588 --> 00:16:24,158
+Why, you--
+
+304
+00:16:24,191 --> 00:16:25,060
+FEMALE VOICE:
+<i>Help.</i>
+
+305
+00:16:25,093 --> 00:16:26,262
+<i>Help me.</i>
+
+306
+00:16:28,165 --> 00:16:29,901
+<i>You can free me...</i>
+
+307
+00:16:31,036 --> 00:16:32,306
+<i>with your digibeam.</i>
+
+308
+00:16:35,044 --> 00:16:37,147
+With my digibeam?
+
+309
+00:16:39,418 --> 00:16:41,255
+Astro? What's wrong?
+
+310
+00:16:41,289 --> 00:16:43,926
+I must help it...
+
+311
+00:16:43,959 --> 00:16:45,797
+with my digi-- Oh.
+
+312
+00:16:46,999 --> 00:16:48,201
+[ALL GASP]
+
+313
+00:16:48,968 --> 00:16:50,238
+[TINKLING]
+
+314
+00:17:00,924 --> 00:17:04,396
+He's cutting right through it
+with some kind of laser beam.
+
+315
+00:17:04,430 --> 00:17:05,265
+[GASP]
+
+316
+00:17:14,548 --> 00:17:16,284
+[TINKLING]
+Huh?
+
+317
+00:17:20,926 --> 00:17:22,996
+Please, doctor,
+I want to go in.
+
+318
+00:17:24,265 --> 00:17:25,200
+Go.
+
+319
+00:17:28,974 --> 00:17:31,144
+Astro...
+
+320
+00:17:31,178 --> 00:17:32,380
+<i>be careful.</i>
+
+321
+00:17:50,412 --> 00:17:51,680
+Wow.
+
+322
+00:18:00,363 --> 00:18:01,498
+Whoa.
+
+323
+00:18:02,299 --> 00:18:03,335
+Who are you?
+
+324
+00:18:04,437 --> 00:18:05,405
+Thank you...
+
+325
+00:18:05,439 --> 00:18:07,476
+for rescuing me.
+
+326
+00:18:07,509 --> 00:18:10,047
+Many long centuries ago,
+I was trapped here
+
+327
+00:18:10,080 --> 00:18:12,986
+by the collision
+of two great planets.
+
+328
+00:18:13,019 --> 00:18:16,725
+The mining robots heard my pleas
+and tried to rescue me.
+
+329
+00:18:16,759 --> 00:18:20,031
+But only you had the power
+to release me.
+
+330
+00:18:20,065 --> 00:18:21,200
+Now I can go home.
+
+331
+00:18:22,703 --> 00:18:24,606
+Come with me.
+
+332
+00:18:24,639 --> 00:18:27,011
+I'll show you a world
+no robot has ever seen.
+
+333
+00:18:27,044 --> 00:18:27,579
+Whoa.
+
+334
+00:18:34,591 --> 00:18:35,459
+Ahh!
+
+335
+00:18:49,250 --> 00:18:50,185
+Astro...
+
+336
+00:18:51,622 --> 00:18:53,090
+Astro!
+
+337
+00:18:55,762 --> 00:18:57,432
+Astro!
+
+338
+00:19:05,880 --> 00:19:06,815
+Wait.
+
+339
+00:19:08,251 --> 00:19:09,419
+What is it?
+
+340
+00:19:10,722 --> 00:19:12,625
+I can't go with you.
+
+341
+00:19:12,659 --> 00:19:14,729
+My home is back on Earth
+with Dr. O'Shay.
+
+342
+00:19:18,169 --> 00:19:19,605
+Astro!
+
+343
+00:19:21,441 --> 00:19:23,812
+Are you really certain
+this is what you want to do?
+
+344
+00:19:26,918 --> 00:19:28,320
+Pity.
+
+345
+00:19:28,353 --> 00:19:29,655
+Well, then it's goodbye.
+
+346
+00:19:30,591 --> 00:19:32,227
+We'll meet again, Astro.
+
+347
+00:19:43,948 --> 00:19:44,682
+[GASPS]
+
+348
+00:19:49,224 --> 00:19:51,495
+O'SHAY:
+Astro!
+
+349
+00:19:51,529 --> 00:19:53,164
+Ah! Oh! Whoa!
+
+350
+00:19:53,866 --> 00:19:55,769
+Whoa! Ah! Ah! Ah!
+
+351
+00:19:55,802 --> 00:19:58,441
+Astro.
+Doctor.
+
+352
+00:19:58,474 --> 00:20:00,277
+Oh!
+
+353
+00:20:00,310 --> 00:20:01,713
+Goodness.
+
+354
+00:20:03,583 --> 00:20:05,787
+Doctor,
+what is that?
+
+355
+00:20:05,820 --> 00:20:07,958
+I think it's
+a kind of message.
+
+356
+00:20:07,991 --> 00:20:10,195
+Message?
+
+357
+00:20:10,228 --> 00:20:13,568
+According to my neurotranslator,
+it appears to be Galaxian.
+
+358
+00:20:13,601 --> 00:20:17,706
+It says that mankind and robots
+must learn to work together.
+
+359
+00:20:17,739 --> 00:20:20,739
+And that you will lead the way.
+
+360
+00:20:22,239 --> 00:20:23,473
+Me? Really?
+
+361
+00:20:23,506 --> 00:20:25,306
+Then we will meet again.
+
+362
+00:20:41,773 --> 00:20:42,839
+[♪]
+

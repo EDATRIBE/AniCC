@@ -1,0 +1,1342 @@
+﻿1
+00:01:46,833 --> 00:01:48,208
+[gunshot]
+
+2
+00:01:48,291 --> 00:01:50,541
+[JESIA]
+Ko-Kosei.
+
+3
+00:01:58,083 --> 00:02:01,250
+Jesia!
+
+4
+00:02:15,416 --> 00:02:19,041
+[ANNE] A large Striker-class
+ship, registration unknown.
+
+5
+00:02:19,125 --> 00:02:22,541
+Sighted 350,000 kilometers
+directly above us,
+
+6
+00:02:22,625 --> 00:02:24,791
+and following at the same speed.
+
+7
+00:02:29,458 --> 00:02:31,000
+Ugh.
+
+8
+00:02:32,291 --> 00:02:33,958
+Did you hear me?
+
+9
+00:02:38,416 --> 00:02:39,541
+Ahem.
+
+10
+00:02:39,625 --> 00:02:42,125
+Meifon, they may be out
+of our danger zone,
+
+11
+00:02:42,208 --> 00:02:43,916
+but they remain unidentified.
+
+12
+00:02:44,000 --> 00:02:46,458
+Nikola, please put us
+into defensive formation
+
+13
+00:02:46,541 --> 00:02:47,708
+just in case.
+
+14
+00:02:47,791 --> 00:02:50,166
+And, Aihara, tell the
+client there's nothing
+
+15
+00:02:50,250 --> 00:02:51,958
+they need to worry about.
+
+16
+00:02:52,041 --> 00:02:54,250
+At least, not for now.
+
+17
+00:02:56,250 --> 00:02:57,583
+Meifon!
+
+18
+00:02:59,541 --> 00:03:02,041
+These sprinkler
+beams are harmless.
+
+19
+00:03:02,125 --> 00:03:03,416
+It's just that same old
+
+20
+00:03:03,500 --> 00:03:05,708
+trigger-happy pirate
+ship bothering us.
+
+21
+00:03:05,791 --> 00:03:08,083
+It'll shoot it's load and run.
+
+22
+00:03:08,166 --> 00:03:10,166
+Just an idle threat.
+
+23
+00:03:10,250 --> 00:03:14,208
+[ANNE] And now the unidentified
+ship is retreating.
+
+24
+00:03:14,291 --> 00:03:18,541
+Ya see? That's the third time.
+
+25
+00:03:18,625 --> 00:03:21,166
+So what do they want, anyway?
+
+26
+00:03:42,666 --> 00:03:45,833
+[MEIFON] Elvis has
+finally left the building.
+
+27
+00:03:45,916 --> 00:03:48,333
+[ANNE] Commander, should
+we have a wrap up party?
+
+28
+00:03:48,416 --> 00:03:49,625
+[AIHARA] There's a
+hip little joint I know,
+
+29
+00:03:49,708 --> 00:03:51,291
+and the food is great!
+
+30
+00:03:51,375 --> 00:03:52,625
+Let's book the whole place.
+
+31
+00:03:52,708 --> 00:03:54,541
+[AIHARA, ANNE laugh]
+
+32
+00:03:54,625 --> 00:03:58,250
+But first, I'm going
+home for a nice hot bath.
+
+33
+00:03:58,333 --> 00:04:01,041
+With raspberry bubbles and...
+
+34
+00:04:02,416 --> 00:04:03,833
+[MEIFON]
+Back again?!
+
+35
+00:04:03,916 --> 00:04:06,083
+[KOSEI] They must've heard
+Valeria talking about a bath.
+
+36
+00:04:06,166 --> 00:04:07,833
+[VALERIA]
+It wasn't an invitation.
+
+37
+00:04:07,916 --> 00:04:09,375
+Well, it looks like
+they sure know how
+
+38
+00:04:09,458 --> 00:04:11,666
+to manage a surprise attack.
+
+39
+00:04:11,750 --> 00:04:14,666
+And for pirates, these guys
+have a pretty good ship.
+
+40
+00:04:14,750 --> 00:04:16,708
+[MEIFON]
+Well, I'm glad they impress you.
+
+41
+00:04:16,791 --> 00:04:18,708
+They don't do a thing for me.
+
+42
+00:04:18,791 --> 00:04:21,833
+They want our attention.
+
+43
+00:04:21,916 --> 00:04:24,416
+Maybe they have unfinished
+business with <i>Angel Links</i>
+
+44
+00:04:24,500 --> 00:04:26,333
+or one of the crew.
+
+45
+00:04:26,416 --> 00:04:28,958
+Seems... personal.
+
+46
+00:04:29,041 --> 00:04:30,875
+Well, gee, Meifon.
+
+47
+00:04:30,958 --> 00:04:32,916
+I wonder which one of
+us could've possibly
+
+48
+00:04:33,000 --> 00:04:33,583
+picked a fight.
+
+49
+00:04:33,666 --> 00:04:34,708
+What do you mean?!
+
+50
+00:04:34,791 --> 00:04:37,375
+Well... it's just...
+
+51
+00:04:37,458 --> 00:04:40,625
+Never mind. We'll just find
+out when we ask them.
+
+52
+00:04:40,708 --> 00:04:43,375
+Aihara, why don't you
+send out a signal?
+
+53
+00:04:43,458 --> 00:04:44,666
+[AIHARA]
+Aye-aye.
+
+54
+00:04:47,625 --> 00:04:50,750
+This is Meifon Li,
+Commander of the <i>Angel Links</i> .
+
+55
+00:04:50,833 --> 00:04:52,458
+Would you please explain to me
+
+56
+00:04:52,541 --> 00:04:54,666
+why you dare to take
+pot-shots at us?!
+
+57
+00:04:54,750 --> 00:04:56,291
+If you don't cut it out,
+
+58
+00:04:56,375 --> 00:04:58,500
+we're going to chase
+your ship down
+
+59
+00:04:58,583 --> 00:05:01,208
+and blow it to smithereens!
+
+60
+00:05:01,291 --> 00:05:04,083
+[sighs] Just great...
+
+61
+00:05:07,375 --> 00:05:08,166
+[MEIFON]
+Huh?
+
+62
+00:05:08,250 --> 00:05:09,291
+A girl...
+
+63
+00:05:09,375 --> 00:05:10,958
+But where...?
+
+64
+00:05:11,041 --> 00:05:13,916
+You can't... You're the pirate?
+
+65
+00:05:14,000 --> 00:05:17,625
+I'm captain of the <i>Rainy</i> .
+I'm Jesia Garland.
+
+66
+00:05:17,708 --> 00:05:19,958
+Captain, will you
+kindly explain,
+
+67
+00:05:20,041 --> 00:05:22,250
+What is it that you
+want with <i>Angel Links</i> ?
+
+68
+00:05:22,333 --> 00:05:23,125
+[gasps]
+
+69
+00:05:23,208 --> 00:05:25,291
+Kosei Hida?
+
+70
+00:05:25,375 --> 00:05:27,125
+[KOSEI]
+Huh?
+
+71
+00:05:27,208 --> 00:05:29,750
+Uh. I wanted to...
+
+72
+00:05:32,541 --> 00:05:34,500
+...see you.
+
+73
+00:05:34,583 --> 00:05:36,291
+I wanted to see you again.
+
+74
+00:05:36,375 --> 00:05:37,666
+Huh?
+
+75
+00:05:37,750 --> 00:05:39,166
+And power ready now!
+
+76
+00:05:39,250 --> 00:05:39,791
+But wait!
+
+77
+00:05:39,875 --> 00:05:41,083
+And fire!
+
+78
+00:05:49,750 --> 00:05:50,791
+So how many hits?!
+
+79
+00:05:50,875 --> 00:05:52,375
+Well, uh... Hold on...
+
+80
+00:05:52,458 --> 00:05:55,958
+No way! It looks like the pirate
+ship has started to retreat now!
+
+81
+00:05:56,041 --> 00:05:57,625
+Can't be!
+
+82
+00:06:04,000 --> 00:06:06,333
+Kosei?
+
+83
+00:06:06,416 --> 00:06:08,208
+But what?
+
+84
+00:06:08,291 --> 00:06:09,208
+[ANNE]
+Did you hear?
+
+85
+00:06:09,291 --> 00:06:11,416
+[AIHARA]
+She wanted to see you.
+
+86
+00:06:16,541 --> 00:06:19,458
+Please, don't look
+at me that way.
+
+87
+00:06:19,541 --> 00:06:21,083
+[MEIFON]
+Don't tell me, Kosei,
+
+88
+00:06:21,166 --> 00:06:24,416
+that you actually had a pirate
+as an acquaintance.
+
+89
+00:06:24,500 --> 00:06:27,833
+That's not true. I've
+never seen her before.
+
+90
+00:06:27,916 --> 00:06:29,291
+Is that so?
+
+91
+00:06:29,375 --> 00:06:30,833
+Valeria!
+
+92
+00:06:30,916 --> 00:06:34,041
+Remember, we went to the Western
+Region for an investigation.
+
+93
+00:06:34,125 --> 00:06:36,583
+It was two weeks ago;
+you met her then.
+
+94
+00:06:36,666 --> 00:06:39,500
+[KOSEI]
+Huh? Hmm...
+
+95
+00:06:43,916 --> 00:06:45,875
+[DICE]
+How about it, Jesia?
+
+96
+00:06:45,958 --> 00:06:47,708
+Wanna come up to
+my room tonight?
+
+97
+00:06:47,791 --> 00:06:50,500
+I'll roll ya a few sevens.
+
+98
+00:06:50,583 --> 00:06:52,666
+[JESIA] No dice,
+Snake Eyes. Good-night.
+
+99
+00:06:52,750 --> 00:06:54,708
+[DICE]
+Your loss!
+
+100
+00:06:54,791 --> 00:06:55,750
+[JESIA gasps]
+
+101
+00:07:01,333 --> 00:07:02,500
+[JESIA]
+Huh?
+
+102
+00:07:05,708 --> 00:07:06,916
+Be careful.
+
+103
+00:07:07,000 --> 00:07:08,166
+Here.
+
+104
+00:07:38,875 --> 00:07:40,166
+[VALERIA]
+Love at first sight.
+
+105
+00:07:40,250 --> 00:07:41,916
+There is nothing between us.
+
+106
+00:07:42,000 --> 00:07:44,375
+All I did was give
+her my handkerchief!
+
+107
+00:07:44,458 --> 00:07:47,916
+She's a pirate girl.
+You treated her like a lady.
+
+108
+00:07:48,000 --> 00:07:49,458
+For the first time.
+
+109
+00:07:49,541 --> 00:07:51,208
+This is so totally romantic!
+
+110
+00:07:51,291 --> 00:07:54,166
+I think those beams just must
+be a show of her affection!
+
+111
+00:07:54,250 --> 00:07:58,083
+Oh, the forbidden love between
+a pirate and a pirate fighter!
+
+112
+00:07:58,166 --> 00:07:59,833
+[AIHARA, ANNE]
+Oooh!
+
+113
+00:07:59,916 --> 00:08:01,458
+Enough you two!
+
+114
+00:08:01,541 --> 00:08:03,375
+[MEIFON]
+This is ridiculous!
+
+115
+00:08:03,458 --> 00:08:06,125
+Kosei, as you very well
+know, our next assignment
+
+116
+00:08:06,208 --> 00:08:07,916
+is a rather important one,
+
+117
+00:08:08,000 --> 00:08:11,000
+so we can't waste our time
+on a love-sick pirate.
+
+118
+00:08:11,083 --> 00:08:12,750
+Before you get
+back on this ship,
+
+119
+00:08:12,833 --> 00:08:16,416
+you will deal with this
+stupid distraction!
+
+120
+00:08:16,500 --> 00:08:17,583
+[KOSEI]
+Huh?
+
+121
+00:08:17,666 --> 00:08:18,708
+How?
+
+122
+00:08:18,791 --> 00:08:21,208
+Kosei, give her what
+she wants for now.
+
+123
+00:08:21,291 --> 00:08:22,791
+Wine her, dine her, you know!
+
+124
+00:08:22,875 --> 00:08:24,208
+Come on!
+
+125
+00:08:24,291 --> 00:08:26,125
+Meifon, and what
+are you going to do
+
+126
+00:08:26,208 --> 00:08:27,708
+without your
+personal assistant?
+
+127
+00:08:27,791 --> 00:08:31,000
+Well, consider it a
+vacation without pay.
+
+128
+00:08:31,083 --> 00:08:32,083
+What?!
+
+129
+00:08:32,166 --> 00:08:33,666
+Wait a minute,
+if Kosei's not around,
+
+130
+00:08:33,750 --> 00:08:36,500
+who's going to handle the books
+and all of the payroll for us?
+
+131
+00:08:36,583 --> 00:08:37,416
+[AIHARA gasps]
+
+132
+00:08:37,500 --> 00:08:39,125
+My paycheck!
+
+133
+00:08:39,208 --> 00:08:42,666
+Look, nothing's decided yet.
+I'm not going to be gone long.
+
+134
+00:08:42,750 --> 00:08:46,000
+So does that mean now we have to
+bring the commander her tea?
+
+135
+00:08:51,625 --> 00:08:53,083
+[groans]
+
+136
+00:09:01,708 --> 00:09:04,916
+[DICE] Why did you retreat from
+<i>Angel Links</i> after shooting?
+
+137
+00:09:05,000 --> 00:09:07,375
+Was it because of
+that guy, Kosei?
+
+138
+00:09:07,458 --> 00:09:10,083
+Are you hot for that pansy?
+
+139
+00:09:10,166 --> 00:09:14,791
+Even your father said I could
+have his daughter, Jesia!
+
+140
+00:09:18,083 --> 00:09:19,458
+Dice, stay cool, and remember
+
+141
+00:09:19,541 --> 00:09:21,041
+that if the captain were
+to leave the ship
+
+142
+00:09:21,125 --> 00:09:23,125
+and not return for
+whatever reason,
+
+143
+00:09:23,208 --> 00:09:25,083
+then the crew would be
+forced to replace her
+
+144
+00:09:25,166 --> 00:09:26,916
+with another captain.
+
+145
+00:09:27,000 --> 00:09:30,666
+And the choice will come
+down to you or me.
+
+146
+00:09:37,500 --> 00:09:39,916
+[JESIA]
+This is torture.
+
+147
+00:09:51,166 --> 00:09:53,541
+[KOSEI]
+Meifon... I just... uh...
+
+148
+00:09:53,625 --> 00:09:55,125
+[MEIFON]
+Kosei, you can dump her later.
+
+149
+00:09:55,208 --> 00:09:57,166
+Just go on a date
+and get her to lie low
+
+150
+00:09:57,250 --> 00:09:59,041
+till we're finished
+our next job.
+
+151
+00:09:59,125 --> 00:10:00,125
+[KOSEI]
+Date?
+
+152
+00:10:01,916 --> 00:10:03,541
+Well, you could marry her.
+
+153
+00:10:03,625 --> 00:10:05,375
+Uh. Ma-Marriage?!
+
+154
+00:10:05,458 --> 00:10:06,083
+Bye!
+
+155
+00:10:06,166 --> 00:10:08,166
+Wait, what do you mean?
+
+156
+00:10:10,291 --> 00:10:11,208
+[sighs]
+
+157
+00:10:11,291 --> 00:10:12,375
+Oh, man.
+
+158
+00:10:12,458 --> 00:10:14,208
+At this rate, I'm going
+to be out of a job
+
+159
+00:10:14,291 --> 00:10:16,291
+at <i>Angel Links</i> soon.
+
+160
+00:10:16,375 --> 00:10:17,791
+[sighs]
+
+161
+00:10:21,958 --> 00:10:23,458
+[KOSEI]
+Women.
+
+162
+00:10:24,833 --> 00:10:26,750
+Date it is.
+
+163
+00:10:34,625 --> 00:10:38,708
+She may be just a girl,
+but she's still a pirate.
+
+164
+00:10:57,500 --> 00:10:59,541
+Ah, that felt good!
+
+165
+00:11:01,625 --> 00:11:02,625
+[MEIFON]
+Huh?
+
+166
+00:11:15,083 --> 00:11:16,833
+Gee, I wonder if he's
+going to cuff her
+
+167
+00:11:16,916 --> 00:11:18,291
+and hand her over to the police.
+
+168
+00:11:18,375 --> 00:11:20,541
+[MEIFON laughs]
+
+169
+00:11:23,125 --> 00:11:25,083
+Hey, what are you
+up to in there?
+
+170
+00:11:25,166 --> 00:11:28,208
+[MEIFON] I'm just gonna do
+a little under-cover work.
+
+171
+00:11:28,291 --> 00:11:29,791
+Recognize me?
+
+172
+00:11:29,875 --> 00:11:31,541
+But isn't that spying?
+
+173
+00:11:31,625 --> 00:11:34,833
+I'm... It's for...
+his own protection.
+
+174
+00:11:34,916 --> 00:11:36,833
+[AIHARA]
+Speaking of Cupid...
+
+175
+00:11:36,916 --> 00:11:39,208
+They're from Leon Lau.
+
+176
+00:11:39,291 --> 00:11:43,208
+Why, this is so big,
+it's almost obscene.
+
+177
+00:11:43,291 --> 00:11:46,958
+Why... does he send me flowers?
+
+178
+00:11:59,541 --> 00:12:02,000
+Oh. Stick them in the office.
+
+179
+00:12:02,083 --> 00:12:03,333
+[AIHARA]
+Huh?
+
+180
+00:12:03,416 --> 00:12:05,583
+Hey, they're your flowers!
+
+181
+00:12:05,666 --> 00:12:08,375
+You don't just stick them in
+the office, they came for you!
+
+182
+00:12:08,458 --> 00:12:09,875
+Don't you care?
+
+183
+00:12:21,750 --> 00:12:23,750
+[KOSEI]
+Have you seen this girl?
+
+184
+00:12:25,291 --> 00:12:27,291
+What are ya? Some kinda cop?
+
+185
+00:12:27,375 --> 00:12:31,250
+Well, not really.
+I'm just a friend of hers.
+
+186
+00:12:31,333 --> 00:12:33,833
+[CLADE] No doubt. I can
+tell by lookin' at ya.
+
+187
+00:12:33,916 --> 00:12:35,541
+You're too soft to be a cop.
+
+188
+00:12:35,625 --> 00:12:38,416
+[CLADE chuckles]
+
+189
+00:12:38,500 --> 00:12:39,583
+[KOSEI]
+Hm?
+
+190
+00:12:40,708 --> 00:12:42,291
+Just get me a Scotch.
+
+191
+00:12:42,375 --> 00:12:44,916
+[CLADE]
+Strong drink for a little man.
+
+192
+00:12:45,000 --> 00:12:47,708
+Jesia should be here soon.
+
+193
+00:12:47,791 --> 00:12:51,125
+This is her regular
+watering hole in Altile.
+
+194
+00:12:51,208 --> 00:12:53,583
+Hey. Speak of the devil.
+
+195
+00:13:05,333 --> 00:13:08,250
+Wait. Only when I tell you.
+
+196
+00:13:11,416 --> 00:13:14,750
+But I never expected you
+to come after me like this.
+
+197
+00:13:14,833 --> 00:13:18,208
+So what... do you want with me?
+
+198
+00:13:18,291 --> 00:13:20,458
+[KOSEI]
+I don't know.
+
+199
+00:13:32,958 --> 00:13:34,583
+Well...
+
+200
+00:13:34,666 --> 00:13:40,125
+You, uh... looking for a
+place where we can be...
+
+201
+00:13:40,208 --> 00:13:41,375
+...alone for a while?
+
+202
+00:13:41,458 --> 00:13:43,625
+Well, yeah.
+
+203
+00:13:43,708 --> 00:13:44,791
+[JESIA]
+This way.
+
+204
+00:13:50,125 --> 00:13:50,791
+[SALLY]
+Hi!
+
+205
+00:13:50,875 --> 00:13:53,000
+[KOSEI grunts]
+
+206
+00:13:53,083 --> 00:13:55,666
+So, Kosei.
+
+207
+00:13:55,750 --> 00:13:56,916
+[JESIA]
+Wha--?
+
+208
+00:13:57,000 --> 00:13:59,583
+Sally! I was going to
+call you! Honest! I was!
+
+209
+00:13:59,666 --> 00:14:01,208
+Cut the crap, Kosei.
+
+210
+00:14:01,291 --> 00:14:04,166
+I don't believe you
+for one single minute.
+
+211
+00:14:04,250 --> 00:14:05,458
+She's your new girlfriend?
+
+212
+00:14:05,541 --> 00:14:07,916
+No. Not really.
+
+213
+00:14:08,958 --> 00:14:10,375
+[SALLY]
+Hmm.
+
+214
+00:14:12,000 --> 00:14:13,750
+[KOSEI]
+Uhh...
+
+215
+00:14:13,833 --> 00:14:17,583
+What I like about you is
+that I can't hate you, Kosei.
+
+216
+00:14:17,666 --> 00:14:19,875
+[KOSEI]
+Uh. Thanks, I guess.
+
+217
+00:14:19,958 --> 00:14:21,333
+You know, you should get
+
+218
+00:14:21,416 --> 00:14:24,958
+your little space urchin
+some decent clothes.
+
+219
+00:14:25,041 --> 00:14:26,750
+Look how she's
+eyeing that dress.
+
+220
+00:14:26,833 --> 00:14:30,375
+That's not your
+style, is it, Jesia?
+
+221
+00:14:31,458 --> 00:14:33,125
+Maybe.
+
+222
+00:14:33,208 --> 00:14:35,791
+Yeah, I'd wear that.
+
+223
+00:14:35,875 --> 00:14:36,916
+[KOSEI]
+Huh?
+
+224
+00:14:42,083 --> 00:14:43,916
+[KOSEI]
+What am I doing?
+
+225
+00:14:45,000 --> 00:14:46,833
+[SALLY]
+Here she comes.
+
+226
+00:14:48,250 --> 00:14:50,375
+[SALLY]
+Look.
+
+227
+00:14:50,458 --> 00:14:51,833
+[gasps]
+
+228
+00:14:54,916 --> 00:14:58,666
+Is this okay?
+
+229
+00:14:58,750 --> 00:15:02,708
+It's beautiful, Jesia.
+Give it a twirl!
+
+230
+00:15:24,708 --> 00:15:26,250
+[IRIS]
+Kosei!
+
+231
+00:15:27,583 --> 00:15:31,291
+[IRIS]
+You're back!
+
+232
+00:15:31,375 --> 00:15:34,166
+So why haven't
+you called me? Hm?
+
+233
+00:15:34,250 --> 00:15:36,250
+Is this another new girlfriend?
+
+234
+00:15:36,333 --> 00:15:38,083
+Well... no, she's...
+
+235
+00:15:38,166 --> 00:15:38,833
+Jesia.
+
+236
+00:15:38,916 --> 00:15:40,500
+[IRIS]
+Oh.
+
+237
+00:15:40,583 --> 00:15:42,958
+Hey, will you come
+by the restaurant?
+
+238
+00:15:43,041 --> 00:15:44,708
+But... I...
+
+239
+00:15:44,791 --> 00:15:47,708
+[IRIS] Come on!
+And your girlfriend, too.
+
+240
+00:15:57,416 --> 00:15:58,583
+What's the matter?
+
+241
+00:15:58,666 --> 00:16:02,000
+Nothing. The way you eat
+reminds me of someone.
+
+242
+00:16:16,833 --> 00:16:18,375
+I'll buy this time, okay?
+
+243
+00:16:18,458 --> 00:16:19,500
+Huh?
+
+244
+00:16:24,416 --> 00:16:25,708
+[KOSEI]
+Oh...
+
+245
+00:16:35,083 --> 00:16:35,958
+Huh?
+
+246
+00:16:36,041 --> 00:16:37,333
+You're melting.
+
+247
+00:16:37,416 --> 00:16:38,666
+No!
+
+248
+00:16:38,750 --> 00:16:41,666
+That was a gift to you,
+so please keep it!
+
+249
+00:16:44,750 --> 00:16:47,125
+I don't... know what to do.
+
+250
+00:16:47,208 --> 00:16:48,333
+[KOSEI]
+Huh?
+
+251
+00:16:49,416 --> 00:16:51,666
+[JESIA]
+I guess it's all right, but...
+
+252
+00:16:52,875 --> 00:16:55,000
+I just don't know
+what to do with you!
+
+253
+00:16:55,083 --> 00:16:56,541
+I don't know how
+you feel about me,
+
+254
+00:16:56,625 --> 00:16:58,583
+and I've never even been
+with a man like you!
+
+255
+00:16:58,666 --> 00:17:00,458
+So should we go to a hotel?
+
+256
+00:17:00,541 --> 00:17:02,833
+Wh-What?
+
+257
+00:17:02,916 --> 00:17:06,833
+Oh, perfect. You must think...
+
+258
+00:17:06,916 --> 00:17:09,916
+I've shocked you now,
+haven't... haven't I?
+
+259
+00:17:13,625 --> 00:17:16,958
+Tell me why all of
+this so painful.
+
+260
+00:17:17,041 --> 00:17:19,583
+It's just... I love you.
+
+261
+00:17:26,333 --> 00:17:28,791
+[JESIA] A pirate falling
+in love with someone,
+
+262
+00:17:28,875 --> 00:17:30,750
+is that so strange?
+
+263
+00:17:35,833 --> 00:17:38,791
+Jesia. Not at all.
+
+264
+00:17:41,666 --> 00:17:44,375
+Harmless. Stupid crush.
+
+265
+00:17:52,625 --> 00:17:53,625
+[MEIFON]
+Huh?
+
+266
+00:18:17,791 --> 00:18:19,958
+[DICE]
+If I can't have you, Jesia,
+
+267
+00:18:20,041 --> 00:18:22,583
+then at least I'll
+have your ship!
+
+268
+00:18:25,250 --> 00:18:26,958
+Kosei, look out!
+
+269
+00:18:30,916 --> 00:18:32,041
+[JESIA]
+Dice!
+
+270
+00:18:37,208 --> 00:18:39,083
+[MEIFON yells]
+
+271
+00:18:40,375 --> 00:18:42,625
+[KOSEI]
+Meifon! Where'd you come from?
+
+272
+00:18:42,708 --> 00:18:44,166
+[MEIFON]
+Well... I just...
+
+273
+00:18:44,250 --> 00:18:46,458
+[KOSEI]
+You were following us around.
+
+274
+00:18:46,541 --> 00:18:48,625
+[MEIFON]
+Please, let me explain.
+
+275
+00:18:54,666 --> 00:18:57,125
+[JESIA]
+Ko-Kosei...
+
+276
+00:19:25,083 --> 00:19:28,041
+[KOSEI]
+Jesia!
+
+277
+00:19:30,666 --> 00:19:34,000
+Jesia. Hold on now. Jesia!
+
+278
+00:19:47,916 --> 00:19:49,458
+Kosei...
+
+279
+00:20:02,833 --> 00:20:06,375
+Jesia!
+
+280
+00:20:06,458 --> 00:20:11,416
+[KOSEI crying]
+
+281
+00:20:22,041 --> 00:20:23,125
+[chuckles]
+
+282
+00:20:23,208 --> 00:20:26,083
+That tragic little love
+triangle...
+
+283
+00:20:26,166 --> 00:20:29,541
+...was really quite
+advantageous for my career.
+
+284
+00:20:29,625 --> 00:20:30,666
+What's that?
+
+285
+00:20:38,250 --> 00:20:40,666
+I'll never... forgive you!
+
+286
+00:20:40,750 --> 00:20:42,166
+Taffei!
+
+287
+00:20:48,291 --> 00:20:50,041
+I'll kill off the witness, too!
+
+288
+00:20:50,125 --> 00:20:52,333
+[laughing]
+
+289
+00:20:55,166 --> 00:21:00,125
+[yelling]
+
+290
+00:21:10,375 --> 00:21:11,583
+Come here!
+
+291
+00:21:26,125 --> 00:21:31,125
+[laughing]
+
+292
+00:21:33,458 --> 00:21:34,708
+[JJ]
+Die!
+
+293
+00:22:07,833 --> 00:22:10,750
+[JESIA] A pirate falling
+in love with someone,
+
+294
+00:22:10,833 --> 00:22:13,166
+is that so strange?
+
+295
+00:22:13,250 --> 00:22:16,125
+Not at all.
+
+296
+00:22:16,208 --> 00:22:19,541
+Isn't that right, Meifon?
+
+297
+00:23:47,875 --> 00:23:52,500
+[MEIFON] Until next time on
+<i>Space Guardian: Angel Links</i> ,
+
+298
+00:23:52,583 --> 00:23:54,125
+"Crossroads."
+

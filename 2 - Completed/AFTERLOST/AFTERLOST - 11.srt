@@ -1,0 +1,1559 @@
+﻿1
+00:00:24,291 --> 00:00:25,458
+[TAKUYA]
+That woman.
+
+2
+00:00:25,541 --> 00:00:26,625
+[inaudible]
+
+3
+00:00:26,708 --> 00:00:28,083
+She's from Lacuna.
+
+4
+00:00:29,208 --> 00:00:31,125
+[YUKI]
+Are they heading to Lost, too?
+
+5
+00:00:36,208 --> 00:00:37,250
+[TAKUYA]
+Let's hurry.
+
+6
+00:00:37,333 --> 00:00:38,250
+[YUKI]
+Yeah.
+
+7
+00:00:38,333 --> 00:00:39,458
+[motor scooter engine revving]
+
+8
+00:02:17,875 --> 00:02:19,458
+[YUMIKO]
+That's the antenna, huh?
+
+9
+00:02:19,541 --> 00:02:21,291
+[KOUTA]
+This is crazy.
+
+10
+00:02:23,416 --> 00:02:24,833
+[EIJI]
+In order for Takuya and Yuki
+
+11
+00:02:24,916 --> 00:02:26,750
+to maintain their sanity
+within Lost,
+
+12
+00:02:26,833 --> 00:02:29,000
+we'll have to
+continually call out to them,
+
+13
+00:02:29,083 --> 00:02:30,750
+without a single pause.
+
+14
+00:02:30,833 --> 00:02:32,916
+Okay, but, how?
+
+15
+00:02:33,000 --> 00:02:36,250
+Lacuna is equipped to do it.
+We'll take advantage of that.
+
+16
+00:02:36,333 --> 00:02:37,791
+[gasps]
+
+17
+00:02:37,875 --> 00:02:39,458
+[EIJI] We're going to have
+to hack into their system
+
+18
+00:02:39,541 --> 00:02:40,958
+and use their antenna remotely.
+
+19
+00:02:41,041 --> 00:02:43,458
+[KIKYO] But in order to do that,
+we'll have to get in
+
+20
+00:02:43,541 --> 00:02:45,166
+and take over their server room.
+
+21
+00:02:46,458 --> 00:02:49,458
+♪
+
+22
+00:02:49,541 --> 00:02:50,916
+We have intruders.
+
+23
+00:02:53,416 --> 00:02:54,791
+[BOTH gasp]
+
+24
+00:02:56,250 --> 00:02:57,125
+[grunts]
+
+25
+00:03:01,708 --> 00:03:03,500
+-Go ahead.
+-[YUJI] Hurry!
+
+26
+00:03:06,541 --> 00:03:09,541
+♪
+
+27
+00:03:09,625 --> 00:03:11,458
+-[rattles]
+-[KOUTA grunts]
+
+28
+00:03:16,541 --> 00:03:18,083
+[YUMIKO grunts]
+
+29
+00:03:25,083 --> 00:03:26,250
+[computer beeps]
+
+30
+00:03:26,333 --> 00:03:28,041
+[KOUTA on computer]
+Okay on this side.
+
+31
+00:03:28,125 --> 00:03:30,083
+[YUMIKO on computer]
+Geek, we're all set.
+
+32
+00:03:30,166 --> 00:03:31,958
+Roger that.
+
+33
+00:03:32,041 --> 00:03:35,500
+This is cool. I haven't gotten
+to go all out in a while.
+
+34
+00:03:39,458 --> 00:03:40,416
+[gasps]
+
+35
+00:03:45,708 --> 00:03:46,833
+[TAKUYA]
+Shit.
+
+36
+00:03:48,416 --> 00:03:50,125
+Are they predicting
+our movements?
+
+37
+00:03:50,208 --> 00:03:51,708
+That's what it seems like.
+
+38
+00:03:53,875 --> 00:03:55,166
+[TAKUYA grunts]
+
+39
+00:03:59,416 --> 00:04:00,750
+[BOTH gasp]
+
+40
+00:04:04,500 --> 00:04:05,875
+[TAKUYA]
+You.
+
+41
+00:04:22,250 --> 00:04:23,416
+Takuya.
+
+42
+00:04:23,500 --> 00:04:24,750
+Yoshiaki.
+
+43
+00:04:25,916 --> 00:04:27,541
+You guys havin' a party?
+
+44
+00:04:27,625 --> 00:04:29,458
+Hey, how's everyone doing?
+
+45
+00:04:29,541 --> 00:04:31,083
+[scoffs]
+
+46
+00:04:32,375 --> 00:04:34,208
+What are you doing here?
+
+47
+00:04:36,041 --> 00:04:37,083
+[YOSHIAKI]
+Take these.
+
+48
+00:04:40,625 --> 00:04:42,333
+You should be able
+to stay connected to us
+
+49
+00:04:42,416 --> 00:04:43,750
+from Lost using those.
+
+50
+00:04:45,250 --> 00:04:48,500
+Geek and the gang are working
+on it, making preparations.
+
+51
+00:04:48,583 --> 00:04:49,875
+[YUKI]
+Huh?
+
+52
+00:04:49,958 --> 00:04:52,458
+[tires screeching in distance]
+
+53
+00:04:52,541 --> 00:04:53,916
+[JACK]
+Here they come.
+
+54
+00:04:54,000 --> 00:04:56,583
+Hey, just leave
+the rest to us, okay?
+
+55
+00:04:57,583 --> 00:05:02,333
+♪
+
+56
+00:05:02,416 --> 00:05:05,041
+[ALL yelling]
+
+57
+00:05:09,000 --> 00:05:10,208
+[TAKUYA]
+Here we go.
+
+58
+00:05:15,208 --> 00:05:17,750
+Lost is just up ahead.
+We'll be there soon.
+
+59
+00:05:17,833 --> 00:05:19,041
+Prepare yourself.
+
+60
+00:05:20,375 --> 00:05:22,666
+-[TAIYO] Suzuna.
+-What is it?
+
+61
+00:05:22,750 --> 00:05:24,375
+[TAIYO]
+Thank you for your work.
+
+62
+00:05:24,458 --> 00:05:26,041
+[SUZUNA]
+Huh?
+
+63
+00:05:26,125 --> 00:05:28,708
+[TAIYO] I'm very appreciative
+for all you've done.
+
+64
+00:05:30,083 --> 00:05:31,583
+[SUZUNA]
+I don't deserve any praise.
+
+65
+00:05:31,666 --> 00:05:33,250
+I was just doing my job.
+
+66
+00:05:38,041 --> 00:05:39,500
+[KEIGO and YUJI panting]
+
+67
+00:05:52,500 --> 00:05:53,833
+There's no end.
+
+68
+00:06:08,583 --> 00:06:10,000
+[BOTH gasp]
+
+69
+00:06:11,166 --> 00:06:13,875
+Looks like It's been a few hours
+since he was shot.
+
+70
+00:06:13,958 --> 00:06:16,166
+Man, what the hell
+is happening around here?
+
+71
+00:06:19,250 --> 00:06:21,125
+[beeps]
+
+72
+00:06:21,208 --> 00:06:22,375
+[MEN gasp]
+
+73
+00:06:22,458 --> 00:06:24,125
+[BOTH groan]
+
+74
+00:06:26,958 --> 00:06:29,083
+[MAN over radio]
+Come in. What's happened?
+
+75
+00:06:29,166 --> 00:06:30,291
+Please respond.
+
+76
+00:06:32,291 --> 00:06:33,708
+We're dead if we don't hurry.
+
+77
+00:06:33,791 --> 00:06:35,791
+You took the words
+right outta my mouth.
+
+78
+00:06:35,875 --> 00:06:38,083
+What's taking Geek so long?
+
+79
+00:06:38,166 --> 00:06:39,875
+Keigo, are you there?
+
+80
+00:06:39,958 --> 00:06:42,916
+Shut down the power
+to the whole facility.
+
+81
+00:06:43,000 --> 00:06:44,833
+But then won't
+the server room go down, too?
+
+82
+00:06:44,916 --> 00:06:46,333
+Look, just do it!
+
+83
+00:06:46,416 --> 00:06:49,541
+It seems Taiyo
+is heading towards Lost.
+
+84
+00:06:49,625 --> 00:06:51,416
+Whatever he's doing,
+we can't let him get in
+
+85
+00:06:51,500 --> 00:06:52,958
+Takuya and Yuki's way.
+
+86
+00:06:53,041 --> 00:06:55,333
+Hey, Geek,
+how's the decryption coming?
+
+87
+00:06:55,416 --> 00:06:57,708
+I'm working on it.
+
+88
+00:06:57,791 --> 00:06:58,916
+It's just...
+
+89
+00:06:59,000 --> 00:07:02,208
+This load is going to
+drive me insane!
+
+90
+00:07:07,291 --> 00:07:09,458
+You really plan to go
+in there on your own?
+
+91
+00:07:11,291 --> 00:07:14,208
+[TAIYO] You'll end up getting
+involved if you stay here.
+
+92
+00:07:14,291 --> 00:07:16,708
+Whether you stay
+or immediately retreat
+
+93
+00:07:16,791 --> 00:07:18,375
+is completely up to you.
+
+94
+00:07:28,333 --> 00:07:31,291
+♪
+
+95
+00:07:56,958 --> 00:08:00,125
+[SUZUNA] This is revenge for
+all of the countless innocents.
+
+96
+00:08:01,875 --> 00:08:03,666
+Those whose lives you stole.
+
+97
+00:08:09,166 --> 00:08:11,958
+[MEN grunt]
+
+98
+00:08:12,041 --> 00:08:13,083
+[MAN]
+Huh?
+
+99
+00:08:13,166 --> 00:08:14,750
+[beeping]
+
+100
+00:08:16,541 --> 00:08:18,041
+There's a backup?
+
+101
+00:08:18,125 --> 00:08:20,458
+This company is
+capable of anything,
+
+102
+00:08:20,541 --> 00:08:23,208
+but only as long as
+the servers are working.
+
+103
+00:08:23,291 --> 00:08:24,625
+[pounding on door]
+
+104
+00:08:24,708 --> 00:08:26,541
+Now the doors won't open.
+
+105
+00:08:26,625 --> 00:08:29,083
+It seems we've got
+ourselves an actual siege.
+
+106
+00:08:39,666 --> 00:08:41,125
+[BOTH gasp]
+
+107
+00:08:42,541 --> 00:08:45,333
+♪
+
+108
+00:08:48,583 --> 00:08:51,333
+[gasping weakly]
+
+109
+00:08:57,541 --> 00:08:58,666
+[gasps]
+
+110
+00:08:58,750 --> 00:09:00,291
+[SUZUNA groaning]
+
+111
+00:09:00,375 --> 00:09:03,791
+[SUZUNA weakly]
+Taiyo... has entered Lost.
+
+112
+00:09:06,916 --> 00:09:07,916
+Hang in there, okay?
+
+113
+00:09:09,708 --> 00:09:12,416
+[labored breathing]
+
+114
+00:09:13,583 --> 00:09:14,625
+[SUZUNA]
+Yuki...
+
+115
+00:09:15,958 --> 00:09:17,416
+I know I...
+
+116
+00:09:17,500 --> 00:09:21,291
+I've put you through
+an unforgivable amount of pain.
+
+117
+00:09:23,708 --> 00:09:25,291
+[gasps]
+
+118
+00:09:25,375 --> 00:09:26,666
+Suzuna.
+
+119
+00:09:28,125 --> 00:09:30,166
+It's okay.
+
+120
+00:09:30,250 --> 00:09:31,541
+I deserve it.
+
+121
+00:09:33,000 --> 00:09:36,541
+Go. Please... hurry.
+
+122
+00:09:43,000 --> 00:09:46,041
+[TAKUYA] You even shot your
+own subordinate, you bastard.
+
+123
+00:09:48,083 --> 00:09:48,916
+[GEEK gasps]
+
+124
+00:09:49,000 --> 00:09:50,708
+Shit, come on!
+
+125
+00:09:50,791 --> 00:09:52,666
+-[steady beep on computer]
+-[KANA on computer] Yoo-hoo!
+
+126
+00:09:52,750 --> 00:09:55,166
+-[GEEK gasps] Kana?
+-[laughs]
+
+127
+00:09:56,291 --> 00:09:57,833
+[KANA]
+Guess where I am right now?
+
+128
+00:09:57,916 --> 00:09:59,000
+The academy borough.
+
+129
+00:09:59,083 --> 00:10:01,250
+[GEEK]
+Huh? Who cares?
+
+130
+00:10:01,333 --> 00:10:03,000
+[KANA] The tech here
+is really state of the art.
+
+131
+00:10:03,083 --> 00:10:05,208
+[GEEK] So what?
+Are you kidding me right now?
+
+132
+00:10:05,291 --> 00:10:06,458
+I'm a little busy!
+
+133
+00:10:06,541 --> 00:10:07,666
+[KANA]
+Well, I just connected you
+
+134
+00:10:07,750 --> 00:10:09,541
+to the university's
+supercomputer.
+
+135
+00:10:09,625 --> 00:10:11,875
+You did what?
+
+136
+00:10:11,958 --> 00:10:14,083
+Oh! You're a freakin' genius!
+
+137
+00:10:14,166 --> 00:10:16,291
+Oh, stop. You got the skills,
+
+138
+00:10:16,375 --> 00:10:18,333
+you're just bad
+at following through.
+
+139
+00:10:18,416 --> 00:10:21,083
+You gotta be a little craftier.
+
+140
+00:10:21,166 --> 00:10:24,083
+All right, let's, do this!
+
+141
+00:10:24,166 --> 00:10:26,166
+-Hmm!
+-[ALL gasp]
+
+142
+00:10:26,250 --> 00:10:30,208
+[GEEK] The parallel processing
+ramped up the decryption speed!
+
+143
+00:10:30,291 --> 00:10:32,833
+Thanks so much!
+This is gonna do it.
+
+144
+00:10:32,916 --> 00:10:34,791
+♪
+
+145
+00:10:35,958 --> 00:10:37,416
+[GEEK over radio]
+Takuya. Yuki.
+
+146
+00:10:37,500 --> 00:10:38,958
+Yeah, we're here.
+
+147
+00:10:39,041 --> 00:10:40,458
+[GEEK]
+Sorry for the wait.
+
+148
+00:10:40,541 --> 00:10:42,583
+[TAKUYA]
+We're about to head into Lost.
+
+149
+00:10:42,666 --> 00:10:44,125
+Countin' on you, buddy.
+
+150
+00:10:44,208 --> 00:10:45,416
+Got it.
+
+151
+00:10:45,500 --> 00:10:47,833
+And, hey, both of you...
+
+152
+00:10:52,041 --> 00:10:53,875
+get back alive.
+
+153
+00:10:53,958 --> 00:10:55,375
+We'll be waiting for you.
+
+154
+00:10:58,708 --> 00:11:00,458
+[YOSHIAKI]
+Those two will find a way.
+
+155
+00:11:00,541 --> 00:11:01,583
+They will.
+
+156
+00:11:01,666 --> 00:11:03,583
+♪
+
+157
+00:11:04,666 --> 00:11:09,375
+[ALL]
+Go!
+
+158
+00:11:18,958 --> 00:11:20,916
+[YUKI groaning]
+
+159
+00:11:23,375 --> 00:11:25,500
+[monitor beeping]
+
+160
+00:11:25,583 --> 00:11:27,750
+[rattling]
+
+161
+00:11:27,833 --> 00:11:29,208
+[beeping rapidly]
+
+162
+00:11:32,916 --> 00:11:34,375
+[machine powers on]
+
+163
+00:11:39,166 --> 00:11:41,583
+♪
+
+164
+00:11:44,166 --> 00:11:45,833
+[YUA]
+No, I won't do it!
+
+165
+00:11:50,250 --> 00:11:52,375
+I'm not going, you understand?
+
+166
+00:11:53,750 --> 00:11:55,208
+I do, yeah.
+
+167
+00:11:56,666 --> 00:11:59,541
+I know I have no right
+to act so high and mighty.
+
+168
+00:12:04,125 --> 00:12:06,958
+[RYOKO] You know, my father
+was also caught in the Lost.
+
+169
+00:12:08,333 --> 00:12:11,375
+Day after day,
+it was all work, work, work.
+
+170
+00:12:11,458 --> 00:12:13,291
+'Course, I knew being
+a police officer meant
+
+171
+00:12:13,375 --> 00:12:15,416
+he'd be busy all the time.
+
+172
+00:12:15,500 --> 00:12:17,916
+But I missed him,
+and I was lonely.
+
+173
+00:12:18,000 --> 00:12:20,833
+It's been three years
+since the Lost,
+
+174
+00:12:20,916 --> 00:12:23,041
+and I know there are a lot
+of people who've given up.
+
+175
+00:12:24,958 --> 00:12:26,333
+But not me.
+
+176
+00:12:26,416 --> 00:12:28,500
+I will never give up.
+
+177
+00:12:28,583 --> 00:12:31,666
+I believe that my father
+is still alive somewhere.
+
+178
+00:12:34,041 --> 00:12:35,916
+[YUKI]
+Everyone disappeared.
+
+179
+00:12:37,333 --> 00:12:39,041
+That's just reality.
+
+180
+00:12:40,416 --> 00:12:42,916
+And I'm so tired now.
+
+181
+00:12:44,375 --> 00:12:45,750
+He really survived?
+
+182
+00:12:45,833 --> 00:12:48,416
+[YUMIKO] If you continue
+to head towards Lost,
+
+183
+00:12:48,500 --> 00:12:50,500
+he's going to keep on
+appearing like that.
+
+184
+00:12:50,583 --> 00:12:52,000
+Do you understand?
+
+185
+00:12:52,083 --> 00:12:54,041
+It means you'll have to fight
+your little brother.
+
+186
+00:12:54,125 --> 00:12:55,625
+[YUKI gasps]
+
+187
+00:12:55,708 --> 00:12:57,833
+Are you prepared
+to do that again?
+
+188
+00:12:57,916 --> 00:12:59,041
+Because if you're not,
+
+189
+00:12:59,125 --> 00:13:01,958
+then please leave Takuya
+out of this.
+
+190
+00:13:02,041 --> 00:13:03,541
+[YUKI]
+That wasn't him.
+
+191
+00:13:03,625 --> 00:13:05,458
+That wasn't my brother.
+
+192
+00:13:06,750 --> 00:13:09,000
+I'm sick of this.
+
+193
+00:13:09,083 --> 00:13:11,375
+I don't care what happens.
+
+194
+00:13:11,458 --> 00:13:16,291
+I don't care about my father,
+or my brother, or even Takuya.
+
+195
+00:13:16,375 --> 00:13:18,416
+I can't care!
+
+196
+00:13:18,500 --> 00:13:19,666
+[KOUTA groans]
+
+197
+00:13:19,750 --> 00:13:21,916
+[distorted]
+All I want is to rest!
+
+198
+00:13:22,000 --> 00:13:23,833
+-Oh, no.
+-You okay?
+
+199
+00:13:23,916 --> 00:13:26,208
+Yuki, hey, listen to me.
+
+200
+00:13:28,208 --> 00:13:30,083
+You can do this.
+
+201
+00:13:30,166 --> 00:13:32,458
+You're one of
+the strongest people I know.
+
+202
+00:13:36,666 --> 00:13:38,791
+[TAKUYA]
+Hold on, you hear me?
+
+203
+00:13:40,916 --> 00:13:43,291
+[static]
+
+204
+00:13:43,375 --> 00:13:45,750
+My head feels like
+it's gonna split.
+
+205
+00:13:47,291 --> 00:13:48,291
+Damn it.
+
+206
+00:13:50,750 --> 00:13:51,916
+[groans softly]
+
+207
+00:13:59,375 --> 00:14:00,375
+Kouta.
+
+208
+00:14:05,916 --> 00:14:07,833
+-[coughing]
+-[footsteps approaching]
+
+209
+00:14:09,916 --> 00:14:12,083
+[YUKI gasps in fear]
+
+210
+00:14:12,166 --> 00:14:13,250
+[gasps]
+
+211
+00:14:19,041 --> 00:14:20,000
+[groans sharply]
+
+212
+00:14:23,166 --> 00:14:24,625
+[grunting]
+
+213
+00:14:24,708 --> 00:14:25,625
+Stop it.
+
+214
+00:14:30,375 --> 00:14:33,708
+[HORNET]
+I can't. This is my job.
+
+215
+00:14:33,791 --> 00:14:34,875
+[grunts]
+
+216
+00:14:34,958 --> 00:14:37,958
+[groaning]
+
+217
+00:14:38,041 --> 00:14:40,375
+I heard somewhere
+you're a courier.
+
+218
+00:14:40,458 --> 00:14:44,291
+So, I kill, and you deliver.
+
+219
+00:14:44,375 --> 00:14:46,041
+It's all the same.
+
+220
+00:14:46,125 --> 00:14:48,208
+How am I different?
+
+221
+00:14:48,291 --> 00:14:50,208
+We're just cogs in a machine.
+
+222
+00:14:50,291 --> 00:14:52,666
+Hapless puppets of fate.
+
+223
+00:14:52,750 --> 00:14:56,541
+You and me, in the end,
+we can do nothing
+
+224
+00:14:56,625 --> 00:14:58,166
+even if we wanted to.
+
+225
+00:15:00,791 --> 00:15:01,583
+[groans]
+
+226
+00:15:01,666 --> 00:15:03,375
+[gasps]
+
+227
+00:15:03,458 --> 00:15:04,916
+[YUMIKO]
+Listen to me.
+
+228
+00:15:06,250 --> 00:15:07,875
+Please don't go back to Lost.
+
+229
+00:15:07,958 --> 00:15:09,416
+Stay away from there.
+
+230
+00:15:09,500 --> 00:15:11,958
+I couldn't take it.
+
+231
+00:15:12,041 --> 00:15:14,458
+I don't want to see you
+get hurt again.
+
+232
+00:15:14,541 --> 00:15:17,166
+You might not even come out
+of there alive next time.
+
+233
+00:15:18,250 --> 00:15:21,125
+[TAKUYA] I don't wanna live
+with regrets again.
+
+234
+00:15:21,208 --> 00:15:24,166
+Not like last time. Not again.
+
+235
+00:15:27,291 --> 00:15:29,208
+What do you mean,
+"the investigation's closed"?
+
+236
+00:15:29,291 --> 00:15:30,916
+Just exactly what I said.
+
+237
+00:15:31,000 --> 00:15:33,625
+It's no longer necessary
+to have you at the academy.
+
+238
+00:15:33,708 --> 00:15:34,833
+Why not?
+
+239
+00:15:34,916 --> 00:15:36,666
+[KAIBARA]
+It's already been decided.
+
+240
+00:15:36,750 --> 00:15:38,208
+I can't accept this.
+
+241
+00:15:38,291 --> 00:15:40,083
+Not when I'm so close
+to the truth.
+
+242
+00:15:42,750 --> 00:15:44,666
+[KAIBARA]
+Remember something, Takuya.
+
+243
+00:15:44,750 --> 00:15:47,208
+We aren't the police, okay?
+
+244
+00:15:47,291 --> 00:15:48,916
+We're no heroes of justice.
+
+245
+00:15:49,000 --> 00:15:50,625
+[door closes]
+
+246
+00:15:50,708 --> 00:15:52,000
+Mr. Kaibara, wait!
+
+247
+00:15:55,291 --> 00:15:56,625
+[HINAKO]
+Look at what we got.
+
+248
+00:15:56,708 --> 00:15:59,375
+Someone gave
+the school circus tickets.
+
+249
+00:15:59,458 --> 00:16:01,583
+Would you like
+to come with us?
+
+250
+00:16:01,666 --> 00:16:03,916
+♪
+
+251
+00:16:12,916 --> 00:16:16,541
+[TAKUYA] This is the past,
+and I can't change the past.
+
+252
+00:16:18,916 --> 00:16:21,583
+Does that mean I'm supposed to
+just let people die again?
+
+253
+00:16:21,666 --> 00:16:23,250
+[sighs]
+
+254
+00:16:23,333 --> 00:16:25,083
+If that's true...
+
+255
+00:16:25,166 --> 00:16:28,166
+then I think it's better
+if I go, too.
+
+256
+00:16:28,250 --> 00:16:29,625
+No regrets.
+
+257
+00:16:29,708 --> 00:16:30,791
+Not this time.
+
+258
+00:16:30,875 --> 00:16:33,791
+Yeah, I'll go.
+
+259
+00:16:34,875 --> 00:16:36,583
+No, you can't, Takuya.
+
+260
+00:16:36,666 --> 00:16:37,875
+Takuya!
+
+261
+00:16:37,958 --> 00:16:39,500
+-[electrical humming]
+-The white noise.
+
+262
+00:16:40,958 --> 00:16:43,750
+It's very possible they aren't
+able to hear us anymore.
+
+263
+00:16:44,833 --> 00:16:47,416
+[GEEK]
+Takuya! Don't do this.
+
+264
+00:16:47,500 --> 00:16:49,625
+You hear me?
+
+265
+00:16:52,458 --> 00:16:55,375
+Takuya!
+
+266
+00:16:55,458 --> 00:16:57,166
+Yuki!
+
+267
+00:16:57,250 --> 00:16:59,916
+♪
+
+268
+00:17:35,208 --> 00:17:37,375
+I know you're here, Daichi.
+
+269
+00:17:45,916 --> 00:17:49,333
+Believe me, as much as I'd like
+to reminisce about the past,
+
+270
+00:17:49,416 --> 00:17:51,833
+I'm afraid I don't have
+the time today.
+
+271
+00:17:53,000 --> 00:17:55,750
+First, I have to
+erase you completely.
+
+272
+00:17:55,833 --> 00:17:58,791
+Then, I must finish the portal.
+
+273
+00:17:58,875 --> 00:18:01,791
+[GEEK]
+Answer me, buddy. Come on.
+
+274
+00:18:01,875 --> 00:18:06,166
+[EIJI] Listen, all we can do
+is trust in their bond now.
+
+275
+00:18:06,250 --> 00:18:08,041
+[KIKYO] As long as they keep
+supporting each other,
+
+276
+00:18:08,125 --> 00:18:10,333
+their memories will stay intact.
+
+277
+00:18:10,416 --> 00:18:12,500
+If one of them falters, then...
+
+278
+00:18:17,958 --> 00:18:19,541
+[YUKI]
+Oh, Takuya.
+
+279
+00:18:19,625 --> 00:18:21,041
+Are you okay?
+
+280
+00:18:21,125 --> 00:18:23,041
+[groans weakly]
+
+281
+00:18:23,125 --> 00:18:24,500
+[GEEK]
+Takuya!
+
+282
+00:18:24,583 --> 00:18:27,000
+Oh, hey, Geek.
+
+283
+00:18:27,083 --> 00:18:28,791
+Well, let's go.
+
+284
+00:18:28,875 --> 00:18:30,333
+[GEEK]
+Don't give me that.
+
+285
+00:18:30,416 --> 00:18:32,416
+Hold on. Are you okay?
+
+286
+00:18:32,500 --> 00:18:33,708
+[TAKUYA]
+No prob.
+
+287
+00:18:33,791 --> 00:18:35,791
+[GEEK]
+You're nuts. Of course there is.
+
+288
+00:18:37,333 --> 00:18:39,291
+[TAKUYA]
+Who was that girl?
+
+289
+00:18:39,375 --> 00:18:41,291
+[GEEK]
+How would I know?
+
+290
+00:18:41,375 --> 00:18:42,666
+[YUKI gasps softly]
+
+291
+00:18:42,750 --> 00:18:45,250
+♪
+
+292
+00:18:45,333 --> 00:18:47,916
+[motor scooter approaching]
+
+293
+00:19:00,625 --> 00:19:02,958
+[TAKUYA]
+So tired.
+
+294
+00:19:03,041 --> 00:19:05,375
+My whole body hurts.
+
+295
+00:19:05,458 --> 00:19:08,416
+What... What was I doing again?
+
+296
+00:19:10,333 --> 00:19:13,500
+Well, who cares?
+
+297
+00:19:13,583 --> 00:19:15,416
+What does it matter?
+
+298
+00:19:15,500 --> 00:19:17,958
+It's not like
+I can do anything, anyway.
+
+299
+00:19:21,083 --> 00:19:25,916
+[YUKI] Hey, what's your idea
+of a normal life, Takuya?
+
+300
+00:19:27,208 --> 00:19:30,083
+[TAKUYA] Having a place to stay,
+a place to work,
+
+301
+00:19:30,166 --> 00:19:32,625
+and some friends to be with.
+
+302
+00:19:32,708 --> 00:19:34,041
+[YUKI]
+That sounds nice.
+
+303
+00:19:35,416 --> 00:19:37,041
+[TAKUYA] Normal is
+the best kind of happiness.
+
+304
+00:19:38,208 --> 00:19:40,375
+I agree. It sounds great.
+
+305
+00:19:41,708 --> 00:19:42,875
+Once everything is over,
+
+306
+00:19:42,958 --> 00:19:45,333
+I hope I'll be able
+to have that.
+
+307
+00:19:45,416 --> 00:19:46,833
+[TAKUYA]
+Who is this girl?
+
+308
+00:19:46,916 --> 00:19:50,208
+[YUKI] I wonder
+what's the best place to live.
+
+309
+00:19:50,291 --> 00:19:52,666
+I'd like a place
+with a cool view.
+
+310
+00:19:52,750 --> 00:19:54,708
+[YUKI]
+A house beside the sea.
+
+311
+00:19:54,791 --> 00:19:56,708
+I think I'd like a cat, too.
+
+312
+00:19:59,125 --> 00:20:00,791
+[TAKUYA]
+A big window would be good.
+
+313
+00:20:00,875 --> 00:20:02,375
+The cat would love it.
+
+314
+00:20:02,458 --> 00:20:05,583
+[YUKI] Wonder what color
+the curtains should be.
+
+315
+00:20:05,666 --> 00:20:07,666
+-[TAKUYA] Blue's nice.
+-[YUKI] What?
+
+316
+00:20:07,750 --> 00:20:12,291
+Come on, a blue sea
+behind blue curtains? Huh?
+
+317
+00:20:12,375 --> 00:20:13,375
+Who are you?
+
+318
+00:20:15,791 --> 00:20:16,958
+[TAKUYA]
+Ah, good point.
+
+319
+00:20:17,041 --> 00:20:18,166
+Green, then.
+
+320
+00:20:20,041 --> 00:20:23,125
+[YUKI]
+Yeah. I like the sound of that.
+
+321
+00:20:23,208 --> 00:20:25,250
+And I guess
+the furniture should match.
+
+322
+00:20:26,958 --> 00:20:29,333
+[TAKUYA] I'll come visit
+from time to time.
+
+323
+00:20:29,416 --> 00:20:30,916
+[YUKI]
+Yes, and I'll make dinner.
+
+324
+00:20:32,083 --> 00:20:34,375
+[TAKUYA] Now that I think of it,
+I am pretty hungry.
+
+325
+00:20:34,458 --> 00:20:36,416
+[YUKI] No way,
+what're you talking about?
+
+326
+00:20:36,500 --> 00:20:38,500
+It has to be white rice
+and miso soup.
+
+327
+00:20:38,583 --> 00:20:40,250
+[TAKUYA]
+Ah, a traditionalist.
+
+328
+00:20:40,333 --> 00:20:41,583
+Hey.
+
+329
+00:20:41,666 --> 00:20:44,833
+It must be wonderful
+living a normal life.
+
+330
+00:20:44,916 --> 00:20:45,958
+[TAKUYA]
+Yeah.
+
+331
+00:20:47,125 --> 00:20:49,041
+[YUKI]
+I'm determined not to forget.
+
+332
+00:20:49,125 --> 00:20:50,208
+[TAKUYA]
+Same.
+
+333
+00:20:50,291 --> 00:20:52,083
+No matter what happens
+after this,
+
+334
+00:20:52,166 --> 00:20:54,916
+let's try to remember,
+that's where we're headed.
+
+335
+00:20:55,000 --> 00:20:57,791
+♪
+
+336
+00:21:16,541 --> 00:21:19,083
+[motor scooter engine revving]
+
+337
+00:21:24,166 --> 00:21:27,208
+Takuya, you saved us.
+
+338
+00:21:27,291 --> 00:21:29,083
+Thank you.
+
+339
+00:21:29,166 --> 00:21:31,541
+No, it's thanks to you.
+
+340
+00:21:31,625 --> 00:21:33,708
+♪
+
+341
+00:21:35,375 --> 00:21:37,500
+You haven't changed
+at all, have you?
+
+342
+00:21:37,583 --> 00:21:39,333
+Even in this new form.
+
+343
+00:21:45,583 --> 00:21:47,458
+[TAKUYA]
+Taiyo.
+
+344
+00:21:47,541 --> 00:21:49,166
+[YUKI]
+Father?
+
+345
+00:21:49,250 --> 00:21:51,375
+♪
+
+346
+00:21:52,750 --> 00:21:53,708
+No!
+
+347
+00:21:53,791 --> 00:21:57,208
+Stop it!
+
+348
+00:23:36,958 --> 00:23:39,166
+♪
+
+349
+00:23:43,541 --> 00:23:45,791
+[YUKI and TAKUYA]
+Next episode, "Future."
+

@@ -1,0 +1,1691 @@
+﻿1
+00:00:02,333 --> 00:00:03,533
+[♪]
+
+2
+00:01:04,666 --> 00:01:06,400
+[♪]
+
+3
+00:01:09,566 --> 00:01:12,766
+FISHERMAN 1:
+There she goes.
+Okay, now reel in the net.
+
+4
+00:01:16,133 --> 00:01:19,566
+TRAWLER ROBOT:
+Big catch. Big catch.
+
+5
+00:01:19,600 --> 00:01:22,133
+FISHERMAN 1:
+Get ready to slice
+and ice these fish, boys.
+
+6
+00:01:22,166 --> 00:01:24,800
+FISHERMAN 2:
+Hey, why's this catch so heavy?
+
+7
+00:01:24,833 --> 00:01:26,666
+Oh, man.
+
+8
+00:01:30,266 --> 00:01:34,266
+Wow, that's one big can
+of tuna, boys.
+
+9
+00:01:34,300 --> 00:01:35,766
+[BEEPS]
+
+10
+00:01:35,800 --> 00:01:37,666
+[FISHERMEN GASP]
+
+11
+00:01:37,700 --> 00:01:39,766
+[FISHERMEN YELLING]
+
+12
+00:01:42,100 --> 00:01:46,566
+Captain. Are you my captain?
+
+13
+00:01:46,600 --> 00:01:48,100
+[POWERS DOWN]
+
+14
+00:01:49,333 --> 00:01:50,666
+Huh?
+
+15
+00:01:58,300 --> 00:02:03,166
+O'SHAY:
+You see, Astro, what we have
+here is a very old Venus Robot.
+
+16
+00:02:03,200 --> 00:02:05,666
+Will it be okay?
+
+17
+00:02:05,700 --> 00:02:07,600
+I can patch him up,
+but I'm not sure
+
+18
+00:02:07,633 --> 00:02:09,466
+that will help
+him in the long run.
+
+19
+00:02:09,500 --> 00:02:11,166
+Let's see what information
+
+20
+00:02:11,200 --> 00:02:13,133
+we can pull up
+about Venus Robots.
+
+21
+00:02:13,166 --> 00:02:14,500
+If memory serves me right,
+
+22
+00:02:14,533 --> 00:02:17,166
+these units were designed
+over 20 years ago.
+
+23
+00:02:19,466 --> 00:02:22,533
+COMPUTER:
+<i>Venus Robots were created</i>
+<i>by the Ministry of Science</i>
+
+24
+00:02:22,566 --> 00:02:25,033
+<i>at the height</i>
+<i>of deep-space colonization.</i>
+
+25
+00:02:25,066 --> 00:02:28,233
+<i>Ordinary robots couldn't</i>
+withstand the high temperatures
+
+26
+00:02:28,266 --> 00:02:31,500
+<i>and atmospheric pressure</i>
+<i>found on the planet Venus.</i>
+
+27
+00:02:31,533 --> 00:02:35,233
+<i>So a very special breed</i>
+<i>of robot was developed.</i>
+
+28
+00:02:35,266 --> 00:02:38,400
+<i>These explorer bots had</i>
+<i>super-metallic bodies</i>
+
+29
+00:02:38,433 --> 00:02:41,300
+<i>and a high-powered</i>
+<i>liquid-nitro cooling ray.</i>
+
+30
+00:02:48,100 --> 00:02:51,533
+ASTRO:
+<i>Wow. Their nitro-rays could</i>
+<i>freeze a whole planet.</i>
+
+31
+00:02:51,566 --> 00:02:54,233
+O'SHAY:
+<i>Yes, if someone</i>
+<i>programmed them that way.</i>
+
+32
+00:02:54,266 --> 00:02:57,100
+<i>Those nitro-rays are exactly</i>
+<i>why many believed</i>
+
+33
+00:02:57,133 --> 00:02:59,333
+<i>the Venus Robots</i>
+<i>were too dangerous.</i>
+
+34
+00:02:59,366 --> 00:03:01,266
+<i>Sadly, they were deactivated</i>
+<i>and dumped</i>
+
+35
+00:03:01,300 --> 00:03:03,700
+<i>to the bottom of the ocean,</i>
+<i>abandoned forever.</i>
+
+36
+00:03:03,733 --> 00:03:05,733
+Poor Venus Robots.
+
+37
+00:03:05,766 --> 00:03:09,366
+Well, one malfunction could
+have destroyed our whole planet.
+
+38
+00:03:09,400 --> 00:03:12,500
+And this was at a time
+in history when humans feared
+
+39
+00:03:12,533 --> 00:03:15,233
+robots were already getting
+much too powerful.
+
+40
+00:03:15,266 --> 00:03:16,766
+The robots should have been
+disabled,
+
+41
+00:03:16,800 --> 00:03:19,066
+but this unit's sensory chips
+indicate
+
+42
+00:03:19,100 --> 00:03:21,366
+it was totally operational
+
+43
+00:03:21,400 --> 00:03:24,500
+right up until it was caught
+in that boat's fishing net.
+
+44
+00:03:24,533 --> 00:03:26,066
+Hmm. I'll run more tests.
+
+45
+00:03:29,100 --> 00:03:32,500
+VENUS ROBOT:
+Have you seen our captain?
+
+46
+00:03:32,533 --> 00:03:34,066
+Captain?
+
+47
+00:03:41,666 --> 00:03:45,266
+ASTRO:
+Dr. O'Shay says the Venus Robot
+was still operating
+
+48
+00:03:45,300 --> 00:03:47,233
+20 years after it was
+deactivated.
+
+49
+00:03:47,266 --> 00:03:50,600
+I wonder if there
+are more like him. Torpedo!
+
+50
+00:04:00,233 --> 00:04:02,233
+ASTRO:
+<i>It's so dark.</i>
+<i>I can't see a thing.</i>
+
+51
+00:04:04,600 --> 00:04:06,166
+<i>Activate high beams.</i>
+
+52
+00:04:22,700 --> 00:04:24,066
+Huh?
+
+53
+00:04:31,766 --> 00:04:33,133
+Wow.
+
+54
+00:04:41,433 --> 00:04:45,533
+Amazing. A whole
+underwater robot world.
+
+55
+00:04:45,566 --> 00:04:47,700
+Who are you?
+
+56
+00:04:47,733 --> 00:04:52,266
+I'm Astro. And I'm a robot
+built by humans, just like you.
+
+57
+00:04:52,300 --> 00:04:53,733
+Humans?
+
+58
+00:04:53,766 --> 00:04:57,733
+No, we were built
+by the captain.
+
+59
+00:04:57,766 --> 00:05:00,566
+Captain? But that's not
+what Dr. O'Shay said.
+
+60
+00:05:00,600 --> 00:05:04,466
+Come. I will show you.
+
+61
+00:05:04,500 --> 00:05:07,333
+One of our brothers traveled
+up to the human world
+
+62
+00:05:07,366 --> 00:05:08,700
+and did not return.
+
+63
+00:05:08,733 --> 00:05:10,033
+Do you know anything
+about him?
+
+64
+00:05:10,066 --> 00:05:12,466
+Yes. He was damaged.
+
+65
+00:05:12,500 --> 00:05:14,533
+Damaged?
+
+66
+00:05:14,566 --> 00:05:16,300
+Uh-huh. But don't worry,
+
+67
+00:05:16,333 --> 00:05:19,500
+a scientist I know is doing
+everything he can to save him.
+
+68
+00:05:19,533 --> 00:05:22,166
+I told him not to go
+to the surface,
+
+69
+00:05:22,200 --> 00:05:24,533
+but he was so anxious
+to find our captain.
+
+70
+00:05:26,233 --> 00:05:29,766
+Behold. This is a statue
+of our captain.
+
+71
+00:05:29,800 --> 00:05:30,800
+Whoa.
+
+72
+00:05:30,833 --> 00:05:32,200
+LEADER:
+We were all created
+
+73
+00:05:32,233 --> 00:05:33,400
+by this great being.
+
+74
+00:05:33,433 --> 00:05:35,366
+Now we await the day
+the captain will return
+
+75
+00:05:35,400 --> 00:05:36,700
+and tell us what it is
+
+76
+00:05:36,733 --> 00:05:39,066
+we must do to serve him.
+
+77
+00:05:39,100 --> 00:05:41,300
+But I was told that you
+were built by--
+
+78
+00:05:41,333 --> 00:05:44,500
+Astro, why were you created?
+
+79
+00:05:44,533 --> 00:05:47,300
+To help humans and robots
+work together as friends.
+
+80
+00:05:47,333 --> 00:05:48,600
+We do not understand
+that concept.
+
+81
+00:05:48,633 --> 00:05:51,500
+Well...
+
+82
+00:05:51,533 --> 00:05:54,566
+Astro, you now know
+what our captain looks like.
+
+83
+00:05:54,600 --> 00:05:56,733
+If you see him,
+please tell him we are eager
+
+84
+00:05:56,766 --> 00:05:59,500
+to begin our mission.
+
+85
+00:06:01,833 --> 00:06:05,366
+ASTRO:
+<i>All those robots want</i>
+<i>to be is useful.</i>
+
+86
+00:06:05,400 --> 00:06:08,033
+<i>They don't even know</i>
+<i>they were just thrown away.</i>
+
+87
+00:06:10,333 --> 00:06:12,200
+TENMA:
+Magnificent.
+
+88
+00:06:12,233 --> 00:06:15,633
+A shining example
+of a robot's ability to adapt
+
+89
+00:06:15,666 --> 00:06:17,433
+in order to survive.
+
+90
+00:06:17,466 --> 00:06:21,133
+Now all they need
+is someone to lead them.
+
+91
+00:06:21,166 --> 00:06:23,666
+And that someone will be me.
+
+92
+00:06:23,700 --> 00:06:25,600
+[TENMA LAUGHS]
+
+93
+00:06:25,633 --> 00:06:28,600
+And soon, they will use
+their powerful capabilities
+
+94
+00:06:28,633 --> 00:06:32,233
+to put the world
+under our control.
+
+95
+00:06:32,266 --> 00:06:36,766
+TENMA [OVER SPEAKER]:
+<i>Robots, arise.</i>
+<i>I am your captain.</i>
+
+96
+00:06:36,800 --> 00:06:38,633
+[ROBOTS MURMURING]
+
+97
+00:06:41,333 --> 00:06:45,800
+<i>I have returned to give you</i>
+<i>your long-awaited mission.</i>
+
+98
+00:06:45,833 --> 00:06:47,633
+Captain.
+
+99
+00:06:49,566 --> 00:06:52,233
+O'SHAY:
+Astro, your video proves
+that the Venus Robots
+
+100
+00:06:52,266 --> 00:06:54,800
+have continued to evolve
+below the sea.
+
+101
+00:06:54,833 --> 00:06:56,733
+They desperately wanted
+to carry out the mission
+
+102
+00:06:56,766 --> 00:06:59,166
+they were programmed for,
+
+103
+00:06:59,200 --> 00:07:02,600
+even though they had
+no idea what that mission was.
+
+104
+00:07:02,633 --> 00:07:05,800
+I wonder if they know how
+powerful their nitro-rays are.
+
+105
+00:07:05,833 --> 00:07:07,400
+That's a good question, Astro.
+
+106
+00:07:07,433 --> 00:07:08,800
+We've got to alert
+the authorities.
+
+107
+00:07:08,833 --> 00:07:10,633
+The world could be in danger.
+
+108
+00:07:10,666 --> 00:07:11,666
+Huh?
+
+109
+00:07:11,700 --> 00:07:13,233
+The doctor's right.
+
+110
+00:07:13,266 --> 00:07:14,633
+There's a very good reason
+why the robots
+
+111
+00:07:14,666 --> 00:07:16,466
+were buried deep underwater.
+
+112
+00:07:16,500 --> 00:07:19,600
+If they were to fire their
+nitro-rays, even by mistake,
+
+113
+00:07:19,633 --> 00:07:23,266
+<i>they could flash-freeze</i>
+<i>all of planet Earth.</i>
+
+114
+00:07:23,300 --> 00:07:25,433
+Hmm.
+
+115
+00:07:25,466 --> 00:07:27,733
+But wait. You're not thinking
+of destroying them.
+
+116
+00:07:27,766 --> 00:07:30,766
+Only as a last resort.
+
+117
+00:07:30,800 --> 00:07:33,166
+However, there may be
+no other way.
+
+118
+00:07:33,200 --> 00:07:34,333
+Please, no!
+
+119
+00:07:39,066 --> 00:07:40,666
+Yahoo!
+
+120
+00:07:46,400 --> 00:07:50,600
+Aah! Look out! Out of my way!
+
+121
+00:07:50,633 --> 00:07:52,300
+[YELLS]
+
+122
+00:07:54,600 --> 00:07:56,433
+Bernie. Your hover ski.
+
+123
+00:07:56,466 --> 00:07:58,433
+Dude, he's being attacked.
+
+124
+00:07:58,466 --> 00:08:02,100
+MAN:
+Oh, look out. Oh, I've never
+seen anything like it. Quick!
+
+125
+00:08:07,583 --> 00:08:11,349
+MAN [OVER PA]:
+All emergency personnel to your
+<i>stations. We are under attack.</i>
+
+126
+00:08:11,383 --> 00:08:13,349
+<i>This is not a drill.</i>
+<i>Repeat, this is not...</i>
+
+127
+00:08:13,383 --> 00:08:14,749
+YUKO:
+How many are there?
+
+128
+00:08:14,783 --> 00:08:16,316
+I'm guessing 20,000.
+
+129
+00:08:16,349 --> 00:08:17,716
+Twenty at least.
+
+130
+00:08:17,749 --> 00:08:20,883
+We count 50,000 strong,
+and they keep on coming.
+
+131
+00:08:20,916 --> 00:08:22,849
+What could they possibly want?
+
+132
+00:08:22,883 --> 00:08:24,583
+There's nowhere
+to hide!
+
+133
+00:08:24,616 --> 00:08:27,183
+[CROWD SCREAMING]
+
+134
+00:08:29,649 --> 00:08:31,849
+REPORTER:
+<i>The robots from the sea are</i>
+<i>crossing every barricade</i>
+
+135
+00:08:31,883 --> 00:08:34,349
+<i>the police put up.</i>
+
+136
+00:08:34,383 --> 00:08:39,449
+<i>They're advancing straight</i>
+<i>into the heart of Metro City.</i>
+
+137
+00:08:39,483 --> 00:08:42,249
+<i>This is Metro-Sky News</i>
+<i>with continued coverage</i>
+
+138
+00:08:42,283 --> 00:08:45,483
+<i>of the robot invasion.</i>
+
+139
+00:08:45,516 --> 00:08:49,483
+Bring up the heat-sensor map.
+We'll see if we can track them.
+
+140
+00:08:49,516 --> 00:08:51,483
+They're headed this way.
+
+141
+00:08:51,516 --> 00:08:53,416
+The Venus Robots look like
+they're going to attack
+
+142
+00:08:53,449 --> 00:08:54,749
+the Ministry of Science.
+
+143
+00:08:54,783 --> 00:08:56,716
+I have to stop them.
+
+144
+00:09:02,416 --> 00:09:06,349
+TENMA:
+No, Astro. Even you can't
+stop an army this size.
+
+145
+00:09:06,383 --> 00:09:08,783
+They will accomplish
+their mission at all costs.
+
+146
+00:09:08,816 --> 00:09:09,849
+[CHUCKLES]
+
+147
+00:09:14,883 --> 00:09:18,316
+This is it. When those
+tin cans get within 50 meters,
+
+148
+00:09:18,349 --> 00:09:19,483
+attack with maximum force.
+
+149
+00:09:21,316 --> 00:09:22,716
+TAWASHI:
+Ready.
+
+150
+00:09:24,883 --> 00:09:27,149
+Aim. Huh?
+
+151
+00:09:27,183 --> 00:09:30,616
+ASTRO:
+Hold your fire. Those robots
+are filled with liquid nitrogen.
+
+152
+00:09:30,649 --> 00:09:33,316
+If they explode, it could
+freeze the entire world.
+
+153
+00:09:33,349 --> 00:09:34,349
+What?
+
+154
+00:09:34,383 --> 00:09:36,649
+They're not evil, just confused.
+
+155
+00:09:36,683 --> 00:09:39,349
+Let me talk to them.
+Stay where you are.
+
+156
+00:09:39,383 --> 00:09:40,883
+[GROANS]
+
+157
+00:09:40,916 --> 00:09:43,349
+All right.
+That's far enough.
+
+158
+00:09:43,383 --> 00:09:44,683
+Astro.
+
+159
+00:09:44,716 --> 00:09:47,716
+Why have you come here?
+To attack Metro City?
+
+160
+00:09:47,749 --> 00:09:52,583
+The captain has returned,
+and he gave us our mission.
+
+161
+00:09:52,616 --> 00:09:54,149
+What?
+
+162
+00:09:54,183 --> 00:09:55,883
+You must not stand
+in our way.
+
+163
+00:09:55,916 --> 00:09:59,416
+Go tell the humans it is our job
+to create a new world.
+
+164
+00:09:59,449 --> 00:10:02,883
+YUKO:
+A new world?
+
+165
+00:10:02,916 --> 00:10:04,516
+I don't understand.
+
+166
+00:10:04,549 --> 00:10:06,449
+What does he mean
+by that, doctor?
+
+167
+00:10:06,483 --> 00:10:07,649
+Hmm...
+
+168
+00:10:07,683 --> 00:10:11,183
+We are to go
+to the Ministry of Science.
+
+169
+00:10:11,216 --> 00:10:13,616
+We will salute
+when the captain signals us.
+
+170
+00:10:13,649 --> 00:10:15,383
+You're going to salute?
+
+171
+00:10:15,416 --> 00:10:17,516
+Oh, no.
+
+172
+00:10:21,549 --> 00:10:24,349
+Astro, they're going
+to activate their nitro-rays.
+
+173
+00:10:24,383 --> 00:10:26,549
+Stop!
+You're being tricked!
+
+174
+00:10:26,583 --> 00:10:28,316
+Tricked?
+
+175
+00:10:28,349 --> 00:10:30,283
+Those are freeze rays.
+You can't salute.
+
+176
+00:10:32,349 --> 00:10:35,583
+This is not what you were
+created for. Believe me.
+
+177
+00:10:35,616 --> 00:10:38,783
+If you follow those orders,
+you will wipe out all human life
+
+178
+00:10:38,816 --> 00:10:41,649
+and only robots will survive.
+
+179
+00:10:41,683 --> 00:10:43,149
+Out of our way, Astro.
+
+180
+00:10:43,183 --> 00:10:44,783
+[GRUNTS]
+
+181
+00:10:44,816 --> 00:10:47,216
+We know our mission.
+
+182
+00:10:47,249 --> 00:10:50,216
+We will obey
+the captain's orders.
+
+183
+00:10:50,249 --> 00:10:53,383
+I have a plan. How long will it
+take them to reach us?
+
+184
+00:10:53,416 --> 00:10:55,149
+They're currently passing
+through sector C.
+
+185
+00:10:55,183 --> 00:10:57,816
+At this rate, they'll be here
+in less than five minutes.
+
+186
+00:10:57,849 --> 00:10:59,216
+We have to do something,
+doctor.
+
+187
+00:11:00,816 --> 00:11:02,249
+Yes. All right, then.
+
+188
+00:11:02,283 --> 00:11:04,283
+We've only got one chance.
+
+189
+00:11:04,316 --> 00:11:06,649
+And in case I'm wrong, I want
+the whole building evacuated.
+
+190
+00:11:10,416 --> 00:11:12,216
+MAN:
+Look out!
+
+191
+00:11:15,916 --> 00:11:18,149
+Retreat! Pull out, men!
+
+192
+00:11:21,783 --> 00:11:24,216
+Stop. I can't let you do this.
+
+193
+00:11:24,249 --> 00:11:26,116
+YUKO:
+Doctor,
+as your personal assistant,
+
+194
+00:11:26,149 --> 00:11:28,683
+it is my duty to stay with
+you for your safety.
+
+195
+00:11:28,716 --> 00:11:30,683
+Don't worry, Yuko.
+
+196
+00:11:30,716 --> 00:11:33,116
+My plan is to hook up
+a direct feed
+
+197
+00:11:33,149 --> 00:11:34,383
+to the History Museum archives.
+
+198
+00:11:34,416 --> 00:11:37,383
+Then, while Astro stalls
+the Venus Robots,
+
+199
+00:11:37,416 --> 00:11:39,316
+I'll project a holo-vid showing
+them the truth
+
+200
+00:11:39,349 --> 00:11:40,616
+about their creator.
+
+201
+00:11:40,649 --> 00:11:42,216
+That's brilliant.
+
+202
+00:11:42,249 --> 00:11:43,716
+Mm-hmm.
+
+203
+00:11:43,749 --> 00:11:45,416
+I don't know who's behind this,
+
+204
+00:11:45,449 --> 00:11:47,716
+but the orders
+you're following are false.
+
+205
+00:11:47,749 --> 00:11:50,683
+Get out of our way. We must
+get to the top of that spire.
+
+206
+00:11:50,716 --> 00:11:51,716
+Huh?
+
+207
+00:11:55,583 --> 00:11:57,749
+Astro, keep stalling them.
+
+208
+00:11:57,783 --> 00:11:59,549
+Hmm? What the--?
+
+209
+00:11:59,583 --> 00:12:01,749
+TENMA [OVER SPEAKER]:
+<i>You can't win,</i>
+
+210
+00:12:01,783 --> 00:12:04,516
+<i>you foolish old man.</i>
+
+211
+00:12:04,549 --> 00:12:07,549
+Huh? Come out into the open
+where I can see you.
+
+212
+00:12:07,583 --> 00:12:10,383
+<i>O'Shay, you're about</i>
+<i>to witness the dawn</i>
+
+213
+00:12:10,416 --> 00:12:12,816
+<i>of a new ice age.</i>
+<i>Don't catch a cold.</i>
+
+214
+00:12:12,849 --> 00:12:16,616
+<i>Dr. Tenma, you're controlling</i>
+<i>the Venus Robots?</i>
+
+215
+00:12:16,649 --> 00:12:18,483
+[LAUGHS]
+
+216
+00:12:18,516 --> 00:12:20,849
+All they want is to be useful,
+doctor.
+
+217
+00:12:20,883 --> 00:12:22,549
+But that's madness.
+
+218
+00:12:22,583 --> 00:12:26,116
+<i>Is it madness</i>
+<i>or pure genius?</i>
+
+219
+00:12:26,149 --> 00:12:27,616
+You're merely using
+those robots
+
+220
+00:12:27,649 --> 00:12:31,216
+to carry out one of your
+diabolical schemes.
+
+221
+00:12:31,249 --> 00:12:34,549
+Power, destruction.
+That's all you're after.
+
+222
+00:12:34,583 --> 00:12:37,549
+<i>The moment these Venus Robots</i>
+<i>were considered useless,</i>
+
+223
+00:12:37,583 --> 00:12:40,349
+<i>humans just threw them away.</i>
+
+224
+00:12:40,383 --> 00:12:43,716
+<i>Now let's see how useless</i>
+<i>these robotic creations are.</i>
+
+225
+00:12:43,749 --> 00:12:44,949
+[O'SHAY YELLS]
+
+226
+00:12:44,983 --> 00:12:47,816
+<i>It was in spite of humanity</i>
+<i>that these robots</i>
+
+227
+00:12:47,849 --> 00:12:50,283
+<i>survived decades</i>
+<i>beneath the sea.</i>
+
+228
+00:12:50,316 --> 00:12:52,249
+They grew and evolved
+<i>on their own.</i>
+
+229
+00:12:52,283 --> 00:12:54,649
+If you free all robots
+<i>from human control,</i>
+
+230
+00:12:54,683 --> 00:12:57,549
+they will eventually join
+<i>together and conquer mankind.</i>
+
+231
+00:12:57,583 --> 00:12:59,549
+That will never happen.
+
+232
+00:12:59,583 --> 00:13:05,349
+Oh, but it's happening right
+<i>before our very eyes, O'Shay.</i>
+
+233
+00:13:05,383 --> 00:13:09,249
+Witness the declaration
+<i>of robot independence.</i>
+
+234
+00:13:09,283 --> 00:13:12,316
+A rare moment in history.
+
+235
+00:13:12,349 --> 00:13:15,616
+All right, Tenma.
+Maybe mankind was selfish
+
+236
+00:13:15,649 --> 00:13:18,416
+to build these robots and then
+carelessly throw them away.
+
+237
+00:13:18,449 --> 00:13:20,816
+But this senseless destruction--
+
+238
+00:13:20,849 --> 00:13:22,349
+You're insane.
+
+239
+00:13:22,383 --> 00:13:25,483
+<i>Or perhaps I'm the sanest</i>
+<i>of all.</i>
+
+240
+00:13:25,516 --> 00:13:27,283
+Robots.
+
+241
+00:13:27,316 --> 00:13:30,249
+<i>Your time has come.</i>
+
+242
+00:13:31,583 --> 00:13:33,216
+What's that?
+
+243
+00:13:33,249 --> 00:13:35,249
+[VENUS ROBOTS MURMURING]
+
+244
+00:13:35,283 --> 00:13:38,516
+TENMA:
+<i>I am your captain.</i>
+
+245
+00:13:38,549 --> 00:13:39,849
+<i>Show me the signal</i>
+<i>that you are ready</i>
+
+246
+00:13:39,883 --> 00:13:41,583
+<i>to create a whole new world.</i>
+
+247
+00:13:41,616 --> 00:13:45,283
+VENUS ROBOTS:
+We are ready, captain.
+
+248
+00:13:45,316 --> 00:13:48,549
+Don't listen to him.
+Don't follow his orders.
+
+249
+00:13:48,583 --> 00:13:50,816
+Dr. Tenma is not your captain.
+
+250
+00:13:50,849 --> 00:13:54,349
+I shall be the first robot
+to the top of the spire
+
+251
+00:13:54,383 --> 00:13:56,183
+and salute our captain.
+
+252
+00:14:05,783 --> 00:14:09,616
+TENMA:
+<i>So you want to be a worthy</i>
+<i>and useful robot?</i>
+
+253
+00:14:09,649 --> 00:14:13,083
+<i>Salute your captain.</i>
+
+254
+00:14:15,649 --> 00:14:17,449
+No! Stop!
+
+255
+00:14:17,483 --> 00:14:19,849
+[WHIRRING]
+
+256
+00:14:26,883 --> 00:14:29,149
+All right. Let's rocket!
+
+257
+00:14:30,583 --> 00:14:31,616
+Oh, no!
+
+258
+00:14:31,649 --> 00:14:33,449
+Astro!
+
+259
+00:14:33,483 --> 00:14:35,716
+ASTRO:
+<i>I have to find</i>
+<i>the nitrogen tank.</i>
+
+260
+00:14:41,749 --> 00:14:43,216
+Got it.
+
+261
+00:14:45,516 --> 00:14:47,683
+Bombs away.
+
+262
+00:14:47,716 --> 00:14:49,316
+[GASPS]
+
+263
+00:14:54,649 --> 00:14:56,683
+[GRUNTS AND YELLS]
+
+264
+00:14:56,716 --> 00:14:58,716
+[GASPING]
+Astro.
+
+265
+00:15:00,749 --> 00:15:02,849
+Oh, no. Astro!
+
+266
+00:15:09,483 --> 00:15:11,283
+Are you all right, Astro?
+
+267
+00:15:12,583 --> 00:15:14,583
+[GROANING]
+
+268
+00:15:16,616 --> 00:15:20,416
+Now do you believe me?
+You see what your powers can do.
+
+269
+00:15:20,449 --> 00:15:22,416
+Your freezer rays
+could turn the whole world
+
+270
+00:15:22,449 --> 00:15:24,783
+into an ice planet in seconds.
+
+271
+00:15:24,816 --> 00:15:27,483
+You were built
+to be useful to humans.
+
+272
+00:15:27,516 --> 00:15:29,649
+And look how you created that
+amazing robot world
+
+273
+00:15:29,683 --> 00:15:31,216
+beneath the sea.
+
+274
+00:15:31,249 --> 00:15:33,549
+You're not meant to attack
+and destroy.
+
+275
+00:15:33,583 --> 00:15:35,383
+[VENUS ROBOTS MURMURING]
+
+276
+00:15:36,749 --> 00:15:41,516
+Then why did the captain
+order us to do this?
+
+277
+00:15:41,549 --> 00:15:42,783
+Because he's a--
+
+278
+00:15:42,816 --> 00:15:44,816
+TENMA:
+<i>Do what I tell you.</i>
+
+279
+00:15:44,849 --> 00:15:47,883
+<i>It is the only way</i>
+<i>for you to evolve,</i>
+
+280
+00:15:47,916 --> 00:15:52,783
+to understand your true purpose
+<i>and achieve freedom.</i>
+
+281
+00:15:52,816 --> 00:15:56,449
+LEADER:
+If we freeze everything,
+then we will be free?
+
+282
+00:15:56,483 --> 00:15:58,683
+TENMA:
+<i>It is my ultimate plan</i>
+for you to fulfill your mission
+
+283
+00:15:58,716 --> 00:16:00,583
+<i>and find your freedom.</i>
+
+284
+00:16:00,616 --> 00:16:03,149
+No. They'll never be free
+
+285
+00:16:03,183 --> 00:16:05,549
+by destroying the entire
+human world.
+
+286
+00:16:05,583 --> 00:16:10,716
+Wait! Don't follow him.
+Choose for yourself!
+
+287
+00:16:10,749 --> 00:16:12,516
+Listen to your hearts.
+
+288
+00:16:12,549 --> 00:16:13,816
+You may be robots,
+
+289
+00:16:13,849 --> 00:16:16,383
+but you have the power
+to choose your future.
+
+290
+00:16:16,416 --> 00:16:17,849
+Oh, no.
+
+291
+00:16:17,883 --> 00:16:19,549
+O'SHAY:
+<i>I've got to hook up</i>
+
+292
+00:16:19,583 --> 00:16:22,183
+<i>that video feed</i>
+<i>from the Robot History Museum.</i>
+
+293
+00:16:22,216 --> 00:16:23,816
+<i>It will jog their memory</i>
+<i>modules.</i>
+
+294
+00:16:32,216 --> 00:16:33,816
+[BARKS]
+
+295
+00:16:33,849 --> 00:16:36,249
+TENMA:
+<i>It's over, doctor.</i>
+
+296
+00:16:36,283 --> 00:16:37,749
+Put a muzzle on it, Tenma.
+
+297
+00:16:41,283 --> 00:16:43,883
+Yuko, I-- I told you
+to get to safety.
+
+298
+00:16:43,916 --> 00:16:46,516
+And give up a chance
+to use this thing?
+
+299
+00:16:52,849 --> 00:16:57,216
+This may be our last hope, Yuko.
+Cross your fingers.
+
+300
+00:16:59,916 --> 00:17:01,549
+YUKO:
+It's working, Dr. O'Shay.
+
+301
+00:17:01,583 --> 00:17:03,683
+The holo-vid is projecting
+into the sky.
+
+302
+00:17:09,183 --> 00:17:11,183
+O'SHAY:
+Excellent. Excellent!
+
+303
+00:17:11,216 --> 00:17:13,116
+The robots are watching.
+
+304
+00:17:13,149 --> 00:17:16,616
+They're learning the real truth
+about their creation.
+
+305
+00:17:19,483 --> 00:17:21,216
+At last
+
+306
+00:17:21,249 --> 00:17:22,883
+the experiments
+are a success.
+
+307
+00:17:22,916 --> 00:17:25,683
+Now all of you will take
+a journey into space,
+
+308
+00:17:25,716 --> 00:17:27,583
+where you will work
+to transform Venus
+
+309
+00:17:27,616 --> 00:17:29,749
+into a beautiful new world.
+
+310
+00:17:31,649 --> 00:17:34,183
+And assure a new future
+for all mankind.
+
+311
+00:17:34,216 --> 00:17:35,816
+We will serve humans.
+That is our work.
+
+312
+00:17:35,849 --> 00:17:38,483
+To work for humans.
+
+313
+00:17:38,516 --> 00:17:41,316
+To work for humans.
+
+314
+00:17:41,349 --> 00:17:44,416
+So that woman was
+the Venus Robots' real captain?
+
+315
+00:17:44,449 --> 00:17:46,083
+Captain.
+
+316
+00:17:51,349 --> 00:17:54,783
+Beloved captain,
+we now go to do our duty
+
+317
+00:17:54,816 --> 00:17:56,783
+and fulfill the dreams
+of mankind.
+
+318
+00:17:56,816 --> 00:17:59,216
+Yes, go and make me proud.
+
+319
+00:18:05,816 --> 00:18:08,649
+Helen, I'm sorry the Ministry
+scrubbed the Venus mission.
+
+320
+00:18:08,683 --> 00:18:10,616
+I know it meant a lot.
+
+321
+00:18:10,649 --> 00:18:12,283
+Once my robots reach
+the ocean floor,
+
+322
+00:18:12,316 --> 00:18:13,816
+their memories
+will be erased
+
+323
+00:18:13,849 --> 00:18:16,516
+and they'll never know how
+great they could have been.
+
+324
+00:18:16,549 --> 00:18:18,883
+<i>Look, Helen, it's not like</i>
+<i>they were human,</i>
+
+325
+00:18:18,916 --> 00:18:21,416
+<i>just a bunch of</i>
+<i>programmable hardware.</i>
+
+326
+00:18:21,449 --> 00:18:24,783
+Farewell,
+<i>all my beautiful friends.</i>
+
+327
+00:18:27,749 --> 00:18:30,449
+Surely, they understand now.
+
+328
+00:18:30,483 --> 00:18:31,883
+What's that?
+
+329
+00:18:31,916 --> 00:18:33,383
+TENMA:
+<i>What's wrong with you?</i>
+
+330
+00:18:33,416 --> 00:18:34,716
+<i>Why are you just standing</i>
+<i>there?</i>
+
+331
+00:18:34,749 --> 00:18:36,416
+Dr. Tenma.
+
+332
+00:18:36,449 --> 00:18:38,383
+<i>Don't be fooled.</i>
+
+333
+00:18:38,416 --> 00:18:41,549
+Don't listen to them.
+I am your captain.
+
+334
+00:18:41,583 --> 00:18:44,683
+No, our captain would not
+ask us to harm humans.
+
+335
+00:18:44,716 --> 00:18:46,583
+We will help humans.
+
+336
+00:18:46,616 --> 00:18:48,349
+Great. You finally understand.
+
+337
+00:18:49,716 --> 00:18:51,783
+How dare you interfere.
+
+338
+00:18:51,816 --> 00:18:54,616
+[GRUNTING]
+
+339
+00:18:54,649 --> 00:18:55,883
+[YELLING]
+
+340
+00:18:55,916 --> 00:18:57,183
+Doctor!
+
+341
+00:18:58,916 --> 00:19:00,283
+[GRUNTS]
+
+342
+00:19:02,749 --> 00:19:05,149
+[ROCKETS SPUTTERING]
+
+343
+00:19:05,183 --> 00:19:06,416
+[YELLING]
+
+344
+00:19:06,449 --> 00:19:07,616
+Astro!
+
+345
+00:19:17,283 --> 00:19:19,249
+[GRUNTING]
+
+346
+00:19:19,283 --> 00:19:21,183
+What a brilliant plan.
+
+347
+00:19:21,216 --> 00:19:23,183
+The Venus Robots
+saved them both.
+
+348
+00:19:34,716 --> 00:19:37,216
+We wanna thank you
+for saving us.
+
+349
+00:19:37,249 --> 00:19:39,816
+You are the ones who saved us.
+
+350
+00:19:39,849 --> 00:19:41,283
+Huh?
+
+351
+00:19:41,316 --> 00:19:44,783
+It is time to fulfill
+our destiny.
+
+352
+00:19:44,816 --> 00:19:47,783
+We now know what our mission
+has become.
+
+353
+00:19:47,816 --> 00:19:49,249
+What's that?
+
+354
+00:19:49,283 --> 00:19:52,383
+To live in peace
+with all humans.
+
+355
+00:19:52,416 --> 00:19:53,783
+Goodbye.
+
+356
+00:19:53,816 --> 00:19:56,283
+Goodbye, friends.
+
+357
+00:19:56,316 --> 00:19:57,716
+So long. Bye!
+
+358
+00:20:05,349 --> 00:20:08,149
+O'SHAY:
+This is video we got
+
+359
+00:20:08,183 --> 00:20:11,316
+from an unmanned surveillance
+device that was sent down.
+
+360
+00:20:11,349 --> 00:20:12,883
+They abandoned their whole city.
+
+361
+00:20:12,916 --> 00:20:15,449
+But where do you think
+they went?
+
+362
+00:20:15,483 --> 00:20:18,116
+I believe they've gone to an
+even deeper part of the ocean,
+
+363
+00:20:18,149 --> 00:20:22,583
+<i>to rebuild their civilization</i>
+<i>with a new understanding.</i>
+
+364
+00:20:24,183 --> 00:20:26,616
+[VENUS ROBOTS CHEERING]
+
+365
+00:20:31,283 --> 00:20:34,116
+LEADER:
+Behold our new hero.
+
+366
+00:20:35,583 --> 00:20:39,116
+Astro, our friend.
+
+367
+00:20:41,716 --> 00:20:44,116
+[♪]
+

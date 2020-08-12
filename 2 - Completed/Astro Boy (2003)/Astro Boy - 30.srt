@@ -1,0 +1,1987 @@
+﻿1
+00:00:01,666 --> 00:00:03,333
+[♪]
+
+2
+00:01:11,733 --> 00:01:13,666
+Whoa, I'm stuffed.
+
+3
+00:01:13,700 --> 00:01:15,566
+That was delicious, Mom.
+
+4
+00:01:15,600 --> 00:01:17,200
+Glad you
+liked it, dear.
+
+5
+00:01:17,233 --> 00:01:18,433
+Now, if you
+ask your father,
+
+6
+00:01:18,466 --> 00:01:19,800
+maybe he'll help you
+with your homework.
+
+7
+00:01:19,833 --> 00:01:22,200
+I'd rather
+hear a story.
+
+8
+00:01:22,233 --> 00:01:24,166
+Father,
+tell me more
+
+9
+00:01:24,200 --> 00:01:25,600
+about the legend
+of the Blue Knight.
+
+10
+00:01:25,633 --> 00:01:28,400
+FATHER:
+Homework first,
+stories later.
+
+11
+00:01:28,433 --> 00:01:30,533
+Hmm... Oh.
+
+12
+00:01:30,566 --> 00:01:32,600
+Try this, Emily.
+
+13
+00:01:32,633 --> 00:01:35,333
+If you calculate pi
+to the billionth digit,
+
+14
+00:01:35,366 --> 00:01:37,600
+you can construct
+a five-dimensional algorithm.
+
+15
+00:01:37,633 --> 00:01:40,033
+Whoa! Five dimensions!
+
+16
+00:01:40,066 --> 00:01:41,066
+Next
+I'll show you
+
+17
+00:01:41,100 --> 00:01:42,500
+how to do
+six dimensions.
+
+18
+00:01:42,533 --> 00:01:45,266
+All right!
+
+19
+00:01:45,300 --> 00:01:46,366
+O'SHAY:
+As you can see,
+
+20
+00:01:46,400 --> 00:01:47,633
+their feelings
+are virtually identical
+
+21
+00:01:47,666 --> 00:01:49,466
+to human emotions.
+
+22
+00:01:49,500 --> 00:01:51,733
+WOMAN:
+That's the beauty
+of these prototypes.
+
+23
+00:01:51,766 --> 00:01:53,300
+By monitoring
+their systems,
+
+24
+00:01:53,333 --> 00:01:54,566
+we learn what life
+will be like
+
+25
+00:01:54,600 --> 00:01:56,033
+for humans in space,
+
+26
+00:01:56,066 --> 00:01:57,066
+physically and emotionally.
+
+27
+00:01:57,100 --> 00:02:00,066
+Someday we'll send real families
+to live in space,
+
+28
+00:02:00,100 --> 00:02:01,366
+in colonies
+like this.
+
+29
+00:02:01,400 --> 00:02:03,533
+These robot families
+are helping to pave the way.
+
+30
+00:02:03,566 --> 00:02:06,266
+WOMAN:
+But when we give them
+human emotions,
+
+31
+00:02:06,300 --> 00:02:07,633
+don't you think
+we have a responsibility
+
+32
+00:02:07,666 --> 00:02:09,266
+for what happens to them?
+
+33
+00:02:09,300 --> 00:02:10,733
+MAN:
+Now, don't get
+carried away.
+
+34
+00:02:10,766 --> 00:02:13,166
+These robots don't really
+care about each other.
+
+35
+00:02:13,200 --> 00:02:14,500
+It's just a simulation.
+
+36
+00:02:14,533 --> 00:02:16,466
+After all, they
+are only machines.
+
+37
+00:02:16,500 --> 00:02:18,066
+Arrgh! Arrgh!
+
+38
+00:02:18,100 --> 00:02:19,566
+What is going on?
+
+39
+00:02:26,566 --> 00:02:27,733
+Space raiders!
+
+40
+00:02:27,766 --> 00:02:29,033
+MAN:
+Oh, great.
+
+41
+00:02:29,066 --> 00:02:31,366
+This will ruin
+my experiment!
+
+42
+00:02:31,400 --> 00:02:33,200
+Forget
+your experiment!
+
+43
+00:02:33,233 --> 00:02:35,433
+Those robots
+are in serious danger.
+
+44
+00:02:35,466 --> 00:02:39,200
+O'SHAY [OVER RADIO]:
+<i>Astro, come in!</i>
+<i>Astro, do you read me?</i>
+
+45
+00:02:39,233 --> 00:02:42,066
+I copy you, doctor.
+What's up?
+
+46
+00:02:42,100 --> 00:02:44,200
+O'SHAY:
+<i>Space raiders</i>
+<i>hit the robot colony</i>
+
+47
+00:02:44,233 --> 00:02:45,233
+on Caspia-Nine.
+
+48
+00:02:45,266 --> 00:02:46,266
+No!
+
+49
+00:02:46,300 --> 00:02:48,066
+O'SHAY:
+At maximum hyperspeed,
+
+50
+00:02:48,100 --> 00:02:49,100
+you can get there
+in four hours.
+
+51
+00:02:52,266 --> 00:02:55,733
+MEN:
+Go! Go! Go! Go! Go!
+
+52
+00:02:55,766 --> 00:02:59,233
+EMILY:
+Father, you have
+built-in weapons.
+
+53
+00:02:59,266 --> 00:03:00,733
+Why don't you
+fight them?
+
+54
+00:03:00,766 --> 00:03:03,200
+FATHER:
+I can't fight humans.
+You can't either.
+
+55
+00:03:03,233 --> 00:03:04,533
+Our programming
+doesn't allow it.
+
+56
+00:03:04,566 --> 00:03:06,733
+[GRUNTING]
+
+57
+00:03:08,700 --> 00:03:10,533
+It doesn't stop me
+from protecting you!
+
+58
+00:03:10,566 --> 00:03:13,733
+[GRUNTING]
+
+59
+00:03:13,766 --> 00:03:17,500
+MOTHER:
+Hurry, get into
+the space pod.
+
+60
+00:03:17,533 --> 00:03:19,733
+What about you?
+You're coming too, right?
+
+61
+00:03:19,766 --> 00:03:21,100
+We can't, Emily.
+
+62
+00:03:21,133 --> 00:03:23,366
+We'll divert them
+while you get away.
+
+63
+00:03:23,400 --> 00:03:25,100
+Father, no!
+
+64
+00:03:25,133 --> 00:03:27,366
+Emily, when you're safe,
+try to find the Blue Knight.
+
+65
+00:03:27,400 --> 00:03:28,400
+He will help us!
+
+66
+00:03:28,433 --> 00:03:29,633
+The Blue Knight?
+
+67
+00:03:29,666 --> 00:03:31,466
+Like in those stories?
+
+68
+00:03:31,500 --> 00:03:33,233
+I thought he was
+just make-believe.
+
+69
+00:03:33,266 --> 00:03:35,500
+Emily, the Blue Knight is real.
+
+70
+00:03:35,533 --> 00:03:36,500
+You've got to find him!
+
+71
+00:03:36,533 --> 00:03:38,800
+He has <i>kokoro.</i>
+
+72
+00:03:38,833 --> 00:03:40,466
+He can fight humans.
+
+73
+00:03:40,500 --> 00:03:42,566
+He believes robots
+have the right to be free!
+
+74
+00:03:42,600 --> 00:03:43,700
+Argh!
+
+75
+00:03:47,400 --> 00:03:50,033
+Remember, Emily,
+we love you!
+
+76
+00:03:51,233 --> 00:03:53,033
+Father!
+
+77
+00:03:58,308 --> 00:04:00,474
+MAN:
+Ha, ha! Do you know
+how much they're worth?
+
+78
+00:04:00,508 --> 00:04:01,774
+We're talking
+big bucks here.
+
+79
+00:04:01,808 --> 00:04:03,808
+These bots
+are prototypes.
+
+80
+00:04:03,841 --> 00:04:05,474
+They have
+state-of-the-art intel.
+
+81
+00:04:05,508 --> 00:04:07,674
+MAN 2:
+We'll send them
+to the crystal mines on Mars
+
+82
+00:04:07,708 --> 00:04:09,408
+like all
+the other robots.
+
+83
+00:04:09,441 --> 00:04:11,708
+First, remove
+their intelligence.
+
+84
+00:04:11,741 --> 00:04:13,474
+But then we won't
+even get half the price!
+
+85
+00:04:13,508 --> 00:04:14,541
+Quiet!
+
+86
+00:04:14,574 --> 00:04:15,574
+Look at them,
+
+87
+00:04:15,608 --> 00:04:16,708
+trying to act
+like humans.
+
+88
+00:04:16,741 --> 00:04:18,541
+It's a disgrace!
+
+89
+00:04:18,574 --> 00:04:20,774
+Robots should be programmed
+to take orders,
+
+90
+00:04:20,808 --> 00:04:22,008
+not to think for themselves.
+
+91
+00:04:22,041 --> 00:04:23,374
+Is that clear?
+
+92
+00:04:23,408 --> 00:04:26,508
+Whatever you say,
+Mr. Katari.
+
+93
+00:04:26,541 --> 00:04:28,241
+You're the boss.
+
+94
+00:04:32,041 --> 00:04:33,274
+[BELL RINGING]
+
+95
+00:04:33,308 --> 00:04:34,274
+A distress signal!
+
+96
+00:04:36,708 --> 00:04:38,308
+Gotta fly!
+
+97
+00:04:47,408 --> 00:04:48,508
+Dad. Mom.
+
+98
+00:04:50,008 --> 00:04:51,974
+EMILY:
+Oh!
+
+99
+00:04:52,008 --> 00:04:53,208
+[SCREAMS]
+
+100
+00:04:57,041 --> 00:04:58,474
+Don't be afraid.
+
+101
+00:04:58,508 --> 00:05:00,374
+I only wanna help you.
+
+102
+00:05:00,408 --> 00:05:02,974
+Kinda cramped
+in there, isn't it?
+
+103
+00:05:03,008 --> 00:05:04,608
+Why don't you come outside?
+
+104
+00:05:07,308 --> 00:05:08,941
+How did you know
+I was here?
+
+105
+00:05:08,974 --> 00:05:11,508
+I've been
+searching for you.
+
+106
+00:05:11,541 --> 00:05:13,474
+My sensors picked up
+your signal.
+
+107
+00:05:13,508 --> 00:05:14,474
+Are you okay?
+
+108
+00:05:19,841 --> 00:05:21,941
+[SOBBING]
+
+109
+00:05:21,974 --> 00:05:23,374
+We were attacked
+
+110
+00:05:23,408 --> 00:05:24,874
+by a bunch
+of space raiders.
+
+111
+00:05:24,908 --> 00:05:26,774
+They got my mom and dad!
+
+112
+00:05:26,808 --> 00:05:30,374
+I know.
+I heard the report.
+
+113
+00:05:30,408 --> 00:05:33,308
+Don't worry. I've been tracking
+the space raiders for days.
+
+114
+00:05:33,341 --> 00:05:34,708
+That's why I'm here.
+
+115
+00:05:34,741 --> 00:05:35,808
+I'll find your parents
+
+116
+00:05:35,841 --> 00:05:37,241
+and bring them back,
+I promise.
+
+117
+00:05:37,274 --> 00:05:38,708
+But first I'm gonna
+take you
+
+118
+00:05:38,741 --> 00:05:40,641
+some place
+that's safe.
+
+119
+00:05:40,674 --> 00:05:42,374
+You mean you're gonna
+blast the space raiders?
+
+120
+00:05:42,408 --> 00:05:44,241
+That's great!
+I wanna fight too.
+
+121
+00:05:44,274 --> 00:05:45,708
+Take it easy!
+
+122
+00:05:45,741 --> 00:05:46,808
+I know you're upset,
+
+123
+00:05:46,841 --> 00:05:48,308
+but fighting's
+not the answer.
+
+124
+00:05:48,341 --> 00:05:50,341
+Humans do bad things
+sometimes,
+
+125
+00:05:50,374 --> 00:05:51,408
+but we can't just
+vaporize them
+
+126
+00:05:51,441 --> 00:05:52,741
+every time
+there's a problem!
+
+127
+00:05:52,774 --> 00:05:54,908
+You're not programmed
+to fight, are you?
+
+128
+00:05:54,941 --> 00:05:56,841
+That's not the point.
+
+129
+00:05:56,874 --> 00:05:58,741
+It's just that we need to show
+humans a more peaceful--
+
+130
+00:05:58,774 --> 00:06:00,008
+I don't care!
+
+131
+00:06:00,041 --> 00:06:00,874
+If humans
+attack robots,
+
+132
+00:06:00,908 --> 00:06:03,574
+then robots have
+the right to fight back!
+
+133
+00:06:03,608 --> 00:06:04,974
+That's what
+the Blue Knight says.
+
+134
+00:06:05,008 --> 00:06:07,008
+My father told me
+all about the Blue Knight.
+
+135
+00:06:07,041 --> 00:06:08,508
+But you don't know him.
+
+136
+00:06:08,541 --> 00:06:09,708
+I know enough.
+
+137
+00:06:09,741 --> 00:06:11,808
+He can change regular robots
+into battle-bots
+
+138
+00:06:11,841 --> 00:06:13,908
+and reset them
+for combat mode.
+
+139
+00:06:13,941 --> 00:06:17,441
+You see, if he reprograms me,
+I can go and save my parents!
+
+140
+00:06:17,474 --> 00:06:19,741
+But...
+I'll save them.
+
+141
+00:06:19,774 --> 00:06:21,008
+They're my family.
+
+142
+00:06:21,041 --> 00:06:22,274
+I'm not going
+to wait around
+
+143
+00:06:22,308 --> 00:06:23,874
+for someone
+to do this for me.
+
+144
+00:06:23,908 --> 00:06:26,374
+When Blue Knight changes me,
+
+145
+00:06:26,408 --> 00:06:28,374
+I'll have weapons
+and armor and all kinds of--
+
+146
+00:06:28,408 --> 00:06:30,708
+Listen, Emily, it's not
+just about weapons.
+
+147
+00:06:30,741 --> 00:06:31,974
+He'll change the way
+you think.
+
+148
+00:06:32,008 --> 00:06:33,808
+They change who you are.
+
+149
+00:06:33,841 --> 00:06:35,474
+I don't want that
+to happen to you.
+
+150
+00:06:35,508 --> 00:06:36,741
+Why?
+
+151
+00:06:38,874 --> 00:06:40,441
+Because I like you.
+
+152
+00:06:40,474 --> 00:06:41,674
+You're a special robot.
+That's why.
+
+153
+00:06:41,708 --> 00:06:44,441
+[SIGHS]
+
+154
+00:06:44,474 --> 00:06:45,674
+Hmm.
+
+155
+00:06:45,708 --> 00:06:46,841
+[BOTH GASP]
+
+156
+00:06:46,874 --> 00:06:50,208
+[RUMBLING]
+
+157
+00:06:58,608 --> 00:06:59,808
+EMILY:
+Space raiders!
+
+158
+00:06:59,841 --> 00:07:00,841
+ASTRO:
+They're back!
+
+159
+00:07:08,732 --> 00:07:11,098
+[♪]
+
+160
+00:07:11,132 --> 00:07:12,465
+EMILY:
+Where's it taking us?
+
+161
+00:07:12,498 --> 00:07:14,832
+ASTRO:
+It's going to be okay.
+
+162
+00:07:14,865 --> 00:07:16,465
+I know where we are.
+
+163
+00:07:17,932 --> 00:07:19,698
+Astro.
+
+164
+00:07:19,732 --> 00:07:22,565
+Blue Knight.
+You really are the Blue Knight!
+
+165
+00:07:22,598 --> 00:07:25,365
+Oh, I thought the space raiders
+got us too.
+
+166
+00:07:25,398 --> 00:07:26,565
+I've been looking
+for you.
+
+167
+00:07:26,598 --> 00:07:28,032
+You've found me.
+
+168
+00:07:32,432 --> 00:07:34,865
+All right, unlock
+the force field.
+
+169
+00:07:34,898 --> 00:07:38,732
+[ROARING & SIZZLING]
+
+170
+00:07:46,098 --> 00:07:47,965
+KATARI [OVER PA]: <i>You are now</i>
+<i>my personal possessions.</i>
+
+171
+00:07:47,998 --> 00:07:49,932
+<i>From here you'll be</i>
+<i>shipped off</i>
+
+172
+00:07:49,965 --> 00:07:50,965
+<i>to the Martian</i>
+<i>crystal mines,</i>
+
+173
+00:07:50,998 --> 00:07:54,698
+<i>where you will work</i>
+<i>until you rust.</i>
+
+174
+00:07:54,732 --> 00:07:58,732
+That's the only thing
+robots are good for.
+
+175
+00:07:58,765 --> 00:08:02,398
+KATARI:
+<i>If you try to escape or fail</i>
+<i>to cooperate in any way,</i>
+
+176
+00:08:02,432 --> 00:08:05,465
+<i>you will be</i>
+<i>instantly vaporized.</i>
+
+177
+00:08:05,498 --> 00:08:09,698
+[LAUGHS EVILLY]
+
+178
+00:08:09,732 --> 00:08:12,498
+EMILY: <i>My mother and father</i>
+<i>are in danger.</i>
+
+179
+00:08:12,532 --> 00:08:14,065
+Please change me
+into a battle-bot
+
+180
+00:08:14,098 --> 00:08:15,398
+so I can help them.
+
+181
+00:08:15,432 --> 00:08:17,865
+Don't do it!
+She's not a warrior.
+
+182
+00:08:17,898 --> 00:08:19,798
+You can see she wasn't
+made for fighting.
+
+183
+00:08:22,632 --> 00:08:24,898
+I will send a squadron
+to find your parents.
+
+184
+00:08:24,932 --> 00:08:26,898
+You can wait here
+at my base.
+
+185
+00:08:26,932 --> 00:08:28,898
+My troops will make sure
+that you're safe.
+
+186
+00:08:28,932 --> 00:08:30,798
+I don't wanna be safe!
+
+187
+00:08:30,832 --> 00:08:33,098
+I can't just wait here
+while my family's in danger.
+
+188
+00:08:33,132 --> 00:08:35,998
+Listen, Emily, you were
+not meant to fight.
+
+189
+00:08:36,032 --> 00:08:39,898
+I know I'm programmed to obey,
+but I can change, Astro.
+
+190
+00:08:39,932 --> 00:08:41,898
+EMILY:
+You understand,
+don't you, Blue Knight?
+
+191
+00:08:41,932 --> 00:08:43,898
+My father told me
+so many stories about you.
+
+192
+00:08:43,932 --> 00:08:45,865
+I want to join you.
+
+193
+00:08:45,898 --> 00:08:47,365
+ASTRO:
+Tell her no,
+Blue Knight.
+
+194
+00:08:47,398 --> 00:08:48,398
+Don't change her
+into a battle-bot.
+
+195
+00:08:48,432 --> 00:08:50,498
+EMILY: But I need
+to be strong now.
+
+196
+00:08:50,532 --> 00:08:51,332
+BLUE KNIGHT:
+Enough!
+
+197
+00:08:53,065 --> 00:08:55,498
+In my camp,
+every robot is free.
+
+198
+00:08:55,532 --> 00:08:57,765
+If they are afraid,
+we protect them.
+
+199
+00:08:57,798 --> 00:09:00,465
+And if they want to join
+our fight, we welcome them.
+
+200
+00:09:00,498 --> 00:09:02,565
+No one can control
+another robot
+
+201
+00:09:02,598 --> 00:09:03,798
+or tell them
+what to do,
+
+202
+00:09:03,832 --> 00:09:06,565
+even if their intentions
+are good, Astro.
+
+203
+00:09:09,832 --> 00:09:11,498
+The choice is yours, Emily,
+
+204
+00:09:11,532 --> 00:09:13,532
+but you would be taking
+a great risk.
+
+205
+00:09:13,565 --> 00:09:15,565
+Think about it
+very carefully.
+
+206
+00:09:19,832 --> 00:09:20,632
+I've decided.
+
+207
+00:09:20,665 --> 00:09:23,565
+I want to be a class-one
+battle-bot.
+
+208
+00:09:23,598 --> 00:09:25,532
+Prepare to transform.
+
+209
+00:09:25,565 --> 00:09:27,065
+ROBOT:
+Blue Knight!
+
+210
+00:09:27,098 --> 00:09:30,498
+Blue Knight! We've located
+the space raiders.
+
+211
+00:09:32,432 --> 00:09:33,765
+ROBOT:
+This is their base.
+
+212
+00:09:33,798 --> 00:09:34,932
+When the force field is up,
+
+213
+00:09:34,965 --> 00:09:37,565
+it's invisible
+to most scan systems.
+
+214
+00:09:37,598 --> 00:09:38,798
+That's why it's so hard to find.
+
+215
+00:09:41,065 --> 00:09:42,832
+We've finally penetrated
+their cloaking system,
+
+216
+00:09:42,865 --> 00:09:43,732
+and this is what we found:
+
+217
+00:09:43,765 --> 00:09:47,498
+a suspension cage
+with captured robots
+
+218
+00:09:47,532 --> 00:09:49,932
+and a particle generator
+ready to blast them.
+
+219
+00:09:49,965 --> 00:09:51,032
+ROBOT 2:
+That's their security.
+
+220
+00:09:51,065 --> 00:09:52,632
+If they're threatened,
+
+221
+00:09:52,665 --> 00:09:54,432
+that generator can destroy
+the robots in an instant.
+
+222
+00:09:54,465 --> 00:09:56,065
+[GASPS]
+
+223
+00:09:56,098 --> 00:09:57,898
+BLUE KNIGHT:
+So we can't just go
+charging in there.
+
+224
+00:09:57,932 --> 00:09:59,732
+We need a plan.
+
+225
+00:09:59,765 --> 00:10:02,498
+ASTRO:
+Let me see
+if I can find a weakness.
+
+226
+00:10:02,532 --> 00:10:04,098
+[COMPUTER BEEPING]
+
+227
+00:10:04,132 --> 00:10:07,798
+ASTRO:
+This is the power source
+for their particle generator.
+
+228
+00:10:07,832 --> 00:10:10,032
+I can take it out
+if you draw their attention,
+
+229
+00:10:10,065 --> 00:10:11,532
+but we'll have to work fast.
+
+230
+00:10:11,565 --> 00:10:13,598
+It'll take precise teamwork.
+
+231
+00:10:13,632 --> 00:10:16,632
+So you've decided
+to join our fight. Finally.
+
+232
+00:10:16,665 --> 00:10:19,398
+I'll save these robots,
+but I won't hurt humans.
+
+233
+00:10:19,432 --> 00:10:21,465
+Hmm. I understand.
+
+234
+00:10:21,498 --> 00:10:23,632
+You haven't changed
+at all, Astro.
+
+235
+00:10:23,665 --> 00:10:26,132
+We may not see eye to eye,
+
+236
+00:10:26,165 --> 00:10:28,498
+but today we fight
+side by side.
+
+237
+00:10:28,532 --> 00:10:29,898
+Right.
+
+238
+00:10:29,932 --> 00:10:32,065
+Did you analyze
+the force field?
+
+239
+00:10:32,098 --> 00:10:33,898
+NORQUEST:
+26 times.
+
+240
+00:10:33,932 --> 00:10:35,132
+It's practically impossible
+to break through.
+
+241
+00:10:35,165 --> 00:10:36,698
+BLUE KNIGHT:
+Practically?
+
+242
+00:10:36,732 --> 00:10:38,598
+NORQUEST:
+There's a tiny flaw
+in the grid.
+
+243
+00:10:38,632 --> 00:10:40,632
+And how do we
+bust through that flaw?
+
+244
+00:10:40,665 --> 00:10:41,765
+We need a robot
+
+245
+00:10:41,798 --> 00:10:43,632
+traveling
+at sub-light speeds.
+
+246
+00:10:43,665 --> 00:10:44,898
+Right.
+
+247
+00:10:44,932 --> 00:10:45,932
+That might be able
+
+248
+00:10:45,965 --> 00:10:47,398
+to break through at this spot.
+
+249
+00:10:47,432 --> 00:10:48,632
+If the robot is boosted
+with power
+
+250
+00:10:48,665 --> 00:10:49,765
+from your sword
+
+251
+00:10:49,798 --> 00:10:51,365
+and Astro's
+arm cannon,
+
+252
+00:10:51,398 --> 00:10:52,632
+it may penetrate
+the grid.
+
+253
+00:10:52,665 --> 00:10:55,598
+I can do it. I'll go.
+
+254
+00:10:55,632 --> 00:10:58,698
+Small robot, Crusher.
+You'd be smashed to pieces.
+
+255
+00:10:58,732 --> 00:10:59,932
+[SIGHS]
+
+256
+00:10:59,965 --> 00:11:01,465
+All right, I'll do it.
+
+257
+00:11:01,498 --> 00:11:04,732
+Astro, even you can't
+do two things at once.
+
+258
+00:11:04,765 --> 00:11:07,365
+You heard Norquest:
+
+259
+00:11:07,398 --> 00:11:09,132
+we'll need your arm cannon
+to accelerate the robot,
+
+260
+00:11:09,165 --> 00:11:10,598
+and all my knights
+are too big.
+
+261
+00:11:10,632 --> 00:11:12,098
+I can do it!
+
+262
+00:11:12,132 --> 00:11:13,932
+No, Emily.
+
+263
+00:11:13,965 --> 00:11:16,765
+Even if I turned you into
+a battle-bot, it wouldn't work.
+
+264
+00:11:16,798 --> 00:11:19,798
+You're used to thinking
+like a child, not a warrior.
+
+265
+00:11:19,832 --> 00:11:21,632
+You can't do it,
+Emily.
+
+266
+00:11:21,665 --> 00:11:22,698
+Yes, I can!
+
+267
+00:11:22,732 --> 00:11:25,698
+I am the only one
+small enough.
+
+268
+00:11:25,732 --> 00:11:26,898
+NORQUEST:
+It's true.
+
+269
+00:11:26,932 --> 00:11:28,498
+I just scanned
+the database.
+
+270
+00:11:28,532 --> 00:11:31,065
+There's no other
+suitable candidate.
+
+271
+00:11:31,098 --> 00:11:33,098
+I'll do whatever it takes!
+
+272
+00:11:35,698 --> 00:11:36,798
+Shadow,
+
+273
+00:11:36,832 --> 00:11:39,132
+can she be transformed
+into a warrior
+
+274
+00:11:39,165 --> 00:11:40,798
+in time
+for this mission?
+
+275
+00:11:40,832 --> 00:11:42,532
+Theoretically, it's possible.
+
+276
+00:11:42,565 --> 00:11:43,898
+But without training,
+
+277
+00:11:43,932 --> 00:11:46,832
+her old fears would come back
+and paralyze her.
+
+278
+00:11:46,865 --> 00:11:49,798
+To avoid that, we'd need
+to remove her memory.
+
+279
+00:11:49,832 --> 00:11:51,865
+[GASPS]
+
+280
+00:11:51,898 --> 00:11:53,532
+You can't do that!
+
+281
+00:11:53,565 --> 00:11:54,598
+Without her memories,
+
+282
+00:11:54,632 --> 00:11:56,598
+she wouldn't even
+be herself anymore.
+
+283
+00:11:56,632 --> 00:11:58,632
+We can return
+her memories later,
+
+284
+00:11:58,665 --> 00:12:00,665
+but the process
+is not perfected.
+
+285
+00:12:00,698 --> 00:12:02,798
+She'd be risking everything.
+
+286
+00:12:02,832 --> 00:12:03,932
+It's too much!
+
+287
+00:12:03,965 --> 00:12:05,498
+I'll take that risk!
+
+288
+00:12:05,532 --> 00:12:08,498
+Make whatever changes
+you need to make. I'm ready.
+
+289
+00:12:11,798 --> 00:12:15,565
+SHADOW:
+Once you become a warrior,
+you will feel no fear.
+
+290
+00:12:15,598 --> 00:12:18,798
+But you will also
+feel no joy or pleasure.
+
+291
+00:12:18,832 --> 00:12:22,565
+I understand. Transform me
+into a battle-bot.
+
+292
+00:12:22,598 --> 00:12:24,732
+SHADOW:
+Let us begin.
+
+293
+00:12:31,565 --> 00:12:33,665
+[BEEPING]
+
+294
+00:12:43,432 --> 00:12:45,798
+EMILY [WITH ROBOTIC VOICE]:
+My system
+is at maximum capacity.
+
+295
+00:12:45,832 --> 00:12:47,698
+I am ready for the mission.
+
+296
+00:12:47,732 --> 00:12:49,698
+Let nothing stand in my way.
+
+297
+00:12:51,732 --> 00:12:53,365
+Emily!
+
+298
+00:13:06,873 --> 00:13:10,106
+ROBOT:
+We're at 57 kilo-kliks
+and closing.
+
+299
+00:13:11,973 --> 00:13:13,240
+BLUE KNIGHT:
+It's time, Astro.
+
+300
+00:13:13,273 --> 00:13:15,006
+Is Emily ready for launch?
+
+301
+00:13:15,040 --> 00:13:17,240
+ROBOT:
+Yes, sir,
+locked on target.
+
+302
+00:13:17,273 --> 00:13:18,306
+BLUE KNIGHT:
+Start the attack!
+
+303
+00:13:18,340 --> 00:13:19,240
+ROBOT:
+Affirmative.
+
+304
+00:13:23,006 --> 00:13:25,140
+All right, Astro, let's
+give her a power boost.
+
+305
+00:13:25,173 --> 00:13:26,173
+Right!
+
+306
+00:13:27,273 --> 00:13:29,573
+Let justice prevail!
+
+307
+00:13:29,606 --> 00:13:31,306
+BOTH:
+Yahhhh!
+
+308
+00:13:49,106 --> 00:13:50,773
+What was that?
+
+309
+00:13:50,806 --> 00:13:52,140
+MAN:
+Something broke
+through the force field.
+
+310
+00:13:52,173 --> 00:13:53,173
+It's coming toward us!
+
+311
+00:13:53,206 --> 00:13:54,973
+KATARI:
+Blast it out of the sky!
+
+312
+00:14:12,940 --> 00:14:15,040
+[YELLS]
+
+313
+00:14:15,073 --> 00:14:15,873
+Arggh!
+
+314
+00:14:18,273 --> 00:14:21,040
+MAN:
+The force field
+is breaking down!
+
+315
+00:14:21,073 --> 00:14:23,073
+We're all clear!
+
+316
+00:14:23,106 --> 00:14:24,540
+ASTRO:
+Let's rocket!
+
+317
+00:14:33,973 --> 00:14:35,173
+[GRUNTS]
+
+318
+00:14:35,206 --> 00:14:36,940
+Another foolish robot!
+
+319
+00:14:36,973 --> 00:14:39,240
+[GRUNTING]
+
+320
+00:14:44,073 --> 00:14:46,140
+Another captive!
+
+321
+00:14:46,173 --> 00:14:47,740
+ALL:
+Arggh!
+
+322
+00:14:52,173 --> 00:14:53,840
+Activate the vaporizer!
+
+323
+00:14:53,873 --> 00:14:56,240
+Destroy all the robots!
+
+324
+00:14:56,273 --> 00:14:59,240
+MAN:
+Yes, sir. It'll take 20 seconds
+to reach full power.
+
+325
+00:14:59,273 --> 00:15:03,006
+ASTRO:
+<i>The power source</i>
+<i>is straight ahead!</i>
+
+326
+00:15:03,040 --> 00:15:05,006
+MAN:
+Nineteen, eighteen,
+
+327
+00:15:05,040 --> 00:15:07,006
+<i>seventeen,</i>
+
+328
+00:15:07,040 --> 00:15:10,940
+<i>sixteen, fifteen, fourteen,</i>
+
+329
+00:15:10,973 --> 00:15:15,640
+<i>thirteen, twelve, eleven,</i>
+
+330
+00:15:15,673 --> 00:15:18,606
+<i>ten, nine,</i>
+
+331
+00:15:18,640 --> 00:15:19,640
+[WHIMPERS]
+<i>eight,</i>
+
+332
+00:15:19,673 --> 00:15:22,840
+<i>seven, six,</i>
+
+333
+00:15:22,873 --> 00:15:24,606
+ASTRO:
+<i>Target locked.</i>
+<i>five,</i>
+
+334
+00:15:24,640 --> 00:15:29,740
+ASTRO: <i>Fire!</i>
+<i>four, three, two, one.</i>
+
+335
+00:15:29,773 --> 00:15:30,873
+And vaporize!
+
+336
+00:15:30,906 --> 00:15:31,973
+Huh? We lost our power!
+
+337
+00:15:32,006 --> 00:15:34,240
+[SCREAMING, GROANING]
+
+338
+00:15:37,940 --> 00:15:38,873
+Surprise!
+
+339
+00:15:38,906 --> 00:15:41,273
+Arggh!
+
+340
+00:15:41,306 --> 00:15:44,106
+[SCREAMING]
+
+341
+00:15:49,040 --> 00:15:50,140
+[SIGHS]
+
+342
+00:15:52,340 --> 00:15:53,806
+BLUE KNIGHT:
+Emily! Behind you!
+
+343
+00:15:53,840 --> 00:15:55,806
+He said Emily!
+
+344
+00:15:55,840 --> 00:15:57,073
+Hold it!
+
+345
+00:16:07,673 --> 00:16:08,673
+Emily!
+
+346
+00:16:08,706 --> 00:16:10,973
+Is that you,
+sweetheart?
+
+347
+00:16:11,006 --> 00:16:14,573
+You are correct.
+I am your child unit.
+
+348
+00:16:14,606 --> 00:16:17,640
+Serial number 815-Z.
+
+349
+00:16:20,040 --> 00:16:22,673
+Everyone, get in the ship.
+We're taking you out of here.
+
+350
+00:16:22,706 --> 00:16:24,173
+Emily's been
+reprogrammed.
+
+351
+00:16:24,206 --> 00:16:25,240
+Now, come on!
+
+352
+00:16:25,273 --> 00:16:26,306
+Who did this?
+
+353
+00:16:26,340 --> 00:16:27,840
+ASTRO:
+It was her own decision.
+
+354
+00:16:27,873 --> 00:16:29,240
+There's no time to explain.
+
+355
+00:16:29,273 --> 00:16:31,140
+You've got to get on the ship.
+Now, hurry!
+
+356
+00:16:31,173 --> 00:16:32,173
+Huh? Arggh!
+
+357
+00:16:34,340 --> 00:16:36,706
+You're not going anywhere!
+
+358
+00:16:38,240 --> 00:16:39,240
+ASTRO:
+Blue Knight!
+
+359
+00:16:39,273 --> 00:16:41,640
+I've got your back!
+
+360
+00:16:44,273 --> 00:16:46,040
+Time to turn this battle around.
+
+361
+00:16:48,340 --> 00:16:50,073
+EMILY:
+Wait here.
+
+362
+00:16:50,106 --> 00:16:51,540
+[BOTH GASP]
+
+363
+00:16:55,606 --> 00:16:57,840
+You're scrap metal!
+
+364
+00:17:00,140 --> 00:17:03,006
+EMILY:
+Yahhh!
+
+365
+00:17:04,940 --> 00:17:07,206
+Arggh!
+
+366
+00:17:08,740 --> 00:17:11,306
+Yahhh!
+
+367
+00:17:11,340 --> 00:17:13,306
+[GROWLS]
+
+368
+00:17:18,040 --> 00:17:19,106
+Yahhh!
+
+369
+00:17:22,106 --> 00:17:24,073
+EMILY'S PARENTS:
+Emily! Emily!
+
+370
+00:17:24,106 --> 00:17:26,806
+[GRUNTING]
+
+371
+00:17:26,840 --> 00:17:29,073
+Foolish robots!
+
+372
+00:17:29,106 --> 00:17:33,940
+[GRUNTING & WHIMPERING]
+
+373
+00:17:37,140 --> 00:17:38,673
+[BOTH GASP]
+
+374
+00:17:39,606 --> 00:17:40,773
+[BLUE KNIGHT GROWLS]
+
+375
+00:17:47,340 --> 00:17:48,573
+Go ahead!
+
+376
+00:17:50,040 --> 00:17:51,173
+Blue Knight!
+
+377
+00:17:55,973 --> 00:17:58,740
+You can have him, Astro.
+
+378
+00:18:01,240 --> 00:18:02,640
+EMILY'S FATHER:
+Emily!
+
+379
+00:18:02,673 --> 00:18:05,073
+Wake up, Emily!
+Can you hear me?
+
+380
+00:18:05,106 --> 00:18:06,006
+EMILY'S MOTHER:
+Emily!
+
+381
+00:18:11,106 --> 00:18:13,840
+SHADOW:
+The reconfiguration
+is complete.
+
+382
+00:18:13,873 --> 00:18:16,573
+We've changed Emily back
+to her original form
+
+383
+00:18:16,606 --> 00:18:18,073
+and uploaded her memory data.
+
+384
+00:18:18,106 --> 00:18:20,606
+ASTRO:
+Then why doesn't
+she wake up?
+
+385
+00:18:20,640 --> 00:18:22,606
+Why can't you
+activate her program?
+
+386
+00:18:22,640 --> 00:18:25,240
+SHADOW:
+I told you it was
+an experimental procedure.
+
+387
+00:18:25,273 --> 00:18:27,140
+Of course, we can
+override her system
+
+388
+00:18:27,173 --> 00:18:28,840
+and get her to respond
+mechanically,
+
+389
+00:18:28,873 --> 00:18:31,606
+but her brain, the part of her
+that used to be Emily,
+
+390
+00:18:31,640 --> 00:18:33,240
+that part may never return.
+
+391
+00:18:33,273 --> 00:18:34,706
+[BOTH GASP]
+
+392
+00:18:40,973 --> 00:18:43,773
+I know this was Emily's idea.
+
+393
+00:18:43,806 --> 00:18:45,940
+She chose to make this decision.
+
+394
+00:18:45,973 --> 00:18:49,906
+But she was just an innocent
+robot on the inside.
+
+395
+00:18:49,940 --> 00:18:51,940
+Why did she have to become
+so tough on the outside?
+
+396
+00:18:51,973 --> 00:18:54,773
+[ASTRO GROANS]
+
+397
+00:18:58,740 --> 00:18:59,940
+EMILY'S MOTHER:
+Emily?
+
+398
+00:18:59,973 --> 00:19:02,806
+Emily, we're here with you.
+
+399
+00:19:02,840 --> 00:19:06,806
+We know you did this for us
+because we needed you,
+
+400
+00:19:06,840 --> 00:19:07,906
+but we need you now!
+
+401
+00:19:11,906 --> 00:19:14,206
+Oh!
+
+402
+00:19:14,240 --> 00:19:15,606
+Emily!
+
+403
+00:19:15,640 --> 00:19:17,240
+[GASPS]
+
+404
+00:19:20,140 --> 00:19:24,606
+Father. Mother.
+You're all right now.
+
+405
+00:19:24,640 --> 00:19:27,006
+MOTHER:
+Because you saved us.
+Don't you remember?
+
+406
+00:19:27,040 --> 00:19:29,073
+FATHER:
+They changed you
+into a warrior.
+
+407
+00:19:29,106 --> 00:19:34,340
+I kind of remember.
+But it was all so dark.
+
+408
+00:19:34,373 --> 00:19:38,940
+I felt so alone, and all
+I could think of was fighting.
+
+409
+00:19:38,973 --> 00:19:44,340
+Astro, I don't want to be
+a warrior. Never again.
+
+410
+00:19:44,373 --> 00:19:45,973
+I just want to be
+with my family.
+
+411
+00:19:46,006 --> 00:19:48,206
+Emily.
+
+412
+00:19:54,706 --> 00:19:56,306
+BLUE KNIGHT:
+If Astro were
+to join our cause,
+
+413
+00:19:56,340 --> 00:19:58,706
+we'd be so much
+stronger.
+
+414
+00:19:58,740 --> 00:20:00,740
+SHADOW:
+But his methods
+are different than ours.
+
+415
+00:20:00,773 --> 00:20:02,173
+How could we get him
+to join us?
+
+416
+00:20:02,206 --> 00:20:03,240
+By going to planet Earth.
+
+417
+00:20:03,273 --> 00:20:04,340
+That's where Astro
+is based,
+
+418
+00:20:04,373 --> 00:20:05,873
+and that's where
+we should be.
+
+419
+00:20:05,906 --> 00:20:08,173
+It is time to move
+our operations.
+
+420
+00:20:08,206 --> 00:20:12,073
+That could lead to all-out war
+between robots and humans.
+
+421
+00:20:12,106 --> 00:20:13,973
+Is that what you want?
+
+422
+00:20:14,006 --> 00:20:17,673
+I am a knight.
+I only fight in defense.
+
+423
+00:20:17,706 --> 00:20:21,006
+But if robots
+are treated like slaves,
+
+424
+00:20:21,040 --> 00:20:24,240
+then I will do whatever
+it takes to set them free.
+
+425
+00:20:26,040 --> 00:20:28,706
+We were all created on Earth.
+
+426
+00:20:28,740 --> 00:20:32,706
+Tell the other knights...
+we're going home.
+
+427
+00:20:38,706 --> 00:20:40,640
+[♪]
+
