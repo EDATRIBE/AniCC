@@ -7,7 +7,8 @@
       "type": "TV",
       "episodes": "12",
       "anidb_no": "13270",
-      "link": "Teasing Master Takagi-san"
+      "link": "Teasing Master Takagi-san",
+      "category": "Synchronized"
     },
     {
       "number": "2",
@@ -16,7 +17,8 @@
       "type": "Movie",
       "episodes": "1",
       "anidb_no": "11829",
-      "link": "Your Name"
+      "link": "Your Name",
+      "category": "Synchronized"
     }
   ],
   "Completed": [
@@ -27,16 +29,18 @@
       "type": "TV",
       "episodes": "12",
       "anidb_no": "447",
-      "link":".hack//Legend of the Twilight"
+      "link":".hack Legend of the Twilight",
+      "category": "Completed"
     },
     {
       "number": "2",
-      "title_en": ".hack Quantum",
+      "title_en": ".hack//Quantum",
       "title_ro": "",
       "type": "OVA",
       "episodes": "3",
       "anidb_no": "7883",
-      "link": ".hack Quantum"
+      "link": ".hack Quantum",
+      "category": "Completed"
     },
     {
       "number": "3",
@@ -45,7 +49,8 @@
       "type": "TV",
       "episodes": "23",
       "anidb_no": "7883",
-      "link": "Ace Attorney Season 2"
+      "link": "Ace Attorney Season 2",
+      "category": "Completed"
     }
   ],
   "Incompleted": [
@@ -56,7 +61,8 @@
       "type": "TV",
       "episodes": "24/25",
       "anidb_no": "11580",
-      "link": "ALL OUT!!"
+      "link": "ALL OUT!!",
+      "category": "Incompleted"
     }
   ]
 }
