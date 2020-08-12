@@ -1,0 +1,478 @@
+﻿1
+00:00:19,291 --> 00:00:21,208
+[FIGHTER] So you two
+want to join our party?
+
+2
+00:00:21,291 --> 00:00:22,291
+That's right.
+
+3
+00:00:22,375 --> 00:00:23,875
+You're lookin' at
+a skilled Hunter.
+
+4
+00:00:23,958 --> 00:00:26,625
+I'll admit I never been grouped
+up with you city folk before.
+
+5
+00:00:26,708 --> 00:00:29,208
+I'm more nervous than
+a cat around water.
+
+6
+00:00:29,291 --> 00:00:30,625
+[ALL]
+What a hillbilly.
+
+7
+00:00:30,708 --> 00:00:32,250
+I'm a valiant Valkyrie.
+
+8
+00:00:32,333 --> 00:00:33,833
+Unlike a lowly fighter,
+
+9
+00:00:33,916 --> 00:00:36,958
+I'm a noble warrior sent here by
+the Gods to fight for justice.
+
+10
+00:00:37,041 --> 00:00:38,625
+If you don't believe me,
+just stand back
+
+11
+00:00:38,708 --> 00:00:41,583
+and I'll demonstrate my
+strength and unparalleled power!
+
+12
+00:00:41,666 --> 00:00:43,958
+[DARKELF] I find that
+one extremely annoying.
+
+13
+00:00:44,041 --> 00:00:44,958
+Can I kill her?
+
+14
+00:00:45,041 --> 00:00:46,250
+[FIGHTER]
+Not just yet.
+
+15
+00:00:46,333 --> 00:00:47,625
+We could use another companion,
+
+16
+00:00:47,708 --> 00:00:49,791
+but unfortunately,
+we don't need two!
+
+17
+00:00:49,875 --> 00:00:51,625
+[VALKYRIE] Well, considering
+who I'm up against,
+
+18
+00:00:51,708 --> 00:00:53,916
+I'd say the choice is
+a fairly obvious one.
+
+19
+00:00:54,000 --> 00:00:55,791
+Hey! I might be
+from the country,
+
+20
+00:00:55,875 --> 00:00:58,000
+but I can whip your little
+butt seven ways from Sunday,
+
+21
+00:00:58,083 --> 00:00:59,208
+you big boob'd bimbo!
+
+22
+00:00:59,291 --> 00:01:00,625
+Let's all calm down.
+
+23
+00:01:00,708 --> 00:01:02,125
+[PALADIN] Why don't you
+start off by showing us
+
+24
+00:01:02,208 --> 00:01:05,083
+what you each have
+to offer our party?
+
+25
+00:01:05,166 --> 00:01:06,333
+[FIGHTER]
+Delicious!
+
+26
+00:01:06,416 --> 00:01:07,375
+This is too good!
+
+27
+00:01:07,458 --> 00:01:08,500
+I know.
+
+28
+00:01:08,583 --> 00:01:09,833
+That's 'cause I'm
+a damned fine cook!
+
+29
+00:01:09,916 --> 00:01:11,166
+With a hunter like
+me in your party,
+
+30
+00:01:11,250 --> 00:01:13,416
+it'll be good eatin' three
+squares a day, everyday.
+
+31
+00:01:13,500 --> 00:01:14,583
+I guarantee it!
+
+32
+00:01:14,666 --> 00:01:16,625
+Having you around
+could be a big help!
+
+33
+00:01:16,708 --> 00:01:19,166
+[FIGHTER] It's just so tasty,
+I can't even handle it!
+
+34
+00:01:19,250 --> 00:01:20,458
+What did you put in this stuff?
+
+35
+00:01:20,541 --> 00:01:23,041
+Well... That there is my
+famous dried slime soup!
+
+36
+00:01:23,125 --> 00:01:24,875
+[FIGHTER, MAGE retch]
+
+37
+00:01:24,958 --> 00:01:28,041
+[FIGHTER] How could you let me
+eat something as nasty as this?
+
+38
+00:01:28,125 --> 00:01:31,208
+Nasty? But it's so juicy,
+thick and delicious.
+
+39
+00:01:31,291 --> 00:01:33,041
+Welp! If you don't like that,
+
+40
+00:01:33,125 --> 00:01:35,666
+I got some harpy brains and
+some basilisk eyeball soufflé
+
+41
+00:01:35,750 --> 00:01:38,083
+--I could whip up in a jiffy!
+--[MAGE] Please, no more!
+
+42
+00:01:38,166 --> 00:01:39,875
+Well, that's what you
+get with bumpkins!
+
+43
+00:01:39,958 --> 00:01:41,750
+She can't compare
+to someone as noble,
+
+44
+00:01:41,833 --> 00:01:43,875
+dignified and powerful as I am!
+
+45
+00:01:43,958 --> 00:01:45,250
+You think you're
+so damn special?
+
+46
+00:01:45,333 --> 00:01:46,333
+What can you do?
+
+47
+00:01:46,416 --> 00:01:48,833
+[VALKYRIE yells, grunts]
+
+48
+00:01:48,916 --> 00:01:50,708
+[MONSTER roars]
+
+49
+00:01:52,083 --> 00:01:53,416
+[GROUP gasps, applause]
+
+50
+00:01:53,500 --> 00:01:56,500
+[HUNTER grunts]
+I could do that if I wanted to!
+
+51
+00:01:56,583 --> 00:01:58,958
+[VALKYRIE] Not to brag,
+but few have been blessed with
+
+52
+00:01:59,041 --> 00:02:02,500
+the raw talent and supreme power
+that I naturally possess.
+
+53
+00:02:02,583 --> 00:02:03,666
+Now you see the truth:
+
+54
+00:02:03,750 --> 00:02:05,458
+the Gods themselves
+have bestowed me
+
+55
+00:02:05,541 --> 00:02:07,875
+with the holy gift
+of their divine light.
+
+56
+00:02:07,958 --> 00:02:10,041
+I'm not going to lie,
+I still want to kill her,
+
+57
+00:02:10,125 --> 00:02:11,208
+but she is good.
+
+58
+00:02:11,291 --> 00:02:12,416
+It's settled, then.
+
+59
+00:02:12,500 --> 00:02:13,875
+After seeing what they
+both have to offer,
+
+60
+00:02:13,958 --> 00:02:15,666
+the Valkyrie seems
+like the clear choice.
+
+61
+00:02:15,750 --> 00:02:16,875
+[VALKYRIE]
+Phew!
+
+62
+00:02:16,958 --> 00:02:18,500
+All that showing off
+has really worn me out.
+
+63
+00:02:18,583 --> 00:02:20,208
+We should all head back to town.
+
+64
+00:02:20,291 --> 00:02:20,916
+Here!
+
+65
+00:02:21,000 --> 00:02:21,625
+What?
+
+66
+00:02:21,708 --> 00:02:23,041
+We have horses, right?
+
+67
+00:02:23,125 --> 00:02:25,250
+Or do you guys have like
+a wagon or something?
+
+68
+00:02:25,333 --> 00:02:26,500
+What are you talking about?
+
+69
+00:02:26,583 --> 00:02:28,916
+I'm sorry, but we have
+nothing of the sort!
+
+70
+00:02:29,000 --> 00:02:31,625
+Isn't it obvious that
+we're walking back to town?
+
+71
+00:02:31,708 --> 00:02:32,958
+You just said "walk"!
+
+72
+00:02:33,041 --> 00:02:35,083
+But walking's so common
+and uncivilized.
+
+73
+00:02:35,166 --> 00:02:37,875
+I'm a dignified warrior,
+so I'd never stoop so low!
+
+74
+00:02:37,958 --> 00:02:39,583
+--[VALKYRIE grumbling]
+--What's this girl's deal?
+
+75
+00:02:39,666 --> 00:02:40,625
+Little brat.
+
+76
+00:02:40,708 --> 00:02:42,458
+She's a total snob,
+that's for sure.
+
+77
+00:02:42,541 --> 00:02:44,125
+I knew she annoyed
+me for good reason.
+
+78
+00:02:44,208 --> 00:02:45,916
+Can I kill her now or what?
+
+79
+00:02:47,666 --> 00:02:48,916
+Since these here city slickers
+
+80
+00:02:49,000 --> 00:02:50,416
+can't decide which
+of us to take,
+
+81
+00:02:50,500 --> 00:02:52,625
+we'll have to settle this with
+a good ole fashioned duel.
+
+82
+00:02:52,708 --> 00:02:54,166
+Sounds like a plan to me.
+
+83
+00:02:54,250 --> 00:02:55,875
+I sure hope you like
+the taste of steel
+
+84
+00:02:55,958 --> 00:02:57,916
+'cause you're about to
+get a mouthful of mine!
+
+85
+00:02:58,000 --> 00:02:59,666
+Then let's dance!
+
+86
+00:02:59,750 --> 00:03:00,583
+--[VALKYRIE squeals]
+--Tell me,
+
+87
+00:03:00,666 --> 00:03:02,791
+who's the dignified lady now?
+
+88
+00:03:02,875 --> 00:03:04,541
+--[HUNTER moans]
+--Fine! Two can play that game!
+
+89
+00:03:04,625 --> 00:03:06,208
+Yeah, you like that don't you?
+
+90
+00:03:06,291 --> 00:03:07,291
+[GROUP]
+Uh...
+
+91
+00:03:07,375 --> 00:03:08,666
+[HUNTER]
+I'm'a make you pay for that!
+
+92
+00:03:08,750 --> 00:03:09,833
+[VALKYRIE] Where do you
+think you're touching?!
+
+93
+00:03:09,916 --> 00:03:13,166
+[yelps] No, not there!
+
+94
+00:03:15,666 --> 00:03:16,750
+Yep.
+
+95
+00:03:16,833 --> 00:03:19,125
+After fightin', the two
+of us became BFFs.
+
+96
+00:03:19,208 --> 00:03:21,791
+You're a real sweet heart on
+the inside, you know that?
+
+97
+00:03:21,875 --> 00:03:23,583
+This girl's the exact
+type of companion
+
+98
+00:03:23,666 --> 00:03:25,375
+I've been searching
+for my whole life.
+
+99
+00:03:25,458 --> 00:03:28,625
+With us together, that's all the
+party I think I'll ever need.
+
+100
+00:03:28,708 --> 00:03:30,041
+[BOTH]
+Aww!
+
+101
+00:03:30,125 --> 00:03:32,791
+[PALADIN]
+Uh... Wow.
+
+102
+00:03:32,875 --> 00:03:35,583
+And they lived
+happily ever after...
+
+103
+00:03:35,666 --> 00:03:37,000
+...I guess?
+

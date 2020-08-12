@@ -1,0 +1,476 @@
+﻿1
+00:00:10,541 --> 00:00:13,333
+[KING] We have long awaited
+your arrival, Brave Warriors.
+
+2
+00:00:13,416 --> 00:00:15,000
+Raise your faces.
+
+3
+00:00:15,083 --> 00:00:17,125
+We have heard much
+of your great feats.
+
+4
+00:00:17,208 --> 00:00:21,833
+Our lands would be ruined
+if not for your heroism.
+
+5
+00:00:21,916 --> 00:00:23,291
+Valiant Fighter,
+
+6
+00:00:23,375 --> 00:00:26,000
+to have a warrior like you
+in Our halls is a treasure.
+
+7
+00:00:26,083 --> 00:00:28,208
+Sire, you honor me.
+
+8
+00:00:28,291 --> 00:00:30,791
+[KING] Blessed are We to
+have you with us, Paladin.
+
+9
+00:00:30,875 --> 00:00:33,041
+Verily, your feats
+of strength in battle
+
+10
+00:00:33,125 --> 00:00:36,708
+are matched only by
+your exquisite beauty.
+
+11
+00:00:36,791 --> 00:00:40,291
+You humble me with your kind and
+generous praise, Your Majesty.
+
+12
+00:00:40,375 --> 00:00:43,583
+[KING] For one as young as you
+to have such mastery over magic,
+
+13
+00:00:43,666 --> 00:00:47,083
+Mage, you truly are a prodigy.
+
+14
+00:00:47,166 --> 00:00:48,458
+Thank you, Sire.
+
+15
+00:00:48,541 --> 00:00:50,250
+Your words are far too kind.
+
+16
+00:00:50,333 --> 00:00:52,000
+[KING]
+And you, Darkelf.
+
+17
+00:00:52,083 --> 00:00:54,791
+The tales of your intellect
+and prowess in combat
+
+18
+00:00:54,875 --> 00:00:56,458
+reach far and wide.
+
+19
+00:00:56,541 --> 00:00:57,625
+[laughs]
+
+20
+00:00:57,708 --> 00:00:58,791
+Even to this decaying,
+
+21
+00:00:58,875 --> 00:01:00,875
+ramshackle little
+town you call home?
+
+22
+00:01:00,958 --> 00:01:02,291
+[PALADIN]
+You're so rude!
+
+23
+00:01:02,375 --> 00:01:05,041
+[KING] Your skill and courage
+go unrivaled everywhere.
+
+24
+00:01:05,125 --> 00:01:07,125
+If only your aid
+had arrived sooner,
+
+25
+00:01:07,208 --> 00:01:08,833
+we wouldn't find
+ourselves plagued
+
+26
+00:01:08,916 --> 00:01:10,833
+by such a tragic situation.
+
+27
+00:01:10,916 --> 00:01:11,666
+[FIGHTER]
+My Lord?
+
+28
+00:01:11,750 --> 00:01:12,833
+[KING]
+Our very existence
+
+29
+00:01:12,916 --> 00:01:14,958
+now verges on the
+brink of destruction.
+
+30
+00:01:15,041 --> 00:01:17,125
+No hope remains in this kingdom.
+
+31
+00:01:17,208 --> 00:01:19,166
+[FIGHTER]
+Fear not, Sire, we're here now!
+
+32
+00:01:19,250 --> 00:01:21,416
+[PALADIN] We fight to restore
+peace throughout the world,
+
+33
+00:01:21,500 --> 00:01:23,708
+no matter what the
+personal cost may be!
+
+34
+00:01:23,791 --> 00:01:25,125
+[MAGE] Whatever ails
+you and your people,
+
+35
+00:01:25,208 --> 00:01:27,833
+this party will not rest
+until we see justice done!
+
+36
+00:01:27,916 --> 00:01:30,041
+[DARKELF] This darkness
+will be no more, My Liege!
+
+37
+00:01:30,125 --> 00:01:32,375
+[KING] We were wise to
+place such faith in you.
+
+38
+00:01:32,458 --> 00:01:34,500
+[KING]
+Our fate is in your hands now!
+
+39
+00:01:34,583 --> 00:01:36,500
+Brave Ones! Defend us!
+
+40
+00:01:36,583 --> 00:01:38,083
+[ALL]
+Right!
+
+41
+00:01:38,166 --> 00:01:39,500
+Uh, Sire?
+
+42
+00:01:39,583 --> 00:01:41,000
+Yes? What's the problem?
+
+43
+00:01:41,083 --> 00:01:42,625
+We assumed we were
+done speaking.
+
+44
+00:01:42,708 --> 00:01:44,041
+[FIGHTER]
+Sorry about that.
+
+45
+00:01:44,125 --> 00:01:45,958
+But see, the thing is,
+we can't just go out and fight.
+
+46
+00:01:46,041 --> 00:01:48,791
+We need equipment and
+supplies and stuff like that.
+
+47
+00:01:48,875 --> 00:01:50,958
+Oh! Yes. Our apologies.
+
+48
+00:01:51,041 --> 00:01:54,666
+In that case, take some gold
+to aid you in your quest!
+
+49
+00:01:54,750 --> 00:01:56,833
+--[FIGHTER] Uhh...
+--[MAGE] One, two, three,
+
+50
+00:01:56,916 --> 00:01:58,083
+--four... Uh... Yikes!
+--[DARKELF] Do my eyes
+
+51
+00:01:58,166 --> 00:02:00,291
+deceive me or am I
+looking at a measly stack
+
+52
+00:02:00,375 --> 00:02:02,125
+of ten gold coins on that plate?
+
+53
+00:02:02,208 --> 00:02:04,083
+Go! Fight hard, Brave Ones!
+
+54
+00:02:04,166 --> 00:02:05,875
+Highness? The thing is...
+
+55
+00:02:05,958 --> 00:02:07,083
+We can't.
+
+56
+00:02:07,166 --> 00:02:08,208
+We won't!
+
+57
+00:02:08,291 --> 00:02:09,791
+Apparently you think
+saving your people
+
+58
+00:02:09,875 --> 00:02:12,250
+is worth the price of a potion.
+So as far as we're concerned,
+
+59
+00:02:12,333 --> 00:02:14,375
+you can take your ten
+gold coins and shove it!
+
+60
+00:02:14,458 --> 00:02:15,916
+Hey! Don't be rude.
+
+61
+00:02:16,000 --> 00:02:18,666
+I'm sure he means to give us
+more gold than this paltry sum.
+
+62
+00:02:18,750 --> 00:02:21,458
+Unfortunately, this
+is all I can give you.
+
+63
+00:02:21,541 --> 00:02:22,875
+Fight hard, Brave Ones!
+
+64
+00:02:22,958 --> 00:02:23,708
+[gasps]
+
+65
+00:02:23,791 --> 00:02:24,833
+My Lord!
+
+66
+00:02:24,916 --> 00:02:26,125
+Just to sleep at an
+inn for one night
+
+67
+00:02:26,208 --> 00:02:28,541
+costs twenty pieces
+of gold, per person!
+
+68
+00:02:28,625 --> 00:02:30,000
+With all due respect,
+Your Majesty,
+
+69
+00:02:30,083 --> 00:02:31,541
+we'd be foolish to
+put our lives at risk
+
+70
+00:02:31,625 --> 00:02:33,291
+for such a tiny amount of money!
+
+71
+00:02:33,375 --> 00:02:35,291
+Go fight hard, Brave Ones!
+
+72
+00:02:35,375 --> 00:02:36,791
+Wait! Just a second!
+
+73
+00:02:36,875 --> 00:02:38,125
+Couldn't you at least lend us
+
+74
+00:02:38,208 --> 00:02:40,333
+the legendary weapons that
+you have in the castle?
+
+75
+00:02:40,416 --> 00:02:41,833
+Uh... Yes, those.
+
+76
+00:02:41,916 --> 00:02:44,000
+Um, well you see...
+
+77
+00:02:44,083 --> 00:02:45,750
+We have nothing
+of the sort here!
+
+78
+00:02:45,833 --> 00:02:46,791
+Oh, come on!
+
+79
+00:02:46,875 --> 00:02:47,833
+What? Please.
+
+80
+00:02:47,916 --> 00:02:49,041
+You just said ya did!
+
+81
+00:02:49,125 --> 00:02:51,458
+Sorry, Brave Heroes,
+but you are mistaken.
+
+82
+00:02:51,541 --> 00:02:52,666
+Now go and fight!
+
+83
+00:02:52,750 --> 00:02:53,916
+I've got an idea.
+
+84
+00:02:54,000 --> 00:02:55,625
+Why not sell the armor
+off these guards?
+
+85
+00:02:55,708 --> 00:02:57,125
+Clearly they're not
+getting the job done
+
+86
+00:02:57,208 --> 00:02:59,041
+on the whole defending
+the kingdom front.
+
+87
+00:02:59,125 --> 00:03:00,916
+Then use that gold to
+buy us some weapons.
+
+88
+00:03:01,000 --> 00:03:02,583
+[GUARD]
+Hey! What did we ever do to you?
+
+89
+00:03:02,666 --> 00:03:04,666
+Your Majesty, you can't
+possibly be saying that
+
+90
+00:03:04,750 --> 00:03:07,583
+our bodies are worth ten
+meager pieces of gold, can you?
+
+91
+00:03:07,666 --> 00:03:09,958
+Uh, no... I don't
+think anyone said that.
+
+92
+00:03:10,041 --> 00:03:12,583
+You guys, I know ten
+pieces of gold isn't much,
+
+93
+00:03:12,666 --> 00:03:14,791
+but if we don't stand up
+and fight for their kingdom,
+
+94
+00:03:14,875 --> 00:03:16,250
+then who will?
+
+95
+00:03:16,333 --> 00:03:19,083
+Give us your gold right now,
+or your kingdom is doomed!
+
+96
+00:03:19,166 --> 00:03:20,166
+[DARKELF]
+My Lord.
+
+97
+00:03:20,250 --> 00:03:22,041
+The decision is yours!
+
+98
+00:03:24,750 --> 00:03:26,458
+Why did it come to this?
+
+99
+00:03:26,541 --> 00:03:29,708
+[FIGHTER grunting]
+Like you don't know!
+
+100
+00:03:29,791 --> 00:03:30,708
+[PALADIN]
+Uh-oh!
+
+101
+00:03:30,791 --> 00:03:32,708
+This rope is in
+an awkward place!
+
+102
+00:03:32,791 --> 00:03:34,791
+[MAGE]
+Uh-huh! What were we thinking?
+
+103
+00:03:34,875 --> 00:03:37,208
+Please don't look at me!
+

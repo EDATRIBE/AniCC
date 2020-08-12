@@ -1,0 +1,2610 @@
+﻿1
+00:00:11,250 --> 00:00:13,125
+[DOPPO] A mysterious
+criminal group is threatening
+
+2
+00:00:13,208 --> 00:00:15,916
+to detonate a bomb
+somewhere in the city.
+
+3
+00:00:16,000 --> 00:00:17,291
+Not only that,
+
+4
+00:00:17,375 --> 00:00:19,833
+they've launched a smear
+campaign against our agency.
+
+5
+00:00:19,916 --> 00:00:22,666
+Sounds like we're caught
+between a rock and a hard place.
+
+6
+00:00:22,750 --> 00:00:24,083
+Do you have any
+helpful information
+
+7
+00:00:24,166 --> 00:00:25,500
+on where the bomb might be?
+
+8
+00:00:25,583 --> 00:00:26,375
+Not much.
+
+9
+00:00:26,458 --> 00:00:27,583
+Right now all we have to go on
+
+10
+00:00:27,666 --> 00:00:29,625
+is the message left
+by the perpetrator.
+
+11
+00:00:29,708 --> 00:00:30,958
+Here it is...
+
+12
+00:00:31,041 --> 00:00:33,750
+"Greetings, I hope that
+the Armed Detective Agency
+
+13
+00:00:33,833 --> 00:00:35,625
+and its members
+are faring well.
+
+14
+00:00:35,708 --> 00:00:38,250
+Forgive my impudence,
+but I have placed a bomb
+
+15
+00:00:38,333 --> 00:00:39,916
+capable of causing
+mass destruction
+
+16
+00:00:40,000 --> 00:00:42,458
+in a certain location
+here in Yokohama.
+
+17
+00:00:42,541 --> 00:00:43,625
+Since you claim to be
+
+18
+00:00:43,708 --> 00:00:46,166
+an agency aimed
+at securing public safety,
+
+19
+00:00:46,250 --> 00:00:49,791
+I request you locate and disarm
+the bomb as soon as you can.
+
+20
+00:00:49,875 --> 00:00:51,666
+You only have until sundown.
+
+21
+00:00:51,750 --> 00:00:53,250
+I wish you the best of luck.
+
+22
+00:00:53,333 --> 00:00:55,583
+I have full faith
+in your abilities.
+
+23
+00:00:55,666 --> 00:00:58,000
+Respectfully,
+the Azure Messenger."
+
+24
+00:00:58,083 --> 00:00:59,208
+[YUKICHI]
+A strange signature.
+
+25
+00:00:59,291 --> 00:01:00,875
+Who is the Azure Messenger?
+
+26
+00:01:00,958 --> 00:01:02,500
+[DOPPO]
+We don't know, yet.
+
+27
+00:01:02,583 --> 00:01:04,166
+This bomb could ruin us.
+
+28
+00:01:04,250 --> 00:01:07,083
+It's rigged specifically
+to make our team look bad.
+
+29
+00:01:07,166 --> 00:01:09,958
+He's setting us up so that
+if we fail his challenge,
+
+30
+00:01:10,041 --> 00:01:11,708
+everyone will hold
+us responsible
+
+31
+00:01:11,791 --> 00:01:13,750
+for the damages instead of them.
+
+32
+00:01:13,833 --> 00:01:17,083
+Our failure to stop the attack
+would spread like wild fire.
+
+33
+00:01:17,166 --> 00:01:18,500
+The bomb could be anywhere.
+
+34
+00:01:18,583 --> 00:01:21,458
+The office staff has been
+scouring the city for it.
+
+35
+00:01:21,541 --> 00:01:23,541
+But there are too
+many possibilities.
+
+36
+00:01:23,625 --> 00:01:24,541
+[KENJI]
+Hey...
+
+37
+00:01:24,625 --> 00:01:25,875
+I bet Rampo could help.
+
+38
+00:01:25,958 --> 00:01:27,625
+Have we had any luck
+getting in touch with him?
+
+39
+00:01:27,708 --> 00:01:30,416
+It seems he's still busy
+with the case in Kyushu.
+
+40
+00:01:30,500 --> 00:01:32,791
+I've asked him to contact
+us as soon as possible,
+
+41
+00:01:32,875 --> 00:01:34,625
+but we need leads right now.
+
+42
+00:01:34,708 --> 00:01:37,166
+Did you get any information
+from that taxi driver?
+
+43
+00:01:37,250 --> 00:01:38,250
+Unfortunately, no.
+
+44
+00:01:38,333 --> 00:01:40,500
+He denies any
+knowledge of the bomb.
+
+45
+00:01:40,583 --> 00:01:42,000
+I believe him.
+
+46
+00:01:42,083 --> 00:01:44,708
+I don't think he's the type
+to try to blow up Yokohama.
+
+47
+00:01:44,791 --> 00:01:46,416
+Okay then, listen up!
+
+48
+00:01:46,500 --> 00:01:47,916
+This is a cowardly act.
+
+49
+00:01:48,000 --> 00:01:49,625
+Someone's endangering lives just
+
+50
+00:01:49,708 --> 00:01:51,666
+to bring down the
+Armed Detective Agency.
+
+51
+00:01:51,750 --> 00:01:53,041
+We have two objectives:
+
+52
+00:01:53,125 --> 00:01:55,958
+uncover the Azure Messenger,
+whoever this person is,
+
+53
+00:01:56,041 --> 00:01:58,000
+and disarm the bomb they've set.
+
+54
+00:01:58,083 --> 00:02:01,208
+The bomb takes priority
+because of its deadly potential.
+
+55
+00:02:01,291 --> 00:02:04,958
+If we can't find the bomb, it
+will destroy innocent lives...
+
+56
+00:02:05,041 --> 00:02:07,500
+...as well as the hard-earned
+reputation of our agency.
+
+57
+00:02:07,583 --> 00:02:09,083
+[DOPPO]
+Hmm...
+
+58
+00:02:09,166 --> 00:02:11,416
+Everything is at stake
+for us on this case.
+
+59
+00:02:11,500 --> 00:02:14,791
+It's a full test of our skills
+as a detective agency.
+
+60
+00:02:15,916 --> 00:02:21,791
+[phone ringing]
+
+61
+00:02:21,875 --> 00:02:24,416
+[TAGUCHI] Do you have any idea
+what time it is, four-eyes?
+
+62
+00:02:24,500 --> 00:02:27,458
+[DOPPO] You're the only one
+who's still sleeping at 11:30.
+
+63
+00:02:27,541 --> 00:02:29,916
+Can you find the one
+who sent us that message?
+
+64
+00:02:30,000 --> 00:02:31,291
+The Azure Messenger?
+
+65
+00:02:31,375 --> 00:02:34,041
+Maybe I can, but
+before we switch gears,
+
+66
+00:02:34,125 --> 00:02:36,791
+isn't there something else
+you want to ask me about?
+
+67
+00:02:36,875 --> 00:02:38,791
+[DOPPO]
+So you already know everything.
+
+68
+00:02:38,875 --> 00:02:41,791
+Come on. I only know
+what I actually know.
+
+69
+00:02:41,875 --> 00:02:44,250
+[DOPPO] I want you to trace
+the bomb-building equipment.
+
+70
+00:02:44,333 --> 00:02:46,208
+I'll send you
+the shipping manifest.
+
+71
+00:02:46,291 --> 00:02:49,083
+A bomb? Wow, things are
+really looking up for you guys.
+
+72
+00:02:49,166 --> 00:02:51,958
+[DOPPO] Cut the bad jokes and
+small talk, and get cracking.
+
+73
+00:02:52,041 --> 00:02:53,000
+Hey!
+
+74
+00:02:53,083 --> 00:02:54,416
+[DOPPO]
+Innocent lives are at stake!
+
+75
+00:02:54,500 --> 00:02:56,416
+I know you like to spend
+all your time hacking
+
+76
+00:02:56,500 --> 00:02:59,291
+and breaking laws, but you
+should make yourself useful
+
+77
+00:02:59,375 --> 00:03:00,958
+to society sometimes.
+
+78
+00:03:01,041 --> 00:03:02,583
+[TAGUCHI] Why don't you
+get off your high horse.
+
+79
+00:03:02,666 --> 00:03:04,583
+Remember, you're not my dad.
+
+80
+00:03:04,666 --> 00:03:05,833
+[phone click]
+
+81
+00:03:09,250 --> 00:03:13,083
+[DOPPO]
+No, I can't replace your father.
+
+82
+00:03:15,666 --> 00:03:17,333
+[SASAKI] Are you sure
+you have time for this?
+
+83
+00:03:17,416 --> 00:03:21,041
+The Agency seems so busy dealing
+with the new bomb threat.
+
+84
+00:03:21,125 --> 00:03:22,541
+Especially Kunikida.
+
+85
+00:03:22,625 --> 00:03:24,083
+He seems so anxious.
+
+86
+00:03:24,166 --> 00:03:25,208
+You've got that right.
+
+87
+00:03:25,291 --> 00:03:27,666
+Kunikida is an insane workhorse.
+
+88
+00:03:27,750 --> 00:03:29,250
+Get this...
+
+89
+00:03:29,333 --> 00:03:31,791
+He spends two hours reviewing
+his notes before going to bed.
+
+90
+00:03:31,875 --> 00:03:33,541
+I couldn't stand doing
+that for two minutes.
+
+91
+00:03:33,625 --> 00:03:36,125
+Maybe he's got some solider ants
+working for him in his brain--
+
+92
+00:03:37,416 --> 00:03:39,416
+[OSAMU] Oh, I didn't know
+you were here, Kunikida.
+
+93
+00:03:39,500 --> 00:03:41,666
+How could you ditch a
+meeting during an emergency?
+
+94
+00:03:41,750 --> 00:03:44,666
+I guess you thought it was more
+important to go on a fancy date.
+
+95
+00:03:44,750 --> 00:03:46,541
+Are you jealous of
+my "fancy" date?
+
+96
+00:03:46,625 --> 00:03:47,875
+Uh, no, I'm not!
+
+97
+00:03:47,958 --> 00:03:49,333
+[ATSUSHI]
+Yes, he is.
+
+98
+00:03:49,416 --> 00:03:51,000
+Ever since we rescued Sasaki,
+
+99
+00:03:51,083 --> 00:03:53,208
+I've been hosting
+her at my place...
+
+100
+00:03:53,291 --> 00:03:55,083
+She still needs help
+to ensure her safety
+
+101
+00:03:55,166 --> 00:03:56,416
+and healthy mental state.
+
+102
+00:03:56,500 --> 00:03:57,791
+That's our job, too.
+
+103
+00:03:57,875 --> 00:04:00,250
+I'm just doing the noble
+thing for our new friend.
+
+104
+00:04:00,333 --> 00:04:03,875
+You are too irresponsible and
+lazy for such an important task.
+
+105
+00:04:03,958 --> 00:04:05,500
+Don't be ridiculous.
+
+106
+00:04:05,583 --> 00:04:07,833
+Besides, an attractive
+woman like her
+
+107
+00:04:07,916 --> 00:04:10,208
+probably has a nice
+boyfriend for support.
+
+108
+00:04:10,291 --> 00:04:12,000
+Nice try, but
+I know she's single.
+
+109
+00:04:12,083 --> 00:04:14,125
+She broke up with her boyfriend.
+
+110
+00:04:14,208 --> 00:04:15,916
+That's right, Kunikida...
+
+111
+00:04:16,000 --> 00:04:16,708
+Now's your chance!
+
+112
+00:04:16,791 --> 00:04:18,041
+Listen, Dazai!
+
+113
+00:04:18,125 --> 00:04:19,833
+I'm here for one reason:
+
+114
+00:04:19,916 --> 00:04:21,375
+To fill you in on
+what's going on
+
+115
+00:04:21,458 --> 00:04:24,250
+because you skipped the
+emergency meeting this morning.
+
+116
+00:04:24,333 --> 00:04:26,791
+Yeah, well, I already
+know what's happening.
+
+117
+00:04:26,875 --> 00:04:30,375
+The Azure Messenger planted this
+bomb with a specific goal...
+
+118
+00:04:30,458 --> 00:04:32,083
+...to crush our Agency.
+
+119
+00:04:32,166 --> 00:04:33,708
+[SASAKI]
+Um...
+
+120
+00:04:33,791 --> 00:04:35,416
+Should I be hearing all this?
+
+121
+00:04:35,500 --> 00:04:38,833
+It sounds like you're discussing
+highly sensitive information.
+
+122
+00:04:38,916 --> 00:04:40,083
+She's right!
+
+123
+00:04:40,166 --> 00:04:41,416
+[OSAMU] Unfortunately,
+the attempt on your life
+
+124
+00:04:41,500 --> 00:04:42,833
+makes you part of this case.
+
+125
+00:04:42,916 --> 00:04:43,791
+[ATSUSHI]
+Really?
+
+126
+00:04:43,875 --> 00:04:45,166
+You can help!
+
+127
+00:04:45,250 --> 00:04:47,208
+Remind me, what class do
+you teach at the university?
+
+128
+00:04:47,291 --> 00:04:48,916
+[SASAKI]
+Social psychology.
+
+129
+00:04:49,000 --> 00:04:50,250
+Ah, that's great.
+
+130
+00:04:50,333 --> 00:04:52,083
+We're having trouble
+cracking this case.
+
+131
+00:04:52,166 --> 00:04:54,083
+I'd love to hear
+your expert analysis.
+
+132
+00:04:54,166 --> 00:04:54,958
+[SASAKI]
+Hmmm...
+
+133
+00:04:55,041 --> 00:04:56,458
+About the Azure Messenger,
+
+134
+00:04:56,541 --> 00:04:58,875
+it may have something
+to do with the Azure King.
+
+135
+00:04:58,958 --> 00:05:01,583
+Remember the Azure
+Flag Terrorist incident?
+
+136
+00:05:01,666 --> 00:05:03,375
+It could be connected
+to the situation
+
+137
+00:05:03,458 --> 00:05:04,708
+you're dealing with now.
+
+138
+00:05:04,791 --> 00:05:06,541
+I was thinking the same thing.
+
+139
+00:05:06,625 --> 00:05:10,041
+I know it's a stretch, but it
+could be the Azure King himself.
+
+140
+00:05:10,125 --> 00:05:11,458
+We think he blew himself up
+
+141
+00:05:11,541 --> 00:05:13,500
+after being cornered
+by the police.
+
+142
+00:05:13,583 --> 00:05:15,625
+But it's possible
+he faked his death,
+
+143
+00:05:15,708 --> 00:05:17,875
+and he still wants revenge.
+
+144
+00:05:17,958 --> 00:05:20,041
+[AZURE KING]
+This world is incomplete.
+
+145
+00:05:20,125 --> 00:05:23,541
+One may grieve or pray,
+but people still die and
+
+146
+00:05:23,625 --> 00:05:27,500
+evil goes unpunished, allowed
+to flourish freely everywhere.
+
+147
+00:05:27,583 --> 00:05:29,958
+Did you know he was a
+former government official?
+
+148
+00:05:30,041 --> 00:05:33,541
+He set off a bomb in a public
+facility and issued a manifesto.
+
+149
+00:05:33,625 --> 00:05:34,916
+He was targeting killers
+
+150
+00:05:35,000 --> 00:05:37,541
+whose cases had to be
+dropped on technicalities.
+
+151
+00:05:37,625 --> 00:05:39,583
+And legislators who
+enriched themselves
+
+152
+00:05:39,666 --> 00:05:41,541
+through corruption
+on a global scale...
+
+153
+00:05:41,625 --> 00:05:44,583
+He hated criminals
+who evaded justice.
+
+154
+00:05:44,666 --> 00:05:47,291
+[AZURE KING] I desire the
+ideal world for humanity.
+
+155
+00:05:47,375 --> 00:05:50,125
+It will be built not by
+the divine hand of God
+
+156
+00:05:50,208 --> 00:05:54,083
+but by the work of
+our own bloodied hands...
+
+157
+00:05:54,166 --> 00:05:55,833
+[DOPPO]
+Hmm...
+
+158
+00:05:55,916 --> 00:05:58,375
+[ATSUSHI] But if the
+Azure King is actually alive,
+
+159
+00:05:58,458 --> 00:06:00,000
+why would he attack the Agency
+
+160
+00:06:00,083 --> 00:06:01,500
+when we're on
+the side of the law?
+
+161
+00:06:01,583 --> 00:06:02,750
+I couldn't tell you.
+
+162
+00:06:02,833 --> 00:06:04,333
+[OSAMU] Did you know
+the guy responsible
+
+163
+00:06:04,416 --> 00:06:07,250
+for backing the Azure King
+into a corner was Kunikida?
+
+164
+00:06:07,333 --> 00:06:08,750
+He located his hideout.
+
+165
+00:06:08,833 --> 00:06:12,833
+Maybe... Kunikida is the
+target of angry vengeance.
+
+166
+00:06:12,916 --> 00:06:15,000
+No, the Azure King is long gone.
+
+167
+00:06:15,083 --> 00:06:18,250
+Military police confirmed his
+death with forensic testing.
+
+168
+00:06:18,333 --> 00:06:19,666
+There's no doubt.
+
+169
+00:06:19,750 --> 00:06:21,833
+[OSAMU] Just in case,
+you should stay on your guard
+
+170
+00:06:21,916 --> 00:06:24,416
+until we figure out who
+the Azure Messenger is.
+
+171
+00:06:24,500 --> 00:06:26,750
+And we'll keep hiding
+Sasaki at my place.
+
+172
+00:06:26,833 --> 00:06:28,541
+[DOPPO]
+All right, that's enough, Dazai!
+
+173
+00:06:28,625 --> 00:06:30,500
+What did I say?
+
+174
+00:06:30,583 --> 00:06:31,875
+You really think
+we're dumb enough
+
+175
+00:06:31,958 --> 00:06:34,250
+to just let you keep a
+beautiful lady in your room
+
+176
+00:06:34,333 --> 00:06:36,625
+and use her personal
+safety as an excuse?
+
+177
+00:06:36,708 --> 00:06:37,875
+[OSAMU]
+Would you calm down?
+
+178
+00:06:37,958 --> 00:06:40,458
+Nothing like what you're
+imagining is happening.
+
+179
+00:06:40,541 --> 00:06:41,833
+When I first let her stay,
+
+180
+00:06:41,916 --> 00:06:44,041
+I slept in a different room
+and didn't try anything.
+
+181
+00:06:44,125 --> 00:06:46,541
+You can ask her,
+I was a true gentleman.
+
+182
+00:06:46,625 --> 00:06:48,666
+But I knew you'd
+have torrid fantasies
+
+183
+00:06:48,750 --> 00:06:50,333
+about what you
+thought we were doing,
+
+184
+00:06:50,416 --> 00:06:52,833
+and that's funny to me
+so I didn't correct you.
+
+185
+00:06:52,916 --> 00:06:55,875
+Can someone please explain to me
+how these two guys are partners?
+
+186
+00:06:55,958 --> 00:06:58,625
+[screams]
+
+187
+00:06:58,708 --> 00:07:02,583
+I'm no expert but Kunikida seems
+to have a crush on you, Sasaki.
+
+188
+00:07:02,666 --> 00:07:05,125
+Can I ask you--what's
+your ideal type of man?
+
+189
+00:07:05,208 --> 00:07:07,583
+"Ideal type of man"?
+
+190
+00:07:07,666 --> 00:07:10,708
+Looking for an ideal
+type of person is foolish.
+
+191
+00:07:10,791 --> 00:07:14,000
+But I like a man who has
+strong moral principles.
+
+192
+00:07:14,083 --> 00:07:16,708
+Someone... who pours
+his heart and soul
+
+193
+00:07:16,791 --> 00:07:18,583
+into the things
+he knows are true.
+
+194
+00:07:18,666 --> 00:07:21,041
+No matter what
+stands in his way.
+
+195
+00:07:21,125 --> 00:07:22,333
+Hey, what a coincidence.
+
+196
+00:07:22,416 --> 00:07:23,958
+That's totally Kunikida.
+
+197
+00:07:24,041 --> 00:07:25,083
+My work is done.
+
+198
+00:07:25,166 --> 00:07:26,416
+The two of you
+can take it from here.
+
+199
+00:07:26,500 --> 00:07:27,625
+Shush, Dazai!
+
+200
+00:07:27,708 --> 00:07:29,625
+Don't assume
+you know anything!
+
+201
+00:07:29,708 --> 00:07:32,083
+Oh, don't be silly, partner.
+You're an open book.
+
+202
+00:07:32,166 --> 00:07:32,875
+[DOPPO]
+Geh!!
+
+203
+00:07:32,958 --> 00:07:34,000
+That's true.
+
+204
+00:07:34,083 --> 00:07:36,291
+I'll admit, he's a
+pretty intense guy,
+
+205
+00:07:36,375 --> 00:07:38,125
+but he is definitely
+a person who lives
+
+206
+00:07:38,208 --> 00:07:39,958
+and breathes for his ideals.
+
+207
+00:07:40,041 --> 00:07:41,291
+Hey, would you like to see
+
+208
+00:07:41,375 --> 00:07:44,250
+what he imagines his ideal
+woman should be like?
+
+209
+00:07:44,333 --> 00:07:45,833
+It's a fun read.
+
+210
+00:07:45,916 --> 00:07:46,666
+[SASAKI]
+Oh...
+
+211
+00:07:46,750 --> 00:07:48,208
+Hey! Not again, you bastard!
+
+212
+00:07:48,291 --> 00:07:51,000
+When did you get that? Arghh...
+
+213
+00:07:51,083 --> 00:07:52,750
+Give it back!
+
+214
+00:07:52,833 --> 00:07:54,333
+Wow, Kunikida.
+
+215
+00:07:54,416 --> 00:07:55,541
+Yes?
+
+216
+00:07:55,625 --> 00:07:57,125
+Too much information.
+
+217
+00:07:57,208 --> 00:07:58,041
+[DOPPO sighs]
+
+218
+00:07:58,125 --> 00:07:59,958
+Poor Kunikida is crushed.
+
+219
+00:08:00,041 --> 00:08:00,750
+[phone beeping]
+
+220
+00:08:00,833 --> 00:08:04,250
+[ATSUSHI]
+Hmm? Uh...
+
+221
+00:08:07,250 --> 00:08:09,916
+Rampo's ready to help us.
+Time to go.
+
+222
+00:08:21,041 --> 00:08:21,833
+Clock's ticking.
+
+223
+00:08:21,916 --> 00:08:23,333
+Do we know where the bomb is?
+
+224
+00:08:23,416 --> 00:08:25,458
+[RAMPO sighs] You know,
+I was looking forward
+
+225
+00:08:25,541 --> 00:08:28,791
+to sightseeing in Kyushu
+after I solved my case.
+
+226
+00:08:28,875 --> 00:08:30,833
+You all disappoint me. Haha.
+
+227
+00:08:30,916 --> 00:08:34,583
+You can't conduct a single
+investigation without me.
+
+228
+00:08:34,666 --> 00:08:36,416
+We only have until sundown.
+
+229
+00:08:36,500 --> 00:08:38,083
+Please tell us the location.
+
+230
+00:08:38,166 --> 00:08:39,541
+[ATSUSHI]
+A department store?
+
+231
+00:08:39,625 --> 00:08:40,500
+A school?
+
+232
+00:08:40,583 --> 00:08:42,083
+A train station?
+
+233
+00:08:42,166 --> 00:08:45,166
+Any one of these could produce
+casualties in the hundreds.
+
+234
+00:08:45,250 --> 00:08:46,833
+We need to know
+where that bomb is!
+
+235
+00:08:46,916 --> 00:08:48,041
+[RAMPO]
+The fishing tackle store.
+
+236
+00:08:48,125 --> 00:08:49,458
+Huh?
+
+237
+00:08:49,541 --> 00:08:52,458
+[RAMPO] The bomb is in a
+fishing tackle store in Negishi.
+
+238
+00:08:52,541 --> 00:08:54,291
+Sure that makes sense.
+
+239
+00:08:54,375 --> 00:08:55,166
+[ATSUSHI, DOPPO, SASAKI]
+Hmm?
+
+240
+00:08:55,250 --> 00:08:57,666
+Thanks. You're amazing, Rampo.
+
+241
+00:08:57,750 --> 00:09:00,750
+Why does he think the bomb
+is at a fishing tackle store?
+
+242
+00:09:00,833 --> 00:09:01,666
+Where's a map?
+
+243
+00:09:01,750 --> 00:09:03,666
+Behind the driver's seat.
+
+244
+00:09:03,750 --> 00:09:05,166
+Look on page 97.
+
+245
+00:09:05,250 --> 00:09:06,000
+[ATSUSHI]
+Ninety-seven...
+
+246
+00:09:06,083 --> 00:09:08,500
+Okay, looking... looking...
+
+247
+00:09:08,583 --> 00:09:10,083
+Got it.
+
+248
+00:09:10,166 --> 00:09:12,500
+[OSAMU] The terrorist's target
+is the petrochemical complex.
+
+249
+00:09:12,583 --> 00:09:13,916
+[DOPPO]
+Of course!
+
+250
+00:09:14,000 --> 00:09:15,666
+I don't know why
+I didn't think of that.
+
+251
+00:09:15,750 --> 00:09:19,291
+Yokohama is known for being
+one of Japan's major port towns.
+
+252
+00:09:19,375 --> 00:09:21,375
+Next to the shipping docks
+on the waterfront
+
+253
+00:09:21,458 --> 00:09:24,833
+there are many large facilities
+that store oil and gas.
+
+254
+00:09:24,916 --> 00:09:27,041
+If an explosion were
+to occur close enough
+
+255
+00:09:27,125 --> 00:09:29,708
+to ignite the storage tanks,
+
+256
+00:09:29,791 --> 00:09:33,750
+the entire port would
+be engulfed in flames.
+
+257
+00:09:33,833 --> 00:09:37,291
+However, infiltrating a fuel
+storage facility would be hard.
+
+258
+00:09:37,375 --> 00:09:40,166
+They're all protected by
+extremely tight security.
+
+259
+00:09:40,250 --> 00:09:41,833
+But there could
+be one other way...
+
+260
+00:09:41,916 --> 00:09:44,750
+A terrorist could put a bomb
+in a car and leave the vehicle
+
+261
+00:09:44,833 --> 00:09:46,875
+near one of the
+storage tanks when it's full.
+
+262
+00:09:46,958 --> 00:09:47,958
+Considering the effective range
+
+263
+00:09:48,041 --> 00:09:50,166
+of a bomb that
+can be put into a car,
+
+264
+00:09:50,250 --> 00:09:52,583
+that fishing tackle
+store's parking lot
+
+265
+00:09:52,666 --> 00:09:55,208
+is the perfect place
+to leave the explosive.
+
+266
+00:09:55,291 --> 00:09:56,083
+[OSAMU]
+Hmph.
+
+267
+00:09:56,166 --> 00:09:57,833
+Bingo.
+
+268
+00:10:08,583 --> 00:10:10,750
+The military's bomb squad
+has found the device,
+
+269
+00:10:10,833 --> 00:10:12,333
+but there's still a problem.
+
+270
+00:10:12,416 --> 00:10:14,666
+It's connected to a
+motion-sensing timer.
+
+271
+00:10:14,750 --> 00:10:18,208
+They don't think they'll be able
+to disarm it before sundown.
+
+272
+00:10:18,291 --> 00:10:20,458
+They've started evacuating
+nearby residents,
+
+273
+00:10:20,541 --> 00:10:22,541
+but they're not sure
+there's enough time.
+
+274
+00:10:22,625 --> 00:10:23,416
+Oh, no...
+
+275
+00:10:23,500 --> 00:10:24,458
+[OSAMU]
+There's still hope.
+
+276
+00:10:24,541 --> 00:10:26,458
+They said we can
+deactivate the bomb
+
+277
+00:10:26,541 --> 00:10:29,083
+if we can transmit
+a remote stop signal to it.
+
+278
+00:10:29,166 --> 00:10:30,875
+But how do we do that?
+
+279
+00:10:30,958 --> 00:10:32,583
+[gasps]
+
+280
+00:10:34,625 --> 00:10:35,875
+W-What's going on?!
+
+281
+00:10:35,958 --> 00:10:36,708
+I got a call.
+
+282
+00:10:36,791 --> 00:10:37,291
+Oh.
+
+283
+00:10:37,375 --> 00:10:38,583
+Yes, hello?
+
+284
+00:10:38,666 --> 00:10:40,625
+[TAGUCHI] Hey, Four-Eyes,
+is now a good time?
+
+285
+00:10:40,708 --> 00:10:41,750
+Yes, Rokuzou?
+
+286
+00:10:41,833 --> 00:10:43,166
+What've you got?
+
+287
+00:10:43,250 --> 00:10:45,250
+[ATSUSHI] I think we're
+causing a bit of a traffic jam.
+
+288
+00:10:45,333 --> 00:10:47,541
+[cellphone ringing]
+
+289
+00:10:47,625 --> 00:10:48,333
+Hello?
+
+290
+00:10:48,416 --> 00:10:49,625
+[RAMPO]
+Hello...
+
+291
+00:10:49,708 --> 00:10:50,875
+Hey, Rampo!
+
+292
+00:10:50,958 --> 00:10:51,500
+Yes?
+
+293
+00:10:51,583 --> 00:10:52,166
+Right...
+
+294
+00:10:52,250 --> 00:10:53,000
+[YUKICHI]
+Dazai?
+
+295
+00:10:53,083 --> 00:10:54,041
+President?
+
+296
+00:10:54,125 --> 00:10:54,875
+Yes...
+
+297
+00:10:54,958 --> 00:10:56,875
+Uh... The military's...?
+
+298
+00:10:56,958 --> 00:10:59,625
+[DOPPO] I see.
+Set a thief to catch a thief.
+
+299
+00:10:59,708 --> 00:11:00,791
+[ATSUSHI]
+All right.
+
+300
+00:11:00,875 --> 00:11:02,625
+[OSAMU]
+That's quite a development...
+
+301
+00:11:02,708 --> 00:11:03,625
+--[ATSUSHI] Okay.
+--[DOPPO] I understand.
+
+302
+00:11:03,708 --> 00:11:04,500
+--[OSAMU] Sure.
+--[ATSUSHI] Mhmm.
+
+303
+00:11:04,583 --> 00:11:05,750
+[DOPPO]
+No, that's helpful.
+
+304
+00:11:05,833 --> 00:11:06,791
+[ATSUSHI]
+I'll tell the others.
+
+305
+00:11:06,875 --> 00:11:08,666
+[OSAMU]
+I understand, President.
+
+306
+00:11:10,833 --> 00:11:12,208
+I got a call from Rokuzou...
+
+307
+00:11:12,291 --> 00:11:14,500
+Someone recently ordered
+a bomb transmitter,
+
+308
+00:11:14,583 --> 00:11:17,625
+plus other equipment, delivered
+to a former defense facility.
+
+309
+00:11:17,708 --> 00:11:19,666
+Rampo reached
+a similar conclusion.
+
+310
+00:11:19,750 --> 00:11:20,875
+That settles it...
+
+311
+00:11:20,958 --> 00:11:23,333
+And I just got a call
+from the president.
+
+312
+00:11:23,416 --> 00:11:26,666
+He was informed by the
+military the taxi driver's dead.
+
+313
+00:11:26,750 --> 00:11:27,583
+He's dead?
+
+314
+00:11:27,666 --> 00:11:28,916
+How can that be?
+
+315
+00:11:29,000 --> 00:11:30,166
+I thought they were holding him
+
+316
+00:11:30,250 --> 00:11:32,125
+in their isolation ward
+for extra protection.
+
+317
+00:11:32,208 --> 00:11:33,458
+They were,
+
+318
+00:11:33,541 --> 00:11:35,583
+but he died after suddenly
+collapsing in his cell.
+
+319
+00:11:35,666 --> 00:11:38,375
+The forensic team hasn't
+determined the cause of death,
+
+320
+00:11:38,458 --> 00:11:41,791
+but the guards noticed
+numbers "00" on his palm.
+
+321
+00:11:41,875 --> 00:11:43,958
+There were numbers on his hand?
+
+322
+00:11:44,041 --> 00:11:45,750
+How strange.
+
+323
+00:11:45,833 --> 00:11:47,916
+What in the world is going on?
+
+324
+00:11:58,375 --> 00:11:59,750
+We've got company!
+
+325
+00:12:03,958 --> 00:12:05,166
+Doppo Poet:
+
+326
+00:12:05,250 --> 00:12:06,833
+Flash Bang!
+
+327
+00:12:08,958 --> 00:12:10,166
+[SHOOTERS scream]
+
+328
+00:12:10,250 --> 00:12:12,041
+Well, at least know
+we're at the right place!
+
+329
+00:12:12,125 --> 00:12:13,625
+You two head upstairs!
+
+330
+00:12:13,708 --> 00:12:17,083
+Find the transmitter, and send
+the stop signal to the car bomb!
+
+331
+00:12:21,833 --> 00:12:22,958
+[gasps]
+
+332
+00:12:23,041 --> 00:12:24,416
+What the...
+
+333
+00:12:26,458 --> 00:12:29,708
+[BLONDE]
+I wonder what number you'll get.
+
+334
+00:12:29,791 --> 00:12:30,791
+[DOPPO]
+Huh?!
+
+335
+00:12:30,875 --> 00:12:32,291
+[BLONDE]
+How are you feeling?
+
+336
+00:12:32,375 --> 00:12:35,333
+You're looking great... for now.
+
+337
+00:12:35,416 --> 00:12:38,416
+Something tells me you
+have a really good number.
+
+338
+00:12:38,500 --> 00:12:39,833
+Huh...?
+
+339
+00:12:40,833 --> 00:12:42,333
+[DOPPO]
+Oh, no...
+
+340
+00:12:42,416 --> 00:12:44,791
+[BLONDE] You sniffed this out
+place quicker than I thought.
+
+341
+00:12:44,875 --> 00:12:47,458
+The Armed Detective
+Agency's impressive.
+
+342
+00:12:47,541 --> 00:12:50,375
+Or you were
+impressive up until now.
+
+343
+00:12:53,208 --> 00:12:54,500
+[ATSUSHI]
+Not much time left!
+
+344
+00:12:54,583 --> 00:12:56,083
+[OSAMU pants]
+
+345
+00:12:56,166 --> 00:12:57,000
+[ATSUSHI]
+Can you figure it out?
+
+346
+00:12:57,083 --> 00:12:58,500
+[OSAMU]
+Fortunately, yes!
+
+347
+00:12:58,583 --> 00:13:00,166
+But I still can't
+send the signal.
+
+348
+00:13:00,250 --> 00:13:01,458
+Huh?
+
+349
+00:13:01,541 --> 00:13:02,666
+[OSAMU] You have to
+insert a release key here
+
+350
+00:13:02,750 --> 00:13:04,708
+to access the controls.
+
+351
+00:13:04,791 --> 00:13:06,416
+And I have no idea
+where to get it.
+
+352
+00:13:06,500 --> 00:13:08,166
+What are we going to do?!
+
+353
+00:13:08,250 --> 00:13:09,833
+[GIANT]
+What are you doing here?
+
+354
+00:13:09,916 --> 00:13:11,250
+[OSAMU]
+Ohhh!
+
+355
+00:13:11,333 --> 00:13:13,750
+Looks like someone's been
+hitting the weight room.
+
+356
+00:13:16,083 --> 00:13:18,625
+[DOPPO grunts]
+
+357
+00:13:18,708 --> 00:13:21,583
+[DOPPO] So this guy's ability
+includes remote attacks!
+
+358
+00:13:21,666 --> 00:13:22,875
+You should check your palm.
+
+359
+00:13:22,958 --> 00:13:24,250
+What's your number now?
+
+360
+00:13:24,333 --> 00:13:25,958
+What do you mean?
+
+361
+00:13:28,416 --> 00:13:31,833
+My power can't be evaded,
+but I bet you're gonna try.
+
+362
+00:13:31,916 --> 00:13:32,750
+[DOPPO screams]
+
+363
+00:13:32,833 --> 00:13:33,833
+[BLONDE]
+See? I can send people
+
+364
+00:13:33,916 --> 00:13:36,666
+who have numbers
+in any direction I want.
+
+365
+00:13:36,750 --> 00:13:39,250
+Even if they're on the
+other side of the earth.
+
+366
+00:13:39,333 --> 00:13:41,000
+But the really bad news is:
+
+367
+00:13:41,083 --> 00:13:44,625
+once their number becomes
+zero, they'll die in agony.
+
+368
+00:13:44,708 --> 00:13:47,750
+t's a terrible fate,
+and nobody can avoid it.
+
+369
+00:13:47,833 --> 00:13:50,083
+Nobody... Nobody...
+
+370
+00:13:50,166 --> 00:13:51,583
+Nobody!
+
+371
+00:13:51,666 --> 00:13:55,125
+[DOPPO grunts] Are you
+the leader of this group?
+
+372
+00:13:55,208 --> 00:13:56,791
+[BLONDE] The Armed
+Detective Agency posed
+
+373
+00:13:56,875 --> 00:13:59,375
+a greater threat to us
+than the Port Mafia.
+
+374
+00:13:59,458 --> 00:14:01,750
+But now your team is finished.
+
+375
+00:14:01,833 --> 00:14:02,958
+You see this key...?
+
+376
+00:14:03,041 --> 00:14:05,208
+It's the release key
+to deactivate the bomb.
+
+377
+00:14:05,291 --> 00:14:08,333
+Without it, there's no
+way to prevent catastrophe.
+
+378
+00:14:08,416 --> 00:14:10,166
+Do you want it?
+
+379
+00:14:10,250 --> 00:14:11,666
+That's a dumb question.
+
+380
+00:14:11,750 --> 00:14:13,541
+Of course you do.
+
+381
+00:14:13,625 --> 00:14:14,833
+Here.
+
+382
+00:14:14,916 --> 00:14:15,750
+Oops.
+
+383
+00:14:15,833 --> 00:14:18,125
+[laughs]
+Now, there's no hope.
+
+384
+00:14:18,208 --> 00:14:19,333
+It's finished.
+
+385
+00:14:19,416 --> 00:14:21,625
+Your entire mission
+accomplished nothing.
+
+386
+00:14:21,708 --> 00:14:23,791
+It's not over, you idiot!
+
+387
+00:14:29,291 --> 00:14:30,875
+Nice leg work!
+
+388
+00:14:34,000 --> 00:14:37,000
+[OSAMU] You really
+do have very strong arms.
+
+389
+00:14:37,083 --> 00:14:40,083
+You missed your true
+calling as a luggage porter.
+
+390
+00:14:40,166 --> 00:14:43,000
+[DOPPO screams]
+
+391
+00:14:43,083 --> 00:14:44,625
+[roars]
+
+392
+00:14:44,708 --> 00:14:46,500
+--[OSAMU grunts]
+--[DOPPO] Huh?
+
+393
+00:14:52,750 --> 00:14:53,958
+Hey, Kunikida!
+
+394
+00:14:54,041 --> 00:14:55,500
+[DOPPO]
+I'm already on it.
+
+395
+00:15:00,458 --> 00:15:02,625
+Don't try the same trick twice!
+
+396
+00:15:03,875 --> 00:15:04,833
+[DOPPO]
+Dazai!
+
+397
+00:15:04,916 --> 00:15:06,166
+[OSAMU]
+Here!
+
+398
+00:15:11,041 --> 00:15:14,333
+So you want me to
+give <i>you</i> a number as well?
+
+399
+00:15:17,125 --> 00:15:18,166
+What the--?!
+
+400
+00:15:18,250 --> 00:15:20,041
+Why hasn't a number
+marked your hand?!
+
+401
+00:15:20,125 --> 00:15:24,083
+Sorry to say, your ability
+won't have any effect on me.
+
+402
+00:15:24,166 --> 00:15:26,208
+Oh and also,
+you should tell your partner
+
+403
+00:15:26,291 --> 00:15:28,250
+to take my career advice.
+
+404
+00:15:29,250 --> 00:15:30,625
+[ATSUSHI]
+Huh?
+
+405
+00:15:32,708 --> 00:15:35,875
+[ATSUSHI] That guy was huge,
+but Kunikida had no fear.
+
+406
+00:15:36,708 --> 00:15:38,458
+Dazai's okay...
+
+407
+00:15:38,541 --> 00:15:41,708
+Their partnership
+works so well...
+
+408
+00:15:41,791 --> 00:15:42,708
+The bomb!
+
+409
+00:15:42,791 --> 00:15:44,541
+We need the key! Right now!
+
+410
+00:15:44,625 --> 00:15:45,958
+That idiot broke it.
+
+411
+00:15:46,041 --> 00:15:46,833
+[ATSUSHI]
+What?!
+
+412
+00:15:46,916 --> 00:15:48,083
+Then what are we going to do?
+
+413
+00:15:48,166 --> 00:15:49,500
+We need to-- We don't
+have time. We gotta--
+
+414
+00:15:49,583 --> 00:15:50,708
+Calm down, kid.
+
+415
+00:15:50,791 --> 00:15:51,541
+[ATSUSHI gasps]
+
+416
+00:15:51,625 --> 00:15:52,916
+Doppo Poet:
+
+417
+00:15:53,000 --> 00:15:54,541
+Release key.
+
+418
+00:15:56,750 --> 00:15:58,791
+[DOPPO] My ability allows
+me to recreate anything
+
+419
+00:15:58,875 --> 00:16:00,041
+once I've seen it,
+
+420
+00:16:00,125 --> 00:16:02,791
+as long as I understand
+its form and function.
+
+421
+00:16:12,916 --> 00:16:14,375
+[DOPPO]
+There's a catch...
+
+422
+00:16:14,458 --> 00:16:16,791
+The object must be small--no
+bigger than this notebook here.
+
+423
+00:16:16,875 --> 00:16:19,000
+So your notebook
+is really a tool.
+
+424
+00:16:19,083 --> 00:16:20,208
+And that's the reason
+
+425
+00:16:20,291 --> 00:16:22,541
+you have it with you
+all the time, isn't it?
+
+426
+00:16:31,291 --> 00:16:33,166
+[SASAKI]
+Who were these people?
+
+427
+00:16:33,250 --> 00:16:35,833
+Are these the graves
+of innocent victims?
+
+428
+00:16:35,916 --> 00:16:37,416
+[DOPPO]
+Yes.
+
+429
+00:16:38,958 --> 00:16:41,083
+[DOPPO] When I first caused
+casualties during a job,
+
+430
+00:16:41,166 --> 00:16:43,250
+I cried so much
+I couldn't get up.
+
+431
+00:16:43,333 --> 00:16:45,125
+I needed time off from work.
+
+432
+00:16:45,208 --> 00:16:47,583
+But now, I don't shed
+a single tear for them.
+
+433
+00:16:47,666 --> 00:16:49,583
+Instead, I come to their graves.
+
+434
+00:16:49,666 --> 00:16:51,750
+I see my visits as
+a kind of trade,
+
+435
+00:16:51,833 --> 00:16:53,333
+so I can move on.
+
+436
+00:16:54,375 --> 00:16:56,125
+I often wonder about that.
+
+437
+00:16:56,208 --> 00:16:58,416
+Do our tears do
+any good for the dead?
+
+438
+00:16:58,500 --> 00:16:59,833
+Our tears are useless.
+
+439
+00:16:59,916 --> 00:17:01,625
+At least, that's how I see it.
+
+440
+00:17:01,708 --> 00:17:03,125
+We have to be honest.
+
+441
+00:17:03,208 --> 00:17:06,541
+For the dead, time stops the
+moment that their lives end.
+
+442
+00:17:06,625 --> 00:17:07,916
+I'm afraid I wasn't honest
+
+443
+00:17:08,000 --> 00:17:11,000
+when I told Dazai how
+my relationship ended.
+
+444
+00:17:11,083 --> 00:17:14,833
+My significant other and I
+parted ways because he died.
+
+445
+00:17:14,916 --> 00:17:16,250
+I see.
+
+446
+00:17:16,333 --> 00:17:18,250
+What you said is true.
+
+447
+00:17:18,333 --> 00:17:21,500
+When someone dies, time no
+longer has meaning for them.
+
+448
+00:17:21,583 --> 00:17:23,458
+No matter what
+I do for him now,
+
+449
+00:17:23,541 --> 00:17:25,125
+I cannot make him happy
+
+450
+00:17:25,208 --> 00:17:27,166
+or make him smile.
+
+451
+00:17:30,291 --> 00:17:32,625
+I didn't mean to bring this up.
+
+452
+00:17:32,708 --> 00:17:34,750
+Anyway I really must go.
+
+453
+00:17:34,833 --> 00:17:38,625
+Excuse me.
+
+454
+00:17:38,708 --> 00:17:39,458
+Goodbye.
+
+455
+00:17:39,541 --> 00:17:40,125
+Uh...
+
+456
+00:17:40,208 --> 00:17:44,833
+[cellphone ringing]
+
+457
+00:17:44,916 --> 00:17:46,500
+What is it?
+
+458
+00:17:46,583 --> 00:17:47,583
+[OSAMU]
+Kunikida?
+
+459
+00:17:47,666 --> 00:17:49,500
+I need you for something.
+
+460
+00:17:51,166 --> 00:17:53,291
+[DOPPO] Why did you
+want to come back here?
+
+461
+00:17:53,375 --> 00:17:54,875
+[OSAMU]
+Check this out.
+
+462
+00:17:54,958 --> 00:17:57,125
+It's a survey and
+analysis of Yokohama
+
+463
+00:17:57,208 --> 00:17:59,500
+we found on a computer
+in their hideout.
+
+464
+00:17:59,583 --> 00:18:01,583
+Surprisingly,
+it concludes that in order
+
+465
+00:18:01,666 --> 00:18:03,083
+to take control of the city,
+
+466
+00:18:03,166 --> 00:18:06,416
+they must first eradicate
+the Armed Detective Agency.
+
+467
+00:18:06,500 --> 00:18:07,625
+Why us?
+
+468
+00:18:07,708 --> 00:18:09,666
+It's the Port Mafia
+controls the underworld.
+
+469
+00:18:09,750 --> 00:18:12,791
+I think they were given
+false information... on purpose.
+
+470
+00:18:12,875 --> 00:18:13,875
+They were manipulated.
+
+471
+00:18:13,958 --> 00:18:15,666
+So there's another mastermind?
+
+472
+00:18:15,750 --> 00:18:17,875
+[OSAMU] Yes, and I've sent
+an email to the person
+
+473
+00:18:17,958 --> 00:18:20,000
+I believe is behind all this.
+
+474
+00:18:20,083 --> 00:18:21,500
+[gasps]
+
+475
+00:18:21,583 --> 00:18:23,666
+[OSAMU] I told them I have
+proof that they're responsible.
+
+476
+00:18:23,750 --> 00:18:26,958
+They should be arriving
+here any moment now.
+
+477
+00:18:27,041 --> 00:18:35,583
+[approaching footsteps]
+
+478
+00:18:35,666 --> 00:18:38,166
+[gasps]
+No, it can't be you...!
+
+479
+00:18:38,250 --> 00:18:40,125
+You're the one, Rokuzou?!
+
+480
+00:18:40,208 --> 00:18:42,041
+What the heck are
+you talking about?
+
+481
+00:18:42,125 --> 00:18:43,958
+So this showdown
+hasn't started yet?
+
+482
+00:18:44,041 --> 00:18:46,458
+[OSAMU] Sneaky.
+You took a peek at my email
+
+483
+00:18:46,541 --> 00:18:49,166
+by hacking into
+my account, didn't you?
+
+484
+00:18:49,250 --> 00:18:50,750
+[DOPPO]
+Are you the one responsible?
+
+485
+00:18:50,833 --> 00:18:52,333
+[TAGUCHI]
+No, I just wanted to take a look
+
+486
+00:18:52,416 --> 00:18:53,958
+at the person who actually is.
+
+487
+00:18:54,041 --> 00:18:55,458
+[DOPPO]
+But it's really not you?!
+
+488
+00:18:55,541 --> 00:18:56,208
+Tell me the truth!
+
+489
+00:18:56,291 --> 00:18:58,083
+Look out!
+
+490
+00:19:04,916 --> 00:19:08,791
+[OSAMU] So... you're
+the Azure Messenger...
+
+491
+00:19:08,875 --> 00:19:10,083
+[DOPPO]
+Unbelievable.
+
+492
+00:19:10,166 --> 00:19:12,125
+[OSAMU] I doubt this
+is the first time you used
+
+493
+00:19:12,208 --> 00:19:15,166
+your deep knowledge of
+psychology to execute a crime.
+
+494
+00:19:15,250 --> 00:19:18,041
+[SASAKI] The Azure King was
+a man who lived for his ideals.
+
+495
+00:19:18,125 --> 00:19:20,625
+He wanted to destroy
+the criminal word.
+
+496
+00:19:20,708 --> 00:19:21,958
+His intentions were pure,
+
+497
+00:19:22,041 --> 00:19:24,458
+and he was willing to
+get blood on his hands.
+
+498
+00:19:24,541 --> 00:19:26,291
+I just wanted
+to fulfill his vision,
+
+499
+00:19:26,375 --> 00:19:28,250
+make his ideals come true.
+
+500
+00:19:28,333 --> 00:19:31,125
+[OSAMU] You were deeply
+in love with the Azure King...
+
+501
+00:19:31,208 --> 00:19:32,458
+I'll grant you,
+
+502
+00:19:32,541 --> 00:19:34,375
+he was an idealist
+determined to punish criminals
+
+503
+00:19:34,458 --> 00:19:36,291
+who managed
+to get around the law.
+
+504
+00:19:36,375 --> 00:19:39,000
+But he used
+illegal means to do it.
+
+505
+00:19:39,083 --> 00:19:40,250
+Put down your gun!
+
+506
+00:19:40,333 --> 00:19:42,083
+You've caused
+enough harm already.
+
+507
+00:19:42,166 --> 00:19:43,833
+[SASAKI]
+Don't you understand?
+
+508
+00:19:43,916 --> 00:19:44,708
+Huh?
+
+509
+00:19:44,791 --> 00:19:45,958
+It's strange.
+
+510
+00:19:46,041 --> 00:19:47,916
+You stopped him but yet
+you remind me of him...
+
+511
+00:19:48,000 --> 00:19:51,041
+You developed a very
+sophisticated plan for revenge.
+
+512
+00:19:51,125 --> 00:19:52,750
+Without committing
+a single crime,
+
+513
+00:19:52,833 --> 00:19:55,958
+you set up the Agency to take
+the fall, and you destroyed both
+
+514
+00:19:56,041 --> 00:19:59,333
+the kidnapper and the criminal
+organization behind him.
+
+515
+00:19:59,416 --> 00:20:02,000
+But you have no
+convictions of your own.
+
+516
+00:20:02,083 --> 00:20:05,250
+You're just being swept along
+by someone else's ideals.
+
+517
+00:20:05,333 --> 00:20:09,375
+[SASAKI sighs]
+I'm just tired now.
+
+518
+00:20:09,458 --> 00:20:12,125
+I want to be
+released from all this.
+
+519
+00:20:13,291 --> 00:20:14,750
+[SASAKI]
+Will you shoot me?
+
+520
+00:20:14,833 --> 00:20:17,583
+Please Dazai?
+
+521
+00:20:17,666 --> 00:20:20,666
+I suppose you can't
+because I lowered my gun.
+
+522
+00:20:20,750 --> 00:20:23,208
+If you shot me now,
+it would be a crime.
+
+523
+00:20:23,291 --> 00:20:25,166
+An excessive use of force.
+
+524
+00:20:25,250 --> 00:20:28,000
+And Kunikida would be a witness.
+
+525
+00:20:28,708 --> 00:20:29,708
+True.
+
+526
+00:20:29,791 --> 00:20:32,791
+But I'm not going to shoot you.
+
+527
+00:20:32,875 --> 00:20:34,333
+However...
+
+528
+00:20:39,333 --> 00:20:42,000
+[three gunshots]
+
+529
+00:20:45,458 --> 00:20:46,958
+[gasps]
+
+530
+00:20:47,041 --> 00:20:50,625
+I'm here because the
+Azure King killed my dad.
+
+531
+00:20:50,708 --> 00:20:53,750
+Good riddance to his follower.
+
+532
+00:20:57,166 --> 00:20:58,833
+But why?
+
+533
+00:20:58,916 --> 00:21:01,000
+Why did it have
+to end this way?!
+
+534
+00:21:01,083 --> 00:21:02,166
+What went wrong?!
+
+535
+00:21:02,250 --> 00:21:04,250
+Someone was wrong!
+
+536
+00:21:04,333 --> 00:21:05,708
+[OSAMU]
+No one was wrong.
+
+537
+00:21:05,791 --> 00:21:08,416
+This was the only
+possible outcome.
+
+538
+00:21:08,500 --> 00:21:09,333
+Shut up!
+
+539
+00:21:09,416 --> 00:21:10,416
+You're lying to yourself!
+
+540
+00:21:10,500 --> 00:21:11,750
+You could've saved her!
+
+541
+00:21:11,833 --> 00:21:14,208
+Are you really telling me
+that this is justice?!
+
+542
+00:21:14,291 --> 00:21:16,166
+To me, justice is a weapon.
+
+543
+00:21:16,250 --> 00:21:18,708
+It causes people harm
+but can't protect them.
+
+544
+00:21:18,791 --> 00:21:21,250
+If it's the justice
+used by the Azure King,
+
+545
+00:21:21,333 --> 00:21:23,208
+a sense of justice
+without law...
+
+546
+00:21:23,291 --> 00:21:25,625
+...that justice killed Sasaki.
+
+547
+00:21:25,708 --> 00:21:27,750
+The same justice you believe in.
+
+548
+00:21:27,833 --> 00:21:30,416
+[DOPPO grunts]
+
+549
+00:21:30,500 --> 00:21:31,875
+[OSAMU]
+Kunikida...
+
+550
+00:21:31,958 --> 00:21:34,541
+As long as you pursue
+these ideals of yours,
+
+551
+00:21:34,625 --> 00:21:36,125
+the angry flames that burned
+
+552
+00:21:36,208 --> 00:21:38,458
+in the Azure King
+will take root in you...
+
+553
+00:21:38,541 --> 00:21:40,375
+They'll destroy
+everything around you.
+
+554
+00:21:40,458 --> 00:21:41,541
+[DOPPO]
+You're wrong!
+
+555
+00:21:41,625 --> 00:21:44,125
+I will push right
+past those flames.
+
+556
+00:21:44,208 --> 00:21:46,916
+Don't underestimate my ideals!
+
+557
+00:23:17,500 --> 00:23:19,666
+[AKIKO] Atsushi, are
+you sure you're not hurt?
+
+558
+00:23:19,750 --> 00:23:21,500
+[ATSUSHI]
+No, I'm feeling really good.
+
+559
+00:23:21,583 --> 00:23:22,791
+But thank you anyway.
+
+560
+00:23:22,875 --> 00:23:24,958
+[AKIKO]
+Oh, that's so boring.
+
+561
+00:23:25,041 --> 00:23:27,625
+[ATSUSHI] Um, about your
+"treatment," Dr. Yosano.
+
+562
+00:23:27,708 --> 00:23:29,041
+How does it work, exactly?
+
+563
+00:23:29,125 --> 00:23:31,000
+[AKIKO]
+Why don't you ask Tanizaki?
+
+564
+00:23:31,083 --> 00:23:33,625
+He's received my treatment
+a couple of times already.
+
+565
+00:23:33,708 --> 00:23:35,750
+[ATSUSHI] I have asked him,
+but he just shakes with fear.
+
+566
+00:23:35,833 --> 00:23:38,750
+He won't say anything about it.
+
+567
+00:23:38,833 --> 00:23:40,791
+Next time on <i>Bungo Stray Dogs</i> ,
+
+568
+00:23:40,875 --> 00:23:44,208
+episode 8 : "Teaching
+Them to Kill; Then to Die."
+
+569
+00:23:44,291 --> 00:23:46,916
+[AKIKO]
+Ability: Thou Shalt Not Die.
+
