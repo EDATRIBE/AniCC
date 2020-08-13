@@ -1,0 +1,1418 @@
+﻿1
+00:00:15,750 --> 00:00:17,083
+So that's it?
+
+2
+00:00:17,166 --> 00:00:20,000
+It's really that easy to adjust
+the Ukanomitama virus?
+
+3
+00:00:21,125 --> 00:00:23,041
+Yes, the process itself
+should be automated,
+
+4
+00:00:23,125 --> 00:00:26,208
+or close to it, as long as
+the equipment still works.
+
+5
+00:00:26,291 --> 00:00:29,625
+I would guess that's why
+they chose Ukanomitama,
+
+6
+00:00:29,708 --> 00:00:31,708
+because it is so easy to update.
+
+7
+00:00:31,791 --> 00:00:35,166
+A good virus, transformed
+into a destructive disease.
+
+8
+00:00:35,250 --> 00:00:37,791
+We thought we'd built
+the perfect iron wall
+
+9
+00:00:37,875 --> 00:00:39,291
+for our food supply.
+
+10
+00:00:39,375 --> 00:00:41,875
+In truth it was more like
+a double-edged sword.
+
+11
+00:00:41,958 --> 00:00:43,875
+All right let's go.
+
+12
+00:01:22,375 --> 00:01:24,333
+And now we come to one
+of my favorite stories
+
+13
+00:01:24,416 --> 00:01:26,541
+from the Book of Matthew.
+
+14
+00:01:27,125 --> 00:01:29,250
+Jesus told them another parable.
+
+15
+00:01:29,333 --> 00:01:31,083
+The kingdom of
+heaven is like a man
+
+16
+00:01:31,166 --> 00:01:33,541
+who sowed good
+seed in his field.
+
+17
+00:01:33,625 --> 00:01:35,166
+But while everyone was sleeping,
+
+18
+00:01:35,250 --> 00:01:38,291
+his enemy came and sowed
+weeds among the wheat,
+
+19
+00:01:38,375 --> 00:01:39,958
+and went away.
+
+20
+00:03:30,208 --> 00:03:32,458
+The surest way to buy some time.
+
+21
+00:03:32,541 --> 00:03:34,958
+And yet, he didn't do that.
+
+22
+00:03:40,666 --> 00:03:43,125
+Security's still active.
+
+23
+00:03:45,375 --> 00:03:47,166
+I need another way in.
+
+24
+00:04:02,458 --> 00:04:03,583
+Well, well...
+
+25
+00:04:24,375 --> 00:04:25,958
+Damn it. This place is huge.
+
+26
+00:04:26,041 --> 00:04:27,416
+It has to be.
+
+27
+00:04:27,500 --> 00:04:29,666
+These machines centrally
+manage the defense virus
+
+28
+00:04:29,750 --> 00:04:32,500
+and distribute it to
+the entire Hokuriku area.
+
+29
+00:04:32,583 --> 00:04:34,916
+Hard to believe a
+facility this big can be
+
+30
+00:04:35,000 --> 00:04:38,750
+fully-automated,
+with no humans on site.
+
+31
+00:04:38,833 --> 00:04:40,291
+The bigger the prey,
+
+32
+00:04:40,375 --> 00:04:42,666
+the easier it is to hit
+the target on their back.
+
+33
+00:04:42,750 --> 00:04:44,125
+Especially when you're working
+
+34
+00:04:44,208 --> 00:04:46,791
+with a poisoned needle
+powerful enough to kill a whale.
+
+35
+00:04:46,875 --> 00:04:49,625
+These tactics are
+just like Makishima.
+
+36
+00:04:54,208 --> 00:04:55,541
+It's probably from Kogami.
+
+37
+00:04:55,625 --> 00:04:59,041
+I'm guessing he saw us land.
+
+38
+00:04:59,125 --> 00:05:01,041
+He has to be somewhere nearby.
+
+39
+00:05:02,625 --> 00:05:03,875
+Tsunemori here.
+
+40
+00:05:03,958 --> 00:05:06,208
+Didn't think you'd
+get here this fast.
+
+41
+00:05:06,291 --> 00:05:09,125
+Then you shouldn't be
+underestimating the bureau.
+
+42
+00:05:09,208 --> 00:05:10,708
+You're not the only person
+
+43
+00:05:10,791 --> 00:05:13,083
+who can chase
+Makishima into a corner.
+
+44
+00:05:15,250 --> 00:05:16,875
+He's already in the facility.
+
+45
+00:05:16,958 --> 00:05:19,250
+He must be using the
+equipment Professor Kudama
+
+46
+00:05:19,333 --> 00:05:20,708
+left in the university's lab
+
+47
+00:05:20,791 --> 00:05:23,958
+to alter the Ukanomitama
+virus as we speak.
+
+48
+00:05:24,041 --> 00:05:26,958
+And that's assuming
+he's not already finished.
+
+49
+00:05:27,041 --> 00:05:29,416
+He won't pull this off.
+We can't let him.
+
+50
+00:05:29,500 --> 00:05:31,083
+Then we've gotta be quick.
+
+51
+00:05:31,166 --> 00:05:33,958
+Before he distributes his
+skewed version of the virus,
+
+52
+00:05:34,041 --> 00:05:36,791
+we've got to shut down
+the entire facility.
+
+53
+00:05:36,875 --> 00:05:39,250
+You should be able
+to cut off the power
+
+54
+00:05:39,333 --> 00:05:43,208
+to this place under the
+authority of the MWPSB, right?
+
+55
+00:05:43,291 --> 00:05:45,083
+If we do that,
+it won't just shut down
+
+56
+00:05:45,166 --> 00:05:48,458
+the factory's machines,
+but the security system, too.
+
+57
+00:05:48,541 --> 00:05:50,666
+That's what you want, isn't it?
+
+58
+00:05:50,750 --> 00:05:53,416
+You're trying to use us
+to lower the defenses,
+
+59
+00:05:53,500 --> 00:05:56,916
+so that you can get to Makishima
+before we can and take him out.
+
+60
+00:05:57,000 --> 00:05:58,625
+Isn't that right Kogami?
+
+61
+00:05:58,708 --> 00:06:00,625
+We'll never let you do that.
+
+62
+00:06:01,916 --> 00:06:04,625
+That man wants to
+bring down this society.
+
+63
+00:06:04,708 --> 00:06:08,125
+That means the MWPSB
+has only one choice.
+
+64
+00:06:08,208 --> 00:06:12,083
+Cut off the power. Do it
+and you save our country.
+
+65
+00:06:12,166 --> 00:06:15,000
+I'm gonna find a
+way to save you also.
+
+66
+00:06:15,083 --> 00:06:18,250
+I will not make
+Shinya Kogami a murderer.
+
+67
+00:06:18,333 --> 00:06:20,083
+Then we've got ourselves a race.
+
+68
+00:06:23,083 --> 00:06:24,208
+The security here.
+
+69
+00:06:24,291 --> 00:06:26,625
+Can't we have it
+transferred to our control?
+
+70
+00:06:26,708 --> 00:06:27,958
+So that we can
+shut down the plant
+
+71
+00:06:28,041 --> 00:06:29,833
+without leaving it undefended?
+
+72
+00:06:29,916 --> 00:06:31,791
+That process would
+take some time.
+
+73
+00:06:31,875 --> 00:06:35,041
+Makishima could put us into
+check-mate while we sit.
+
+74
+00:06:35,125 --> 00:06:37,000
+I'm afraid we have
+no other option here.
+
+75
+00:06:37,083 --> 00:06:40,041
+We have to kill all the power
+like Kogami wants us to.
+
+76
+00:06:40,125 --> 00:06:41,583
+Kunizuka?
+
+77
+00:06:41,666 --> 00:06:42,833
+I've disabled the
+command to switch
+
+78
+00:06:42,916 --> 00:06:44,916
+to the secondary power supply.
+
+79
+00:06:45,000 --> 00:06:48,125
+All we have to do now is cut
+off the main line and we're set.
+
+80
+00:06:51,166 --> 00:06:53,250
+There's something I'd like
+to ask the both of you.
+
+81
+00:06:53,333 --> 00:06:56,041
+If you do encounter
+Mr. Kogami somewhere in there.
+
+82
+00:06:56,125 --> 00:06:58,125
+And if his Crime
+Coefficient is over 300
+
+83
+00:06:58,208 --> 00:07:00,458
+so it activates the Eliminator.
+
+84
+00:07:00,541 --> 00:07:03,416
+Will you promise to call me
+in before you shoot him?
+
+85
+00:07:03,500 --> 00:07:05,833
+And what's the point
+of you being there?
+
+86
+00:07:05,916 --> 00:07:08,833
+I've got a trump card
+I can use against him.
+
+87
+00:07:08,916 --> 00:07:11,500
+Just trust me.
+Let me handle this.
+
+88
+00:07:13,250 --> 00:07:15,083
+We're going after Makishima now.
+
+89
+00:07:15,166 --> 00:07:17,583
+This time you'll help me, right?
+
+90
+00:07:17,666 --> 00:07:19,416
+The Dominator will assist.
+
+91
+00:07:19,500 --> 00:07:21,125
+I'm glad to hear that.
+
+92
+00:07:21,208 --> 00:07:24,375
+Then lock this gun on
+Paralyzer with the safety off.
+
+93
+00:07:24,458 --> 00:07:26,750
+You can do that
+for me, can't you?
+
+94
+00:07:26,833 --> 00:07:29,333
+The Dominator determines
+its enforcement mode based
+
+95
+00:07:29,416 --> 00:07:31,750
+on the measured
+Crime Coefficients.
+
+96
+00:07:31,833 --> 00:07:33,250
+This is the basis for the system
+
+97
+00:07:33,333 --> 00:07:35,750
+that maintains the
+current public safety.
+
+98
+00:07:35,833 --> 00:07:38,208
+It will not be
+changed or violated.
+
+99
+00:07:38,291 --> 00:07:41,666
+Makishima threatens that public
+safety on a massive scale.
+
+100
+00:07:41,750 --> 00:07:44,125
+To stop him and
+protect ourselves,
+
+101
+00:07:44,208 --> 00:07:46,125
+we need suitable weapons.
+
+102
+00:07:46,208 --> 00:07:47,666
+If we can't use the Dominators,
+
+103
+00:07:47,750 --> 00:07:50,958
+we'll have no choice but to
+depend on more primitive arms.
+
+104
+00:07:51,041 --> 00:07:53,333
+And that could be lethal.
+
+105
+00:07:53,416 --> 00:07:56,333
+Killing him would be worse than
+paralyzing him, don't you think?
+
+106
+00:07:56,416 --> 00:07:59,625
+That would be a result of
+your lack of resourcefulness.
+
+107
+00:08:01,333 --> 00:08:04,250
+It's a fact our resources
+are limited in this case.
+
+108
+00:08:04,333 --> 00:08:06,208
+Our chances of
+capturing Makishima alive
+
+109
+00:08:06,291 --> 00:08:09,250
+without someone getting
+hurt aren't likely at all.
+
+110
+00:08:09,333 --> 00:08:11,458
+If you grant me an exception,
+
+111
+00:08:11,541 --> 00:08:14,000
+those chances get
+a whole lot better.
+
+112
+00:08:14,083 --> 00:08:15,166
+Think of the end results,
+
+113
+00:08:15,250 --> 00:08:17,791
+and the justice you're
+trying to enforce.
+
+114
+00:08:17,875 --> 00:08:20,416
+You're good at calculating
+risk and reward, aren't you?
+
+115
+00:08:22,916 --> 00:08:26,666
+Beginning now, and ending when
+Shogo Makishima is captured,
+
+116
+00:08:26,750 --> 00:08:30,125
+we will grant an exception on
+the applicable terminal device.
+
+117
+00:08:30,208 --> 00:08:32,333
+Safety will remain unlocked.
+
+118
+00:08:32,416 --> 00:08:35,583
+Enforcement mode:
+Non-Lethal Paralyzer.
+
+119
+00:08:35,666 --> 00:08:38,750
+Please exercise maximum
+discretion when using weapon.
+
+120
+00:08:38,833 --> 00:08:40,375
+Do not allow other detectives
+
+121
+00:08:40,458 --> 00:08:42,708
+to become aware
+of this exception.
+
+122
+00:08:42,791 --> 00:08:44,333
+I understand.
+
+123
+00:08:47,083 --> 00:08:49,541
+Something wrong, Missy?
+
+124
+00:08:49,625 --> 00:08:51,041
+Cause you haven't
+been acting like yourself
+
+125
+00:08:51,125 --> 00:08:53,208
+ever since the
+Chief called you in.
+
+126
+00:08:53,291 --> 00:08:55,791
+I know it's prob'ly
+none of my business,
+
+127
+00:08:55,875 --> 00:08:58,916
+but some burdens can be
+too heavy to carry alone.
+
+128
+00:08:59,000 --> 00:09:00,458
+Are you worried about me?
+
+129
+00:09:00,541 --> 00:09:03,291
+I am. You're reminding
+me of Kogami.
+
+130
+00:09:03,375 --> 00:09:04,333
+I don't want to see the end
+
+131
+00:09:04,416 --> 00:09:06,666
+of another good
+Inspector's career.
+
+132
+00:09:06,750 --> 00:09:09,333
+That's what happens
+when you're in too deep.
+
+133
+00:09:11,291 --> 00:09:12,500
+Well if you're so concerned,
+
+134
+00:09:12,583 --> 00:09:14,125
+you want to check
+my Crime Coefficient?
+
+135
+00:09:14,208 --> 00:09:16,333
+Hey, that's not what I-
+
+136
+00:09:16,416 --> 00:09:17,625
+No it's okay.
+
+137
+00:09:17,708 --> 00:09:20,083
+Go ahead and point
+your Dominator at me.
+
+138
+00:09:20,166 --> 00:09:23,875
+I'll clear the record of it with
+my authority as an Inspector.
+
+139
+00:09:30,000 --> 00:09:32,166
+Crime Coefficient: Twenty Four.
+
+140
+00:09:32,250 --> 00:09:34,666
+Target is a
+registered Inspector.
+
+141
+00:09:34,750 --> 00:09:35,833
+See?
+
+142
+00:09:35,916 --> 00:09:36,750
+Right now I'm exactly
+the kind of person
+
+143
+00:09:36,833 --> 00:09:39,875
+that the
+Sibyl System wants here.
+
+144
+00:09:39,958 --> 00:09:41,125
+Guess so.
+
+145
+00:09:41,208 --> 00:09:43,458
+Please proceed Miss Kunizuka.
+We're ready now.
+
+146
+00:09:43,541 --> 00:09:44,500
+Copy that.
+
+147
+00:09:44,583 --> 00:09:46,208
+I'm separating
+the entire facility
+
+148
+00:09:46,291 --> 00:09:48,083
+from the main power grid.
+
+149
+00:10:02,041 --> 00:10:05,000
+Not bad at all for the police.
+
+150
+00:10:11,541 --> 00:10:13,041
+Yes.
+
+151
+00:10:39,708 --> 00:10:41,250
+Well we know one thing at least:
+
+152
+00:10:41,333 --> 00:10:44,208
+Makishima's bio-terrorism
+plot has failed.
+
+153
+00:10:44,291 --> 00:10:46,333
+If he's the genius
+everyone says he is,
+
+154
+00:10:46,416 --> 00:10:49,041
+won't he realize it's
+over now and try to escape?
+
+155
+00:10:49,125 --> 00:10:50,833
+I'm not so sure.
+
+156
+00:10:50,916 --> 00:10:52,625
+It's true Makishima's put
+a great deal of thought
+
+157
+00:10:52,708 --> 00:10:55,583
+into his plans and
+executed them carefully,
+
+158
+00:10:55,666 --> 00:10:56,916
+but that doesn't
+mean everything's
+
+159
+00:10:57,000 --> 00:10:59,458
+just a calculation to him.
+
+160
+00:10:59,541 --> 00:11:02,125
+You think he'll stick to his
+plan even with the power out?
+
+161
+00:11:02,208 --> 00:11:04,250
+If he still thinks
+there's a way.
+
+162
+00:11:04,333 --> 00:11:05,666
+Then he will try it.
+
+163
+00:11:05,750 --> 00:11:08,083
+Right now we're simply
+preventing the emergency power
+
+164
+00:11:08,166 --> 00:11:10,000
+from kicking in
+automatically, aren't we?
+
+165
+00:11:10,083 --> 00:11:11,166
+Yes.
+
+166
+00:11:11,250 --> 00:11:12,958
+Then it can still be
+switched on manually
+
+167
+00:11:13,041 --> 00:11:15,416
+using the control board
+inside this facility.
+
+168
+00:11:15,500 --> 00:11:17,916
+That would bring
+the plant back online.
+
+169
+00:11:18,000 --> 00:11:19,208
+This isn't over yet.
+
+170
+00:11:19,291 --> 00:11:21,458
+That's in the
+central control room.
+
+171
+00:11:21,541 --> 00:11:22,791
+Should we cast a net?
+
+172
+00:11:22,875 --> 00:11:23,916
+Hold on.
+
+173
+00:11:24,000 --> 00:11:25,166
+If he is thinking
+rationally he'll try
+
+174
+00:11:25,250 --> 00:11:26,625
+to escape while he can.
+
+175
+00:11:26,708 --> 00:11:28,708
+We don't have
+time for a side trip.
+
+176
+00:11:28,791 --> 00:11:30,750
+Okay then we should split up.
+
+177
+00:11:30,833 --> 00:11:32,541
+I'll check the control room.
+
+178
+00:11:32,625 --> 00:11:34,333
+Inspector Ginoza,
+I want you to look
+
+179
+00:11:34,416 --> 00:11:36,125
+for him in the university's lab.
+
+180
+00:11:36,208 --> 00:11:38,375
+I'll go with
+Inspector Tsunemori.
+
+181
+00:11:38,458 --> 00:11:40,916
+I can run a hard-patch into
+the main security console.
+
+182
+00:11:41,000 --> 00:11:43,375
+And with Shion helping
+from Headquarters.
+
+183
+00:11:43,458 --> 00:11:45,000
+We may at least
+be able to control
+
+184
+00:11:45,083 --> 00:11:47,916
+the security cameras
+so we can spot this guy.
+
+185
+00:11:48,000 --> 00:11:49,750
+And I guess that
+makes us the lucky dogs
+
+186
+00:11:49,833 --> 00:11:51,500
+in charge of chasing him.
+
+187
+00:11:51,583 --> 00:11:54,541
+Come on, what are you
+making that face for?
+
+188
+00:11:54,625 --> 00:11:57,166
+This is where we men get
+to puff out our chests.
+
+189
+00:12:04,625 --> 00:12:05,916
+Damn it.
+
+190
+00:12:13,791 --> 00:12:16,708
+Did something happen at
+the Ministry of Welfare?
+
+191
+00:12:16,791 --> 00:12:19,208
+Why do you ask,
+am I acting differently?
+
+192
+00:12:19,291 --> 00:12:20,791
+Of everyone on this team.
+
+193
+00:12:20,875 --> 00:12:23,083
+I'd say you're
+contributing the most.
+
+194
+00:12:23,166 --> 00:12:25,791
+Yet there's a cloud over
+your head you can't shake.
+
+195
+00:12:31,166 --> 00:12:33,791
+I may want to give up, but
+that won't resolve anything.
+
+196
+00:12:33,875 --> 00:12:36,666
+I just have to keep on moving.
+
+197
+00:12:36,750 --> 00:12:39,291
+No matter how small it is,
+there's still hope.
+
+198
+00:12:39,375 --> 00:12:41,416
+And as long as I cling to that.
+
+199
+00:12:41,500 --> 00:12:44,875
+I can do my job and
+see this to the end.
+
+200
+00:12:49,208 --> 00:12:51,166
+When you first joined
+us as a new Inspector,
+
+201
+00:12:51,250 --> 00:12:53,166
+I admit, I had my doubts.
+
+202
+00:12:53,250 --> 00:12:54,416
+I thought you were
+a naïve little girl
+
+203
+00:12:54,500 --> 00:12:57,333
+who couldn't possibly
+handle this work.
+
+204
+00:12:57,416 --> 00:13:00,500
+You're right. I was so naïve.
+
+205
+00:13:00,583 --> 00:13:04,375
+No. You've proven my first
+impression was completely wrong.
+
+206
+00:13:04,458 --> 00:13:06,833
+At this point there's
+no doubt in my mind.
+
+207
+00:13:06,916 --> 00:13:09,875
+I know that I can put
+my life in your hands.
+
+208
+00:13:09,958 --> 00:13:11,208
+You've earned that.
+
+209
+00:13:11,291 --> 00:13:14,541
+I think you're giving
+me way too much credit.
+
+210
+00:13:24,083 --> 00:13:25,708
+Good. All clear.
+
+211
+00:13:25,791 --> 00:13:28,000
+Did we make it in time?
+
+212
+00:13:28,083 --> 00:13:32,875
+We're still assuming that
+he'd be in this location.
+
+213
+00:13:33,416 --> 00:13:34,500
+You're right.
+
+214
+00:13:34,583 --> 00:13:36,500
+And it's strange
+there's no one else here.
+
+215
+00:13:36,583 --> 00:13:37,583
+What?
+
+216
+00:13:37,666 --> 00:13:38,791
+He would've predicted
+what Makishima
+
+217
+00:13:38,875 --> 00:13:40,666
+would do next a whole
+lot better than me.
+
+218
+00:13:40,750 --> 00:13:43,625
+If this were the correct answer.
+
+219
+00:13:43,708 --> 00:13:46,583
+Mr. Kogami would've
+made it here before us.
+
+220
+00:13:46,666 --> 00:13:48,333
+So why not?
+
+221
+00:13:48,416 --> 00:13:51,500
+I must be overlooking something.
+
+222
+00:13:59,583 --> 00:14:00,791
+You won't like it.
+
+223
+00:14:00,875 --> 00:14:02,250
+But I still need the answer.
+
+224
+00:14:02,333 --> 00:14:04,666
+That's my favorite
+kind of question.
+
+225
+00:14:04,750 --> 00:14:06,666
+You did help him get away.
+
+226
+00:14:06,750 --> 00:14:08,125
+Isn't that right?
+
+227
+00:14:08,208 --> 00:14:09,833
+You're gonna keep up
+your interrogation
+
+228
+00:14:09,916 --> 00:14:11,416
+at a time like this?
+
+229
+00:14:11,500 --> 00:14:15,708
+Your logic. Let Kogami
+work outside the law.
+
+230
+00:14:15,791 --> 00:14:18,083
+Screw the system
+if it gets the job done.
+
+231
+00:14:18,166 --> 00:14:20,625
+That's the crude,
+selfish justice
+
+232
+00:14:20,708 --> 00:14:23,291
+of an old-fashioned
+hunting dog like you.
+
+233
+00:14:23,375 --> 00:14:26,458
+Can you tell me
+I'm wrong? Can you?
+
+234
+00:14:27,791 --> 00:14:28,750
+I know it's him.
+
+235
+00:14:28,833 --> 00:14:30,583
+He's the one you always rely on.
+
+236
+00:14:30,666 --> 00:14:32,916
+You don't expect
+anything from me.
+
+237
+00:14:33,000 --> 00:14:34,416
+Like catching Makishima.
+
+238
+00:14:34,500 --> 00:14:36,833
+You never thought
+I had a chance, did you?
+
+239
+00:14:36,916 --> 00:14:40,458
+Kogami's an Enforcer
+and a latent criminal.
+
+240
+00:14:40,541 --> 00:14:43,125
+He and I have gone
+down the same dark road.
+
+241
+00:14:43,208 --> 00:14:44,750
+But you're still
+on a different path
+
+242
+00:14:44,833 --> 00:14:47,791
+and I'll do anything
+to keep it that way.
+
+243
+00:14:47,875 --> 00:14:49,083
+So I did what I thought was best
+
+244
+00:14:49,166 --> 00:14:51,583
+from the bottom
+of my heart, son.
+
+245
+00:14:53,333 --> 00:14:55,708
+You can make
+justifications for anything.
+
+246
+00:14:58,375 --> 00:15:00,875
+Bad guys run and
+detectives go after them.
+
+247
+00:15:00,958 --> 00:15:03,333
+That's the assumption we make.
+
+248
+00:15:03,416 --> 00:15:05,458
+Inspector?
+
+249
+00:15:05,541 --> 00:15:08,041
+But Makishima looks
+at things differently.
+
+250
+00:15:08,125 --> 00:15:10,833
+He understands how
+badly we want to catch him.
+
+251
+00:15:10,916 --> 00:15:13,708
+He knows how afraid we
+are of letting him slip by.
+
+252
+00:15:13,791 --> 00:15:16,250
+And he knows how
+desperate that makes us.
+
+253
+00:15:23,416 --> 00:15:25,791
+Ginoza and Masaoka!
+
+254
+00:15:26,166 --> 00:15:27,208
+Wait, please!
+
+255
+00:15:27,291 --> 00:15:28,958
+It's too dangerous!
+
+256
+00:15:29,041 --> 00:15:30,458
+I need you to stay here.
+
+257
+00:15:30,541 --> 00:15:31,875
+Someone has to be
+sure that Makishima
+
+258
+00:15:31,958 --> 00:15:33,875
+doesn't access
+the emergency power.
+
+259
+00:15:33,958 --> 00:15:35,083
+Don't let him get near it,
+
+260
+00:15:35,166 --> 00:15:37,458
+destroy the whole console if you
+have to!
+
+261
+00:15:39,916 --> 00:15:40,750
+Inspector Ginoza!
+
+262
+00:15:40,833 --> 00:15:42,125
+Can you hear me?
+
+263
+00:15:57,500 --> 00:15:58,708
+Don't move!
+
+264
+00:16:07,666 --> 00:16:09,000
+Nobuchika!
+
+265
+00:16:14,666 --> 00:16:16,000
+Hold on.
+
+266
+00:16:17,208 --> 00:16:18,500
+Behind you!
+
+267
+00:16:58,166 --> 00:17:00,625
+You trying to blow yourself
+up and take me with you?
+
+268
+00:17:00,708 --> 00:17:04,625
+You honestly believe I'd
+do a stupid thing like that?
+
+269
+00:17:10,333 --> 00:17:12,916
+Don't let that
+man go at any cost!
+
+270
+00:17:19,791 --> 00:17:23,083
+You're a detective!
+Fulfill your duty!
+
+271
+00:18:25,250 --> 00:18:26,666
+That bastard.
+
+272
+00:18:36,541 --> 00:18:38,458
+You idiot!
+
+273
+00:18:39,000 --> 00:18:40,916
+Why did you let him go?
+
+274
+00:18:41,000 --> 00:18:44,708
+Why? What kind of
+detective are you?
+
+275
+00:18:45,416 --> 00:18:47,458
+I'm no detective.
+
+276
+00:18:47,541 --> 00:18:50,083
+I don't deserve the title.
+
+277
+00:18:53,041 --> 00:18:55,791
+You are my son, after all.
+
+278
+00:18:55,875 --> 00:18:58,416
+Look at those eyes.
+
+279
+00:18:58,500 --> 00:19:01,625
+They look just the
+same as mine used to.
+
+280
+00:19:01,708 --> 00:19:04,791
+Back when I was young.
+
+281
+00:19:09,375 --> 00:19:13,708
+Dad, no. Don't go like this!
+
+282
+00:19:14,541 --> 00:19:17,750
+Why? Why would you?
+
+283
+00:19:18,583 --> 00:19:20,708
+It's too late now!
+
+284
+00:19:44,500 --> 00:19:47,625
+So you finally ditched
+that kangaroo justice,
+
+285
+00:19:47,708 --> 00:19:51,041
+and now you've got some
+real bloodlust, haven't you?
+
+286
+00:19:51,125 --> 00:19:55,041
+In the end, you're everything
+I always hoped you'd be.
+
+287
+00:19:56,375 --> 00:19:58,166
+Is that right?
+
+288
+00:19:58,250 --> 00:20:01,833
+That's funny 'cause I have
+no hopes for you at all.
+
+289
+00:20:01,916 --> 00:20:05,541
+You can't feign indifference
+after coming this far.
+
+290
+00:20:05,625 --> 00:20:07,416
+Spare me the arrogance.
+
+291
+00:20:07,500 --> 00:20:09,166
+You're nothing special to me.
+
+292
+00:20:09,250 --> 00:20:11,708
+You're just a bag of trash
+the city overlooked,
+
+293
+00:20:11,791 --> 00:20:13,583
+and I'm here to finish the job.
+
+294
+00:20:13,666 --> 00:20:16,208
+I know you feel bitter
+for being rejected
+
+295
+00:20:16,291 --> 00:20:19,416
+and left out of
+society your entire life.
+
+296
+00:20:19,500 --> 00:20:22,958
+Beneath your bullshit you
+just couldn't bear the solitude.
+
+297
+00:20:23,041 --> 00:20:24,666
+You're no different
+than the little kid whining
+
+298
+00:20:24,750 --> 00:20:26,916
+because he isn't
+part of the game.
+
+299
+00:20:27,000 --> 00:20:29,250
+You really say
+some funny things.
+
+300
+00:20:29,333 --> 00:20:33,166
+My solitude? As if that's
+only applicable to me?
+
+301
+00:20:33,250 --> 00:20:37,000
+Really, who isn't alone in
+this society we've constructed?
+
+302
+00:20:38,250 --> 00:20:41,833
+The time when our connection
+to others defined us is gone.
+
+303
+00:20:41,916 --> 00:20:44,458
+We've lost all sense of self.
+
+304
+00:20:44,541 --> 00:20:46,125
+In this world where
+we're watched over
+
+305
+00:20:46,208 --> 00:20:48,291
+by the system and
+live by its standards,
+
+306
+00:20:48,375 --> 00:20:50,041
+a community is no longer needed.
+
+307
+00:20:50,125 --> 00:20:52,375
+It's not even relevant.
+
+308
+00:20:52,458 --> 00:20:55,416
+We all live in our own little
+cell, and the system tames us
+
+309
+00:20:55,500 --> 00:20:58,291
+by giving each of us
+our personal serenity.
+

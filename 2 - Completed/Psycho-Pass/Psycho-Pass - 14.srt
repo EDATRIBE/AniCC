@@ -1,0 +1,1629 @@
+﻿1
+00:00:43,125 --> 00:00:44,791
+Uh, hi, can we help you?
+
+2
+00:00:44,875 --> 00:00:48,416
+I need you to give me the
+medicine written on this paper.
+
+3
+00:00:49,708 --> 00:00:52,375
+Sorry we can't give this to you.
+
+4
+00:00:52,750 --> 00:00:54,500
+Psychotropic substances
+are only administered
+
+5
+00:00:54,583 --> 00:00:56,250
+at authorized facilities,
+and besides
+
+6
+00:00:56,333 --> 00:00:58,875
+you'd need a prescription,
+biological data
+
+7
+00:00:58,958 --> 00:01:00,708
+You don't get it, do you?
+
+8
+00:01:13,125 --> 00:01:14,083
+Help me!
+
+9
+00:01:14,166 --> 00:01:16,041
+Someone, please, help!
+
+10
+00:01:16,125 --> 00:01:17,958
+No one is coming to save you.
+
+11
+00:01:18,041 --> 00:01:20,875
+Come on, give me
+the medicine, lady!
+
+12
+00:02:55,416 --> 00:02:57,208
+Your attention, please.
+
+13
+00:02:57,291 --> 00:02:59,250
+This is the Criminal
+Investigation Department,
+
+14
+00:02:59,333 --> 00:03:00,875
+of the Public Safety Bureau.
+
+15
+00:03:00,958 --> 00:03:02,208
+For your protection,
+
+16
+00:03:02,291 --> 00:03:05,041
+access to this block
+is currently restricted.
+
+17
+00:03:06,041 --> 00:03:08,500
+Please, keep moving.
+Do not stop.
+
+18
+00:03:38,083 --> 00:03:39,500
+Hey, there.
+
+19
+00:03:39,583 --> 00:03:42,791
+I think I know what's going
+through your head right now.
+
+20
+00:03:42,875 --> 00:03:45,000
+But Mister Kogami...
+
+21
+00:03:45,083 --> 00:03:48,791
+But today just focus
+on the case at hand.
+
+22
+00:03:48,875 --> 00:03:51,333
+Okay. Got it.
+
+23
+00:04:00,708 --> 00:04:03,916
+All right, talk to me.
+What do we have?
+
+24
+00:04:04,000 --> 00:04:05,875
+Well. Let's see uh.
+
+25
+00:04:05,958 --> 00:04:07,833
+The crime itself was
+about as straightforward
+
+26
+00:04:07,916 --> 00:04:10,083
+as these kinds of things get.
+
+27
+00:04:10,166 --> 00:04:11,416
+The perp waltzed right through
+
+28
+00:04:11,500 --> 00:04:12,666
+the door like he
+owned the place,
+
+29
+00:04:12,750 --> 00:04:15,125
+killed the two pill jockeys,
+helped himself
+
+30
+00:04:15,208 --> 00:04:17,166
+to whatever meds he
+came here looking for today
+
+31
+00:04:17,250 --> 00:04:21,333
+and then calmly walked out
+as if nothing happened.
+
+32
+00:04:21,416 --> 00:04:25,166
+The security cameras were able
+to capture the whole ordeal.
+
+33
+00:04:27,041 --> 00:04:28,125
+Someone, please, help!
+
+34
+00:04:28,208 --> 00:04:29,375
+What is up with that
+freaky helmet there?
+
+35
+00:04:29,458 --> 00:04:31,458
+You know he's suspicious
+just by looking at him.
+
+36
+00:04:31,875 --> 00:04:33,250
+Maybe, but just
+looking suspicious
+
+37
+00:04:33,333 --> 00:04:35,541
+isn't enough to
+set off any alarms.
+
+38
+00:04:35,625 --> 00:04:36,875
+From the moment he set
+foot in the pharmacy,
+
+39
+00:04:36,958 --> 00:04:39,041
+his Psycho-Pass
+showed a normal value
+
+40
+00:04:39,125 --> 00:04:40,833
+and his Hue remained clear.
+
+41
+00:04:40,916 --> 00:04:43,500
+The log is recorded
+on the scanner, too.
+
+42
+00:04:43,583 --> 00:04:45,833
+Oh, great, does that mean
+we've got another freak
+
+43
+00:04:45,916 --> 00:04:47,416
+like that Makishima
+guy on our hands?
+
+44
+00:04:47,500 --> 00:04:49,208
+Someone who can commit
+cold-blooded murder
+
+45
+00:04:49,291 --> 00:04:51,333
+while keeping his
+Psycho-Pass normal?
+
+46
+00:04:52,916 --> 00:04:55,500
+I'm thinking the
+helmet is the key here.
+
+47
+00:04:55,583 --> 00:04:58,333
+It must have some
+bypass feature.
+
+48
+00:04:58,416 --> 00:05:00,125
+It's deceiving
+the cymatic scans.
+
+49
+00:05:00,208 --> 00:05:03,458
+The man who got the jump
+on Inspector Tsunemori,
+
+50
+00:05:03,541 --> 00:05:07,291
+this Makishima he might've
+used a similar device.
+
+51
+00:05:10,625 --> 00:05:12,541
+Wait. Are you serious?
+
+52
+00:05:12,625 --> 00:05:14,375
+Are you saying that a
+stupid helmet could be
+
+53
+00:05:14,458 --> 00:05:17,750
+all somebody needs to
+fake their Psycho-Pass?
+
+54
+00:05:17,833 --> 00:05:19,875
+If it was simply blocking
+the cymatic scan,
+
+55
+00:05:19,958 --> 00:05:22,375
+that would be tech
+I could understand.
+
+56
+00:05:22,458 --> 00:05:24,333
+But, of course, that
+alone wouldn't be enough
+
+57
+00:05:24,416 --> 00:05:25,875
+to get past security.
+
+58
+00:05:25,958 --> 00:05:28,625
+Because if someone who couldn't
+be scanned tried to enter,
+
+59
+00:05:28,708 --> 00:05:30,250
+an alarm would
+go off immediately.
+
+60
+00:05:30,333 --> 00:05:34,458
+The problem we have here is
+that the scanner successfully
+
+61
+00:05:34,541 --> 00:05:37,041
+detected the
+intruder's Psycho-Pass,
+
+62
+00:05:37,125 --> 00:05:41,416
+and yet somehow it determined
+he had the clear Hue of a fine,
+
+63
+00:05:41,500 --> 00:05:42,541
+upstanding citizen who
+couldn't even hurt a fly.
+
+64
+00:05:42,625 --> 00:05:44,750
+So did he crack the system then?
+
+65
+00:05:44,833 --> 00:05:46,375
+No, that's just not possible.
+
+66
+00:05:46,458 --> 00:05:48,333
+The attack didn't seem
+to be premeditated
+
+67
+00:05:48,416 --> 00:05:50,541
+and everything happened
+in a short period of time.
+
+68
+00:05:50,625 --> 00:05:52,250
+There's no way for
+someone to alter the data
+
+69
+00:05:52,333 --> 00:05:53,750
+without leaving
+any kind of trace.
+
+70
+00:05:55,375 --> 00:05:57,958
+The current security
+system is founded
+
+71
+00:05:58,041 --> 00:06:01,250
+on the assumption that a
+cymatic scan is reliable.
+
+72
+00:06:01,333 --> 00:06:03,000
+It's because of that
+assumption that anyone
+
+73
+00:06:03,083 --> 00:06:07,250
+whose Psycho-Pass checks out is
+considered incapable of causing
+
+74
+00:06:07,333 --> 00:06:11,875
+and is let in there's no risk.
+
+75
+00:06:11,958 --> 00:06:14,291
+Even when actual
+assaults or thefts occur
+
+76
+00:06:14,375 --> 00:06:16,208
+the Drones' AI isn't
+equipped with the ability
+
+77
+00:06:16,291 --> 00:06:19,166
+to identify such
+actions as crimes.
+
+78
+00:06:19,250 --> 00:06:22,291
+Since everyone's
+Psycho-Pass is scanned,
+
+79
+00:06:22,375 --> 00:06:23,958
+their judgment's based on that.
+
+80
+00:06:27,375 --> 00:06:28,916
+That means we don't
+have any methods left
+
+81
+00:06:29,000 --> 00:06:30,750
+to prevent crimes like this.
+
+82
+00:06:30,833 --> 00:06:35,375
+Nothing. This whole
+city is unprotected.
+
+83
+00:06:50,791 --> 00:06:51,875
+Yeah, exactly.
+
+84
+00:06:51,958 --> 00:06:53,541
+So I told him,
+"That's not my job, okay?
+
+85
+00:06:53,625 --> 00:06:55,958
+Get somebody else
+to do that for you."
+
+86
+00:06:56,041 --> 00:06:58,083
+After that, he just had
+this stupid look on his face,
+
+87
+00:06:58,166 --> 00:07:01,208
+like he didn't know whether
+to yell or cry it was awful
+
+88
+00:07:05,041 --> 00:07:07,750
+Hey. What do you want with me?
+
+89
+00:07:38,625 --> 00:07:39,791
+I detect that you
+are experiencing
+
+90
+00:07:39,875 --> 00:07:41,458
+a high level of stress.
+
+91
+00:07:41,541 --> 00:07:45,500
+It is recommended that
+you seek help immediately
+
+92
+00:07:45,583 --> 00:07:48,000
+from a specialized
+mental health facility.
+
+93
+00:07:48,083 --> 00:07:50,291
+Are you distressed?
+
+94
+00:07:50,375 --> 00:07:54,500
+The Ministry of
+Welfare's Urban Service
+
+95
+00:07:54,583 --> 00:07:57,000
+helps everyone lead a
+happier and healthier life.
+
+96
+00:07:57,958 --> 00:08:00,583
+Has someone been injured
+or suddenly become ill?
+
+97
+00:08:00,666 --> 00:08:02,833
+Would you like to
+request an ambulance
+
+98
+00:08:02,916 --> 00:08:06,208
+from the nearest
+emergency hospital?
+
+99
+00:08:06,291 --> 00:08:07,625
+Please be advised
+that you will be charged
+
+100
+00:08:07,708 --> 00:08:09,125
+an uninsured service
+fee at a later date.
+
+101
+00:08:09,208 --> 00:08:12,916
+Now that right there is some
+phenomenal stuff. So brutal.
+
+102
+00:08:15,208 --> 00:08:16,375
+In the old days, it was normal
+
+103
+00:08:16,458 --> 00:08:18,791
+for people to physically
+lock their front doors
+
+104
+00:08:18,875 --> 00:08:20,750
+because the doubting of others
+
+105
+00:08:20,833 --> 00:08:23,875
+was the basis for
+maintaining order then.
+
+106
+00:08:23,958 --> 00:08:25,250
+Did you get that
+
+107
+00:08:25,333 --> 00:08:27,833
+from one of Mister Masaoka's
+stories about the past?
+
+108
+00:08:27,916 --> 00:08:31,666
+Yeah. Guess they're
+not totally useless.
+
+109
+00:08:31,750 --> 00:08:34,875
+Anyway, Now we
+don't have to doubt,
+
+110
+00:08:34,958 --> 00:08:39,125
+or approach other people
+with cautious skepticism.
+
+111
+00:08:39,208 --> 00:08:40,958
+You know that those
+strangers you see
+
+112
+00:08:41,041 --> 00:08:43,416
+on the street aren't going to
+hurt you because each one
+
+113
+00:08:43,500 --> 00:08:46,125
+of them has had their
+Psycho-Pass verified.
+
+114
+00:08:46,208 --> 00:08:50,541
+This society maintains its
+order based on that assumption.
+
+115
+00:08:51,166 --> 00:08:54,333
+But if, like that helmeted
+man, people come
+
+116
+00:08:54,416 --> 00:08:57,666
+to find out that there's a way
+to deceive the cymatic scans,
+
+117
+00:08:57,750 --> 00:08:59,750
+there'll be panic.
+
+118
+00:08:59,833 --> 00:09:01,875
+Yeah that's true,
+
+119
+00:09:01,958 --> 00:09:05,083
+or if word gets out about
+the existence of Makishima.
+
+120
+00:09:11,875 --> 00:09:12,958
+What is it?
+
+121
+00:09:13,041 --> 00:09:14,833
+An elevated Area
+Stress Level warning's
+
+122
+00:09:14,916 --> 00:09:17,000
+been issued in
+the Setagaya Ward.
+
+123
+00:09:17,083 --> 00:09:18,208
+But shelving that for now
+
+124
+00:09:18,291 --> 00:09:20,125
+there's a rather
+disturbing video
+
+125
+00:09:20,208 --> 00:09:23,625
+that's just been uploaded
+on the net. Here, look.
+
+126
+00:09:25,875 --> 00:09:28,500
+What the hell?
+What is going on here?
+
+127
+00:09:31,291 --> 00:09:32,708
+It's begun.
+
+128
+00:09:32,791 --> 00:09:36,083
+This is just. What's happening?
+
+129
+00:09:36,958 --> 00:09:41,041
+Makishima is behind this
+crime. I'd bet anything on it
+
+130
+00:09:42,041 --> 00:09:43,708
+Of course
+
+131
+00:09:43,791 --> 00:09:47,250
+I'm not even sure what crime
+is in this world anymore.
+
+132
+00:09:47,333 --> 00:09:50,541
+Ko, what're you thinking?
+
+133
+00:09:50,625 --> 00:09:52,458
+This isn't just some random act.
+
+134
+00:09:52,541 --> 00:09:57,666
+It's more like a seismic event
+that shakes our very foundation.
+
+135
+00:09:57,750 --> 00:10:00,500
+Woah, that's crazy
+
+136
+00:10:00,583 --> 00:10:02,458
+When they said they
+were gonna demo it,
+
+137
+00:10:02,541 --> 00:10:04,458
+they weren't messin' around.
+
+138
+00:10:05,875 --> 00:10:07,333
+We should go now.
+
+139
+00:10:22,625 --> 00:10:24,250
+Impressive how much
+the Area Stress Level
+
+140
+00:10:24,333 --> 00:10:27,166
+has elevated in
+such a short time.
+
+141
+00:10:33,000 --> 00:10:34,125
+Hello.
+
+142
+00:10:34,833 --> 00:10:36,333
+This will work.
+
+143
+00:10:36,416 --> 00:10:38,708
+The plan doesn't
+need to be revised.
+
+144
+00:10:38,791 --> 00:10:41,583
+You're being ridiculous.
+
+145
+00:10:41,666 --> 00:10:45,666
+It's just one person
+killing another, that's all.
+
+146
+00:10:45,750 --> 00:10:48,875
+Nothing particularly
+serious has happened yet.
+
+147
+00:10:48,958 --> 00:10:51,458
+The really serious stuff
+is yet to come.
+
+148
+00:10:53,250 --> 00:10:55,416
+Listen. You're the only one
+
+149
+00:10:55,500 --> 00:10:58,208
+who I've shared the
+entire plan with.
+
+150
+00:10:58,291 --> 00:11:00,166
+I'm counting on you.
+
+151
+00:11:01,750 --> 00:11:03,000
+Your attention, please.
+
+152
+00:11:03,083 --> 00:11:05,125
+This is the Criminal
+Investigation Department...
+
+153
+00:11:05,208 --> 00:11:08,625
+The victim's name
+is Hiroko Fujii.
+
+154
+00:11:08,708 --> 00:11:09,833
+Hard to believe that goes down
+
+155
+00:11:09,916 --> 00:11:11,708
+in the middle of
+a crowded street.
+
+156
+00:11:11,791 --> 00:11:13,416
+What the hell
+happened to this city?
+
+157
+00:11:13,500 --> 00:11:15,041
+I tell you, it's outta control.
+
+158
+00:11:15,125 --> 00:11:16,541
+Do you think it's
+the same perpetrator
+
+159
+00:11:16,625 --> 00:11:18,291
+from the pharmacy attack?
+
+160
+00:11:18,375 --> 00:11:20,958
+Well, I'd say
+it's more than likely.
+
+161
+00:11:21,041 --> 00:11:23,166
+He's getting more
+brazen, though.
+
+162
+00:11:23,250 --> 00:11:25,500
+Doing it in front
+of all these people.
+
+163
+00:11:25,583 --> 00:11:28,208
+And how could they
+just stand there?
+
+164
+00:11:28,291 --> 00:11:31,875
+The witness testimonies all
+sound pretty much the same.
+
+165
+00:11:31,958 --> 00:11:33,041
+They say they
+couldn't understand
+
+166
+00:11:33,125 --> 00:11:34,791
+what they were seeing.
+
+167
+00:11:34,875 --> 00:11:38,000
+I don't think we can judge them.
+
+168
+00:11:38,083 --> 00:11:40,500
+Someone getting killed
+right in front of you.
+
+169
+00:11:40,583 --> 00:11:42,083
+You can't imagine it.
+
+170
+00:11:42,166 --> 00:11:44,125
+The idea wouldn't
+cross your mind.
+
+171
+00:11:44,208 --> 00:11:46,041
+Every one of these
+people had gone
+
+172
+00:11:46,125 --> 00:11:48,708
+through their lives
+without ever considering it.
+
+173
+00:11:48,791 --> 00:11:52,166
+We all grew up believing
+this wasn't possible.
+
+174
+00:11:52,833 --> 00:11:54,000
+And in the end, not a single
+
+175
+00:11:54,083 --> 00:11:56,166
+one felt the need
+to report the incident,
+
+176
+00:11:56,250 --> 00:11:58,083
+so the elevated Area
+Stress Level warning
+
+177
+00:11:58,166 --> 00:12:00,833
+was the only way we were able
+to know something was wrong.
+
+178
+00:12:00,916 --> 00:12:02,375
+Yeah, but humans weren't alone
+
+179
+00:12:02,458 --> 00:12:04,750
+in missing what
+was in front of them.
+
+180
+00:12:08,166 --> 00:12:09,625
+Of all things, he kills the girl
+
+181
+00:12:09,708 --> 00:12:11,875
+right under a
+Psycho-Pass scanner.
+
+182
+00:12:11,958 --> 00:12:13,916
+So, does that mean any
+change in the culprit's Hue
+
+183
+00:12:14,000 --> 00:12:15,916
+would've been
+monitored in real time?
+
+184
+00:12:16,000 --> 00:12:17,958
+Yeah I'm pulling it up now.
+
+185
+00:12:19,333 --> 00:12:22,458
+He managed to maintain
+a normal value yet again?
+
+186
+00:12:22,541 --> 00:12:24,416
+Unbelievable.
+
+187
+00:12:24,500 --> 00:12:26,833
+Even at the moment when
+he's striking her dead,
+
+188
+00:12:26,916 --> 00:12:29,083
+it registers only
+a minor fluctuation.
+
+189
+00:12:29,166 --> 00:12:31,125
+Is there any chance
+that the value itself
+
+190
+00:12:31,208 --> 00:12:32,500
+could've been faked this time?
+
+191
+00:12:32,583 --> 00:12:33,791
+No way.
+
+192
+00:12:33,875 --> 00:12:36,250
+Fabricating a Psycho-Pass
+just isn't possible.
+
+193
+00:12:36,333 --> 00:12:38,958
+Unless he's lugging
+around a supercomputer.
+
+194
+00:12:39,416 --> 00:12:43,458
+Hey wait a second.
+Now this is really bizarre.
+
+195
+00:12:43,541 --> 00:12:45,291
+Yeah, his value makes no sense.
+
+196
+00:12:45,375 --> 00:12:46,833
+It's more than that.
+
+197
+00:12:46,916 --> 00:12:49,166
+It looks too much like
+an onlooker's reaction.
+
+198
+00:12:49,250 --> 00:12:50,750
+Check this out.
+
+199
+00:12:50,833 --> 00:12:53,000
+That graph there charts
+the Area Stress Level.
+
+200
+00:12:53,083 --> 00:12:56,875
+It matches up perfectly with the
+change in the murderer's Hue.
+
+201
+00:12:58,291 --> 00:13:00,000
+Whoa you're right.
+
+202
+00:13:00,083 --> 00:13:03,083
+If that's true,
+this guy's mental state
+
+203
+00:13:03,166 --> 00:13:06,541
+was the exact same as the
+witnesses watching him kill her.
+
+204
+00:13:06,625 --> 00:13:07,875
+I wonder if they'll be able
+
+205
+00:13:07,958 --> 00:13:10,416
+to see through that
+little trick right away.
+
+206
+00:13:10,500 --> 00:13:14,166
+This is a simple
+but impressive trick.
+
+207
+00:13:14,250 --> 00:13:18,250
+Although I'm afraid it can
+be a bit limited, as well.
+
+208
+00:13:18,333 --> 00:13:22,208
+I think the reception range
+is only about thirty meters.
+
+209
+00:13:22,291 --> 00:13:24,208
+But if there's even one
+person within that range
+
+210
+00:13:24,291 --> 00:13:26,333
+who has a clear color.
+
+211
+00:13:26,416 --> 00:13:28,041
+Then it doesn't matter what
+
+212
+00:13:28,125 --> 00:13:30,208
+you're thinking
+inside the helmet,
+
+213
+00:13:30,291 --> 00:13:32,875
+or what you do while wearing it.
+
+214
+00:13:36,416 --> 00:13:38,375
+The folks at the CID
+will probably notice soon
+
+215
+00:13:38,458 --> 00:13:40,208
+that there was another
+person in the vicinity
+
+216
+00:13:40,291 --> 00:13:44,125
+with the exact same Hue,
+assuming they comb through
+
+217
+00:13:44,208 --> 00:13:46,916
+the scan data of everyone
+who was at the scene.
+
+218
+00:14:05,708 --> 00:14:07,708
+Inspectors, we've got
+another emergency.
+
+219
+00:14:07,791 --> 00:14:09,000
+What is it this time?
+
+220
+00:14:09,083 --> 00:14:10,500
+There are reports
+that an armored car
+
+221
+00:14:10,583 --> 00:14:12,208
+was attacked on the freeway.
+
+222
+00:14:12,291 --> 00:14:15,125
+An armored car?
+They must be crazy.
+
+223
+00:14:17,625 --> 00:14:19,375
+Hey, Shion, the
+guys who did this
+
+224
+00:14:19,458 --> 00:14:20,958
+were wearing
+helmets, too, right?
+
+225
+00:14:21,041 --> 00:14:23,166
+Excellent guess. Yes, they were.
+
+226
+00:14:23,250 --> 00:14:26,250
+There were three of them and
+they were armed with shop tools.
+
+227
+00:14:26,333 --> 00:14:28,458
+This case is separate
+from the one you're working.
+
+228
+00:14:28,541 --> 00:14:30,916
+How do we proceed?
+
+229
+00:14:31,000 --> 00:14:33,333
+We'll split up into
+two separate teams.
+
+230
+00:14:33,416 --> 00:14:35,416
+Kagari and Kunizuka,
+I want you to come with me.
+
+231
+00:14:35,500 --> 00:14:37,541
+You got it.
+
+232
+00:14:37,625 --> 00:14:39,041
+You guys keep looking
+for the pharmacy attacker.
+
+233
+00:14:39,125 --> 00:14:41,500
+We'll go after the
+armored car hijackers.
+
+234
+00:14:41,583 --> 00:14:44,458
+Hey, so these guys are
+armed with real weapons, huh?
+
+235
+00:14:44,541 --> 00:14:46,666
+Which means that if this
+thing doesn't work on them,
+
+236
+00:14:46,750 --> 00:14:48,916
+we're gonna be totally
+outmatched and defenseless,
+
+237
+00:14:49,000 --> 00:14:50,083
+isn't that right, Gino?
+
+238
+00:14:50,166 --> 00:14:52,291
+Just focus on what
+needs to be done here.
+
+239
+00:14:52,375 --> 00:14:53,875
+Now let's go.
+
+240
+00:14:58,000 --> 00:15:02,041
+I have to wonder, why would
+our suspect do all of this?
+
+241
+00:15:03,666 --> 00:15:05,958
+Well the most
+common reason would be...
+
+242
+00:15:07,416 --> 00:15:08,791
+What is it?
+
+243
+00:15:08,875 --> 00:15:10,958
+I can't believe we missed that.
+
+244
+00:15:11,041 --> 00:15:13,541
+Since the crimes are
+so unusual of course,
+
+245
+00:15:13,625 --> 00:15:16,416
+they appear to be
+totally random at first.
+
+246
+00:15:16,500 --> 00:15:19,333
+But the second attack...
+
+247
+00:15:19,416 --> 00:15:20,916
+Brutality like that
+only makes sense
+
+248
+00:15:21,000 --> 00:15:24,083
+if the killer had a motive.
+
+249
+00:15:26,083 --> 00:15:28,166
+What now?
+Don't they know I'm busy?
+
+250
+00:15:28,250 --> 00:15:30,000
+Can you check something for me?
+
+251
+00:15:30,083 --> 00:15:31,208
+I'm kinda in the middle
+
+252
+00:15:31,291 --> 00:15:32,500
+of checking a whole
+lotta things right now.
+
+253
+00:15:32,583 --> 00:15:34,791
+It'll just take a second.
+
+254
+00:15:34,875 --> 00:15:35,875
+I'm only asking
+you 'cause you're
+
+255
+00:15:35,958 --> 00:15:38,208
+the goddess of
+information analysis.
+
+256
+00:15:38,291 --> 00:15:39,958
+Sweetie, when it comes to me,
+
+257
+00:15:40,041 --> 00:15:42,375
+flattery will get
+you whatever you want.
+
+258
+00:15:42,458 --> 00:15:44,208
+What is it?
+
+259
+00:15:44,291 --> 00:15:45,958
+The victim, Hiroko Fujii.
+
+260
+00:15:46,041 --> 00:15:48,750
+She have any sort
+of trouble in her past?
+
+261
+00:15:50,833 --> 00:15:54,250
+If she did, it wasn't anything
+big enough to go on her record.
+
+262
+00:15:54,333 --> 00:15:55,875
+What about people she knew?
+
+263
+00:15:55,958 --> 00:15:58,625
+Anyone who hasn't
+gone outside in a while?
+
+264
+00:15:58,708 --> 00:16:00,541
+You're looking
+for a shut-in now?
+
+265
+00:16:00,625 --> 00:16:01,791
+Not a shut-in.
+
+266
+00:16:01,875 --> 00:16:03,250
+I'm looking for somebody
+who knows he'd be sent
+
+267
+00:16:03,333 --> 00:16:04,458
+to therapy immediately
+
+268
+00:16:04,541 --> 00:16:06,333
+if he gets anywhere
+near a street scanner.
+
+269
+00:16:06,416 --> 00:16:09,250
+Oh okay. I gotcha.
+
+270
+00:16:12,291 --> 00:16:16,291
+How about this guy?
+Name's Jyunmei Itoh.
+
+271
+00:16:16,375 --> 00:16:18,291
+He's one of her
+colleagues, or he was.
+
+272
+00:16:18,375 --> 00:16:20,375
+It seems he's been out
+sick for about two weeks,
+
+273
+00:16:20,458 --> 00:16:22,916
+so he's been issued
+a health care directive.
+
+274
+00:16:24,416 --> 00:16:26,666
+He lives in Tsurumaki.
+
+275
+00:16:26,750 --> 00:16:28,625
+That's not far from here.
+
+276
+00:16:35,750 --> 00:16:37,125
+He ain't home?
+
+277
+00:16:46,416 --> 00:16:48,083
+Bingo.
+
+278
+00:17:00,500 --> 00:17:03,625
+If this is the state of mind
+this creep's been in lately
+
+279
+00:17:03,708 --> 00:17:07,208
+then it's no wonder he was
+afraid to leave the apartment.
+
+280
+00:17:13,875 --> 00:17:15,208
+Crime Coefficient: Thirty-Two.
+
+281
+00:17:15,291 --> 00:17:17,333
+Target is a
+registered Inspector.
+
+282
+00:17:22,166 --> 00:17:23,875
+We have to follow him!
+
+283
+00:17:23,958 --> 00:17:26,250
+Before we do that I need
+to check something out.
+
+284
+00:17:27,458 --> 00:17:29,583
+Crime Coefficient: Thirty-Two.
+
+285
+00:17:29,666 --> 00:17:31,375
+Target is a
+registered Inspector.
+
+286
+00:17:31,458 --> 00:17:33,291
+Warning: Any rebellious
+conduct by an Enforcer...
+
+287
+00:17:33,375 --> 00:17:35,416
+Ah, so that's how they do it.
+
+288
+00:17:35,500 --> 00:17:38,791
+I figured out their
+little magic trick.
+
+289
+00:17:46,416 --> 00:17:49,083
+Shion! Any uninhabited
+blocks near me?
+
+290
+00:17:49,166 --> 00:17:52,916
+Why, what's this all about?
+What's going on?
+
+291
+00:17:53,000 --> 00:17:56,291
+The suspect's able to copy the
+Psycho-Pass of a nearby person.
+
+292
+00:17:56,375 --> 00:17:58,583
+The helmet itself is
+doing a cymatic scan
+
+293
+00:17:58,666 --> 00:18:00,250
+of the people around him.
+
+294
+00:18:00,333 --> 00:18:02,166
+I see, so if we can
+get him somewhere
+
+295
+00:18:02,250 --> 00:18:04,375
+with no people in
+the scanning range
+
+296
+00:18:04,458 --> 00:18:07,000
+That helmet will
+be useless. Hurry!
+
+297
+00:18:07,083 --> 00:18:09,458
+Let's see here.
+
+298
+00:18:09,875 --> 00:18:11,958
+There's a storage
+building four blocks up.
+
+299
+00:18:12,041 --> 00:18:14,375
+It's fully automated
+so nobody's inside.
+
+300
+00:18:14,458 --> 00:18:17,208
+We'll chase him to it.
+Send any Drones in the area.
+
+301
+00:18:17,291 --> 00:18:19,666
+Yup, you got it.
+
+302
+00:18:21,000 --> 00:18:22,583
+You heard the plan right pops?
+
+303
+00:18:22,666 --> 00:18:24,625
+Go circle around
+and cut him off!
+
+304
+00:18:24,708 --> 00:18:26,000
+Copy.
+
+305
+00:18:26,083 --> 00:18:29,000
+As for you, Inspector,
+don't get too close to Itoh.
+
+306
+00:18:29,083 --> 00:18:31,416
+Otherwise, we'll have
+the same problem as before.
+
+307
+00:18:31,500 --> 00:18:33,666
+Got it!
+
+308
+00:18:39,125 --> 00:18:40,333
+Your attention, please.
+
+309
+00:18:40,416 --> 00:18:41,750
+This is the Criminal
+Investigation Department,
+
+310
+00:18:41,833 --> 00:18:43,500
+part of the
+Public Safety Bureau.
+
+311
+00:18:43,583 --> 00:18:44,791
+We are currently...
+
+312
+00:18:44,875 --> 00:18:46,458
+This is the Criminal
+Investigation Department,
+
+313
+00:18:46,541 --> 00:18:48,041
+part of the Public
+Safety Bureau.
+
+314
+00:18:48,125 --> 00:18:51,083
+We are currently blocking
+traffic due to an emergen
+
+315
+00:18:51,166 --> 00:18:52,291
+Keep it up, guys!
+
+316
+00:18:52,375 --> 00:18:53,666
+You're almost there!
+
+317
+00:18:53,750 --> 00:18:55,083
+We are currently
+blocking traffic due
+
+318
+00:18:55,166 --> 00:18:57,125
+to an emergency situation.
+
+319
+00:18:57,208 --> 00:18:58,958
+Please take an alternate route.
+
+320
+00:19:16,000 --> 00:19:18,375
+Crime Coefficient:
+two hundred eighty-two.
+
+321
+00:19:18,458 --> 00:19:20,041
+Target is a registered Enforcer.
+
+322
+00:19:20,125 --> 00:19:20,916
+Damn it!
+
+323
+00:19:21,000 --> 00:19:22,333
+Status, Enforce At Will Target.
+
+324
+00:19:22,416 --> 00:19:24,125
+Trigger safety now released.
+
+325
+00:19:24,208 --> 00:19:26,833
+Aw, gee, how kind of you.
+
+326
+00:19:37,666 --> 00:19:40,416
+All the way up to two hundred
+eighty-two now, are you?
+
+327
+00:19:40,500 --> 00:19:44,291
+Yeah. The thought of killing
+him may have crossed my mind.
+
+328
+00:19:44,375 --> 00:19:45,541
+How you like seeing someone
+
+329
+00:19:45,625 --> 00:19:47,750
+with your Psycho-Pass
+getting shot down?
+
+330
+00:19:47,833 --> 00:19:52,708
+Hey, I'm just glad this thing
+didn't turn into an Eliminator.
+
+331
+00:20:03,958 --> 00:20:06,250
+It looks as though you
+were able to lose your tail.
+
+332
+00:20:06,333 --> 00:20:07,875
+Yeah, piece of cake.
+
+333
+00:20:07,958 --> 00:20:09,458
+When they can't use
+their Dominators,
+
+334
+00:20:09,541 --> 00:20:11,875
+the MWPSB are harmless.
+
+335
+00:20:11,958 --> 00:20:13,708
+You wanna know something?
+
+336
+00:20:15,083 --> 00:20:16,875
+You aren't very smart.
+
+337
+00:20:16,958 --> 00:20:19,875
+I mean you gotta be
+either stupid or crazy
+
+338
+00:20:19,958 --> 00:20:21,708
+to meet us here alone like this.
+
+339
+00:20:21,791 --> 00:20:24,041
+Now we know you
+got goods and money.
+
+340
+00:20:24,125 --> 00:20:25,791
+And you know we're dangerous.
+
+341
+00:20:25,875 --> 00:20:27,791
+You shoulda' taken precautions.
+
+342
+00:20:27,875 --> 00:20:31,750
+This was merely a tool
+to promote awareness.
+
+343
+00:20:31,833 --> 00:20:35,208
+To encourage those people
+to live like human beings,
+
+344
+00:20:35,291 --> 00:20:36,625
+and to stop trudging
+through their sad,
+
+345
+00:20:36,708 --> 00:20:38,750
+idle lives like livestock.
+
+346
+00:20:40,458 --> 00:20:42,833
+The masses have
+been misled by Sibyl.
+
+347
+00:20:42,916 --> 00:20:46,166
+They've forgotten how to assess
+the danger in front of them.
+
+348
+00:20:46,250 --> 00:20:48,083
+Well in that sense
+they're like you.
+
+349
+00:20:48,166 --> 00:20:51,041
+You're every bit as naïve
+as those pitiful sheep.
+
+350
+00:20:54,541 --> 00:20:56,291
+Oh, is that so?
+
+351
+00:21:13,833 --> 00:21:18,916
+Alas it really is
+quite a terrible shame.
+
