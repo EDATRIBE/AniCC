@@ -1,0 +1,2135 @@
+﻿1
+00:00:14,000 --> 00:00:16,083
+[LYON] They defeated
+a dragon on their own,
+
+2
+00:00:16,166 --> 00:00:17,458
+and now they're using
+healing magic
+
+3
+00:00:17,541 --> 00:00:19,750
+on all the wounded civilians.
+
+4
+00:00:19,833 --> 00:00:22,875
+I am beginning to question
+their need for an escort.
+
+5
+00:00:22,958 --> 00:00:25,750
+What's more, they donated
+the dragon's usable parts
+
+6
+00:00:25,833 --> 00:00:27,291
+for the village's recovery.
+
+7
+00:00:27,375 --> 00:00:30,333
+A single pouch of that thing's
+scales could fetch ten gold.
+
+8
+00:00:30,416 --> 00:00:33,541
+[sighs] They are mighty
+and magnanimous.
+
+9
+00:00:33,625 --> 00:00:35,875
+It's beyond impressive.
+
+10
+00:00:35,958 --> 00:00:36,791
+[GAREN]
+Yeah.
+
+11
+00:00:36,875 --> 00:00:38,791
+Just who are those people?
+
+12
+00:00:38,875 --> 00:00:39,708
+[LYON]
+Who knows?
+
+13
+00:00:39,791 --> 00:00:41,666
+I certainly don't.
+
+14
+00:02:19,666 --> 00:02:22,291
+My name is Solum.
+I'm the village elder here.
+
+15
+00:02:22,375 --> 00:02:24,375
+I wanted to thank you
+for saving my people
+
+16
+00:02:24,458 --> 00:02:25,958
+from that dragon attack.
+
+17
+00:02:26,041 --> 00:02:29,541
+And for providing us with the
+means to rebuild our village.
+
+18
+00:02:29,625 --> 00:02:31,291
+We shall remember your deeds.
+
+19
+00:02:31,375 --> 00:02:33,250
+Your words are kind, but...
+
+20
+00:02:33,333 --> 00:02:35,750
+...we just tried
+to do what's right.
+
+21
+00:02:37,041 --> 00:02:38,208
+What's this?
+
+22
+00:02:38,291 --> 00:02:40,000
+[SOLUM] There are few
+materials in this world
+
+23
+00:02:40,083 --> 00:02:42,875
+as light and durable as
+the fang of a dragon.
+
+24
+00:02:42,958 --> 00:02:44,333
+Then... you keep it.
+
+25
+00:02:44,416 --> 00:02:47,333
+I'm told that you damaged
+your sword in our defense.
+
+26
+00:02:47,416 --> 00:02:49,375
+Take this fang to
+a master smith,
+
+27
+00:02:49,458 --> 00:02:51,791
+and he can forge you
+a fine new weapon.
+
+28
+00:02:51,875 --> 00:02:55,041
+Or else, you can sell it and
+purchase one with the proceeds.
+
+29
+00:02:55,125 --> 00:02:56,625
+That's a good idea, sir.
+
+30
+00:02:56,708 --> 00:02:59,083
+Thanks for suggesting it.
+
+31
+00:02:59,166 --> 00:03:00,750
+[TOUYA]
+It really is light.
+
+32
+00:03:00,833 --> 00:03:04,250
+[SOLUM] Also, I'd like
+to return this to you.
+
+33
+00:03:04,333 --> 00:03:06,666
+It was found in one
+of the dragon's eyes.
+
+34
+00:03:06,750 --> 00:03:08,875
+I presume it's yours.
+
+35
+00:03:11,833 --> 00:03:13,666
+[TOUYA]
+I wonder...
+
+36
+00:03:22,958 --> 00:03:27,125
+[TOUYA] Kohaku. Did you sense
+whoever threw this knife?
+
+37
+00:03:27,208 --> 00:03:28,666
+[KOHAKU]
+Yes.
+
+38
+00:03:28,750 --> 00:03:31,708
+In fact, I think I sensed two
+people outside of our group
+
+39
+00:03:31,791 --> 00:03:33,333
+hiding in the trees.
+
+40
+00:03:33,416 --> 00:03:36,458
+At the time, I assumed
+they were villagers.
+
+41
+00:03:41,375 --> 00:03:42,791
+So this is it.
+
+42
+00:03:42,875 --> 00:03:45,708
+Berge, The royal
+capital of Mismede.
+
+43
+00:03:54,000 --> 00:03:55,333
+Your Majesty.
+
+44
+00:03:55,416 --> 00:03:56,833
+I, Olga Strand,
+
+45
+00:03:56,916 --> 00:04:00,791
+have completed my work
+in the kingdom of Belfast.
+
+46
+00:04:00,875 --> 00:04:02,916
+You have done well.
+
+47
+00:04:03,000 --> 00:04:04,708
+As have you, Garen.
+
+48
+00:04:04,791 --> 00:04:06,875
+And you, Knight of Belfast.
+
+49
+00:04:06,958 --> 00:04:10,166
+I thank you both for
+escorting Lady Strand home.
+
+50
+00:04:10,250 --> 00:04:11,833
+[LYON, GAREN]
+Your Grace.
+
+51
+00:04:11,916 --> 00:04:15,583
+Envoys of Belfast, I'm pleased
+to welcome you to Mismede.
+
+52
+00:04:15,666 --> 00:04:18,375
+I hear that a dragon
+attacked Eld village,
+
+53
+00:04:18,458 --> 00:04:20,500
+and that you defeated it.
+
+54
+00:04:20,583 --> 00:04:22,583
+Tell me, is this true?
+
+55
+00:04:23,791 --> 00:04:26,541
+Yes. That's right, Your Majesty.
+
+56
+00:04:26,625 --> 00:04:29,166
+These four dispatched the dragon
+that attacked your village
+
+57
+00:04:29,250 --> 00:04:31,333
+and can confirm
+that it acted alone.
+
+58
+00:04:31,416 --> 00:04:32,750
+And who are you?
+
+59
+00:04:32,833 --> 00:04:34,458
+[YUMINA] My apologies for
+the delayed introduction,
+
+60
+00:04:34,541 --> 00:04:37,166
+Your Grace. It's an honor
+and a pleasure to meet you.
+
+61
+00:04:37,250 --> 00:04:40,458
+I am Princess Yumina
+Arina Bellfast.
+
+62
+00:04:40,541 --> 00:04:43,708
+The daughter of King
+Tristwyn Urnes Belfast.
+
+63
+00:04:43,791 --> 00:04:45,083
+Heavens!
+
+64
+00:04:45,166 --> 00:04:48,250
+And what brings the Princess
+of Belfast to my halls?
+
+65
+00:04:48,333 --> 00:04:50,125
+Please, consider my
+presence a sign of
+
+66
+00:04:50,208 --> 00:04:53,541
+Belfast's earnest hope
+for this alliance.
+
+67
+00:04:53,625 --> 00:04:56,416
+My father penned this
+letter in his own hand.
+
+68
+00:04:56,500 --> 00:04:58,708
+Read it at your pleasure,
+Your Grace.
+
+69
+00:05:00,125 --> 00:05:01,625
+Interesting.
+
+70
+00:05:01,708 --> 00:05:05,458
+I shall think on the matter,
+and respond in the near future.
+
+71
+00:05:05,541 --> 00:05:07,458
+Until then, please rest.
+
+72
+00:05:07,541 --> 00:05:09,958
+Enjoy my palace.
+
+73
+00:05:10,041 --> 00:05:12,291
+A dragon slayer in my halls.
+
+74
+00:05:12,375 --> 00:05:16,458
+Ha, ha, ha! My blood's
+not roiled so in ages!
+
+75
+00:05:16,541 --> 00:05:18,083
+How 'bout it, young Touya?
+
+76
+00:05:18,166 --> 00:05:20,333
+Would you care to spar?
+
+77
+00:05:22,083 --> 00:05:23,750
+[JAMUKHA grunting]
+
+78
+00:05:23,833 --> 00:05:26,375
+[TOUYA]
+Oh, my, what big arms you have.
+
+79
+00:05:27,625 --> 00:05:31,000
+[JAMUKHA grunting]
+
+80
+00:05:31,083 --> 00:05:33,208
+[GRATZ]
+Sir Touya.
+
+81
+00:05:33,291 --> 00:05:35,416
+His majesty has
+long felt compelled
+
+82
+00:05:35,500 --> 00:05:38,083
+to fight any strong
+warrior he meets.
+
+83
+00:05:38,166 --> 00:05:40,291
+Frankly, we're all
+quite troubled by it.
+
+84
+00:05:40,375 --> 00:05:42,041
+[TOUYA]
+Oh, yeah?
+
+85
+00:05:42,125 --> 00:05:43,458
+So don't go holding back.
+
+86
+00:05:43,541 --> 00:05:45,041
+Give him a good sound thrashing.
+
+87
+00:05:45,125 --> 00:05:46,666
+Do it for all of
+us who love him!
+
+88
+00:05:46,750 --> 00:05:48,708
+[TOUYA] That seems a
+little counterintuitive,
+
+89
+00:05:48,791 --> 00:05:51,083
+but I am in another country.
+
+90
+00:05:52,625 --> 00:05:54,000
+[JUDGE 7A]
+Here are the rules:
+
+91
+00:05:54,083 --> 00:05:56,708
+the match will end whenever
+a combatant admits defeat,
+
+92
+00:05:56,791 --> 00:06:00,041
+or is put into a position
+to receive a fatal wound.
+
+93
+00:06:00,125 --> 00:06:02,791
+Use of magic is permitted,
+provided that it's not
+
+94
+00:06:02,875 --> 00:06:05,666
+offensive magic which
+directly harms a combatant.
+
+95
+00:06:05,750 --> 00:06:07,750
+Fighters. At the ready.
+
+96
+00:06:07,833 --> 00:06:09,000
+I think we are.
+
+97
+00:06:09,083 --> 00:06:10,791
+Give it all you've got, boy.
+
+98
+00:06:10,875 --> 00:06:12,333
+Think of this as a real battle.
+
+99
+00:06:12,416 --> 00:06:15,125
+Use any and all means
+available to beat me.
+
+100
+00:06:15,208 --> 00:06:16,750
+Yeah, okay.
+
+101
+00:06:16,833 --> 00:06:18,541
+Very well. Begin!
+
+102
+00:06:18,625 --> 00:06:19,833
+[TOUYA]
+Slip!
+
+103
+00:06:19,916 --> 00:06:21,750
+[JAMUKHA screams]
+
+104
+00:06:21,833 --> 00:06:22,833
+Uh?!
+
+105
+00:06:22,916 --> 00:06:25,083
+[TOUYA]
+Well. Guess that's the match.
+
+106
+00:06:27,291 --> 00:06:28,916
+What the hell did you just do?!
+
+107
+00:06:29,000 --> 00:06:30,833
+Hey! Come back.
+
+108
+00:06:30,916 --> 00:06:32,541
+That's one of my
+Null magic spells.
+
+109
+00:06:32,625 --> 00:06:34,083
+It's called Slip.
+
+110
+00:06:34,166 --> 00:06:37,000
+He did say it was cool to use
+non-damaging spells, right?
+
+111
+00:06:37,083 --> 00:06:38,458
+[JAMUKHA]
+Yeah. Except that one!
+
+112
+00:06:38,541 --> 00:06:41,333
+A spell like that doesn't
+even let a match happen!
+
+113
+00:06:41,416 --> 00:06:42,666
+Let's go one more time!
+
+114
+00:06:42,750 --> 00:06:45,625
+Only that Slip spell
+is off limits.
+
+115
+00:06:47,750 --> 00:06:49,875
+No forcing me to trip
+this time, ya hear me?
+
+116
+00:06:49,958 --> 00:06:52,041
+[TOUYA]
+Loud and clear.
+
+117
+00:06:52,125 --> 00:06:53,958
+Begin!
+
+118
+00:06:55,708 --> 00:06:56,916
+King Jamukha's stronger.
+
+119
+00:06:57,000 --> 00:06:58,875
+Without magic,
+he has the upper hand.
+
+120
+00:06:58,958 --> 00:07:01,625
+Cast something, Touya.
+
+121
+00:07:01,708 --> 00:07:02,708
+Come Forth Sand.
+
+122
+00:07:02,791 --> 00:07:03,583
+Obstructing Dust--
+
+123
+00:07:03,666 --> 00:07:05,750
+Too slow!
+
+124
+00:07:05,833 --> 00:07:07,416
+Multiple!
+
+125
+00:07:09,458 --> 00:07:11,458
+Made the king back
+off with a bluff.
+
+126
+00:07:11,541 --> 00:07:12,458
+Clever.
+
+127
+00:07:12,541 --> 00:07:14,291
+I would expect no
+less from Touya.
+
+128
+00:07:14,375 --> 00:07:15,958
+Now, Boost!
+
+129
+00:07:16,041 --> 00:07:17,083
+Accel!
+
+130
+00:07:17,166 --> 00:07:18,250
+[TOUYA grunts]
+
+131
+00:07:22,083 --> 00:07:23,541
+You managed to dodge that.
+
+132
+00:07:23,625 --> 00:07:25,791
+Well done.
+Consider me impressed.
+
+133
+00:07:25,875 --> 00:07:26,583
+So quick!
+
+134
+00:07:26,666 --> 00:07:27,791
+I could barely see a blur.
+
+135
+00:07:27,875 --> 00:07:29,708
+It must be his Null magic.
+
+136
+00:07:29,791 --> 00:07:31,458
+[TOUYA]
+That ability ya just used.
+
+137
+00:07:31,541 --> 00:07:33,291
+I'm guessing it's
+your Null magic?
+
+138
+00:07:33,375 --> 00:07:34,625
+That it is.
+
+139
+00:07:34,708 --> 00:07:37,291
+You can see why I enjoy a
+good scrap now and then.
+
+140
+00:07:37,375 --> 00:07:39,208
+I almost thought
+you'd teleported.
+
+141
+00:07:39,291 --> 00:07:40,416
+[JAMUKHA]
+I've yet to fight a man
+
+142
+00:07:40,500 --> 00:07:42,750
+who could match my
+Accel's speed.
+
+143
+00:07:42,833 --> 00:07:44,750
+But it burns through
+my mana fast, too,
+
+144
+00:07:44,833 --> 00:07:47,208
+so I prefer to use
+it in short bursts.
+
+145
+00:07:47,291 --> 00:07:48,375
+[TOUYA]
+I see.
+
+146
+00:07:48,458 --> 00:07:50,208
+That's an impressive spell.
+
+147
+00:07:50,291 --> 00:07:51,875
+I know.
+
+148
+00:07:51,958 --> 00:07:53,083
+So, thank you.
+
+149
+00:07:53,166 --> 00:07:55,583
+I'm excited to start using it.
+
+150
+00:07:55,666 --> 00:07:57,083
+Accel!
+
+151
+00:07:57,166 --> 00:07:58,041
+[gasps]
+
+152
+00:07:58,125 --> 00:08:01,375
+Did you...? Impossible!
+
+153
+00:08:01,458 --> 00:08:04,166
+This spell's surprisingly
+difficult to control.
+
+154
+00:08:04,250 --> 00:08:06,916
+Still, I doubt I'll miss again.
+
+155
+00:08:07,000 --> 00:08:08,208
+Accel!
+
+156
+00:08:08,291 --> 00:08:09,875
+Accel.
+
+157
+00:08:11,250 --> 00:08:12,916
+[ELZE]
+Well, this fight took a turn.
+
+158
+00:08:13,000 --> 00:08:14,583
+[YAE]
+I can't see a thing.
+
+159
+00:08:16,208 --> 00:08:17,916
+You've matched me in speed.
+
+160
+00:08:18,000 --> 00:08:20,958
+But how will you
+match my raw power?
+
+161
+00:08:21,041 --> 00:08:22,125
+Good question.
+
+162
+00:08:22,208 --> 00:08:24,458
+Not sure I have an answer,
+but here goes.
+
+163
+00:08:24,541 --> 00:08:26,125
+Accel and Boost!
+
+164
+00:08:26,208 --> 00:08:28,583
+[JAMUKHA]
+Hm? Accel!
+
+165
+00:08:30,458 --> 00:08:34,666
+[swords clanging]
+
+166
+00:08:34,750 --> 00:08:35,750
+[JAMUKHA]
+Uh...
+
+167
+00:08:35,833 --> 00:08:37,541
+Looks like Checkmate.
+
+168
+00:08:37,625 --> 00:08:40,875
+I can't say I understand
+what that phrase means.
+
+169
+00:08:40,958 --> 00:08:43,750
+But, I do concede defeat!
+
+170
+00:08:43,833 --> 00:08:47,375
+The winner is Mochizuki Touya!
+
+171
+00:08:49,708 --> 00:08:52,666
+I can't believe he used
+two Null magics at once.
+
+172
+00:08:52,750 --> 00:08:53,958
+Uh?
+
+173
+00:08:54,041 --> 00:08:55,541
+[JAMUKHA]
+I never thought I'd meet someone
+
+174
+00:08:55,625 --> 00:08:57,458
+who could beat my speed.
+
+175
+00:08:57,541 --> 00:09:00,958
+Honestly, I think I'd gotten
+a little full of myself.
+
+176
+00:09:01,041 --> 00:09:03,666
+I'll have to take
+a lesson from this.
+
+177
+00:09:03,750 --> 00:09:06,875
+Uh. Yeah? [laughs]
+
+178
+00:09:11,791 --> 00:09:13,666
+[TOUYA]
+And this.
+
+179
+00:09:13,750 --> 00:09:15,375
+[LYON]
+Sir Touya.
+
+180
+00:09:15,458 --> 00:09:17,750
+Nice outfit. It suits you well.
+
+181
+00:09:17,833 --> 00:09:18,666
+Thanks.
+
+182
+00:09:18,750 --> 00:09:20,000
+By the way,
+
+183
+00:09:20,083 --> 00:09:24,708
+you haven't seen Lady Olga
+around, have you?
+
+184
+00:09:24,791 --> 00:09:26,541
+Not yet, but I just got here.
+
+185
+00:09:26,625 --> 00:09:29,458
+[PARTYGOERS chattering]
+
+186
+00:09:39,291 --> 00:09:41,583
+[TOUYA]
+He is so into her.
+
+187
+00:09:41,666 --> 00:09:42,916
+[JAMUKHA]
+Welcome, Touya!
+
+188
+00:09:43,000 --> 00:09:45,041
+You wear our clothes well.
+
+189
+00:09:45,125 --> 00:09:48,708
+I could almost mistake you
+for a nobleman of Mismede.
+
+190
+00:09:48,791 --> 00:09:51,833
+Yeah? Ya really think so?
+
+191
+00:09:51,916 --> 00:09:54,000
+[YUMINA] That outfit really
+does look nice on you.
+
+192
+00:09:54,083 --> 00:09:55,083
+So dashing.
+
+193
+00:09:55,166 --> 00:09:55,916
+Yeah.
+
+194
+00:09:56,000 --> 00:09:57,166
+That is a good look for you.
+
+195
+00:09:57,250 --> 00:09:58,750
+[LINZE]
+It brings out a different side
+
+196
+00:09:58,833 --> 00:10:00,166
+of your natural charm.
+
+197
+00:10:00,250 --> 00:10:03,083
+Your normal outfit is
+fine, but this wins!
+
+198
+00:10:03,166 --> 00:10:05,125
+Yeah, well, all of you
+look really cute, too.
+
+199
+00:10:05,208 --> 00:10:08,041
+Hey! Why don't I take a picture?
+
+200
+00:10:09,083 --> 00:10:11,833
+[MEN groan]
+
+201
+00:10:11,916 --> 00:10:12,958
+What did you do?
+
+202
+00:10:13,041 --> 00:10:15,458
+Uh? Oh, sorry about that.
+
+203
+00:10:15,541 --> 00:10:18,000
+This is another one of
+my Null magic spells.
+
+204
+00:10:18,083 --> 00:10:20,041
+It allows me to record
+an image of any scene
+
+205
+00:10:20,125 --> 00:10:21,791
+so I can see it later.
+
+206
+00:10:21,875 --> 00:10:22,916
+Indeed.
+
+207
+00:10:23,000 --> 00:10:25,291
+It's like you made
+an instant painting.
+
+208
+00:10:25,375 --> 00:10:27,750
+Can you take it out
+of that device?
+
+209
+00:10:27,833 --> 00:10:29,208
+Why, yes I can.
+
+210
+00:10:29,291 --> 00:10:33,000
+Do you have a canvas or a
+piece of paper I could use?
+
+211
+00:10:33,083 --> 00:10:34,666
+Drawing.
+
+212
+00:10:36,125 --> 00:10:37,458
+[JAMUKHA]
+My word!
+
+213
+00:10:37,541 --> 00:10:39,458
+That's simply amazing!
+
+214
+00:10:39,541 --> 00:10:43,083
+Tell me, Touya, do you think
+you could paint me as well?
+
+215
+00:10:43,166 --> 00:10:44,125
+Sure, no problem.
+
+216
+00:10:44,208 --> 00:10:46,500
+[TOUYA]
+Cute, cute, cute, and buff.
+
+217
+00:10:46,583 --> 00:10:49,416
+Cute, cute, cute, and buff.
+
+218
+00:10:50,875 --> 00:10:52,333
+[sighs]
+
+219
+00:10:52,416 --> 00:10:54,500
+Whew. I am beat.
+
+220
+00:10:54,583 --> 00:10:56,583
+[squeaking]
+
+221
+00:11:04,458 --> 00:11:06,666
+[TOUYA]
+Uh, me?
+
+222
+00:11:15,000 --> 00:11:16,583
+What's this?
+
+223
+00:11:16,666 --> 00:11:20,583
+You've brought a strange
+guest with you, Paula.
+
+224
+00:11:25,000 --> 00:11:27,541
+Good evening. Might I
+inquire as to your name?
+
+225
+00:11:27,625 --> 00:11:29,375
+Oh. Yeah, my name's Touya.
+
+226
+00:11:29,458 --> 00:11:31,625
+Or Mochizuki Touya.
+
+227
+00:11:31,708 --> 00:11:33,250
+I just go by Touya.
+
+228
+00:11:33,333 --> 00:11:34,833
+--That will do.
+--[door creaks]
+
+229
+00:11:34,916 --> 00:11:36,791
+So, you're the rumored
+dragon slayer.
+
+230
+00:11:36,875 --> 00:11:38,791
+[TOUYA]
+Did that just close itself?
+
+231
+00:11:38,875 --> 00:11:41,166
+Uh, yeah, that was me.
+
+232
+00:11:41,250 --> 00:11:42,166
+And you?
+
+233
+00:11:42,250 --> 00:11:44,166
+Oh, right. Please forgive me.
+
+234
+00:11:44,250 --> 00:11:46,500
+I'm Leen, an elder
+of the fairy folk.
+
+235
+00:11:46,583 --> 00:11:47,541
+And here,
+
+236
+00:11:47,625 --> 00:11:49,833
+we have my friend Paula.
+
+237
+00:11:49,916 --> 00:11:53,000
+Despite appearances, I'm
+actually far older than you.
+
+238
+00:11:53,083 --> 00:11:54,541
+You're older than me?
+
+239
+00:11:54,625 --> 00:11:55,916
+'Kay, by how much?
+
+240
+00:11:56,000 --> 00:11:57,750
+Well, it's difficult to say.
+
+241
+00:11:57,833 --> 00:12:00,500
+Lost track a few centuries in,
+but I've seen at least six.
+
+242
+00:12:00,583 --> 00:12:01,750
+[TOUYA]
+Six hundred?!
+
+243
+00:12:01,833 --> 00:12:03,333
+Older, but it's
+a pain to recall,
+
+244
+00:12:03,416 --> 00:12:05,291
+so let's just go with 612.
+
+245
+00:12:05,375 --> 00:12:07,541
+[TOUYA]
+U-Uh... Uh.
+
+246
+00:12:07,625 --> 00:12:11,250
+By the way, is your friend here
+a summoned beast, or what?
+
+247
+00:12:11,333 --> 00:12:12,666
+Of course not.
+
+248
+00:12:12,750 --> 00:12:15,416
+Paula's a teddy bear.
+She's filled with bits of fluff.
+
+249
+00:12:15,500 --> 00:12:17,791
+Must say, I'm surprised
+that the sutured limbs
+
+250
+00:12:17,875 --> 00:12:19,958
+and cute squeaky sounds
+didn't give her away.
+
+251
+00:12:20,041 --> 00:12:21,291
+[TOUYA]
+Teddy's don't move.
+
+252
+00:12:21,375 --> 00:12:23,958
+[LEEN] Now, that's due to
+my Null magic, Program.
+
+253
+00:12:24,041 --> 00:12:26,416
+It allows me to issue
+situational commands
+
+254
+00:12:26,500 --> 00:12:27,791
+to inanimate objects.
+
+255
+00:12:27,875 --> 00:12:29,125
+For instance...
+
+256
+00:12:29,208 --> 00:12:30,958
+Initiate Program.
+
+257
+00:12:31,041 --> 00:12:32,291
+Movement.
+
+258
+00:12:32,375 --> 00:12:35,916
+Forward, on condition.
+Whenever you are sat upon.
+
+259
+00:12:36,000 --> 00:12:37,916
+End Program.
+
+260
+00:12:42,458 --> 00:12:43,750
+[grunts]
+
+261
+00:12:43,833 --> 00:12:46,416
+I forgot to specify a distance.
+
+262
+00:12:46,500 --> 00:12:48,000
+But you understand.
+
+263
+00:12:48,083 --> 00:12:51,208
+If I give an object a command,
+then it will do as instructed.
+
+264
+00:12:51,291 --> 00:12:54,958
+Okay, but, like, what if you
+commanded Paula to fly?
+
+265
+00:12:55,041 --> 00:12:56,208
+Would that make her able to?
+
+266
+00:12:56,291 --> 00:12:58,125
+The spell isn't quite
+powerful enough
+
+267
+00:12:58,208 --> 00:13:00,208
+to allow that level of freedom.
+
+268
+00:13:00,291 --> 00:13:02,125
+And the object's form matters.
+
+269
+00:13:02,208 --> 00:13:04,291
+Paula can do far
+more than a chair.
+
+270
+00:13:04,375 --> 00:13:06,625
+But if I wanted to
+make a toy fly,
+
+271
+00:13:06,708 --> 00:13:09,083
+I'd be better off
+programming a model bird.
+
+272
+00:13:09,166 --> 00:13:12,000
+[TOUYA] Hm... Would you mind
+if I tried it out a bit?
+
+273
+00:13:12,083 --> 00:13:13,416
+Huh?!
+
+274
+00:13:17,041 --> 00:13:18,791
+Initiate Program.
+
+275
+00:13:18,875 --> 00:13:19,583
+Movement.
+
+276
+00:13:19,666 --> 00:13:21,416
+Backwards for two meters.
+
+277
+00:13:21,500 --> 00:13:24,541
+On condition: Whenever
+you are sat upon.
+
+278
+00:13:24,625 --> 00:13:26,083
+End Program.
+
+279
+00:13:30,625 --> 00:13:33,125
+[gasps, laughing]
+
+280
+00:13:33,208 --> 00:13:35,583
+Excuse me. How did
+you just do that?
+
+281
+00:13:35,666 --> 00:13:36,833
+[TOUYA]
+Use your spell?
+
+282
+00:13:36,916 --> 00:13:38,958
+I said the words.
+
+283
+00:13:42,166 --> 00:13:45,250
+That is a truly spectacular
+talent you have.
+
+284
+00:13:45,333 --> 00:13:48,541
+Aside from Null magic,
+which elements can you use?
+
+285
+00:13:48,625 --> 00:13:51,333
+[TOUYA]
+All of them, believe it or not.
+
+286
+00:13:51,416 --> 00:13:54,166
+Sure, makes sense to me.
+
+287
+00:13:56,791 --> 00:13:58,041
+You know what, fine.
+
+288
+00:13:58,125 --> 00:14:00,833
+Let's do it. You will
+be my new apprentice.
+
+289
+00:14:00,916 --> 00:14:02,166
+[TOUYA]
+Huh?
+
+290
+00:14:02,250 --> 00:14:04,708
+[LEEN laughs]
+Such a reaction.
+
+291
+00:14:04,791 --> 00:14:08,416
+Relax. I'll not turn you into
+a stuffed bear for refusing.
+
+292
+00:14:08,500 --> 00:14:10,583
+That said, if you should
+change your mind--
+
+293
+00:14:10,666 --> 00:14:12,791
+Sorry, ma'am!
+
+294
+00:14:12,875 --> 00:14:14,250
+[TOUYA]
+I am so out of here!
+
+295
+00:14:14,333 --> 00:14:17,208
+[LEEN]
+Gone, but not forgotten...
+
+296
+00:14:19,708 --> 00:14:20,791
+Hey, Master.
+
+297
+00:14:20,875 --> 00:14:22,583
+Are you as tired as
+you look right now?
+
+298
+00:14:22,666 --> 00:14:24,166
+[TOUYA]
+Yeah, I'm beat.
+
+299
+00:14:24,250 --> 00:14:26,291
+A lot happened today.
+
+300
+00:14:26,375 --> 00:14:27,333
+Wait a second!
+
+301
+00:14:27,416 --> 00:14:29,291
+What if I used
+Program to make it?
+
+302
+00:14:29,375 --> 00:14:30,833
+[KOHAKU]
+Hm?
+
+303
+00:14:32,500 --> 00:14:35,083
+[YUMINA]
+Touya! Are you heading out?
+
+304
+00:14:35,166 --> 00:14:36,333
+Yeah, what's up?
+
+305
+00:14:36,416 --> 00:14:37,916
+We just finished
+eating breakfast,
+
+306
+00:14:38,000 --> 00:14:40,666
+so we were thinking about taking
+a stroll through the garden.
+
+307
+00:14:40,750 --> 00:14:42,333
+I'm glad you're getting along.
+
+308
+00:14:42,416 --> 00:14:43,916
+Seen Yae or Elze?
+
+309
+00:14:44,000 --> 00:14:45,791
+They're both at a joint
+training session
+
+310
+00:14:45,875 --> 00:14:48,958
+with some of Mismede's soldiers
+in the arena right now.
+
+311
+00:14:49,041 --> 00:14:50,791
+[TOUYA]
+Yeah. That sounds like them.
+
+312
+00:14:50,875 --> 00:14:54,000
+Anyway, what were
+you planning for the day?
+
+313
+00:14:54,083 --> 00:14:56,125
+Just a bit of light shopping.
+
+314
+00:14:56,208 --> 00:14:57,875
+[YUMINA]
+You would look so cute in this!
+
+315
+00:14:57,958 --> 00:14:59,291
+That's not what I had in mind.
+
+316
+00:14:59,375 --> 00:15:01,666
+[KOHAKU]
+This is so much fun.
+
+317
+00:15:05,708 --> 00:15:07,125
+[LINZE]
+Come forth, Water.
+
+318
+00:15:07,208 --> 00:15:08,833
+Blade both Cold and Clear.
+
+319
+00:15:08,916 --> 00:15:10,583
+Aqua Cutter!
+
+320
+00:15:11,875 --> 00:15:13,583
+Will those pieces
+be small enough?
+
+321
+00:15:13,666 --> 00:15:16,291
+Yeah. Thanks a bunch, Linze.
+
+322
+00:15:16,375 --> 00:15:18,083
+What are you planning
+to make with them?
+
+323
+00:15:18,166 --> 00:15:21,041
+Something way better than
+a sword, if all goes well.
+
+324
+00:15:21,125 --> 00:15:23,458
+Does that mean
+you're inventing it?
+
+325
+00:15:24,916 --> 00:15:26,208
+[TOUYA]
+Modeling.
+
+326
+00:15:32,875 --> 00:15:34,875
+Well, so far, so good.
+
+327
+00:15:34,958 --> 00:15:37,083
+Now let's see about bullets.
+
+328
+00:15:37,166 --> 00:15:38,666
+Modeling.
+
+329
+00:15:43,375 --> 00:15:44,708
+[TOUYA]
+Enchant:
+
+330
+00:15:44,791 --> 00:15:47,583
+Aports.
+
+331
+00:15:47,666 --> 00:15:49,708
+Begin Programming.
+
+332
+00:15:49,791 --> 00:15:51,083
+Three step sequence.
+
+333
+00:15:51,166 --> 00:15:53,833
+Begin whenever
+user says "Reload."
+
+334
+00:15:53,916 --> 00:15:55,208
+On this condition
+
+335
+00:15:55,291 --> 00:15:57,708
+expel empty cartridges
+at high speed.
+
+336
+00:15:57,791 --> 00:15:59,375
+Then use Aports to take bullets
+
+337
+00:15:59,458 --> 00:16:01,625
+of the same type from
+the user's person.
+
+338
+00:16:01,708 --> 00:16:03,916
+Then, place them
+into the cylinder.
+
+339
+00:16:04,000 --> 00:16:05,958
+End Programming.
+
+340
+00:16:10,791 --> 00:16:11,791
+[LINZE, YUMINA groaning]
+
+341
+00:16:11,875 --> 00:16:13,375
+How'd I miss?
+
+342
+00:16:15,166 --> 00:16:17,791
+Oh. I bet it needs rifling.
+
+343
+00:16:17,875 --> 00:16:19,250
+Modeling.
+
+344
+00:16:25,583 --> 00:16:27,291
+[sighs]
+
+345
+00:16:32,083 --> 00:16:33,666
+Reload.
+
+346
+00:16:37,125 --> 00:16:38,541
+So, is it finished now?
+
+347
+00:16:38,625 --> 00:16:40,541
+Yeah. Think so.
+
+348
+00:16:40,625 --> 00:16:42,500
+This type of weapon's
+called a gun.
+
+349
+00:16:42,583 --> 00:16:45,541
+It's like a better, smaller bow.
+
+350
+00:16:45,625 --> 00:16:46,791
+That sounds great!
+
+351
+00:16:46,875 --> 00:16:48,333
+Do you think you might
+have time to make one
+
+352
+00:16:48,416 --> 00:16:49,750
+for me as well, Touya?
+
+353
+00:16:49,833 --> 00:16:51,916
+Yeah, I'd like one, too! Please.
+
+354
+00:16:52,000 --> 00:16:53,041
+[TOUYA]
+Huh?
+
+355
+00:16:53,125 --> 00:16:54,916
+Okay. Uh.
+
+356
+00:16:55,000 --> 00:16:56,666
+I'll do an image search.
+
+357
+00:16:56,750 --> 00:16:59,833
+Take a look at these, and
+pick out your favorite ones.
+
+358
+00:17:04,041 --> 00:17:05,375
+[YUMINA laughs]
+
+359
+00:17:05,458 --> 00:17:07,166
+[BOTH laughing]
+
+360
+00:17:08,833 --> 00:17:10,833
+Begin Programming.
+
+361
+00:17:10,916 --> 00:17:15,125
+Activate when user says
+"Gun Mode" or "Blade Mode."
+
+362
+00:17:15,208 --> 00:17:18,000
+On the former condition,
+use Modeling to transform
+
+363
+00:17:18,083 --> 00:17:20,500
+the blade from a dagger
+to a longsword.
+
+364
+00:17:20,583 --> 00:17:23,916
+On the latter condition,
+transform it back into a dagger.
+
+365
+00:17:24,000 --> 00:17:25,666
+End Programming.
+
+366
+00:17:27,708 --> 00:17:29,875
+Blade Mode, go!
+
+367
+00:17:32,750 --> 00:17:34,708
+Now, Gun Mode!
+
+368
+00:17:36,041 --> 00:17:37,416
+That's brilliant, Touya.
+
+369
+00:17:37,500 --> 00:17:40,500
+You can use that up
+close or at range.
+
+370
+00:17:40,583 --> 00:17:42,541
+Well, after that fight
+with King Jamukha,
+
+371
+00:17:42,625 --> 00:17:44,375
+I thought I should
+prepare for situations
+
+372
+00:17:44,458 --> 00:17:47,250
+where I can't use all my spells.
+
+373
+00:17:47,333 --> 00:17:48,291
+You know what?
+
+374
+00:17:48,375 --> 00:17:50,666
+A weapon like that needs a name.
+
+375
+00:17:50,750 --> 00:17:53,083
+Yeah, I agree.
+
+376
+00:17:53,166 --> 00:17:54,500
+What about "Brunhild"?
+
+377
+00:17:54,583 --> 00:17:57,208
+The show ends when she sings.
+
+378
+00:18:00,666 --> 00:18:03,166
+That took a little longer
+than I thought it would.
+
+379
+00:18:03,250 --> 00:18:05,583
+Please tell me that you're
+as hungry as I am.
+
+380
+00:18:05,666 --> 00:18:07,750
+Wanna find somewhere
+to grab a quick bite?
+
+381
+00:18:07,833 --> 00:18:09,333
+If you think there's time.
+
+382
+00:18:09,416 --> 00:18:12,000
+I've heard great things about
+Mismede's traditional cuisine.
+
+383
+00:18:12,083 --> 00:18:13,458
+I have, too.
+
+384
+00:18:13,541 --> 00:18:16,541
+Apparently they're famous
+for a dish called "currae."
+
+385
+00:18:16,625 --> 00:18:19,208
+I think it's served
+at that restaurant.
+
+386
+00:18:19,291 --> 00:18:20,625
+Well, let's go.
+
+387
+00:18:20,708 --> 00:18:21,916
+[KOHAKU]
+Master!
+
+388
+00:18:22,000 --> 00:18:23,250
+Someone's watching us.
+
+389
+00:18:23,333 --> 00:18:26,041
+I can sense them.
+
+390
+00:18:26,125 --> 00:18:28,625
+[TOUYA]
+Okay. Think I'll say hello.
+
+391
+00:18:28,708 --> 00:18:30,250
+Do you know where they are?
+
+392
+00:18:30,333 --> 00:18:31,583
+[KOHAKU]
+Look to the right.
+
+393
+00:18:31,666 --> 00:18:36,000
+They're up towards the top
+of the highest building.
+
+394
+00:18:36,083 --> 00:18:37,333
+[TOUYA]
+You two go on ahead.
+
+395
+00:18:37,416 --> 00:18:39,375
+I'll join you in a sec.
+
+396
+00:18:39,458 --> 00:18:40,083
+What?
+
+397
+00:18:40,166 --> 00:18:41,208
+You'll meet us there?
+
+398
+00:18:41,291 --> 00:18:43,958
+Yup. You can order for me, 'kay?
+
+399
+00:18:44,041 --> 00:18:45,625
+[TOUYA]
+You protect them, Kohaku.
+
+400
+00:18:45,708 --> 00:18:47,250
+[KOHAKU]
+Good hunting.
+
+401
+00:18:47,333 --> 00:18:49,125
+Accel!
+
+402
+00:18:50,500 --> 00:18:52,250
+Hi.
+
+403
+00:18:53,333 --> 00:18:54,208
+So, uh.
+
+404
+00:18:54,291 --> 00:18:56,375
+You can understand me, right?
+
+405
+00:18:56,458 --> 00:18:59,083
+Mind telling me who you are?
+
+406
+00:18:59,166 --> 00:19:01,000
+[TOUYA grunting]
+
+407
+00:19:07,875 --> 00:19:10,000
+Accel and Boost!
+
+408
+00:19:10,083 --> 00:19:13,333
+[footsteps]
+
+409
+00:19:16,875 --> 00:19:20,750
+[STRANGERS gasp]
+
+410
+00:19:21,583 --> 00:19:24,166
+Sorry about that, but they're
+just rubber bullets.
+
+411
+00:19:24,250 --> 00:19:25,958
+You should be fine.
+
+412
+00:19:28,500 --> 00:19:29,541
+So...
+
+413
+00:19:29,625 --> 00:19:31,166
+...we ready to talk yet?
+
+414
+00:19:31,250 --> 00:19:34,750
+I'd like to know why
+you're watching us.
+
+415
+00:19:34,833 --> 00:19:40,166
+[sighs] Well, lemme make sure
+you're unarmed, at least.
+
+416
+00:19:40,250 --> 00:19:40,875
+[STRANGER A gasps]
+
+417
+00:19:40,958 --> 00:19:41,750
+Uh!
+
+418
+00:19:41,833 --> 00:19:44,083
+That was unexpected.
+
+419
+00:19:44,166 --> 00:19:47,041
+Uh. Wait, Lapis?
+
+420
+00:19:49,083 --> 00:19:50,750
+[LAPIS]
+We're with Espion.
+
+421
+00:19:50,833 --> 00:19:52,666
+A spy network that
+answers directly
+
+422
+00:19:52,750 --> 00:19:54,958
+to his majesty, King Tristwyn.
+
+423
+00:19:55,041 --> 00:19:56,666
+You're working for the king?
+
+424
+00:19:56,750 --> 00:19:58,291
+Yes.
+
+425
+00:19:58,375 --> 00:20:01,541
+Our current mission is to ensure
+the safety of Princess Yumina.
+
+426
+00:20:01,625 --> 00:20:03,041
+So you've been protecting Yumina
+
+427
+00:20:03,125 --> 00:20:05,083
+from the shadows
+all this time, then.
+
+428
+00:20:05,166 --> 00:20:06,750
+[LAPIS]
+Exactly.
+
+429
+00:20:06,833 --> 00:20:09,083
+Oh, that might explain it.
+
+430
+00:20:09,166 --> 00:20:10,500
+Is this your knife?
+
+431
+00:20:10,583 --> 00:20:12,416
+[LAPIS]
+Yeah, that was Cecile.
+
+432
+00:20:12,500 --> 00:20:15,666
+As I guess you saw, she's
+a master knife thrower.
+
+433
+00:20:15,750 --> 00:20:16,833
+That's nice of you,
+
+434
+00:20:16,916 --> 00:20:19,041
+but I wouldn't call
+myself a master.
+
+435
+00:20:19,125 --> 00:20:22,583
+[TOUYA] So you've been tailing
+us since we first left Belfast?
+
+436
+00:20:22,666 --> 00:20:24,416
+That's when our mission began.
+
+437
+00:20:24,500 --> 00:20:27,958
+[TOUYA] Wait, then was my
+butler in on this as well?
+
+438
+00:20:28,041 --> 00:20:29,666
+Oh, definitely.
+
+439
+00:20:29,750 --> 00:20:30,708
+Fair enough.
+
+440
+00:20:30,791 --> 00:20:32,583
+So, where do we go from here?
+
+441
+00:20:32,666 --> 00:20:34,166
+[LAPIS]
+Our mission's the same.
+
+442
+00:20:34,250 --> 00:20:37,041
+We'd like to continue guarding
+the princess surreptitiously.
+
+443
+00:20:37,125 --> 00:20:38,416
+But, that can only happen
+
+444
+00:20:38,500 --> 00:20:40,708
+if you're willing to keep
+this secret from her.
+
+445
+00:20:40,791 --> 00:20:43,166
+Would it be all that
+bad if she found out?
+
+446
+00:20:43,250 --> 00:20:44,083
+It would.
+
+447
+00:20:44,166 --> 00:20:45,750
+It can't happen.
+
+448
+00:20:45,833 --> 00:20:48,083
+If she finds out that he sent
+her secret bodyguards,
+
+449
+00:20:48,166 --> 00:20:49,833
+she'll be furious.
+
+450
+00:20:49,916 --> 00:20:52,083
+[LAPIS]
+The truth can never get out.
+
+451
+00:20:52,166 --> 00:20:54,333
+[TOUYA]
+Guess not.
+
+452
+00:20:57,333 --> 00:20:58,666
+What did I miss?
+
+453
+00:20:58,750 --> 00:21:00,416
+[YUMINA] Not much. You got
+here right after the food.
+
+454
+00:21:00,500 --> 00:21:02,375
+We ordered you a
+pork cutlet currae.
+
+455
+00:21:02,458 --> 00:21:03,666
+It looks good.
+
+456
+00:21:03,750 --> 00:21:05,166
+[LINZE] Apparently "currae"
+is what they call
+
+457
+00:21:05,250 --> 00:21:08,208
+the sauce that's poured
+over the food.
+
+458
+00:21:08,291 --> 00:21:11,166
+[TOUYA] So, this is
+literally just curry.
+
+459
+00:21:15,333 --> 00:21:16,708
+[gasps]
+
+460
+00:21:20,083 --> 00:21:22,166
+Well, it certainly is flavorful.
+
+461
+00:21:22,250 --> 00:21:25,583
+I feel like I just
+swallowed a flaming coal.
+
+462
+00:21:28,708 --> 00:21:30,333
+[LINZE whines]
+
+463
+00:21:30,416 --> 00:21:32,000
+Is something the matter, Touya?
+
+464
+00:21:32,083 --> 00:21:34,833
+I'm good. Just hungry.
+
+465
+00:21:38,166 --> 00:21:41,125
+[TOUYA]
+Spicy!
+
+466
+00:21:46,541 --> 00:21:47,875
+[TOUYA]
+Gate.
+
+467
+00:21:51,833 --> 00:21:53,375
+Welcome, King Belfast.
+
+468
+00:21:53,458 --> 00:21:55,041
+I'm glad you came.
+
+469
+00:21:55,125 --> 00:21:57,541
+It's an honor, King Mismede.
+
+470
+00:21:57,625 --> 00:22:00,208
+Thank you so much
+for hosting me.
+
+471
+00:22:05,416 --> 00:22:07,833
+That boy you brought
+to see me...
+
+472
+00:22:07,916 --> 00:22:10,166
+...Mochizuki Touya, was it?
+
+473
+00:22:10,250 --> 00:22:11,375
+[squeaks]
+
+474
+00:22:11,458 --> 00:22:12,958
+Charlotte's in Belfast.
+
+475
+00:22:13,041 --> 00:22:15,291
+Perhaps she knows
+something about him.
+
+476
+00:22:15,375 --> 00:22:18,916
+As my apprentice,
+she'll be obliged to help.
+

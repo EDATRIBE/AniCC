@@ -1,0 +1,1718 @@
+﻿1
+00:00:01,784 --> 00:00:05,018
+[Ichika] But even after six
+years, I recognized you right
+away, Houki!
+
+2
+00:00:07,154 --> 00:00:08,490
+[Houki] Don't look!
+
+3
+00:00:09,291 --> 00:00:11,327
+[Cecilia] This calls for a duel!
+
+4
+00:01:50,047 --> 00:01:54,454
+[school bell]
+
+5
+00:01:59,695 --> 00:02:03,934
+Orimura, I'm afraid that it
+will be a while befor your
+IS is ready for you.
+
+6
+00:02:04,034 --> 00:02:05,170
+What?
+
+7
+00:02:05,270 --> 00:02:07,239
+On the plus side,
+due to certain issues,
+
+8
+00:02:07,339 --> 00:02:09,477
+the school will provide you with
+a personal IS.
+
+9
+00:02:09,577 --> 00:02:12,848
+[Girl 1] What? A personal IS
+when he's only a freshman?
+
+10
+00:02:12,948 --> 00:02:16,187
+[Girl 2] In other words,
+that means the government
+is supporting this?
+
+11
+00:02:16,287 --> 00:02:19,558
+[Girl 3] That's so awesome!
+I want my own too!
+
+12
+00:02:20,694 --> 00:02:25,501
+Is having your own IS really
+that major of a deal?
+
+13
+00:02:25,602 --> 00:02:27,905
+I'm actually rather relieved
+to hear that!
+
+14
+00:02:28,005 --> 00:02:31,611
+[Cecilia] After all, in a class
+representative selection match
+between you and I,
+
+15
+00:02:31,711 --> 00:02:33,947
+the outcome is already obvious.
+
+16
+00:02:34,048 --> 00:02:39,689
+But it's simply not fair for you
+to use a training model whilst
+I pilot my own personal unit.
+
+17
+00:02:39,790 --> 00:02:40,525
+Hold on,
+
+18
+00:02:40,625 --> 00:02:42,661
+you have your own IS as well?
+
+19
+00:02:42,761 --> 00:02:44,096
+Oh, don't you know?
+
+20
+00:02:44,196 --> 00:02:48,270
+Very well then. As you are
+a commoner, I shall have
+to explain.
+
+21
+00:02:48,370 --> 00:02:52,877
+I, Cecilia Alcott, am the
+glorious representative
+contender for Great Britain.
+
+22
+00:02:52,977 --> 00:02:57,216
+In other words, I currently own
+my own, personal IS.
+
+23
+00:02:57,317 --> 00:03:00,455
+There are only 467
+IS units worldwide.
+
+24
+00:03:00,556 --> 00:03:04,862
+So, obviously those who have
+their own personal units are
+the elites of the elite...
+
+25
+00:03:04,962 --> 00:03:07,833
+amongst the planet's population
+of seven billion!
+
+26
+00:03:07,933 --> 00:03:10,504
+Only 467? That's all?
+
+27
+00:03:10,604 --> 00:03:15,679
+That's because the
+central component of
+all IS technology, the core,
+has never been released.
+
+28
+00:03:15,779 --> 00:03:19,785
+As a result, there are only 467
+machines in the entire world.
+
+29
+00:03:19,885 --> 00:03:24,158
+And Dr. Tabane Shinonono has
+personally produced every one
+of those cores.
+
+30
+00:03:24,258 --> 00:03:27,062
+[Ichika] <i>Wait, isn't that</i>
+<i>Houki's sister?</i>
+
+31
+00:03:27,163 --> 00:03:31,503
+[Girl 1] Supposedly, the IS core
+is like a self contained
+black box.
+
+32
+00:03:31,603 --> 00:03:36,477
+This is because no one other
+than Dr. Shinonono can
+create one.
+
+33
+00:03:36,577 --> 00:03:41,652
+[Girl 2] But the thing is,
+so far she's refused to
+manufacture more than a
+certain number of cores.
+
+34
+00:03:41,752 --> 00:03:44,223
+Therefore, countries,
+corporations and
+organizations...
+
+35
+00:03:44,323 --> 00:03:51,467
+are forced to conduct their
+research, development and
+training using the limited
+number of IS units.
+
+36
+00:03:51,567 --> 00:03:53,237
+[Chifuyu] To complete our little
+history lesson,
+
+37
+00:03:53,337 --> 00:03:56,542
+personal IS units were
+originally only intended
+for those...
+
+38
+00:03:56,642 --> 00:03:59,146
+sponsored by governments
+or corporations.
+
+39
+00:03:59,246 --> 00:04:01,182
+However, your case
+is exceptional.
+
+40
+00:04:01,282 --> 00:04:05,689
+Therefore, they will provide
+you with a personal IS for data
+collection purposes.
+
+41
+00:04:05,789 --> 00:04:06,858
+[Chifuyu] Is that all clear?
+
+42
+00:04:06,958 --> 00:04:09,027
+Uh, I guess so...
+
+43
+00:04:09,127 --> 00:04:10,564
+Um, excuse me, ma'am...
+
+44
+00:04:10,664 --> 00:04:12,900
+Do you know if the Miss
+Shinonono in our class...
+
+45
+00:04:13,000 --> 00:04:15,604
+is related to Dr. Shinonono
+by any chance?
+
+46
+00:04:15,704 --> 00:04:18,909
+Actually, your classmate
+is her younger sister.
+
+47
+00:04:19,010 --> 00:04:20,379
+[class] Huh?!
+
+48
+00:04:20,479 --> 00:04:22,682
+[Aikawa] Seriously?
+She's her sister?!
+
+49
+00:04:22,782 --> 00:04:24,651
+[Girl 2] I heard that Dr.
+Shinonono has gone missing,
+
+50
+00:04:24,751 --> 00:04:28,557
+and every country and
+all corporations has been
+desperately trying to find her.
+
+51
+00:04:28,657 --> 00:04:30,761
+[Tanimoto] Yeah, don't you know
+where she is?
+
+52
+00:04:30,861 --> 00:04:33,532
+She has nothing to do with me!
+
+53
+00:04:36,470 --> 00:04:38,139
+I'm not my sister.
+
+54
+00:04:39,174 --> 00:04:42,145
+And there's nothing I can
+tell you about her.
+
+55
+00:04:43,514 --> 00:04:46,752
+[bummed class]
+
+56
+00:04:49,323 --> 00:04:51,259
+Alright Miss Yamada,
+shall we start?
+
+57
+00:04:51,359 --> 00:04:53,563
+Guh! Oh, right!
+
+58
+00:04:53,663 --> 00:04:56,400
+[Maya] Now then...
+[Ichika] <i>I don't remember there</i>
+<i>being any bad blood...</i>
+
+59
+00:04:56,500 --> 00:04:58,237
+[Ichika] between Houki and
+Tabane.
+[Maya] Everyone open your
+textbooks.
+
+60
+00:04:58,337 --> 00:05:01,608
+[Maya] We'll continue from where
+we left off yesterday.
+
+61
+00:05:04,212 --> 00:05:06,249
+The IS, or Infinite Stratos,
+
+62
+00:05:06,350 --> 00:05:10,656
+displays a special energy
+barrier that operates as
+protection for its pilot.
+
+63
+00:05:10,756 --> 00:05:13,527
+The unit's system has something
+similar to a consciousness.
+
+64
+00:05:13,627 --> 00:05:18,802
+So, through shared dialog and
+time spent together, the two of
+you will actually get to know
+each other.
+
+65
+00:05:18,902 --> 00:05:21,874
+Depending on how much time a
+pilot spends controling an IS,
+
+66
+00:05:21,974 --> 00:05:25,078
+it begins to understand the
+user's characteristics.
+
+67
+00:05:25,179 --> 00:05:27,482
+I just don't understand this.
+
+68
+00:05:30,287 --> 00:05:32,155
+So, your IS isn't just a tool,
+
+69
+00:05:32,256 --> 00:05:35,294
+instead, think of it as your
+big, mechanical partner.
+
+70
+00:05:35,394 --> 00:05:37,197
+Are there any questions so far?
+
+71
+00:05:37,297 --> 00:05:38,700
+Yes, ma'am!
+
+72
+00:05:38,800 --> 00:05:41,337
+So, did you mean "partner" as in
+boyfriend or girlfriend?
+
+73
+00:05:41,437 --> 00:05:44,441
+D'oh! I'm not sure! That is...
+
+74
+00:05:44,542 --> 00:05:46,945
+I'm not experienced that way
+so I don't know.
+
+75
+00:05:47,045 --> 00:05:48,147
+[giggling]
+
+76
+00:05:48,247 --> 00:05:49,783
+But I wonder... oh...
+
+77
+00:05:49,883 --> 00:05:51,319
+[student] You're so cute!
+
+78
+00:05:51,419 --> 00:05:55,692
+<i>Is this really a typical all</i>
+<i>girls' school atmosphere?</i>
+
+79
+00:06:07,710 --> 00:06:09,046
+[Ichika] Hey, Houki...
+
+80
+00:06:10,014 --> 00:06:12,351
+Miss Shinonono!
+
+81
+00:06:12,452 --> 00:06:13,987
+Let's go eat lunch!
+
+82
+00:06:14,087 --> 00:06:15,589
+[Ichika] Would anyone like
+to join us?
+
+83
+00:06:15,690 --> 00:06:17,192
+Yes, me, me!
+
+84
+00:06:17,292 --> 00:06:19,028
+Oh! Me too!
+
+85
+00:06:19,128 --> 00:06:21,365
+I made my lunch,
+but I'm coming too!
+
+86
+00:06:21,465 --> 00:06:25,605
+[Ichika] Sure, we should all try
+to get along with our fellow
+classmates, okay?
+
+87
+00:06:25,705 --> 00:06:27,641
+You agree with me, right?
+
+88
+00:06:27,741 --> 00:06:28,910
+I think I'll pass.
+
+89
+00:06:29,010 --> 00:06:31,747
+Daw, don't be such
+a grumpy‐face. Come on!
+
+90
+00:06:31,848 --> 00:06:33,384
+I already said I'm not going!
+
+91
+00:06:33,484 --> 00:06:35,353
+Oh, you don't feel like
+walking, eh?
+
+92
+00:06:35,453 --> 00:06:36,889
+I'll carry you piggyback!
+
+93
+00:06:36,989 --> 00:06:39,093
+[Houki] Let go!
+[Ichika] Hey!
+
+94
+00:06:42,130 --> 00:06:44,567
+[Ichika] Ow, ow...
+[class murmuring]
+
+95
+00:06:44,667 --> 00:06:46,237
+You're so strong...
+
+96
+00:06:46,337 --> 00:06:49,709
+Yeah well... maybe you're the
+one who's gotten weak?
+
+97
+00:06:49,809 --> 00:06:52,213
+Hmph. That was a little trick
+from my kendo training.
+
+98
+00:06:52,313 --> 00:06:53,581
+[Nohohon] Um, well...
+
+99
+00:06:53,681 --> 00:06:55,418
+[bold girl] We think that maybe
+we should...
+
+100
+00:06:55,518 --> 00:06:57,154
+[Tanimoto] ...pass this time.
+
+101
+00:06:59,991 --> 00:07:03,230
+Yeah, what? You have something
+else stupid to say to me?
+
+102
+00:07:04,332 --> 00:07:05,299
+Houki!
+
+103
+00:07:05,399 --> 00:07:06,735
+I told you not to call me that!
+
+104
+00:07:06,835 --> 00:07:08,371
+Come on, let's go eat.
+
+105
+00:07:08,471 --> 00:07:10,241
+Hey, give it a rest!
+
+106
+00:07:10,341 --> 00:07:12,244
+Shut up and let's go.
+
+107
+00:07:20,590 --> 00:07:22,660
+You didn't have to get so upset
+like that.
+
+108
+00:07:22,760 --> 00:07:24,729
+I was just trying to
+look after you, you know.
+
+109
+00:07:24,829 --> 00:07:26,899
+Yeah? Who asked you to do
+that anyway?
+
+110
+00:07:27,000 --> 00:07:29,737
+Even if someone asked me,
+I wouldn't normally do that.
+
+111
+00:07:29,837 --> 00:07:31,740
+I did it because
+it's you, Houki.
+
+112
+00:07:31,840 --> 00:07:34,111
+What? What's that mean?
+
+113
+00:07:34,211 --> 00:07:36,347
+[Ichika] Look, I owe a lot to
+your aunt too.
+
+114
+00:07:36,447 --> 00:07:38,718
+Besides, we're childhood
+friends and roommates.
+
+115
+00:07:38,818 --> 00:07:41,822
+So, at least let me meddle
+in your life a little.
+
+116
+00:07:41,923 --> 00:07:44,694
+Well I guess...
+Thank you...
+
+117
+00:07:44,794 --> 00:07:47,464
+[cook] Here you go,
+two daily specials.
+
+118
+00:07:47,564 --> 00:07:48,966
+Thank you.
+
+119
+00:07:49,067 --> 00:07:52,038
+Hey, Houki, did you see any
+empty tables on the way in?
+
+120
+00:07:53,173 --> 00:07:55,043
+There's one right over there!
+
+121
+00:07:56,445 --> 00:07:58,849
+Great, what'd I do now?
+
+122
+00:08:01,853 --> 00:08:04,357
+[Ichika] Hey, Houki.
+[Houki] Yeah? What now?
+
+123
+00:08:04,457 --> 00:08:07,429
+Would you be willing to teach
+me more about the IS?
+
+124
+00:08:07,529 --> 00:08:11,068
+'Cause I think I'm going to
+lose to Cecilia the way
+things are going.
+
+125
+00:08:11,168 --> 00:08:13,905
+Yeah, because you let
+her provoke you!
+
+126
+00:08:14,005 --> 00:08:18,246
+I know that, but please help me!
+
+127
+00:08:18,346 --> 00:08:22,452
+[senior] Hey, aren't you the one
+that everyone's talking about?
+
+128
+00:08:22,552 --> 00:08:25,923
+You're going to be competing
+against a representative
+contender,
+
+129
+00:08:26,024 --> 00:08:28,327
+but you've never flown for
+real, have you?
+
+130
+00:08:28,427 --> 00:08:31,466
+If you want, I could teach you
+lots of things about the IS.
+
+131
+00:08:31,566 --> 00:08:32,934
+[Houki] No, thanks.
+
+132
+00:08:33,034 --> 00:08:35,238
+Actually, I'm the one who's
+going to be teaching him.
+
+133
+00:08:36,073 --> 00:08:37,976
+But you're a freshman
+too, right?
+
+134
+00:08:38,076 --> 00:08:39,579
+I'm a senior, after all.
+
+135
+00:08:39,679 --> 00:08:43,618
+I think I'd do a much better
+job teaching him the ropes.
+
+136
+00:08:43,718 --> 00:08:47,190
+But I am Tabane
+Shinonono's sister.
+
+137
+00:08:48,058 --> 00:08:50,028
+[Houki] But thanks for
+the offer.
+
+138
+00:08:50,128 --> 00:08:53,333
+Fine! I guess some things
+can't be helped.
+
+139
+00:08:54,868 --> 00:08:57,973
+So then, you will teach me?
+
+140
+00:09:00,711 --> 00:09:03,882
+[smack, smack, crack]
+
+141
+00:09:03,982 --> 00:09:05,952
+[Ichika] Ah! Ow!
+[thud]
+
+142
+00:09:10,059 --> 00:09:12,930
+[Houki] Okay, what in the
+hell is going on here?
+
+143
+00:09:13,030 --> 00:09:15,935
+I‐I don't know what you mean.
+
+144
+00:09:16,035 --> 00:09:18,639
+How did you allow yourself to
+become so weak?!
+
+145
+00:09:18,739 --> 00:09:20,775
+What clubs were you in in
+middle school?
+
+146
+00:09:20,875 --> 00:09:22,110
+[Ichika] The "go home" club!
+
+147
+00:09:22,210 --> 00:09:23,847
+Three years of
+perfect attendance!
+
+148
+00:09:23,947 --> 00:09:25,082
+Then you'll retrain!
+
+149
+00:09:25,182 --> 00:09:27,152
+This problem comes
+before the IS!
+
+150
+00:09:27,252 --> 00:09:29,656
+Effective immediately, you will
+be in training with me...
+
+151
+00:09:29,756 --> 00:09:31,324
+for three hours everyday
+after school!
+
+152
+00:09:31,425 --> 00:09:33,828
+[Ichika] Hang on, I wanted you
+to teach me about the IS!
+
+153
+00:09:33,928 --> 00:09:36,900
+And I said, this problem
+comes before the IS!
+
+154
+00:09:37,000 --> 00:09:38,536
+Man, Orimura is...
+
+155
+00:09:38,636 --> 00:09:39,804
+...kinda weak.
+
+156
+00:09:39,905 --> 00:09:42,408
+Do you think he can really
+control an IS?
+
+157
+00:09:55,295 --> 00:09:58,266
+I wonder if I came down just a
+little too hard on him?
+
+158
+00:10:02,206 --> 00:10:04,309
+No way, he had it coming!
+
+159
+00:10:04,409 --> 00:10:07,347
+It was obvious he hadn't
+wielded a sword for at
+least a year!
+
+160
+00:10:07,447 --> 00:10:11,987
+Otherwise, there's no way he
+would've ever lost to me
+so easily!
+
+161
+00:10:12,087 --> 00:10:13,289
+He's changed...
+
+162
+00:10:13,389 --> 00:10:15,693
+in the past six years when
+I didn't see him.
+
+163
+00:10:15,793 --> 00:10:18,597
+Ichika's really changed so much.
+
+164
+00:10:29,548 --> 00:10:33,254
+So, this means his intensive
+training will begin tomorrow!
+
+165
+00:10:33,354 --> 00:10:37,260
+That means I'll get to
+be alone with Ichika
+after school‐
+
+166
+00:10:39,664 --> 00:10:42,568
+No, I'm not thinking about
+things like that at all!
+
+167
+00:10:42,668 --> 00:10:46,975
+It's just that I'm genuinely
+upset over my childhood
+friend's weakness, right!
+
+168
+00:10:47,075 --> 00:10:48,978
+That's why it's okay!
+
+169
+00:10:59,661 --> 00:11:01,731
+[Ichika] Uh, Houki...
+[Houki] What now?
+
+170
+00:11:01,831 --> 00:11:06,371
+Well, the thing is, you promised
+me that you were going to teach
+me about the IS.
+
+171
+00:11:06,471 --> 00:11:09,042
+Hey, don't turn away from me!
+
+172
+00:11:09,142 --> 00:11:12,881
+Thanks to you, the only thing
+I've done in this week is
+practice kendo techniques!
+
+173
+00:11:12,981 --> 00:11:15,084
+Well, I can't do anything
+about that!
+
+174
+00:11:15,185 --> 00:11:17,655
+And your IS hasn't been
+delivered yet anyway.
+
+175
+00:11:17,756 --> 00:11:22,330
+Even without one, you could
+still at least teach me stuff
+about the basics!
+
+176
+00:11:22,430 --> 00:11:25,400
+And I said, don't turn away
+from me!
+
+177
+00:11:27,538 --> 00:11:31,344
+[Ichika] So, that's her personal
+IS? Woah...
+
+178
+00:11:32,611 --> 00:11:34,882
+Orimura! Orimura!
+
+179
+00:11:34,982 --> 00:11:36,217
+[Maya] Orimura!
+
+180
+00:11:36,317 --> 00:11:39,356
+It's here! Your personal IS has
+just arrived!
+
+181
+00:11:39,456 --> 00:11:41,760
+Orimura, you need to get
+ready at once.
+
+182
+00:11:41,860 --> 00:11:44,063
+[Chifuyu] The amount of time
+we can use the arena is limited.
+
+183
+00:11:44,163 --> 00:11:47,635
+You'll have to learn how to
+make it yours during the
+match itself.
+
+184
+00:11:57,350 --> 00:12:00,589
+[Maya] This is Orimura's
+personal IS,
+
+185
+00:12:00,689 --> 00:12:02,692
+the Byakushiki!
+
+186
+00:12:12,640 --> 00:12:14,443
+[Chifuyu] Hurry up and
+get suited.
+
+187
+00:12:14,543 --> 00:12:17,014
+Since time's limited,
+we'll do the formatting
+and fitting...
+
+188
+00:12:17,114 --> 00:12:18,850
+while the match is in progress.
+
+189
+00:12:19,384 --> 00:12:20,552
+Huh?
+
+190
+00:12:20,653 --> 00:12:22,388
+What's wrong?
+
+191
+00:12:33,005 --> 00:12:37,311
+It's not like the first time I
+touched an IS. There's
+something different.
+
+192
+00:12:37,411 --> 00:12:39,849
+[Maya] Orimura,
+are you all right?
+
+193
+00:12:39,949 --> 00:12:41,317
+Uh huh...
+
+194
+00:12:42,053 --> 00:12:43,355
+[Ichika] I'm just fine.
+
+195
+00:12:43,455 --> 00:12:45,624
+There's something familiar
+about it.
+
+196
+00:12:45,724 --> 00:12:51,233
+I understand it. I can
+understand what it is
+and its purpose.
+
+197
+00:12:51,333 --> 00:12:53,536
+Show you entrust your
+life to it.
+
+198
+00:12:53,636 --> 00:12:55,406
+[Chifuyu] Let it take control.
+
+199
+00:12:55,506 --> 00:12:57,810
+The system will optimize
+the rest.
+
+200
+00:12:59,412 --> 00:13:01,315
+[Byakushiki] <Access.>
+
+201
+00:13:01,949 --> 00:13:03,686
+<System, start.>
+
+202
+00:13:04,788 --> 00:13:06,223
+[Ichika] Byakushiki...
+
+203
+00:13:06,323 --> 00:13:07,959
+This is Byakushiki.
+
+204
+00:13:09,328 --> 00:13:12,232
+[Maya] Cecilia Allcot's machine
+is called Blue Tears.
+
+205
+00:13:12,332 --> 00:13:14,268
+It's a long‐range model IS.
+
+206
+00:13:14,368 --> 00:13:15,838
+Blue Tears, got it.
+
+207
+00:13:15,938 --> 00:13:17,273
+[Maya] In every IS unit,
+
+208
+00:13:17,373 --> 00:13:19,844
+there's a feature refered to as
+"absolute defense".
+
+209
+00:13:19,944 --> 00:13:24,184
+It's primary function is always
+to protect the pilot's life
+during any attack.
+
+210
+00:13:24,284 --> 00:13:28,758
+However, that deployment would
+cause your shield energy to be
+badly depleated.
+
+211
+00:13:28,858 --> 00:13:30,460
+Do you understand that?
+
+212
+00:13:30,560 --> 00:13:32,997
+[Chifuyu] So, Orimura,
+are you feeling up to this?
+
+213
+00:13:33,097 --> 00:13:35,768
+Yeah, piece of cake.
+
+214
+00:13:35,869 --> 00:13:37,504
+We'll see.
+
+215
+00:13:37,604 --> 00:13:40,008
+[Ichika] Hey Houki...
+[Houki] Hm? Uh, huh?
+
+216
+00:13:40,108 --> 00:13:41,044
+[Ichika] Here we go.
+
+217
+00:13:41,144 --> 00:13:43,047
+Oh, okay...
+
+218
+00:13:43,147 --> 00:13:44,883
+Win this!
+
+219
+00:13:48,756 --> 00:13:49,890
+I'm off!
+
+220
+00:13:57,068 --> 00:14:00,940
+[Cecilia] Just so you know,
+this is your last chance!
+[Ichika] To do what?
+
+221
+00:14:01,040 --> 00:14:04,279
+It's obvious to everyone
+that I'm going to defeat
+you overwhelmingly.
+
+222
+00:14:04,380 --> 00:14:09,453
+So why not simply apologize to
+me right now and I just might
+be able to forgive you.
+
+223
+00:14:11,957 --> 00:14:14,395
+[Ichika] You can't really call
+that a chance!
+
+224
+00:14:14,495 --> 00:14:17,300
+Oh I can't?
+Well, too bad for you.
+
+225
+00:14:17,400 --> 00:14:19,336
+Now then...
+
+226
+00:14:20,871 --> 00:14:22,440
+[alarm]
+
+227
+00:14:22,541 --> 00:14:24,777
+Time to say goodbye!
+
+228
+00:14:37,964 --> 00:14:42,304
+[Ichika] Damn it! I can't keep
+up with Baykushiki's reactions!
+
+229
+00:14:42,404 --> 00:14:44,207
+Now you will dance for me!
+That's right!
+
+230
+00:14:44,307 --> 00:14:48,180
+Dance to the waltz that
+Cecilia Alcott and Blue
+Tears are playing!
+
+231
+00:14:48,280 --> 00:14:51,418
+Aw crap! The shield is
+getting weak!
+
+232
+00:14:51,518 --> 00:14:53,421
+Where are my weapons?
+
+233
+00:14:54,189 --> 00:14:55,391
+[Ichika] Is that's all?!
+
+234
+00:14:55,491 --> 00:14:57,795
+It's better than bare hands,
+I guess!
+
+235
+00:14:59,798 --> 00:15:02,102
+So this is your brilliant
+plan, is it?
+
+236
+00:15:02,202 --> 00:15:05,574
+Challenging my long‐range IS
+in hand‐to‐hand combat?
+
+237
+00:15:05,674 --> 00:15:07,510
+Don't be ridiculous!
+
+238
+00:15:13,252 --> 00:15:14,888
+[cheering]
+
+239
+00:15:19,395 --> 00:15:21,398
+You're the first opponent to
+last this long.
+
+240
+00:15:21,499 --> 00:15:25,338
+You've fought longer against
+Blue Tears in an initial
+match than anyone!
+
+241
+00:15:25,438 --> 00:15:27,541
+And I must applaud you for that.
+
+242
+00:15:28,309 --> 00:15:29,978
+[Ichika] Thanks a lot.
+
+243
+00:15:30,078 --> 00:15:33,650
+But now the time has come
+for the finale!
+
+244
+00:15:40,628 --> 00:15:43,499
+I'll take your left leg!
+
+245
+00:15:44,801 --> 00:15:46,838
+[Ichika] It's all or nothing!
+
+246
+00:16:01,426 --> 00:16:02,395
+Orimura!
+
+247
+00:16:02,495 --> 00:16:03,930
+Ichika!
+
+248
+00:16:07,369 --> 00:16:08,737
+[Cecilia] You're reckless,
+aren't you?
+
+249
+00:16:08,838 --> 00:16:10,775
+But it's a pointless struggle!
+
+250
+00:16:17,818 --> 00:16:19,521
+Well now I finally get it!
+
+251
+00:16:19,621 --> 00:16:22,744
+[Ichika] Your weapons won't move
+without your commands. That's
+the trick.
+
+252
+00:16:23,129 --> 00:16:24,531
+And there's more than that,
+
+253
+00:16:24,632 --> 00:16:27,269
+you can't make any other
+attacks while you're in motion.
+
+254
+00:16:27,369 --> 00:16:30,040
+[Ichika] That's because you're
+focused solely on defense.
+
+255
+00:16:30,140 --> 00:16:32,243
+Right?
+
+256
+00:16:34,514 --> 00:16:36,617
+That was reallyy impressive.
+
+257
+00:16:36,717 --> 00:16:39,722
+I can't believe this is his
+second time in an IS.
+
+258
+00:16:39,822 --> 00:16:41,024
+Ugh, that idiot...
+
+259
+00:16:41,124 --> 00:16:42,392
+He's too worked up.
+
+260
+00:16:42,492 --> 00:16:44,162
+But why would you say that?
+
+261
+00:16:44,262 --> 00:16:47,634
+Haven't you noticed the way he
+keeps opening and closing
+his left hand?
+
+262
+00:16:47,734 --> 00:16:51,306
+Whenever the kid does that,
+he starts makeing really
+stupid mistakes.
+
+263
+00:16:51,406 --> 00:16:54,578
+[Maya] I get it. I guess it
+helps to be his sister.
+
+264
+00:16:57,983 --> 00:17:01,055
+[Ichika] Two more left!
+
+265
+00:17:01,155 --> 00:17:05,361
+<i>But I know she's going to</i>
+<i>attack where my response</i>
+<i>speed is the slowest.</i>
+
+266
+00:17:09,200 --> 00:17:10,569
+That means...
+
+267
+00:17:10,670 --> 00:17:13,006
+It's to my advantage to
+close the distance!
+
+268
+00:17:13,106 --> 00:17:15,343
+I see, he fell for it.
+
+269
+00:17:15,443 --> 00:17:17,947
+So sorry. There are more
+than four!
+
+270
+00:17:18,047 --> 00:17:20,184
+Aw crap!
+
+271
+00:17:26,895 --> 00:17:28,530
+Ichika!
+
+272
+00:17:29,364 --> 00:17:30,934
+The IS saved him.
+
+273
+00:17:31,034 --> 00:17:32,837
+He's such a little twit...
+
+274
+00:17:47,126 --> 00:17:48,828
+Ichika...
+
+275
+00:17:48,929 --> 00:17:50,164
+What's happening?
+
+276
+00:17:50,264 --> 00:17:53,068
+The shape of Orimura's
+personal IS has changed!
+
+277
+00:17:53,168 --> 00:17:54,137
+<Format setting complete.>
+
+278
+00:17:54,237 --> 00:17:56,606
+Huh? What's this?
+
+279
+00:17:56,707 --> 00:17:59,044
+That can't be!
+That's your first shift?
+
+280
+00:17:59,144 --> 00:18:03,852
+How could anyone have fought
+an entire battle like this with
+their IS in a default setting?
+
+281
+00:18:03,952 --> 00:18:06,288
+[Ichika] I'm not sure what the
+heck I've been doing,
+
+282
+00:18:06,389 --> 00:18:10,662
+but it looks like this IS has
+finally become my own.
+
+283
+00:18:14,100 --> 00:18:15,936
+[Ichika] The Yukihira Nigata?
+
+284
+00:18:16,036 --> 00:18:20,010
+Isn't the Yukihira the same
+weapon Chifuyu used?
+
+285
+00:18:20,110 --> 00:18:24,950
+Man, I really do have the best
+big sister in the entire world!
+
+286
+00:18:26,352 --> 00:18:29,424
+[Ichika] But I think it's
+about time to change the
+relationship...
+
+287
+00:18:29,524 --> 00:18:31,761
+from where I'm the one who
+always has to be protected.
+
+288
+00:18:31,861 --> 00:18:35,266
+From now on, I'm going to be
+protecting as well.
+
+289
+00:18:35,366 --> 00:18:37,504
+Just what are you
+talking about?
+
+290
+00:18:37,604 --> 00:18:40,508
+[Ichika] I'm saying I will
+defend my sister's name.
+
+291
+00:18:40,608 --> 00:18:44,447
+It'll make her look lame if her
+brother's a candy‐ass weakling.
+
+292
+00:18:45,382 --> 00:18:47,853
+Honestly! You're such a pain!
+
+293
+00:18:48,754 --> 00:18:50,824
+Too late! I've seen them now!
+
+294
+00:18:54,997 --> 00:18:57,534
+Yeah, I can do this!
+
+295
+00:19:01,941 --> 00:19:03,343
+[horn]
+
+296
+00:19:03,444 --> 00:19:05,046
+[announcement] The match
+is concluded.
+
+297
+00:19:05,146 --> 00:19:07,450
+Winner, Cecilia Alcott.
+
+298
+00:19:07,550 --> 00:19:09,386
+[Ichika] What?
+[Cecilia] What?
+
+299
+00:19:09,486 --> 00:19:10,655
+[students] What?!
+
+300
+00:19:10,755 --> 00:19:12,057
+Huh?
+
+301
+00:19:12,157 --> 00:19:13,525
+Wha‐?
+
+302
+00:19:22,439 --> 00:19:24,910
+Okay, so why'd I lose again?
+
+303
+00:19:25,010 --> 00:19:28,148
+You lost because you used the
+barrier‐disabling attack.
+
+304
+00:19:28,248 --> 00:19:31,687
+Without taking into account how
+using it would affect
+everything else.
+
+305
+00:19:31,787 --> 00:19:33,656
+The barrier‐disabling attack?
+
+306
+00:19:33,756 --> 00:19:38,498
+Which punctures the opponent's
+barrier and passes the impact
+directly to its body.
+
+307
+00:19:38,598 --> 00:19:40,434
+That's something only
+Yukihira can do.
+
+308
+00:19:40,534 --> 00:19:44,206
+[Chifuyu] However, that ability
+has to cannibalize your own
+shield energy...
+
+309
+00:19:44,307 --> 00:19:45,909
+in order to function.
+
+310
+00:19:46,009 --> 00:19:49,415
+Actually, I have to admit
+that when I won the First
+Mondo Grosso,
+
+311
+00:19:49,515 --> 00:19:51,418
+it was mostly as a result of
+that one ability.
+
+312
+00:19:51,518 --> 00:19:57,527
+I see. So that's why
+Byakushiki's remaining shield
+energy suddenly dropped to zero.
+
+313
+00:19:57,627 --> 00:20:00,197
+[Maya] When a competitor's
+shield energy becomes zero,
+
+314
+00:20:00,297 --> 00:20:02,200
+that player loses the IS battle.
+
+315
+00:20:02,300 --> 00:20:05,305
+The barrier‐disabling attack
+does damage your opponent,
+
+316
+00:20:05,405 --> 00:20:07,909
+but in exchange it will cost you
+your shield.
+
+317
+00:20:08,009 --> 00:20:10,613
+It's really a classic
+double edge sword.
+
+318
+00:20:10,713 --> 00:20:13,918
+Right and it means your
+IS is defective.
+
+319
+00:20:14,018 --> 00:20:15,187
+Defective, how?
+
+320
+00:20:15,287 --> 00:20:17,891
+[Chifuyu] Okay, maybe that
+was a bad way to phrase it.
+
+321
+00:20:17,992 --> 00:20:21,998
+An IS isn't complete to begin
+with, so it can't be defective
+per se.
+
+322
+00:20:22,098 --> 00:20:25,270
+But since yours is so much more
+offense‐oriented than others,
+
+323
+00:20:25,370 --> 00:20:27,506
+it can't be handled
+the same way.
+
+324
+00:20:29,176 --> 00:20:32,046
+[Maya] At the moment, your IS is
+in stand‐by mode,
+
+325
+00:20:32,146 --> 00:20:35,351
+but all you have to do it and
+it'll deploy right away.
+
+326
+00:20:35,452 --> 00:20:39,625
+However, there are a lot of
+regulations, so read this
+thoroughly.
+
+327
+00:20:59,022 --> 00:21:02,293
+And now she'll be the class
+representative, huh?
+
+328
+00:21:03,529 --> 00:21:05,632
+And what does that look mean?
+
+329
+00:21:07,134 --> 00:21:09,338
+Well, are you...
+
+330
+00:21:09,438 --> 00:21:11,207
+upset that you lost?
+
+331
+00:21:11,307 --> 00:21:12,843
+Well, yeah, sure.
+
+332
+00:21:12,943 --> 00:21:15,914
+Uh, so I guess
+starting tomorrow,
+
+333
+00:21:16,014 --> 00:21:19,019
+maybe we ought to start some
+intensive IS training?
+
+334
+00:21:19,119 --> 00:21:20,655
+I guess.
+
+335
+00:21:22,424 --> 00:21:24,862
+Umm... You still...
+
+336
+00:21:24,962 --> 00:21:27,699
+You do want me to continue
+teaching you, right?
+
+337
+00:21:27,799 --> 00:21:28,968
+Of course I do.
+
+338
+00:21:29,068 --> 00:21:31,405
+I'd rather ask you than any
+other girl.
+
+339
+00:21:31,505 --> 00:21:35,043
+I mean, you're Tabane's sister,
+so who else would know as much?
+
+340
+00:21:35,144 --> 00:21:36,846
+O‐Okay...
+
+341
+00:21:36,946 --> 00:21:39,350
+All right, I understand.
+
+342
+00:21:40,319 --> 00:21:41,988
+I have to then.
+
+343
+00:21:42,088 --> 00:21:45,727
+Right, I here by agree to teach
+you about the IS!
+
+344
+00:21:45,827 --> 00:21:49,433
+Starting tomorrow, I want you
+to be waiting for me everday
+after school!
+
+345
+00:21:49,533 --> 00:21:51,836
+[Houki] Okay?
+[Ichika] Yes ma'am!
+
+346
+00:21:53,306 --> 00:21:54,407
+Hey, wait!
+
+347
+00:21:54,507 --> 00:21:59,782
+[water running]
+
+348
+00:22:05,925 --> 00:22:07,944
+[Cecilia] <i>Why am I feeling</i>
+<i>this way?</i>
+
+349
+00:22:08,871 --> 00:22:10,726
+<i>Even though I was the winner?</i>
+
+350
+00:22:15,349 --> 00:22:17,949
+Ichika Orimura...
+
+351
+00:23:50,883 --> 00:23:52,316
+[Girl 1] Hey, who's that girl?
+
+352
+00:23:52,416 --> 00:23:54,649
+[Girl 2] And how come she seems
+to be so close to Orimura?
+
+353
+00:23:54,749 --> 00:23:57,716
+[Girl 3] She's the one from
+China, who has her own
+personal IS!
+
+354
+00:23:57,816 --> 00:24:00,049
+Supposedly, she's Orimura's
+friend from middle school.
+
+355
+00:24:00,149 --> 00:24:04,416
+[Girl 1] Not only that, she's
+the class representative of
+Class 1‐2! So, that means...
+
+356
+00:24:04,516 --> 00:24:07,116
+[Girl 2] She's going to fight
+him at the class match!
+
+357
+00:24:07,216 --> 00:24:08,549
+[Girl 1] The next episode:
+
+358
+00:24:08,649 --> 00:24:10,916
+"The Transfer Student is the
+Second Childhood Friend"
+
+359
+00:24:11,016 --> 00:24:14,749
+[Girl 3] Oh, I wonder if her IS
+wears an outfit that's like a
+Chinese dress?!
+
+360
+00:24:14,849 --> 00:24:18,649
+[Girls 1 and 2] No way, that
+would be impossible!
+

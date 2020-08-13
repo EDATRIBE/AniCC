@@ -1,0 +1,2427 @@
+﻿1
+00:00:08,208 --> 00:00:09,500
+[HAVIA]
+Qwenthur!
+
+2
+00:00:09,583 --> 00:00:11,208
+Hey! Look!
+
+3
+00:00:11,291 --> 00:00:12,958
+Are you ready to leave yet?
+
+4
+00:00:13,041 --> 00:00:14,375
+[HAVIA]
+Here, check it.
+
+5
+00:00:14,458 --> 00:00:17,416
+That nice ol' lady gave us
+some cookies for the road.
+
+6
+00:00:19,583 --> 00:00:22,125
+I feel like we should be
+pushing them to evacuate.
+
+7
+00:00:22,208 --> 00:00:23,500
+[HAVIA]
+It's no use, man.
+
+8
+00:00:23,583 --> 00:00:24,916
+This is their home.
+
+9
+00:00:25,000 --> 00:00:26,875
+They said nothing's gonna
+make them leave it behind.
+
+10
+00:00:26,958 --> 00:00:28,416
+[QWENTHUR]
+Well, in that case,
+
+11
+00:00:28,500 --> 00:00:30,750
+we should at least get as far
+away from here as we can.
+
+12
+00:00:30,833 --> 00:00:32,791
+The battlefield is
+basically wherever we go
+
+13
+00:00:32,875 --> 00:00:34,875
+so that should help
+keep them safe.
+
+14
+00:00:36,125 --> 00:00:37,083
+Thanks.
+
+15
+00:00:38,458 --> 00:00:39,708
+So, hey.
+
+16
+00:00:39,791 --> 00:00:41,375
+What do you know about
+this Bright Hopper Object?
+
+17
+00:00:41,458 --> 00:00:43,250
+How powerful is it?
+
+18
+00:00:43,333 --> 00:00:45,416
+[QWENTHUR] It's a 2nd
+gen ground combat unit.
+
+19
+00:00:45,500 --> 00:00:49,375
+Rumor has it that not even three
+Baby Magnums could beat it.
+
+20
+00:00:49,458 --> 00:00:51,333
+It maintains a
+constant high speed
+
+21
+00:00:51,416 --> 00:00:53,875
+of 7 to 800 clicks per hour.
+
+22
+00:00:56,625 --> 00:00:58,750
+[QWENTHUR] Not only that, but
+it's a Specialized Object,
+
+23
+00:00:58,833 --> 00:01:01,375
+which means all of its
+main guns are lasers.
+
+24
+00:01:01,458 --> 00:01:04,083
+Essentially, it's a
+laser-spitting hurricane
+
+25
+00:01:04,166 --> 00:01:05,375
+on the battlefield.
+
+26
+00:01:05,458 --> 00:01:07,250
+It strikes at
+super-high speeds,
+
+27
+00:01:07,333 --> 00:01:10,625
+firing a barrage of multi-sized
+lasers at its opponent's legs,
+
+28
+00:01:10,708 --> 00:01:12,416
+completely incapacitating them.
+
+29
+00:01:12,500 --> 00:01:13,750
+Then finishes it off
+
+30
+00:01:13,833 --> 00:01:17,166
+with one high output laser
+shot from its main guns.
+
+31
+00:01:18,750 --> 00:01:20,250
+[HALREED]
+Only those lacking in honor
+
+32
+00:01:20,333 --> 00:01:22,625
+have the option of running away.
+
+33
+00:01:22,708 --> 00:01:25,583
+The Legitimate Kingdom's nobles
+are men of great pride.
+
+34
+00:01:25,666 --> 00:01:27,500
+We attack head-on at full speed,
+
+35
+00:01:27,583 --> 00:01:30,291
+and reduce our enemy
+to a pile of ash.
+
+36
+00:03:02,541 --> 00:03:04,666
+We've received some new intel.
+
+37
+00:03:04,750 --> 00:03:07,416
+It's been confirmed that chaff
+missiles have been fired.
+
+38
+00:03:07,500 --> 00:03:09,166
+They were launched
+from 50 clicks north,
+
+39
+00:03:09,250 --> 00:03:10,875
+in Paraná's mountainous region.
+
+40
+00:03:10,958 --> 00:03:12,500
+What are chaff missiles?
+
+41
+00:03:12,583 --> 00:03:13,666
+[FROLAYTIA]
+When they explode,
+
+42
+00:03:13,750 --> 00:03:15,291
+they seed the clouds
+with fine particles,
+
+43
+00:03:15,375 --> 00:03:18,833
+creating a shield
+against laser sensors.
+
+44
+00:03:18,916 --> 00:03:22,083
+Our satellite's surveillance
+network is currently useless.
+
+45
+00:03:22,166 --> 00:03:23,458
+[QWENTHUR]
+But wouldn't that mean
+
+46
+00:03:23,541 --> 00:03:25,458
+the Mass Driver Foundation's
+main force is somewhere
+
+47
+00:03:25,541 --> 00:03:27,750
+in the vicinity from
+where they launched?
+
+48
+00:03:27,833 --> 00:03:31,750
+Why risk us tracking their
+location like that? Y'know?
+
+49
+00:03:31,833 --> 00:03:33,958
+They're prob'ly more concerned
+with hiding their Object
+
+50
+00:03:34,041 --> 00:03:35,500
+from our spy satellites.
+
+51
+00:03:35,583 --> 00:03:37,125
+Now they've got time to escape.
+
+52
+00:03:37,208 --> 00:03:38,750
+Yeah, that could be it.
+
+53
+00:03:38,833 --> 00:03:40,166
+But what was supplying power
+
+54
+00:03:40,250 --> 00:03:43,333
+to those rail guns on
+the mountains earlier?
+
+55
+00:03:43,416 --> 00:03:45,916
+Maybe they're not just trying
+to disable the satellites,
+
+56
+00:03:46,000 --> 00:03:47,541
+maybe there's more to it.
+
+57
+00:03:47,625 --> 00:03:51,416
+There could be some other
+practical reason beyond fleeing.
+
+58
+00:03:51,500 --> 00:03:52,583
+Maybe...
+
+59
+00:03:53,416 --> 00:03:54,458
+[HALREED chuckles]
+
+60
+00:04:02,458 --> 00:04:03,916
+[HALREED]
+Chaff Missiles?
+
+61
+00:04:04,791 --> 00:04:06,166
+So they plan to hide?
+
+62
+00:04:06,250 --> 00:04:09,208
+I would expect no less from
+such a group of cowards.
+
+63
+00:04:09,291 --> 00:04:10,750
+Though it doesn't matter
+in the slightest
+
+64
+00:04:10,833 --> 00:04:12,666
+how advanced their Object is.
+
+65
+00:04:12,750 --> 00:04:14,583
+With a single burst
+of glorious light,
+
+66
+00:04:14,666 --> 00:04:16,208
+I shall cut them dow--
+
+67
+00:04:24,750 --> 00:04:25,791
+[gasps]
+
+68
+00:04:27,583 --> 00:04:29,083
+[QWENTHUR]
+Whoa, what the hell?!
+
+69
+00:04:30,166 --> 00:04:31,666
+[COMM OFFICER A]
+Charlemagne to all units!
+
+70
+00:04:31,750 --> 00:04:33,458
+The Bright Hopper has
+taken heavy damage
+
+71
+00:04:33,541 --> 00:04:36,375
+while en route to our
+location! I repeat.
+
+72
+00:04:36,458 --> 00:04:38,291
+The Bright Hopper has
+taken heavy damage...
+
+73
+00:04:38,375 --> 00:04:39,208
+Hold on a sec!
+
+74
+00:04:39,291 --> 00:04:40,750
+That's a mountainous region.
+
+75
+00:04:40,833 --> 00:04:43,708
+Did they blow away the mountains
+in between to hit it?
+
+76
+00:04:43,791 --> 00:04:45,708
+[FROLAYTIA] It was a
+high-angle trajectory.
+
+77
+00:04:45,791 --> 00:04:46,958
+They fired the rail gun
+
+78
+00:04:47,041 --> 00:04:49,458
+at a sharp upward angle
+and let the round fall.
+
+79
+00:04:49,541 --> 00:04:50,875
+[COMM OFFICER A]
+Major. It's unconfirmed
+
+80
+00:04:50,958 --> 00:04:54,041
+as to whether Major Copacabana
+successfully ejected.
+
+81
+00:04:54,125 --> 00:04:56,958
+There's no trace of an
+emergency distress beacon.
+
+82
+00:04:59,166 --> 00:05:00,750
+They cannot be serious.
+
+83
+00:05:00,833 --> 00:05:02,750
+That much damage from one shot?
+
+84
+00:05:02,833 --> 00:05:04,375
+[COMM OFFICER A] The Bright
+Hopper's power reactor
+
+85
+00:05:04,458 --> 00:05:06,208
+appears to be destroyed.
+
+86
+00:05:06,291 --> 00:05:08,541
+The estimated velocity
+of the shell...
+
+87
+00:05:08,625 --> 00:05:10,083
+is Mach 25?!
+
+88
+00:05:10,166 --> 00:05:11,708
+What?! Impossible!
+
+89
+00:05:11,791 --> 00:05:14,208
+Mach 25 would launch the
+shell straight into space
+
+90
+00:05:14,291 --> 00:05:17,000
+without ever coming back down!
+
+91
+00:05:17,083 --> 00:05:18,500
+[FROLAYTIA] They must
+have somehow modified
+
+92
+00:05:18,583 --> 00:05:21,041
+the artillery shells in order
+to bend the trajectory.
+
+93
+00:05:21,125 --> 00:05:23,125
+That's the only explanation.
+
+94
+00:05:24,416 --> 00:05:26,125
+The scale is off the charts.
+
+95
+00:05:26,208 --> 00:05:27,916
+Those chaff missiles
+they fired...
+
+96
+00:05:28,000 --> 00:05:29,583
+they weren't fleeing.
+
+97
+00:05:29,666 --> 00:05:32,875
+They were using them to conceal
+the timing of their shelling.
+
+98
+00:05:32,958 --> 00:05:34,791
+We're dead if they get
+us in their sights.
+
+99
+00:05:34,875 --> 00:05:38,416
+A shell flying at us at Mach 25?
+
+100
+00:05:38,500 --> 00:05:40,416
+There's no dodging that.
+
+101
+00:05:40,500 --> 00:05:42,666
+How was it even possible
+for them to zero in
+
+102
+00:05:42,750 --> 00:05:44,750
+so accurately from
+that distance?
+
+103
+00:05:44,833 --> 00:05:47,333
+Well, considering that
+they used chaff missiles,
+
+104
+00:05:47,416 --> 00:05:50,125
+we know they weren't relying
+on military satellites.
+
+105
+00:05:50,208 --> 00:05:52,541
+So how could they...?
+
+106
+00:05:52,625 --> 00:05:54,666
+Hold on.
+
+107
+00:05:54,750 --> 00:05:56,750
+They're using the clouds.
+
+108
+00:05:56,833 --> 00:05:58,041
+[HAVIA]
+How?
+
+109
+00:05:58,125 --> 00:05:59,458
+[QWENTHUR]
+The chaff missiles create clouds
+
+110
+00:05:59,541 --> 00:06:01,166
+that deflect signals, right?
+
+111
+00:06:01,250 --> 00:06:02,833
+But they can also emit a signal.
+
+112
+00:06:02,916 --> 00:06:04,583
+If they aim that
+signal off the clouds,
+
+113
+00:06:04,666 --> 00:06:07,333
+it allows them to accurately
+lock on to their target.
+
+114
+00:06:07,416 --> 00:06:10,333
+Which keeps their location
+perfectly hidden.
+
+115
+00:06:11,875 --> 00:06:13,833
+[QWENTHUR gasps]
+That means--
+
+116
+00:06:13,916 --> 00:06:16,208
+Qwenthur to Baby
+Magnum, come in!
+
+117
+00:06:16,291 --> 00:06:18,041
+Run for it!
+
+118
+00:06:18,125 --> 00:06:19,500
+[gasps]
+
+119
+00:06:26,125 --> 00:06:26,916
+[HAVIA screams]
+
+120
+00:06:27,000 --> 00:06:28,708
+[QWENTHUR groans]
+
+121
+00:06:35,166 --> 00:06:36,166
+[COMM OFFICER A]
+No longer operating!
+
+122
+00:06:36,250 --> 00:06:37,000
+[HAVIA]
+Damn.
+
+123
+00:06:37,083 --> 00:06:37,875
+[COMM OFFICER A]
+I repeat!
+
+124
+00:06:37,958 --> 00:06:39,250
+Baby Magnum damaged!
+
+125
+00:06:39,333 --> 00:06:41,500
+Main Guns 1 through 3
+no longer operating!
+
+126
+00:06:41,583 --> 00:06:42,666
+[MILINDA]
+I'm not dead.
+
+127
+00:06:42,750 --> 00:06:44,208
+Not yet.
+
+128
+00:06:44,291 --> 00:06:47,333
+Still got 7 Main Guns and I
+only need one to keep going.
+
+129
+00:06:47,416 --> 00:06:49,083
+[COMM OFFICER A] Propulsion
+system malfunctioning.
+
+130
+00:06:49,166 --> 00:06:52,333
+High-speed maneuverability
+may also be compromised.
+
+131
+00:06:53,041 --> 00:06:55,041
+[QWENTHUR]
+Accidental detonation?
+
+132
+00:06:55,125 --> 00:06:57,083
+Was the Mach 25 speed too much
+
+133
+00:06:57,166 --> 00:06:58,791
+for the artillery
+shell to withstand?
+
+134
+00:06:58,875 --> 00:07:00,750
+You think that was
+the end of it?
+
+135
+00:07:00,833 --> 00:07:02,583
+[QWENTHUR]
+They're not done yet.
+
+136
+00:07:02,666 --> 00:07:03,750
+[HAVIA]
+What?
+
+137
+00:07:03,833 --> 00:07:05,833
+They wanna make sure
+they finish us off?
+
+138
+00:07:05,916 --> 00:07:07,125
+Not quite.
+
+139
+00:07:07,208 --> 00:07:09,500
+There's something off
+about their strategy.
+
+140
+00:07:09,583 --> 00:07:10,750
+[COMM OFFICER A]
+Maintenance crew!
+
+141
+00:07:10,833 --> 00:07:14,000
+Inspect the Baby Magnum's
+suspension system!
+
+142
+00:07:14,083 --> 00:07:15,166
+No!
+
+143
+00:07:15,250 --> 00:07:18,125
+That's their next target!
+The base zone!
+
+144
+00:07:29,375 --> 00:07:30,208
+[FROLAYTIA]
+Qwenthur.
+
+145
+00:07:30,291 --> 00:07:31,916
+Wake up.
+
+146
+00:07:32,000 --> 00:07:33,666
+Qwenthur.
+
+147
+00:07:36,500 --> 00:07:38,458
+Are you all right?
+
+148
+00:07:38,541 --> 00:07:40,125
+What the hell?
+
+149
+00:07:40,208 --> 00:07:42,583
+What's going on?
+
+150
+00:07:42,666 --> 00:07:44,291
+Where's Havia?
+
+151
+00:07:44,375 --> 00:07:45,583
+I don't know.
+
+152
+00:07:45,666 --> 00:07:48,541
+But he was... Wait. What?
+
+153
+00:07:48,625 --> 00:07:50,583
+What about everyone else?
+
+154
+00:07:51,625 --> 00:07:53,833
+Luckily, most of the
+personnel managed to flee
+
+155
+00:07:53,916 --> 00:07:55,541
+into the bomb shelter in time.
+
+156
+00:07:55,625 --> 00:07:57,666
+Right now, only minor
+injuries have been reported
+
+157
+00:07:57,750 --> 00:08:00,583
+So then they didn't
+score a direct hit?
+
+158
+00:08:00,666 --> 00:08:02,375
+[FROLAYTIA]
+Maybe their technology's flawed.
+
+159
+00:08:02,458 --> 00:08:05,958
+It seems like the shell couldn't
+withstand the air resistance.
+
+160
+00:08:06,041 --> 00:08:08,625
+It detonated midair,
+just before impact.
+
+161
+00:08:08,708 --> 00:08:11,708
+[QWENTHUR]
+All this from an indirect hit.
+
+162
+00:08:11,791 --> 00:08:13,291
+I'd say there's a
+very real chance
+
+163
+00:08:13,375 --> 00:08:15,666
+their main gun is
+just a prototype.
+
+164
+00:08:15,750 --> 00:08:17,250
+[QWENTHUR]
+But still,
+
+165
+00:08:17,333 --> 00:08:20,208
+they took out the Bright Hopper
+with one shot from 500 clicks.
+
+166
+00:08:20,291 --> 00:08:22,375
+It's all about the trajectory.
+
+167
+00:08:22,458 --> 00:08:24,541
+The shorter the distance between
+the gun and the target,
+
+168
+00:08:24,625 --> 00:08:26,291
+the tighter the parabolic arc.
+
+169
+00:08:26,375 --> 00:08:28,958
+And that would put a
+strain on the shells.
+
+170
+00:08:29,041 --> 00:08:32,000
+Then... why would
+they get closer?
+
+171
+00:08:32,083 --> 00:08:34,958
+[FROLAYTIA] Our presence is
+cutting off their supply route.
+
+172
+00:08:35,041 --> 00:08:37,541
+The Mass Driver Foundation
+is trying to draw us
+
+173
+00:08:37,625 --> 00:08:40,541
+into a short war by directly
+targeting the Princess.
+
+174
+00:08:40,625 --> 00:08:42,083
+With nowhere to retreat to,
+
+175
+00:08:42,166 --> 00:08:45,125
+and no way to sustain themselves
+in a long drawn out war,
+
+176
+00:08:45,208 --> 00:08:47,291
+it's their only option.
+
+177
+00:08:47,375 --> 00:08:49,666
+So these Mach 25 shells.
+
+178
+00:08:49,750 --> 00:08:50,958
+They lose their accuracy
+
+179
+00:08:51,041 --> 00:08:53,208
+if fired at a target
+from close range.
+
+180
+00:08:53,291 --> 00:08:55,583
+[FROLAYTIA] Regardless,
+I'm calling off this mission.
+
+181
+00:08:55,666 --> 00:08:57,375
+I hate to admit defeat,
+
+182
+00:08:57,458 --> 00:08:59,833
+but we don't even have
+the means to engage them.
+
+183
+00:08:59,916 --> 00:09:02,125
+As of now, we're evacuating.
+
+184
+00:09:02,208 --> 00:09:04,333
+Until then I have
+to keep searching.
+
+185
+00:09:04,416 --> 00:09:05,666
+[QWENTHUR]
+That won't work!
+
+186
+00:09:05,750 --> 00:09:07,958
+Using the aircraft carrier
+to escape isn't safe!
+
+187
+00:09:08,041 --> 00:09:11,875
+It'll never make it beyond the
+range of an Object's main guns.
+
+188
+00:09:11,958 --> 00:09:13,416
+[FROLAYTIA] The wounded are
+being sent out to sea
+
+189
+00:09:13,500 --> 00:09:16,541
+on the hydra foils, not
+back to the carrier.
+
+190
+00:09:16,625 --> 00:09:19,333
+But what do you plan to do
+about the Charlemagne?
+
+191
+00:09:19,416 --> 00:09:22,416
+That's not up to me,
+that's the Marine's call.
+
+192
+00:09:22,500 --> 00:09:26,208
+The officers aboard the flagship
+will have to make that decision.
+
+193
+00:09:26,291 --> 00:09:27,750
+And, besides,
+
+194
+00:09:27,833 --> 00:09:30,250
+it's not like the hydrofoils can
+outrun the main guns either.
+
+195
+00:09:30,333 --> 00:09:33,500
+It's a no win situation.
+
+196
+00:09:33,583 --> 00:09:36,000
+But that's still
+our best chance.
+
+197
+00:09:36,083 --> 00:09:37,208
+Can you stand?
+
+198
+00:09:37,291 --> 00:09:38,791
+[QWENTHUR]
+I think.
+
+199
+00:09:38,875 --> 00:09:41,208
+[groaning]
+
+200
+00:09:41,291 --> 00:09:43,291
+[FROLAYTIA]
+Hm. I don't feel a break.
+
+201
+00:09:43,375 --> 00:09:45,875
+It looks like it's a sprain.
+
+202
+00:09:45,958 --> 00:09:47,166
+Come on. Let's go.
+
+203
+00:09:47,250 --> 00:09:48,166
+[QWENTHUR]
+What?
+
+204
+00:09:48,250 --> 00:09:50,500
+Wait, I might be
+able to manage...
+
+205
+00:09:50,583 --> 00:09:52,125
+Didn't you hear me?
+
+206
+00:09:52,208 --> 00:09:54,458
+My first priority
+is our wounded.
+
+207
+00:09:54,541 --> 00:09:55,708
+And that includes you.
+
+208
+00:09:55,791 --> 00:09:57,125
+[radio static]
+
+209
+00:09:57,208 --> 00:09:58,416
+[BILANY]
+This is the 52nd
+
+210
+00:09:58,500 --> 00:09:59,916
+Mechanized Maintenance
+Battalion.
+
+211
+00:10:00,000 --> 00:10:02,875
+Corporal Saronna with the
+Forward Reconnaissance Platoon.
+
+212
+00:10:08,875 --> 00:10:10,041
+[HAVIA]
+All right, then.
+
+213
+00:10:10,125 --> 00:10:11,625
+I'm pretty sure you
+should be safe in there
+
+214
+00:10:11,708 --> 00:10:13,500
+with the current
+placement of the clouds.
+
+215
+00:10:13,583 --> 00:10:17,208
+Let's just keep you hidden till
+they fire off more chaffs, okay?
+
+216
+00:10:17,291 --> 00:10:19,416
+[MILINDA]
+Any word from Qwenthur?
+
+217
+00:10:19,500 --> 00:10:20,625
+[HAVIA]
+I keep tryin' to raise him,
+
+218
+00:10:20,708 --> 00:10:22,666
+but I still can't get through.
+
+219
+00:10:22,750 --> 00:10:24,500
+Knowing him, I bet
+he's perfectly fine.
+
+220
+00:10:24,583 --> 00:10:26,208
+[radio static]
+
+221
+00:10:26,291 --> 00:10:28,875
+[BILANY] Hailing 37th Mechanized
+Maintenance Battalion.
+
+222
+00:10:28,958 --> 00:10:30,916
+Baby Magnum.
+
+223
+00:10:31,000 --> 00:10:33,541
+This is the 52nd Mechanized
+Maintenance Battalion.
+
+224
+00:10:33,625 --> 00:10:36,875
+Corporal Saronna with the
+Forward Reconnaissance Platoon.
+
+225
+00:10:36,958 --> 00:10:39,291
+One of Halreed's officers, huh?
+
+226
+00:10:39,375 --> 00:10:41,625
+[BILANY] I propose that our most
+likely chance for survival
+
+227
+00:10:41,708 --> 00:10:43,583
+is for our battalions
+to work together
+
+228
+00:10:43,666 --> 00:10:46,166
+and devise a strategy to ensure
+that Baby Magnum destroys
+
+229
+00:10:46,250 --> 00:10:49,291
+the Mass Driver
+Foundation's Object.
+
+230
+00:10:49,375 --> 00:10:52,583
+Have you received authorization
+from Major Capistrano for this?
+
+231
+00:10:52,666 --> 00:10:54,791
+[BILANY] Her whereabouts
+are currently unknown.
+
+232
+00:10:54,875 --> 00:10:56,000
+Being that time is critical,
+
+233
+00:10:56,083 --> 00:10:58,125
+I'm asking to be placed
+as ranking officer
+
+234
+00:10:58,208 --> 00:11:00,541
+and allowed to devise
+the mission plan.
+
+235
+00:11:00,625 --> 00:11:01,916
+Concerning strategy,
+
+236
+00:11:02,000 --> 00:11:04,250
+it's advised you follow
+the Bright Hopper's tactic.
+
+237
+00:11:04,333 --> 00:11:06,250
+You mean try to take
+out the enemy's legs?
+
+238
+00:11:06,333 --> 00:11:08,041
+And then lay into them
+with the main guns
+
+239
+00:11:08,125 --> 00:11:10,416
+once they're on the ground?
+
+240
+00:11:10,500 --> 00:11:11,916
+[BILANY]
+Correct. However,
+
+241
+00:11:12,000 --> 00:11:14,666
+we realize that the Baby Magnum
+is incapable of the same
+
+242
+00:11:14,750 --> 00:11:17,666
+high-speed maneuvers,
+which does limit the plan.
+
+243
+00:11:17,750 --> 00:11:20,291
+[MILINDA] Then how do we
+immobilize the enemy Object?
+
+244
+00:11:20,375 --> 00:11:22,833
+There's a giant dam
+in the Iguazú region.
+
+245
+00:11:22,916 --> 00:11:25,583
+Destroying it would cause
+the area downriver to flood,
+
+246
+00:11:25,666 --> 00:11:29,583
+thus bringing a ground combat
+object to a standstill.
+
+247
+00:11:29,666 --> 00:11:31,000
+[MILINDA]
+That can't be your plan.
+
+248
+00:11:31,083 --> 00:11:31,791
+[BILANY]
+Of course it is.
+
+249
+00:11:31,875 --> 00:11:32,958
+[HAVIA]
+No way in hell!
+
+250
+00:11:33,041 --> 00:11:35,166
+That plan is not acceptable!
+
+251
+00:11:35,250 --> 00:11:38,208
+Do you realize what'll happen
+if we destroy that dam?!
+
+252
+00:11:38,291 --> 00:11:42,500
+You'll be murdering tens
+of thousands of civilians!
+
+253
+00:11:42,583 --> 00:11:44,041
+Collateral damage.
+
+254
+00:11:44,125 --> 00:11:47,375
+Besides, they're not
+citizens of the LK.
+
+255
+00:11:47,458 --> 00:11:48,833
+[HAVIA] Either way,
+your plan is worthless
+
+256
+00:11:48,916 --> 00:11:51,208
+if the Baby Magnum
+doesn't help you!
+
+257
+00:11:51,291 --> 00:11:55,791
+It won't accomplish anything if
+you bastards destroy the dam!
+
+258
+00:11:55,875 --> 00:11:57,041
+[BILANY]
+This mission is moving forward,
+
+259
+00:11:57,125 --> 00:11:59,625
+with or without the Baby Magnum.
+
+260
+00:11:59,708 --> 00:12:03,958
+You'll be advised later when we
+intend to strike. That's all.
+
+261
+00:12:10,125 --> 00:12:12,458
+[HAVIA panting]
+Crap!
+
+262
+00:12:12,541 --> 00:12:14,083
+She's got some
+nerve sayin' this
+
+263
+00:12:14,166 --> 00:12:16,666
+has anything to do
+with survival!
+
+264
+00:12:16,750 --> 00:12:18,291
+[QWENTHUR]
+It connected! Havia!
+
+265
+00:12:18,375 --> 00:12:20,250
+[gasps] Qwenthur.
+
+266
+00:12:20,333 --> 00:12:22,250
+Have you been under
+a rock, man, or what?
+
+267
+00:12:22,333 --> 00:12:23,625
+You won't believe this,
+
+268
+00:12:23,708 --> 00:12:26,125
+we just had the most insane
+plan ever dumped on us
+
+269
+00:12:26,208 --> 00:12:29,333
+by the leftovers of the
+Bright Hopper's battalion.
+
+270
+00:12:29,416 --> 00:12:32,500
+Yes it was broadcast on an open
+channel so we heard it, too.
+
+271
+00:12:32,583 --> 00:12:34,708
+Do not participate
+in their mission.
+
+272
+00:12:34,791 --> 00:12:37,291
+The Baby Magnum will not
+be mobilized for them.
+
+273
+00:12:37,375 --> 00:12:39,583
+Hopefully they'll realize
+that there's no point
+
+274
+00:12:39,666 --> 00:12:40,916
+without our participation.
+
+275
+00:12:41,000 --> 00:12:42,375
+Yeah, don't hold your breath.
+
+276
+00:12:42,458 --> 00:12:43,291
+[FROLAYTIA]
+Why not?
+
+277
+00:12:43,375 --> 00:12:44,500
+[HAVIA]
+'Cause I'm pretty sure
+
+278
+00:12:44,583 --> 00:12:45,791
+the only thing these
+guys're concerned with
+
+279
+00:12:45,875 --> 00:12:48,375
+is getting payback for
+the Bright Hopper.
+
+280
+00:12:48,458 --> 00:12:50,708
+I get the feeling all rational
+thought went up in flames
+
+281
+00:12:50,791 --> 00:12:53,208
+with their Object. It sounds
+to me like they're gonna
+
+282
+00:12:53,291 --> 00:12:55,583
+blow up the dam no
+matter what happens.
+
+283
+00:12:55,666 --> 00:12:58,375
+Unless someone heads down
+there to physically stop them.
+
+284
+00:12:58,458 --> 00:13:00,208
+Havia. Let's talk.
+
+285
+00:13:00,291 --> 00:13:01,708
+Sure, Qwenthur,
+
+286
+00:13:01,791 --> 00:13:04,083
+this seems like a great time
+for a serious conversation.
+
+287
+00:13:04,166 --> 00:13:05,875
+[FROLAYTIA growls]
+
+288
+00:13:05,958 --> 00:13:07,875
+I'll handle the dam situation.
+
+289
+00:13:07,958 --> 00:13:10,000
+Right, I'll take care
+of the enemy Object.
+
+290
+00:13:10,083 --> 00:13:12,791
+[BOTH] And I'll leave things
+over there up to you!
+
+291
+00:13:12,875 --> 00:13:14,875
+Stand down. I will
+not allow that.
+
+292
+00:13:14,958 --> 00:13:17,625
+It's too reckless for you
+to go out on your own.
+
+293
+00:13:17,708 --> 00:13:18,958
+Uh?
+
+294
+00:13:19,041 --> 00:13:20,166
+[QWENTHUR]
+In that case,
+
+295
+00:13:20,250 --> 00:13:21,625
+all you have to do is
+simply make a report
+
+296
+00:13:21,708 --> 00:13:23,666
+that you were unable to find me.
+
+297
+00:13:23,750 --> 00:13:25,958
+I'm nothing more than a
+student on deployment.
+
+298
+00:13:26,041 --> 00:13:27,416
+Which means what I choose to do,
+
+299
+00:13:27,500 --> 00:13:29,708
+well, the last thing I
+want is for my actions
+
+300
+00:13:29,791 --> 00:13:32,375
+to impact your stature
+in the military.
+
+301
+00:13:32,458 --> 00:13:34,958
+Listen, Qwenthur. You can't.
+
+302
+00:13:35,041 --> 00:13:36,666
+[QWENTHUR]
+Please, let me do this.
+
+303
+00:13:36,750 --> 00:13:39,583
+I know this isn't
+my job description,
+
+304
+00:13:39,666 --> 00:13:41,291
+but I've got the experience.
+
+305
+00:13:41,375 --> 00:13:43,875
+And I can't stand the
+idea of just retreating.
+
+306
+00:13:43,958 --> 00:13:45,958
+[FROLAYTIA]
+Hm. Now, look.
+
+307
+00:13:46,041 --> 00:13:48,000
+I'm the superior officer here.
+
+308
+00:13:48,083 --> 00:13:50,625
+The final decision
+is my responsibility.
+
+309
+00:13:50,708 --> 00:13:52,166
+[QWENTHUR exhales]
+
+310
+00:13:52,250 --> 00:13:54,458
+Now we could say you
+were still missing.
+
+311
+00:13:54,541 --> 00:13:57,041
+I'd have no choice but to
+continue searching for you.
+
+312
+00:13:57,125 --> 00:13:58,750
+Wait, I'm sorry, what?
+
+313
+00:13:58,833 --> 00:14:00,458
+[FROLAYTIA] You can't do
+anything with that leg.
+
+314
+00:14:00,541 --> 00:14:02,916
+You'll only die if
+you go at them alone.
+
+315
+00:14:03,000 --> 00:14:03,958
+[QWENTHUR]
+Uh...
+
+316
+00:14:04,041 --> 00:14:05,833
+So this is what we'll do.
+
+317
+00:14:05,916 --> 00:14:07,041
+We're in this together.
+
+318
+00:14:07,125 --> 00:14:09,125
+No matter what the
+consequences are.
+
+319
+00:14:09,208 --> 00:14:11,625
+Just remember, even though I
+have to act like your crutch,
+
+320
+00:14:11,708 --> 00:14:14,916
+you're still my stubborn,
+troublemaking subordinate.
+
+321
+00:14:17,333 --> 00:14:20,000
+[FROLAYTIA] I'm hoping you have
+some kind of plan worked out.
+
+322
+00:14:20,083 --> 00:14:22,333
+I'll need the Princess's
+help for it to work.
+
+323
+00:14:22,416 --> 00:14:24,250
+But the very first
+thing we need to do
+
+324
+00:14:24,333 --> 00:14:26,041
+is determine which
+route the enemy Object
+
+325
+00:14:26,125 --> 00:14:27,916
+will take to intercept us.
+
+326
+00:14:28,958 --> 00:14:30,666
+The satellites are still down.
+
+327
+00:14:30,750 --> 00:14:32,708
+So it's up to us to
+determine their location
+
+328
+00:14:32,791 --> 00:14:34,166
+then report it back
+to the Princess
+
+329
+00:14:34,250 --> 00:14:36,375
+so she can make a
+pre-emptive strike.
+
+330
+00:14:36,458 --> 00:14:38,250
+Let's review all of the options.
+
+331
+00:14:38,333 --> 00:14:40,458
+Projections show they're
+likely to thread the mountains
+
+332
+00:14:40,541 --> 00:14:41,750
+and come down a gorge.
+
+333
+00:14:41,833 --> 00:14:44,291
+That gives them three
+possible routes.
+
+334
+00:14:44,375 --> 00:14:46,125
+[FROLAYTIA] There's no need
+to stake out all three.
+
+335
+00:14:46,208 --> 00:14:49,708
+The sound will give away
+the general direction.
+
+336
+00:14:49,791 --> 00:14:50,875
+The Object's drive noise
+
+337
+00:14:50,958 --> 00:14:55,416
+is the one thing they
+can't conceal. Uh?
+
+338
+00:14:55,500 --> 00:14:57,583
+Fingers crossed it still runs.
+
+339
+00:14:57,666 --> 00:14:59,208
+Just sit tight a moment.
+
+340
+00:15:02,000 --> 00:15:06,333
+[QWENTHUR] Uh? It got blasted
+this far in the explosion?
+
+341
+00:15:09,625 --> 00:15:10,583
+[gasps]
+
+342
+00:15:19,125 --> 00:15:20,250
+[QWENTHUR]
+I'm really sorry
+
+343
+00:15:20,333 --> 00:15:21,708
+for all the trouble I'm
+putting you through.
+
+344
+00:15:21,791 --> 00:15:23,208
+[FROLAYTIA]
+Yeah, you better be.
+
+345
+00:15:23,291 --> 00:15:25,708
+You owe me a shoulder rub
+that'll make your hands bleed.
+
+346
+00:15:25,791 --> 00:15:26,500
+[QWENTHUR laughs]
+
+347
+00:15:26,583 --> 00:15:27,708
+--[radio static]
+--Uh?!
+
+348
+00:15:27,791 --> 00:15:29,083
+[COMM OFFICER A]
+This is the Charlemagne.
+
+349
+00:15:29,166 --> 00:15:31,333
+We're attempting to
+reach Major Capistrano
+
+350
+00:15:31,416 --> 00:15:34,291
+in regards to the Mass Driver
+Foundation's main gun.
+
+351
+00:15:34,375 --> 00:15:37,500
+A few details have come to light
+as a result of our analysis.
+
+352
+00:15:37,583 --> 00:15:39,625
+Please reference the diagrams.
+
+353
+00:15:39,708 --> 00:15:41,416
+We've uncovered
+that their main gun
+
+354
+00:15:41,500 --> 00:15:44,666
+is a combination of rail gun
+and rocket technology.
+
+355
+00:15:44,750 --> 00:15:48,208
+They use a rail gun to fire
+the oversized artillery shell,
+
+356
+00:15:48,291 --> 00:15:51,125
+and the shell then immediately
+splits into three.
+
+357
+00:15:51,208 --> 00:15:52,916
+Furthermore, just before impact,
+
+358
+00:15:53,000 --> 00:15:55,250
+it appears to eject
+around 10 submunitions
+
+359
+00:15:55,333 --> 00:15:56,375
+in a ring formation.
+
+360
+00:15:56,458 --> 00:15:57,708
+[QWENTHUR]
+The Princess will be killed
+
+361
+00:15:57,791 --> 00:16:00,250
+if a single one of those
+submunitions strikes her.
+
+362
+00:16:00,333 --> 00:16:02,416
+[COMM OFFICER A] The shell
+is fired at a high angle.
+
+363
+00:16:02,500 --> 00:16:04,666
+But its trajectory
+is rather peculiar.
+
+364
+00:16:04,750 --> 00:16:07,041
+After climbing to
+25 hundred meters
+
+365
+00:16:07,125 --> 00:16:09,000
+almost directly
+above the target,
+
+366
+00:16:09,083 --> 00:16:11,583
+the missiles arc suddenly
+goes into a nosedive.
+
+367
+00:16:11,666 --> 00:16:13,666
+[QWENTHUR] They must be
+manipulating the trajectory
+
+368
+00:16:13,750 --> 00:16:15,583
+with some kind of tail assembly.
+
+369
+00:16:15,666 --> 00:16:17,875
+[COMM OFFICER A] The kinetic
+energy of the shell's trajectory
+
+370
+00:16:17,958 --> 00:16:19,833
+is concentrated on detachment.
+
+371
+00:16:19,916 --> 00:16:22,333
+But after the missiles
+split the rear rocket engine
+
+372
+00:16:22,416 --> 00:16:23,583
+is programmed to ignite
+
+373
+00:16:23,666 --> 00:16:26,333
+thus allowing it to
+achieve Mach 25.
+
+374
+00:16:26,416 --> 00:16:28,541
+Our assumption is that
+it changes trajectory
+
+375
+00:16:28,625 --> 00:16:30,041
+with adjustable grooves.
+
+376
+00:16:30,125 --> 00:16:31,666
+End transmission.
+
+377
+00:16:32,875 --> 00:16:34,000
+[FROLAYTIA]
+Mass Drivers,
+
+378
+00:16:34,083 --> 00:16:37,208
+rockets, submunition technology.
+
+379
+00:16:37,291 --> 00:16:38,291
+There you go.
+
+380
+00:16:38,375 --> 00:16:40,500
+It's like a Frankenstein
+hybrid weapon.
+
+381
+00:16:40,583 --> 00:16:41,833
+Cutting edge as you can get.
+
+382
+00:16:41,916 --> 00:16:44,458
+Don't forget the chaff
+missile targeting method.
+
+383
+00:16:44,541 --> 00:16:45,958
+Actually employing the clouds
+
+384
+00:16:46,041 --> 00:16:48,125
+to reflect the locked-on
+guidance signal.
+
+385
+00:16:48,208 --> 00:16:50,458
+You can't get much
+more intricate.
+
+386
+00:16:50,541 --> 00:16:52,666
+The creator of this thing
+is either a genius
+
+387
+00:16:52,750 --> 00:16:54,083
+or entirely freakin' nuts.
+
+388
+00:16:54,166 --> 00:16:56,083
+Oh, are you feeling
+a tinge of jealousy,
+
+389
+00:16:56,166 --> 00:16:57,333
+Mister Budding Designer?
+
+390
+00:16:57,416 --> 00:16:58,500
+Not quite.
+
+391
+00:16:58,583 --> 00:17:00,916
+I'm a little busy not
+crapping my pants.
+
+392
+00:17:02,416 --> 00:17:04,416
+We'll need to come up with
+a provisional codename
+
+393
+00:17:04,500 --> 00:17:07,958
+now that we have confirmation
+of their Object exists.
+
+394
+00:17:08,041 --> 00:17:12,250
+Hm... How does "Break
+Carrier" sound to you?
+
+395
+00:17:12,333 --> 00:17:14,208
+[QWENTHUR] Something that
+speaks destruction?
+
+396
+00:17:14,291 --> 00:17:16,000
+Sounds 'bout right.
+
+397
+00:17:20,750 --> 00:17:21,583
+[FROLAYTIA]
+What are you doing?
+
+398
+00:17:21,666 --> 00:17:23,250
+I'm just adding some bookmarks.
+
+399
+00:17:23,333 --> 00:17:24,541
+All the mountains around here
+
+400
+00:17:24,625 --> 00:17:26,833
+are littered with a large
+amount of tunnels.
+
+401
+00:17:26,916 --> 00:17:29,958
+It's a labyrinthine of mining
+and transportation networks.
+
+402
+00:17:30,041 --> 00:17:31,500
+When everything
+starts to go down,
+
+403
+00:17:31,583 --> 00:17:34,333
+it'll be helpful if we can call
+up these maps with one tap.
+
+404
+00:17:34,416 --> 00:17:36,375
+Figured I'd program it
+while I have the chance.
+
+405
+00:17:36,458 --> 00:17:38,375
+Try not to go overboard, though.
+
+406
+00:17:38,458 --> 00:17:40,958
+It's not gonna do us much good
+if the Break Carrier's people
+
+407
+00:17:41,041 --> 00:17:42,541
+pick up your signal.
+
+408
+00:17:42,625 --> 00:17:43,791
+Uh!
+
+409
+00:17:46,833 --> 00:17:50,125
+[FROLAYTIA] I can't help
+but feel so nervous.
+
+410
+00:17:50,208 --> 00:17:52,708
+[sighs] Hey, Qwenthur.
+
+411
+00:17:52,791 --> 00:17:54,583
+Why don't you tell me
+something about yourself
+
+412
+00:17:54,666 --> 00:17:55,958
+to keep my mind off things?
+
+413
+00:17:56,041 --> 00:17:58,208
+Are you trying to sound
+like some corporate manager
+
+414
+00:17:58,291 --> 00:18:00,458
+pressuring me to reveal a
+hidden talent, 'cause you do.
+
+415
+00:18:00,541 --> 00:18:03,333
+You're a student, what do you
+know about the corporate world?
+
+416
+00:18:03,416 --> 00:18:05,916
+Thanks for boring me.
+
+417
+00:18:06,000 --> 00:18:07,083
+[exhales]
+
+418
+00:18:07,166 --> 00:18:09,708
+[QWENTHUR]
+Actually, I heard a rumor.
+
+419
+00:18:09,791 --> 00:18:11,875
+Is it true that you're a
+member of the nobility?
+
+420
+00:18:11,958 --> 00:18:14,041
+[FROLAYTIA]
+Mm...
+
+421
+00:18:14,125 --> 00:18:15,625
+The Capistrano family.
+
+422
+00:18:15,708 --> 00:18:18,000
+We have an extremely
+desirable genetic trait.
+
+423
+00:18:18,083 --> 00:18:21,250
+To be honest, I'm surprised
+you haven't heard about it.
+
+424
+00:18:21,333 --> 00:18:24,458
+But then again, you're
+not an aristocrat.
+
+425
+00:18:24,541 --> 00:18:25,750
+What is it?
+
+426
+00:18:25,833 --> 00:18:27,791
+We only produce males.
+
+427
+00:18:27,875 --> 00:18:30,750
+It doesn't matter who we
+marry or how we reproduce.
+
+428
+00:18:30,833 --> 00:18:34,541
+Our children are born male
+almost 100% of the time.
+
+429
+00:18:34,625 --> 00:18:36,416
+And having male heirs, well,
+
+430
+00:18:36,500 --> 00:18:38,666
+that's what the
+aristocracy is all about.
+
+431
+00:18:38,750 --> 00:18:43,125
+The right to inherit.
+Y'know, all of that.
+
+432
+00:18:43,208 --> 00:18:46,791
+Not a subject a commoner like
+you is too familiar with, huh?
+
+433
+00:18:46,875 --> 00:18:49,791
+Yeah, all the stuff about
+pedigrees and lineages.
+
+434
+00:18:49,875 --> 00:18:52,416
+It's a little too much for
+me to wrap my head around.
+
+435
+00:18:52,500 --> 00:18:55,583
+I mean, why not just marry
+the person that you love?
+
+436
+00:18:55,666 --> 00:18:56,875
+I don't get it.
+
+437
+00:18:56,958 --> 00:18:59,458
+But, hey. What do I know,
+I'm not nobility.
+
+438
+00:18:59,541 --> 00:19:02,291
+The idea of marriage is
+still pretty abstract to me.
+
+439
+00:19:02,375 --> 00:19:03,666
+Lucky you.
+
+440
+00:19:03,750 --> 00:19:06,291
+I'd be lying if I said
+I didn't envy you.
+
+441
+00:19:06,375 --> 00:19:07,458
+But here I am,
+
+442
+00:19:07,541 --> 00:19:09,875
+saddled with this
+genetic disposition.
+
+443
+00:19:09,958 --> 00:19:12,416
+But... that doesn't
+really make sense,
+
+444
+00:19:12,500 --> 00:19:15,416
+if your family only has
+boys 100% of the time.
+
+445
+00:19:15,500 --> 00:19:16,625
+What about you?
+
+446
+00:19:16,708 --> 00:19:18,166
+You are all woman, right?
+
+447
+00:19:18,250 --> 00:19:21,291
+Yeah, I don't
+understand it myself.
+
+448
+00:19:21,375 --> 00:19:24,583
+I'm a noblewoman, guaranteed
+to give birth to boys.
+
+449
+00:19:24,666 --> 00:19:26,625
+Trust me, there are
+plenty of men out there
+
+450
+00:19:26,708 --> 00:19:29,041
+who've had trouble
+conceiving a male heir.
+
+451
+00:19:29,125 --> 00:19:33,125
+All I am is a natural resource
+they're clamoring to acquire.
+
+452
+00:19:33,208 --> 00:19:36,833
+Desperate to breed me like
+I'm some sort of prize horse.
+
+453
+00:19:36,916 --> 00:19:38,083
+[QWENTHUR]
+So, then...
+
+454
+00:19:38,166 --> 00:19:39,958
+It'd be like a marriage
+of convenience?
+
+455
+00:19:40,041 --> 00:19:41,500
+That kind of thing?
+
+456
+00:19:41,583 --> 00:19:43,625
+[FROLAYTIA] It'd be legitimate
+in the family register,
+
+457
+00:19:43,708 --> 00:19:44,958
+but in practical terms?
+
+458
+00:19:45,041 --> 00:19:46,666
+I'm nothing more
+than a tool for them
+
+459
+00:19:46,750 --> 00:19:49,208
+to maintain succession
+of their legacy.
+
+460
+00:19:49,291 --> 00:19:52,166
+As long as the female comes
+from the same social class,
+
+461
+00:19:52,250 --> 00:19:53,541
+that's all that matters.
+
+462
+00:19:53,625 --> 00:19:56,458
+They don't dare dilute their
+aristocratic bloodline.
+
+463
+00:19:56,541 --> 00:19:57,958
+Who knows? Maybe I'm lucky.
+
+464
+00:19:58,041 --> 00:20:00,458
+I guess there are
+worse things, right?
+
+465
+00:20:00,541 --> 00:20:02,208
+When you have a mountain
+of requests from men
+
+466
+00:20:02,291 --> 00:20:05,166
+that only want you for something
+you have no control over,
+
+467
+00:20:05,250 --> 00:20:09,208
+all you can do is try
+to stay positive.
+
+468
+00:20:09,291 --> 00:20:11,500
+It was bad enough being
+born with this trait,
+
+469
+00:20:11,583 --> 00:20:12,791
+but the way they talk...
+
+470
+00:20:12,875 --> 00:20:14,000
+"That Capistrano girl
+
+471
+00:20:14,083 --> 00:20:16,125
+can produce a boy at
+the drop of a hat,
+
+472
+00:20:16,208 --> 00:20:18,291
+it doesn't even matter
+if the man is sterile".
+
+473
+00:20:18,375 --> 00:20:20,916
+They basically bounce back and
+forth between talking about me
+
+474
+00:20:21,000 --> 00:20:23,708
+like I'm livestock
+or a miracle cure.
+
+475
+00:20:23,791 --> 00:20:25,125
+The list these days.
+
+476
+00:20:25,208 --> 00:20:27,375
+It ranges from impotent
+elderly gentlemen
+
+477
+00:20:27,458 --> 00:20:29,500
+to pervy letches from
+who-knows-where.
+
+478
+00:20:29,583 --> 00:20:31,375
+Each and every one of them
+bidding like crazy
+
+479
+00:20:31,458 --> 00:20:34,708
+for the privilege of
+wedding and bedding me.
+
+480
+00:20:34,791 --> 00:20:37,000
+And that's the reason I
+prefer to take my chances
+
+481
+00:20:37,083 --> 00:20:40,541
+on the battlefield instead
+of a safe nation.
+
+482
+00:20:40,625 --> 00:20:42,375
+If I retire from the military,
+
+483
+00:20:42,458 --> 00:20:45,916
+all that's waiting for me is the
+highest bidder and a big bed.
+
+484
+00:20:46,000 --> 00:20:47,500
+And he's probably
+some middle-aged man
+
+485
+00:20:47,583 --> 00:20:49,375
+I've never even met before.
+
+486
+00:20:49,458 --> 00:20:51,166
+Oh, speaking of.
+
+487
+00:20:51,250 --> 00:20:52,541
+I'm guessing you heard
+that transmission
+
+488
+00:20:52,625 --> 00:20:55,625
+from the Bright Hopper pilot,
+Halreed Copacabana?
+
+489
+00:20:55,708 --> 00:20:56,958
+Yeah.
+
+490
+00:20:57,041 --> 00:20:59,000
+[FROLAYTIA] He's about
+number three on the list.
+
+491
+00:20:59,083 --> 00:21:01,458
+He's actually considered one
+of the kinder candidates,
+
+492
+00:21:01,541 --> 00:21:03,583
+if you can believe it.
+
+493
+00:21:03,666 --> 00:21:06,375
+When I heard the report about
+the attack on his Object?
+
+494
+00:21:06,458 --> 00:21:08,291
+To be honest, I was relieved.
+
+495
+00:21:08,375 --> 00:21:10,458
+But one or two candidates
+dropping out?
+
+496
+00:21:10,541 --> 00:21:15,333
+That would hardly put
+a dent in the line.
+
+497
+00:21:15,416 --> 00:21:16,791
+It's no big deal.
+
+498
+00:21:16,875 --> 00:21:19,625
+I just have to spend my life
+fighting in the Military.
+
+499
+00:21:19,708 --> 00:21:23,708
+At least until I become an old
+hag and cease to be useful.
+
+500
+00:21:23,791 --> 00:21:27,166
+Basically, living and
+dying on the battlefield.
+
+501
+00:21:27,250 --> 00:21:29,375
+That's the closest I
+can come to freely living
+
+502
+00:21:29,458 --> 00:21:32,875
+my life the
+way that I want.
+
+503
+00:21:32,958 --> 00:21:34,875
+Well, all of that aside.
+
+504
+00:21:34,958 --> 00:21:37,541
+Even out here you sure
+do smell really nice.
+
+505
+00:21:37,625 --> 00:21:39,291
+[laughs] Huh?
+
+506
+00:21:39,375 --> 00:21:40,791
+That's really what
+you have to say
+
+507
+00:21:40,875 --> 00:21:42,458
+after I pour my
+heart out to you?
+
+508
+00:21:42,541 --> 00:21:45,291
+Well, honestly, I don't think I
+could ask for a better reaction.
+
+509
+00:21:45,375 --> 00:21:46,375
+[explosion]
+
+510
+00:21:46,458 --> 00:21:50,583
+[FROLAYTIA gasps]
+Which way is it?
+
+511
+00:21:50,666 --> 00:21:52,291
+[QWENTHUR]
+I can't tell.
+
+512
+00:21:52,375 --> 00:21:55,333
+It's reverberating too much
+through the mountains.
+
+513
+00:21:55,416 --> 00:21:57,250
+[QWENTHUR] Which of the
+three routes is it on?
+
+514
+00:21:57,333 --> 00:21:59,208
+We're screwed if
+we misread this.
+
+515
+00:21:59,291 --> 00:22:03,125
+We've only got one chance.
+
+516
+00:22:03,208 --> 00:22:04,458
+Which way...
+
+517
+00:22:04,541 --> 00:22:06,750
+Which direction is it?
+
+518
+00:23:38,875 --> 00:23:40,125
+[QWENTHUR, HAVIA]
+"Three-Legged Mountain Climbing
+
+519
+00:23:40,208 --> 00:23:41,708
+Is Life-and-Death".
+
+520
+00:23:41,791 --> 00:23:44,791
+[MILINDA] "The Artillery Battle
+in the Iguazú Mountains III".
+

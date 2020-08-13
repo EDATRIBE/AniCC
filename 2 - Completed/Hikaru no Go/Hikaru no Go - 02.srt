@@ -1,0 +1,1888 @@
+﻿1
+00:00:05,245 --> 00:00:09,052
+After many years inside a Go
+board, a spirit from the past,
+
+2
+00:00:09,086 --> 00:00:11,625
+known as Fujiwara-no-Sai,
+has returned,
+
+3
+00:00:11,658 --> 00:00:13,729
+visible only to Hikaru Shindo.
+
+4
+00:00:13,763 --> 00:00:17,671
+A master of Go, Sai seeks
+to play the Divine Move.
+
+5
+00:00:20,443 --> 00:00:22,147
+[theme music]
+
+6
+00:01:52,773 --> 00:01:54,376
+-He lost?
+
+7
+00:01:54,376 --> 00:01:56,247
+But he's as good as a pro.
+
+8
+00:02:02,828 --> 00:02:04,231
+[doorbell]
+
+9
+00:02:08,440 --> 00:02:09,542
+-Hi there.
+
+10
+00:02:09,542 --> 00:02:10,912
+-Well, hello, Akari.
+
+11
+00:02:11,146 --> 00:02:12,916
+-Is Hikaru at home?
+
+12
+00:02:13,150 --> 00:02:15,255
+-No, I'm afraid he's not here.
+
+13
+00:02:15,255 --> 00:02:17,492
+He's taking a Go class.
+
+14
+00:02:17,526 --> 00:02:19,163
+-Go class?
+
+15
+00:02:19,196 --> 00:02:20,431
+-Yeah, I know.
+
+16
+00:02:20,465 --> 00:02:23,405
+I wonder what's gotten
+into him lately.
+
+17
+00:02:23,405 --> 00:02:26,611
+-Hikaru plays Go?
+
+18
+00:02:26,645 --> 00:02:31,556
+-Let's examine this game setup
+a little closer, shall we?
+
+19
+00:02:31,589 --> 00:02:35,932
+Here, black descending
+is a good move.
+
+20
+00:02:36,165 --> 00:02:38,838
+Even if white plays
+the block here,
+
+21
+00:02:38,871 --> 00:02:41,276
+black plays an atari here.
+
+22
+00:02:41,310 --> 00:02:42,880
+The white captures two stones.
+
+23
+00:02:42,913 --> 00:02:45,519
+Black's next move will take
+away white's potential eye
+
+24
+00:02:45,552 --> 00:02:46,454
+on this side.
+
+25
+00:02:46,487 --> 00:02:47,923
+And all the white
+stones are dead.
+
+26
+00:02:51,464 --> 00:02:54,571
+-I don't have a clue
+what he's talking about.
+
+27
+00:02:54,571 --> 00:02:55,874
+-Of course, you don't.
+
+28
+00:02:55,907 --> 00:02:57,344
+You're just a beginner.
+
+29
+00:02:57,377 --> 00:03:00,316
+-That way your opponent won't
+guess how skilled you are.
+
+30
+00:03:00,351 --> 00:03:02,355
+Now, what would happen
+if black took away
+
+31
+00:03:02,388 --> 00:03:05,327
+the eye before making the atari.
+
+32
+00:03:05,361 --> 00:03:06,931
+-19, 16.
+
+33
+00:03:06,964 --> 00:03:08,401
+-Very good.
+
+34
+00:03:08,434 --> 00:03:11,407
+If black plays here, white
+lives by making the second eye--
+
+35
+00:03:11,440 --> 00:03:14,881
+-I wonder how good a
+player this instructor is.
+
+36
+00:03:14,881 --> 00:03:16,318
+-He's a pro.
+
+37
+00:03:16,351 --> 00:03:17,353
+-A pro?
+
+38
+00:03:17,353 --> 00:03:18,756
+-That means he's
+good enough that he
+
+39
+00:03:18,756 --> 00:03:21,461
+could make a living
+just from playing Go.
+
+40
+00:03:21,461 --> 00:03:22,932
+-That's it for my lecture.
+
+41
+00:03:22,965 --> 00:03:25,203
+Let's play some games.
+
+42
+00:03:25,237 --> 00:03:28,610
+[japanese]
+
+43
+00:03:28,610 --> 00:03:30,882
+-Let's see now.
+
+44
+00:03:30,915 --> 00:03:32,752
+You must be Hikaru Shindo.
+
+45
+00:03:32,786 --> 00:03:33,688
+-Uh, that's me.
+
+46
+00:03:33,721 --> 00:03:35,358
+-Have you played Go before?
+
+47
+00:03:35,391 --> 00:03:36,761
+-Yeah, but only this one time.
+
+48
+00:03:36,761 --> 00:03:38,899
+And honestly, I felt like I
+was watching the game more
+
+49
+00:03:38,932 --> 00:03:40,803
+than I was playing it.
+
+50
+00:03:40,836 --> 00:03:41,972
+-All right.
+
+51
+00:03:42,006 --> 00:03:43,542
+Then, we'll start with a
+game of capturing stones.
+
+52
+00:03:49,521 --> 00:03:51,927
+-Huh, I know this one.
+
+53
+00:03:51,927 --> 00:03:55,233
+A black gets captured if white
+puts a stone here, right?
+
+54
+00:03:55,233 --> 00:03:56,803
+-That's correct.
+
+55
+00:03:56,837 --> 00:03:59,676
+When we are just one move away
+from capturing an opponent's
+
+56
+00:03:59,709 --> 00:04:02,382
+stone or stones, we say atari.
+
+57
+00:04:02,416 --> 00:04:05,422
+Here, this is another example.
+
+58
+00:04:05,455 --> 00:04:06,391
+Atari.
+
+59
+00:04:06,391 --> 00:04:08,561
+OK, Hikaru, try to escape.
+
+60
+00:04:08,596 --> 00:04:11,602
+-Well, let's see.
+
+61
+00:04:11,635 --> 00:04:12,337
+-Atari, again.
+
+62
+00:04:15,410 --> 00:04:16,913
+Atari.
+
+63
+00:04:16,946 --> 00:04:17,515
+-Hmm.
+
+64
+00:04:20,387 --> 00:04:20,836
+-Atari.
+
+65
+00:04:24,429 --> 00:04:25,297
+And atari, again.
+
+66
+00:04:35,319 --> 00:04:37,590
+Thank you very much.
+
+67
+00:04:37,623 --> 00:04:38,073
+-Huh?
+
+68
+00:04:42,968 --> 00:04:45,740
+This pattern is called
+the Shichou or Ladder,
+
+69
+00:04:45,774 --> 00:04:48,647
+because it resembles one.
+
+70
+00:04:48,681 --> 00:04:51,553
+It's impossible to escape
+from and appears quite often.
+
+71
+00:04:51,587 --> 00:04:54,593
+So look for it as you watch
+the other players' games today.
+
+72
+00:05:01,674 --> 00:05:06,418
+-Uh, what should I do?
+
+73
+00:05:06,452 --> 00:05:09,324
+-Hikaru, are you
+going home already?
+
+74
+00:05:09,358 --> 00:05:10,426
+-Just taking a break.
+
+75
+00:05:13,333 --> 00:05:16,339
+-Oh, what is this?
+
+76
+00:05:16,339 --> 00:05:17,408
+-A vending machine.
+
+77
+00:05:17,441 --> 00:05:20,782
+You put your money in,
+and a drink comes out.
+
+78
+00:05:20,815 --> 00:05:21,384
+-Oh.
+
+79
+00:05:24,690 --> 00:05:25,140
+Oh.
+
+80
+00:05:27,897 --> 00:05:31,138
+-Oh, no, I'm late again.
+
+81
+00:05:31,371 --> 00:05:34,845
+Hikaru, are you learning
+how to play Go, too?
+
+82
+00:05:34,879 --> 00:05:36,616
+-Uh, yeah, sort of.
+
+83
+00:05:36,649 --> 00:05:39,021
+I have this friend who
+plays Go all the time.
+
+84
+00:05:39,055 --> 00:05:40,557
+We play every once in a while.
+
+85
+00:05:40,591 --> 00:05:43,497
+But it's not an easy game if you
+don't know anything about it.
+
+86
+00:05:43,531 --> 00:05:45,033
+I came here to learn
+some of the basics,
+
+87
+00:05:45,067 --> 00:05:47,539
+you know, like the rules
+and stuff like that.
+
+88
+00:05:47,572 --> 00:05:48,976
+But it's harder than I thought.
+
+89
+00:05:49,009 --> 00:05:52,048
+-So you're just
+killing some time here.
+
+90
+00:05:52,048 --> 00:05:53,117
+Oh, look.
+
+91
+00:05:53,150 --> 00:05:55,957
+They're showing the
+match on TV right now.
+
+92
+00:05:55,991 --> 00:05:57,794
+-Hikaru, what is this device?
+
+93
+00:05:57,828 --> 00:06:01,469
+People are playing Go
+inside that little box.
+
+94
+00:06:01,502 --> 00:06:04,743
+-Ah, we have a pause in play.
+
+95
+00:06:04,776 --> 00:06:07,114
+-I wonder what he's
+thinking about.
+
+96
+00:06:07,147 --> 00:06:10,888
+-I wonder what indeed.
+
+97
+00:06:10,922 --> 00:06:12,558
+Even from his
+opening move, I can
+
+98
+00:06:12,592 --> 00:06:15,599
+feel that Toya Meijin strives
+for something exceptional
+
+99
+00:06:15,632 --> 00:06:16,768
+when he plays.
+
+100
+00:06:16,801 --> 00:06:18,538
+Something that we
+cannot perceive.
+
+101
+00:06:21,411 --> 00:06:22,447
+-Oh, that's right.
+
+102
+00:06:22,480 --> 00:06:24,150
+They say he's the
+one who has come
+
+103
+00:06:24,183 --> 00:06:27,490
+the closest to playing
+the Divine Move.
+
+104
+00:06:27,524 --> 00:06:28,660
+-Divine Move?
+
+105
+00:06:28,694 --> 00:06:31,198
+-I know it's silly, but
+I'm such a big fan of his.
+
+106
+00:06:34,940 --> 00:06:39,450
+-This man is no
+ordinary Go player.
+
+107
+00:06:39,450 --> 00:06:43,524
+Like me, he yearns to
+play the Divine Move.
+
+108
+00:06:43,558 --> 00:06:46,832
+-Our viewers might be interested
+in hearing that Toya Meijin has
+
+109
+00:06:46,865 --> 00:06:48,802
+a son who aspires to be a pro.
+
+110
+00:06:48,836 --> 00:06:51,174
+-Yes, in fact, he's
+quite a strong player.
+
+111
+00:06:51,208 --> 00:06:53,980
+-Hey, lady, don't you have
+to go to class or something?
+
+112
+00:06:54,013 --> 00:06:55,884
+-Oh, yeah, that's right.
+
+113
+00:06:55,917 --> 00:06:58,456
+That Shirakawa Sensei is
+really good-looking, too.
+
+114
+00:06:58,490 --> 00:07:01,129
+-Eh.
+
+115
+00:07:01,129 --> 00:07:01,930
+-Hello there.
+
+116
+00:07:01,964 --> 00:07:03,133
+Come on in.
+
+117
+00:07:03,133 --> 00:07:04,803
+-Is Akira Sensei here?
+
+118
+00:07:04,836 --> 00:07:06,908
+I was hoping he would
+play a game with me.
+
+119
+00:07:06,941 --> 00:07:09,647
+-Uh, well, he's here.
+
+120
+00:07:09,680 --> 00:07:11,851
+But he might not want to play.
+
+121
+00:07:11,885 --> 00:07:14,690
+He hasn't played anyone
+since that game last week.
+
+122
+00:07:14,725 --> 00:07:18,833
+All he does is replay that
+one game over and over again.
+
+123
+00:07:18,866 --> 00:07:19,902
+-I heard about that.
+
+124
+00:07:19,935 --> 00:07:21,739
+That's the one where
+he lost by two points
+
+125
+00:07:21,739 --> 00:07:22,942
+to a boy his own age.
+
+126
+00:07:29,924 --> 00:07:31,126
+-I'm leaving now.
+
+127
+00:07:31,159 --> 00:07:34,233
+-Uh, well, be careful
+on your way home.
+
+128
+00:07:34,266 --> 00:07:35,836
+-Still here, Akira?
+
+129
+00:07:35,869 --> 00:07:37,907
+I bet your mother
+gets pretty worried
+
+130
+00:07:37,907 --> 00:07:39,176
+when you stay out this late.
+
+131
+00:07:42,584 --> 00:07:44,889
+Akira's sure acting
+strange, isn't he?
+
+132
+00:07:44,922 --> 00:07:46,592
+-Maybe, a little.
+
+133
+00:07:51,269 --> 00:07:54,743
+-That move and the next one.
+
+134
+00:07:54,776 --> 00:07:57,582
+It's like he was
+playing a teaching game.
+
+135
+00:07:57,616 --> 00:07:58,851
+Could he really be that good?
+
+136
+00:08:02,025 --> 00:08:03,795
+No, there's no way.
+
+137
+00:08:03,829 --> 00:08:05,833
+There's no way a kid
+could be that good.
+
+138
+00:08:08,305 --> 00:08:10,075
+I just don't understand.
+
+139
+00:08:10,075 --> 00:08:12,548
+Who is he?
+
+140
+00:08:12,548 --> 00:08:14,151
+[music playing]
+
+141
+00:09:05,192 --> 00:09:07,264
+-Well, that's all for today.
+
+142
+00:09:07,297 --> 00:09:08,600
+Don't forget your homework.
+
+143
+00:09:11,740 --> 00:09:13,711
+Take care on your
+way home, everyone.
+
+144
+00:09:13,744 --> 00:09:14,613
+-See ya.
+
+145
+00:09:14,646 --> 00:09:15,882
+-Uh, Hikaru.
+
+146
+00:09:15,882 --> 00:09:17,018
+-Huh?
+
+147
+00:09:17,018 --> 00:09:19,122
+-Your social studies
+scores have been very good
+
+148
+00:09:19,156 --> 00:09:22,363
+lately, though you do seem to
+be daydreaming quite a bit.
+
+149
+00:09:22,396 --> 00:09:24,701
+Have you been
+working with a tutor?
+
+150
+00:09:24,734 --> 00:09:26,037
+-Uh, yeah, yeah.
+
+151
+00:09:26,071 --> 00:09:27,173
+Something like that.
+
+152
+00:09:27,206 --> 00:09:31,215
+But uh, he can be a
+real pain sometimes.
+
+153
+00:09:31,248 --> 00:09:33,286
+-Well, it's paying
+off, so keep it up.
+
+154
+00:09:33,286 --> 00:09:34,388
+-I will.
+
+155
+00:09:34,621 --> 00:09:35,624
+Bye.
+
+156
+00:09:35,624 --> 00:09:37,027
+-Be careful on your
+way home, Hikaru.
+
+157
+00:09:37,060 --> 00:09:39,365
+-OK.
+
+158
+00:09:39,399 --> 00:09:40,301
+-Wait up!
+
+159
+00:09:40,334 --> 00:09:41,303
+-Huh?
+
+160
+00:09:41,303 --> 00:09:42,638
+-Hey, Hikaru.
+
+161
+00:09:42,638 --> 00:09:44,142
+What's going with you lately?
+
+162
+00:09:44,175 --> 00:09:46,414
+You did all your corrections
+in social studies,
+
+163
+00:09:46,647 --> 00:09:48,318
+but you're slacking
+off in gym class.
+
+164
+00:09:48,351 --> 00:09:50,021
+And that's your best subject.
+
+165
+00:09:50,055 --> 00:09:52,192
+-Is there something weird
+about doing the corrections
+
+166
+00:09:52,226 --> 00:09:53,194
+on my test?
+
+167
+00:09:53,228 --> 00:09:55,833
+-No, there's nothing
+wrong with it.
+
+168
+00:09:55,867 --> 00:09:57,737
+Look, tomorrow's Sunday.
+
+169
+00:09:57,772 --> 00:09:59,742
+Do you want to
+hang out together?
+
+170
+00:09:59,776 --> 00:10:01,078
+-Tomorrow?
+
+171
+00:10:01,111 --> 00:10:02,982
+I'm busy tomorrow.
+
+172
+00:10:03,015 --> 00:10:04,685
+I have to go someplace.
+
+173
+00:10:04,719 --> 00:10:06,857
+-Are you going to Go class?
+
+174
+00:10:06,891 --> 00:10:08,326
+-Uh, you know about that?
+
+175
+00:10:08,360 --> 00:10:10,331
+Well, yeah.
+
+176
+00:10:10,365 --> 00:10:11,934
+-You want to come, too?
+
+177
+00:10:11,934 --> 00:10:12,669
+-Me?
+
+178
+00:10:12,702 --> 00:10:13,939
+Let me think about it.
+
+179
+00:10:19,985 --> 00:10:20,786
+Hello.
+
+180
+00:10:20,821 --> 00:10:22,156
+I'm very pleased to meet you.
+
+181
+00:10:22,190 --> 00:10:23,860
+-I hope you don't
+mind, but my friend
+
+182
+00:10:23,860 --> 00:10:26,332
+wanted to come along and
+watch for a little bit.
+
+183
+00:10:26,365 --> 00:10:27,902
+-Hmm, not at all.
+
+184
+00:10:27,936 --> 00:10:32,912
+Anyone with an interest in Go
+is most certainly welcome here.
+
+185
+00:10:32,946 --> 00:10:35,218
+Today, many players
+open at a star point.
+
+186
+00:10:35,251 --> 00:10:38,324
+But the 3, 4 point
+still has its fans.
+
+187
+00:10:38,357 --> 00:10:40,796
+By making the knight's
+move enclosure like so,
+
+188
+00:10:40,829 --> 00:10:43,068
+we can effectively
+secure that corner.
+
+189
+00:10:43,101 --> 00:10:46,274
+-Hikaru, do you understand
+what he's talking about?
+
+190
+00:10:46,307 --> 00:10:48,245
+-Haha, not a word.
+
+191
+00:10:48,278 --> 00:10:49,748
+-But this is a good position.
+
+192
+00:10:49,748 --> 00:10:53,222
+And your opponent won't always
+allow you to set up like this.
+
+193
+00:10:53,256 --> 00:10:55,360
+Let's say white goes here.
+
+194
+00:10:55,394 --> 00:10:58,935
+How should black respond?
+
+195
+00:10:58,968 --> 00:11:00,772
+-Hey, I know this one.
+
+196
+00:11:00,805 --> 00:11:01,373
+-Huh?
+
+197
+00:11:01,406 --> 00:11:03,243
+Ah, Hikaru, was it?
+
+198
+00:11:03,277 --> 00:11:05,348
+Well, where would
+you place your stone?
+
+199
+00:11:05,382 --> 00:11:08,521
+-16, 5.
+
+200
+00:11:08,722 --> 00:11:11,762
+-It's 16, 5, just
+below the star point.
+
+201
+00:11:11,795 --> 00:11:12,730
+-Ah.
+
+202
+00:11:12,764 --> 00:11:15,837
+-16, 5, here?
+
+203
+00:11:15,871 --> 00:11:17,040
+Oh.
+
+204
+00:11:17,040 --> 00:11:18,510
+-Huh?
+
+205
+00:11:18,743 --> 00:11:21,014
+-Eh.
+
+206
+00:11:21,048 --> 00:11:23,821
+-I thought you said you'd
+never played Go before.
+
+207
+00:11:23,854 --> 00:11:25,357
+-Uh, was I wrong?
+
+208
+00:11:25,390 --> 00:11:26,460
+Sorry about that.
+
+209
+00:11:26,493 --> 00:11:27,762
+-On the contrary.
+
+210
+00:11:27,796 --> 00:11:30,501
+That's a very good move.
+
+211
+00:11:30,535 --> 00:11:31,771
+-Huh?
+
+212
+00:11:31,805 --> 00:11:33,508
+-We don't see it quite
+so often nowadays.
+
+213
+00:11:33,542 --> 00:11:36,080
+But it was a popular
+move in the past.
+
+214
+00:11:36,113 --> 00:11:37,817
+-Oh.
+
+215
+00:11:37,817 --> 00:11:38,352
+-Haha.
+
+216
+00:11:38,385 --> 00:11:39,989
+You can sit down now.
+
+217
+00:11:40,022 --> 00:11:41,826
+-OK.
+
+218
+00:11:41,859 --> 00:11:45,367
+Excuse me, why don't they
+play this move anymore?
+
+219
+00:11:45,400 --> 00:11:48,339
+-Because the komi rule
+wasn't in effect long ago.
+
+220
+00:11:48,373 --> 00:11:49,909
+-The komi?
+
+221
+00:11:49,943 --> 00:11:52,215
+-Well, black has the
+advantage of playing first.
+
+222
+00:11:52,215 --> 00:11:55,087
+So white is awarded 5 and
+1/2 points at the start
+
+223
+00:11:55,121 --> 00:11:55,989
+to compensate.
+
+224
+00:11:56,023 --> 00:11:56,858
+-Huh?
+
+225
+00:11:56,891 --> 00:11:58,160
+-Oh.
+
+226
+00:11:58,193 --> 00:12:00,832
+-In other words, if white's
+final tally comes to 50 points,
+
+227
+00:12:00,832 --> 00:12:04,541
+black requires 56
+points to win the game.
+
+228
+00:12:04,574 --> 00:12:07,146
+-Ah, 5 and a 1/2 points.
+
+229
+00:12:07,180 --> 00:12:09,184
+-So you've never heard of this?
+
+230
+00:12:09,217 --> 00:12:12,925
+-There was no such rule
+during Shusaku's time.
+
+231
+00:12:12,958 --> 00:12:15,431
+-Hmm, it never crossed
+your mind that black
+
+232
+00:12:15,464 --> 00:12:17,368
+might have an advantage?
+
+233
+00:12:17,368 --> 00:12:20,240
+-Now that I think about it,
+I've never lost playing black.
+
+234
+00:12:20,274 --> 00:12:21,977
+-Give me a break.
+
+235
+00:12:21,977 --> 00:12:23,046
+-I see.
+
+236
+00:12:23,080 --> 00:12:25,585
+Komi is worth 5 and 1/2 points.
+
+237
+00:12:25,820 --> 00:12:28,224
+-Following the inception
+of the komi rule,
+
+238
+00:12:28,257 --> 00:12:30,863
+it was felt that moving
+on the diagonal like this
+
+239
+00:12:30,863 --> 00:12:32,266
+was a bit slow.
+
+240
+00:12:32,300 --> 00:12:36,274
+This particular move isn't
+played too often anymore.
+
+241
+00:12:36,274 --> 00:12:39,081
+Nevertheless, in a lot of
+ways, it is an exquisite move.
+
+242
+00:12:44,191 --> 00:12:46,230
+Place one stone if
+you think Hikaru
+
+243
+00:12:46,263 --> 00:12:49,035
+is holding an odd number
+of stones in his hand.
+
+244
+00:12:49,069 --> 00:12:53,912
+Place two if you think he's
+holding an even number.
+
+245
+00:12:53,945 --> 00:12:56,317
+OK, Hikaru, count
+out your stones.
+
+246
+00:12:56,351 --> 00:12:59,290
+-2, 4, 6, 8, 9, odd.
+
+247
+00:12:59,290 --> 00:13:00,560
+-I guessed right.
+
+248
+00:13:00,560 --> 00:13:02,597
+-Then you'll be black.
+
+249
+00:13:02,631 --> 00:13:04,969
+This is how we
+determine who goes first
+
+250
+00:13:05,003 --> 00:13:07,575
+when both players
+are of equal skill.
+
+251
+00:13:07,575 --> 00:13:10,114
+-Huh?
+
+252
+00:13:10,147 --> 00:13:11,951
+-Professionals
+played these games.
+
+253
+00:13:11,984 --> 00:13:15,357
+Replay one of them so you can
+get a feel for what Go is like.
+
+254
+00:13:15,391 --> 00:13:19,533
+I'll come back in
+a little while.
+
+255
+00:13:19,567 --> 00:13:21,037
+-Ah.
+
+256
+00:13:21,070 --> 00:13:23,308
+-Hey, do you know
+what to do, Hikaru?
+
+257
+00:13:23,308 --> 00:13:26,448
+-I think we're supposed to
+set up our stones according
+
+258
+00:13:26,448 --> 00:13:27,550
+to the numbers.
+
+259
+00:13:27,584 --> 00:13:29,922
+Your first move is
+right here, Akari.
+
+260
+00:13:29,922 --> 00:13:30,389
+-It's where?
+
+261
+00:13:30,423 --> 00:13:31,993
+-Uh, right here.
+
+262
+00:13:32,026 --> 00:13:33,630
+-Thanks for the
+six stones, buddy.
+
+263
+00:13:33,663 --> 00:13:35,000
+-Huh?
+
+264
+00:13:35,033 --> 00:13:38,941
+-You sure do like giving
+up your stones, don't ya?
+
+265
+00:13:38,941 --> 00:13:42,282
+-Mr. Akota is picking on
+a weaker player, again?
+
+266
+00:13:42,315 --> 00:13:43,952
+Ah, the bully.
+
+267
+00:13:43,952 --> 00:13:45,121
+-Ha ha ha.
+
+268
+00:13:45,154 --> 00:13:49,564
+Don't take this personally,
+but that was a dumb move.
+
+269
+00:13:49,597 --> 00:13:53,505
+I've never met anyone you
+liked losing as much as you.
+
+270
+00:13:53,505 --> 00:13:55,009
+-Wait a sec.
+
+271
+00:13:55,042 --> 00:13:56,412
+-I can't take this anymore.
+
+272
+00:13:56,445 --> 00:13:58,483
+Hikaru, trade places
+with that man's opponent.
+
+273
+00:13:58,483 --> 00:14:02,425
+I despise this braggart's
+attitude and playing style.
+
+274
+00:14:02,458 --> 00:14:03,694
+-Sai?
+
+275
+00:14:03,927 --> 00:14:06,500
+-I refuse to stand by while
+a stronger player ridicules
+
+276
+00:14:06,500 --> 00:14:08,103
+a weaker one.
+
+277
+00:14:08,103 --> 00:14:11,411
+I shall replace his frightened
+opponent and engage him anew.
+
+278
+00:14:11,444 --> 00:14:13,448
+He will learn how it feels
+to be on the receiving
+
+279
+00:14:13,481 --> 00:14:14,985
+end of such cruel play.
+
+280
+00:14:14,985 --> 00:14:18,592
+And then, when the game is done,
+I shall chastise him soundly.
+
+281
+00:14:18,626 --> 00:14:21,632
+-Oops, sorry.
+
+282
+00:14:21,665 --> 00:14:23,102
+-What's the big idea, kid?
+
+283
+00:14:23,135 --> 00:14:26,743
+Your clumsiness just ruined
+a perfectly good game.
+
+284
+00:14:26,976 --> 00:14:29,215
+-Sorry, it kind of
+slipped from my fingers.
+
+285
+00:14:29,248 --> 00:14:30,050
+-Huh.
+
+286
+00:14:30,084 --> 00:14:31,386
+-I'll start picking them up.
+
+287
+00:14:31,419 --> 00:14:32,556
+-Hey, what are you doing?
+
+288
+00:14:32,589 --> 00:14:33,424
+No, don't touch that.
+
+289
+00:14:33,458 --> 00:14:34,460
+No, leave it alone.
+
+290
+00:14:34,493 --> 00:14:35,060
+Ah.
+
+291
+00:14:39,536 --> 00:14:42,477
+-Hikaru, I want you
+out of here right now.
+
+292
+00:14:42,510 --> 00:14:44,982
+-Hey, did you bring me
+here just to embarrass me?
+
+293
+00:14:45,015 --> 00:14:46,485
+-I didn't bring you.
+
+294
+00:14:46,518 --> 00:14:47,988
+You decided to follow me.
+
+295
+00:14:48,021 --> 00:14:50,560
+-Oh, forget it.
+
+296
+00:14:50,594 --> 00:14:52,164
+-You've angered the instructor.
+
+297
+00:14:52,164 --> 00:14:56,038
+And now, he's never going to
+let us come back and play.
+
+298
+00:14:56,072 --> 00:14:57,442
+-Ah.
+
+299
+00:14:57,442 --> 00:14:59,246
+Huh?
+
+300
+00:14:59,279 --> 00:14:59,728
+Wait.
+
+301
+00:15:03,688 --> 00:15:05,426
+-By the way, there's
+a Go tournament
+
+302
+00:15:05,426 --> 00:15:07,096
+for kids coming up soon.
+
+303
+00:15:07,129 --> 00:15:08,565
+-How about I take you to this?
+
+304
+00:15:08,598 --> 00:15:11,237
+Will that cheer you up?
+
+305
+00:15:11,271 --> 00:15:11,721
+-Hikaru.
+
+306
+00:15:42,170 --> 00:15:44,140
+-There's so much
+tension in the air.
+
+307
+00:15:44,174 --> 00:15:46,479
+These kids are even
+younger than I am.
+
+308
+00:15:46,479 --> 00:15:48,049
+Huh?
+
+309
+00:15:48,083 --> 00:15:49,786
+Those people over there
+must be their parents
+
+310
+00:15:49,820 --> 00:15:50,755
+and family members.
+
+311
+00:15:56,467 --> 00:15:58,437
+Sai, this is incredible.
+
+312
+00:15:58,472 --> 00:16:00,309
+-Indeed.
+
+313
+00:16:00,342 --> 00:16:02,179
+Truly wonderous.
+
+314
+00:16:02,213 --> 00:16:03,682
+All these children.
+
+315
+00:16:03,715 --> 00:16:06,756
+Though my passion for Go
+may be a thousand years old,
+
+316
+00:16:06,789 --> 00:16:10,330
+I see the same
+fervor in their eyes.
+
+317
+00:16:10,363 --> 00:16:11,800
+This tells me that
+a thousand years
+
+318
+00:16:11,833 --> 00:16:14,171
+hence, if I were to
+search, I would still
+
+319
+00:16:14,204 --> 00:16:16,677
+find people with the
+very same passion.
+
+320
+00:16:23,692 --> 00:16:26,798
+-You know, I wonder
+if Akira Toya's here.
+
+321
+00:16:29,403 --> 00:16:30,840
+-Hello, Akira.
+
+322
+00:16:30,873 --> 00:16:32,844
+Mr. Hirosei wants
+to know if you'd
+
+323
+00:16:32,877 --> 00:16:35,583
+like to play a
+teaching game with him.
+
+324
+00:16:35,617 --> 00:16:36,185
+-I'm sorry.
+
+325
+00:16:36,218 --> 00:16:38,724
+I can't.
+
+326
+00:16:38,757 --> 00:16:40,694
+-Are you waiting for that boy?
+
+327
+00:16:43,533 --> 00:16:45,137
+-There are so many people here.
+
+328
+00:16:45,170 --> 00:16:47,542
+I'll never find him.
+
+329
+00:16:47,576 --> 00:16:49,813
+-That battle in the
+upper left corner.
+
+330
+00:16:49,847 --> 00:16:50,448
+-Huh?
+
+331
+00:16:50,482 --> 00:16:51,685
+This one?
+
+332
+00:16:51,685 --> 00:16:54,457
+-The wrong move by black
+will leave him dead there.
+
+333
+00:16:54,491 --> 00:16:55,292
+-Oh?
+
+334
+00:16:55,326 --> 00:16:57,898
+-The key move there is 1, 2.
+
+335
+00:16:58,132 --> 00:16:58,900
+-Oh, too bad.
+
+336
+00:16:59,134 --> 00:17:00,637
+You should have
+played it one higher.
+
+337
+00:17:00,671 --> 00:17:01,506
+-Huh?
+
+338
+00:17:01,539 --> 00:17:01,988
+-Uh.
+
+339
+00:17:02,140 --> 00:17:02,564
+-Huh?
+
+340
+00:17:02,564 --> 00:17:02,875
+Oh.
+
+341
+00:17:02,875 --> 00:17:04,445
+-You there.
+
+342
+00:17:04,445 --> 00:17:05,714
+What's the matter with you, kid?
+
+343
+00:17:05,747 --> 00:17:08,587
+No comments are allowed
+when the game's in progress.
+
+344
+00:17:08,587 --> 00:17:09,790
+-Uh, I'm sorry.
+
+345
+00:17:09,823 --> 00:17:10,591
+-Easy there.
+
+346
+00:17:10,625 --> 00:17:12,295
+Everybody, please calm down.
+
+347
+00:17:12,328 --> 00:17:16,203
+-Ah, Ogata Sensei, I was
+about to take this unruly boy
+
+348
+00:17:16,236 --> 00:17:17,205
+off the floor.
+
+349
+00:17:17,238 --> 00:17:18,642
+-Good idea.
+
+350
+00:17:18,675 --> 00:17:19,911
+-Come with me.
+
+351
+00:17:20,145 --> 00:17:20,879
+-What?
+
+352
+00:17:20,914 --> 00:17:22,183
+-Sorry for the
+interruption, kids.
+
+353
+00:17:22,216 --> 00:17:24,588
+Pick up your games where
+you left off, please.
+
+354
+00:17:24,588 --> 00:17:27,327
+So tell me what happened.
+
+355
+00:17:27,360 --> 00:17:30,735
+-When I played 1, 3, that
+boy said, oh, too bad.
+
+356
+00:17:30,735 --> 00:17:32,337
+Should have played
+it one higher.
+
+357
+00:17:32,337 --> 00:17:34,242
+-He what?
+
+358
+00:17:34,275 --> 00:17:35,478
+-I just remembered.
+
+359
+00:17:35,511 --> 00:17:37,315
+When that boy was
+here, I handed him
+
+360
+00:17:37,348 --> 00:17:40,221
+a flyer for the National
+Youth Go Tournament.
+
+361
+00:17:40,221 --> 00:17:41,624
+-The one at the Go Association?
+
+362
+00:17:41,657 --> 00:17:42,793
+-Yes.
+
+363
+00:17:42,826 --> 00:17:44,597
+He didn't seem interested
+when I showed it to him,
+
+364
+00:17:44,630 --> 00:17:47,302
+but he might have gone.
+
+365
+00:17:47,336 --> 00:17:48,304
+-Ah.
+
+366
+00:17:48,338 --> 00:17:49,541
+-Akira.
+
+367
+00:17:49,574 --> 00:17:52,180
+-Please, if he shows up, keep
+him here till I get back.
+
+368
+00:17:54,619 --> 00:17:56,221
+-What's gotten into him?
+
+369
+00:17:56,221 --> 00:17:57,491
+He's changed.
+
+370
+00:17:57,491 --> 00:17:58,960
+-Maybe it's because
+he's never met
+
+371
+00:17:59,195 --> 00:18:00,697
+someone he could
+call a rival before.
+
+372
+00:18:09,784 --> 00:18:10,920
+-Unacceptable.
+
+373
+00:18:10,953 --> 00:18:13,659
+There's no excuse for a slip
+of the tongue like that,
+
+374
+00:18:13,659 --> 00:18:14,661
+young man.
+
+375
+00:18:14,661 --> 00:18:15,529
+-Yes, sir.
+
+376
+00:18:15,563 --> 00:18:17,333
+-So how did you rule on it?
+
+377
+00:18:17,366 --> 00:18:19,538
+We decided to nullify
+the match and have
+
+378
+00:18:19,572 --> 00:18:21,509
+the two boys start another game.
+
+379
+00:18:21,542 --> 00:18:23,713
+-Yes, you had no choice really.
+
+380
+00:18:23,746 --> 00:18:25,317
+-We're done with you.
+
+381
+00:18:25,350 --> 00:18:27,287
+Go home now.
+
+382
+00:18:27,321 --> 00:18:30,895
+-Sorry for all the trouble, sir.
+
+383
+00:18:30,929 --> 00:18:31,496
+Hmm.
+
+384
+00:18:35,304 --> 00:18:36,474
+-I'm glad that's over.
+
+385
+00:18:36,507 --> 00:18:38,612
+Now, tell me about the
+move he commented on.
+
+386
+00:18:41,719 --> 00:18:43,288
+-Hey, son, your change.
+
+387
+00:18:48,834 --> 00:18:51,473
+-Boy, did I ever mess that up.
+
+388
+00:18:51,506 --> 00:18:53,911
+-I feel bad for those two boys.
+
+389
+00:18:53,945 --> 00:18:55,849
+-Ugh.
+
+390
+00:18:55,849 --> 00:18:56,416
+Huh?
+
+391
+00:19:02,596 --> 00:19:05,335
+-You should be more careful.
+
+392
+00:19:05,368 --> 00:19:05,818
+-Huh?
+
+393
+00:19:10,746 --> 00:19:12,718
+-He is the one.
+
+394
+00:19:12,718 --> 00:19:15,457
+The man closest to
+playing the Divine Move.
+
+395
+00:19:26,714 --> 00:19:29,019
+-I heard there was
+some trouble earlier.
+
+396
+00:19:29,052 --> 00:19:31,591
+-Yes, Toya Sensei.
+
+397
+00:19:31,591 --> 00:19:32,426
+-Take a look.
+
+398
+00:19:32,460 --> 00:19:35,867
+We need your advice on this.
+
+399
+00:19:35,900 --> 00:19:37,671
+-This game is such
+that even a pro
+
+400
+00:19:37,704 --> 00:19:38,906
+would have to reflect a while.
+
+401
+00:19:38,940 --> 00:19:42,514
+But a boy commented on it.
+
+402
+00:19:42,547 --> 00:19:45,388
+-We were told he
+merely glanced down.
+
+403
+00:19:45,421 --> 00:19:47,057
+-You don't say.
+
+404
+00:19:47,090 --> 00:19:50,598
+He recognized the key to black
+survival at a mere glance?
+
+405
+00:19:50,631 --> 00:19:53,037
+My son Akira might
+have spotted it,
+
+406
+00:19:53,070 --> 00:19:55,509
+but I didn't know there was
+another child of his level
+
+407
+00:19:55,509 --> 00:19:56,677
+out there.
+
+408
+00:19:56,711 --> 00:19:59,684
+-And they let him go without
+even getting his name.
+
+409
+00:19:59,718 --> 00:20:00,987
+-I'm sorry, sir.
+
+410
+00:20:01,020 --> 00:20:02,857
+-It doesn't matter.
+
+411
+00:20:02,891 --> 00:20:07,501
+If this boy's that
+strong of a player,
+
+412
+00:20:07,501 --> 00:20:11,543
+then he will make his presence
+known to us, sooner or later.
+
+413
+00:20:21,898 --> 00:20:24,938
+-It's all your fault, Sai,
+for opening your big mouth.
+
+414
+00:20:27,945 --> 00:20:29,547
+Oh, so you want to fight, do ya?
+
+415
+00:20:29,581 --> 00:20:31,084
+Well, I'm never going
+to play Go again.
+
+416
+00:20:31,084 --> 00:20:32,521
+How do you like that?
+
+417
+00:20:32,554 --> 00:20:33,490
+-Hikaru.
+
+418
+00:20:33,523 --> 00:20:33,972
+-Hmm?
+
+419
+00:20:40,805 --> 00:20:41,373
+-Akira?
+
+420
+00:20:45,114 --> 00:20:48,855
+-I found you.
+
+421
+00:20:48,889 --> 00:20:53,431
+I finally found
+you, Hikaru Shindo.
+
+422
+00:20:53,465 --> 00:20:55,035
+[theme music]
+
+423
+00:22:22,221 --> 00:22:23,657
+-I see.
+
+424
+00:22:23,690 --> 00:22:26,196
+So you are the one
+who beat Akira.
+
+425
+00:22:26,196 --> 00:22:28,796
+Put down three
+stones, young man.
+
+426
+00:22:28,796 --> 00:22:30,898
+That's how I play with Akira.
+
+427
+00:22:30,931 --> 00:22:33,767
+That's how good he is.
+
+428
+00:22:33,767 --> 00:22:35,169
+-Me, a pro?
+
+429
+00:22:35,169 --> 00:22:36,637
+It's never even crossed my mind.
+
+430
+00:22:46,113 --> 00:22:50,050
+-A true Go player would never
+say something so insulting.
+

@@ -1,0 +1,1769 @@
+﻿1
+00:00:05,110 --> 00:00:07,549
+NARRATOR: After many
+years inside a Go board,
+
+2
+00:00:07,582 --> 00:00:10,455
+a spirit from the past
+known as Fujiwara-no-Sai
+
+3
+00:00:10,488 --> 00:00:13,294
+has returned, visible
+only to Hikaru Shindou.
+
+4
+00:00:13,327 --> 00:00:18,170
+A master of Go, Sai seeks
+to play the Divine Move.
+
+5
+00:00:18,204 --> 00:00:21,176
+[theme music]
+
+6
+00:01:49,256 --> 00:01:50,292
+-Is it it true?
+
+7
+00:01:50,325 --> 00:01:53,466
+I can really play as
+much Go as I want?
+
+8
+00:01:53,499 --> 00:01:54,166
+-Yeah!
+
+9
+00:01:54,200 --> 00:01:56,137
+Let's get started.
+
+10
+00:01:56,170 --> 00:02:01,648
+S-A-I. Sai!
+
+11
+00:02:07,594 --> 00:02:09,431
+OK, let's do it!
+
+12
+00:02:25,397 --> 00:02:26,366
+[beep]
+
+13
+00:02:26,399 --> 00:02:26,848
+-Huh?
+
+14
+00:02:30,775 --> 00:02:32,311
+-Is everything OK?
+
+15
+00:02:32,344 --> 00:02:33,548
+-Uh, someone sent me a message.
+
+16
+00:02:33,581 --> 00:02:35,518
+Can you tell me what
+they're trying to say?
+
+17
+00:02:35,552 --> 00:02:38,256
+-Uh, let me have a look.
+
+18
+00:02:38,291 --> 00:02:40,428
+He's saying that you're
+too good a player.
+
+19
+00:02:40,461 --> 00:02:42,599
+He wants to know
+if you're a pro.
+
+20
+00:02:42,632 --> 00:02:43,935
+He seems impressed.
+
+21
+00:02:44,169 --> 00:02:46,173
+HIKARU: That's because
+he's not very good.
+
+22
+00:02:46,173 --> 00:02:48,344
+-Don't you wanna answer him?
+
+23
+00:02:48,377 --> 00:02:49,646
+HIKARU: Ugh, no way.
+
+24
+00:02:49,680 --> 00:02:52,152
+-Then you have to bring
+the cursor over to this box
+
+25
+00:02:52,152 --> 00:02:53,154
+and click here.
+
+26
+00:02:53,154 --> 00:02:54,256
+Why are you looking at me?
+
+27
+00:02:54,289 --> 00:02:56,260
+Watch the screen.
+
+28
+00:02:56,293 --> 00:02:57,563
+-OK.
+
+29
+00:02:57,597 --> 00:03:00,736
+-If you don't want to answer,
+just close the dialog window.
+
+30
+00:03:00,769 --> 00:03:01,638
+-Thanks for the help.
+
+31
+00:03:01,671 --> 00:03:03,508
+-Not a problem.
+
+32
+00:03:03,542 --> 00:03:07,516
+Let me know if you
+get stuck again.
+
+33
+00:03:07,550 --> 00:03:09,687
+-I think I need some
+computer lessons.
+
+34
+00:03:09,721 --> 00:03:10,790
+-I am astounded.
+
+35
+00:03:10,824 --> 00:03:13,295
+Can you tell me, how
+does this-- this box let
+
+36
+00:03:13,328 --> 00:03:15,734
+us play against so many
+different opponents?
+
+37
+00:03:15,767 --> 00:03:17,604
+-How should I know?
+
+38
+00:03:17,604 --> 00:03:18,606
+-Oh.
+
+39
+00:03:18,640 --> 00:03:19,775
+Hey.
+
+40
+00:03:19,808 --> 00:03:22,246
+Do you think people are inside?
+
+41
+00:03:22,281 --> 00:03:23,850
+-Right.
+
+42
+00:03:23,850 --> 00:03:25,220
+Time for a new game.
+
+43
+00:03:27,791 --> 00:03:29,561
+We'll find someone
+who's Japanese.
+
+44
+00:03:29,595 --> 00:03:32,969
+Sai, would you quite doing that?
+
+45
+00:03:33,202 --> 00:03:33,737
+Let's see.
+
+46
+00:03:36,442 --> 00:03:38,580
+-The way he responded
+seems a bit immature.
+
+47
+00:03:38,614 --> 00:03:39,716
+I bet this person is a kid.
+
+48
+00:03:42,989 --> 00:03:44,326
+-Look, it's zelda.
+
+49
+00:03:44,359 --> 00:03:46,830
+I hope you're ready
+for another game, Sai.
+
+50
+00:03:46,863 --> 00:03:47,799
+-Oh!
+
+51
+00:03:47,832 --> 00:03:50,604
+This is the happiest
+day of my life!
+
+52
+00:03:50,638 --> 00:03:51,908
+I get to play more Go games.
+
+53
+00:03:51,941 --> 00:03:53,811
+-I don't think I've ever
+seen you this happy.
+
+54
+00:03:53,845 --> 00:03:54,746
+-I get to play more Go games.
+
+55
+00:03:54,746 --> 00:03:56,216
+I get to play more Go games.
+
+56
+00:03:56,249 --> 00:03:57,485
+-This is just the
+beginning, Sai.
+
+57
+00:03:57,485 --> 00:03:58,888
+We've got the whole summer!
+
+58
+00:03:58,922 --> 00:03:59,757
+-Wait a minute.
+
+59
+00:03:59,757 --> 00:04:01,326
+This guy's Japanese.
+
+60
+00:04:01,360 --> 00:04:03,364
+And I think he
+might even be a kid.
+
+61
+00:04:03,364 --> 00:04:05,769
+-Is he skilled?
+
+62
+00:04:05,769 --> 00:04:07,473
+-I don't know.
+
+63
+00:04:07,506 --> 00:04:08,775
+-Please be cautious.
+
+64
+00:04:08,775 --> 00:04:11,614
+Last time you clicked on the
+wrong spot and ended our game.
+
+65
+00:04:11,647 --> 00:04:13,284
+-I already told you,
+I'm still trying
+
+66
+00:04:13,318 --> 00:04:14,787
+to figure out how to
+use this computer.
+
+67
+00:04:28,449 --> 00:04:29,251
+BOY: This is weird.
+
+68
+00:04:32,524 --> 00:04:33,826
+Who's this Sai?
+
+69
+00:04:33,859 --> 00:04:34,661
+He's good.
+
+70
+00:04:39,271 --> 00:04:40,540
+HIKARU: Well, what do you think?
+
+71
+00:04:40,540 --> 00:04:42,945
+Is this guy any good?
+
+72
+00:04:42,945 --> 00:04:44,448
+-He's strong.
+
+73
+00:04:44,481 --> 00:04:47,455
+Strong as any I've faced.
+
+74
+00:04:47,488 --> 00:04:49,959
+1, 10.
+
+75
+00:04:49,992 --> 00:04:52,731
+-If you're impressed,
+then he must be amazing.
+
+76
+00:04:52,765 --> 00:04:55,537
+[beep]
+
+77
+00:04:55,571 --> 00:04:56,439
+-What?
+
+78
+00:04:56,439 --> 00:04:58,777
+He just resigned from the game.
+
+79
+00:04:58,810 --> 00:05:01,316
+-A player with his skill
+is able to quickly judge
+
+80
+00:05:01,349 --> 00:05:02,819
+the positions on the board.
+
+81
+00:05:02,853 --> 00:05:05,424
+He must've realize how
+strong I was and decided
+
+82
+00:05:05,457 --> 00:05:08,431
+that continuing the
+game would be futile.
+
+83
+00:05:08,431 --> 00:05:10,435
+The weaker the player,
+the more likely
+
+84
+00:05:10,435 --> 00:05:14,443
+they'll continue the match even
+if their defeat is unavoidable.
+
+85
+00:05:14,476 --> 00:05:16,313
+Remember when you used
+to make that mistake?
+
+86
+00:05:16,347 --> 00:05:18,818
+-Aw, be quiet!
+
+87
+00:05:18,851 --> 00:05:20,054
+Hey, h--- how's it going?
+
+88
+00:05:20,088 --> 00:05:21,390
+-Pretty good, thanks.
+
+89
+00:05:21,423 --> 00:05:22,459
+Need any help?
+
+90
+00:05:22,492 --> 00:05:23,829
+-Could you send
+this guy a message
+
+91
+00:05:23,862 --> 00:05:24,998
+that says, strong, aren't I?
+
+92
+00:05:25,031 --> 00:05:26,467
+-All right, but pay attention.
+
+93
+00:05:26,467 --> 00:05:29,474
+You gotta learn how to type
+these messages on your own,
+
+94
+00:05:29,474 --> 00:05:30,409
+you know.
+
+95
+00:05:30,442 --> 00:05:31,343
+There you are.
+
+96
+00:05:31,343 --> 00:05:32,413
+-Thanks a lot.
+
+97
+00:05:32,446 --> 00:05:32,880
+-Have fun.
+
+98
+00:05:35,719 --> 00:05:39,995
+-This whole internet thing
+is actually pretty awesome.
+
+99
+00:05:40,029 --> 00:05:41,531
+You're an excellent player.
+
+100
+00:05:41,565 --> 00:05:43,535
+Who are you, anyway?
+
+101
+00:05:43,569 --> 00:05:44,437
+I'm an Insei.
+
+102
+00:05:48,111 --> 00:05:50,617
+An Insei?
+
+103
+00:05:50,650 --> 00:05:52,487
+-Hey, Hikaru?
+
+104
+00:05:52,487 --> 00:05:54,425
+Could you finish up
+when you get a chance?
+
+105
+00:05:54,458 --> 00:05:56,495
+My shift's gonna be over soon.
+
+106
+00:05:56,495 --> 00:05:57,731
+-I was just about done, anyway.
+
+107
+00:06:00,737 --> 00:06:04,879
+Looks like this zelda
+is trying to turn pro.
+
+108
+00:06:04,913 --> 00:06:06,883
+He must practice all the time.
+
+109
+00:06:20,544 --> 00:06:21,680
+-Please stop your games.
+
+110
+00:06:21,713 --> 00:06:22,548
+It's time for lunch.
+
+111
+00:06:22,582 --> 00:06:23,817
+We'll meet back here in an hour.
+
+112
+00:06:34,640 --> 00:06:36,811
+BOY: Something
+bugging you, Waya?
+
+113
+00:06:36,844 --> 00:06:38,080
+-Eh?
+
+114
+00:06:38,113 --> 00:06:40,151
+-You're acting kind
+of strange today.
+
+115
+00:06:40,184 --> 00:06:43,925
+Did you make a mistake in
+the first half of the match?
+
+116
+00:06:43,958 --> 00:06:44,860
+-You're crazy.
+
+117
+00:06:44,894 --> 00:06:45,762
+I never mess up.
+
+118
+00:06:45,796 --> 00:06:46,531
+Leave me alone.
+
+119
+00:06:51,809 --> 00:06:53,511
+How come this had to
+happen to be right
+
+120
+00:06:53,545 --> 00:06:55,048
+when I'm taking my pro test?
+
+121
+00:07:02,430 --> 00:07:03,499
+Look at that guy.
+
+122
+00:07:03,532 --> 00:07:05,937
+He's totally freaking out.
+
+123
+00:07:05,970 --> 00:07:06,972
+-That's and awful move.
+
+124
+00:07:06,972 --> 00:07:08,910
+WAYA: Everybody's waited
+all year for this.
+
+125
+00:07:14,822 --> 00:07:17,695
+And so have I. I've
+got to pass this exam.
+
+126
+00:07:20,601 --> 00:07:23,440
+Why does that kid
+look so relaxed?
+
+127
+00:07:23,440 --> 00:07:25,878
+Huh?
+
+128
+00:07:25,911 --> 00:07:27,013
+You're Akira Toya!
+
+129
+00:07:27,046 --> 00:07:27,915
+-Hm?
+
+130
+00:07:27,948 --> 00:07:28,517
+Hello.
+
+131
+00:07:31,991 --> 00:07:33,460
+-Isn't he famous?
+
+132
+00:07:33,460 --> 00:07:35,832
+-Toya Meijin is his dad?
+
+133
+00:07:35,865 --> 00:07:37,969
+-I can't believe he
+has to take the test.
+
+134
+00:07:38,003 --> 00:07:39,973
+-Are you sure it's really him?
+
+135
+00:07:40,007 --> 00:07:41,577
+I thought he'd be taller.
+
+136
+00:07:41,610 --> 00:07:43,079
+-I hope I don't
+have to play him.
+
+137
+00:07:43,113 --> 00:07:45,150
+-You honestly didn't
+know he was here?
+
+138
+00:07:45,150 --> 00:07:46,019
+-Yeah.
+
+139
+00:07:46,019 --> 00:07:47,489
+-I knew he was taking the test.
+
+140
+00:07:47,522 --> 00:07:48,858
+I found out this morning.
+
+141
+00:07:48,891 --> 00:07:50,128
+-Seriously?
+
+142
+00:07:50,161 --> 00:07:52,666
+-Yeah, because I'm playing
+against him in today's match.
+
+143
+00:07:52,699 --> 00:07:53,734
+I have no chance.
+
+144
+00:07:53,734 --> 00:07:54,803
+He's already got me beat.
+
+145
+00:07:54,838 --> 00:07:56,842
+-When was the last time
+you heard a pro whining
+
+146
+00:07:56,875 --> 00:07:58,478
+about the strength
+of their opponent.
+
+147
+00:07:58,478 --> 00:08:00,583
+You're never gonna beat
+him with that attitude.
+
+148
+00:08:00,616 --> 00:08:03,087
+-You try and win against him.
+
+149
+00:08:03,120 --> 00:08:06,761
+-Sorry to interrupt,
+but are you both Insei?
+
+150
+00:08:06,761 --> 00:08:07,195
+-Yep.
+
+151
+00:08:07,229 --> 00:08:08,499
+My name's Fuku.
+
+152
+00:08:08,499 --> 00:08:10,101
+This is my first time
+taking the pro test.
+
+153
+00:08:10,135 --> 00:08:12,907
+My buddy Waya has already
+failed the exam twice.
+
+154
+00:08:12,940 --> 00:08:13,742
+Right?
+
+155
+00:08:13,775 --> 00:08:15,145
+-Why'd you tell him that?
+
+156
+00:08:15,179 --> 00:08:16,181
+-What luck!
+
+157
+00:08:16,181 --> 00:08:18,151
+I finally try and
+become a pro player
+
+158
+00:08:18,185 --> 00:08:20,022
+and there's no way I
+can win my first match.
+
+159
+00:08:20,055 --> 00:08:21,592
+-You're just giving up?
+
+160
+00:08:21,626 --> 00:08:23,496
+You haven't even
+finished the game yet.
+
+161
+00:08:23,496 --> 00:08:27,270
+Pull yourself together and
+show Toya's who's boss!
+
+162
+00:08:27,504 --> 00:08:30,544
+-Is there a reason why
+you're acting so crazy today?
+
+163
+00:08:30,577 --> 00:08:32,180
+Did something happen to you?
+
+164
+00:08:39,528 --> 00:08:41,934
+-I was playing this guy
+on the internet yesterday.
+
+165
+00:08:41,934 --> 00:08:44,305
+He was way better than I
+was and beat me easily.
+
+166
+00:08:44,539 --> 00:08:46,910
+With that kind of skill,
+he'd have to be a pro, right?
+
+167
+00:08:46,944 --> 00:08:48,146
+You know what this guy does?
+
+168
+00:08:48,179 --> 00:08:50,216
+He sends an online
+message taunting me.
+
+169
+00:08:50,216 --> 00:08:52,922
+It said, strong, aren't I.
+
+170
+00:08:52,956 --> 00:08:54,259
+-That doesn't sound
+like something
+
+171
+00:08:54,292 --> 00:08:56,597
+that a real professional
+player would right.
+
+172
+00:08:56,630 --> 00:08:58,601
+-I don't remember
+asking for your opinion.
+
+173
+00:08:58,634 --> 00:08:59,736
+-You're being loud.
+
+174
+00:08:59,769 --> 00:09:00,538
+Everyone's staring.
+
+175
+00:09:13,030 --> 00:09:14,800
+-(VOICEOVER) I need
+to forget about Sai.
+
+176
+00:09:14,834 --> 00:09:18,708
+I'm gonna get my three wins and
+get through the preliminaries.
+
+177
+00:09:18,742 --> 00:09:20,278
+But why can't I get
+him out of my head?
+
+178
+00:09:23,184 --> 00:09:24,687
+-Hm.
+
+179
+00:09:24,721 --> 00:09:27,226
+So this is Sai.
+
+180
+00:09:27,259 --> 00:09:29,163
+You were last year's
+US Representative.
+
+181
+00:09:29,196 --> 00:09:30,967
+I'd like to know what
+you think of him.
+
+182
+00:09:30,967 --> 00:09:32,102
+-He's great.
+
+183
+00:09:32,102 --> 00:09:34,240
+I'd love to have the
+chance to play him online.
+
+184
+00:09:34,240 --> 00:09:35,977
+-Now that the word's
+out, he's constantly
+
+185
+00:09:36,010 --> 00:09:37,247
+receiving game requests.
+
+186
+00:09:37,247 --> 00:09:39,251
+You'll have to wait in
+line if you want a match.
+
+187
+00:09:39,251 --> 00:09:40,653
+-That's too bad.
+
+188
+00:09:40,687 --> 00:09:42,257
+I suppose I have to
+just sit back and watch
+
+189
+00:09:42,290 --> 00:09:43,125
+like everyone else.
+
+190
+00:09:50,774 --> 00:09:54,014
+-More and more people are
+logging on just too watch Sai.
+
+191
+00:09:54,047 --> 00:09:56,686
+His popularity seems to
+be growing by the day.
+
+192
+00:09:56,720 --> 00:09:57,855
+-Teacher.
+
+193
+00:09:57,888 --> 00:09:59,292
+Do you think this mystery
+player could be a pro?
+
+194
+00:09:59,292 --> 00:10:01,096
+-I'm guessing that he isn't.
+
+195
+00:10:01,129 --> 00:10:03,100
+I've never heard of
+a professional who
+
+196
+00:10:03,133 --> 00:10:05,671
+played against
+amateurs this often.
+
+197
+00:10:05,704 --> 00:10:07,743
+-How did he get so good?
+
+198
+00:10:07,743 --> 00:10:08,878
+-Where'd this guy come from?
+
+199
+00:10:08,878 --> 00:10:11,617
+He never loses.
+
+200
+00:10:11,650 --> 00:10:14,757
+-He's better than
+anyone I've ever faced.
+
+201
+00:10:14,790 --> 00:10:16,827
+-(VOICEOVER) I've only
+had one match against Sai,
+
+202
+00:10:16,861 --> 00:10:20,235
+and he wouldn't chat with me,
+regardless of how many messages
+
+203
+00:10:20,268 --> 00:10:21,337
+I sent him.
+
+204
+00:10:21,370 --> 00:10:23,808
+After asking around, I
+discovered that he never
+
+205
+00:10:23,841 --> 00:10:26,313
+chats with anybody
+Why does Sai insist
+
+206
+00:10:26,347 --> 00:10:29,086
+on keeping his identity secret?
+
+207
+00:10:29,119 --> 00:10:31,958
+-I'm leaving for the World
+Amateur Championship this week.
+
+208
+00:10:31,992 --> 00:10:33,427
+Once I get to Japan--
+
+209
+00:10:33,662 --> 00:10:35,265
+-I'm going to track Sai down.
+
+210
+00:10:35,298 --> 00:10:37,870
+-He's not going to be able to
+be able to hide in the shadows
+
+211
+00:10:37,904 --> 00:10:38,353
+forever.
+
+212
+00:10:44,384 --> 00:10:48,292
+[wind chime]
+
+213
+00:10:53,803 --> 00:10:56,742
+-(VOICEOVER) So, what
+exactly do I know about Sai?
+
+214
+00:10:56,776 --> 00:10:58,913
+He started playing
+in July, and he only
+
+215
+00:10:58,947 --> 00:11:02,688
+goes online in the
+middle of the day.
+
+216
+00:11:02,721 --> 00:11:04,892
+He must have a lot
+of time on his hands.
+
+217
+00:11:04,925 --> 00:11:06,696
+I wonder if he's even got a job?
+
+218
+00:11:10,070 --> 00:11:12,040
+-Because it's
+getting warm outside.
+
+219
+00:11:18,386 --> 00:11:20,190
+-July and August.
+
+220
+00:11:20,223 --> 00:11:21,827
+Summer break.
+
+221
+00:11:21,860 --> 00:11:25,133
+There isn't any school.
+
+222
+00:11:25,166 --> 00:11:27,772
+It can't be!
+
+223
+00:11:27,805 --> 00:11:28,874
+He's a kid.
+
+224
+00:11:52,022 --> 00:11:53,425
+ANNOUNCER: Over the
+past decade, I've
+
+225
+00:11:53,458 --> 00:11:55,997
+had the fortune of watching
+our competitors steadily
+
+226
+00:11:55,997 --> 00:11:58,903
+improve as they begin to play
+Go at a much higher level.
+
+227
+00:11:58,936 --> 00:12:01,775
+I have never seen such
+dedication for this game.
+
+228
+00:12:01,809 --> 00:12:03,512
+It's my pleasure
+to welcome players
+
+229
+00:12:03,746 --> 00:12:06,017
+from more than 50 countries
+to this year's tournament.
+
+230
+00:12:06,050 --> 00:12:08,489
+Your participation is
+proof of Go's popularity
+
+231
+00:12:08,522 --> 00:12:09,925
+throughout the world.
+
+232
+00:12:09,958 --> 00:12:11,795
+There will be a total
+of eight matches.
+
+233
+00:12:11,829 --> 00:12:15,036
+Two games will take place every
+day for the next four days.
+
+234
+00:12:15,069 --> 00:12:17,407
+Remember to focus,
+to try your hardest,
+
+235
+00:12:17,407 --> 00:12:19,746
+and most importantly,
+to have fun.
+
+236
+00:12:19,746 --> 00:12:22,117
+If any of our participants
+haven't been assigned a game
+
+237
+00:12:22,150 --> 00:12:24,221
+yet, please visit our
+registration booth
+
+238
+00:12:24,254 --> 00:12:26,225
+in the main lobby as soon
+as you get the chance.
+
+239
+00:12:26,258 --> 00:12:29,031
+Good luck to all of you,
+and have a great tournament!
+
+240
+00:12:29,064 --> 00:12:31,035
+-(VOICEOVER) Sai's
+an amazing player.
+
+241
+00:12:31,035 --> 00:12:34,208
+I've known that since the
+first time I saw him online.
+
+242
+00:12:34,242 --> 00:12:37,048
+I've watched tons of his
+matches over the past month,
+
+243
+00:12:37,048 --> 00:12:39,452
+trying to find any
+weakness I've noticed
+
+244
+00:12:39,452 --> 00:12:41,156
+he's been acting differently.
+
+245
+00:12:41,189 --> 00:12:42,425
+Something about him has changed.
+
+246
+00:12:56,787 --> 00:12:59,126
+Is he trying out
+some new strategies?
+
+247
+00:12:59,159 --> 00:13:00,930
+Can a player like
+him get any stronger?
+
+248
+00:13:15,392 --> 00:13:16,995
+-Have a safe trip, Seinsei.
+
+249
+00:13:17,028 --> 00:13:19,100
+I hope you can find
+out who Sai really is.
+
+250
+00:13:19,100 --> 00:13:20,236
+-He's unbelievable.
+
+251
+00:13:20,269 --> 00:13:22,206
+That guy's beaten every
+opponent he's ever faced.
+
+252
+00:13:25,212 --> 00:13:27,951
+-(VOICEOVER) I'm itching
+to find out more about Sai,
+
+253
+00:13:27,985 --> 00:13:29,020
+but that'll have to wait.
+
+254
+00:13:29,053 --> 00:13:30,422
+I'll have plenty
+of time to search
+
+255
+00:13:30,456 --> 00:13:32,427
+for him after the competition.
+
+256
+00:13:32,461 --> 00:13:35,834
+Right now I've got
+to stay focused.
+
+257
+00:13:35,834 --> 00:13:38,506
+-(VOICEOVER) I have to bring
+the championship back to China.
+
+258
+00:13:38,506 --> 00:13:40,977
+I can't let anything
+distract me.
+
+259
+00:13:40,977 --> 00:13:45,187
+The only thing I should be
+worrying about is winning.
+
+260
+00:13:45,220 --> 00:13:47,124
+I'll look for Sai once
+the tournament is over.
+
+261
+00:13:47,157 --> 00:13:49,428
+-Will the contestants
+please choose for color?
+
+262
+00:13:55,875 --> 00:13:57,912
+You may now begin your games.
+
+263
+00:14:10,639 --> 00:14:12,876
+-Morishita-sensei,
+I'd like to thank you
+
+264
+00:14:12,910 --> 00:14:16,283
+for agreeing to serve as
+our head judge this year.
+
+265
+00:14:16,283 --> 00:14:18,888
+-Organizing this tournament
+must be exhausting.
+
+266
+00:14:18,922 --> 00:14:21,026
+-Once the competition
+starts, most of my work
+
+267
+00:14:21,026 --> 00:14:22,329
+has already been done.
+
+268
+00:14:22,363 --> 00:14:24,900
+The toughest part of my job is
+getting all these participants
+
+269
+00:14:24,900 --> 00:14:26,170
+into Japan.
+
+270
+00:14:26,204 --> 00:14:28,642
+Arranging visas for this many
+players can be quite tricky.
+
+271
+00:14:28,675 --> 00:14:31,314
+Each country has its own
+set of rules and regulations
+
+272
+00:14:31,347 --> 00:14:32,884
+for traveling here.
+
+273
+00:14:32,884 --> 00:14:35,422
+We do whatever we can to help,
+and usually all our efforts
+
+274
+00:14:35,455 --> 00:14:36,625
+are rewarded.
+
+275
+00:14:36,659 --> 00:14:38,663
+Go is truly an
+international game.
+
+276
+00:14:46,378 --> 00:14:48,616
+MORISHITA: Waya.
+
+277
+00:14:48,649 --> 00:14:51,088
+-Sensei?
+
+278
+00:14:51,121 --> 00:14:52,925
+-So, is this a student of yours?
+
+279
+00:14:52,925 --> 00:14:53,592
+-Waya?
+
+280
+00:14:53,592 --> 00:14:54,528
+He sure is.
+
+281
+00:14:54,561 --> 00:14:55,631
+I asked him to
+help us out today.
+
+282
+00:14:59,071 --> 00:15:00,006
+Hm.
+
+283
+00:15:00,039 --> 00:15:01,208
+What's with that
+look on your face?
+
+284
+00:15:01,241 --> 00:15:02,311
+You OK?
+
+285
+00:15:02,345 --> 00:15:04,081
+A few of these
+international competitors
+
+286
+00:15:04,114 --> 00:15:05,918
+might have some spare
+time between matches.
+
+287
+00:15:05,951 --> 00:15:07,922
+I want you to play a
+couple of games with them,
+
+288
+00:15:07,922 --> 00:15:09,325
+just to see how
+good you really are.
+
+289
+00:15:09,359 --> 00:15:11,396
+I'm not expecting you
+to beat a top amateur,
+
+290
+00:15:11,429 --> 00:15:13,968
+but you should be evenly matched
+against some of the lesser
+
+291
+00:15:14,001 --> 00:15:15,270
+players.
+
+292
+00:15:15,304 --> 00:15:17,108
+I know that you
+won't let me down.
+
+293
+00:15:17,141 --> 00:15:19,112
+An inexperienced competitor
+could learn a lot
+
+294
+00:15:19,145 --> 00:15:20,381
+from my best student.
+
+295
+00:15:20,414 --> 00:15:21,617
+Right?
+
+296
+00:15:21,650 --> 00:15:25,959
+[laughter] Waya managed to
+make it through the pro test
+
+297
+00:15:25,959 --> 00:15:28,631
+preliminaries with a record
+of three wins and one loss.
+
+298
+00:15:28,664 --> 00:15:30,635
+I bet it would have been
+four wins if he haven't
+
+299
+00:15:30,668 --> 00:15:34,109
+had to face Toya-sensei's son.
+
+300
+00:15:34,109 --> 00:15:35,612
+-Do you mean Akira Toya?
+
+301
+00:15:35,645 --> 00:15:38,484
+I heard he was taking
+the test this year.
+
+302
+00:15:38,518 --> 00:15:42,225
+MORISHITA: You'd better
+pass the main exam.
+
+303
+00:15:42,259 --> 00:15:43,429
+-Sensei?
+
+304
+00:15:43,462 --> 00:15:44,029
+-Hm?
+
+305
+00:15:47,537 --> 00:15:48,104
+-Listen.
+
+306
+00:15:52,547 --> 00:15:56,121
+There's this really strong
+player you should know about.
+
+307
+00:15:56,154 --> 00:15:56,603
+-Hm?
+
+308
+00:16:00,162 --> 00:16:01,498
+Are you talking about Toya?
+
+309
+00:16:01,531 --> 00:16:03,670
+I know he's good.
+
+310
+00:16:03,670 --> 00:16:05,005
+-Forget about Toya!
+
+311
+00:16:05,005 --> 00:16:06,676
+I'm talking about this
+new guy I saw on the net.
+
+312
+00:16:06,709 --> 00:16:08,546
+-Someone on the internet?
+
+313
+00:16:08,546 --> 00:16:10,283
+Did you check to
+see if he was a pro?
+
+314
+00:16:10,317 --> 00:16:13,389
+-He's always online, even
+on scheduled game days.
+
+315
+00:16:13,423 --> 00:16:15,126
+-Sounds like he's an amateur.
+
+316
+00:16:15,126 --> 00:16:16,729
+A few of them are
+incredibly strong.
+
+317
+00:16:16,762 --> 00:16:19,401
+Japan's top amateur,
+Shimano, is playing today.
+
+318
+00:16:19,435 --> 00:16:21,239
+He can give a pro a
+run for his money.
+
+319
+00:16:21,272 --> 00:16:22,709
+-He's much better than him.
+
+320
+00:16:22,742 --> 00:16:24,044
+-Huh?
+
+321
+00:16:24,078 --> 00:16:25,013
+Are you serious?
+
+322
+00:16:25,046 --> 00:16:27,385
+How good is he?
+
+323
+00:16:27,418 --> 00:16:30,090
+-(VOICEOVER) You wouldn't have
+a chance against him, Sensei.
+
+324
+00:16:30,123 --> 00:16:32,529
+But I can't tell you that.
+
+325
+00:16:32,562 --> 00:16:33,797
+How good?
+
+326
+00:16:34,031 --> 00:16:34,533
+Uh--
+
+327
+00:16:34,566 --> 00:16:36,670
+-It's not important.
+
+328
+00:16:36,703 --> 00:16:40,111
+These so-called amateurs are
+getting better every day.
+
+329
+00:16:40,144 --> 00:16:41,079
+-Give me five minutes.
+
+330
+00:16:41,113 --> 00:16:43,083
+He's probably online right now.
+
+331
+00:16:43,117 --> 00:16:44,620
+-We can talk about this later.
+
+332
+00:16:44,654 --> 00:16:46,023
+Don't you have some work to do?
+
+333
+00:16:50,766 --> 00:16:52,336
+[knocking]
+
+334
+00:16:52,369 --> 00:16:53,705
+WAYA: Is anyone here?
+
+335
+00:16:53,738 --> 00:16:56,110
+-Who are you?
+
+336
+00:16:56,144 --> 00:16:56,644
+-Hello.
+
+337
+00:16:56,678 --> 00:16:58,381
+I'm Waya, an Insei.
+
+338
+00:16:58,415 --> 00:17:00,719
+I've been looking for a
+computer with internet access.
+
+339
+00:17:00,719 --> 00:17:02,590
+Would it be all right
+if I used one of yours?
+
+340
+00:17:02,623 --> 00:17:03,191
+-Sure.
+
+341
+00:17:03,224 --> 00:17:04,060
+Go ahead.
+
+342
+00:17:04,060 --> 00:17:07,333
+That laptop is already online.
+
+343
+00:17:07,366 --> 00:17:08,168
+-Thanks a lot.
+
+344
+00:17:08,201 --> 00:17:09,070
+I won't take long.
+
+345
+00:17:29,712 --> 00:17:31,348
+-He's not logged in.
+
+346
+00:17:31,382 --> 00:17:31,832
+Argh.
+
+347
+00:17:34,622 --> 00:17:35,658
+I'm all finished.
+
+348
+00:17:35,691 --> 00:17:36,660
+Should I turn it off?
+
+349
+00:17:36,693 --> 00:17:37,395
+-No.
+
+350
+00:17:37,428 --> 00:17:38,196
+Don't worry about it.
+
+351
+00:17:38,230 --> 00:17:39,165
+I'll do it later.
+
+352
+00:17:39,198 --> 00:17:39,640
+-OK.
+
+353
+00:18:04,850 --> 00:18:05,418
+-Hm.
+
+354
+00:18:22,820 --> 00:18:24,257
+I'm resigning.
+
+355
+00:18:24,290 --> 00:18:26,294
+-Thank you for the
+challenging game.
+
+356
+00:18:41,425 --> 00:18:41,867
+-Sai.
+
+357
+00:18:54,251 --> 00:18:54,786
+All right.
+
+358
+00:18:54,820 --> 00:18:57,191
+I know he's from Japan.
+
+359
+00:18:57,224 --> 00:19:00,163
+Is Sai a world amateur
+representative?
+
+360
+00:19:00,197 --> 00:19:03,169
+I doubt it.
+
+361
+00:19:03,169 --> 00:19:05,208
+This guy isn't half
+the player he is.
+
+362
+00:19:09,182 --> 00:19:11,888
+I bet I'm not the only person
+here who's battled Sai online.
+
+363
+00:19:18,602 --> 00:19:20,471
+I wonder if any of
+these competitors
+
+364
+00:19:20,505 --> 00:19:21,975
+traveled all the
+way to Japan just
+
+365
+00:19:22,208 --> 00:19:23,879
+to get a glimpse of
+the mystery player?
+
+366
+00:19:32,329 --> 00:19:33,632
+How am I gonna find him?
+
+367
+00:19:33,665 --> 00:19:35,602
+He could be standing
+right beside me,
+
+368
+00:19:35,636 --> 00:19:37,506
+and I wouldn't even know it.
+
+369
+00:19:37,539 --> 00:19:37,956
+-Sai.
+
+370
+00:19:47,627 --> 00:19:48,663
+(VOICEOVER) Wh-what?
+
+371
+00:19:48,696 --> 00:19:51,235
+Did he just say what
+I thought he said?
+
+372
+00:19:51,235 --> 00:19:52,437
+-Just where have you been?
+
+373
+00:19:52,470 --> 00:19:54,441
+-Huh?
+
+374
+00:19:54,474 --> 00:19:56,846
+-Now you come with me.
+
+375
+00:19:56,880 --> 00:19:57,747
+-Uh, sure.
+
+376
+00:20:01,388 --> 00:20:04,495
+-This young man is an
+aspiring professional.
+
+377
+00:20:04,529 --> 00:20:05,898
+-Ooh!
+
+378
+00:20:05,898 --> 00:20:08,679
+-I'm really sorry, but I don't
+have time for this right now.
+
+379
+00:20:08,679 --> 00:20:10,114
+-What are you talking about?
+
+380
+00:20:10,147 --> 00:20:11,982
+Let him have six stones.
+
+381
+00:20:12,015 --> 00:20:13,584
+WAYA: You've gotta
+be kidding me!
+
+382
+00:20:27,865 --> 00:20:31,068
+-(VOICEOVER) He's good,
+but not good enough.
+
+383
+00:20:31,101 --> 00:20:34,104
+It's not him.
+
+384
+00:20:34,138 --> 00:20:34,872
+-(VOICEOVER) Sai.
+
+385
+00:20:37,608 --> 00:20:38,142
+-(VOICEOVER) Sai.
+
+386
+00:20:40,744 --> 00:20:41,845
+-(VOICEOVER) I don't get it.
+
+387
+00:20:41,879 --> 00:20:45,682
+Where are you, Sai?
+
+388
+00:20:45,716 --> 00:20:49,086
+[theme music]
+
+389
+00:22:22,679 --> 00:22:24,681
+HIKARU: It looks
+like Akira's gonna
+
+390
+00:22:24,681 --> 00:22:27,084
+start playing online, too.
+
+391
+00:22:27,084 --> 00:22:28,986
+SAI: He wants to
+know my identity.
+
+392
+00:22:29,019 --> 00:22:31,688
+HIKARU: Everybody's trying to
+figure out who you are, Sai.
+
+393
+00:22:31,722 --> 00:22:32,522
+Come on.
+
+394
+00:22:32,556 --> 00:22:34,558
+Let's challenge Akira to a game.
+
+395
+00:22:34,591 --> 00:22:37,894
+SAI: By playing him, we
+risk revealing ourselves.
+
+396
+00:22:37,928 --> 00:22:40,964
+HIKARU: Don't tell me
+you're gonna avoid him?
+
+397
+00:22:40,998 --> 00:22:46,637
+SAI: I'll play him and
+use a new strategy.
+
+398
+00:22:46,670 --> 00:22:48,739
+HIKARU: Next time, Deja Vu!
+
