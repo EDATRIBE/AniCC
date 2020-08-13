@@ -1,0 +1,1509 @@
+﻿1
+00:00:19,300 --> 00:00:19,741
+-Hmm-umm.
+
+2
+00:00:23,966 --> 00:00:25,233
+Where's Ridget?
+
+3
+00:00:25,333 --> 00:00:27,566
+-I'm here, Fleet Commander.
+
+4
+00:00:27,666 --> 00:00:29,866
+Take this.
+
+5
+00:00:29,966 --> 00:00:30,407
+-Huh?
+
+6
+00:00:35,933 --> 00:00:38,800
+-Oh.
+
+7
+00:00:38,900 --> 00:00:41,966
+-This is--
+
+8
+00:00:42,066 --> 00:00:45,566
+-Take care of the fleet.
+
+9
+00:00:45,666 --> 00:00:47,933
+-Don't say that,
+Commander Fairlock.
+
+10
+00:00:48,033 --> 00:00:50,900
+The Garantia Fleet
+needs you, not me.
+
+11
+00:00:51,000 --> 00:00:53,200
+-In your hands, I'm not worried.
+
+12
+00:00:53,300 --> 00:00:55,666
+-But Commander, I can't.
+
+13
+00:00:55,766 --> 00:00:57,900
+-You're a fine officer.
+
+14
+00:00:58,000 --> 00:01:00,266
+When I see your
+father, I will give him
+
+15
+00:01:00,366 --> 00:01:02,566
+a glowing report
+of your service.
+
+16
+00:01:02,666 --> 00:01:03,533
+-No, Commander!
+
+17
+00:01:23,800 --> 00:01:25,166
+-Hmm.
+
+18
+00:01:25,266 --> 00:01:26,000
+-No.
+
+19
+00:01:26,100 --> 00:01:26,541
+No.
+
+20
+00:01:31,466 --> 00:01:31,907
+Commander.
+
+21
+00:01:40,833 --> 00:01:43,933
+First coordinates confirmed.
+
+22
+00:01:44,033 --> 00:01:45,200
+-Huh?
+
+23
+00:01:45,300 --> 00:01:47,033
+CHAMBER: Galactic
+alliance inner coordinates
+
+24
+00:01:47,133 --> 00:01:48,866
+in its current
+position confirmed.
+
+25
+00:01:48,966 --> 00:01:51,033
+-Does that mean you
+know where we are?
+
+26
+00:01:51,133 --> 00:01:52,066
+We can go?
+
+27
+00:01:52,166 --> 00:01:53,133
+CHAMBER: Negative.
+
+28
+00:01:53,233 --> 00:01:55,033
+A subspace guidance
+method is necessary.
+
+29
+00:01:55,133 --> 00:01:57,500
+I am not capable of
+navigating without it.
+
+30
+00:01:57,600 --> 00:01:58,500
+-What?
+
+31
+00:01:58,600 --> 00:02:00,533
+What about an SOS?
+
+32
+00:02:00,633 --> 00:02:04,133
+CHAMBER: SOS, emergency landing
+on Earth signal has been sent.
+
+33
+00:02:04,233 --> 00:02:08,700
+Estimated time to arrival,
+approximately 6,582 years,
+
+34
+00:02:08,800 --> 00:02:11,133
+16 hours, 20 minutes.
+
+35
+00:02:11,233 --> 00:02:12,133
+-Impossible.
+
+36
+00:02:12,233 --> 00:02:13,600
+It can't be.
+
+37
+00:02:13,700 --> 00:02:15,633
+CHAMBER: Returning to the
+main force at this time
+
+38
+00:02:15,733 --> 00:02:16,500
+is not feasible.
+
+39
+00:02:19,166 --> 00:02:20,000
+-I can't go back.
+
+40
+00:02:26,066 --> 00:02:27,900
+[MUSIC - "THIS WORLD HAS
+BEEN WAITING FOR US,"
+
+41
+00:02:28,000 --> 00:02:30,966
+MINORI CHIHARA]
+
+42
+00:04:04,476 --> 00:04:05,343
+-Ridget?
+
+43
+00:04:05,443 --> 00:04:06,343
+Are you serious?
+
+44
+00:04:06,443 --> 00:04:07,876
+That little girl?
+
+45
+00:04:07,976 --> 00:04:11,609
+-The Commander appointed her
+himself on his death bed.
+
+46
+00:04:11,709 --> 00:04:14,909
+Maybe I should be getting
+out of here with Flange, too.
+
+47
+00:04:15,009 --> 00:04:16,309
+-Ship Masters, there you are.
+
+48
+00:04:16,409 --> 00:04:18,476
+I'm glad I caught
+you altogether.
+
+49
+00:04:18,576 --> 00:04:20,443
+Flange's departure is imminent.
+
+50
+00:04:20,543 --> 00:04:21,543
+I must consult with you.
+
+51
+00:04:21,643 --> 00:04:22,443
+It cannot wait.
+
+52
+00:04:22,543 --> 00:04:23,543
+-Hey, come on.
+
+53
+00:04:23,643 --> 00:04:25,009
+-Now ain't the time for that.
+
+54
+00:04:25,109 --> 00:04:27,709
+-Today is Fleet Commander
+Fairlock's funeral.
+
+55
+00:04:27,809 --> 00:04:29,876
+-Yes, but my first
+priority is the fleet.
+
+56
+00:04:29,976 --> 00:04:32,143
+-You were like a
+daughter to Fairlock.
+
+57
+00:04:32,243 --> 00:04:34,676
+How could you not attend
+the man's memorial?
+
+58
+00:04:34,776 --> 00:04:36,443
+-The man raised you, didn't he?
+
+59
+00:04:36,543 --> 00:04:38,076
+He took you in
+when Chevron died.
+
+60
+00:04:41,443 --> 00:04:43,476
+-What are you doing?
+
+61
+00:04:43,576 --> 00:04:45,909
+You're supposed to assemble
+at the bow of the flag ship.
+
+62
+00:04:46,009 --> 00:04:47,276
+-Yes, we're on our way.
+
+63
+00:04:47,376 --> 00:04:48,243
+-Let's go.
+
+64
+00:04:56,509 --> 00:04:59,976
+-Change is never easy.
+
+65
+00:05:00,076 --> 00:05:03,343
+-Yes, I realize that.
+
+66
+00:05:03,443 --> 00:05:05,176
+-So you can't go home?
+
+67
+00:05:05,276 --> 00:05:06,676
+-No.
+
+68
+00:05:06,776 --> 00:05:07,576
+-That's a shame, kid.
+
+69
+00:05:07,676 --> 00:05:10,209
+I feel for you.
+
+70
+00:05:10,309 --> 00:05:13,076
+But, you know, if you
+have to be stuck here,
+
+71
+00:05:13,176 --> 00:05:15,209
+you should make the best of it.
+
+72
+00:05:15,309 --> 00:05:18,243
+You really want to kill
+some whalesquid, right?
+
+73
+00:05:18,343 --> 00:05:21,076
+-Killing them is my
+primary objective.
+
+74
+00:05:21,176 --> 00:05:23,243
+-Then I may be able to help.
+
+75
+00:05:23,343 --> 00:05:25,109
+I know where their nest is.
+
+76
+00:05:25,209 --> 00:05:25,809
+-What?
+
+77
+00:05:25,909 --> 00:05:26,843
+They have a nest?
+
+78
+00:05:26,943 --> 00:05:28,443
+-Easy now.
+
+79
+00:05:28,543 --> 00:05:31,809
+Attacking a whalesquid now
+ain't no simple feat, kid.
+
+80
+00:05:31,909 --> 00:05:33,509
+But there's treasure.
+
+81
+00:05:33,609 --> 00:05:35,809
+-I don't care about money.
+
+82
+00:05:35,909 --> 00:05:36,743
+-No problem.
+
+83
+00:05:36,843 --> 00:05:38,176
+You kill the
+whalesquid, and I'll
+
+84
+00:05:38,276 --> 00:05:40,676
+salvage the treasure
+after you're done.
+
+85
+00:05:40,776 --> 00:05:41,976
+Sound good?
+
+86
+00:05:42,076 --> 00:05:44,376
+-As long as I can
+kill the Hideauze.
+
+87
+00:05:44,476 --> 00:05:48,176
+-Then it sounds
+like we have a deal.
+
+88
+00:05:48,276 --> 00:05:50,343
+-Release all the ships
+that want to leave,
+
+89
+00:05:50,443 --> 00:05:53,043
+30 interlocks have
+to be unfastened.
+
+90
+00:05:53,143 --> 00:05:54,909
+Be careful, work fast.
+
+91
+00:05:55,009 --> 00:05:57,043
+Let's do this.
+
+92
+00:05:57,143 --> 00:05:59,209
+-Flange, please reconsider.
+
+93
+00:05:59,309 --> 00:06:00,643
+Don't leave Gargantia.
+
+94
+00:06:00,743 --> 00:06:03,109
+-My mind is made up, Ridget.
+
+95
+00:06:03,209 --> 00:06:05,543
+A fleet lacking in
+strong central leadership
+
+96
+00:06:05,643 --> 00:06:08,009
+is a ripe target for pirates.
+
+97
+00:06:08,109 --> 00:06:09,209
+-But Flange.
+
+98
+00:06:09,309 --> 00:06:12,043
+-There is also the treasure
+Pinion talks about.
+
+99
+00:06:12,143 --> 00:06:15,909
+It's a legacy from the past that
+could be the key to our future.
+
+100
+00:06:16,009 --> 00:06:18,609
+But I'm doing this for the
+citizens who came to me
+
+101
+00:06:18,709 --> 00:06:21,176
+and said that they
+wanted to leave.
+
+102
+00:06:21,276 --> 00:06:22,743
+My duty is to them.
+
+103
+00:06:22,843 --> 00:06:25,309
+I've sworn to protect
+the people on my ship,
+
+104
+00:06:25,409 --> 00:06:27,009
+and that is what I intend to do.
+
+105
+00:06:31,043 --> 00:06:32,143
+-Thanks for the package.
+
+106
+00:06:32,243 --> 00:06:34,876
+-You're welcome, bye.
+
+107
+00:06:34,976 --> 00:06:36,809
+-Melty.
+
+108
+00:06:36,909 --> 00:06:37,776
+-Saaya.
+
+109
+00:06:37,876 --> 00:06:39,243
+Amy.
+
+110
+00:06:39,343 --> 00:06:41,443
+-Melty, are you
+really leaving us?
+
+111
+00:06:41,543 --> 00:06:42,476
+-Yep.
+
+112
+00:06:42,576 --> 00:06:44,143
+-Do you have to go
+with Flange's ship?
+
+113
+00:06:44,243 --> 00:06:45,509
+Can't you stay here?
+
+114
+00:06:45,609 --> 00:06:48,743
+-I'd stay if I could, but
+I can't leave Grandpa.
+
+115
+00:06:48,843 --> 00:06:50,176
+-I see.
+
+116
+00:06:50,276 --> 00:06:52,343
+-I never imagined our ship
+would leave Gargantia.
+
+117
+00:06:52,443 --> 00:06:54,209
+I thought we'd always be here.
+
+118
+00:06:54,309 --> 00:06:57,943
+But things change, so I'm going.
+
+119
+00:06:58,043 --> 00:07:00,909
+But I'm actually
+looking forward to it.
+
+120
+00:07:01,009 --> 00:07:04,243
+One upside is that I may get
+to meet some cute new guys.
+
+121
+00:07:04,343 --> 00:07:05,443
+-Rich ones?
+
+122
+00:07:05,543 --> 00:07:06,576
+-Definitely.
+
+123
+00:07:06,676 --> 00:07:08,709
+Plus, it looks like the
+hottie is coming, too.
+
+124
+00:07:08,809 --> 00:07:10,576
+-He is?
+
+125
+00:07:10,676 --> 00:07:12,409
+-Pinion's telling
+everyone in the fleet.
+
+126
+00:07:12,509 --> 00:07:14,543
+He says that with
+Ledo's flying Yunboro,
+
+127
+00:07:14,643 --> 00:07:17,809
+we'll all be safe
+from the whalesquids.
+
+128
+00:07:17,909 --> 00:07:18,409
+-I understand.
+
+129
+00:07:48,576 --> 00:07:51,143
+-Fairlock should have chosen you
+to be the next Fleet Commander,
+
+130
+00:07:51,243 --> 00:07:52,876
+Crown, not her.
+
+131
+00:07:52,976 --> 00:07:55,376
+-I don't have much
+time left myself.
+
+132
+00:07:55,476 --> 00:07:58,876
+I must guide the next
+generation to go on without me.
+
+133
+00:07:58,976 --> 00:08:02,509
+-Train her as much as you
+possibly can, my friend.
+
+134
+00:08:02,609 --> 00:08:06,076
+Fleet Commander, we have had
+fair winds and flowing seas,
+
+135
+00:08:06,176 --> 00:08:09,709
+but now our voyage
+together has ended.
+
+136
+00:08:09,809 --> 00:08:12,409
+May all the blessings of
+the virtuous waves be yours.
+
+137
+00:08:35,909 --> 00:08:36,350
+-Huh?
+
+138
+00:09:10,943 --> 00:09:13,976
+-Don't you need to wear
+black to a funeral?
+
+139
+00:09:14,076 --> 00:09:15,209
+-Pinion.
+
+140
+00:09:15,309 --> 00:09:17,609
+-Sign the release for
+the departing ships.
+
+141
+00:09:17,709 --> 00:09:19,209
+-How many times do
+I have to tell you?
+
+142
+00:09:19,309 --> 00:09:20,309
+No.
+
+143
+00:09:20,409 --> 00:09:21,909
+-Prove to me it will
+be worthwhile to stay,
+
+144
+00:09:22,009 --> 00:09:23,109
+and I won't go.
+
+145
+00:09:23,209 --> 00:09:24,143
+Just give me what I want.
+
+146
+00:09:24,243 --> 00:09:25,476
+-You know, I can't.
+
+147
+00:09:25,576 --> 00:09:28,109
+-Then you got no
+business stopping me.
+
+148
+00:09:28,209 --> 00:09:31,743
+You ain't got the balls
+to command this fleet.
+
+149
+00:09:31,843 --> 00:09:32,409
+See you around.
+
+150
+00:10:25,309 --> 00:10:25,776
+[squeak]
+
+151
+00:10:25,876 --> 00:10:27,676
+-What's wrong?
+
+152
+00:10:27,776 --> 00:10:30,743
+-Oh, Saaya.
+
+153
+00:10:30,843 --> 00:10:32,876
+Nothing, I'm fine.
+
+154
+00:10:32,976 --> 00:10:34,943
+-You're thinking
+about Ledo leaving.
+
+155
+00:10:35,043 --> 00:10:36,576
+-No, it's not that at all.
+
+156
+00:10:36,676 --> 00:10:38,576
+-It's OK.
+
+157
+00:10:38,676 --> 00:10:41,876
+You should go with him
+if that's what you want.
+
+158
+00:10:41,976 --> 00:10:42,743
+Leave with Flange.
+
+159
+00:10:42,843 --> 00:10:43,576
+OK?
+
+160
+00:10:43,676 --> 00:10:45,676
+You'd get to be with Melty, too.
+
+161
+00:10:45,776 --> 00:10:47,076
+-With Melty?
+
+162
+00:10:47,176 --> 00:10:49,509
+Of course, I'll miss
+you both like crazy.
+
+163
+00:10:49,609 --> 00:10:53,043
+But it's better than
+seeing you look like that.
+
+164
+00:10:53,143 --> 00:10:56,909
+Judging by your look, you'd
+think the world was ending.
+
+165
+00:10:57,009 --> 00:10:59,876
+But maybe that's what it's like
+for you since he's going away.
+
+166
+00:11:02,776 --> 00:11:04,543
+-There isn't anything
+between us yet.
+
+167
+00:11:04,643 --> 00:11:06,376
+-Huh?
+
+168
+00:11:06,476 --> 00:11:06,909
+Then--
+
+169
+00:11:07,009 --> 00:11:08,076
+-I can't go.
+
+170
+00:11:08,176 --> 00:11:10,543
+I have to stay here.
+
+171
+00:11:10,643 --> 00:11:11,376
+-How come?
+
+172
+00:11:11,476 --> 00:11:13,476
+My brother needs Dr. Olton.
+
+173
+00:11:13,576 --> 00:11:16,109
+He's the only one
+who can treat Bebel.
+
+174
+00:11:16,209 --> 00:11:21,343
+And I couldn't leave Bebel,
+not for anything in this world.
+
+175
+00:11:21,443 --> 00:11:22,343
+-I see.
+
+176
+00:11:26,443 --> 00:11:29,843
+I'm glad then.
+
+177
+00:11:29,943 --> 00:11:34,743
+It's selfish, but I'd
+be real lonely with you.
+
+178
+00:11:34,843 --> 00:11:36,209
+-Yeah, me, too.
+
+179
+00:11:52,176 --> 00:11:54,676
+-Got your hands full, huh?
+
+180
+00:11:54,776 --> 00:11:56,509
+-It's nothing I can't handle.
+
+181
+00:11:56,609 --> 00:11:58,709
+-OK, but you still need
+a break now and then.
+
+182
+00:11:58,809 --> 00:12:00,409
+-I know that, but
+I can't stop now.
+
+183
+00:12:00,509 --> 00:12:01,509
+I have to set an example.
+
+184
+00:12:04,943 --> 00:12:06,176
+I'm sorry.
+
+185
+00:12:06,276 --> 00:12:07,776
+-Don't worry about it.
+
+186
+00:12:07,876 --> 00:12:09,843
+-With Commander
+Fairlock gone, I have
+
+187
+00:12:09,943 --> 00:12:11,943
+to keep it together
+no matter what.
+
+188
+00:12:12,043 --> 00:12:13,143
+-Don't beat yourself up.
+
+189
+00:12:13,243 --> 00:12:14,409
+You're working hard.
+
+190
+00:12:14,509 --> 00:12:16,243
+You've done enough.
+
+191
+00:12:16,343 --> 00:12:20,443
+-If it were enough, they
+wouldn't be leaving.
+
+192
+00:12:20,543 --> 00:12:23,776
+-Enough and perfect
+aren't the same.
+
+193
+00:12:23,876 --> 00:12:25,009
+I've been there.
+
+194
+00:12:25,109 --> 00:12:27,076
+I know what it's like to
+be suddenly running it all.
+
+195
+00:12:27,176 --> 00:12:28,409
+-Huh?
+
+196
+00:12:28,509 --> 00:12:30,776
+-Back when the Chief first
+left me the salvage business,
+
+197
+00:12:30,876 --> 00:12:32,409
+I was eager to do
+everything myself
+
+198
+00:12:32,509 --> 00:12:34,343
+to prove that I
+could go it alone.
+
+199
+00:12:34,443 --> 00:12:36,609
+One day I found a huge treasure.
+
+200
+00:12:36,709 --> 00:12:38,809
+I was determined to show
+off and be the big hero.
+
+201
+00:12:38,909 --> 00:12:41,043
+But a current swept
+up my Yunburo,
+
+202
+00:12:41,143 --> 00:12:44,309
+and I ended up pinned
+under my big find.
+
+203
+00:12:44,409 --> 00:12:46,309
+I thought I was going to die.
+
+204
+00:12:46,409 --> 00:12:48,809
+Afterwards, Pinion
+laughed his ass off.
+
+205
+00:12:48,909 --> 00:12:50,776
+Called me a stupid little girl.
+
+206
+00:12:50,876 --> 00:12:52,976
+I was so eager to be
+as good as the boys,
+
+207
+00:12:53,076 --> 00:12:55,543
+I forgot to work with them.
+
+208
+00:12:55,643 --> 00:12:57,609
+Trying to do it by
+yourself is the same
+
+209
+00:12:57,709 --> 00:12:58,976
+as not trusting your friends.
+
+210
+00:12:59,076 --> 00:13:00,109
+Ask for help.
+
+211
+00:13:00,209 --> 00:13:02,909
+-But Commander Fairlock
+did it all by himself.
+
+212
+00:13:03,009 --> 00:13:03,609
+-No, he didn't.
+
+213
+00:13:03,709 --> 00:13:04,576
+He relied on you.
+
+214
+00:13:04,676 --> 00:13:06,709
+Did you forget?
+
+215
+00:13:06,809 --> 00:13:08,709
+Ask yourself who
+you can count on.
+
+216
+00:13:08,809 --> 00:13:10,509
+Think about who's
+reliable, and who
+
+217
+00:13:10,609 --> 00:13:12,909
+you know you can trust
+and let them help you.
+
+218
+00:13:13,009 --> 00:13:14,309
+-Like who?
+
+219
+00:13:14,409 --> 00:13:15,643
+-Like yourself.
+
+220
+00:13:15,743 --> 00:13:19,009
+You make sure everything I
+salvage gets put to good use.
+
+221
+00:13:19,109 --> 00:13:20,809
+Someone I can work
+with who only wants
+
+222
+00:13:20,909 --> 00:13:22,243
+what's best for the fleet.
+
+223
+00:13:22,343 --> 00:13:24,443
+That's who I'd want in charge.
+
+224
+00:13:24,543 --> 00:13:25,676
+-I'm back.
+
+225
+00:13:25,776 --> 00:13:26,876
+-Welcome home, Sis.
+
+226
+00:13:26,976 --> 00:13:28,176
+-Sorry I'm late.
+
+227
+00:13:28,276 --> 00:13:29,709
+I'll hurry up and
+get dinner started.
+
+228
+00:13:40,709 --> 00:13:43,643
+-Hey, is it true that
+Ledo was leaving?
+
+229
+00:13:43,743 --> 00:13:44,509
+-Oh, you know?
+
+230
+00:13:44,609 --> 00:13:46,376
+But how?
+
+231
+00:13:46,476 --> 00:13:50,709
+-The neighbors said Pinion
+was telling everybody.
+
+232
+00:13:50,809 --> 00:13:52,009
+-He is.
+
+233
+00:13:52,109 --> 00:13:53,909
+Too bad, huh?
+
+234
+00:13:54,009 --> 00:13:55,976
+And here I though he and
+I were getting along,
+
+235
+00:13:56,076 --> 00:13:57,043
+but I guess it was wrong.
+
+236
+00:14:00,776 --> 00:14:05,376
+-I wonder why he wants to
+do something so dangerous?
+
+237
+00:14:05,476 --> 00:14:12,143
+-Seriously, that jerk.
+
+238
+00:14:12,243 --> 00:14:14,009
+-Amy.
+
+239
+00:14:14,109 --> 00:14:15,543
+-What happened to him?
+
+240
+00:14:15,643 --> 00:14:17,009
+Why doesn't he care
+about anything?
+
+241
+00:14:17,109 --> 00:14:21,509
+When we were at the festival
+together, he was laughing.
+
+242
+00:14:21,609 --> 00:14:23,576
+He was smiling.
+
+243
+00:14:23,676 --> 00:14:28,676
+Now, it seems like he's
+more tormented than ever.
+
+244
+00:14:28,776 --> 00:14:32,109
+I know the boy I went to the
+festival with is the real Ledo.
+
+245
+00:15:23,777 --> 00:15:28,644
+-There are some who
+decided to stay.
+
+246
+00:15:28,744 --> 00:15:30,144
+Fleet Commander,
+what about the boy?
+
+247
+00:15:30,244 --> 00:15:32,644
+How do you intend
+to deal with him?
+
+248
+00:15:32,744 --> 00:15:35,377
+-I'm going to let you
+decide what to do.
+
+249
+00:15:35,477 --> 00:15:37,377
+-He let me decide.
+
+250
+00:15:53,310 --> 00:15:54,710
+-Bebel.
+
+251
+00:15:54,810 --> 00:15:56,944
+-Are you really going?
+
+252
+00:15:57,044 --> 00:15:58,110
+-Correct.
+
+253
+00:15:58,210 --> 00:15:59,110
+I am.
+
+254
+00:16:03,210 --> 00:16:05,110
+-Do you have to?
+
+255
+00:16:05,210 --> 00:16:09,110
+Isn't there another way?
+
+256
+00:16:09,210 --> 00:16:10,477
+-There's not.
+
+257
+00:16:10,577 --> 00:16:14,377
+-But Ledo, is leaving
+us what you really want?
+
+258
+00:16:14,477 --> 00:16:17,477
+-I have to protect humans
+and protect Amy also.
+
+259
+00:16:17,577 --> 00:16:19,177
+-But she doesn't want
+you to protect her.
+
+260
+00:16:19,277 --> 00:16:20,177
+She wants you to stay.
+
+261
+00:16:26,844 --> 00:16:29,477
+-Bebel, I want you have this.
+
+262
+00:16:29,577 --> 00:16:32,044
+-Huh?
+
+263
+00:16:32,144 --> 00:16:36,010
+But I thought this
+one was special.
+
+264
+00:16:36,110 --> 00:16:40,210
+-A child who looked like me
+made it and then gave it to me.
+
+265
+00:16:40,310 --> 00:16:42,644
+-He looked like you?
+
+266
+00:16:42,744 --> 00:16:46,210
+-It is possible that he
+was my younger brother.
+
+267
+00:16:46,310 --> 00:16:48,010
+-Uh, Ledo.
+
+268
+00:16:48,110 --> 00:16:52,110
+-In the Galactic Alliance, one
+who cannot fight cannot live.
+
+269
+00:16:52,210 --> 00:16:53,477
+The Hideauze are to blame.
+
+270
+00:16:53,577 --> 00:16:56,710
+They threaten the existence of
+the human race and our enemies.
+
+271
+00:16:56,810 --> 00:16:58,110
+-But Ledo.
+
+272
+00:16:58,210 --> 00:16:59,710
+-Earth Hideauze, too.
+
+273
+00:16:59,810 --> 00:17:03,710
+If their domain expands, they
+will wage war on more humans.
+
+274
+00:17:03,810 --> 00:17:05,577
+I'm certain of it.
+
+275
+00:17:05,677 --> 00:17:07,477
+-But whalesquid wouldn't.
+
+276
+00:17:07,577 --> 00:17:09,644
+-Yes, they would.
+
+277
+00:17:09,744 --> 00:17:11,710
+If Earth becomes
+like the Alliance,
+
+278
+00:17:11,810 --> 00:17:15,244
+then you would be killed.
+
+279
+00:17:15,344 --> 00:17:18,377
+For Amy's sake, too, I cannot
+let her lose someone that she
+
+280
+00:17:18,477 --> 00:17:19,310
+loves.
+
+281
+00:17:19,410 --> 00:17:20,010
+-You're wrong.
+
+282
+00:17:20,110 --> 00:17:21,410
+You're wrong, Ledo.
+
+283
+00:17:21,510 --> 00:17:22,344
+No one's going to die.
+
+284
+00:17:22,444 --> 00:17:23,177
+Don't go.
+
+285
+00:17:23,277 --> 00:17:25,644
+-I do not want Amy to suffer.
+
+286
+00:17:25,744 --> 00:17:28,044
+I must destroy the
+Hideauze completely.
+
+287
+00:17:48,077 --> 00:17:49,677
+-Wait, please.
+
+288
+00:17:49,777 --> 00:17:50,218
+-Hmm?
+
+289
+00:18:00,477 --> 00:18:00,918
+-Hmm.
+
+290
+00:18:08,310 --> 00:18:09,477
+I'm sorry.
+
+291
+00:18:09,577 --> 00:18:10,477
+I know I'm late.
+
+292
+00:18:29,177 --> 00:18:31,177
+Thank you so very much.
+
+293
+00:19:01,477 --> 00:19:02,610
+Listen to me.
+
+294
+00:19:02,710 --> 00:19:05,210
+I have something
+to say to you all.
+
+295
+00:19:05,310 --> 00:19:07,077
+-What?
+
+296
+00:19:07,177 --> 00:19:14,110
+-Fairlock has left us, And
+he has left Gargantia to me.
+
+297
+00:19:14,210 --> 00:19:17,077
+My predecessor cared for
+this fleet and its people
+
+298
+00:19:17,177 --> 00:19:18,710
+until he drew his last breath.
+
+299
+00:19:18,810 --> 00:19:22,744
+And I pledge to do
+the very same thing.
+
+300
+00:19:28,210 --> 00:19:30,177
+The Commander dearly
+loved this fleet
+
+301
+00:19:30,277 --> 00:19:32,444
+and gave his entire life to it.
+
+302
+00:19:32,544 --> 00:19:34,444
+I promise to do nothing less.
+
+303
+00:19:34,544 --> 00:19:36,877
+I will give you
+everything that I have.
+
+304
+00:19:36,977 --> 00:19:38,610
+But that isn't enough.
+
+305
+00:19:38,710 --> 00:19:40,844
+I couldn't stop all those
+people who wanted to leave.
+
+306
+00:19:40,944 --> 00:19:42,644
+They didn't believe
+I could protect them,
+
+307
+00:19:42,744 --> 00:19:43,977
+and they were right.
+
+308
+00:19:44,077 --> 00:19:46,644
+By myself, I can't.
+
+309
+00:19:52,044 --> 00:19:53,244
+I need you.
+
+310
+00:19:53,344 --> 00:19:55,377
+I need you all to
+lend me your strength.
+
+311
+00:19:55,477 --> 00:19:58,977
+If you want to
+protect this fleet,
+
+312
+00:19:59,077 --> 00:20:01,144
+if you want to
+protect Gargantia,
+
+313
+00:20:01,244 --> 00:20:03,744
+this fortress that we
+live on, this place
+
+314
+00:20:03,844 --> 00:20:08,610
+which is our home, then please,
+I really need your help.
+
+315
+00:20:31,177 --> 00:20:33,644
+-We're all old salts
+who know the ropes.
+
+316
+00:20:33,744 --> 00:20:35,510
+We got your back, kid.
+
+317
+00:20:35,610 --> 00:20:36,777
+-That's right.
+
+318
+00:20:36,877 --> 00:20:39,444
+When you need someone to
+count on, you can count on us.
+
+319
+00:20:39,544 --> 00:20:41,610
+-There's no point in crying
+over the jerks who left.
+
+320
+00:20:41,710 --> 00:20:43,210
+Buck up and move on.
+
+321
+00:20:43,310 --> 00:20:44,844
+-With you at its
+heart as Commander,
+
+322
+00:20:44,944 --> 00:20:48,244
+we'll build a new fleet
+around you better than ever.
+
+323
+00:20:48,344 --> 00:20:49,877
+-Well done.
+
+324
+00:20:49,977 --> 00:20:50,744
+-You'll be fine.
+
+325
+00:20:56,810 --> 00:21:00,177
+-Everyone, I thank you.
+
+326
+00:21:11,910 --> 00:21:14,744
+-Oh.
+
+327
+00:21:14,844 --> 00:21:17,110
+-Hi.
+
+328
+00:21:17,210 --> 00:21:18,344
+What are you doing down there?
+
+329
+00:21:18,444 --> 00:21:19,677
+Come up.
+
+330
+00:21:19,777 --> 00:21:21,610
+-I am leaving soon.
+
+331
+00:21:21,710 --> 00:21:24,610
+-I know.
+
+332
+00:21:24,710 --> 00:21:28,944
+-Ledo, you're really going?
+
+333
+00:21:29,044 --> 00:21:30,710
+-Yes.
+
+334
+00:21:30,810 --> 00:21:33,644
+-OK, well then, I'll
+hold on to this for you.
+
+335
+00:21:33,744 --> 00:21:37,644
+You can come back at
+any time and get it.
+
+336
+00:21:37,744 --> 00:21:39,310
+-Thank you for everything.
+
+337
+00:21:39,410 --> 00:21:42,377
+May all the blessings of
+the virtuous ways be yours.
+
+338
+00:22:10,044 --> 00:22:11,344
+-They've made up their minds.
+
+339
+00:22:11,444 --> 00:22:15,210
+Once that happened, there was
+nothing we could do about it.
+
+340
+00:22:15,310 --> 00:22:15,910
+They're idiots.
+
+341
+00:22:16,010 --> 00:22:17,877
+Every last one of them.
+
+342
+00:22:25,957 --> 00:22:30,057
+[MUSIC - "SKY AND YOUR MESSAGE,"
+CHOUCHO]
+

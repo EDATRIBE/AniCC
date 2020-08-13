@@ -1,0 +1,1378 @@
+﻿1
+00:02:04,291 --> 00:02:05,208
+[MAKISHIMA] Get down.
+
+2
+00:02:06,083 --> 00:02:07,333
+[Tetsuro cries out]
+
+3
+00:02:13,750 --> 00:02:15,916
+[Risker screaming]
+
+4
+00:02:19,208 --> 00:02:22,375
+[Risker cries out in pain]
+
+5
+00:02:24,666 --> 00:02:27,458
+[RISKER] What the hell
+is happening to me?
+
+6
+00:02:27,541 --> 00:02:28,708
+Im..Impossible!
+
+7
+00:02:28,791 --> 00:02:31,208
+I'm... I'm invincible...
+
+8
+00:02:31,291 --> 00:02:33,125
+[COMPUTER]
+<i>8... 7... 6... 5... 4...</i>
+
+9
+00:02:33,208 --> 00:02:36,375
+[RISKER] You... can't...
+defeat... me...
+
+10
+00:02:36,458 --> 00:02:40,708
+[COMPUTER] <i>3... 2... 1... zero.</i>
+[Tetsuro screaming]
+
+11
+00:02:58,333 --> 00:02:59,666
+[NEWSCASTER]
+We interrupt this program to
+
+12
+00:02:59,750 --> 00:03:01,375
+bring you a breaking newsflash.
+
+13
+00:03:01,458 --> 00:03:03,166
+Shortly after 4:00 AM
+this morning,
+
+14
+00:03:03,250 --> 00:03:04,666
+the Max Pharmaceuticals
+building,
+
+15
+00:03:04,750 --> 00:03:06,375
+located in Odaiba Tokyo,
+
+16
+00:03:06,458 --> 00:03:08,833
+experienced a
+catastrophic explosion.
+
+17
+00:03:08,916 --> 00:03:11,125
+One of our correspondents
+is live on the scene.
+
+18
+00:03:11,208 --> 00:03:13,041
+Ms. Takeyama,
+give us a run down.
+
+19
+00:03:13,125 --> 00:03:16,291
+As you can see just behind me,
+large plumes of black smoke
+
+20
+00:03:16,375 --> 00:03:17,958
+are billowing out of
+the Max Pharmaceuticals
+
+21
+00:03:18,041 --> 00:03:19,958
+head office building
+and rising to the sky,
+
+22
+00:03:20,041 --> 00:03:21,791
+blotting out the sunrise.
+
+23
+00:03:21,875 --> 00:03:23,875
+[TAKEYAMA] Right now I'm
+reporting from Rainbow Bridge.
+
+24
+00:03:23,958 --> 00:03:26,125
+Unfortunately, we can't get
+any closer
+
+25
+00:03:26,208 --> 00:03:29,625
+due to the danger of secondary
+explosions or building collapse.
+
+26
+00:03:29,708 --> 00:03:32,416
+A Max Pharmaceuticals public
+relations representative
+
+27
+00:03:32,500 --> 00:03:34,458
+claims that the cause
+of the explosion is
+
+28
+00:03:34,541 --> 00:03:37,625
+still under investigation, but
+police are already considering
+
+29
+00:03:37,708 --> 00:03:40,291
+the possibility of this
+being a terrorist act.
+
+30
+00:03:40,375 --> 00:03:42,500
+[NEWSCASTER] And how about the
+surrounding neighborhoods?
+
+31
+00:03:42,583 --> 00:03:44,333
+Do you have any reports yet?
+
+32
+00:03:44,416 --> 00:03:46,833
+Yes, since the explosion
+occurred early this morning,
+
+33
+00:03:46,916 --> 00:03:48,916
+there are, fortunately,
+no reports of any harm
+
+34
+00:03:49,000 --> 00:03:51,291
+to motorists,
+pedestrians or residents.
+
+35
+00:03:51,375 --> 00:03:53,500
+However, it is still unknown
+whether there were any
+
+36
+00:03:53,583 --> 00:03:56,041
+late-night workers or
+security officers in--
+
+37
+00:04:28,583 --> 00:04:30,583
+Thank God he's back safe.
+
+38
+00:04:39,375 --> 00:04:41,041
+Are you all right?
+
+39
+00:05:08,583 --> 00:05:11,583
+[SHO] <i>I still have the burn</i>
+<i>scar I got when I was a kid.</i>
+
+40
+00:05:11,666 --> 00:05:13,000
+<i>Everything feels the same,</i>
+
+41
+00:05:13,083 --> 00:05:15,541
+<i>but I can't stop thinking</i>
+<i>about what Tetsuro said.</i>
+
+42
+00:05:15,625 --> 00:05:17,833
+[SHO] A clone?
+
+43
+00:05:17,916 --> 00:05:19,958
+Yeah, sure! I bet
+some of your cells
+
+44
+00:05:20,041 --> 00:05:21,541
+were left over on
+the control metal
+
+45
+00:05:21,625 --> 00:05:25,208
+and the Guyver used its power
+to reconstruct you from that.
+
+46
+00:05:25,291 --> 00:05:27,208
+I mean, the Guyver can
+regenerate pretty fast,
+
+47
+00:05:27,291 --> 00:05:30,416
+so it makes sense if it
+did the same thing to you.
+
+48
+00:05:34,708 --> 00:05:41,708
+[SHO] <i>A clone? Is that all I am?</i>
+<i>This can't really be happening.</i>
+
+49
+00:05:41,791 --> 00:05:44,041
+<i>I don't know what's</i>
+<i>going on anymore.</i>
+
+50
+00:05:47,583 --> 00:05:51,833
+<i>What am I supposed to do now?</i>
+<i>Just try and be "normal" again?</i>
+
+51
+00:06:02,125 --> 00:06:03,666
+[FUMIO] Hey, Sho, are you awake?
+
+52
+00:06:03,750 --> 00:06:05,416
+Oh, uh-huh.
+
+53
+00:06:12,333 --> 00:06:17,500
+There's breakfast if you'd like
+some. Are you hungry?
+
+54
+00:06:17,583 --> 00:06:21,791
+Yeah, I'm starving. I'll be
+down in just a minute.
+
+55
+00:06:21,875 --> 00:06:25,791
+Right, well... Don't let the
+miso soup get cold, okay?
+
+56
+00:06:40,833 --> 00:06:43,416
+Jeez, Dad, I can get it.
+
+57
+00:06:51,333 --> 00:06:53,125
+So about last night...
+
+58
+00:06:54,958 --> 00:06:58,458
+I mean... Did you make sure to
+eat dinner while you were out?
+
+59
+00:07:02,208 --> 00:07:06,791
+There's leftovers. I saved you
+some from dinner, Son.
+
+60
+00:07:06,875 --> 00:07:09,416
+Oh, thanks. I might
+have some later.
+
+61
+00:07:15,166 --> 00:07:18,208
+Is there something wrong
+with the soup?
+
+62
+00:07:18,291 --> 00:07:22,416
+Mm-mm, it's good. I mean, it
+tastes just like usual.
+
+63
+00:07:22,500 --> 00:07:25,125
+How else is it supposed to
+taste? What's wrong?
+
+64
+00:07:25,208 --> 00:07:28,166
+You're acting kind of strange.
+
+65
+00:07:28,250 --> 00:07:33,458
+You think so? I guess I...
+I am... huh?
+
+66
+00:07:33,541 --> 00:07:36,208
+You're probably just tired.
+I'm the same way,
+
+67
+00:07:36,291 --> 00:07:37,791
+with all this overtime
+I've been doing.
+
+68
+00:07:37,875 --> 00:07:39,375
+I got so worn out last night
+
+69
+00:07:39,458 --> 00:07:41,500
+that I fell asleep right
+here on the table.
+
+70
+00:07:41,583 --> 00:07:47,166
+Oh, sorry... I, uh... couldn't
+call last night... ya see...
+
+71
+00:07:49,583 --> 00:07:52,166
+When I was laying here last
+night, I had a funny dream.
+
+72
+00:07:52,250 --> 00:07:53,666
+Huh?
+
+73
+00:07:53,750 --> 00:07:55,500
+About your mother.
+
+74
+00:08:02,666 --> 00:08:06,333
+She was right there in the
+kitchen. Washing all the dishes.
+
+75
+00:08:06,416 --> 00:08:09,458
+Of course, I was sitting here
+reading the newspaper.
+
+76
+00:08:09,541 --> 00:08:11,916
+And you were just a precocious
+little three year old
+
+77
+00:08:12,000 --> 00:08:13,666
+careening down hallway.
+
+78
+00:08:13,750 --> 00:08:16,791
+Then, you slide into your mom
+and grab onto her leg.
+
+79
+00:08:16,875 --> 00:08:18,958
+She just smiles
+and says "Sweetie,
+
+80
+00:08:19,041 --> 00:08:21,708
+why don't you go and play with
+your father for a little while?"
+
+81
+00:08:21,791 --> 00:08:24,583
+So you tear over to me
+just as fast as you can
+
+82
+00:08:24,666 --> 00:08:26,166
+and hop into my lap.
+
+83
+00:08:26,250 --> 00:08:28,750
+Then, while I was sitting here
+stroking your little head,
+
+84
+00:08:28,833 --> 00:08:30,083
+I thought...
+
+85
+00:08:30,166 --> 00:08:33,291
+"Wait, my son s already in
+highschool, isn't he?!"
+
+86
+00:08:33,375 --> 00:08:36,416
+Then I woke up and the kitchen
+was empty again.
+
+87
+00:08:36,500 --> 00:08:39,083
+I said "Just a dream, huh?"
+But...
+
+88
+00:08:39,166 --> 00:08:41,791
+I felt this warmth,
+like your mother's scent
+
+89
+00:08:41,875 --> 00:08:43,541
+was still lingering in the air.
+
+90
+00:08:43,625 --> 00:08:45,208
+I could almost touch it.
+
+91
+00:08:45,291 --> 00:08:47,875
+You know, it's funny, but I
+remember her smell too.
+
+92
+00:08:47,958 --> 00:08:49,250
+[FUMIO] Do you?
+
+93
+00:08:49,333 --> 00:08:52,833
+Yeah... when I think back to
+when I was a little kid,
+
+94
+00:08:52,916 --> 00:08:54,083
+Mom's scent and touch and
+
+95
+00:08:54,166 --> 00:08:56,958
+everything just comes
+to mind naturally.
+
+96
+00:08:57,041 --> 00:09:00,791
+I can't believe it's been
+ten years already.
+
+97
+00:09:00,875 --> 00:09:02,916
+[FUMIO] Hey, Sho...
+[SHO] Hm?
+
+98
+00:09:03,000 --> 00:09:04,625
+You still remember
+what happened
+
+99
+00:09:04,708 --> 00:09:06,708
+at your mother's
+funeral, don't you?
+
+100
+00:09:06,791 --> 00:09:08,291
+[SHO]
+Yeah.
+
+101
+00:09:08,375 --> 00:09:11,416
+[FUMIO] You were so brave. You
+wouldn't let anyone see you cry.
+
+102
+00:09:12,083 --> 00:09:14,458
+Some of the family were
+saying things like
+
+103
+00:09:14,541 --> 00:09:17,791
+"He still doesn't grasp the fact
+that his mother is dead" or
+
+104
+00:09:17,875 --> 00:09:20,541
+"I can't believe he's so
+cold-hearted."
+
+105
+00:09:20,625 --> 00:09:23,041
+But I know that's not true.
+
+106
+00:09:23,125 --> 00:09:26,708
+You just waited until after the
+funeral and people had gone.
+
+107
+00:09:26,791 --> 00:09:28,791
+That was when you stood in
+front of your mom's portrait
+
+108
+00:09:28,875 --> 00:09:31,291
+all alone and cried.
+
+109
+00:09:31,375 --> 00:09:33,250
+You saw that?
+
+110
+00:09:33,333 --> 00:09:36,500
+Yeah. You didn't want me to
+know how sad you were.
+
+111
+00:09:36,583 --> 00:09:38,916
+You were afraid it would
+hurt me, right?
+
+112
+00:09:39,000 --> 00:09:40,916
+Since I was so
+emotionally drained
+
+113
+00:09:41,000 --> 00:09:43,375
+after losing your mother like
+that, you had to be strong
+
+114
+00:09:43,458 --> 00:09:46,875
+for us both and show me that
+everything was going to be okay.
+
+115
+00:09:46,958 --> 00:09:49,500
+That's what you were
+thinking, right?
+
+116
+00:09:49,583 --> 00:09:54,041
+I... I don't know how I felt.
+I... was just a little kid then.
+
+117
+00:09:54,125 --> 00:09:55,875
+When you were growing up,
+everyone thought you
+
+118
+00:09:55,958 --> 00:09:58,583
+were a crybaby.
+Even your homeroom teacher
+
+119
+00:09:58,666 --> 00:10:01,625
+in elementary school called me
+up and said she was concerned.
+
+120
+00:10:01,708 --> 00:10:03,666
+But the truth is, ever
+since you were little,
+
+121
+00:10:03,750 --> 00:10:07,541
+you've been the strongest,
+bravest kid I've ever met.
+
+122
+00:10:07,625 --> 00:10:11,250
+Listen, I know you're all grown
+up now, but I'm still your dad.
+
+123
+00:10:11,333 --> 00:10:12,666
+So if something's wrong...
+
+124
+00:10:12,750 --> 00:10:15,000
+[SHO] Dad, this is really good.
+
+125
+00:10:22,875 --> 00:10:24,416
+[SHO] Thanks for the food.
+
+126
+00:10:36,875 --> 00:10:38,500
+Well, Honey, guess
+he's not going to
+
+127
+00:10:38,583 --> 00:10:41,291
+talk to me about it after
+all. Oh well...
+
+128
+00:10:48,291 --> 00:10:50,291
+You're leaving early today. 
+
+129
+00:10:50,375 --> 00:10:53,500
+That's right. I wanted to get
+home at a decent hour for once.
+
+130
+00:10:53,583 --> 00:10:56,708
+But if you end up making dinner,
+don't go to any trouble, okay?
+
+131
+00:10:56,791 --> 00:10:59,791
+It's no trouble. I'll make
+something good, all right?
+
+132
+00:11:00,625 --> 00:11:02,333
+Sounds great. See you.
+
+133
+00:11:02,416 --> 00:11:03,750
+Okay.
+
+134
+00:11:07,458 --> 00:11:10,708
+Hey Sho, are you sure you're
+feeling up to this?
+
+135
+00:11:10,791 --> 00:11:12,416
+You're not gonna hurt my
+feelings or anything
+
+136
+00:11:12,500 --> 00:11:14,166
+if you don't want
+to hang out today.
+
+137
+00:11:14,250 --> 00:11:17,000
+No, it's all right, I don't want
+Mizuki to get any more worried
+
+138
+00:11:17,083 --> 00:11:18,625
+about me than
+she already is.
+
+139
+00:11:18,708 --> 00:11:21,625
+[TETSURO] Well, as long as
+you re sure it s okay, I guess.
+
+140
+00:11:21,708 --> 00:11:24,083
+By the way, have you been
+watching TV?
+
+141
+00:11:24,166 --> 00:11:25,666
+It's not like it's any surprise,
+
+142
+00:11:25,750 --> 00:11:27,958
+but everyone's talking
+about the big explosion.
+
+143
+00:11:28,041 --> 00:11:30,041
+Oh uh... Don't worry though.
+
+144
+00:11:30,125 --> 00:11:32,000
+They didn't say anything
+about us or the Guyver,
+
+145
+00:11:32,083 --> 00:11:33,875
+just Max Pharmaceuticals.
+
+146
+00:11:48,416 --> 00:11:50,291
+Mr. Tanaka...
+
+147
+00:11:54,541 --> 00:11:56,041
+It's not so bad.
+
+148
+00:11:56,125 --> 00:11:59,458
+I mean, Chronos headquarters
+was wiped out and all, right?
+
+149
+00:11:59,541 --> 00:12:00,916
+[SHO] Yeah...
+
+150
+00:12:11,541 --> 00:12:13,083
+What's wrong?
+
+151
+00:12:13,166 --> 00:12:17,375
+Tetsuro, listen. I don't want
+Mizuki involved.
+
+152
+00:12:20,000 --> 00:12:22,541
+I wouldn't worry about
+it too much.
+
+153
+00:12:22,625 --> 00:12:23,791
+Our lips are sealed,
+
+154
+00:12:23,875 --> 00:12:26,166
+and nobody else knows
+what's going on. Right?
+
+155
+00:12:26,791 --> 00:12:28,541
+[knocking]
+
+156
+00:12:28,625 --> 00:12:30,083
+[MIZUKI] Come in.
+
+157
+00:12:35,000 --> 00:12:36,416
+Mizuki?
+
+158
+00:12:39,541 --> 00:12:40,875
+How are you?
+
+159
+00:12:40,958 --> 00:12:44,583
+Hey, Makishima. So you came
+to visit too, huh?
+
+160
+00:12:46,583 --> 00:12:50,541
+Well then, I guess I'll be
+going now. Take it easy.
+
+161
+00:12:50,625 --> 00:12:53,125
+Uh, Makishima, wait.
+
+162
+00:12:53,208 --> 00:12:56,375
+I haven't had a chance to thank
+you for all you ve done.
+
+163
+00:12:56,458 --> 00:12:58,333
+It was nothing, really.
+
+164
+00:12:58,416 --> 00:13:01,083
+I know you say that, but I
+really appreciate it.
+
+165
+00:13:01,166 --> 00:13:03,708
+Thanks a lot. I owe you one.
+
+166
+00:13:06,291 --> 00:13:08,083
+What's wrong? You're
+looking kind of glum.
+
+167
+00:13:08,166 --> 00:13:10,583
+Is something bothering
+you, Fukamachi?
+
+168
+00:13:11,833 --> 00:13:14,458
+Uh, no, I'm fine, really.
+
+169
+00:13:20,166 --> 00:13:22,916
+[MAKISHIMA] <i>The Guyver files</i>
+<i>have been reduced to ash,</i>
+
+170
+00:13:23,000 --> 00:13:24,458
+<i>all according to plan.</i>
+
+171
+00:13:24,541 --> 00:13:27,041
+<i>No one can stand in my way.</i>
+
+172
+00:13:35,208 --> 00:13:38,375
+Welcome home, Master Agito.
+I hope you're well.
+
+173
+00:13:38,458 --> 00:13:40,500
+[MAKISHIMA] I'm fine.
+[BUTLER] You have a guest
+
+174
+00:13:40,583 --> 00:13:42,666
+waiting for you
+in the parlor, Sir.
+
+175
+00:13:43,750 --> 00:13:45,000
+A guest?
+
+176
+00:13:46,875 --> 00:13:48,875
+Sorry to keep you waiting...
+
+177
+00:13:48,958 --> 00:13:51,125
+[shocked gasp]
+
+178
+00:13:51,208 --> 00:13:52,375
+[MAKISHIMA] <i>Guyot?!</i>
+
+179
+00:13:52,458 --> 00:13:55,500
+We meet again, Agito. Surprised?
+
+180
+00:13:57,708 --> 00:13:59,708
+[MAKISHIMA] <i>He's alive?</i>
+
+181
+00:14:12,125 --> 00:14:16,375
+Mizuki, what are you
+so angry about?
+
+182
+00:14:16,458 --> 00:14:19,125
+I don't care much for your
+attitude right now.
+
+183
+00:14:19,208 --> 00:14:21,250
+You've been acting like Sho
+and I did something wrong
+
+184
+00:14:21,333 --> 00:14:22,958
+since we came to the hospital.
+
+185
+00:14:23,041 --> 00:14:25,541
+We were just worried!
+
+186
+00:14:25,625 --> 00:14:28,583
+Worried, huh!? If you two
+really cared about how I felt
+
+187
+00:14:28,666 --> 00:14:31,208
+you'd stop playing games and
+tell me what's going on!
+
+188
+00:14:31,291 --> 00:14:32,500
+I...
+
+189
+00:14:32,583 --> 00:14:33,833
+I know you're hiding something.
+
+190
+00:14:33,916 --> 00:14:35,875
+I'm not putting up with
+this anymore.
+
+191
+00:14:35,958 --> 00:14:37,750
+I swear, I'm not speaking
+to either of you
+
+192
+00:14:37,833 --> 00:14:40,291
+until you tell me! Hmph!
+
+193
+00:14:40,375 --> 00:14:42,083
+Mizuki, I'm sorry!
+
+194
+00:14:43,625 --> 00:14:46,708
+I can't say why, but
+please believe me...
+
+195
+00:14:46,791 --> 00:14:50,750
+I promise you won t have to
+go through that ever again.
+
+196
+00:14:50,833 --> 00:14:52,708
+[TETSURO] Someday,
+when the time is right,
+
+197
+00:14:52,791 --> 00:14:54,250
+I'll tell you everything.
+
+198
+00:14:54,333 --> 00:14:58,000
+But for now, please, just
+try to understand.
+
+199
+00:15:01,083 --> 00:15:03,375
+Okay, fine.
+
+200
+00:15:03,458 --> 00:15:06,583
+Now let go of my arm! You don't
+have to treat me like a child!
+
+201
+00:15:10,791 --> 00:15:12,875
+Well, guess I'm going in.
+
+202
+00:15:12,958 --> 00:15:14,583
+All right then, sorry for
+the trouble and...
+
+203
+00:15:14,666 --> 00:15:16,833
+Sho!
+
+204
+00:15:16,916 --> 00:15:18,875
+Thank you for coming
+to see me today.
+
+205
+00:15:20,750 --> 00:15:22,833
+Well see you later! Bye!
+
+206
+00:15:22,916 --> 00:15:25,500
+Yeah, I'll catch you at
+school or something.
+
+207
+00:15:25,583 --> 00:15:27,291
+Well, Mizuki...
+
+208
+00:15:27,375 --> 00:15:30,250
+Now then, there's probably
+a whole mountain of laundry
+
+209
+00:15:30,333 --> 00:15:32,208
+waiting for me back
+at the house, huh?
+
+210
+00:15:39,083 --> 00:15:41,958
+[ominous music building]
+
+211
+00:15:47,958 --> 00:15:49,250
+[GUYOT]
+Excellent.
+
+212
+00:15:49,333 --> 00:15:53,083
+The reinforcements from
+Relic's Point have arrived.
+
+213
+00:15:53,166 --> 00:15:54,875
+The Three Lost
+Numbers reporting, Sir.
+
+214
+00:15:54,958 --> 00:15:57,291
+Our services are
+at your disposal.
+
+215
+00:15:57,375 --> 00:15:59,083
+[GUYOT]
+<i>That's good to hear.</i>
+
+216
+00:15:59,166 --> 00:16:01,541
+<i>I'll debrief you gentlemen on</i>
+<i>your mission in just a moment.</i>
+
+217
+00:16:01,625 --> 00:16:03,250
+[APTOM] Sir.
+[MAKISHIMA] Excuse me, Sir,
+
+218
+00:16:03,333 --> 00:16:04,666
+but what exactly do you mean by
+
+219
+00:16:04,750 --> 00:16:06,875
+"reinforcements from
+Relic's Point?"
+
+220
+00:16:06,958 --> 00:16:09,458
+The Lost Number Commandos,
+of course.
+
+221
+00:16:09,541 --> 00:16:11,041
+The Lost Numbers?!
+
+222
+00:16:11,125 --> 00:16:14,833
+You mean you called THEM here
+to retrieve the Guyver units?
+
+223
+00:16:14,916 --> 00:16:18,291
+That's what the circumstances
+dictated. I had no choice.
+
+224
+00:16:44,416 --> 00:16:46,875
+I'm kinda starting to feel
+like a housewife.
+
+225
+00:16:49,583 --> 00:16:51,375
+[doorbell rings]
+
+226
+00:16:51,458 --> 00:16:54,375
+[SHO] Coming!
+
+227
+00:16:54,458 --> 00:16:58,916
+[SHO] Welcome back!
+You're just in time! There!
+
+228
+00:17:14,500 --> 00:17:16,708
+What, is this some
+kind of sad joke?
+
+229
+00:17:16,791 --> 00:17:19,291
+You're not actually planning to
+fight me with THAT, are you?
+
+230
+00:17:19,375 --> 00:17:20,083
+[transformation growl]
+
+231
+00:17:21,791 --> 00:17:24,375
+[SHO] <i>A Zoanoid? You mean</i>
+<i>there were survivors?!</i>
+
+232
+00:17:27,791 --> 00:17:30,958
+[PANADYNE] I'm the
+hyper-Zoanoid, Panadyne.
+
+233
+00:17:31,041 --> 00:17:34,416
+I'm afraid Commander Guyot
+needs your control metal back.
+
+234
+00:17:34,500 --> 00:17:37,083
+So fork it over, brat!
+
+235
+00:17:37,166 --> 00:17:39,708
+Stop it!
+[Panadyne growls]
+
+236
+00:17:41,375 --> 00:17:42,875
+[Panadyne roars]
+
+237
+00:17:42,958 --> 00:17:45,250
+[SHO] <i>Guyot's still alive?!</i>
+
+238
+00:17:45,333 --> 00:17:48,041
+[PANADYNE] C'mon punk, stop
+screwing around and transform
+
+239
+00:17:48,125 --> 00:17:50,541
+so I can take your
+control metal!
+
+240
+00:17:50,625 --> 00:17:52,083
+[SHO]
+<i>Damn it! It'd get really messy</i>
+
+241
+00:17:52,166 --> 00:17:54,125
+<i>if I transformed in</i>
+<i>a place like this!</i>
+
+242
+00:17:55,541 --> 00:17:58,041
+[Panadyne roars]
+
+243
+00:18:06,333 --> 00:18:09,625
+[concerned chatter]
+
+244
+00:18:12,708 --> 00:18:15,625
+[WOMAN] Help! Someone help!
+
+245
+00:18:15,708 --> 00:18:19,916
+My baby is in there!
+Somebody, please help me!
+
+246
+00:18:25,041 --> 00:18:27,958
+Guyver!
+
+247
+00:18:29,541 --> 00:18:31,208
+[crowd reacts in alarm]
+
+248
+00:18:33,958 --> 00:18:37,333
+[baby crying]
+
+249
+00:18:39,291 --> 00:18:40,708
+[SHO] Over there!
+
+250
+00:18:46,000 --> 00:18:47,958
+[crowd amazed]
+
+251
+00:18:49,541 --> 00:18:51,458
+[baby crying]
+
+252
+00:18:51,541 --> 00:18:52,958
+[WOMAN] Akira...
+
+253
+00:18:55,375 --> 00:18:57,291
+[Panadyne laughs]
+
+254
+00:18:57,375 --> 00:18:59,750
+[PANADYNE] Burn, baby, burn!
+
+255
+00:18:59,833 --> 00:19:00,958
+[SHO] Stop it!
+
+256
+00:19:01,041 --> 00:19:02,166
+[PANADYNE] Huh?
+
+257
+00:19:08,541 --> 00:19:10,083
+[SHO] You son of a bitch!
+
+258
+00:19:16,916 --> 00:19:18,916
+Damn it... I can't fight here.
+
+259
+00:19:20,458 --> 00:19:21,833
+[PANADYNE] Stinkin' coward!
+
+260
+00:19:27,250 --> 00:19:30,458
+You're not getting away from me,
+you sneaky little bitch.
+
+261
+00:19:30,541 --> 00:19:32,875
+And you're sure as hell not
+getting away from Chronos!
+
+262
+00:19:34,625 --> 00:19:36,833
+Chronos has branches spanning
+the globe...
+
+263
+00:19:36,916 --> 00:19:40,208
+Just wait, an entire army of
+hyper-Zoanoids just like me
+
+264
+00:19:40,291 --> 00:19:42,583
+will conquer Japan and
+then the world! [growls]
+
+265
+00:19:44,375 --> 00:19:45,833
+[SHO] Shit!
+
+266
+00:19:49,541 --> 00:19:50,916
+[PANADYNE] Enough!
+
+267
+00:19:51,000 --> 00:19:52,416
+[Sho screams]
+
+268
+00:19:58,375 --> 00:19:59,875
+[MURAKAMI] Don't move.
+[PANADYNE] Hm?
+
+269
+00:20:13,125 --> 00:20:16,125
+[PANADYNE] What the hell do YOU
+want, you crazy son of a bitch?!
+
+270
+00:20:16,208 --> 00:20:18,583
+You think that pea shooter is
+gonna work on me?!
+
+271
+00:20:19,375 --> 00:20:20,750
+Let's find out.
+
+272
+00:20:26,125 --> 00:20:28,208
+[Panadyne cries out in pain]
+
+273
+00:20:31,041 --> 00:20:34,333
+[SHO] I'm won't run away!
+
+274
+00:20:34,416 --> 00:20:37,916
+[SHO] No matter what, I WON'T
+let Chronos win!
+
+275
+00:20:38,000 --> 00:20:40,833
+[Sho screams in defiance]
+
+276
+00:20:40,916 --> 00:20:44,541
+[Panadyne's death scream]
+
+277
+00:20:50,833 --> 00:20:53,958
+[a lonely wind whistles through]
+
+278
+00:20:54,041 --> 00:20:56,833
+[SHO] He's gone.
+Who was that guy?
+
+279
+00:20:58,250 --> 00:21:00,208
+[GUYOT] <i>What the hell was that?</i>
+
+280
+00:21:04,375 --> 00:21:06,333
+Sho!
+
+281
+00:21:06,416 --> 00:21:09,041
+[SHO] Tetsuro...
+[emergency sirens in distance]
+
+282
+00:21:09,125 --> 00:21:10,833
+Aw man, don't tell me this is...
+
+283
+00:21:10,916 --> 00:21:12,666
+[SHO] Yeah, Chronos.
+
+284
+00:21:12,750 --> 00:21:15,875
+Hold on! You mean they weren't
+finished off after all?
+
+285
+00:21:15,958 --> 00:21:19,000
+[sirens continue,
+growing louder]
+
+286
+00:21:23,416 --> 00:21:26,083
+[SHO] Tetsuro...
+Our town, it's...
+
+287
+00:21:28,291 --> 00:21:29,750
+Yeah...
+
+288
+00:21:40,625 --> 00:21:41,750
+[gasps]
+
+289
+00:21:41,833 --> 00:21:43,916
+Wh-What's wrong, Tetsuro?
+
+290
+00:21:46,375 --> 00:21:47,750
+It's Mizuki...
+
+291
+00:21:49,750 --> 00:21:55,500
+[SHO] <i>She saw me. She saw me...</i>
+<i>as the Guyver!</i>
+
+292
+00:23:29,833 --> 00:23:32,875
+[NARRATOR] Trapped in the
+clutches of an inescapable fate,
+
+293
+00:23:32,958 --> 00:23:35,583
+Sho is forced to turn away
+from the awe-struck Mizuki
+
+294
+00:23:35,666 --> 00:23:38,375
+and call upon the
+Guyver once again.
+
+295
+00:23:38,458 --> 00:23:41,416
+Standing before him are Chronos'
+fearsome warriors,
+
+296
+00:23:41,500 --> 00:23:44,625
+the Lost Number Commandos.
+With his friends in
+
+297
+00:23:44,708 --> 00:23:48,708
+constant danger, and his father
+captured as a living sacrifice,
+
+298
+00:23:48,791 --> 00:23:52,083
+Sho must fight to defend
+his fragile reality.
+
+299
+00:23:52,166 --> 00:23:55,208
+Next time:
+"Prelude to the Chase"
+

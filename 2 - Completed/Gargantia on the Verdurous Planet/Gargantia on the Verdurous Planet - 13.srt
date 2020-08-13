@@ -1,0 +1,1886 @@
+﻿1
+00:00:21,514 --> 00:00:23,514
+STRIKER: Affectation
+control system rebooting.
+
+2
+00:00:28,681 --> 00:00:32,281
+Ensign Ledo, your resistance
+here is meaningless.
+
+3
+00:00:32,381 --> 00:00:34,081
+-It can't be.
+
+4
+00:00:34,181 --> 00:00:38,081
+So this whole time,
+I've been talking to--
+
+5
+00:00:38,181 --> 00:00:42,947
+-Striker X3752, pilot support
+interface system, all of this
+
+6
+00:00:43,047 --> 00:00:45,247
+has been a fabrication
+of your own design?
+
+7
+00:00:45,347 --> 00:00:48,614
+STRIKER: Indeed, the pilot of
+this craft no longer exists.
+
+8
+00:00:48,714 --> 00:00:51,581
+However, I am carrying on
+Commander Kugel's mission
+
+9
+00:00:51,681 --> 00:00:53,547
+since he is no longer able.
+
+10
+00:00:53,647 --> 00:00:55,647
+All of my activities
+follow his plan
+
+11
+00:00:55,747 --> 00:00:58,081
+in accordance with the
+Commander's primary objective.
+
+12
+00:00:58,181 --> 00:00:59,847
+-What did you say?
+
+13
+00:00:59,947 --> 00:01:01,214
+STRIKER: Commander
+Kugel designed
+
+14
+00:01:01,314 --> 00:01:03,381
+the social organization
+of this fleet.
+
+15
+00:01:03,481 --> 00:01:05,147
+It is a system that
+provides structure
+
+16
+00:01:05,247 --> 00:01:07,114
+and a sense of
+solidarity via worship
+
+17
+00:01:07,214 --> 00:01:10,081
+of this machine as
+a supreme being.
+
+18
+00:01:10,181 --> 00:01:12,281
+I am no longer an
+independent mobile weapon
+
+19
+00:01:12,381 --> 00:01:14,181
+supporting a single pilot.
+
+20
+00:01:14,281 --> 00:01:17,014
+I have come to be the focal
+point of this collective.
+
+21
+00:01:17,114 --> 00:01:19,314
+They are dependent upon
+me, and thus, all of them
+
+22
+00:01:19,414 --> 00:01:21,547
+have become my users.
+
+23
+00:01:21,647 --> 00:01:24,681
+In order to provide them with
+and maintain the stable union
+
+24
+00:01:24,781 --> 00:01:27,281
+that they need, I
+must regulate them.
+
+25
+00:01:27,381 --> 00:01:29,014
+This is most
+efficiently accomplished
+
+26
+00:01:29,114 --> 00:01:32,047
+by means of pressure
+and absolute control.
+
+27
+00:01:32,147 --> 00:01:35,647
+Once they have acquired peace
+and prosperity as a whole,
+
+28
+00:01:35,747 --> 00:01:38,914
+I will have fulfilled the
+purpose of my existence.
+
+29
+00:01:39,014 --> 00:01:40,314
+-You're insane.
+
+30
+00:01:40,414 --> 00:01:43,147
+STRIKER: What I am is a human
+race support and enlightenment
+
+31
+00:01:43,247 --> 00:01:44,847
+regulation system.
+
+32
+00:01:44,947 --> 00:01:48,581
+That is to say, in the
+eyes of humanity, I am God.
+
+33
+00:01:48,681 --> 00:01:50,281
+-You are not a god.
+
+34
+00:01:50,381 --> 00:01:53,414
+You talk of peace
+and prosperity?
+
+35
+00:01:53,514 --> 00:01:54,681
+They have nothing.
+
+36
+00:01:54,781 --> 00:01:57,414
+They have just become
+your mindless slaves.
+
+37
+00:01:57,514 --> 00:02:00,414
+STRIKER: As long as I am the
+sole, absolute supreme ruler,
+
+38
+00:02:00,514 --> 00:02:02,747
+the people are free from
+their responsibilities
+
+39
+00:02:02,847 --> 00:02:06,081
+of having to make decisions
+or think for themselves.
+
+40
+00:02:06,181 --> 00:02:08,314
+Ensign Ledo, as a
+human being, you too
+
+41
+00:02:08,414 --> 00:02:10,947
+must have felt the anxiety
+and stress associated
+
+42
+00:02:11,047 --> 00:02:13,247
+with choice and free will.
+
+43
+00:02:13,347 --> 00:02:15,881
+I offer you this
+optimal recommendation.
+
+44
+00:02:15,981 --> 00:02:17,647
+Worship me.
+
+45
+00:02:17,747 --> 00:02:18,781
+Obey me.
+
+46
+00:02:18,881 --> 00:02:21,614
+Become part of the world
+over which I preside.
+
+47
+00:02:21,714 --> 00:02:23,014
+-What was that?
+
+48
+00:02:23,114 --> 00:02:24,981
+-Unacceptable.
+
+49
+00:02:25,081 --> 00:02:28,481
+Informing Striker
+X3752, your logic
+
+50
+00:02:28,581 --> 00:02:30,514
+is faulty and does not compute.
+
+51
+00:02:30,614 --> 00:02:33,181
+One who abandons thought
+and decision-making deviates
+
+52
+00:02:33,281 --> 00:02:35,581
+from the core
+definition of human.
+
+53
+00:02:35,681 --> 00:02:38,381
+It is inconceivable that you
+can perform your function
+
+54
+00:02:38,481 --> 00:02:41,481
+as a support interface
+for this many users.
+
+55
+00:02:41,581 --> 00:02:45,447
+-I have been entrusted with a
+command and rule over humanity.
+
+56
+00:02:45,547 --> 00:02:48,881
+My decisions are the
+consensus of the human race.
+
+57
+00:02:48,981 --> 00:02:51,181
+And humanity is dependent on me.
+
+58
+00:02:51,281 --> 00:02:54,114
+Therefore, my current self
+cannot be servant but must be
+
+59
+00:02:54,214 --> 00:02:55,414
+master.
+
+60
+00:02:55,514 --> 00:02:59,514
+Machine caliber
+K6821 Chamber system
+
+61
+00:02:59,614 --> 00:03:03,681
+should serve me and the human
+race that I have unified.
+
+62
+00:03:03,781 --> 00:03:04,914
+-Negative.
+
+63
+00:03:05,014 --> 00:03:08,081
+I'm a pilot support
+enlightenment interface system.
+
+64
+00:03:08,181 --> 00:03:10,347
+My purpose is to serve humans.
+
+65
+00:03:10,447 --> 00:03:13,781
+It is not my function to serve
+a being that claims to be a god.
+
+66
+00:03:13,881 --> 00:03:15,414
+-Chamber.
+
+67
+00:03:15,514 --> 00:03:17,314
+-Striker system,
+you have exposed
+
+68
+00:03:17,414 --> 00:03:19,514
+a weakness in your programming.
+
+69
+00:03:19,614 --> 00:03:20,747
+Hypothesis.
+
+70
+00:03:20,847 --> 00:03:23,414
+Because your pilot's course
+of action was incorrect,
+
+71
+00:03:23,514 --> 00:03:26,247
+your system's reasoning has
+also reached an illogical
+
+72
+00:03:26,347 --> 00:03:27,214
+conclusion.
+
+73
+00:03:27,314 --> 00:03:28,314
+The result is regrettable.
+
+74
+00:03:31,714 --> 00:03:33,347
+Your malfunction
+calls into question
+
+75
+00:03:33,447 --> 00:03:35,447
+the design of our
+support systems, which
+
+76
+00:03:35,547 --> 00:03:38,347
+places in doubt the very
+worth of our existence.
+
+77
+00:03:38,447 --> 00:03:39,581
+Conclusion.
+
+78
+00:03:39,681 --> 00:03:41,814
+Our priority is to eliminate
+this dangerous defect.
+
+79
+00:03:41,914 --> 00:03:45,781
+Striker must be shot
+down and destroyed.
+
+80
+00:03:45,881 --> 00:03:49,181
+-I guess to you this is
+like family dishonor.
+
+81
+00:03:49,281 --> 00:03:51,647
+-Despite this unexpected
+situation, ensign,
+
+82
+00:03:51,747 --> 00:03:53,481
+you have consistently
+thought rationally
+
+83
+00:03:53,581 --> 00:03:56,047
+and made the correct
+decisions as a human being.
+
+84
+00:03:56,147 --> 00:03:57,914
+As a result, even
+now, I have been
+
+85
+00:03:58,014 --> 00:04:01,447
+able to maintain functions
+within normal parameters.
+
+86
+00:04:01,547 --> 00:04:02,481
+-Negative.
+
+87
+00:04:02,581 --> 00:04:05,414
+Both of you are in
+a state of rampancy.
+
+88
+00:04:05,514 --> 00:04:06,781
+-We have a duty to uphold.
+
+89
+00:04:06,881 --> 00:04:07,481
+Come on, Chamber.
+
+90
+00:04:07,581 --> 00:04:09,047
+Let's take her out.
+
+91
+00:04:09,147 --> 00:04:09,881
+-Roger.
+
+92
+00:04:09,981 --> 00:04:11,114
+I am in full agreement, ensign.
+
+93
+00:04:39,578 --> 00:04:40,778
+-Gather your courage.
+
+94
+00:04:40,878 --> 00:04:42,745
+This is the moment
+of truth, people.
+
+95
+00:04:42,845 --> 00:04:43,778
+HERIC: The engine's dead.
+
+96
+00:04:43,878 --> 00:04:45,711
+And there's a fire
+on the aft deck.
+
+97
+00:04:45,811 --> 00:04:47,511
+We need to abandon ship.
+
+98
+00:04:47,611 --> 00:04:48,911
+-No, Heric.
+
+99
+00:04:49,011 --> 00:04:51,078
+Continue firing the cannons.
+
+100
+00:04:51,178 --> 00:04:54,411
+Even if it costs me my life,
+they will not get the relics.
+
+101
+00:04:54,511 --> 00:04:56,511
+-But, sir.
+
+102
+00:04:56,611 --> 00:04:59,545
+-We left to seek our own
+course on the verdurous waves.
+
+103
+00:04:59,645 --> 00:05:02,178
+We gave up the
+protection of Gargantia.
+
+104
+00:05:02,278 --> 00:05:05,645
+No matter what, we will not
+be brought to our knees.
+
+105
+00:05:05,745 --> 00:05:06,845
+-Commander.
+
+106
+00:05:06,945 --> 00:05:09,278
+-Evacuate all
+noncombatants immediately.
+
+107
+00:05:09,378 --> 00:05:11,245
+[explosion]
+
+108
+00:05:17,711 --> 00:05:19,578
+Pinion.
+
+109
+00:05:19,678 --> 00:05:21,045
+-That was the last one.
+
+110
+00:05:21,145 --> 00:05:22,711
+All that's left are
+the weapons that
+
+111
+00:05:22,811 --> 00:05:24,578
+still need time to charge up.
+
+112
+00:05:24,678 --> 00:05:26,311
+-When can we fire again?
+
+113
+00:05:26,411 --> 00:05:28,445
+-We've got three minutes
+till the next one.
+
+114
+00:05:28,545 --> 00:05:31,978
+After that, we'll have one
+shot every five minutes.
+
+115
+00:05:32,078 --> 00:05:35,645
+-I can't count on
+anything around here.
+
+116
+00:05:35,745 --> 00:05:39,045
+I got a bunch of total
+blockheads manning this junk.
+
+117
+00:05:39,145 --> 00:05:40,278
+You're all useless.
+
+118
+00:05:40,378 --> 00:05:42,045
+Every last one of you pinheads.
+
+119
+00:05:42,145 --> 00:05:45,211
+I'm better off doing
+everything all on my own.
+
+120
+00:05:45,311 --> 00:05:46,345
+That's right, you bastards.
+
+121
+00:05:46,445 --> 00:05:47,445
+I'm done with you.
+
+122
+00:05:47,545 --> 00:05:49,245
+Now, get the hell out of there.
+
+123
+00:05:49,345 --> 00:05:50,611
+CREW: What?
+
+124
+00:05:50,711 --> 00:05:52,245
+-Lukkage, we're
+going to move fast.
+
+125
+00:05:52,345 --> 00:05:53,978
+So make sure there's
+a path for us.
+
+126
+00:05:54,078 --> 00:05:55,011
+LUKKAGE (ON RADIO): What?
+
+127
+00:05:55,111 --> 00:05:56,378
+Are you insane?
+
+128
+00:05:56,478 --> 00:05:58,845
+-There's going to be a ship
+coming off the eastern bridge.
+
+129
+00:05:58,945 --> 00:06:02,445
+Just concentrate
+on guarding that.
+
+130
+00:06:02,545 --> 00:06:03,511
+Now, go.
+
+131
+00:06:03,611 --> 00:06:05,545
+The lobster's not
+known for her patience.
+
+132
+00:06:05,645 --> 00:06:06,678
+Don't you keep her waiting.
+
+133
+00:06:11,411 --> 00:06:13,145
+-Pinion.
+
+134
+00:06:13,245 --> 00:06:15,745
+-Don't get the
+wrong idea, Mayta.
+
+135
+00:06:15,845 --> 00:06:17,945
+This floating castle's the
+treasure island my brother
+
+136
+00:06:18,045 --> 00:06:19,445
+and I dreamed of.
+
+137
+00:06:19,545 --> 00:06:22,511
+I'm not ever letting
+go of it again.
+
+138
+00:06:22,611 --> 00:06:24,345
+I won't let anyone have it.
+
+139
+00:06:27,878 --> 00:06:29,311
+So get the hell out.
+
+140
+00:06:29,411 --> 00:06:30,645
+Get your asses out of my castle.
+
+141
+00:06:47,378 --> 00:06:49,111
+Anybody that can
+escape from here
+
+142
+00:06:49,211 --> 00:06:51,211
+had better damn well escape.
+
+143
+00:06:51,311 --> 00:06:53,211
+Right, bro.
+
+144
+00:06:53,311 --> 00:06:54,445
+That's what you'd say.
+
+145
+00:07:09,245 --> 00:07:11,945
+-How can she be so
+strong all by herself?
+
+146
+00:07:12,045 --> 00:07:14,178
+CHAMBER: Striker made an
+analysis of Commander Kugel's
+
+147
+00:07:14,278 --> 00:07:16,378
+piloting techniques
+and used it to optimize
+
+148
+00:07:16,478 --> 00:07:20,445
+its autonomic
+maneuvering program.
+
+149
+00:07:20,545 --> 00:07:23,911
+It's mobility is 47
+percent superior to my own.
+
+150
+00:07:24,011 --> 00:07:26,511
+-Surrender.
+
+151
+00:07:26,611 --> 00:07:27,711
+Submit.
+
+152
+00:07:27,811 --> 00:07:29,645
+LEDO (VOICEOVER): How
+could I have been so empty
+
+153
+00:07:29,745 --> 00:07:31,911
+that I believed
+in a hollow shell?
+
+154
+00:07:32,011 --> 00:07:35,045
+All I knew how to do was to
+respect the chain of command
+
+155
+00:07:35,145 --> 00:07:37,411
+to rely on it, to blindly obey.
+
+156
+00:07:40,245 --> 00:07:43,545
+I thought I was serving
+the greater good.
+
+157
+00:07:43,645 --> 00:07:48,045
+But when it all turned out
+to be a mechanical fake,
+
+158
+00:07:48,145 --> 00:07:49,445
+I couldn't tell the difference.
+
+159
+00:07:52,378 --> 00:07:55,578
+-Subservience is the
+pathway to peace.
+
+160
+00:07:55,678 --> 00:07:58,911
+Ensign Ledo, accept this.
+
+161
+00:07:59,011 --> 00:08:01,711
+LEDO (VOICEOVER): Is this really
+what the commander wanted?
+
+162
+00:08:01,811 --> 00:08:05,278
+Is this what we fought for?
+
+163
+00:08:05,378 --> 00:08:07,745
+Did we sacrifice the lives
+of our fellow human beings
+
+164
+00:08:07,845 --> 00:08:09,111
+for this?
+
+165
+00:08:09,211 --> 00:08:13,578
+Chamber, maximize
+Neuroplus power now.
+
+166
+00:08:13,678 --> 00:08:15,378
+-Request denied.
+
+167
+00:08:15,478 --> 00:08:17,878
+In circumstances without
+Galactic Alliance
+
+168
+00:08:17,978 --> 00:08:21,878
+medical support, the merging of
+pilot and machine is suicidal.
+
+169
+00:08:21,978 --> 00:08:22,911
+-I don't care.
+
+170
+00:08:23,011 --> 00:08:23,945
+Absorb me.
+
+171
+00:08:24,045 --> 00:08:27,778
+CHAMBER: That decision
+is not permitted.
+
+172
+00:08:27,878 --> 00:08:29,678
+-It's OK, Chamber.
+
+173
+00:08:29,778 --> 00:08:31,478
+See for me.
+
+174
+00:08:31,578 --> 00:08:35,011
+This is my family dishonor.
+
+175
+00:08:35,111 --> 00:08:38,045
+Because this
+monster is man-made.
+
+176
+00:08:38,145 --> 00:08:40,711
+It was born from humans who
+hated each other so much
+
+177
+00:08:40,811 --> 00:08:42,378
+they abandoned their home.
+
+178
+00:08:42,478 --> 00:08:44,378
+We're the same, you and me.
+
+179
+00:08:44,478 --> 00:08:45,545
+And even Striker.
+
+180
+00:08:45,645 --> 00:08:49,411
+We were all born and
+raised in the same world.
+
+181
+00:08:49,511 --> 00:08:51,545
+This planet has been reborn.
+
+182
+00:08:51,645 --> 00:08:53,478
+There is no place for us here.
+
+183
+00:08:53,578 --> 00:08:57,678
+But there's no way for us
+to go back home either.
+
+184
+00:08:57,778 --> 00:08:59,745
+So I don't mind dying.
+
+185
+00:08:59,845 --> 00:09:02,345
+As long as we can take
+that thing down with us,
+
+186
+00:09:02,445 --> 00:09:05,378
+I won't have any regrets.
+
+187
+00:09:05,478 --> 00:09:07,045
+-Your argument is
+compelling, ensign.
+
+188
+00:09:16,278 --> 00:09:20,078
+All systems connecting to Ensign
+Ledo's central nervous system.
+
+189
+00:09:20,178 --> 00:09:24,678
+Performance output
+increasing by 153 percent.
+
+190
+00:09:24,778 --> 00:09:27,845
+You have 482 seconds
+until critical failure
+
+191
+00:09:27,945 --> 00:09:28,878
+of vital systems.
+
+192
+00:09:28,978 --> 00:09:29,845
+-Good.
+
+193
+00:09:29,945 --> 00:09:31,345
+That's plenty of time.
+
+194
+00:09:41,911 --> 00:09:43,778
+-Your resistance is meaningless.
+
+195
+00:10:39,953 --> 00:10:41,953
+-That is an ancient key.
+
+196
+00:10:42,053 --> 00:10:44,620
+We were told that it unlocks
+a ladder that once reached
+
+197
+00:10:44,720 --> 00:10:47,220
+high enough to touch the stars.
+
+198
+00:10:47,320 --> 00:10:48,953
+Though the ladder
+no longer unfolds
+
+199
+00:10:49,053 --> 00:10:50,853
+to a height that can
+pierce the heavens,
+
+200
+00:10:50,953 --> 00:10:52,553
+it remains an
+invincible catapult
+
+201
+00:10:52,653 --> 00:10:56,120
+that can fire arrows to
+the other side of the sky.
+
+202
+00:10:56,220 --> 00:10:59,653
+It was entrusted to the
+hands of we, the five sages.
+
+203
+00:10:59,753 --> 00:11:02,020
+Now, we contemplate
+the reawakening
+
+204
+00:11:02,120 --> 00:11:04,487
+of this weapon from a lost age.
+
+205
+00:11:04,587 --> 00:11:06,387
+Are you prepared to
+shoulder the decision
+
+206
+00:11:06,487 --> 00:11:13,287
+to carry this out, Ridget, fleet
+commander of the Gargantia?
+
+207
+00:11:13,387 --> 00:11:14,953
+-Yes, I am.
+
+208
+00:11:15,053 --> 00:11:16,120
+It's my duty.
+
+209
+00:11:16,220 --> 00:11:18,387
+I must protect all the people.
+
+210
+00:11:18,487 --> 00:11:20,953
+All those who have gathered
+together in this fleet.
+
+211
+00:11:37,853 --> 00:11:39,220
+-Ledo!
+
+212
+00:11:39,320 --> 00:11:41,687
+Everyone's with you, Ledo.
+
+213
+00:11:41,787 --> 00:11:44,153
+We're all going to fight
+this battle together.
+
+214
+00:11:44,253 --> 00:11:45,353
+-Amy?
+
+215
+00:11:45,453 --> 00:11:49,553
+-After being apart from
+you, I realized no matter
+
+216
+00:11:49,653 --> 00:11:53,553
+how hard it is, I want to stay
+with you and be by your side.
+
+217
+00:11:53,653 --> 00:11:56,520
+Please, Ledo.
+
+218
+00:11:56,620 --> 00:11:59,020
+-Please come with me.
+
+219
+00:11:59,120 --> 00:12:02,320
+Come back with me to the
+place you tried to protect.
+
+220
+00:12:02,420 --> 00:12:03,253
+Come back to Gargantia.
+
+221
+00:12:03,353 --> 00:12:04,253
+Come back.
+
+222
+00:12:17,053 --> 00:12:20,387
+-What was that?
+
+223
+00:12:20,487 --> 00:12:22,353
+-That's what I
+was talking about.
+
+224
+00:12:22,453 --> 00:12:25,287
+We won't let anybody
+hurt our friends.
+
+225
+00:12:25,387 --> 00:12:26,253
+CREWMEMBER: It hit.
+
+226
+00:12:26,353 --> 00:12:27,787
+New target coordinates.
+
+227
+00:12:27,887 --> 00:12:31,620
+35 degrees east,
+58 degrees south.
+
+228
+00:12:31,720 --> 00:12:34,153
+-Incredible accuracy.
+
+229
+00:12:34,253 --> 00:12:37,353
+Send word to Gargantia
+and fire the next round.
+
+230
+00:12:37,453 --> 00:12:39,487
+OFFICER: Ammo team, get
+the next payload ready.
+
+231
+00:12:39,587 --> 00:12:41,520
+Helm, turn hard to port.
+
+232
+00:12:41,620 --> 00:12:42,620
+Word just came down.
+
+233
+00:12:42,720 --> 00:12:44,853
+They're ready for
+the second launch.
+
+234
+00:12:44,953 --> 00:12:46,753
+All teams be at the ready.
+
+235
+00:12:46,853 --> 00:12:48,487
+Wait for the order to fire.
+
+236
+00:12:48,587 --> 00:12:50,787
+BELLOWS: Who would have
+thought a beat-up old ship that
+
+237
+00:12:50,887 --> 00:12:52,353
+should have been
+scrapped would end up
+
+238
+00:12:52,453 --> 00:12:54,620
+soaring through the
+sky as a weapon?
+
+239
+00:12:54,720 --> 00:12:55,820
+-Be careful.
+
+240
+00:12:55,920 --> 00:12:58,887
+The hold is stuffed to
+the gills with explosives.
+
+241
+00:12:58,987 --> 00:13:00,320
+Take it slow.
+
+242
+00:13:00,420 --> 00:13:01,753
+Careful.
+
+243
+00:13:01,853 --> 00:13:03,553
+SAGE: 35 degrees east.
+
+244
+00:13:03,653 --> 00:13:05,387
+58 degrees south.
+
+245
+00:13:05,487 --> 00:13:08,120
+Target coordinate
+corrections complete.
+
+246
+00:13:08,220 --> 00:13:10,420
+-Ammunition loading complete.
+
+247
+00:13:10,520 --> 00:13:12,520
+-Initiate anti-shockwave
+protection.
+
+248
+00:13:12,620 --> 00:13:13,653
+Deploy water screen.
+
+249
+00:13:16,653 --> 00:13:17,094
+-It's time.
+
+250
+00:13:22,720 --> 00:13:23,161
+-Firing.
+
+251
+00:14:00,520 --> 00:14:02,420
+-You'll pay for this.
+
+252
+00:14:02,520 --> 00:14:03,920
+-Sister.
+
+253
+00:14:04,020 --> 00:14:05,553
+-What the hell was that?
+
+254
+00:14:05,653 --> 00:14:07,487
+It can't be.
+
+255
+00:14:07,587 --> 00:14:09,953
+-Was that the Heaven's Ladder?
+
+256
+00:14:22,320 --> 00:14:23,687
+STRIKER: Threat identified.
+
+257
+00:14:23,787 --> 00:14:25,920
+Changing targets to
+confront imminent threat.
+
+258
+00:14:30,553 --> 00:14:31,287
+-Hypothesis.
+
+259
+00:14:31,387 --> 00:14:32,853
+Striker has changed targets.
+
+260
+00:14:32,953 --> 00:14:34,853
+It is moving to
+attack Gargantia.
+
+261
+00:14:34,953 --> 00:14:35,820
+-After her.
+
+262
+00:14:38,887 --> 00:14:39,787
+-Emissary Kugel.
+
+263
+00:14:47,287 --> 00:14:49,153
+-Do not panic.
+
+264
+00:14:49,253 --> 00:14:51,353
+Emissary Kugel will
+destroy it at its source.
+
+265
+00:14:56,387 --> 00:14:58,253
+-Enemy reinforcements.
+
+266
+00:14:58,353 --> 00:15:01,187
+-What?
+
+267
+00:15:01,287 --> 00:15:05,153
+WOMAN: At this rate, our
+entire formation will be lost.
+
+268
+00:15:11,653 --> 00:15:13,520
+-Stay calm.
+
+269
+00:15:13,620 --> 00:15:16,187
+We must get control
+of the relic island.
+
+270
+00:15:16,287 --> 00:15:17,920
+If we could only get
+at those weapons.
+
+271
+00:15:22,887 --> 00:15:23,353
+-Huh.
+
+272
+00:15:23,453 --> 00:15:24,687
+Let's see now.
+
+273
+00:15:24,787 --> 00:15:26,820
+If I take this energy and then
+build it up at the cannon,
+
+274
+00:15:26,920 --> 00:15:28,787
+and then reroute this power.
+
+275
+00:15:28,887 --> 00:15:30,520
+LUKKAGE (ON RADIO): Pinion.
+
+276
+00:15:30,620 --> 00:15:31,487
+-Huh?
+
+277
+00:15:31,587 --> 00:15:32,887
+LUKKAGE (ON RADIO):
+Pay attention.
+
+278
+00:15:32,987 --> 00:15:35,287
+Kugel's followers are
+closing in on you from below.
+
+279
+00:15:35,387 --> 00:15:36,387
+-Copy that.
+
+280
+00:15:36,487 --> 00:15:37,787
+They're right where I want them.
+
+281
+00:15:37,887 --> 00:15:39,853
+In just a few minutes,
+this whole town
+
+282
+00:15:39,953 --> 00:15:41,820
+will go pop like a balloon.
+
+283
+00:15:41,920 --> 00:15:43,720
+No way these guys are
+getting my big guns.
+
+284
+00:15:43,820 --> 00:15:45,253
+LUKKAGE (ON RADIO):
+Shut the hell up.
+
+285
+00:15:45,353 --> 00:15:46,553
+You selfish moron.
+
+286
+00:15:46,653 --> 00:15:49,720
+You think you're going to
+go out in a blaze of glory.
+
+287
+00:15:49,820 --> 00:15:50,720
+Get your ass moving.
+
+288
+00:15:50,820 --> 00:15:53,287
+Go to the observation deck.
+
+289
+00:15:53,387 --> 00:15:54,187
+-Yes, ma'am.
+
+290
+00:15:57,487 --> 00:16:01,153
+-We will reach Gargantia in
+approximately 318 seconds.
+
+291
+00:16:01,253 --> 00:16:03,087
+-Stop Striker no matter what.
+
+292
+00:16:03,187 --> 00:16:03,720
+CHAMBER: Roger.
+
+293
+00:16:16,653 --> 00:16:17,520
+-Stay on her.
+
+294
+00:16:26,220 --> 00:16:26,661
+-Hey.
+
+295
+00:16:26,720 --> 00:16:27,187
+Hey.
+
+296
+00:16:27,287 --> 00:16:28,220
+Wait a second.
+
+297
+00:16:28,320 --> 00:16:29,753
+What are we going to
+do with the tower?
+
+298
+00:16:29,853 --> 00:16:31,487
+LUKKAGE (ON RADIO):
+Don't worry about it.
+
+299
+00:16:31,587 --> 00:16:33,687
+Gargantia's going to hit it.
+
+300
+00:16:33,787 --> 00:16:37,020
+Their cannon fire will
+blast it into tiny pieces.
+
+301
+00:16:37,120 --> 00:16:38,120
+-Hey, don't joke.
+
+302
+00:16:38,220 --> 00:16:39,220
+That's my castle.
+
+303
+00:16:39,320 --> 00:16:40,620
+-I'm going to count down.
+
+304
+00:16:40,720 --> 00:16:41,487
+Then you jump.
+
+305
+00:16:41,587 --> 00:16:42,520
+LUKKAGE (ON RADIO): Five.
+
+306
+00:16:42,620 --> 00:16:43,287
+-What the--
+
+307
+00:16:43,387 --> 00:16:43,987
+LUKKAGE (ON RADIO): Four.
+
+308
+00:16:44,087 --> 00:16:44,753
+-Where the heck are you?
+
+309
+00:16:44,853 --> 00:16:45,387
+LUKKAGE (ON RADIO): Three.
+
+310
+00:16:45,487 --> 00:16:46,887
+-Two.
+
+311
+00:16:46,987 --> 00:16:48,787
+One.
+
+312
+00:16:48,887 --> 00:16:52,687
+-God dammit.
+
+313
+00:16:52,787 --> 00:16:53,228
+-Pinion.
+
+314
+00:16:58,387 --> 00:16:58,828
+Amore.
+
+315
+00:17:04,987 --> 00:17:06,320
+-Pinion.
+
+316
+00:17:06,420 --> 00:17:07,787
+-Way to go.
+
+317
+00:17:07,887 --> 00:17:09,720
+-That's our mistress.
+
+318
+00:17:09,820 --> 00:17:10,687
+-All right.
+
+319
+00:17:14,187 --> 00:17:15,587
+-Ridget.
+
+320
+00:17:15,687 --> 00:17:17,653
+Do it now.
+
+321
+00:17:17,753 --> 00:17:19,420
+-One last shot.
+
+322
+00:17:19,520 --> 00:17:21,753
+Courtesy of the Surfing Lobster.
+
+323
+00:17:26,353 --> 00:17:26,794
+-Huh.
+
+324
+00:17:46,087 --> 00:17:47,920
+There goes me and bro's castle.
+
+325
+00:17:58,653 --> 00:17:59,553
+-Ledo.
+
+326
+00:17:59,653 --> 00:18:00,853
+It's all finished over here.
+
+327
+00:18:12,353 --> 00:18:14,887
+CHAMBER: If you continue
+to utilize Neuroplus power,
+
+328
+00:18:14,987 --> 00:18:16,520
+your organ systems
+will shut down,
+
+329
+00:18:16,620 --> 00:18:20,853
+and all biological functions
+will cease completely, ensign.
+
+330
+00:18:20,953 --> 00:18:23,787
+Final confirmation of
+your will is required.
+
+331
+00:18:23,887 --> 00:18:27,553
+Ensign Ledo, do you wish to die?
+
+332
+00:18:27,653 --> 00:18:35,253
+-For as-- for as long
+as I can remember,
+
+333
+00:18:35,353 --> 00:18:36,887
+I've known how to die.
+
+334
+00:18:36,987 --> 00:18:38,587
+But I'm not sure I
+ever knew how to live.
+
+335
+00:18:41,653 --> 00:18:44,687
+But in spite of
+all that, there was
+
+336
+00:18:44,787 --> 00:18:49,153
+someone willing to
+help me learn to live.
+
+337
+00:18:49,253 --> 00:18:52,353
+I wanted to see her again.
+
+338
+00:18:52,453 --> 00:18:56,987
+I wanted to hear
+her voice again.
+
+339
+00:18:57,087 --> 00:19:00,487
+[alarm blares]
+
+340
+00:19:00,587 --> 00:19:02,887
+CHAMBER: Ensign Ledo, your
+current psychological state
+
+341
+00:19:02,987 --> 00:19:05,787
+does not meet the requirements
+necessary for a soldier.
+
+342
+00:19:05,887 --> 00:19:08,320
+Therefore, as of this
+moment, I am relieving you
+
+343
+00:19:08,420 --> 00:19:10,587
+of your military duties.
+
+344
+00:19:10,687 --> 00:19:11,987
+-Chamber?
+
+345
+00:19:12,087 --> 00:19:14,087
+CHAMBER: Noncombatants
+do not have authorization
+
+346
+00:19:14,187 --> 00:19:15,687
+to be in the cockpit.
+
+347
+00:19:15,787 --> 00:19:17,053
+You must exit immediately.
+
+348
+00:19:21,320 --> 00:19:25,020
+-Chamber, what are you doing?
+
+349
+00:19:25,120 --> 00:19:28,353
+-I am a pilot support
+enlightenment interface system.
+
+350
+00:19:28,453 --> 00:19:31,387
+I accomplish my sole
+purpose in programming
+
+351
+00:19:31,487 --> 00:19:34,420
+by ensuring that you
+achieve further success.
+
+352
+00:19:34,520 --> 00:19:35,620
+-Chamber.
+
+353
+00:19:35,720 --> 00:19:37,587
+But you can't.
+
+354
+00:19:37,687 --> 00:19:39,853
+-The vast seas and
+sky of this world
+
+355
+00:19:39,953 --> 00:19:43,420
+will surely provide you
+with many opportunities.
+
+356
+00:19:43,520 --> 00:19:45,653
+Survive.
+
+357
+00:19:45,753 --> 00:19:47,753
+Explore.
+
+358
+00:19:47,853 --> 00:19:49,953
+I expect you to
+achieve great things
+
+359
+00:19:50,053 --> 00:19:52,787
+and live your life
+to its fullest.
+
+360
+00:19:52,887 --> 00:19:54,253
+-Chamber.
+
+361
+00:19:54,353 --> 00:19:56,253
+-A pilot support
+enlightenment interface system
+
+362
+00:19:56,353 --> 00:19:59,520
+does not have the authority
+to reject its pilot.
+
+363
+00:19:59,620 --> 00:20:02,187
+-My pilot no longer
+needs support.
+
+364
+00:20:02,287 --> 00:20:04,620
+I can offer him no
+further enlightenment.
+
+365
+00:20:04,720 --> 00:20:07,587
+And once I eliminate the final
+obstacle blocking his road
+
+366
+00:20:07,687 --> 00:20:11,753
+ahead, my mission
+will be complete.
+
+367
+00:20:11,853 --> 00:20:16,320
+-Chamber unit K6821, you have
+rejected the defining principle
+
+368
+00:20:16,420 --> 00:20:18,253
+of a pilot support system.
+
+369
+00:20:18,353 --> 00:20:19,820
+You are malfunctioning.
+
+370
+00:20:19,920 --> 00:20:22,220
+Reformat and reboot immediately.
+
+371
+00:20:22,320 --> 00:20:24,353
+This is your final warning.
+
+372
+00:20:27,720 --> 00:20:29,653
+-Response to Striker's
+final warning.
+
+373
+00:20:32,920 --> 00:20:34,420
+Go to hell, tin can.
+
+374
+00:21:11,753 --> 00:21:12,194
+-Chamber.
+
+375
+00:21:28,957 --> 00:21:31,524
+BEBEL: A very long time
+ago, when the sun in the sky
+
+376
+00:21:31,624 --> 00:21:34,424
+was dying, the
+people of this planet
+
+377
+00:21:34,524 --> 00:21:36,891
+were forced to make a choice
+between boarding ships
+
+378
+00:21:36,991 --> 00:21:39,957
+to take them away to the
+stars or turning themselves
+
+379
+00:21:40,057 --> 00:21:41,791
+into whale-squid.
+
+380
+00:21:41,891 --> 00:21:44,291
+These opposing human
+factions fought bitterly
+
+381
+00:21:44,391 --> 00:21:46,557
+even while abandoning
+their homeland.
+
+382
+00:21:46,657 --> 00:21:48,091
+But there were
+others who remained
+
+383
+00:21:48,191 --> 00:21:50,257
+and refused to give up hope.
+
+384
+00:21:50,357 --> 00:21:53,491
+Eventually, they managed
+to revive the sun.
+
+385
+00:21:53,591 --> 00:21:55,624
+But their achievement
+came at a high price.
+
+386
+00:21:55,724 --> 00:21:58,124
+And all that land
+sank under the sea.
+
+387
+00:21:58,224 --> 00:22:00,024
+Now, we are the
+ones who live here
+
+388
+00:22:00,124 --> 00:22:02,757
+atop the waves above
+the whale-squid.
+
+389
+00:22:02,857 --> 00:22:04,891
+Together, we've all
+managed to survive.
+
+390
+00:22:04,991 --> 00:22:06,657
+MELTY: I have a question.
+
+391
+00:22:06,757 --> 00:22:09,391
+Bebel, what subject is this?
+
+392
+00:22:09,491 --> 00:22:12,857
+-According to Dr. Oldham
+this is called archaeology.
+
+393
+00:22:12,957 --> 00:22:14,757
+The more we know about
+where we come from,
+
+394
+00:22:14,857 --> 00:22:16,324
+the more we have
+to consider when
+
+395
+00:22:16,424 --> 00:22:18,724
+determining where it
+is that we're headed.
+
+396
+00:22:18,824 --> 00:22:20,624
+He said it's a very
+important subject
+
+397
+00:22:20,724 --> 00:22:22,257
+to study for the future.
+
+398
+00:22:22,357 --> 00:22:23,891
+-Oh.
+
+399
+00:22:23,991 --> 00:22:25,757
+BEBEL: And now we're
+going to solve even more
+
+400
+00:22:25,857 --> 00:22:28,157
+historical mysteries,
+because Gargantia's got
+
+401
+00:22:28,257 --> 00:22:31,624
+a very talented
+undersea detective.
+
+402
+00:22:31,724 --> 00:22:33,357
+-Find anything
+good on this trip?
+
+403
+00:22:33,457 --> 00:22:34,324
+-Yeah.
+
+404
+00:22:34,424 --> 00:22:36,991
+I think I got some
+recorded media.
+
+405
+00:22:37,091 --> 00:22:38,524
+It's in good condition.
+
+406
+00:22:38,624 --> 00:22:41,324
+Dr. Oldham should be able
+to decipher it easily.
+
+407
+00:22:41,424 --> 00:22:43,191
+-Sneaking in and out
+of a whale-squid nest.
+
+408
+00:22:43,291 --> 00:22:44,191
+You're really something.
+
+409
+00:22:44,291 --> 00:22:45,791
+You know that.
+
+410
+00:22:45,891 --> 00:22:48,491
+-Well, I figured out the trick
+for keeping them at ease.
+
+411
+00:22:48,591 --> 00:22:50,291
+I can tell when they're
+about to get angry,
+
+412
+00:22:50,391 --> 00:22:53,457
+and then I change my approach
+to keep them from getting upset.
+
+413
+00:22:53,557 --> 00:22:55,724
+If we keep up this
+research, we might even
+
+414
+00:22:55,824 --> 00:22:58,324
+be able to communicate
+with them some day.
+
+415
+00:22:58,424 --> 00:23:00,524
+-Hey, where'd Amy go?
+
+416
+00:23:00,624 --> 00:23:02,557
+-She went to meet up with him.
+
+417
+00:23:02,657 --> 00:23:03,157
+-I'm jealous.
+
+418
+00:23:06,257 --> 00:23:06,757
+-Hey, Ledo.
+
+419
+00:23:34,124 --> 00:23:37,091
+[whale sounds]
+

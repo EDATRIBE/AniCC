@@ -1,0 +1,1829 @@
+﻿1
+00:00:23,565 --> 00:00:26,193
+[ANNOUNCER A] The Meteorological
+Agency has issued a warning
+
+2
+00:00:26,235 --> 00:00:28,320
+for the Fourth District
+of the Tokyo Empire's
+
+3
+00:00:28,362 --> 00:00:30,822
+northern area at 1300.
+
+4
+00:00:30,864 --> 00:00:34,368
+Record‐setting rain is expected
+in a short period of time.
+
+5
+00:00:34,409 --> 00:00:36,328
+Any persons heading
+into this area,
+
+6
+00:00:36,370 --> 00:00:38,664
+please exercise
+care and caution.
+
+7
+00:00:38,705 --> 00:00:39,831
+If at all possible,
+
+8
+00:00:39,873 --> 00:00:43,001
+avoid the District until
+the danger has passed.
+
+9
+00:01:00,644 --> 00:01:02,729
+[OPERATOR A] Switching all
+monitors to trace mode.
+
+10
+00:01:02,771 --> 00:01:05,649
+Canceling standby mode.
+
+11
+00:01:05,691 --> 00:01:06,900
+Identity confirmed.
+
+12
+00:01:06,942 --> 00:01:09,570
+Synchronization of GIS
+and tracking ID complete.
+
+13
+00:01:09,611 --> 00:01:11,863
+[OPERATOR B]
+Error of indication 0.083,
+
+14
+00:01:11,905 --> 00:01:12,364
+within acceptable range.
+
+15
+00:01:12,406 --> 00:01:14,074
+[OPERATOR A] Fire Defense
+Agency alarm control system
+
+16
+00:01:14,116 --> 00:01:15,867
+activation signal confirmed.
+
+17
+00:01:15,909 --> 00:01:17,494
+[OPERATOR B] Continuing to
+monitor. Forwarding...
+
+18
+00:01:17,536 --> 00:01:18,579
+[OPERATOR A] Subject has
+entered Akihabra District.
+
+19
+00:01:18,620 --> 00:01:22,332
+Don't forward it.
+I'm enjoying the confusion.
+
+20
+00:01:22,374 --> 00:01:24,793
+[OPERATOR A]
+Commencing alarm system hacking.
+
+21
+00:01:24,835 --> 00:01:27,462
+[OPERATOR C] Kanda Firefighters
+requesting instructions.
+
+22
+00:01:27,504 --> 00:01:29,047
+Tell them to stand down.
+
+23
+00:01:29,089 --> 00:01:31,800
+Isn't Kanda under Company
+Eight's jurisdiction?
+
+24
+00:01:31,842 --> 00:01:32,384
+[MEMBER A grunts]
+
+25
+00:01:32,426 --> 00:01:34,928
+Gravel doesn't get
+to have opinions.
+
+26
+00:01:34,970 --> 00:01:36,847
+Besides, they asked a question.
+
+27
+00:01:36,888 --> 00:01:39,016
+It was only polite to
+give them an answer.
+
+28
+00:01:39,057 --> 00:01:40,601
+[ringing]
+
+29
+00:01:40,642 --> 00:01:42,728
+New message from
+Haijima Industries.
+
+30
+00:01:42,769 --> 00:01:44,021
+[MEMBER B]
+Owie!
+
+31
+00:01:44,062 --> 00:01:46,106
+I'll worry about it later.
+
+32
+00:01:46,148 --> 00:01:48,358
+I don't take orders
+from the main office.
+
+33
+00:01:48,400 --> 00:01:51,278
+I've got a research
+subject to catch.
+
+34
+00:01:51,320 --> 00:01:52,779
+The Fifth is heading out.
+
+35
+00:01:52,821 --> 00:01:55,157
+I don't care if we have to
+step on the Eighth's toes,
+
+36
+00:01:55,198 --> 00:01:57,618
+we will secure that Infernal.
+
+37
+00:01:57,659 --> 00:01:59,786
+[OPERATOR B] Object approaching
+subject at high speed!
+
+38
+00:01:59,828 --> 00:02:00,787
+[MEMBER C]
+Owie!
+
+39
+00:02:00,829 --> 00:02:02,331
+[OPERATOR A] From the Adolla
+pattern, I believe it is
+
+40
+00:02:02,372 --> 00:02:05,125
+a third‐generation Fire
+Soldier from the Eighth.
+
+41
+00:02:05,167 --> 00:02:07,753
+Gravel from the
+Eighth's interfering?
+
+42
+00:03:58,280 --> 00:03:59,865
+That's all we have for now.
+
+43
+00:03:59,906 --> 00:04:03,368
+Today's Amaterasu
+operational rate is normal.
+
+44
+00:04:03,410 --> 00:04:06,413
+This concludes our broadcast.
+Have a pleasant day.
+
+45
+00:04:06,455 --> 00:04:08,248
+<i>Látom</i>.
+
+46
+00:04:08,290 --> 00:04:10,417
+No news on yesterday's incident.
+
+47
+00:04:10,459 --> 00:04:13,879
+Nothin' about the Rookie Games
+snafu or this Joker guy.
+
+48
+00:04:13,920 --> 00:04:16,006
+Seems suspicious
+not to mention it.
+
+49
+00:04:16,047 --> 00:04:18,592
+The Fire Force have
+something to hide?
+
+50
+00:04:23,263 --> 00:04:24,765
+[SHINRA]
+Captain Obi's the key.
+
+51
+00:04:24,806 --> 00:04:25,766
+If I stick with him,
+
+52
+00:04:25,807 --> 00:04:29,394
+I'll get closer to the truth
+about human combustion,
+
+53
+00:04:29,436 --> 00:04:32,189
+and about the day
+I lost Mom and Sho.
+
+54
+00:04:32,230 --> 00:04:34,065
+[knocking]
+
+55
+00:04:35,484 --> 00:04:38,278
+Sorry to interrupt,
+but I've got the results.
+
+56
+00:04:38,320 --> 00:04:40,071
+The analysis on the
+substance Joker used
+
+57
+00:04:40,113 --> 00:04:43,408
+to blow up the
+training facility.
+
+58
+00:04:43,450 --> 00:04:47,913
+They examined its components.
+The main one is Infernal ashes.
+
+59
+00:04:50,040 --> 00:04:53,585
+Those ashes...
+belonged to an Infernal?
+
+60
+00:04:53,627 --> 00:04:56,838
+Turning the remains of the
+dead into an explosive?
+
+61
+00:04:56,880 --> 00:04:58,840
+Sick bastard.
+
+62
+00:05:16,817 --> 00:05:18,068
+[IRIS sighs]
+
+63
+00:05:26,284 --> 00:05:29,079
+[IRIS]
+The flames of the original sin.
+
+64
+00:05:41,550 --> 00:05:44,135
+[SHINRA] I meant to,
+but I couldn't bring myself
+
+65
+00:05:44,177 --> 00:05:46,346
+to tell them about Sho.
+
+66
+00:05:48,849 --> 00:05:49,808
+Wake up!
+
+67
+00:05:49,850 --> 00:05:52,310
+Quit looking like you're
+about to die of boredom.
+
+68
+00:05:52,352 --> 00:05:53,895
+It's making it hard
+for me to work.
+
+69
+00:05:53,937 --> 00:05:56,106
+[phone ringing]
+
+70
+00:05:56,147 --> 00:05:57,190
+This is Arthur Boyle,
+
+71
+00:05:57,232 --> 00:05:59,276
+valiant knight and
+lord of Camelot.
+
+72
+00:05:59,317 --> 00:06:00,819
+How can I help you?
+
+73
+00:06:02,487 --> 00:06:03,989
+I am so sorry about that.
+
+74
+00:06:04,030 --> 00:06:06,741
+Special Fire Force
+Company Eight.
+
+75
+00:06:06,783 --> 00:06:09,119
+Ah, of course. Certainly.
+
+76
+00:06:11,746 --> 00:06:12,998
+[MAKI]
+Yes.
+
+77
+00:06:13,039 --> 00:06:14,124
+A dog?
+
+78
+00:06:14,165 --> 00:06:16,710
+Right. I understand. Can you
+please tell me the address?
+
+79
+00:06:16,751 --> 00:06:17,711
+[SHINRA]
+Hey.
+
+80
+00:06:17,752 --> 00:06:19,004
+Yeah, what?
+
+81
+00:06:19,045 --> 00:06:21,172
+Why did you decide to
+become a Fire Soldier?
+
+82
+00:06:21,214 --> 00:06:23,049
+Easy, 'cause I'm a knight.
+
+83
+00:06:23,091 --> 00:06:24,634
+[MAKI]
+We'll be there right away.
+
+84
+00:06:25,677 --> 00:06:27,429
+All right, look alive, you two.
+
+85
+00:06:27,470 --> 00:06:29,723
+We've got a report of a
+dog stuck up in a tree.
+
+86
+00:06:29,764 --> 00:06:32,225
+Think you brave soldiers
+can help get him down?
+
+87
+00:06:32,267 --> 00:06:34,102
+Go and rescue a dog?
+
+88
+00:06:34,144 --> 00:06:37,063
+That kinda sounds like a job
+for regular firefighters.
+
+89
+00:06:37,105 --> 00:06:38,899
+[MAKI] We get calls
+mistaking Fire Soldiers
+
+90
+00:06:38,940 --> 00:06:40,692
+for firefighters all the time.
+
+91
+00:06:40,734 --> 00:06:42,027
+What's the big deal?
+
+92
+00:06:42,068 --> 00:06:45,280
+I mean, it's not like you guys
+are making much headway here.
+
+93
+00:06:45,322 --> 00:06:47,574
+Go on. I'll take care of
+the rest of this for you.
+
+94
+00:06:47,616 --> 00:06:49,576
+[gasps]
+
+95
+00:06:49,618 --> 00:06:52,704
+Oh, I'll do it.
+Tell me where to go.
+
+96
+00:06:52,746 --> 00:06:53,830
+It oughta be easy.
+
+97
+00:06:53,872 --> 00:06:56,374
+I'll just fly up
+and grab the mutt.
+
+98
+00:07:03,006 --> 00:07:06,176
+Yeah, so... that's
+not exactly a dog.
+
+99
+00:07:06,217 --> 00:07:08,929
+So much as a dog‐faced human.
+
+100
+00:07:08,970 --> 00:07:10,347
+[MAMORU‐KUN]
+Goodness.
+
+101
+00:07:18,730 --> 00:07:21,483
+[MAMORU‐KUN] Thank you
+very much, young man.
+
+102
+00:07:21,524 --> 00:07:23,526
+[SHINRA]
+What were you doing up a tree?
+
+103
+00:07:23,568 --> 00:07:26,154
+[MAMORU‐KUN] I was in the
+shopping district for an event,
+
+104
+00:07:26,196 --> 00:07:27,739
+passing out balloons,
+
+105
+00:07:27,781 --> 00:07:30,742
+and some local college kids
+"hip hip hoorayed" me.
+
+106
+00:07:30,784 --> 00:07:32,953
+[STUDENTS]
+"Hooray."
+
+107
+00:07:32,994 --> 00:07:35,664
+Why would they do
+something like that?
+
+108
+00:07:38,249 --> 00:07:39,876
+[MAMORU‐KUN]
+Do you remember the killings
+
+109
+00:07:39,918 --> 00:07:42,170
+carried out by that firefighter?
+
+110
+00:07:42,212 --> 00:07:43,421
+[SHINRA]
+Huh?
+
+111
+00:07:43,463 --> 00:07:46,174
+[MAMORU‐KUN]
+The man's name was Miyamoto.
+
+112
+00:07:46,216 --> 00:07:49,511
+He killed four people
+for the fun of it.
+
+113
+00:07:49,552 --> 00:07:51,846
+Folks have resented the
+Fire Defense Agency
+
+114
+00:07:51,888 --> 00:07:54,891
+and firefighters themselves
+since the murders.
+
+115
+00:07:54,933 --> 00:07:58,770
+Sometimes, they take their
+aggression out on us like this.
+
+116
+00:07:58,812 --> 00:08:02,774
+So what ended up happening
+to that firefighter?
+
+117
+00:08:02,816 --> 00:08:05,986
+[MAMORU‐KUN] His verdict is
+scheduled to be announced today.
+
+118
+00:08:06,027 --> 00:08:07,278
+According to the scuttlebutt,
+
+119
+00:08:07,320 --> 00:08:11,574
+he'll be found not guilty
+for psychiatric reasons.
+
+120
+00:08:12,951 --> 00:08:17,163
+Setsuo Miyamoto, this court
+hereby finds you not guilty.
+
+121
+00:08:17,205 --> 00:08:22,002
+[PEOPLE shouting]
+
+122
+00:08:22,043 --> 00:08:24,629
+[MIYAMOTO] Whaddaya know.
+I got away with it.
+
+123
+00:08:24,671 --> 00:08:26,423
+Pretty easily, too.
+
+124
+00:08:26,464 --> 00:08:27,549
+Makes sense.
+
+125
+00:08:27,590 --> 00:08:28,800
+This country'd be up a creek
+
+126
+00:08:28,842 --> 00:08:31,928
+if they convicted a
+firefighter of murder.
+
+127
+00:08:33,096 --> 00:08:34,639
+[MIYAMOTO screaming]
+
+128
+00:08:34,681 --> 00:08:35,890
+[MIYAMOTO]
+Somebody help!
+
+129
+00:08:35,932 --> 00:08:37,976
+Put me out! Put me out!
+Get an extinguisher!
+
+130
+00:08:38,018 --> 00:08:40,270
+Throw a blanket! Oh, no. No!
+
+131
+00:08:40,311 --> 00:08:44,232
+[MIYAMOTO screaming]
+
+132
+00:08:44,274 --> 00:08:46,943
+[MIYAMOTO laughing]
+
+133
+00:08:47,902 --> 00:08:49,404
+[MIYAMOTO]
+How the tables have turned.
+
+134
+00:08:49,446 --> 00:08:51,031
+I think I'll grab a flagpole
+
+135
+00:08:51,072 --> 00:08:53,533
+and make a big
+human shish kebab!
+
+136
+00:08:53,575 --> 00:08:55,326
+[laughing]
+
+137
+00:08:55,368 --> 00:08:59,372
+[PEOPLE screaming]
+
+138
+00:09:09,007 --> 00:09:11,092
+Got a little question
+for ya, Judge.
+
+139
+00:09:11,134 --> 00:09:14,179
+Who do you think you are to
+decide what fate I deserve?
+
+140
+00:09:14,220 --> 00:09:17,974
+I don't understand. I just
+declared you innocent.
+
+141
+00:09:18,016 --> 00:09:19,434
+[MIYAMOTO]
+Ah, shut your mouth!
+
+142
+00:09:19,476 --> 00:09:21,978
+I'll do the judging
+now, Your Honor!
+
+143
+00:09:22,020 --> 00:09:26,066
+[alarm blaring]
+
+144
+00:09:29,778 --> 00:09:31,321
+Captain Obi, listen!
+
+145
+00:09:31,362 --> 00:09:34,699
+About the Infernal in Taito
+Ward, Ueno District‐‐
+
+146
+00:09:34,741 --> 00:09:37,202
+He still has a sense of self?
+
+147
+00:09:37,243 --> 00:09:38,828
+Hmm...
+
+148
+00:09:40,205 --> 00:09:41,206
+[HIBANA chuckles]
+
+149
+00:09:41,247 --> 00:09:42,457
+[HIBANA]
+Fascinating.
+
+150
+00:09:42,499 --> 00:09:44,751
+I want him, whatever it takes.
+
+151
+00:09:44,793 --> 00:09:45,919
+[MEMBER A]
+Owie!
+
+152
+00:09:45,960 --> 00:09:48,755
+To the control room, quickly!
+
+153
+00:09:48,797 --> 00:09:51,591
+[HINAWA]
+Where are Shinra and Arthur?
+
+154
+00:09:56,346 --> 00:09:57,931
+[ANNOUNCER B]
+An Infernal has appeared.
+
+155
+00:09:57,972 --> 00:10:00,225
+Emergency vehicles
+are about to deploy.
+
+156
+00:10:00,266 --> 00:10:02,102
+We request that all
+civilian motorists
+
+157
+00:10:02,143 --> 00:10:04,187
+pull to the side of the
+road and clear a path
+
+158
+00:10:04,229 --> 00:10:06,439
+so they can safely pass.
+
+159
+00:10:06,481 --> 00:10:08,108
+An emergency dispatch?
+
+160
+00:10:08,149 --> 00:10:08,983
+[SHINRA gasps]
+
+161
+00:10:09,025 --> 00:10:10,485
+[SHINRA]
+The Matchbox!
+
+162
+00:10:11,945 --> 00:10:16,282
+Shinra. Arthur. I know you
+punks are around here.
+
+163
+00:10:16,324 --> 00:10:18,701
+Wandering the streets
+without permission.
+
+164
+00:10:18,743 --> 00:10:19,953
+When we get back,
+
+165
+00:10:19,994 --> 00:10:22,122
+I am going to redefine
+your understanding
+
+166
+00:10:22,163 --> 00:10:23,790
+of the word "punishment."
+
+167
+00:10:23,832 --> 00:10:24,833
+[BOTH whimper]
+
+168
+00:10:24,874 --> 00:10:27,877
+I'm sorry, I'm sorry, I'm sorry,
+I'm so sorry! I just couldn't...
+
+169
+00:10:27,919 --> 00:10:31,798
+Hey, Maki? Is something
+the matter?
+
+170
+00:10:33,466 --> 00:10:34,342
+[SHINRA]
+Sorry, Mamoru,
+
+171
+00:10:34,384 --> 00:10:36,136
+but that's all the
+help I can give you.
+
+172
+00:10:36,177 --> 00:10:37,637
+[MAMORU‐KUN]
+<i>Látom</i>.
+
+173
+00:10:39,055 --> 00:10:42,183
+See ya soon, Arthur!
+I'm going on ahead!
+
+174
+00:10:45,061 --> 00:10:47,105
+Hey. What do you
+think you're doing?
+
+175
+00:10:47,147 --> 00:10:49,649
+I'm coming with you.
+
+176
+00:10:49,691 --> 00:10:52,026
+Hi‐ho, Silver!
+
+177
+00:10:52,068 --> 00:10:55,280
+No way. Are you
+serious right now?
+
+178
+00:10:55,321 --> 00:10:57,240
+What's wrong with you?
+
+179
+00:10:57,282 --> 00:10:58,908
+Oh, whatever.
+
+180
+00:11:12,422 --> 00:11:14,966
+Oh, hey. It's you two.
+
+181
+00:11:15,008 --> 00:11:17,844
+Wait, this is a public road.
+You shouldn't fly here.
+
+182
+00:11:17,886 --> 00:11:18,428
+Yeah.
+
+183
+00:11:18,469 --> 00:11:22,765
+I'll move higher soon, but could
+you tell me about that Infernal?
+
+184
+00:11:22,807 --> 00:11:24,184
+[HINAWA]
+It was a murder defendant.
+
+185
+00:11:24,225 --> 00:11:26,811
+He was being tried at
+Ueno District Court.
+
+186
+00:11:26,853 --> 00:11:29,189
+He's attacking
+bystanders as we speak.
+
+187
+00:11:29,230 --> 00:11:31,900
+You two hurry ahead and
+help out at the scene, okay?
+
+188
+00:11:31,941 --> 00:11:32,817
+Yes, sir!
+
+189
+00:11:32,859 --> 00:11:35,904
+Saving lives should
+be your top priority!
+
+190
+00:11:35,945 --> 00:11:37,488
+Understood!
+
+191
+00:11:53,838 --> 00:11:55,423
+[whimpering]
+
+192
+00:11:55,465 --> 00:11:57,050
+[LAWYER A]
+I'm your lawyer, remember?!
+
+193
+00:11:57,091 --> 00:12:00,261
+I've been on your
+side all this time!
+
+194
+00:12:00,303 --> 00:12:03,431
+"It's dangerous.
+Civilians should evacuate."
+
+195
+00:12:03,473 --> 00:12:07,435
+I used to say that all
+the time as a firefighter.
+
+196
+00:12:07,477 --> 00:12:08,519
+It was my pleasure,
+
+197
+00:12:08,561 --> 00:12:10,855
+saving you from that
+sickening courthouse.
+
+198
+00:12:10,897 --> 00:12:12,649
+You could say I saved your life,
+
+199
+00:12:12,690 --> 00:12:15,235
+which would mean your
+life belongs to me now.
+
+200
+00:12:15,276 --> 00:12:16,736
+[LAWYER A whimpers]
+
+201
+00:12:17,737 --> 00:12:19,447
+And if your life belongs to me,
+
+202
+00:12:19,489 --> 00:12:23,117
+then I get to do whatever
+I want to with it, right?
+
+203
+00:12:24,494 --> 00:12:25,870
+[SHINRA]
+Let go!
+
+204
+00:12:25,912 --> 00:12:27,538
+God save me.
+
+205
+00:12:30,166 --> 00:12:31,751
+What the hell's your‐‐?
+
+206
+00:12:35,129 --> 00:12:36,589
+[MIYAMOTO]
+What the hell?
+
+207
+00:12:40,134 --> 00:12:42,428
+What the hell's your
+problem, ya crazy punks?
+
+208
+00:12:42,470 --> 00:12:44,847
+Our mascot friend Mamoru
+got hip‐hip‐hoorayed
+
+209
+00:12:44,889 --> 00:12:46,349
+into a tree because of you!
+
+210
+00:12:46,391 --> 00:12:47,976
+Yeah, right!
+
+211
+00:12:48,017 --> 00:12:49,519
+Wait, that's your beef?
+
+212
+00:12:49,560 --> 00:12:52,146
+[MIYAMOTO] You're Special
+Fire Soldiers, right?
+
+213
+00:12:52,188 --> 00:12:53,648
+So when you murder someone,
+
+214
+00:12:53,690 --> 00:12:56,234
+you get praised for
+"saving the day."
+
+215
+00:12:56,276 --> 00:12:58,444
+Must be nice.
+
+216
+00:13:01,572 --> 00:13:03,366
+Good, we made it in time.
+
+217
+00:13:03,408 --> 00:13:06,160
+Sputter Comet!
+
+218
+00:13:07,161 --> 00:13:09,539
+Sputter Comet, I'm so sorry.
+
+219
+00:13:09,580 --> 00:13:11,749
+[OBI]
+How can he still speak?
+
+220
+00:13:11,791 --> 00:13:13,543
+He's fully transformed.
+
+221
+00:13:13,584 --> 00:13:16,212
+When someone has a strong
+will and attachment to life,
+
+222
+00:13:16,254 --> 00:13:19,132
+some of their traits
+can survive the change.
+
+223
+00:13:19,173 --> 00:13:21,759
+I've never seen it
+go this far though.
+
+224
+00:13:21,801 --> 00:13:24,387
+[MIYAMOTO] I don't see
+any way to escape this.
+
+225
+00:13:24,429 --> 00:13:27,348
+All right, fine! I surrender!
+
+226
+00:13:27,390 --> 00:13:28,266
+[SHINRA]
+What?
+
+227
+00:13:28,308 --> 00:13:30,810
+If you're not just a gang
+of self‐righteous murderers,
+
+228
+00:13:30,852 --> 00:13:32,270
+you'll let me off, won't you?
+
+229
+00:13:32,312 --> 00:13:34,522
+I was found "not
+guilty" at my trial,
+
+230
+00:13:34,564 --> 00:13:35,815
+so you can't kill me.
+
+231
+00:13:35,857 --> 00:13:37,775
+It's against the law! Right?
+
+232
+00:13:37,817 --> 00:13:38,943
+[gunshot]
+
+233
+00:13:41,112 --> 00:13:43,573
+[HINAWA] You aren't wrong,
+but I'm not so good‐natured
+
+234
+00:13:43,614 --> 00:13:45,700
+as to forgive scum like you.
+
+235
+00:13:45,742 --> 00:13:48,411
+You'll kill me even
+if I don't fight.
+
+236
+00:13:48,453 --> 00:13:52,165
+Whelp, that settles it‐‐
+you are just murderers!
+
+237
+00:13:53,416 --> 00:13:55,626
+[MIYAMOTO laughing]
+
+238
+00:13:55,668 --> 00:13:56,753
+This isn't good.
+
+239
+00:13:56,794 --> 00:13:59,130
+If you guys get to go
+around killing Infernals,
+
+240
+00:13:59,172 --> 00:14:02,675
+then I'm gonna go
+around killing humans!
+
+241
+00:14:02,717 --> 00:14:04,385
+[SHINRA]
+What should we do?
+
+242
+00:14:04,427 --> 00:14:05,720
+[OBI]
+Go on ahead, Shinra.
+
+243
+00:14:05,762 --> 00:14:08,014
+You're the only one fast
+enough to catch up to him.
+
+244
+00:14:08,056 --> 00:14:11,642
+Yeah, but, sir, he's self‐aware,
+so should I still‐‐?
+
+245
+00:14:11,684 --> 00:14:14,270
+The fact is, he's
+no longer human.
+
+246
+00:14:14,312 --> 00:14:16,773
+But even so, I get how you feel.
+
+247
+00:14:16,814 --> 00:14:19,108
+If I may, sir.
+
+248
+00:14:19,150 --> 00:14:20,568
+Shinra.
+
+249
+00:14:21,569 --> 00:14:24,530
+Pay no attention to
+the words it says.
+
+250
+00:14:24,572 --> 00:14:27,450
+Dispose of that thing.
+
+251
+00:14:27,492 --> 00:14:28,618
+On the double.
+
+252
+00:14:28,659 --> 00:14:29,911
+Right!
+
+253
+00:14:31,371 --> 00:14:34,040
+[SHINRA]
+Dispose of. Put to rest.
+
+254
+00:14:34,082 --> 00:14:36,334
+This is still a sentient being.
+
+255
+00:14:39,212 --> 00:14:42,048
+[OBI]
+Hinawa. I'm sorry.
+
+256
+00:14:42,090 --> 00:14:43,424
+[HINAWA]
+It's fine.
+
+257
+00:14:43,466 --> 00:14:47,887
+That needed to be said,
+but not by our shining light.
+
+258
+00:14:52,975 --> 00:14:54,685
+[SHINRA]
+If I back down from this,
+
+259
+00:14:54,727 --> 00:14:57,772
+then more innocent people
+are going to get hurt.
+
+260
+00:14:59,107 --> 00:15:00,858
+[SHINRA]
+So I'll do it!
+
+261
+00:15:02,402 --> 00:15:04,487
+[SHINRA]
+I'll put him to rest!
+
+262
+00:15:14,163 --> 00:15:16,624
+[CITIZENS chattering]
+
+263
+00:15:16,666 --> 00:15:17,917
+[CITIZEN A]
+It's an Infernal!
+
+264
+00:15:17,959 --> 00:15:21,045
+This city's startin' to feel
+like a great big box o' toys.
+
+265
+00:15:21,087 --> 00:15:23,172
+Who should I play with first?
+
+266
+00:15:25,425 --> 00:15:26,551
+[MIYAMOTO]
+Hm?
+
+267
+00:15:26,592 --> 00:15:27,760
+Hm?!
+
+268
+00:15:36,227 --> 00:15:39,522
+Where do you get off
+interrupting my good time, kid?
+
+269
+00:15:39,564 --> 00:15:41,941
+Do you have any idea
+how many people I saved
+
+270
+00:15:41,983 --> 00:15:43,860
+in my firefighter days?
+
+271
+00:15:43,901 --> 00:15:45,236
+Now that I've turned Infernal,
+
+272
+00:15:45,278 --> 00:15:48,197
+it's only fitting
+I should kill a few.
+
+273
+00:15:48,239 --> 00:15:51,200
+But you killed people as
+a firefighter, too, right?
+
+274
+00:15:51,242 --> 00:15:55,621
+Guess basic math is too much
+for a dumb grunt like you.
+
+275
+00:15:55,663 --> 00:15:58,958
+That isn't even close
+to the number I saved.
+
+276
+00:16:11,929 --> 00:16:15,308
+Who the hell is this guy?
+
+277
+00:16:18,311 --> 00:16:21,981
+I don't understand.
+How are you this strong?
+
+278
+00:16:23,941 --> 00:16:26,861
+[MIYAMOTO]
+You're some kind of devil.
+
+279
+00:16:28,821 --> 00:16:32,700
+I'm no devil.
+I'm a brave hero!
+
+280
+00:16:36,913 --> 00:16:39,540
+I believe I just observed
+a second Adolla Burst
+
+281
+00:16:39,582 --> 00:16:42,210
+coming from that
+rookie Fire Soldier.
+
+282
+00:16:42,251 --> 00:16:44,754
+That rookie's the more
+valuable specimen.
+
+283
+00:16:44,795 --> 00:16:46,672
+But for now, let's
+focus on capturing
+
+284
+00:16:46,714 --> 00:16:49,675
+that self‐aware Infernal alive.
+
+285
+00:16:49,717 --> 00:16:51,761
+Retrieve him at once!
+
+286
+00:16:51,802 --> 00:16:54,430
+The flame is the soul's breath.
+
+287
+00:16:54,472 --> 00:16:56,974
+The black smoke
+is the soul's release.
+
+288
+00:16:57,016 --> 00:16:58,893
+[MIYAMOTO]
+No! Please! Don't do this!
+
+289
+00:16:58,935 --> 00:17:00,019
+Hold on a second!
+
+290
+00:17:00,061 --> 00:17:02,355
+The Sister isn't here
+to pray for you,
+
+291
+00:17:02,396 --> 00:17:04,565
+so you'll have to settle for me.
+
+292
+00:17:04,607 --> 00:17:06,359
+Ashes thou wert and art.
+
+293
+00:17:06,400 --> 00:17:09,153
+Wait, please, no!
+Don't kill me! I'm scared.
+
+294
+00:17:09,195 --> 00:17:10,821
+Can't you at least let
+me meet my end
+
+295
+00:17:10,863 --> 00:17:13,199
+to the sound of a
+Sister's prayer of peace!
+
+296
+00:17:13,241 --> 00:17:14,659
+Please!
+
+297
+00:17:17,078 --> 00:17:19,580
+Whatever, I guess that's fine.
+
+298
+00:17:19,622 --> 00:17:22,583
+The Sister and the others should
+catch up with us before long.
+
+299
+00:17:22,625 --> 00:17:25,169
+Stay still and repent
+till they get here.
+
+300
+00:17:25,211 --> 00:17:27,964
+'Kay. That's what I'll do.
+
+301
+00:17:29,382 --> 00:17:31,217
+[MIYAMOTO snarls]
+
+302
+00:17:34,470 --> 00:17:36,889
+I doubt a soul like
+yours can be saved.
+
+303
+00:17:36,931 --> 00:17:38,349
+You aren't anyone's hero.
+
+304
+00:17:38,391 --> 00:17:40,643
+You're just a
+half‐cocked wannabe!
+
+305
+00:17:40,685 --> 00:17:41,602
+Shut your mouth!
+
+306
+00:17:41,644 --> 00:17:45,314
+You've lied enough.
+I'm putting you to rest.
+
+307
+00:17:54,156 --> 00:17:57,368
+I am the Captain of Special
+Fire Force Company Five,
+
+308
+00:17:57,410 --> 00:17:59,620
+known as Princess Hibana.
+
+309
+00:18:02,832 --> 00:18:06,460
+The Fifth will handle
+this Infernal's disposal.
+
+310
+00:18:06,502 --> 00:18:08,170
+What the hell did you put on me?
+
+311
+00:18:08,212 --> 00:18:09,964
+Let me go!
+
+312
+00:18:10,006 --> 00:18:11,007
+[HIBANA]
+Take him away!
+
+313
+00:18:11,048 --> 00:18:11,966
+[CREWMAN A]
+Ma'am!
+
+314
+00:18:12,008 --> 00:18:15,177
+Hold on! The Eighth is
+already taking care of this.
+
+315
+00:18:15,219 --> 00:18:17,388
+Your help isn't needed,
+so get out of here.
+
+316
+00:18:17,430 --> 00:18:19,515
+You miss the part
+where I gave my rank?
+
+317
+00:18:19,557 --> 00:18:21,225
+Don't defy my orders.
+
+318
+00:18:21,267 --> 00:18:24,020
+You might be their captain,
+but you aren't mine!
+
+319
+00:18:30,443 --> 00:18:32,778
+Damn you.
+
+320
+00:18:32,820 --> 00:18:34,614
+What did you do to me?
+
+321
+00:18:34,655 --> 00:18:37,533
+You pathetic lump of
+Eighth Company gravel.
+
+322
+00:18:37,575 --> 00:18:38,951
+Don't you know that your place
+
+323
+00:18:38,993 --> 00:18:40,995
+is on the ground
+beneath my feet?
+
+324
+00:18:41,037 --> 00:18:43,205
+The only sound I care
+to hear from you
+
+325
+00:18:43,247 --> 00:18:45,416
+is the crunch, crunch,
+crunch of my heels
+
+326
+00:18:45,458 --> 00:18:47,710
+being pressed into your back.
+
+327
+00:18:49,170 --> 00:18:51,047
+Now lick my shoe.
+
+328
+00:18:51,088 --> 00:18:53,424
+I get that you're tryin'
+to put me in my place,
+
+329
+00:18:53,466 --> 00:18:55,217
+but isn't this
+going a little far?
+
+330
+00:18:55,259 --> 00:18:57,261
+Do as you're told
+and lick my shoe.
+
+331
+00:18:57,303 --> 00:19:00,931
+I'm trying to talk
+to you seriously!
+
+332
+00:19:00,973 --> 00:19:02,600
+[chuckles]
+
+333
+00:19:08,189 --> 00:19:09,899
+[HIBANA]
+Hold him down!
+
+334
+00:19:11,192 --> 00:19:12,902
+[ANGELS]
+The Fifth Angels Three are here.
+
+335
+00:19:12,943 --> 00:19:14,654
+Ready for action.
+
+336
+00:19:18,199 --> 00:19:20,660
+[KISHIRI]
+Out of the way! Move it!
+
+337
+00:19:26,123 --> 00:19:27,375
+Hey, you!
+
+338
+00:19:27,416 --> 00:19:30,378
+Fire Soldiers are supposed
+to keep people safe.
+
+339
+00:19:30,419 --> 00:19:33,130
+Have you dirtbags at the
+Fifth forgotten that?
+
+340
+00:19:33,172 --> 00:19:36,217
+C'mon, it's not like we
+used the brat for kindling.
+
+341
+00:19:36,258 --> 00:19:38,678
+We'd have to dry him out first.
+
+342
+00:19:44,308 --> 00:19:47,353
+Don't even crack jokes
+about burning children.
+
+343
+00:19:47,395 --> 00:19:48,979
+Not ever.
+
+344
+00:19:49,021 --> 00:19:50,523
+Oh?
+
+345
+00:19:50,564 --> 00:19:53,859
+I'm about to show you what
+a Fire Soldier should be.
+
+346
+00:19:53,901 --> 00:19:56,195
+Come at me, Company Five!
+
+347
+00:19:56,237 --> 00:19:57,863
+You're up against
+Shinra Kusakabe,
+
+348
+00:19:57,905 --> 00:20:00,658
+Second Class Fire
+Soldier from the Eighth!
+
+349
+00:20:01,826 --> 00:20:03,786
+[HIBANA]
+This should be fun.
+
+350
+00:20:08,999 --> 00:20:10,292
+[OBI]
+What happened?
+
+351
+00:20:16,382 --> 00:20:18,092
+[HIBANA]
+It's unusual for an Infernal
+
+352
+00:20:18,134 --> 00:20:20,219
+to be as lucid as this one.
+
+353
+00:20:20,261 --> 00:20:23,347
+Simply killing him
+would be a waste.
+
+354
+00:20:23,389 --> 00:20:26,058
+Our research team
+will make use of him.
+
+355
+00:20:26,100 --> 00:20:28,436
+You must know you're in
+the Eighth's jurisdiction.
+
+356
+00:20:28,477 --> 00:20:31,188
+Yet it feels like you're
+trying to call the shots.
+
+357
+00:20:31,230 --> 00:20:33,065
+[HIBANA] Legally,
+this man has been deceased
+
+358
+00:20:33,107 --> 00:20:34,984
+since the moment he transformed.
+
+359
+00:20:35,025 --> 00:20:37,695
+You could extinguish him
+and return him to ash,
+
+360
+00:20:37,737 --> 00:20:40,448
+but you'll agree that this
+corpse would be easier
+
+361
+00:20:40,489 --> 00:20:42,575
+to study in its current state.
+
+362
+00:20:42,616 --> 00:20:44,952
+And the Eighth is
+a newer company.
+
+363
+00:20:44,994 --> 00:20:47,830
+I'm told that you've yet
+to recruit a science team.
+
+364
+00:20:47,872 --> 00:20:50,291
+This is quite the rare specimen.
+
+365
+00:20:50,332 --> 00:20:53,878
+If solving the mystery of human
+combustion is a goal we share,
+
+366
+00:20:53,919 --> 00:20:55,254
+then you should
+want this Infernal
+
+367
+00:20:55,296 --> 00:20:58,048
+to be researched by the Fifth.
+
+368
+00:20:58,090 --> 00:21:00,551
+Can I take that as a promise
+that you'll share the results
+
+369
+00:21:00,593 --> 00:21:02,595
+of your research with us?
+
+370
+00:21:02,636 --> 00:21:04,764
+Oh, absolutely!
+
+371
+00:21:09,059 --> 00:21:10,436
+[OBI]
+Very well.
+
+372
+00:21:10,478 --> 00:21:13,230
+I'll leave the Infernal
+in your custody.
+
+373
+00:21:14,899 --> 00:21:16,650
+[KISHIRI]
+Someone's scared.
+
+374
+00:21:16,692 --> 00:21:17,943
+Huh?
+
+375
+00:21:21,197 --> 00:21:24,116
+I hear you're a powerless
+nobody, Captain.
+
+376
+00:21:24,158 --> 00:21:26,535
+So it's no wonder
+you backed down.
+
+377
+00:21:26,577 --> 00:21:29,205
+The mayor of Loserville.
+
+378
+00:21:29,246 --> 00:21:30,915
+You better watch your
+mouth, or else.
+
+379
+00:21:30,956 --> 00:21:32,082
+[SHINRA]
+You wanna fight, punk?
+
+380
+00:21:32,124 --> 00:21:33,542
+Oh, dear me, I've pissed off
+
+381
+00:21:33,584 --> 00:21:36,212
+Captain Nobody's
+Second‐Class lackies.
+
+382
+00:21:36,253 --> 00:21:39,215
+Shinra! Arthur! Break it up!
+
+383
+00:21:39,256 --> 00:21:40,508
+[SHINRA, ARTHUR,
+KISHIRI shouting]
+
+384
+00:21:40,549 --> 00:21:41,634
+[KISHIRI grunts]
+
+385
+00:21:44,512 --> 00:21:46,013
+[BOTH]
+Uhh.
+
+386
+00:21:46,055 --> 00:21:48,224
+[humming]
+
+387
+00:21:48,265 --> 00:21:49,308
+[grunts]
+
+388
+00:21:56,690 --> 00:21:57,983
+A quick warning.
+
+389
+00:21:58,025 --> 00:22:00,528
+If a brave little firefighter
+should stick his nose
+
+390
+00:22:00,569 --> 00:22:02,196
+where it doesn't belong,
+
+391
+00:22:02,238 --> 00:22:06,575
+he'll run the risk of being
+extinguished himself.
+
+392
+00:22:06,617 --> 00:22:08,118
+Well, thanks for the tip.
+
+393
+00:22:08,160 --> 00:22:11,831
+It sounds like I've been blowin'
+smoke in somebody's face.
+
+394
+00:22:11,872 --> 00:22:14,834
+Thing is, my flame
+is Company Eight's,
+
+395
+00:22:14,875 --> 00:22:17,753
+and it won't go out easy.
+
+396
+00:22:17,795 --> 00:22:19,380
+[chuckles]
+
+397
+00:22:29,598 --> 00:22:33,310
+[HIBANA] Special Fire Force
+Company Five, we're leaving.
+

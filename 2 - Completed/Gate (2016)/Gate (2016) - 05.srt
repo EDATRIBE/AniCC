@@ -1,0 +1,1542 @@
+﻿1
+00:00:01,233 --> 00:00:02,533
+[LELEI] Japan's Self Defense
+Force
+
+2
+00:00:02,633 --> 00:00:04,400
+was dispatched to the
+mysterious Special Region.
+
+3
+00:00:04,500 --> 00:00:06,866
+And have begun mixing with the
+locals.
+
+4
+00:00:06,966 --> 00:00:12,800
+At base camp, Delilah and
+Yanagida engaged in a bloody
+battle ending in dire results.
+
+5
+00:00:12,900 --> 00:00:16,833
+[LELEI] In order to save Tuka,
+who is traumatized by the death
+of her father,
+
+6
+00:00:16,933 --> 00:00:19,066
+Itami sets off to fight the
+flame dragon.
+
+7
+00:00:19,166 --> 00:00:22,333
+[LELEI] Once he and his friends
+arrive at the settlement of the
+dark elves ...
+
+8
+00:00:22,433 --> 00:00:25,100
+They prepare for the battle to
+begin...
+
+9
+00:02:16,500 --> 00:02:18,633
+[ITAMI] That was a really bad
+idea.
+
+10
+00:02:18,733 --> 00:02:19,733
+[LELEI] What was?
+
+11
+00:02:19,833 --> 00:02:20,733
+[ITAMI] Well...
+
+12
+00:02:20,833 --> 00:02:22,000
+I finally tried to deny it,
+
+13
+00:02:22,100 --> 00:02:24,266
+but Tuka still
+thinks that I'm her father.
+
+14
+00:02:24,366 --> 00:02:26,200
+[LELEI] It's as if she's
+avoiding reality
+
+15
+00:02:26,300 --> 00:02:28,433
+in order to somehow keep her
+peace of mind intact.
+
+16
+00:02:28,533 --> 00:02:31,200
+[ITAMI] Exactly. And when
+confronted with that
+reality today,
+
+17
+00:02:31,300 --> 00:02:33,066
+she was unable to cope with it.
+
+18
+00:02:33,166 --> 00:02:34,900
+[LELEI] Should we try to make
+her face it again,
+
+19
+00:02:35,000 --> 00:02:36,166
+or should we
+wait for another time?
+
+20
+00:02:36,266 --> 00:02:38,000
+[ITAMI] No. We can't wait any
+longer.
+
+21
+00:02:38,100 --> 00:02:40,633
+It's why we brought her out here
+in the first place.
+
+22
+00:02:40,733 --> 00:02:44,333
+[ITAMI] And if it comes to it,
+we'll force her to face it.
+
+23
+00:02:46,233 --> 00:02:47,933
+Hmm? Is something wrong?
+
+24
+00:02:48,033 --> 00:02:51,500
+[LELEI] My magic was unable to
+have any real effect on the
+flame dragon.
+
+25
+00:02:51,600 --> 00:02:53,166
+I don't like that.
+
+26
+00:02:53,266 --> 00:02:56,566
+I can't believe my halberd's
+blade had no effect, either...
+
+27
+00:02:56,666 --> 00:02:58,700
+[RORY] If I can't slice it I'll
+have to strike it.
+
+28
+00:02:58,800 --> 00:03:02,166
+But it's so tacky to beat one's
+enemy to death.
+
+29
+00:03:02,666 --> 00:03:03,766
+<react>
+
+30
+00:03:06,966 --> 00:03:08,033
+[ELDER] Your holiness.
+
+31
+00:03:08,133 --> 00:03:10,133
+We humbly thank you for making
+
+32
+00:03:10,233 --> 00:03:12,400
+the long journey to our desolate
+valley.
+
+33
+00:03:12,500 --> 00:03:15,800
+[RORY] Uh it's not like we came
+here to see you guys.
+
+34
+00:03:15,900 --> 00:03:17,933
+[YAO] Okay Itami... Let me
+introduce you.
+
+35
+00:03:18,033 --> 00:03:19,666
+The greatest warriors of my
+people.
+
+36
+00:03:19,766 --> 00:03:24,266
+[YAO] Kurow, Meto, Ban, Fen,
+Nocko, Komu, Seimi, Nayu.
+
+37
+00:03:24,366 --> 00:03:26,266
+It is an honor for all of us
+
+38
+00:03:26,366 --> 00:03:29,366
+to accompany you on your
+mission.
+
+39
+00:03:29,466 --> 00:03:32,100
+[ELDER] You must travel on foot
+to the nest of the dragon.
+
+40
+00:03:32,200 --> 00:03:35,300
+We will be your guides and help
+carry your belongings.
+
+41
+00:03:35,833 --> 00:03:37,100
+[ITAMI] Thank you.
+
+42
+00:03:37,200 --> 00:03:39,266
+[ELDER] If you had not come to
+us when you did...
+
+43
+00:03:39,366 --> 00:03:42,366
+everyone in our clan would have
+surely perished.
+
+44
+00:03:42,466 --> 00:03:44,700
+[ELDER] We would all willingly
+risk our lives
+
+45
+00:03:44,800 --> 00:03:46,233
+to ensure victory over this
+beast.
+
+46
+00:03:46,333 --> 00:03:48,733
+[ITAMI] Tell me...Why does the
+flame dragon
+
+47
+00:03:48,833 --> 00:03:50,233
+continue to attack your tribe?
+
+48
+00:03:50,333 --> 00:03:51,566
+[ITAMI] If it takes out
+everyone,
+
+49
+00:03:51,666 --> 00:03:53,966
+then it only ends up without any
+food at all.
+
+50
+00:03:54,066 --> 00:03:55,333
+[LELEI] Both their active period
+
+51
+00:03:55,433 --> 00:03:57,200
+and rest period are quite
+lengthy.
+
+52
+00:03:57,300 --> 00:04:00,233
+So they typically eat all the
+food they can find...
+
+53
+00:04:00,333 --> 00:04:02,133
+And then during their
+hybernation,
+
+54
+00:04:02,233 --> 00:04:05,233
+the population rebounds and
+replenishes itself.
+
+55
+00:04:05,333 --> 00:04:08,400
+[ITAMI] Well I guess this is
+hunting season then.
+
+56
+00:04:11,700 --> 00:04:14,033
+So this is the equipment we're
+going to need
+
+57
+00:04:14,133 --> 00:04:15,533
+to have a chance against that
+thing.
+
+58
+00:04:15,633 --> 00:04:17,266
+[KUROW] These must be the iron
+weapons
+
+59
+00:04:17,366 --> 00:04:19,400
+we're told severed the flame
+dragon's arm!
+
+60
+00:04:19,500 --> 00:04:22,766
+[ITAMI] Yes...And I'm gonna show
+you how to use them.
+
+61
+00:04:22,866 --> 00:04:23,766
+[KUROW] Is this correct?
+
+62
+00:04:23,866 --> 00:04:25,100
+[ITAMI] Uh‐huh. Now put the
+
+63
+00:04:25,200 --> 00:04:27,100
+target in your crosshairs,
+and fire.
+
+64
+00:04:27,200 --> 00:04:31,566
+Now when you do, a huge
+counter‐mass of force will shoot
+out the back.
+
+65
+00:04:31,666 --> 00:04:35,733
+So for safety ‐ you must always
+make sure there's no one behind
+you.
+
+66
+00:04:35,833 --> 00:04:37,166
+[KUROW] I understand
+
+67
+00:04:40,100 --> 00:04:42,000
+[ITAMI] Yeah. That looks good
+guys.
+
+68
+00:04:42,100 --> 00:04:43,166
+[LELEI] We are ready to go.
+
+69
+00:04:43,266 --> 00:04:45,300
+[RORY] Just tell us when
+sweetie.
+
+70
+00:04:45,400 --> 00:04:47,466
+[LELEI] I've used a spell to
+keep Tuka sleeping.
+
+71
+00:04:47,566 --> 00:04:49,266
+[RORY] She must've been so
+terrified.
+
+72
+00:04:49,366 --> 00:04:52,033
+She kept saying "father" over
+and over again.
+
+73
+00:05:16,900 --> 00:05:17,800
+[ITAMI] Is this it?
+
+74
+00:05:17,900 --> 00:05:19,400
+[YAO] Yes. Mount Duva,
+
+75
+00:05:19,500 --> 00:05:22,466
+our scouts saw the nest of the
+flame dragon beneath its peak.
+
+76
+00:05:22,566 --> 00:05:25,066
+[KUROW] It goes in and out from
+the mountain's crest.
+
+77
+00:05:25,166 --> 00:05:28,500
+Its nest is on the rock platform
+inside the crater.
+
+78
+00:05:28,600 --> 00:05:29,933
+<Humm>
+
+79
+00:05:30,033 --> 00:05:31,566
+So how do we get in?
+
+80
+00:05:31,666 --> 00:05:32,766
+[KUROW] About halfway up..
+
+81
+00:05:32,866 --> 00:05:34,566
+there's a cave leading inside.
+
+82
+00:05:42,000 --> 00:05:43,400
+[KUROW] I stumbled across
+this place one day
+
+83
+00:05:43,500 --> 00:05:44,900
+when I was out foraging for
+sulfur from fuming fruits.
+
+84
+00:05:45,000 --> 00:05:48,933
+[RORY] <scared whimpering>
+
+85
+00:05:49,033 --> 00:05:52,333
+[KUROW] Deep inside, it opens up
+to a room underneath the crater,
+
+86
+00:05:52,433 --> 00:05:54,200
+That's where I saw the flame
+dragon. Sleeping.
+
+87
+00:05:54,300 --> 00:05:58,300
+For fear of waking the creature,
+I fled.
+
+88
+00:05:58,400 --> 00:06:00,400
+[RORY] Can we not get inside
+from the top?
+
+89
+00:06:00,500 --> 00:06:03,566
+[KUROW] It's far too steep. It's
+impossible to traverse from
+there.
+
+90
+00:06:03,666 --> 00:06:07,033
+[RORY] So we really have no
+other way in but to go through
+the cave?
+
+91
+00:06:07,133 --> 00:06:09,600
+[RORY] I really have a problem
+with going underground!
+
+92
+00:06:09,700 --> 00:06:12,866
+[ITAMI] It's OK. Rory, you can
+stay out here.
+
+93
+00:06:12,966 --> 00:06:14,566
+We'll go on in without you.
+
+94
+00:06:14,666 --> 00:06:18,100
+[ITAMI] And you can watch for
+our scaly friend coming home.
+
+95
+00:06:35,966 --> 00:06:36,933
+[ITAMI] <react> How'd it go?
+
+96
+00:06:37,033 --> 00:06:38,300
+[YAO] It's just as Kurow said...
+
+97
+00:06:38,400 --> 00:06:40,000
+the cave leads right
+to its nest.
+
+98
+00:06:40,100 --> 00:06:42,633
+[YAO] But the flame dragon
+wasn't there.
+
+99
+00:06:42,733 --> 00:06:45,533
+[ITAMI] Good. Then we'll finish
+eating and take a look.
+
+100
+00:06:45,633 --> 00:06:46,766
+<nodding yes>
+
+101
+00:06:49,100 --> 00:06:50,933
+[ITAMI] Can you hear me..Come in
+Rory.
+
+102
+00:06:51,033 --> 00:06:54,266
+[RORY] Yes, I can hear you.
+
+103
+00:06:54,900 --> 00:06:56,066
+[ITAMI] Let's go.
+
+104
+00:07:13,100 --> 00:07:14,900
+[KUROW] Okay, it's right over
+there.
+
+105
+00:07:15,000 --> 00:07:17,033
+[ITAMI] Wait here.
+
+106
+00:07:26,333 --> 00:07:29,700
+Okay then... this is it... the
+nest.
+
+107
+00:07:36,666 --> 00:07:39,100
+Are these egg shells?
+
+108
+00:07:39,200 --> 00:07:42,000
+[LELEI] During their active
+period, just as all animals,
+
+109
+00:07:42,100 --> 00:07:43,966
+they eat, breed, and foster
+children.
+
+110
+00:07:44,066 --> 00:07:45,566
+[LELEI] I guess I forgot about
+that.
+
+111
+00:07:45,666 --> 00:07:48,000
+Does that mean.. there could be
+more flame dragons?
+
+112
+00:07:48,100 --> 00:07:50,233
+[LELEI] No. These shells appear
+quite old.
+
+113
+00:07:50,333 --> 00:07:52,600
+They likely hatched a long time
+ago.
+
+114
+00:07:52,700 --> 00:07:54,666
+[LELEI] I'm sure they've already
+left the nest.
+
+115
+00:07:54,766 --> 00:07:57,500
+[KUROW] The tribe has only
+witnessed a single flame dragon.
+
+116
+00:07:57,600 --> 00:08:00,033
+[ITAMI] Good. We can only handle
+one at a time.
+
+117
+00:08:00,133 --> 00:08:03,033
+[NOCKO] Wow...Look at all these
+magical swords.
+
+118
+00:08:03,133 --> 00:08:05,000
+[SEIMI] These are... amazing.
+
+119
+00:08:05,100 --> 00:08:08,100
+[ITAMI] Oh.. They must belong to
+people who've been killed by the
+dragon.
+
+120
+00:08:08,200 --> 00:08:10,200
+[LELEI] Yes. Many have faced the
+dragon ‐
+
+121
+00:08:10,300 --> 00:08:14,700
+We should let this be a reminder
+of what we're up against.
+
+122
+00:08:14,800 --> 00:08:16,300
+[ITAMI] Alright! Ban, Fen, Nocko
+
+123
+00:08:16,400 --> 00:08:19,466
+I need a hole in the
+middle of the nest.
+[DARK ELVES] Right!
+
+124
+00:08:19,566 --> 00:08:22,400
+[ITAMI] And the rest of you
+can help me with this.
+
+125
+00:08:29,733 --> 00:08:32,133
+We need to make six of these.
+
+126
+00:08:32,233 --> 00:08:34,300
+[YAO] This is going to kill the
+flame dragon?
+
+127
+00:08:34,400 --> 00:08:37,200
+[ITAMI] It's 160 lbs of C4
+plastic explosives.
+
+128
+00:08:37,300 --> 00:08:41,100
+If this explodes, even a flame
+dragon should be blown to bits.
+
+129
+00:08:41,200 --> 00:08:43,600
+Well at least I hope so.
+
+130
+00:08:46,266 --> 00:08:48,300
+I'll do the rest of these.
+
+131
+00:08:49,166 --> 00:08:51,066
+Rory... Can you hear me little
+lady?
+
+132
+00:08:51,166 --> 00:08:53,400
+How is it looking out there?
+
+133
+00:08:53,500 --> 00:08:54,233
+<static>
+
+134
+00:08:54,333 --> 00:08:55,633
+[ITAMI] She's not getting me.
+
+135
+00:08:55,733 --> 00:08:57,900
+The rocks must be interfering
+with our reception.
+
+136
+00:08:58,000 --> 00:08:59,233
+[ITAMI] Rory!
+
+137
+00:09:00,833 --> 00:09:02,333
+Not getting anything.
+
+138
+00:09:02,433 --> 00:09:05,333
+Shouldn't be wearing this radio
+while I work down here anyway.
+
+139
+00:09:05,433 --> 00:09:09,400
+The radio waves set off the C4.
+It's too dangerous.
+
+140
+00:09:11,166 --> 00:09:13,300
+Shit. No choice.
+
+141
+00:09:28,266 --> 00:09:31,600
+Kinda reminds me of training in
+the SFG.
+
+142
+00:09:33,066 --> 00:09:34,566
+<distant roar>
+
+143
+00:09:34,666 --> 00:09:35,666
+<react>
+
+144
+00:09:40,500 --> 00:09:44,366
+[RORY] Itami! Are you there? The
+flame dragon is back!
+
+145
+00:09:44,466 --> 00:09:48,266
+Um Itami? Please say something,
+if you can hear me!
+
+146
+00:09:49,466 --> 00:09:50,633
+[RORY] Oh dear!
+
+147
+00:09:54,666 --> 00:09:56,133
+Itami!
+
+148
+00:09:57,900 --> 00:09:59,266
+[YAO] Why'd you put swords here?
+
+149
+00:09:59,366 --> 00:10:02,133
+[ITAMI] 'Cause we need to cause
+all the damage we can.
+
+150
+00:10:12,000 --> 00:10:13,666
+Okay. It's. done.
+
+151
+00:10:13,766 --> 00:10:15,833
+<whew>
+
+152
+00:10:15,933 --> 00:10:17,266
+<terror>
+
+153
+00:10:17,933 --> 00:10:19,266
+<terror>
+
+154
+00:10:20,233 --> 00:10:21,566
+[ITAMI] What is it?
+
+155
+00:10:26,100 --> 00:10:27,000
+Here we go.
+
+156
+00:10:27,100 --> 00:10:28,433
+[bellow]
+
+157
+00:10:40,166 --> 00:10:41,366
+[ITAMI] Here we go.
+
+158
+00:10:56,500 --> 00:10:57,666
+Check behind you!
+
+159
+00:10:57,766 --> 00:10:58,766
+<countermass screaming>
+
+160
+00:11:01,733 --> 00:11:02,533
+[KOMU] Yes!
+
+161
+00:11:11,666 --> 00:11:12,766
+<struggles>
+
+162
+00:11:14,233 --> 00:11:15,566
+[ITAMI] Extend the probe!
+
+163
+00:11:18,633 --> 00:11:19,966
+Look out! Nocko!
+
+164
+00:11:20,066 --> 00:11:20,833
+<chomped on by the dragon>
+
+165
+00:11:20,933 --> 00:11:22,066
+<screaming>
+
+166
+00:11:23,433 --> 00:11:24,700
+[YAO] Itami, go back to the
+cave!
+
+167
+00:11:24,800 --> 00:11:26,033
+[ITAMI]
+
+168
+00:11:28,666 --> 00:11:29,766
+<grunt ‐ knocked into Itami>
+
+169
+00:11:35,566 --> 00:11:36,666
+No! Don't shoot!
+
+170
+00:11:43,800 --> 00:11:46,366
+[YAO] Itami! ... No! Itami!
+
+171
+00:11:53,066 --> 00:11:54,100
+<screaming>
+
+172
+00:11:56,666 --> 00:11:57,766
+<flashback screaming>
+
+173
+00:12:00,666 --> 00:12:01,766
+<terror gasping>
+
+174
+00:12:03,000 --> 00:12:04,366
+[TUKA] My father is dead...
+
+175
+00:12:04,466 --> 00:12:07,233
+it should have been me instead
+of him.
+
+176
+00:12:08,500 --> 00:12:10,300
+[TUKA] He should never have
+died...
+
+177
+00:12:10,400 --> 00:12:12,633
+My father is gone and it's all
+my fault!
+
+178
+00:12:12,733 --> 00:12:14,566
+[LELEI] That is not true.
+
+179
+00:12:14,666 --> 00:12:18,100
+He died because the flame dragon
+killed him. That is the truth.
+
+180
+00:12:18,200 --> 00:12:22,166
+[TUKA] But!
+[LELEI] You believe the flame
+dragon cannot be destroyed.
+
+181
+00:12:22,266 --> 00:12:25,033
+That is why you're choosing to
+direct your anger at yourself.
+
+182
+00:12:25,133 --> 00:12:27,400
+[TUKA] But how can we kill it?!
+It's impossible!
+
+183
+00:12:30,233 --> 00:12:33,033
+[YAO] Itami! You're still alive!
+
+184
+00:12:33,133 --> 00:12:34,400
+[ITAMI] Yao!
+
+185
+00:12:34,500 --> 00:12:36,300
+[YAO] You need to go
+back to the cave right now!
+
+186
+00:12:36,900 --> 00:12:38,400
+[ITAMI] Wait, Yao!
+
+187
+00:12:41,933 --> 00:12:44,233
+[ITAMI] Shit! Damn thing's
+broken!
+
+188
+00:12:58,666 --> 00:12:59,766
+<scream>
+
+189
+00:13:03,966 --> 00:13:05,600
+[ITAMI] You son of a bitch!
+
+190
+00:13:12,266 --> 00:13:13,533
+[ITAMI] There it is.
+
+191
+00:13:18,666 --> 00:13:20,633
+<heavy breathing>
+
+192
+00:13:20,733 --> 00:13:21,833
+[LELEI] My village and my home
+
+193
+00:13:21,933 --> 00:13:23,166
+was also taken by this monster.
+
+194
+00:13:23,266 --> 00:13:25,400
+[LELEI] And many of my loved
+ones were killed.
+
+195
+00:13:30,100 --> 00:13:31,400
+[TUKA] Lelei?!
+
+196
+00:13:43,033 --> 00:13:45,700
+[LELEI] It's not fast
+enough...Move Faster!
+
+197
+00:13:47,800 --> 00:13:49,333
+[LELEI] It went in...
+
+198
+00:13:49,433 --> 00:13:50,666
+<laughing>
+
+199
+00:13:50,766 --> 00:13:52,133
+It worked.
+
+200
+00:14:01,666 --> 00:14:02,766
+<react>
+
+201
+00:14:07,833 --> 00:14:09,033
+[ITAMI] Look at that.
+
+202
+00:14:10,433 --> 00:14:14,033
+[LELEI] This is it...our
+revenge!
+
+203
+00:14:15,666 --> 00:14:20,600
+[LELEI] Now dragon! I shall send
+you back to hell!
+
+204
+00:14:35,600 --> 00:14:36,666
+[YAO] Itami!
+
+205
+00:14:36,766 --> 00:14:37,700
+[ITAMI] No don't!
+
+206
+00:14:37,800 --> 00:14:39,500
+[KUROW] Save the magic user!
+
+207
+00:14:42,733 --> 00:14:44,066
+[BOTH] Lelei!
+
+208
+00:14:46,133 --> 00:14:47,366
+[KUROW] Get away from them!
+
+209
+00:14:56,400 --> 00:14:58,033
+[KUROW] <death by fireball
+scream>
+
+210
+00:14:58,133 --> 00:14:59,400
+[YAO] Kurow!
+
+211
+00:14:59,500 --> 00:15:00,600
+[ITAMI] Come on!
+
+212
+00:15:03,666 --> 00:15:04,766
+<gasp>
+
+213
+00:15:07,666 --> 00:15:08,766
+<panting running>
+
+214
+00:15:10,200 --> 00:15:12,533
+[TUKA] No my father's going to
+die!
+
+215
+00:15:19,133 --> 00:15:21,433
+<revenge scream>
+
+216
+00:15:39,666 --> 00:15:40,766
+<gasp>
+
+217
+00:16:22,666 --> 00:16:23,633
+<gasp>
+
+218
+00:16:23,733 --> 00:16:25,566
+[ITAMI] Go! Get outta here!
+
+219
+00:16:27,666 --> 00:16:29,033
+<screaming>
+
+220
+00:16:29,133 --> 00:16:30,333
+[ITAMI] Tuka!
+
+221
+00:16:35,400 --> 00:16:37,100
+[YAO] Hold on we have you!
+
+222
+00:16:48,400 --> 00:16:49,666
+[ITAMI] Is everyone alright?
+
+223
+00:16:49,766 --> 00:16:51,900
+[TUKA] I guess. I think so.
+
+224
+00:16:52,000 --> 00:16:53,000
+[ITAMI] What about you two?
+
+225
+00:16:53,100 --> 00:16:54,333
+[YAO] Somewhat.
+
+226
+00:16:54,433 --> 00:16:56,733
+[LELEI] I think I'm good enough
+to walk.
+
+227
+00:16:58,000 --> 00:17:00,233
+[ITAMI] There.
+
+228
+00:17:00,333 --> 00:17:03,700
+[RORY] Hey, what took you so
+long?
+
+229
+00:17:03,800 --> 00:17:05,133
+<pained breathing>
+
+230
+00:17:09,133 --> 00:17:10,233
+[ITAMI] Rory!
+
+231
+00:17:14,100 --> 00:17:15,966
+[ITAMI] What happened?! What's
+going on?
+
+232
+00:17:16,066 --> 00:17:18,166
+[GISELLE] <evil laughter>
+
+233
+00:17:18,266 --> 00:17:22,200
+[GISELLE] My poor, poor sister.
+
+234
+00:17:27,966 --> 00:17:31,966
+You are supposed to become the
+wife of a god.
+
+235
+00:17:32,066 --> 00:17:33,900
+Yet you so casually
+
+236
+00:17:34,000 --> 00:17:36,500
+interact with these filthy....
+humans.
+
+237
+00:17:36,600 --> 00:17:39,900
+How dare you sully our family
+line.
+
+238
+00:17:40,000 --> 00:17:41,566
+[RORY] You're wasting your time,
+
+239
+00:17:41,666 --> 00:17:43,200
+I will never marry Hardy!
+
+240
+00:17:46,933 --> 00:17:48,133
+<laugh>
+
+241
+00:17:48,233 --> 00:17:50,833
+[ITAMI] Uh. And who are you
+supposed to be?
+
+242
+00:17:50,933 --> 00:17:52,400
+[GISELLE] My name is Giselle.
+
+243
+00:17:52,500 --> 00:17:55,066
+And as you can see, I am an
+apostle!
+
+244
+00:17:57,433 --> 00:18:00,000
+[GISELLE] I serve my Lord;
+Hardy.
+
+245
+00:18:00,100 --> 00:18:02,333
+I've been ordered to retrieve my
+disgraceful,
+
+246
+00:18:02,433 --> 00:18:04,066
+ungrateful sister and bring her
+back,
+
+247
+00:18:04,166 --> 00:18:06,233
+...so here I am.
+
+248
+00:18:08,166 --> 00:18:12,033
+[ITAMI] Rory's a big girl
+I think she can make that
+decision for herself.
+
+249
+00:18:12,133 --> 00:18:13,666
+[GISELLE] You are a fool, human.
+
+250
+00:18:13,766 --> 00:18:15,533
+She is in a weakened state.
+
+251
+00:18:15,633 --> 00:18:18,933
+Because she has taken the burden
+of your wounds for you.
+
+252
+00:18:19,033 --> 00:18:19,700
+[ITAMI] What?
+
+253
+00:18:25,433 --> 00:18:27,066
+[GISELLE] Normally, there's no
+way
+
+254
+00:18:27,166 --> 00:18:29,000
+I would be able to take her down
+on my own,
+
+255
+00:18:29,100 --> 00:18:31,300
+but her injuries have changed
+all that.
+
+256
+00:18:31,400 --> 00:18:32,833
+I don't know what
+you have done to her,
+
+257
+00:18:32,933 --> 00:18:36,666
+but she is foolishly harboring
+your injuries as her own.
+
+258
+00:18:36,766 --> 00:18:37,766
+[ITAMI] Why?
+
+259
+00:18:37,866 --> 00:18:39,700
+[RORY] That would be
+my business.
+
+260
+00:18:39,800 --> 00:18:41,033
+[GISELLE] Now that we all know
+
+261
+00:18:41,133 --> 00:18:42,333
+what the situation really is,
+
+262
+00:18:42,433 --> 00:18:45,466
+perhaps next time you won't hold
+back.
+
+263
+00:18:48,333 --> 00:18:49,700
+[YAO] Oh no... Two more
+dragons...
+
+264
+00:18:49,800 --> 00:18:52,500
+[ITAMI] Are those... from
+the eggs inside the nest?
+
+265
+00:18:52,600 --> 00:18:54,500
+[GISELLE] I had to awaken the
+flame dragon
+
+266
+00:18:54,600 --> 00:18:56,933
+so she could bear and tame her
+offspring for me.
+
+267
+00:18:57,033 --> 00:18:58,433
+[GISELLE] With them by my side,
+
+268
+00:18:58,533 --> 00:19:01,033
+you have no chance against me,
+sister.
+
+269
+00:19:01,133 --> 00:19:03,133
+[YAO] How could you do something
+so reckless?
+
+270
+00:19:03,233 --> 00:19:05,033
+[LELEI] So it was Hardy's
+apostle
+
+271
+00:19:05,133 --> 00:19:06,833
+who shortened the rest period,
+
+272
+00:19:06,933 --> 00:19:08,233
+[LELEI] ...by 50 years.
+
+273
+00:19:08,333 --> 00:19:10,000
+[YAO] But what about the people
+of my tribe?
+
+274
+00:19:10,100 --> 00:19:11,900
+[RORY] The apostles of the gods
+
+275
+00:19:12,000 --> 00:19:15,100
+have no sympathy for humans nor
+elves...
+
+276
+00:19:15,200 --> 00:19:17,566
+[RORY] And that would include me
+as well.
+
+277
+00:19:17,666 --> 00:19:18,700
+<grunt>
+
+278
+00:19:18,800 --> 00:19:19,900
+[GISELLE] Precisely.
+
+279
+00:19:20,000 --> 00:19:21,366
+Humans and elves have no right
+
+280
+00:19:21,466 --> 00:19:23,966
+to interfere with such divine
+matters.
+
+281
+00:19:24,066 --> 00:19:26,566
+[RORY] But this one here.. is no
+ordinary human
+
+282
+00:19:26,666 --> 00:19:29,466
+for he killed the flame dragon
+on its own ground.
+
+283
+00:19:29,566 --> 00:19:33,566
+[GISELLE] What? A human killed
+the beast?
+
+284
+00:19:33,666 --> 00:19:35,600
+[GISELLE] Impossible. Where is
+this dragon slayer?
+
+285
+00:19:38,000 --> 00:19:39,100
+<flinch gasp> [ITAMI] Who Me?
+
+286
+00:19:39,200 --> 00:19:40,933
+[GISELLE] Well this is
+interesting.
+
+287
+00:19:41,033 --> 00:19:44,333
+Towato, Mowto! Come devour your
+revenge.
+
+288
+00:19:44,433 --> 00:19:46,366
+[GISELLE] And spare him no pain!
+
+289
+00:19:47,800 --> 00:19:48,566
+[GISELLE] Show no mercy!
+
+290
+00:19:48,666 --> 00:19:49,866
+<surprise gasp>
+
+291
+00:19:49,966 --> 00:19:50,866
+<react>
+
+292
+00:19:50,966 --> 00:19:51,700
+[GISELLE] Where is he going?
+
+293
+00:19:51,800 --> 00:19:53,500
+Go! Follow him!
+
+294
+00:19:54,666 --> 00:19:55,766
+<breathing running>
+
+295
+00:19:58,733 --> 00:20:02,033
+[KAMIKODA] I see it!
+Uh... Does the dragon look like
+it's gotten smaller?
+
+296
+00:20:02,133 --> 00:20:05,033
+[KURIHAMA] There's two of 'em.
+Completely different targets
+than before.
+
+297
+00:20:05,133 --> 00:20:06,866
+[MIZUHARA] Well they're pissed
+off.
+
+298
+00:20:06,966 --> 00:20:08,266
+And definitely after Itami.
+
+299
+00:20:08,366 --> 00:20:10,566
+[KAMIKODA] Yes, they are. Let's
+do it.
+
+300
+00:20:14,833 --> 00:20:15,933
+[KURIHAMA] Target locked!
+
+301
+00:20:16,033 --> 00:20:19,100
+[KAMIKODA] Hawkwind 01,
+Fox Two, fire!
+
+302
+00:20:21,600 --> 00:20:23,100
+[KAMIKODA] Fox Three!
+
+303
+00:20:26,133 --> 00:20:28,066
+[KAMIKODA] Trebor, this is
+Hawkwind 01.
+
+304
+00:20:28,166 --> 00:20:30,366
+We chased the targets down to
+the ground.
+
+305
+00:20:30,466 --> 00:20:33,066
+[TREBOR] Hawkwind, this is
+Trebor, copy.
+
+306
+00:20:33,166 --> 00:20:35,333
+[TREBOR] The Artillery unit will
+open fire. Over.
+
+307
+00:20:36,333 --> 00:20:38,366
+[SPOTTER] Ready! Impact!
+
+308
+00:20:40,033 --> 00:20:40,933
+Use the exact same coordinates.
+
+309
+00:20:41,033 --> 00:20:43,133
+Fire away men, hit it again!
+
+310
+00:20:56,933 --> 00:20:58,700
+[GISELLE] What is this?!
+
+311
+00:21:02,700 --> 00:21:06,866
+[RORY] Giselle? Where are you?
+
+312
+00:21:06,966 --> 00:21:08,700
+[GISELLE] Sister...!
+
+313
+00:21:09,966 --> 00:21:12,500
+[RORY] Where are you hiding?
+
+314
+00:21:13,000 --> 00:21:14,566
+[GISELLE] Shit!
+
+315
+00:21:15,500 --> 00:21:17,300
+[TREBOR] Hawkwind, this is
+Trebor.
+
+316
+00:21:17,400 --> 00:21:18,933
+Confirmed. Enemies are dead.
+
+317
+00:21:19,033 --> 00:21:20,466
+[TREBOR] Mission complete.
+
+318
+00:21:20,566 --> 00:21:22,466
+[KURIHAMA] We're almost at bingo
+fuel.
+
+319
+00:21:22,566 --> 00:21:24,400
+Better head back before we run
+dry.
+
+320
+00:21:24,500 --> 00:21:27,733
+[KAMIKODA] Roger! 01, 02,
+mission complete.
+
+321
+00:21:27,833 --> 00:21:29,500
+Returning to base.
+
+322
+00:21:29,600 --> 00:21:31,066
+[NISHIMOTO] 02, copy.
+
+323
+00:21:34,133 --> 00:21:36,266
+[ITAMI] I can't believe they
+really came for us.
+
+324
+00:21:38,666 --> 00:21:40,266
+[LELEI] I'm so tired.
+
+325
+00:21:41,700 --> 00:21:44,433
+[ITAMI] We actually pulled it
+off...didn't we?
+
+326
+00:21:44,533 --> 00:21:45,433
+[TUKA] Yes.
+
+327
+00:21:45,533 --> 00:21:46,966
+[ITAMI] We killed
+the son of a bitch.
+
+328
+00:21:47,066 --> 00:21:48,466
+[TUKA] Yes...
+
+329
+00:21:51,033 --> 00:21:53,066
+And I got my revenge.
+
+330
+00:21:53,933 --> 00:21:55,733
+[ITAMI] So now you can stop
+calling
+
+331
+00:21:55,833 --> 00:21:57,366
+me father okay. Right?
+
+332
+00:21:57,466 --> 00:22:02,033
+<laughing>
+[TUKA] I don't know, I'm kinda
+used to saying it now.
+
+333
+00:22:02,133 --> 00:22:03,100
+[ITAMI] Is that right...
+
+334
+00:22:03,200 --> 00:22:05,433
+[TUKA] Yes... Daddy.
+
+335
+00:22:06,733 --> 00:22:08,333
+[JSDF MEMBER] Report status
+around the target.
+
+336
+00:22:08,433 --> 00:22:11,000
+[JSDF MEMBER] Recovery unit:
+move out.
+
+337
+00:23:43,866 --> 00:23:45,700
+[LELEI] Next time on Gate:
+
+338
+00:23:45,800 --> 00:23:47,766
+Rondel, the City of Magic.
+

@@ -1,0 +1,1945 @@
+﻿1
+00:00:13,958 --> 00:00:16,291
+[ELJUIA]
+Gotten rather quiet, hasn't it?
+
+2
+00:00:16,375 --> 00:00:19,833
+That's because the Royal Guard
+took off for the capital.
+
+3
+00:00:19,916 --> 00:00:21,500
+Things may be calm enough here,
+
+4
+00:00:21,583 --> 00:00:24,375
+but the rest of Endora's
+about to be under duress.
+
+5
+00:00:24,458 --> 00:00:26,375
+[ELJUIA]
+Yes, you're right.
+
+6
+00:00:26,458 --> 00:00:30,375
+I'm afraid that the chaos and
+bloodshed has begun already.
+
+7
+00:00:30,458 --> 00:00:33,791
+[GRADIDO] Delzaine's death
+changes everything.
+
+8
+00:00:33,875 --> 00:00:35,708
+The Ignauts have
+made us promises,
+
+9
+00:00:35,791 --> 00:00:39,166
+but the Endras sitting
+in those ships have not.
+
+10
+00:00:39,250 --> 00:00:41,291
+We need reports back
+from every region.
+
+11
+00:00:41,375 --> 00:00:43,250
+[COMRADE 14A]
+I understand, sir.
+
+12
+00:00:46,500 --> 00:00:49,500
+The time's come to show
+the people what we're worth.
+
+13
+00:00:49,583 --> 00:00:50,833
+[ELJUIA]
+It's frustrating.
+
+14
+00:00:50,916 --> 00:00:53,041
+Everyone needs our
+help, but we can't leave
+
+15
+00:00:53,125 --> 00:00:55,458
+until Pascal's finished
+his investigation.
+
+16
+00:00:55,541 --> 00:00:58,291
+No. But we can make sure
+we're prepared to head out
+
+17
+00:00:58,375 --> 00:00:59,833
+as soon as he finishes.
+
+18
+00:00:59,916 --> 00:01:03,875
+And by the way, how's Emilio?
+Any change?
+
+19
+00:01:03,958 --> 00:01:05,625
+[ELJUIA]
+No, not yet.
+
+20
+00:01:05,708 --> 00:01:07,625
+[DEMETRIO]
+Guess that's to be expected.
+
+21
+00:02:47,541 --> 00:02:48,916
+Hey, Pascal?
+
+22
+00:02:49,000 --> 00:02:52,166
+This might sound strange,
+but I'm seeing no problems.
+
+23
+00:02:52,250 --> 00:02:54,625
+Yeah, same thing over here.
+
+24
+00:02:54,708 --> 00:02:56,208
+As far as I can tell,
+
+25
+00:02:56,291 --> 00:02:59,333
+Babel operated exactly
+as it was intended to.
+
+26
+00:02:59,416 --> 00:03:01,958
+But from Shun's description
+of the Zoozian's screams,
+
+27
+00:03:02,041 --> 00:03:05,041
+I highly doubt he made
+it to the surface.
+
+28
+00:03:05,125 --> 00:03:07,875
+Well, if everything is
+working fine on our end,
+
+29
+00:03:07,958 --> 00:03:10,541
+then we have to assume that
+the problem is on theirs.
+
+30
+00:03:10,625 --> 00:03:13,083
+[JOSEPH] I see.
+You mean on the surface?
+
+31
+00:03:13,166 --> 00:03:16,333
+Any theories as to what exactly
+could've gone wrong up there?
+
+32
+00:03:16,416 --> 00:03:19,958
+There's no way to be sure
+without seeing for myself, but,
+
+33
+00:03:20,041 --> 00:03:22,041
+if the simplest theory is
+typically the right one,
+
+34
+00:03:22,125 --> 00:03:24,958
+then the path was probably
+clogged somehow.
+
+35
+00:03:25,041 --> 00:03:29,458
+Ah! We just keep running into
+conundrum after conundrum!
+
+36
+00:03:29,541 --> 00:03:32,833
+But that's exactly what makes
+scientific research worthwhile!
+
+37
+00:03:32,916 --> 00:03:34,333
+[laughs]
+
+38
+00:03:34,416 --> 00:03:37,083
+[ALICIA] It's starting to feel
+like we have two Pascal's.
+
+39
+00:03:37,166 --> 00:03:38,708
+[PASCAL]
+Hey there, Alicia.
+
+40
+00:03:38,791 --> 00:03:40,333
+I figured you two
+might need a break,
+
+41
+00:03:40,416 --> 00:03:42,125
+so I brought you a little food.
+
+42
+00:03:42,208 --> 00:03:44,208
+[PASCAL] 'Preciate it.
+Don't mind if I do.
+
+43
+00:03:44,291 --> 00:03:46,708
+Come on, Joseph!
+Aren't you hungry?
+
+44
+00:03:46,791 --> 00:03:48,958
+[FALARION squeals]
+
+45
+00:03:49,041 --> 00:03:52,083
+Each question leads to an answer
+that'll take us one step further
+
+46
+00:03:52,166 --> 00:03:53,958
+down the path of truth!
+
+47
+00:03:54,041 --> 00:03:56,416
+--He still hasn't noticed.
+--[JOSEPH] No, of enlightenment!
+
+48
+00:04:01,250 --> 00:04:02,333
+[ALICIA]
+Wait a second.
+
+49
+00:04:02,416 --> 00:04:04,250
+If the path up to
+the surface is blocked,
+
+50
+00:04:04,333 --> 00:04:06,250
+then shouldn't you be happy?
+
+51
+00:04:06,333 --> 00:04:08,708
+I mean, you never wanted
+contact with the surface,
+
+52
+00:04:08,791 --> 00:04:11,041
+you thought it would
+be dangerous, right?
+
+53
+00:04:11,125 --> 00:04:13,458
+And I feel the same now.
+
+54
+00:04:14,875 --> 00:04:18,625
+Thing is, I still want to help
+Shun get to the surface.
+
+55
+00:04:18,708 --> 00:04:20,333
+[ALICIA]
+Gotcha.
+
+56
+00:04:23,625 --> 00:04:25,083
+[FALARION chirps]
+
+57
+00:04:25,166 --> 00:04:26,833
+[PASCAL]
+The king is dead.
+
+58
+00:04:26,916 --> 00:04:30,416
+And a plethora of mysteries
+have died with him, unsolved.
+
+59
+00:04:30,500 --> 00:04:33,791
+I still don't know what he was
+trying to accomplish here.
+
+60
+00:04:33,875 --> 00:04:34,916
+Hey, Pascal?
+
+61
+00:04:35,000 --> 00:04:36,208
+[PASCAL]
+Mm? What's up?
+
+62
+00:04:36,291 --> 00:04:38,458
+Well, you know how Emilio's
+been feeling down?
+
+63
+00:04:38,541 --> 00:04:39,958
+[PASCAL]
+Yeah?
+
+64
+00:04:40,041 --> 00:04:43,041
+[ALICIA] Do you think there's
+anything I can do to help?
+
+65
+00:04:43,125 --> 00:04:44,916
+[PASCAL]
+I've wondered the same.
+
+66
+00:04:45,000 --> 00:04:48,125
+People questions
+aren't my specialty.
+
+67
+00:04:48,208 --> 00:04:51,333
+I'd like to help him
+as much as you, but...
+
+68
+00:04:51,416 --> 00:04:52,333
+[ALICIA exhales]
+
+69
+00:04:52,416 --> 00:04:53,166
+[SHUN]
+Hello!
+
+70
+00:04:53,250 --> 00:04:56,333
+[gasps] Hey! Whatcha doin'?
+
+71
+00:04:56,416 --> 00:04:57,875
+Nothin', yunno,
+
+72
+00:04:57,958 --> 00:05:00,208
+just thought I'd check on how
+the investigation was going.
+
+73
+00:05:00,291 --> 00:05:01,458
+[PASCAL sighs]
+
+74
+00:05:01,541 --> 00:05:05,291
+[SHUN]
+Uh. Oh, wow.
+
+75
+00:05:05,375 --> 00:05:07,166
+[PASCAL] We don't have
+the time or resources
+
+76
+00:05:07,250 --> 00:05:10,083
+to investigate this any further.
+
+77
+00:05:10,166 --> 00:05:11,708
+Sorry for letting
+you down, Shun.
+
+78
+00:05:11,791 --> 00:05:15,458
+I can only imagine how
+you must feel right now.
+
+79
+00:05:15,541 --> 00:05:17,041
+Hey, don't gimme that.
+
+80
+00:05:17,125 --> 00:05:20,208
+It's not like this means I
+can never make it back home.
+
+81
+00:05:20,291 --> 00:05:22,750
+You and your little lab
+friend... Uh, Johnny?
+
+82
+00:05:22,833 --> 00:05:24,333
+Whatever, you're geniuses.
+
+83
+00:05:24,416 --> 00:05:27,125
+I'm sure you'll figure out how
+to make Babel work eventually.
+
+84
+00:05:27,208 --> 00:05:29,791
+And even if it turns out you
+can't: this is a big world.
+
+85
+00:05:29,875 --> 00:05:32,000
+I'm sure I'll find
+another way somewhere.
+
+86
+00:05:32,083 --> 00:05:34,125
+Another way out?
+
+87
+00:05:34,208 --> 00:05:37,750
+Yeah, but anyway, before
+I jump the gun on that stuff,
+
+88
+00:05:37,833 --> 00:05:40,458
+I've gotta go cheer
+up Sir Mopes-A-Lot.
+
+89
+00:05:40,541 --> 00:05:41,541
+He should know the difference
+
+90
+00:05:41,625 --> 00:05:43,708
+between mourning
+and blaming himself.
+
+91
+00:05:43,791 --> 00:05:44,958
+[ALICIA]
+Heh.
+
+92
+00:05:46,250 --> 00:05:49,708
+Emilio's found himself
+some fine friends.
+
+93
+00:05:50,291 --> 00:05:51,291
+[explosion]
+
+94
+00:05:51,375 --> 00:05:52,958
+[JOSEPH]
+Aww, no, no, no!
+
+95
+00:05:53,041 --> 00:05:54,750
+That took it over capacity?
+
+96
+00:05:54,833 --> 00:05:57,416
+Curse this refurbished
+ancient tech.
+
+97
+00:05:57,500 --> 00:06:00,750
+Ahh! Golly gosh darn it!
+I'm fine! I've got this.
+
+98
+00:06:00,833 --> 00:06:02,083
+I can compensate
+for the pressure
+
+99
+00:06:02,166 --> 00:06:04,541
+if I use a larger
+volume container...
+
+100
+00:06:04,625 --> 00:06:07,833
+[PASCAL] You know, Emilio might
+just need a small distraction.
+
+101
+00:06:07,916 --> 00:06:10,416
+Something to take
+his mind off things.
+
+102
+00:06:10,500 --> 00:06:12,833
+Somethin' to distract him.
+
+103
+00:06:12,916 --> 00:06:14,166
+I've got it!
+
+104
+00:06:14,250 --> 00:06:15,416
+[DEMETRIO]
+Good luck to you.
+
+105
+00:06:15,500 --> 00:06:16,750
+[COMRADE 14B]
+Thanks, sir.
+
+106
+00:06:22,125 --> 00:06:24,750
+Was that a messenger?
+What did he have to say?
+
+107
+00:06:24,833 --> 00:06:28,250
+Oh, just an update
+from the provinces.
+
+108
+00:06:28,333 --> 00:06:30,041
+In the wake of the king's death,
+
+109
+00:06:30,125 --> 00:06:32,416
+many regions have
+fallen into strife.
+
+110
+00:06:32,500 --> 00:06:36,166
+I came to ask, what do you plan
+to do now that it's done?
+
+111
+00:06:36,250 --> 00:06:37,666
+[DEMETRIO]
+What's done?
+
+112
+00:06:37,750 --> 00:06:40,875
+The king. The whole reason
+for your revolution.
+
+113
+00:06:40,958 --> 00:06:45,166
+The only purpose I had.
+He's gone now.
+
+114
+00:06:45,250 --> 00:06:47,125
+You asked as if you knew.
+
+115
+00:06:47,208 --> 00:06:50,583
+You said the king's blood lies
+spilt across his throne.
+
+116
+00:06:50,666 --> 00:06:52,833
+So what will you do now?
+
+117
+00:06:52,916 --> 00:06:55,375
+The Ignauts' fight
+has only just begun.
+
+118
+00:06:55,458 --> 00:06:58,625
+The king's death gives
+us more work to do.
+
+119
+00:06:58,708 --> 00:07:02,333
+Unrest in this country
+will only worsen from here.
+
+120
+00:07:02,416 --> 00:07:04,375
+The royal guard
+has lost its head.
+
+121
+00:07:04,458 --> 00:07:06,083
+We'll see a great
+deal of turmoil
+
+122
+00:07:06,166 --> 00:07:09,708
+as lords seek to expand their
+holdings, or settle old feuds.
+
+123
+00:07:09,791 --> 00:07:11,833
+Until this country
+is whole once again,
+
+124
+00:07:11,916 --> 00:07:14,916
+the Ignauts'll still
+have a job to do.
+
+125
+00:07:15,666 --> 00:07:16,750
+[DEMETRIO]
+We'll be starting on it
+
+126
+00:07:16,833 --> 00:07:19,666
+as soon as Pascal
+finishes his work here.
+
+127
+00:07:19,750 --> 00:07:23,083
+You could come. Unless you
+plan to stay here forever.
+
+128
+00:07:23,166 --> 00:07:24,500
+[EMILIO grunts]
+
+129
+00:07:32,750 --> 00:07:34,666
+[SHUN]
+Uh. Sup, Emilio?
+
+130
+00:07:34,750 --> 00:07:37,166
+What were you and Demetrio
+just talkin' about?
+
+131
+00:07:37,250 --> 00:07:40,541
+It's none of your business.
+Now what do you want from me?
+
+132
+00:07:40,625 --> 00:07:43,125
+[SHUN] "Want?" I'm just
+sick of sittin' around.
+
+133
+00:07:43,208 --> 00:07:46,541
+I didn't build up all these
+muscles just to lose 'em.
+
+134
+00:07:49,291 --> 00:07:50,791
+[SHUN]
+Thought we could spar for a bit.
+
+135
+00:07:50,875 --> 00:07:54,416
+You know, if you're feelin'
+up for it, I mean.
+
+136
+00:07:54,500 --> 00:07:58,625
+[EMILIO] Well I'm not. I suggest
+you find a tree somewhere.
+
+137
+00:07:58,708 --> 00:08:01,000
+What's the deal? I asked
+nicely and everything.
+
+138
+00:08:01,083 --> 00:08:04,041
+Have you forgotten that you
+can't go back to the surface?
+
+139
+00:08:04,125 --> 00:08:06,791
+By what right are you
+acting so damn chipper?
+
+140
+00:08:06,875 --> 00:08:09,041
+Your dream was ruined!
+
+141
+00:08:09,125 --> 00:08:13,625
+Well I'm not happy about how
+things turned out. That's life.
+
+142
+00:08:13,708 --> 00:08:15,583
+But I understand that
+acting depressed
+
+143
+00:08:15,666 --> 00:08:17,583
+isn't gonna help me fix it.
+
+144
+00:08:17,666 --> 00:08:20,083
+That would just make me
+useless, like you are.
+
+145
+00:08:20,166 --> 00:08:21,166
+[EMILIO growls]
+
+146
+00:08:21,250 --> 00:08:23,333
+[SHUN]
+That make ya mad, prissy boy?
+
+147
+00:08:30,208 --> 00:08:32,791
+[EMILIO, SHUN grunting]
+
+148
+00:08:37,458 --> 00:08:40,291
+[EMILIO, SHUN grunting]
+
+149
+00:08:42,500 --> 00:08:44,291
+[BOTH yelling]
+
+150
+00:08:49,500 --> 00:08:51,500
+[SHUN yells]
+
+151
+00:08:53,583 --> 00:08:55,125
+You're getting more skilled.
+
+152
+00:08:55,208 --> 00:08:57,458
+Huh. If you seriously
+think that's impressive,
+
+153
+00:08:57,541 --> 00:08:59,500
+you must suck even more
+than I thought you did.
+
+154
+00:08:59,583 --> 00:09:01,791
+I never called it impressive!
+
+155
+00:09:02,125 --> 00:09:03,916
+[LOUISE]
+Children at play.
+
+156
+00:09:04,000 --> 00:09:08,083
+Then again, perhaps I'm
+the real child here.
+
+157
+00:09:10,208 --> 00:09:13,125
+[DEMETRIO] Our first order of
+business is to head to a nearby
+
+158
+00:09:13,208 --> 00:09:16,250
+town. We need to secure some
+fresh rations and supplies.
+
+159
+00:09:16,333 --> 00:09:17,708
+After that--
+
+160
+00:09:18,500 --> 00:09:19,708
+[MISCHA, FELIX, ELJUIA gasp]
+
+161
+00:09:24,125 --> 00:09:25,541
+What are you doing here?
+
+162
+00:09:25,625 --> 00:09:27,166
+[ELJUIA]
+Uh. Mischa.
+
+163
+00:09:27,250 --> 00:09:30,250
+[LOUISE sighs] I've decided
+to leave the Ignauts.
+
+164
+00:09:30,333 --> 00:09:31,958
+But why, Louise?
+
+165
+00:09:32,041 --> 00:09:35,583
+You know why. Because I
+betrayed you all for money.
+
+166
+00:09:35,666 --> 00:09:38,208
+None of you will ever see
+me the way you did before,
+
+167
+00:09:38,291 --> 00:09:40,500
+and you shouldn't have to try.
+
+168
+00:09:44,875 --> 00:09:47,000
+So, goodbye.
+
+169
+00:09:48,666 --> 00:09:49,833
+[gasps]
+
+170
+00:09:53,000 --> 00:09:54,208
+[gasps]
+
+171
+00:09:54,291 --> 00:09:56,000
+[ELJUIA]
+Is something wrong?
+
+172
+00:09:56,083 --> 00:09:57,458
+It's the island Zoozians.
+
+173
+00:09:57,541 --> 00:09:59,000
+They're asking us
+for assistance.
+
+174
+00:09:59,083 --> 00:10:00,708
+[DEMETRIO]
+What's their situation?
+
+175
+00:10:00,791 --> 00:10:02,458
+Apparently the island's
+been besieged
+
+176
+00:10:02,541 --> 00:10:06,000
+by a large number of ships.
+But I don't understand why.
+
+177
+00:10:06,083 --> 00:10:09,708
+That place was generally left
+alone by Endras for generations.
+
+178
+00:10:09,791 --> 00:10:10,958
+[DEMETRIO]
+Hm...
+
+179
+00:10:42,500 --> 00:10:44,333
+[LORD 14A] I've come here
+to bring this island
+
+180
+00:10:44,416 --> 00:10:46,041
+under my protection.
+
+181
+00:10:46,125 --> 00:10:49,416
+I can only imagine the squalor
+in which you've all been living.
+
+182
+00:10:49,500 --> 00:10:52,041
+Rest easy knowing that
+you'll soon know safety
+
+183
+00:10:52,125 --> 00:10:54,083
+and civilization as my slaves.
+
+184
+00:10:54,166 --> 00:10:56,333
+[laughs]
+
+185
+00:10:56,416 --> 00:10:59,875
+[ZOOZIANS chattering]
+
+186
+00:11:02,041 --> 00:11:03,625
+[GUY 14A] Can't tell the
+difference between lords
+
+187
+00:11:03,708 --> 00:11:04,958
+and bandits these days.
+
+188
+00:11:05,041 --> 00:11:06,791
+[GUY 14B] Yeah, and there's
+no one to stop 'em.
+
+189
+00:11:06,875 --> 00:11:08,666
+I hear the king died in Babylon.
+
+190
+00:11:08,750 --> 00:11:10,333
+[GUY 14C]
+It's a proper mess all right.
+
+191
+00:11:10,416 --> 00:11:12,750
+And with Prince Emilio
+missing, too.
+
+192
+00:11:12,833 --> 00:11:15,583
+The entire country's
+falling apart.
+
+193
+00:11:16,708 --> 00:11:17,500
+[VICTIM 14A gasping]
+
+194
+00:11:17,583 --> 00:11:18,958
+Now gimme everything you've got!
+
+195
+00:11:19,041 --> 00:11:21,000
+[THIEF 14B]
+C'mon! No stalling!
+
+196
+00:11:21,083 --> 00:11:24,458
+I don't have a single cent
+to give you ruffians!
+
+197
+00:11:24,541 --> 00:11:25,875
+Please, I have family!
+
+198
+00:11:25,958 --> 00:11:27,375
+[THIEF 14B]
+Shut your mouth.
+
+199
+00:11:27,458 --> 00:11:28,833
+[VICTIM 14A groans]
+
+200
+00:11:28,916 --> 00:11:30,791
+[THIEF 14A] Ha! This is for
+tryin' to slip it past us!
+
+201
+00:11:30,875 --> 00:11:32,666
+[THIEF 14B] We're totally
+gonna get away with this.
+
+202
+00:11:32,750 --> 00:11:34,833
+The king's dead, and
+the Lord's off fighting,
+
+203
+00:11:34,916 --> 00:11:37,958
+so who's gonna stop us? [laughs]
+
+204
+00:11:41,625 --> 00:11:43,416
+[DEMETRIO]
+It's falling apart.
+
+205
+00:11:43,500 --> 00:11:46,208
+No one is strong enough to
+hold the country together.
+
+206
+00:11:46,291 --> 00:11:48,583
+Never occurred to me that
+the king was the only thing
+
+207
+00:11:48,666 --> 00:11:50,958
+stopping people from invading
+that Zoozian island.
+
+208
+00:11:51,041 --> 00:11:52,958
+I wonder how
+long they can hold on.
+
+209
+00:11:53,041 --> 00:11:57,708
+At any rate, our work as a
+revolutionary army is over.
+
+210
+00:12:00,125 --> 00:12:02,375
+[DEMETRIO] And our work
+as peacemakers begins.
+
+211
+00:12:02,458 --> 00:12:07,708
+We must stop this fighting
+before it gets even worse.
+
+212
+00:12:07,791 --> 00:12:11,750
+Thing about the Ignauts is each
+of us decided to be here.
+
+213
+00:12:11,833 --> 00:12:13,416
+Decided to stay.
+
+214
+00:12:13,500 --> 00:12:19,000
+Louise. Nobody's gonna take that
+choice from you, so decide.
+
+215
+00:12:19,083 --> 00:12:20,916
+[LOUISE gasps]
+
+216
+00:12:21,000 --> 00:12:22,708
+There's something I...
+
+217
+00:12:22,791 --> 00:12:25,083
+There's something that
+I have to take care of.
+
+218
+00:12:25,166 --> 00:12:28,666
+[FELIX]
+What? What do you have to go do?
+
+219
+00:12:28,750 --> 00:12:31,333
+Not "go." I choose to stay
+
+220
+00:12:31,416 --> 00:12:33,625
+and do whatever I can
+to help the cause.
+
+221
+00:12:33,708 --> 00:12:35,708
+You'll stay?
+
+222
+00:12:36,083 --> 00:12:38,791
+That's twice you've broken
+your word to us.
+
+223
+00:12:38,875 --> 00:12:40,875
+[LOUISE] Before, I thought
+I needed to leave,
+
+224
+00:12:40,958 --> 00:12:42,500
+to pay for what I've done.
+
+225
+00:12:42,583 --> 00:12:45,458
+But if the Ignauts still
+have work ahead of them,
+
+226
+00:12:45,541 --> 00:12:48,458
+then I think the best path
+towards atoning for my crimes
+
+227
+00:12:48,541 --> 00:12:49,625
+is through service.
+
+228
+00:12:49,708 --> 00:12:52,541
+What good is a
+traitor's service?!
+
+229
+00:12:52,625 --> 00:12:54,125
+[LOUISE]
+Not much.
+
+230
+00:12:54,208 --> 00:12:57,000
+I don't expect you to trust me
+with anything important again.
+
+231
+00:12:57,083 --> 00:12:59,875
+And I won't ask you to
+think of me as a comrade.
+
+232
+00:12:59,958 --> 00:13:02,791
+I ask only for the chance
+to nullify a small part
+
+233
+00:13:02,875 --> 00:13:04,291
+of the damage I've done.
+
+234
+00:13:06,458 --> 00:13:08,333
+You think we can
+trust her, Demetrio?
+
+235
+00:13:08,416 --> 00:13:11,750
+[DEMETRIO] Do you really
+have to ask? Listen here.
+
+236
+00:13:11,833 --> 00:13:13,708
+There has never been
+a time in my life
+
+237
+00:13:13,791 --> 00:13:15,583
+when I haven't
+trusted you, Louise.
+
+238
+00:13:15,666 --> 00:13:16,333
+[gasps]
+
+239
+00:13:16,416 --> 00:13:17,833
+[MISCHA]
+But she's a--
+
+240
+00:13:17,916 --> 00:13:19,666
+[ELJUIA] She did what she
+thought was right at the time,
+
+241
+00:13:19,750 --> 00:13:22,000
+and has since come
+to know her mistake.
+
+242
+00:13:22,083 --> 00:13:24,958
+And as the message she relayed
+from the Zoozians demonstrated,
+
+243
+00:13:25,041 --> 00:13:26,500
+a person of her
+unique background
+
+244
+00:13:26,583 --> 00:13:28,500
+is far too useful to lose.
+
+245
+00:13:28,583 --> 00:13:30,375
+Thanks, Eljuia.
+
+246
+00:13:30,458 --> 00:13:32,000
+What a pushover.
+
+247
+00:13:32,083 --> 00:13:35,000
+I knew Demetrio would
+decide to forgive her.
+
+248
+00:13:35,083 --> 00:13:36,250
+[MISCHA]
+You act as if you know
+
+249
+00:13:36,333 --> 00:13:38,625
+everything there is to
+know about Demetrio.
+
+250
+00:13:38,708 --> 00:13:39,666
+I hate it.
+
+251
+00:13:39,750 --> 00:13:41,416
+I've known him far
+longer than you.
+
+252
+00:13:41,500 --> 00:13:44,875
+[MISCHA growls] If she has to
+stay, then I'll watch her.
+
+253
+00:13:44,958 --> 00:13:47,416
+If she's up to something,
+I'll know instantly.
+
+254
+00:13:47,500 --> 00:13:48,791
+I'll watch her as well.
+
+255
+00:13:48,875 --> 00:13:50,416
+You're a copycat.
+
+256
+00:13:50,500 --> 00:13:51,333
+[FELIX]
+No, I'm not.
+
+257
+00:13:51,416 --> 00:13:51,916
+[MISCHA]
+Are to.
+
+258
+00:13:52,000 --> 00:13:52,541
+[FELIX]
+Am not.
+
+259
+00:13:52,625 --> 00:13:53,541
+[MISCHA]
+Are to!
+
+260
+00:13:53,625 --> 00:13:55,625
+[BOTH growl]
+
+261
+00:13:55,708 --> 00:13:56,958
+Hey, I appreciate it.
+
+262
+00:13:57,041 --> 00:13:58,250
+[BOTH gasp]
+
+263
+00:13:59,750 --> 00:14:00,708
+[ELJUIA]
+Louise.
+
+264
+00:14:00,791 --> 00:14:02,833
+[gasps]
+
+265
+00:14:04,416 --> 00:14:06,000
+[DEMETRIO]
+It's all out now.
+
+266
+00:14:06,083 --> 00:14:07,666
+You'll never have to
+break your heart
+
+267
+00:14:07,750 --> 00:14:09,666
+to keep yourself in check again.
+
+268
+00:14:09,750 --> 00:14:13,166
+Instead, listen to it, and do
+whatever it tells you is right.
+
+269
+00:14:13,250 --> 00:14:15,250
+You can trust that.
+
+270
+00:14:27,125 --> 00:14:28,875
+[EMILIO, SHUN grunt]
+
+271
+00:14:34,833 --> 00:14:38,125
+[panting]
+
+272
+00:14:40,625 --> 00:14:43,708
+[EMILIO] So, what the
+hell am I doing here?
+
+273
+00:14:43,791 --> 00:14:47,000
+Why do I always play
+right into his hands?
+
+274
+00:14:47,083 --> 00:14:51,125
+I know it's all
+pointless, so why?
+
+275
+00:14:51,208 --> 00:14:53,416
+Will you just leave
+me alone already?
+
+276
+00:14:53,500 --> 00:14:56,000
+How I spend my days
+doesn't concern you!
+
+277
+00:14:56,083 --> 00:14:57,708
+Oh, enough of that crap.
+
+278
+00:14:57,791 --> 00:14:59,458
+It's my concern
+as much as yours!
+
+279
+00:14:59,541 --> 00:15:01,708
+We're in this thing together,
+and you're stuck in a rut!
+
+280
+00:15:01,791 --> 00:15:03,875
+I won't leave you behind!
+
+281
+00:15:05,541 --> 00:15:07,625
+I... see.
+
+282
+00:15:08,500 --> 00:15:10,041
+About time!
+
+283
+00:15:10,125 --> 00:15:12,416
+[SHUN, EMILIO yell]
+
+284
+00:15:15,416 --> 00:15:16,333
+[gasps]
+
+285
+00:15:16,416 --> 00:15:17,875
+[SHUN chuckles]
+
+286
+00:15:21,375 --> 00:15:22,416
+[SHUN]
+Ow, son of a--
+
+287
+00:15:22,500 --> 00:15:23,916
+[EMILIO]
+Looks like it's my win.
+
+288
+00:15:24,000 --> 00:15:26,041
+[SHUN]
+That's gonna leave a mark.
+
+289
+00:15:26,125 --> 00:15:27,375
+[EMILIO]
+Here.
+
+290
+00:15:30,541 --> 00:15:31,916
+I guess I should thank you.
+
+291
+00:15:32,000 --> 00:15:35,500
+[SHUN]
+For what? I didn't letcha win.
+
+292
+00:15:35,583 --> 00:15:38,583
+[EMILIO] You only came out here
+to try and cheer me up.
+
+293
+00:15:38,666 --> 00:15:40,000
+[SHUN]
+Yeah that's kinda true,
+
+294
+00:15:40,083 --> 00:15:43,041
+but I was also feelin'
+pretty antsy.
+
+295
+00:15:43,125 --> 00:15:44,541
+So listen, man.
+
+296
+00:15:44,625 --> 00:15:47,333
+You need to cut it out with
+the perpetual pity party.
+
+297
+00:15:47,416 --> 00:15:49,750
+I think you should learn
+how to let go of the past.
+
+298
+00:15:49,833 --> 00:15:50,791
+Say what?
+
+299
+00:15:50,875 --> 00:15:53,041
+The past isn't
+changeable, ya know?
+
+300
+00:15:53,125 --> 00:15:54,291
+[EMILIO]
+Sure.
+
+301
+00:15:54,375 --> 00:15:56,125
+But the future is, so
+if you think forward,
+
+302
+00:15:56,208 --> 00:15:58,166
+you could be a little
+more positive.
+
+303
+00:15:58,250 --> 00:16:01,500
+Before Delzaine was killed, all
+you thought about was revenge.
+
+304
+00:16:01,583 --> 00:16:05,750
+But now that he's gone, all
+you talk about is regret. Why?
+
+305
+00:16:05,833 --> 00:16:08,333
+It's almost as if you
+enjoy being depressed.
+
+306
+00:16:08,416 --> 00:16:09,916
+You're like the Prince of Gloom.
+
+307
+00:16:10,000 --> 00:16:11,291
+That won't catch on.
+
+308
+00:16:11,375 --> 00:16:12,708
+But it's accurate!
+
+309
+00:16:12,791 --> 00:16:14,708
+You're always off kickin'
+dirt in the corner,
+
+310
+00:16:14,791 --> 00:16:16,916
+lookin' bummed out.
+
+311
+00:16:17,000 --> 00:16:18,125
+I guess you're right.
+
+312
+00:16:18,208 --> 00:16:20,833
+[SHUN] Uh?! No, I was
+just talkin' smack.
+
+313
+00:16:20,916 --> 00:16:22,666
+You're supposed to
+snap back, remember?
+
+314
+00:16:22,750 --> 00:16:24,666
+We've covered this!
+Say somethin' real mean.
+
+315
+00:16:24,750 --> 00:16:26,541
+Cut deep, I'm ready. Come at me.
+
+316
+00:16:26,625 --> 00:16:28,833
+You were only telling
+me the truth.
+
+317
+00:16:28,916 --> 00:16:31,583
+I've become far too
+obsessed with the past.
+
+318
+00:16:31,666 --> 00:16:33,166
+What? You mean that?
+
+319
+00:16:33,250 --> 00:16:38,666
+[EMILIO] However, I'm not like
+you. You still have your goal.
+
+320
+00:16:38,750 --> 00:16:42,000
+I have nothing. No purpose.
+
+321
+00:16:42,083 --> 00:16:45,083
+I wouldn't worry, just do
+what you can. You'll be fine.
+
+322
+00:16:45,166 --> 00:16:47,666
+Focus on the future
+you'd like to see,
+
+323
+00:16:47,750 --> 00:16:50,458
+and help whoever you
+can along the way.
+
+324
+00:16:50,541 --> 00:16:53,000
+You make it sound
+rather simple.
+
+325
+00:16:59,875 --> 00:17:03,208
+That's it. I understand now.
+
+326
+00:17:03,291 --> 00:17:04,666
+Thank you.
+
+327
+00:17:04,750 --> 00:17:05,958
+[SHUN]
+Uh...
+
+328
+00:17:06,583 --> 00:17:08,916
+[ELJUIA]
+If we head straight for Gradido,
+
+329
+00:17:09,000 --> 00:17:11,916
+we'll pass through settlements
+both here and here.
+
+330
+00:17:12,000 --> 00:17:14,333
+And both of those settlements
+happen to be under siege
+
+331
+00:17:14,416 --> 00:17:15,666
+the same as he is.
+
+332
+00:17:15,750 --> 00:17:16,375
+[footsteps]
+
+333
+00:17:16,458 --> 00:17:16,833
+[EMILIO]
+Demetrio.
+
+334
+00:17:16,916 --> 00:17:18,000
+[ALL gasp]
+
+335
+00:17:18,083 --> 00:17:19,791
+We were wonderin' where
+you guys had gone.
+
+336
+00:17:19,875 --> 00:17:22,333
+[DEMETRIO]
+Hey. What's up?
+
+337
+00:17:22,416 --> 00:17:24,666
+I've come to ask a favor.
+
+338
+00:17:28,208 --> 00:17:30,666
+It's good to see that you've
+perked up a little bit.
+
+339
+00:17:30,750 --> 00:17:32,791
+That have to do with this favor?
+
+340
+00:17:32,875 --> 00:17:35,875
+It does. I want to
+join the Ignauts.
+
+341
+00:17:35,958 --> 00:17:37,541
+[ELJUIA gasping]
+
+342
+00:17:39,833 --> 00:17:43,083
+Any particular reason why
+you're saying this now?
+
+343
+00:17:43,166 --> 00:17:45,833
+Between leaving the capital
+and arriving in Babylon,
+
+344
+00:17:45,916 --> 00:17:48,458
+I've seen more than
+I could've imagined.
+
+345
+00:17:48,541 --> 00:17:52,958
+The poverty of the people.
+The cruelty of privilege.
+
+346
+00:17:53,041 --> 00:17:56,625
+The way our world treats
+those of ill-fated birth.
+
+347
+00:17:56,708 --> 00:17:58,791
+Before, I'd hoped to use you.
+
+348
+00:17:58,875 --> 00:18:02,000
+I saw your group as a tool
+for obtaining revenge.
+
+349
+00:18:02,083 --> 00:18:06,500
+I see more now. See that you
+fight for something worthwhile.
+
+350
+00:18:06,583 --> 00:18:09,708
+Let me help. I beg you.
+
+351
+00:18:12,125 --> 00:18:14,166
+[DEMETRIO] I'll give you
+a few points for passion,
+
+352
+00:18:14,250 --> 00:18:16,750
+but I've got no idea
+what you're asking for.
+
+353
+00:18:16,833 --> 00:18:19,791
+You're already one of us.
+Have been for a while.
+
+354
+00:18:19,875 --> 00:18:22,291
+[gasps] Thank you, sir.
+
+355
+00:18:22,375 --> 00:18:25,708
+Cool! Well if Emilio's
+gonna make it formal,
+
+356
+00:18:25,791 --> 00:18:28,625
+then I guess I should go ahead
+make this thing official, too.
+
+357
+00:18:28,708 --> 00:18:30,166
+[MISCHA]
+Are you asking to join?
+
+358
+00:18:30,250 --> 00:18:32,791
+Uh! What? No,
+I don't have to!
+
+359
+00:18:32,875 --> 00:18:34,541
+Do you have any idea how
+much I've contributed
+
+360
+00:18:34,625 --> 00:18:35,666
+to this adventure?
+
+361
+00:18:35,750 --> 00:18:36,791
+Practically nothing?
+
+362
+00:18:36,875 --> 00:18:38,583
+[SHUN]
+No! Definitely something!
+
+363
+00:18:38,666 --> 00:18:40,416
+Look, a lot of it was
+before you joined,
+
+364
+00:18:40,500 --> 00:18:41,666
+so it's no wonder
+you don't know.
+
+365
+00:18:41,750 --> 00:18:42,708
+[MISCHA]
+Strange...
+
+366
+00:18:42,791 --> 00:18:45,291
+Well. They truly are
+a lively bunch.
+
+367
+00:18:45,375 --> 00:18:48,083
+[ELJUIA] And yet, for the long
+journey we have ahead of us,
+
+368
+00:18:48,166 --> 00:18:50,791
+there's no one I would
+rather have beside me.
+
+369
+00:18:50,875 --> 00:18:53,708
+So anyway, I think I'm gonna
+keep helping you guys out
+
+370
+00:18:53,791 --> 00:18:56,375
+as well. At least until
+I make it back home.
+
+371
+00:18:56,458 --> 00:18:57,708
+[PASCAL]
+Speaking of,
+
+372
+00:18:57,791 --> 00:18:59,958
+I think we may find a lead
+on that in the capital.
+
+373
+00:19:00,041 --> 00:19:03,166
+[SHUN] Oh, hey, Pascal.
+What do you mean, the capital?
+
+374
+00:19:03,250 --> 00:19:06,541
+We've found out about as much
+as we can from looking at Babel.
+
+375
+00:19:06,625 --> 00:19:08,875
+Mechanically,
+it seems to be sound.
+
+376
+00:19:08,958 --> 00:19:11,125
+Our best theory at the
+moment as to why it failed
+
+377
+00:19:11,208 --> 00:19:13,916
+is that it's being somehow
+sealed from the surface.
+
+378
+00:19:14,000 --> 00:19:16,833
+There's no telling how
+or why though, not yet.
+
+379
+00:19:16,916 --> 00:19:18,291
+[DEMETRIO sighs]
+I see.
+
+380
+00:19:18,375 --> 00:19:19,791
+[LOUISE]
+Wait.
+
+381
+00:19:19,875 --> 00:19:22,083
+So you think someone who lives
+on the surface blocked it?
+
+382
+00:19:22,166 --> 00:19:25,208
+But if no one knows about Endora
+there, then how could they?
+
+383
+00:19:25,291 --> 00:19:27,125
+That's not a bad question.
+
+384
+00:19:27,208 --> 00:19:29,666
+No, it's not. Who's to say?
+
+385
+00:19:29,750 --> 00:19:32,000
+But the two of you are
+right, it does seem odd.
+
+386
+00:19:32,083 --> 00:19:33,958
+Perhaps the blockage
+on the surface side
+
+387
+00:19:34,041 --> 00:19:35,458
+was a natural occurrence.
+
+388
+00:19:35,541 --> 00:19:37,916
+I think we'll find that such
+conjecture is pointless
+
+389
+00:19:38,000 --> 00:19:40,208
+until we've given the
+subject more research.
+
+390
+00:19:40,291 --> 00:19:41,000
+Shun.
+
+391
+00:19:41,083 --> 00:19:42,208
+[SHUN]
+Mm?
+
+392
+00:19:42,291 --> 00:19:43,875
+[PASCAL]
+Here are our options:
+
+393
+00:19:43,958 --> 00:19:46,041
+We can either continue
+investigating Babel
+
+394
+00:19:46,125 --> 00:19:49,166
+in the hopes of finding some way
+to unlock this seal for you,
+
+395
+00:19:49,250 --> 00:19:50,708
+or we can start from scratch,
+
+396
+00:19:50,791 --> 00:19:53,083
+and look for your passage
+above elsewhere.
+
+397
+00:19:53,166 --> 00:19:55,916
+The good news is that regardless
+of which path you choose,
+
+398
+00:19:56,000 --> 00:19:59,750
+it'll start with research
+at the Royal Laboratory.
+
+399
+00:19:59,833 --> 00:20:01,875
+[DEMETRIO]
+Our course is clear then.
+
+400
+00:20:01,958 --> 00:20:03,458
+We make our way to the capital,
+
+401
+00:20:03,541 --> 00:20:06,166
+bringing peace and order back
+to each region we pass through
+
+402
+00:20:06,250 --> 00:20:09,208
+with either diplomacy,
+or force of arms.
+
+403
+00:20:25,208 --> 00:20:27,333
+Okay, guys!
+
+404
+00:20:27,416 --> 00:20:30,000
+Let's get this train rollin'!
+
+405
+00:20:30,083 --> 00:20:31,958
+Why is Shun pretending
+to be a leader?
+
+406
+00:20:32,041 --> 00:20:33,166
+[FALARION chirps]
+
+407
+00:20:33,250 --> 00:20:35,208
+[SHUN] I didn't mean to!
+I just got excited.
+
+408
+00:20:35,291 --> 00:20:38,833
+[ALL laugh]
+
+409
+00:20:38,916 --> 00:20:40,375
+[gasps]
+
+410
+00:20:43,166 --> 00:20:46,541
+[ALICIA] Hey, Emilio.
+Did something happen?
+
+411
+00:20:46,625 --> 00:20:49,416
+You seem a lot different,
+better somehow.
+
+412
+00:20:51,500 --> 00:20:53,125
+I guess so.
+
+413
+00:20:53,208 --> 00:20:54,500
+[ALICIA, FALARION]
+Huh?
+
+414
+00:22:44,625 --> 00:22:46,958
+[DEMETRIO]
+Next Episode, "Monster."
+

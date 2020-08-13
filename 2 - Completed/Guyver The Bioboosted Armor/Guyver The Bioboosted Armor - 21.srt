@@ -1,0 +1,1630 @@
+﻿1
+00:02:02,208 --> 00:02:03,583
+[BLOCK B] This is Block B.
+
+2
+00:02:03,666 --> 00:02:06,041
+We have confirmed a massive
+explosion in the vacinity.
+
+3
+00:02:06,125 --> 00:02:07,875
+Fires are spreading
+throughout the block.
+
+4
+00:02:07,958 --> 00:02:10,916
+[CONTROL] Understood. Lock down
+the damaged sectors immediately!
+
+5
+00:02:11,000 --> 00:02:13,250
+Activate the confinment walls!
+
+6
+00:02:14,875 --> 00:02:16,708
+[soldier screams]
+
+7
+00:02:20,166 --> 00:02:21,625
+[BLOCK B] Commander Guyot!
+
+8
+00:02:21,708 --> 00:02:25,250
+[Guyot breaths menacingly
+as he advances]
+
+9
+00:02:26,750 --> 00:02:28,458
+[BLOCK B] Wh-What are you...
+
+10
+00:02:31,458 --> 00:02:35,083
+[electronic beeping]
+
+11
+00:02:36,125 --> 00:02:39,041
+[Guyot laughs]
+
+12
+00:02:43,250 --> 00:02:48,166
+[crashing sounds from beyond
+shield door growing closer]
+
+13
+00:02:52,333 --> 00:02:54,083
+[GUYOT] Damn...
+
+14
+00:02:56,583 --> 00:02:58,916
+[Guyor growls as he
+gathers his power]
+
+15
+00:02:59,000 --> 00:03:01,458
+[ARCHANFEL] This has gone
+far enough, Richard.
+
+16
+00:03:02,791 --> 00:03:05,791
+This rebellion is an
+act of futility.
+
+17
+00:03:05,875 --> 00:03:08,000
+It ends now!
+
+18
+00:03:08,083 --> 00:03:11,500
+[Guyot roars in defiance]
+
+19
+00:03:16,541 --> 00:03:18,708
+[CONTROL] Emergency, emergency!
+[alarm sirens wailing]
+
+20
+00:03:18,791 --> 00:03:20,416
+Block B has sustained
+serious damage
+
+21
+00:03:20,500 --> 00:03:22,125
+and has ceased
+communication!
+
+22
+00:03:22,208 --> 00:03:24,458
+[ZX-TOLE]
+Where's Commander Guyot?
+
+23
+00:03:24,541 --> 00:03:26,708
+[CONTROL]
+Well, Sir, he's exited Block B
+
+24
+00:03:26,791 --> 00:03:28,000
+and is currently making his way
+
+25
+00:03:28,083 --> 00:03:30,291
+through Tunnel 4
+towards Block C.
+
+26
+00:03:30,375 --> 00:03:32,458
+It looks like he's being
+pursued by someone,
+
+27
+00:03:32,541 --> 00:03:35,291
+but we haven't been able to
+identify them yet.
+
+28
+00:03:35,375 --> 00:03:37,375
+[DERZERB]
+What the hell's going on here?
+
+29
+00:03:37,458 --> 00:03:39,958
+Why would the commander
+be running away?
+
+30
+00:03:40,041 --> 00:03:42,041
+[CONTROL] I... I'm sorry, Sir,
+
+31
+00:03:42,125 --> 00:03:43,916
+but all the monitors the
+commander passes are shorted out
+
+32
+00:03:44,000 --> 00:03:45,708
+by some kind of interference,
+
+33
+00:03:45,791 --> 00:03:48,333
+and since losing contact with
+all the operatives in the area,
+
+34
+00:03:48,416 --> 00:03:50,000
+we're in the dark.
+
+35
+00:03:50,083 --> 00:03:52,083
+Must be a Guyver.
+
+36
+00:03:52,166 --> 00:03:55,375
+I mean, you don't think it
+could be Aptom, do you?
+
+37
+00:03:55,458 --> 00:03:58,958
+Hard to say. The thing is, the
+commander's a Zoalord.
+
+38
+00:03:59,041 --> 00:04:01,125
+I don't think the Guyvers
+or Aptom
+
+39
+00:04:01,208 --> 00:04:02,958
+are strong enough to chase down
+someone on his level.
+
+40
+00:04:03,041 --> 00:04:06,708
+[CONTROL] The commander
+has reached Block C!
+
+41
+00:04:06,791 --> 00:04:10,833
+Listen up! Our only objective is
+to verify the current situation.
+
+42
+00:04:10,916 --> 00:04:13,458
+If at all possible,
+avoid involvement in the battle
+
+43
+00:04:13,541 --> 00:04:15,750
+between the commander
+and his adversary.
+
+44
+00:04:18,958 --> 00:04:21,041
+[Guyot roars as he
+flies through]
+
+45
+00:04:27,208 --> 00:04:28,625
+[ARCHANFEL] Come now, Richard.
+
+46
+00:04:28,708 --> 00:04:32,958
+Stop this nonsense and hand
+over the Remover.
+
+47
+00:04:33,041 --> 00:04:35,500
+[Guyot growls angrily]
+
+48
+00:04:35,583 --> 00:04:37,875
+[GUYOT]
+Don't make me repeat myself.
+
+49
+00:04:37,958 --> 00:04:41,125
+I already told you.
+The answer is NO!
+
+50
+00:04:41,208 --> 00:04:43,000
+What a pity.
+
+51
+00:05:03,541 --> 00:05:05,250
+Run while you still can.
+
+52
+00:05:05,333 --> 00:05:09,000
+You'll soon find obedience
+is your only option.
+
+53
+00:05:11,375 --> 00:05:13,458
+I'm sorry, we lost their signal.
+
+54
+00:05:13,541 --> 00:05:15,833
+All the Zoanoids at the scene
+have been wiped out.
+
+55
+00:05:15,916 --> 00:05:17,291
+I don't know what's going on!
+
+56
+00:05:17,375 --> 00:05:19,166
+So, what happened to
+Commander Guyot?
+
+57
+00:05:19,250 --> 00:05:20,583
+From as far as I can tell,
+
+58
+00:05:20,666 --> 00:05:22,208
+he's broken through the
+floor in Block C
+
+59
+00:05:22,291 --> 00:05:25,541
+and is currently making his
+way to the lower levels!
+
+60
+00:05:25,625 --> 00:05:28,958
+[ZX-TOLE] Derzerb, I want
+you to come with me.
+
+61
+00:05:29,041 --> 00:05:30,833
+We're going to have to look
+for Doctor Barcas.
+
+62
+00:05:30,916 --> 00:05:32,583
+Doctor Barcas?!
+
+63
+00:05:32,666 --> 00:05:35,250
+We don't know what Commander
+Guyot's planning right now.
+
+64
+00:05:35,333 --> 00:05:37,666
+This situation is getting
+out of hand.
+
+65
+00:05:37,750 --> 00:05:41,541
+At this point, I'm afraid only
+a Zoalord can handle this.
+
+66
+00:05:46,708 --> 00:05:49,666
+Hold on a second,
+I'll go with you.
+
+67
+00:05:49,750 --> 00:05:52,375
+You wait here.
+I need you to stay behind
+
+68
+00:05:52,458 --> 00:05:54,958
+and try to stabilize the
+situation with the other units.
+
+69
+00:05:55,041 --> 00:05:57,250
+But, Sir...
+[ZX-TOLE] Think about it.
+
+70
+00:05:57,333 --> 00:05:59,458
+If the Guyvers or Aptom snuck
+into the base right now,
+
+71
+00:05:59,541 --> 00:06:02,291
+there's no telling how much
+damage they could do.
+
+72
+00:06:02,375 --> 00:06:04,125
+[APTOM] That's a pretty
+interesting attack, Gaster!
+
+73
+00:06:04,208 --> 00:06:06,458
+Next time, I'll have
+to absorb you!
+
+74
+00:06:08,125 --> 00:06:09,875
+[DERZERB]
+Probably better this way.
+
+75
+00:06:09,958 --> 00:06:12,375
+You can't fire off your
+missiles inside the base, right?
+
+76
+00:06:12,458 --> 00:06:14,791
+[GASTER] Right...
+
+77
+00:06:14,875 --> 00:06:17,541
+We'll meet up with you
+later, Gaster.
+
+78
+00:06:24,375 --> 00:06:27,125
+[GASTER]
+Aptom sneaking in HERE?
+
+79
+00:06:28,625 --> 00:06:31,208
+Not likely.
+
+80
+00:06:31,291 --> 00:06:34,750
+Continue to follow the movements
+of Commander Guyot, understand?
+
+81
+00:06:34,833 --> 00:06:36,333
+[CONTROL] Sir!
+
+82
+00:06:36,416 --> 00:06:38,750
+While he's doing that, you scan
+for the doctor's thought waves.
+
+83
+00:06:38,833 --> 00:06:40,375
+[OPERATOR] Yes, Sir!
+
+84
+00:06:51,208 --> 00:06:52,833
+<i>I must hurry.</i>
+
+85
+00:06:52,916 --> 00:06:57,583
+<i>If this Remover is what I</i>
+<i>suspect, this could be serious.</i>
+
+86
+00:06:57,666 --> 00:07:02,250
+<i>A power that great should only</i>
+<i>rest in Archanfel's hands.</i>
+
+87
+00:07:02,333 --> 00:07:04,875
+<i>If someone like Guyot were</i>
+<i>to aquire it,</i>
+
+88
+00:07:04,958 --> 00:07:08,083
+<i>it could mean the destruction</i>
+<i>of Chronos.</i>
+
+89
+00:07:10,083 --> 00:07:12,583
+[footsteps in corridor]
+
+90
+00:07:15,666 --> 00:07:19,666
+I see, no survivors.
+I... I wonder...
+
+91
+00:07:19,750 --> 00:07:22,500
+what must've become
+of Dr. Barcas?
+
+92
+00:07:22,583 --> 00:07:24,541
+I hope he survived.
+
+93
+00:07:26,958 --> 00:07:28,791
+[ZX-TOLE] Derzerb, look out!
+
+94
+00:07:28,875 --> 00:07:32,500
+[Derzerb roars as he transforms]
+
+95
+00:07:35,291 --> 00:07:36,791
+[DERZERB] Aptom!
+
+96
+00:07:36,875 --> 00:07:40,041
+I didn't think you'd have the
+guts to show your face in here!
+
+97
+00:07:42,166 --> 00:07:44,333
+I've been waiting for this.
+
+98
+00:07:44,416 --> 00:07:49,541
+Now, I can finally send
+you to HELL! [roars]
+
+99
+00:08:01,958 --> 00:08:03,750
+[ZX-Tole] DIE, APTOM!
+
+100
+00:08:03,833 --> 00:08:07,833
+[Aptom screams as he dies]
+
+101
+00:08:10,083 --> 00:08:13,541
+[DERZERB] [disgusted sound]
+Man, Look at that.
+
+102
+00:08:13,625 --> 00:08:16,666
+That sick bastard's still alive.
+
+103
+00:08:18,458 --> 00:08:22,166
+[ZX-TOLE]
+Hah! Well, he's dead now.
+
+104
+00:08:22,250 --> 00:08:24,541
+[DERZERB] That should be the
+last we see of him.
+
+105
+00:08:24,625 --> 00:08:27,083
+Disgusting freak got
+what he deserved.
+
+106
+00:08:27,166 --> 00:08:28,583
+[ZX-TOLE] I'm starting to
+think we shouldn't have left
+
+107
+00:08:28,666 --> 00:08:30,666
+the control room after all.
+
+108
+00:08:30,750 --> 00:08:33,458
+In fact, that may be the last
+thing we should have done.
+
+109
+00:08:33,541 --> 00:08:34,750
+[DERZERB] Hmm?
+
+110
+00:08:34,833 --> 00:08:37,333
+[ZX-TOLE]
+Come on! We're going back!
+
+111
+00:08:37,416 --> 00:08:39,291
+[DERZERB] But shouldn't we keep
+looking for the doctor?
+
+112
+00:08:39,375 --> 00:08:41,333
+[ZX-TOLE]
+Think about it for a second.
+
+113
+00:08:41,416 --> 00:08:45,041
+Dr. Barcas has the power to
+contact us whenever he wants.
+
+114
+00:08:45,125 --> 00:08:47,125
+It doesn't matter where he is.
+
+115
+00:08:47,208 --> 00:08:48,750
+If he needs to give us orders,
+
+116
+00:08:48,833 --> 00:08:51,375
+all he has to do is form a
+psychic connection.
+
+117
+00:08:51,458 --> 00:08:52,708
+[DERZERB]
+So, you're saying the doctor
+
+118
+00:08:52,791 --> 00:08:56,000
+would have wanted us to
+stay in the control room?
+
+119
+00:08:56,083 --> 00:08:59,625
+[ZX-TOLE] Right, with Aptom
+sneaking in as soon as we left,
+
+120
+00:08:59,708 --> 00:09:03,958
+I'm starting to think that
+this was a setup.
+
+121
+00:09:04,041 --> 00:09:07,708
+He probably targeted Gaster
+after we left the control room.
+
+122
+00:09:07,791 --> 00:09:10,333
+That's why nobody warned us
+before he made his attack.
+
+123
+00:09:10,416 --> 00:09:13,250
+[gasping and wheezing]
+
+124
+00:09:13,333 --> 00:09:15,375
+[ZX-TOLE] Gaster?
+[GASTER] ...Tole!
+
+125
+00:09:16,916 --> 00:09:20,333
+[DERZERB] Gaster!
+
+126
+00:09:20,416 --> 00:09:24,166
+What's wrong? Hey, hang in
+there! What happened, man?
+
+127
+00:09:26,833 --> 00:09:28,958
+[ZX-TOLE]
+Derzeb, that's not Gaster!
+
+128
+00:09:29,041 --> 00:09:32,083
+[Derzerb roars in pain]
+
+129
+00:09:39,625 --> 00:09:41,166
+[ZX-TOLE] This is insane!
+
+130
+00:09:41,250 --> 00:09:43,000
+If that was Aptom just now,
+
+131
+00:09:43,083 --> 00:09:45,333
+then what the hell was that
+thing we killed earlier?
+
+132
+00:09:45,416 --> 00:09:48,458
+Naw, couldn't have been...
+
+133
+00:09:48,541 --> 00:09:50,916
+[Derzerb groans]
+[ZX-TOLE] Are you all right?
+
+134
+00:09:51,000 --> 00:09:54,916
+[Derzerb breathes heavily
+and then roars]
+
+135
+00:09:55,000 --> 00:09:59,208
+(labored breathing]
+
+136
+00:10:04,333 --> 00:10:06,250
+[Derzerb roars in pain as
+he transforms]
+
+137
+00:10:06,333 --> 00:10:07,333
+[ZX-TOLE] Derzerb!
+
+138
+00:10:09,708 --> 00:10:12,625
+No, don't tell me he...
+
+139
+00:10:12,708 --> 00:10:15,458
+He must have infected Derzerb
+when he grabbed his arm!
+
+140
+00:10:15,541 --> 00:10:18,125
+But that's impossible!
+He barely touched him!
+
+141
+00:10:18,208 --> 00:10:24,125
+[Aptom groans, chuckles and
+then laughs outloud]
+
+142
+00:10:24,208 --> 00:10:25,541
+[ZX-TOLE] You bastard,
+
+143
+00:10:25,625 --> 00:10:28,916
+you killed Gaster the same
+way, didn't you?
+
+144
+00:10:29,000 --> 00:10:32,125
+[APTOM] That's right, ZX-Tole.
+Did you forget already?
+
+145
+00:10:32,208 --> 00:10:33,583
+The last time we met,
+
+146
+00:10:33,666 --> 00:10:36,291
+I told you that Gaster was
+going to be my next target.
+
+147
+00:10:36,375 --> 00:10:38,041
+[ZX-TOLE] So, you infiltrated
+the command room,
+
+148
+00:10:38,125 --> 00:10:41,333
+then devoured him while we were
+busy fighting with your double.
+
+149
+00:10:41,416 --> 00:10:44,250
+[APTOM]
+Double? Don't be ridiculous.
+
+150
+00:10:44,333 --> 00:10:45,583
+The Aptom you defeated earlier
+was
+
+151
+00:10:45,666 --> 00:10:49,500
+as much myself as the man
+standing before you now.
+
+152
+00:10:49,583 --> 00:10:52,000
+But more than that, I suppose
+you could look at it
+
+153
+00:10:52,083 --> 00:10:54,000
+as a single member of the colony
+
+154
+00:10:54,083 --> 00:10:56,958
+of bodies united under
+my consciousness.
+
+155
+00:10:57,041 --> 00:10:58,875
+[ZX-TOLE]
+What are you talking about?
+
+156
+00:10:58,958 --> 00:11:00,708
+[APTOM] You still don't get it?
+
+157
+00:11:00,791 --> 00:11:04,708
+I'm saying that each Aptom you
+see is another part of my body,
+
+158
+00:11:04,791 --> 00:11:08,750
+acting under my will, the same
+as the rest of me.
+
+159
+00:11:08,833 --> 00:11:12,250
+[ZX-TOLE] So, are you saying you
+sacrificed half of your own body
+
+160
+00:11:12,333 --> 00:11:15,666
+only so you could devour
+Derzerb and Gaster?!
+
+161
+00:11:15,750 --> 00:11:20,583
+[APTOM] Sacrifice? I wouldn't
+call it a "sacrifice". [laughs]
+
+162
+00:11:20,666 --> 00:11:23,416
+In fact, you know, I feel
+better than ever!
+
+163
+00:11:23,500 --> 00:11:26,125
+Those friends of yours
+really hit the spot.
+
+164
+00:11:26,208 --> 00:11:29,791
+They've more than made up for
+the parts I lost fighting you.
+
+165
+00:11:29,875 --> 00:11:31,458
+[laughs evilly]
+
+166
+00:11:31,541 --> 00:11:34,291
+[ZX-TOLE] Shut your mouth, you
+repulsive bastard!
+
+167
+00:11:34,375 --> 00:11:35,958
+I won't let you get
+away with this!
+
+168
+00:11:36,041 --> 00:11:37,916
+Even if it costs me my life,
+
+169
+00:11:38,000 --> 00:11:40,791
+I'll kill you for what
+you've done!
+
+170
+00:11:46,458 --> 00:11:48,166
+He's fast!
+
+171
+00:11:49,958 --> 00:11:51,666
+Damn it!
+
+172
+00:11:56,583 --> 00:11:58,875
+[APTOM]
+Don't look so surprised ZX-Tole.
+
+173
+00:11:58,958 --> 00:12:01,625
+It's not like you haven't seen
+these attacks before.
+
+174
+00:12:01,708 --> 00:12:05,625
+Remember, I inherited this
+power from your old comrades.
+
+175
+00:12:05,708 --> 00:12:07,458
+[ZX-Tole screams in
+pain and rage]
+
+176
+00:12:07,541 --> 00:12:09,416
+[APTOM]
+But there's no need to worry,
+
+177
+00:12:09,500 --> 00:12:12,083
+I'll feast on your
+powers as well!
+
+178
+00:12:12,166 --> 00:12:13,875
+[ZX-TOLE] What?!
+
+179
+00:12:14,875 --> 00:12:16,708
+[screams in panic]
+
+180
+00:12:28,291 --> 00:12:33,125
+[ZX-Tole groans in pain]
+
+181
+00:12:33,208 --> 00:12:37,000
+[APTOM] Ah, you're still
+alive, huh? Not bad.
+
+182
+00:12:37,083 --> 00:12:39,333
+But I suppose
+should expect as much
+
+183
+00:12:39,416 --> 00:12:43,375
+from the elite
+hyper-Zoanoid Five.
+
+184
+00:12:43,458 --> 00:12:45,125
+Oh, I'm sorry.
+
+185
+00:12:45,208 --> 00:12:47,750
+I don't suppose I can call you
+the "elite five" any more,
+
+186
+00:12:47,833 --> 00:12:52,416
+seeing as there's only one of
+you left. [laughs gleefully]
+
+187
+00:12:52,500 --> 00:12:56,666
+[ZX-TOLE] <i>This is it. At this</i>
+<i>rate, I'm as good as dead.</i>
+
+188
+00:12:56,750 --> 00:13:00,333
+<i>I have no choice.</i>
+<i>I'll have to use it after all.</i>
+
+189
+00:13:00,416 --> 00:13:02,416
+[APTOM] It must be lonely
+without your friends.
+
+190
+00:13:02,500 --> 00:13:04,458
+So what do you say, ZX-Tole?
+
+191
+00:13:04,541 --> 00:13:06,708
+Why don't you give up this
+useless struggle
+
+192
+00:13:06,791 --> 00:13:09,083
+and become a part of me?
+
+193
+00:13:09,166 --> 00:13:11,750
+[ZX-TOLE] <i>If I screw this up,</i>
+<i>it's all over.</i>
+
+194
+00:13:11,833 --> 00:13:13,333
+<i>If I use it inside the base,</i>
+
+195
+00:13:13,416 --> 00:13:16,250
+<i>there's no telling what kind</i>
+<i>of damage it will cause.</i>
+
+196
+00:13:16,333 --> 00:13:20,791
+[APTOM]
+Elegen, Gaster and Derzerb...
+
+197
+00:13:20,875 --> 00:13:23,708
+They're calling out to you,
+ZX-Tole. Can't you hear them?
+
+198
+00:13:23,791 --> 00:13:27,666
+They're all waiting for you to
+join them, inside me.
+
+199
+00:13:27,750 --> 00:13:30,166
+[ZX-TOLE] <i>It doesn't matter</i>
+<i>how risky it is.</i>
+
+200
+00:13:30,250 --> 00:13:31,666
+<i>If I don't kill him now,</i>
+
+201
+00:13:31,750 --> 00:13:33,958
+<i>he could bring down</i>
+<i>the whole base.</i>
+
+202
+00:13:34,041 --> 00:13:36,166
+I said, shut your mouth!
+
+203
+00:13:36,250 --> 00:13:39,458
+I'm sick of your ranting,
+you freak!
+
+204
+00:13:39,541 --> 00:13:41,291
+I already told you...
+
+205
+00:13:41,375 --> 00:13:42,750
+I won't let you get away
+with this,
+
+206
+00:13:42,833 --> 00:13:44,833
+even if it costs me my life!
+
+207
+00:13:51,958 --> 00:13:54,500
+[APTOM]
+What kind of trick is this?
+
+208
+00:13:54,583 --> 00:13:56,458
+[wings buzzing]
+
+209
+00:14:00,166 --> 00:14:02,208
+[APTOM]
+The temperature's dropping.
+
+210
+00:14:04,750 --> 00:14:07,333
+I get it, those glowing
+wings of his
+
+211
+00:14:07,416 --> 00:14:11,666
+are absorbing the heat and light
+from everything in the area.
+
+212
+00:14:11,750 --> 00:14:15,125
+I'm impressed, I didn't think
+you had that kind of power,
+
+213
+00:14:15,208 --> 00:14:17,250
+but it's still not enough.
+
+214
+00:14:17,333 --> 00:14:19,083
+You should know that I can
+withstand temperatures
+
+215
+00:14:19,166 --> 00:14:20,583
+much lower than this.
+
+216
+00:14:24,708 --> 00:14:26,291
+No, that's not it.
+
+217
+00:14:26,375 --> 00:14:28,250
+He's not trying to freeze me.
+
+218
+00:14:28,333 --> 00:14:31,791
+He's absorbing the heat and
+light to turn it into energy!
+
+219
+00:14:31,875 --> 00:14:35,000
+[ZX-TOLE]
+See you in Hell, Aptom!
+
+220
+00:14:36,208 --> 00:14:38,125
+[Aptom screams]
+
+221
+00:14:51,041 --> 00:14:52,791
+<i>Now what's going on?</i>
+
+222
+00:14:52,875 --> 00:14:54,458
+<i>Don't tell me...</i>
+
+223
+00:14:54,541 --> 00:14:57,958
+<i>Is this part of Richard's</i>
+<i>plan, too?</i>
+
+224
+00:14:58,041 --> 00:15:00,916
+[sounds of destruction continue]
+
+225
+00:15:06,541 --> 00:15:08,375
+[ODAGIRI]
+So, how do things look, Sho?
+
+226
+00:15:08,458 --> 00:15:10,791
+Now that you've made contact
+with the control center,
+
+227
+00:15:10,875 --> 00:15:12,541
+do you think you can move the
+Relic
+
+228
+00:15:12,625 --> 00:15:14,375
+and thus bring down the base?
+
+229
+00:15:14,458 --> 00:15:15,958
+[SHO]
+I should be able to pull it off.
+
+230
+00:15:16,041 --> 00:15:17,875
+There's one problem though.
+
+231
+00:15:17,958 --> 00:15:19,958
+Even if the ship's operational,
+
+232
+00:15:20,041 --> 00:15:21,250
+it's been dormant for so long,
+
+233
+00:15:21,333 --> 00:15:23,458
+I don't think it has enough
+energy to fly yet.
+
+234
+00:15:23,541 --> 00:15:25,125
+So then?
+
+235
+00:15:25,208 --> 00:15:26,750
+[SHO] Don't worry, I think
+it'll be okay.
+
+236
+00:15:26,833 --> 00:15:28,333
+It's low on power now,
+
+237
+00:15:28,416 --> 00:15:29,958
+but it looks like it's sucking
+energy
+
+238
+00:15:30,041 --> 00:15:32,250
+from some underground
+heat source.
+
+239
+00:15:32,333 --> 00:15:34,541
+Underground heat source?
+
+240
+00:15:34,625 --> 00:15:36,875
+[SHO]
+Yeah, I'm not sure what it is,
+
+241
+00:15:36,958 --> 00:15:38,583
+but I'm sensing a large heat
+source
+
+242
+00:15:38,666 --> 00:15:41,000
+about 4 kilometers
+down from here.
+
+243
+00:15:41,083 --> 00:15:43,125
+Must be a magma pool!
+
+244
+00:15:43,208 --> 00:15:45,000
+[SHO] That's probably how the
+Relic has stayed active
+
+245
+00:15:45,083 --> 00:15:46,625
+for all these years.
+
+246
+00:15:46,708 --> 00:15:50,166
+It must draw up energy from the
+magma automatically.
+
+247
+00:15:50,250 --> 00:15:52,541
+He's quite right.
+It's moving slowly,
+
+248
+00:15:52,625 --> 00:15:53,875
+but the energy from the magma
+
+249
+00:15:53,958 --> 00:15:56,208
+is definitely making its
+way up to the Relic.
+
+250
+00:15:56,291 --> 00:15:58,416
+Sho, at the current rate,
+
+251
+00:15:58,500 --> 00:16:00,166
+how long do you think it'll
+take for the ship
+
+252
+00:16:00,250 --> 00:16:01,916
+to replenish its energy stores?
+
+253
+00:16:02,000 --> 00:16:03,541
+[SHO] If you just need the ship
+to take off,
+
+254
+00:16:03,625 --> 00:16:05,333
+it shouldn't take more
+than an hour or so.
+
+255
+00:16:05,416 --> 00:16:08,416
+In any case, I'll see if I
+can speed things up.
+
+256
+00:16:12,458 --> 00:16:14,583
+The Relic must be causing
+these earthquakes.
+
+257
+00:16:14,666 --> 00:16:16,958
+When it siphons energy
+from the magma pool,
+
+258
+00:16:17,041 --> 00:16:18,750
+it shakes the foundation
+of the base.
+
+259
+00:16:18,833 --> 00:16:20,958
+That's bad, even as is,
+
+260
+00:16:21,041 --> 00:16:22,916
+the structure of this place is
+naturally weakened
+
+261
+00:16:23,000 --> 00:16:24,500
+by the Relic's biowaves.
+
+262
+00:16:24,583 --> 00:16:27,333
+With an earthquake,
+we might be buried alive.
+
+263
+00:16:27,416 --> 00:16:29,708
+[RESEARCHER] Doctor,
+I've got some bad news.
+
+264
+00:16:29,791 --> 00:16:31,416
+A communiqué just came through
+
+265
+00:16:31,500 --> 00:16:34,333
+reporting a series of massive
+explosions in blocks C and J.
+
+266
+00:16:34,416 --> 00:16:35,666
+What?!
+
+267
+00:16:35,750 --> 00:16:37,208
+[RESEARCHER] I don't have the
+full details yet,
+
+268
+00:16:37,291 --> 00:16:39,000
+but a section of the elevator
+shaft was seriously damaged
+
+269
+00:16:39,083 --> 00:16:40,416
+by one of the explosions.
+
+270
+00:16:40,500 --> 00:16:41,583
+From the looks of things,
+
+271
+00:16:41,666 --> 00:16:44,416
+most of the elevators have
+stopped working.
+
+272
+00:16:44,500 --> 00:16:47,125
+[ODAGIRI] So, unless they get
+the elevators working again,
+
+273
+00:16:47,208 --> 00:16:50,625
+we're stuck here on
+the lowest floor.
+
+274
+00:16:50,708 --> 00:16:51,958
+Wait a second,
+
+275
+00:16:52,041 --> 00:16:54,666
+what if we put the Relic's
+energy transfer on hold?
+
+276
+00:16:54,750 --> 00:16:57,208
+[ODAGIRI] It's too late.
+We don't have any time.
+
+277
+00:16:57,291 --> 00:16:59,708
+I don't know what's happening
+on the higher levels,
+
+278
+00:16:59,791 --> 00:17:02,166
+but by this point, I'm sure that
+Guyot and Barcas have noticed
+
+279
+00:17:02,250 --> 00:17:04,916
+the intensified bio waves
+coming from the Relic.
+
+280
+00:17:05,000 --> 00:17:07,458
+If we stall, they'll
+find us out.
+
+281
+00:17:07,541 --> 00:17:09,666
+[SHO] Dr. Odagiri...
+[ODAGIRI] Yes?
+
+282
+00:17:09,750 --> 00:17:11,333
+[SHO] There's one place I know
+will be safe
+
+283
+00:17:11,416 --> 00:17:12,375
+from the earthquakes.
+
+284
+00:17:12,458 --> 00:17:15,583
+What do you mean, Sho?
+Just say it.
+
+285
+00:17:15,666 --> 00:17:18,750
+Wait... No way, you mean...
+
+286
+00:17:18,833 --> 00:17:20,666
+[SHO] The Relic...
+
+287
+00:17:21,958 --> 00:17:24,250
+Here, inside the ship.
+
+288
+00:17:33,083 --> 00:17:36,750
+[APTOM] What incredible power!
+
+289
+00:17:36,833 --> 00:17:40,041
+Maybe even stronger than
+the mega-smasher.
+
+290
+00:17:40,125 --> 00:17:42,875
+[gtunts with effort]
+
+291
+00:17:42,958 --> 00:17:47,083
+But surely, after an attack
+like that,
+
+292
+00:17:47,166 --> 00:17:49,750
+he must be completely drained.
+
+293
+00:17:49,833 --> 00:17:54,250
+[ZX-TOLE] [panting] Looks like
+you managed to survive.
+
+294
+00:17:54,333 --> 00:17:56,625
+That blast took a lot out of me,
+
+295
+00:17:56,708 --> 00:17:58,416
+but don't worry,
+
+296
+00:17:58,500 --> 00:18:02,833
+I still have enough energy
+to finish you off!
+
+297
+00:18:02,916 --> 00:18:06,083
+This is the end, Aptom.
+The END!
+
+298
+00:18:06,166 --> 00:18:10,500
+[Aptom groans,
+then begins to laugh]
+
+299
+00:18:10,583 --> 00:18:12,833
+[ZX-TOLE]
+Have you lost your mind?
+
+300
+00:18:12,916 --> 00:18:17,125
+[Aptom continues to laugh]
+
+301
+00:18:19,541 --> 00:18:21,583
+[ZX-TOLE] Huh? What the...
+
+302
+00:18:21,666 --> 00:18:25,583
+Impossible! You mean there
+was another one?!
+
+303
+00:18:25,666 --> 00:18:28,000
+[APTOM] Lucky for me, I happened
+to come across the corpses
+
+304
+00:18:28,083 --> 00:18:31,291
+of three Chronos soldiers
+on the way here.
+
+305
+00:18:31,375 --> 00:18:32,958
+I split into three parts,
+
+306
+00:18:33,041 --> 00:18:35,583
+using each of their bodies
+as another form.
+
+307
+00:18:37,625 --> 00:18:42,041
+And now, I'll have your
+body too, ZX-Tole!
+
+308
+00:18:42,125 --> 00:18:44,583
+[ZX-TOLE] I don't think so!
+
+309
+00:18:54,750 --> 00:18:58,875
+Crazy bastard blew his own
+leg off to get away.
+
+310
+00:18:58,958 --> 00:19:00,125
+[APTOM] It's all right,
+
+311
+00:19:00,208 --> 00:19:03,583
+he left behind a tissue sample
+for us to use.
+
+312
+00:19:10,000 --> 00:19:13,291
+[Aptom roars in pain]
+
+313
+00:19:23,500 --> 00:19:26,208
+[APTOM] I'm sensing a large
+concentration of power
+
+314
+00:19:26,291 --> 00:19:28,541
+originating from somewhere
+below.
+
+315
+00:19:32,166 --> 00:19:35,791
+I can feel it! It's him!
+What's going on here?
+
+316
+00:19:35,875 --> 00:19:37,708
+Who is he?
+
+317
+00:19:46,833 --> 00:19:48,625
+Is that Richard?!
+
+318
+00:19:58,125 --> 00:19:59,833
+[Guyot growls in anger]
+
+319
+00:20:02,375 --> 00:20:04,375
+It's Archanfel!
+
+320
+00:20:06,958 --> 00:20:08,125
+[ARCHANFEL]
+Don't you understand?
+
+321
+00:20:08,208 --> 00:20:10,333
+It doesn't matter how
+much you struggle.
+
+322
+00:20:10,416 --> 00:20:13,750
+Before me, your strength
+is meaningless.
+
+323
+00:20:13,833 --> 00:20:17,250
+You couldn't even give me the
+slightest scratch.
+
+324
+00:20:19,125 --> 00:20:22,500
+[Guyot growls in anger]
+
+325
+00:20:27,750 --> 00:20:31,375
+Richard, I'll give you but
+one word of advice.
+
+326
+00:20:33,000 --> 00:20:36,666
+You shouldn't anger a demigod.
+
+327
+00:20:44,583 --> 00:20:48,041
+[GUYOT]
+<i>Stay calm, it's all right.</i>
+
+328
+00:20:48,125 --> 00:20:50,375
+<i>I have him right where</i>
+<i>I want him.</i>
+
+329
+00:20:50,458 --> 00:20:52,666
+<i>There's no way I'll miss from</i>
+<i>this distance.</i>
+
+330
+00:20:52,750 --> 00:20:54,541
+<i>I don't care who he is,</i>
+
+331
+00:20:54,625 --> 00:20:55,791
+<i>there's nothing on Earth</i>
+
+332
+00:20:55,875 --> 00:20:58,291
+<i>that can withstand an</i>
+<i>attack like this!</i>
+
+333
+00:20:58,375 --> 00:21:00,125
+<i>This is the only way!</i>
+
+334
+00:21:00,208 --> 00:21:03,583
+<i>I can't allow a creature that</i>
+<i>powerful to exist!</i>
+
+335
+00:21:05,500 --> 00:21:08,166
+Damn you, Richard! You can't!
+
+336
+00:21:08,250 --> 00:21:10,041
+You're going to kill us all!
+
+337
+00:21:10,125 --> 00:21:13,041
+You have to escape, Archanfel!
+
+338
+00:21:14,708 --> 00:21:16,333
+Hamilcar?
+
+339
+00:21:16,416 --> 00:21:20,500
+[Guyot roars with power]
+
+340
+00:21:25,708 --> 00:21:31,541
+This is the end, Archanfel!
+Go to Hell!
+
+341
+00:21:32,166 --> 00:21:33,916
+What?!
+
+342
+00:21:43,208 --> 00:21:46,166
+[Guyot laughs with pleasure]
+
+343
+00:21:53,958 --> 00:21:57,041
+This power, it's...
+
+344
+00:23:30,541 --> 00:23:32,666
+[NARRATOR]
+Taking refuge inside the Relic,
+
+345
+00:23:32,750 --> 00:23:35,000
+Sho prepares to launch the
+ancient ship
+
+346
+00:23:35,083 --> 00:23:37,958
+and escape the collapsing
+Chronos Base.
+
+347
+00:23:38,041 --> 00:23:40,083
+Then, Guyot appears before
+them,
+
+348
+00:23:40,166 --> 00:23:43,083
+setting his sights
+on the two Guyvers.
+
+349
+00:23:43,166 --> 00:23:45,750
+As he calls on the power of the
+Remover,
+
+350
+00:23:45,833 --> 00:23:48,083
+the situation becomes desperate,
+
+351
+00:23:48,166 --> 00:23:52,208
+and Murakami is forced to engage
+his final transformation.
+
+352
+00:23:52,291 --> 00:23:56,125
+Next time:
+"Countdown to Collapse"
+

@@ -1,0 +1,1374 @@
+﻿1
+00:00:50,666 --> 00:00:52,625
+Lancelot!
+
+2
+00:01:03,708 --> 00:01:07,083
+You can't go see the
+Mother Dragon with your leg like that.
+
+3
+00:01:07,166 --> 00:01:08,958
+Better just give up.
+
+4
+00:01:09,666 --> 00:01:11,666
+As if I'd ever do that!
+
+5
+00:01:11,750 --> 00:01:15,791
+I <i>need</i> a parr!
+
+6
+00:01:15,875 --> 00:01:19,291
+I didn't come all
+this way to turn back now!
+
+7
+00:01:20,291 --> 00:01:24,458
+I understand. So you need a parr, huh?
+
+8
+00:01:28,083 --> 00:01:30,166
+Then there's only one solution:
+
+9
+00:01:30,250 --> 00:01:34,666
+I'll carry you, and we can
+look for the Mother Dragon together!
+
+10
+00:01:36,291 --> 00:01:41,750
+That was right after my seventh birthday,
+
+11
+00:01:41,833 --> 00:01:46,916
+the time of the Orphan's Rite,
+when the Mother Dragon
+
+12
+00:01:47,000 --> 00:01:50,625
+gifted humans with baby dragons.
+
+13
+00:01:50,708 --> 00:01:54,000
+I wonder what that boy's up to now?
+
+14
+00:02:03,666 --> 00:02:05,750
+A... A dragon?
+
+15
+00:02:10,291 --> 00:02:11,708
+This looks like...
+
+16
+00:02:18,541 --> 00:02:20,583
+I can't remember.
+
+17
+00:02:23,208 --> 00:02:24,833
+In between the
+Zepharos Empire to the north
+
+18
+00:02:24,916 --> 00:02:28,083
+and the Chevron Kingdom to the south,
+
+19
+00:02:28,166 --> 00:02:30,041
+lies Lautreamont Knight Country.
+
+20
+00:02:30,125 --> 00:02:32,166
+Known as "the Dragon-Rearing Land,"
+
+21
+00:02:32,250 --> 00:02:36,666
+it boasts the largest dragon population
+on the Arc Strada continent.
+
+22
+00:02:36,750 --> 00:02:40,166
+This small country with
+fewer than five million citizens
+
+23
+00:02:40,250 --> 00:02:43,166
+is home to a unique school:
+
+24
+00:02:43,250 --> 00:02:45,416
+Ansullivan Dragonar Academy.
+
+25
+00:02:45,500 --> 00:02:47,541
+It aims to educate
+and guide dragon masters
+
+26
+00:02:47,625 --> 00:02:50,708
+and the so-called Breeders,
+young men and women
+
+27
+00:02:50,791 --> 00:02:53,958
+who have entered into bonds with dragons.
+
+28
+00:02:56,166 --> 00:03:01,041
+<i>Meeting you smack</i>
+<i>in the middle of the world</i>
+
+29
+00:03:01,125 --> 00:03:06,041
+<i>It leaves me breathless</i>
+
+30
+00:03:06,125 --> 00:03:10,500
+<i>The "something" you and I have</i>
+
+31
+00:03:10,583 --> 00:03:13,625
+<i>Starts with a tiny thrum</i>
+
+32
+00:03:13,708 --> 00:03:17,333
+<i>Now teach me about</i>
+<i>the sky one more time</i>
+
+33
+00:03:17,416 --> 00:03:21,125
+"Dragonar Academy"
+
+34
+00:03:21,208 --> 00:03:25,958
+<i>The weight of flapping</i>
+<i>wings that only a bird knows</i>
+
+35
+00:03:26,041 --> 00:03:30,958
+<i>Everyone longs for it,</i>
+<i>though they know nothing about it</i>
+
+36
+00:03:31,041 --> 00:03:39,208
+<i>You smiled with</i>
+<i>a slightly sorrowful look</i>
+
+37
+00:03:39,291 --> 00:03:41,708
+<i>I... I have nothing</i>
+
+38
+00:03:41,791 --> 00:03:44,125
+<i>But if your tears can be fewer</i>
+
+39
+00:03:44,208 --> 00:03:46,750
+<i>And you'll smile like you mean it</i>
+
+40
+00:03:46,833 --> 00:03:49,166
+<i>Then I can be a hero--any kind you need</i>
+
+41
+00:03:49,250 --> 00:03:51,750
+<i>I'll embody any kind of hero for you</i>
+
+42
+00:03:51,833 --> 00:03:56,041
+<i>I'll never, never,</i>
+<i>never, never let go</i>
+
+43
+00:03:56,125 --> 00:04:01,041
+<i>Even if I die,</i>
+<i>I'll be your knight alone</i>
+
+44
+00:04:01,125 --> 00:04:05,500
+<i>But you cried for</i>
+<i>real and got angry:</i>
+
+45
+00:04:05,583 --> 00:04:08,750
+<i>Saying "Don't be so cold to me"</i>
+
+46
+00:04:08,833 --> 00:04:11,500
+<i>I wipe your tears</i>
+
+47
+00:04:11,583 --> 00:04:13,875
+<i>Even without a sacred blade</i>
+
+48
+00:04:13,958 --> 00:04:16,958
+<i>I don't care if I'm not a hero</i>
+
+49
+00:04:17,041 --> 00:04:24,166
+<i>If I can protect you with all I have</i>
+
+50
+00:04:25,875 --> 00:04:29,416
+"Iron Blood Valkyrie"
+
+51
+00:04:37,250 --> 00:04:40,750
+Today we welcome three new
+members to the student council
+
+52
+00:04:40,833 --> 00:04:43,458
+of Ansullivan Dragonar Academy.
+
+53
+00:04:43,541 --> 00:04:47,625
+Allow me to introduce them to you.
+
+54
+00:04:47,708 --> 00:04:50,958
+First, in charge of public morals:
+Silvia Lautreamont!
+
+55
+00:04:51,041 --> 00:04:52,250
+Thank you.
+
+56
+00:04:58,500 --> 00:05:01,708
+I am Silvia Lautreamont,
+public morals officer.
+
+57
+00:05:01,791 --> 00:05:05,250
+As a novice, I'm sure
+I have my share of flaws,
+
+58
+00:05:05,333 --> 00:05:08,041
+but I shall endeavor
+to do my utmost.
+
+59
+00:05:09,208 --> 00:05:11,708
+I look forward to my service.
+
+60
+00:05:13,708 --> 00:05:17,958
+Next, our number-one problem child,
+in charge of general affairs:
+
+61
+00:05:18,041 --> 00:05:20,166
+Ash Blake!
+
+62
+00:05:30,750 --> 00:05:33,916
+Ash Blake, general affairs.
+
+63
+00:05:34,000 --> 00:05:39,666
+To be honest, I'm still not
+sure what I can bring to the table...
+
+64
+00:05:43,458 --> 00:05:49,750
+...b-but I'll do my best regardless!
+Thanks in advance!
+
+65
+00:05:53,000 --> 00:05:55,583
+You can do it, Ash!
+
+66
+00:05:56,208 --> 00:05:58,208
+Go get 'em!
+
+67
+00:06:04,000 --> 00:06:07,791
+And finally, a familiar face to you all,
+
+68
+00:06:07,875 --> 00:06:09,875
+Ash Blake's parr:
+
+69
+00:06:09,958 --> 00:06:13,708
+the humanoid dragon Eco!
+
+70
+00:06:13,791 --> 00:06:18,791
+Let's give a warm welcome to
+our new school mascot!
+
+71
+00:06:25,250 --> 00:06:28,166
+Say hello, Eco!
+
+72
+00:06:39,375 --> 00:06:41,416
+Rawr!
+
+73
+00:06:59,666 --> 00:07:01,916
+Wh-What's all this?
+
+74
+00:07:05,166 --> 00:07:07,250
+How irritating!
+
+75
+00:07:07,333 --> 00:07:12,083
+Making a laughingstock out of
+the proud dragon race is a grave sin!
+
+76
+00:07:12,166 --> 00:07:15,666
+Stupid dummy dum-dum humans!
+
+77
+00:07:15,750 --> 00:07:18,333
+Cosette was being
+thoughtful, in her way.
+
+78
+00:07:18,416 --> 00:07:21,791
+Besides, no one was
+making fun of you--trust me.
+
+79
+00:07:21,875 --> 00:07:23,250
+Huh?
+
+80
+00:07:23,333 --> 00:07:27,041
+They saw how interesting
+you are and felt a bond with you.
+
+81
+00:07:27,125 --> 00:07:29,250
+Is that a good thing?
+
+82
+00:07:30,000 --> 00:07:34,458
+Sure it is! It means
+everyone wants to be your friend.
+
+83
+00:07:34,541 --> 00:07:38,791
+Hmm... Then I'd be happy
+to make them all my servants!
+
+84
+00:07:38,875 --> 00:07:40,166
+Now listen here...
+
+85
+00:07:45,875 --> 00:07:46,708
+So...
+
+86
+00:07:48,166 --> 00:07:51,708
+...this is your first job
+as student council member?
+
+87
+00:07:51,791 --> 00:07:55,375
+Yeah--take down anything posted
+without permission.
+
+88
+00:07:56,333 --> 00:07:59,333
+Just remember who your master is.
+
+89
+00:07:59,416 --> 00:08:01,625
+Don't go letting anyone else
+boss you around, you hear me?!
+
+90
+00:08:01,708 --> 00:08:04,750
+Actually, I'm <i>your</i> master.
+
+91
+00:08:07,416 --> 00:08:09,916
+"Silver Knight Fan Club"?
+
+92
+00:08:10,000 --> 00:08:11,833
+Who's this Silver Knight, anyway?
+
+93
+00:08:11,916 --> 00:08:17,125
+It's the hero from this popular novel,
+<i>The Heavenly Dragonar</i> .
+
+94
+00:08:17,208 --> 00:08:20,666
+They say he got his name because
+he resembled the Archdragonar
+
+95
+00:08:20,750 --> 00:08:23,208
+who saved the town from Necromancia.
+
+96
+00:08:23,291 --> 00:08:26,416
+So wait--is this <i>your</i> fan club?
+
+97
+00:08:27,416 --> 00:08:29,916
+I guess you could say that.
+
+98
+00:08:38,125 --> 00:08:39,541
+Watch where you're aiming!
+
+99
+00:08:39,625 --> 00:08:41,708
+I'm runnin' out of ammo!
+
+100
+00:08:43,666 --> 00:08:44,875
+It's her!
+
+101
+00:08:44,958 --> 00:08:47,333
+The Iron Blood Valkyrie!
+
+102
+00:08:50,375 --> 00:08:51,666
+Fire!
+
+103
+00:08:53,875 --> 00:08:55,708
+Little embers like you,
+
+104
+00:08:55,791 --> 00:08:58,250
+if left to burn,
+
+105
+00:08:58,333 --> 00:09:00,916
+can grow to engulf an entire nation!
+
+106
+00:09:19,208 --> 00:09:20,375
+Study hall, huh?
+
+107
+00:09:20,458 --> 00:09:22,958
+Hey, Eco!
+
+108
+00:09:23,500 --> 00:09:27,083
+You looked so adorable in that dress!
+
+109
+00:09:27,166 --> 00:09:29,750
+Say, Ash, wanna swap--
+
+110
+00:09:33,166 --> 00:09:35,166
+He had that coming.
+
+111
+00:09:44,166 --> 00:09:49,208
+Hello! I'm first-year
+Senios Jessica Valentine,
+
+112
+00:09:49,291 --> 00:09:53,958
+president of the Silver Knight
+Fan Club, or SKFC for short!
+
+113
+00:09:54,041 --> 00:10:00,541
+And I'm the SKFC vice-president,
+first-year Unios Lynette Worth!
+
+114
+00:10:01,708 --> 00:10:06,250
+We have not met the Silver Knight,
+the object of our admiration.
+
+115
+00:10:06,333 --> 00:10:09,291
+Therefore, we are seeking information.
+
+116
+00:10:09,375 --> 00:10:15,333
+Did anyone here see the hero
+who vanquished Necromancia?
+
+117
+00:10:15,750 --> 00:10:18,791
+We're in the middle
+of class here. Please leave.
+
+118
+00:10:18,875 --> 00:10:23,375
+Oh, my! If it isn't the princess!
+
+119
+00:10:23,458 --> 00:10:25,083
+Not now it isn't.
+
+120
+00:10:25,166 --> 00:10:28,500
+I'm warning you as the student
+council's public morals officer.
+
+121
+00:10:30,375 --> 00:10:32,833
+Public morals? How very trivial!
+
+122
+00:10:32,916 --> 00:10:35,458
+Why, that pales in
+comparison to my ambition!
+
+123
+00:10:35,541 --> 00:10:37,166
+What ambition?
+
+124
+00:10:37,625 --> 00:10:40,208
+Allow me to elucidate!
+
+125
+00:10:40,291 --> 00:10:41,875
+My ambition...
+
+126
+00:10:41,958 --> 00:10:43,208
+...is to...
+
+127
+00:10:46,125 --> 00:10:48,541
+...bear the Silver Knight's children!
+
+128
+00:10:55,583 --> 00:10:57,083
+Miss President!
+
+129
+00:10:57,166 --> 00:11:05,208
+That statement is in violation
+of Statute 127, SKFC's motto:
+
+130
+00:11:05,291 --> 00:11:06,958
+"Pure, True, Lovely"!
+
+131
+00:11:08,041 --> 00:11:12,500
+That's our vice president for you.
+Nice catch, Lynette.
+
+132
+00:11:12,583 --> 00:11:15,125
+I hereby retract that statement.
+
+133
+00:11:15,208 --> 00:11:18,166
+Retraction acknowledged.
+
+134
+00:11:18,250 --> 00:11:20,041
+Why so by-the-book?
+
+135
+00:11:20,125 --> 00:11:22,875
+Resistance is useless--and painful.
+
+136
+00:11:22,958 --> 00:11:26,541
+She's from a long and
+distinguished line of nobility.
+
+137
+00:11:26,625 --> 00:11:27,458
+In point of fact...
+
+138
+00:11:27,541 --> 00:11:28,958
+Mm-hmm...
+
+139
+00:11:29,041 --> 00:11:32,750
+What's that? The princess
+was at the Necromancia scene?!
+
+140
+00:11:33,458 --> 00:11:34,666
+Mm-hmm...
+
+141
+00:11:34,750 --> 00:11:38,250
+And riding Lancelot at that!
+
+142
+00:11:39,041 --> 00:11:42,791
+So mightn't <i>you</i> know
+the Silver Knight's secret identity?
+
+143
+00:11:42,875 --> 00:11:45,875
+D-Don't be ridiculous!
+
+144
+00:11:50,208 --> 00:11:51,666
+Listen...
+
+145
+00:11:52,750 --> 00:11:57,208
+We <i>are</i> in the middle of class here.
+Could you leave?
+
+146
+00:11:57,291 --> 00:12:03,208
+To think a mere commoner would
+speak his mind to me, of all people!
+
+147
+00:12:03,291 --> 00:12:08,791
+Acting the fool again, eh, Jessica?
+
+148
+00:12:08,875 --> 00:12:12,625
+Rebecca! Can I help you?
+
+149
+00:12:12,708 --> 00:12:17,208
+I have business with
+the student council members.
+
+150
+00:12:17,291 --> 00:12:22,791
+Perfect! As president of the SKFC,
+
+151
+00:12:22,875 --> 00:12:24,875
+I demand that the student
+council disclose information
+
+152
+00:12:24,958 --> 00:12:27,541
+on the Necromancia incident!
+
+153
+00:12:37,000 --> 00:12:40,750
+I-I'll forgive you just this once, b-but...
+
+154
+00:12:40,833 --> 00:12:42,708
+...this isn't over!
+
+155
+00:12:50,791 --> 00:12:54,375
+"Dragonar Academy"
+
+156
+00:12:54,791 --> 00:12:58,375
+"Dragonar Academy"
+
+157
+00:13:02,708 --> 00:13:05,541
+So Jessica <i>isn't</i> nobility?
+
+158
+00:13:05,625 --> 00:13:11,458
+That's right. Her family's been
+in the service of us Randalls for generations.
+
+159
+00:13:11,541 --> 00:13:17,208
+So when she starts making trouble,
+I threaten to expose her.
+
+160
+00:13:17,291 --> 00:13:20,791
+But why the ruse?
+
+161
+00:13:20,875 --> 00:13:26,083
+Jessica's a good person,
+but between her dreamy personality
+
+162
+00:13:26,166 --> 00:13:28,458
+and her admiration
+for royalty and nobility,
+
+163
+00:13:28,541 --> 00:13:31,583
+it seems she's come to believe
+that she herself is high-born.
+
+164
+00:13:31,666 --> 00:13:33,875
+The things we talk ourselves into...
+
+165
+00:13:33,958 --> 00:13:39,416
+But if she finds the Silver Knight,
+she really <i>can</i> be nobility.
+
+166
+00:13:39,500 --> 00:13:41,375
+What do you mean?
+
+167
+00:13:43,000 --> 00:13:45,416
+In this dragon-rearing country of ours,
+
+168
+00:13:45,500 --> 00:13:48,750
+Arch corresponds to a noble rank.
+
+169
+00:13:48,833 --> 00:13:51,583
+If she were to marry the
+Arch-bearing Silver Knight,
+
+170
+00:13:51,666 --> 00:13:54,708
+her future would be all but guaranteed.
+
+171
+00:13:55,750 --> 00:13:58,833
+If she finds out
+the Silver Knight is really you, Ash Blake,
+
+172
+00:13:58,916 --> 00:14:01,958
+Jessica will set her sights on
+your essence for sure.
+
+173
+00:14:02,041 --> 00:14:03,916
+E-Essence?!
+
+174
+00:14:05,541 --> 00:14:07,250
+What's that? Is it yummy?
+
+175
+00:14:07,333 --> 00:14:09,458
+You do <i>not</i> need to know!
+
+176
+00:14:09,541 --> 00:14:13,875
+But if <i>you</i> know,
+it's only fair that I know, too!
+
+177
+00:14:13,958 --> 00:14:15,291
+What kind of logic is that?
+
+178
+00:14:15,375 --> 00:14:19,291
+Hmph! I have a little
+something called the Draguarth!
+
+179
+00:14:25,375 --> 00:14:28,416
+E-Essence?!
+
+180
+00:14:30,583 --> 00:14:36,791
+In any case, Ash, you must take
+care to keep your identity under wraps.
+
+181
+00:14:36,875 --> 00:14:39,875
+Jessica is one tenacious woman.
+
+182
+00:14:40,791 --> 00:14:42,083
+Understood.
+
+183
+00:14:43,791 --> 00:14:46,000
+Now on to our main topic.
+
+184
+00:14:47,208 --> 00:14:53,333
+As it happens, First Princess
+Veronica Lautreamont
+
+185
+00:14:53,416 --> 00:14:55,333
+will be paying a visit
+to the town of Ansullivan
+
+186
+00:14:55,416 --> 00:14:57,791
+in the wake of its Necromancia attack.
+
+187
+00:14:59,166 --> 00:15:03,416
+A sympathy call from First Princess Veronica?
+That's serious business.
+
+188
+00:15:03,500 --> 00:15:06,375
+First princess--that must mean...
+
+189
+00:15:06,458 --> 00:15:09,541
+Yes... she's Silvia's big sister.
+
+190
+00:15:09,625 --> 00:15:11,375
+No!
+
+191
+00:15:30,500 --> 00:15:32,958
+Setting course for Ansullivan.
+
+192
+00:15:33,041 --> 00:15:34,500
+Roger.
+
+193
+00:15:34,583 --> 00:15:37,791
+We'll be seeing her soon, Glen.
+
+194
+00:15:37,875 --> 00:15:39,333
+Indeed.
+
+195
+00:15:39,416 --> 00:15:43,875
+I'm so looking forward to it...
+my little sister... Silvia.
+
+196
+00:15:44,416 --> 00:15:51,708
+M-My elder sister--that
+tyrant--here, in Ansullivan?
+
+197
+00:15:54,875 --> 00:15:57,250
+Bye now!
+
+198
+00:15:59,333 --> 00:16:01,708
+Beautiful flowers for sale!
+
+199
+00:16:02,833 --> 00:16:05,708
+Master Milgauss told me to learn more
+
+200
+00:16:05,791 --> 00:16:08,541
+about the boy
+who killed Necromancia...
+
+201
+00:16:08,625 --> 00:16:11,208
+...but he's not that easy to find.
+
+202
+00:16:37,750 --> 00:16:40,708
+What's gotten into the princess, anyway?
+
+203
+00:16:40,791 --> 00:16:43,208
+Must be Veronica's impending visit.
+
+204
+00:16:43,291 --> 00:16:46,458
+She's been like this
+ever since she heard the news.
+
+205
+00:16:46,541 --> 00:16:48,041
+Well, then...
+
+206
+00:16:48,125 --> 00:16:50,750
+...shall I explain?
+
+207
+00:16:50,833 --> 00:16:52,666
+Cosette!
+
+208
+00:16:52,750 --> 00:16:58,583
+Are you concerned about the reasons
+behind her state of shock as her classmate?
+
+209
+00:16:58,666 --> 00:17:00,916
+Or as a man?
+
+210
+00:17:01,000 --> 00:17:02,958
+Wh-What are you talking about?
+
+211
+00:17:03,041 --> 00:17:07,791
+We've fought together,
+and we're both student council members.
+
+212
+00:17:07,875 --> 00:17:10,291
+It's only natural that I'd be worried!
+
+213
+00:17:10,375 --> 00:17:13,666
+Then let's leave it at that, shall we?
+
+214
+00:17:15,625 --> 00:17:19,250
+Even though Veronica
+wasn't selected as a Breeder,
+
+215
+00:17:19,333 --> 00:17:21,208
+she rebelled against that rejection
+
+216
+00:17:21,291 --> 00:17:25,625
+by strengthening her body
+and perfecting her sword skills.
+
+217
+00:17:25,708 --> 00:17:28,208
+Soon she earned herself another name--
+
+218
+00:17:28,291 --> 00:17:30,625
+The Iron Blood Valkyrie.
+
+219
+00:17:31,916 --> 00:17:35,916
+So intense was her personality
+that she put her young sister
+
+220
+00:17:36,000 --> 00:17:39,000
+through various drills, all "for her own good."
+
+221
+00:17:39,083 --> 00:17:41,916
+Drills--now that's an exaggeration.
+
+222
+00:17:43,291 --> 00:17:47,458
+Not at all. Those were... brutal days.
+
+223
+00:17:50,666 --> 00:17:52,958
+Survival exercises in the mountains...
+
+224
+00:18:06,500 --> 00:18:09,250
+If you want to live, cut a path for yourself.
+
+225
+00:18:09,333 --> 00:18:11,541
+Take up that sword!
+
+226
+00:18:16,791 --> 00:18:22,958
+And so Veronica has become
+a symbol of terror for the princess.
+
+227
+00:18:23,041 --> 00:18:24,208
+How traumatic.
+
+228
+00:18:24,291 --> 00:18:27,083
+No wonder she's afraid of her.
+
+229
+00:18:31,875 --> 00:18:33,291
+Princess?
+
+230
+00:18:35,250 --> 00:18:36,875
+Princess!
+
+231
+00:18:38,916 --> 00:18:42,500
+Um... if you like,
+you could come to me for advice.
+
+232
+00:18:42,583 --> 00:18:47,000
+I, uh... I don't really
+know how I could help, but...
+
+233
+00:18:47,083 --> 00:18:48,833
+Look how far I've fallen...
+
+234
+00:18:48,916 --> 00:18:49,875
+Huh?
+
+235
+00:18:49,958 --> 00:18:52,875
+To think <i>you</i> would pity me!
+
+236
+00:18:53,500 --> 00:18:56,000
+Save your concern.
+
+237
+00:18:58,333 --> 00:19:00,750
+Geez... I go out of my way, and--
+
+238
+00:19:01,541 --> 00:19:03,500
+She's just bluffing.
+
+239
+00:19:14,083 --> 00:19:16,208
+Tomorrow, eh...?
+
+240
+00:19:32,375 --> 00:19:33,750
+What a marvelous fragrance.
+
+241
+00:19:33,833 --> 00:19:39,041
+Lavender. It can make
+mental tension melt away.
+
+242
+00:19:45,916 --> 00:19:48,416
+Mental tension, eh?
+
+243
+00:19:48,500 --> 00:19:52,625
+You haven't been sleeping well
+these past few days.
+
+244
+00:19:52,708 --> 00:19:54,666
+I didn't realize you knew.
+
+245
+00:19:55,833 --> 00:20:00,416
+This should help you relax
+and drift right off to sleep.
+
+246
+00:20:02,791 --> 00:20:05,541
+Y-You can skip that part!
+
+247
+00:20:05,625 --> 00:20:09,291
+I beg your pardon. Now, then...
+
+248
+00:20:09,375 --> 00:20:10,750
+Cosette!
+
+249
+00:20:12,625 --> 00:20:16,291
+I beg your pardon yet again. Let's see...
+
+250
+00:20:17,666 --> 00:20:20,541
+No--stop...
+
+251
+00:20:20,625 --> 00:20:23,916
+Isn't that quite enough?
+
+252
+00:20:24,000 --> 00:20:25,500
+Cosette!
+
+253
+00:20:25,583 --> 00:20:30,333
+It's been so very long since
+I've seen you laugh, princess.
+
+254
+00:20:32,000 --> 00:20:33,791
+Cosette...
+
+255
+00:20:39,000 --> 00:20:40,875
+Pleasant dreams.
+
+256
+00:20:56,875 --> 00:20:58,875
+Then there's only one solution:
+
+257
+00:20:58,958 --> 00:21:02,958
+I'll carry you, and we can look
+for the Mother Dragon together!
+
+258
+00:21:05,458 --> 00:21:07,916
+Okay, here we go.
+
+259
+00:21:08,000 --> 00:21:13,708
+I made that boy a promise.
+
+260
+00:21:14,416 --> 00:21:17,250
+That I'd be a fine, upstanding knight...
+
+261
+00:21:26,083 --> 00:21:30,041
+Behave yourself
+around Princess Veronica, Eco.
+
+262
+00:21:30,125 --> 00:21:33,500
+And <i>you</i> behave yourself around <i>me</i> !
+
+263
+00:21:33,583 --> 00:21:35,458
+I don't want a big scene, all right?
+
+264
+00:21:35,541 --> 00:21:37,916
+Just be a good girl and I'll buy you a crepe.
+
+265
+00:21:38,000 --> 00:21:41,875
+You will?! Then I suppose I'll do what you say!
+
+266
+00:21:44,000 --> 00:21:45,458
+Where's the princess?
+
+267
+00:21:45,541 --> 00:21:49,166
+I couldn't force her to come--not
+when she's that terrified.
+
+268
+00:21:49,250 --> 00:21:53,750
+You're right. Still, to be
+that scared of your own sister...
+
+269
+00:21:53,833 --> 00:21:57,000
+Who's scared of what now?
+
+270
+00:21:58,625 --> 00:22:00,208
+Princess!
+
+271
+00:22:02,375 --> 00:22:04,208
+Greetings.
+
+272
+00:22:06,750 --> 00:22:08,500
+Are you all right?
+
+273
+00:22:08,583 --> 00:22:14,541
+To whom do you think you're speaking?
+I am Silvia Lautreamont!
+
+274
+00:22:14,625 --> 00:22:17,791
+You may have seen me in
+a rather... unbecoming moment,
+
+275
+00:22:17,875 --> 00:22:19,083
+but I'm fine now.
+
+276
+00:22:19,166 --> 00:22:22,375
+Ah. Well... good.
+
+277
+00:22:22,458 --> 00:22:24,333
+Here she comes!
+
+278
+00:22:37,541 --> 00:22:41,833
+Oh! That's First Princess Veronica's--
+
+279
+00:22:41,916 --> 00:22:45,375
+It looks like an Imperial airship...
+
+280
+00:22:45,458 --> 00:22:49,958
+That's Princess Veronica's personal vehicle,
+the <i>Magiship Sylvanus</i> .
+
+281
+00:22:50,041 --> 00:22:52,666
+How does a thing like that even fly?
+
+282
+00:22:52,750 --> 00:22:56,708
+It runs on a special kind
+of fafnirite called milenium.
+
+283
+00:22:56,791 --> 00:22:58,583
+There's other kinds of fafnirite?
+
+284
+00:22:59,666 --> 00:23:05,625
+Thousand-year-old dragon fossils
+turn into mana-rich crystals.
+
+285
+00:23:05,708 --> 00:23:08,500
+So that's milenium.
+
+286
+00:23:20,791 --> 00:23:23,750
+Princess Veronica has come into view!
+
+287
+00:23:40,458 --> 00:23:41,750
+So that's...
+
+288
+00:23:45,750 --> 00:23:49,583
+Veronica Lautreamont, First Princess...
+
+289
+00:23:57,875 --> 00:24:00,833
+<i>Ain't it su-su-su-su-super awesome?</i>
+<i>Top-quality training in love</i>
+
+290
+00:24:00,916 --> 00:24:03,958
+<i>Makes me wanna</i>
+<i>kiss-kiss-kiss-kiss ya, so watch close!</i>
+
+291
+00:24:10,916 --> 00:24:17,125
+<i>Joy! Joy! Joy! First-class, right? Bomb!</i>
+<i>Bomb! Bon! Cute! Bon! Bon! Bonsoir?</i>
+
+292
+00:24:17,208 --> 00:24:20,541
+<i>Gimme a supernova named love</i>
+
+293
+00:24:20,625 --> 00:24:23,541
+<i>Joy! Joy! Joy! So cliché</i>
+
+294
+00:24:23,625 --> 00:24:26,916
+<i>Dabba dabba poppi poppu--do</i>
+<i>some scat then I'm outtie</i>
+
+295
+00:24:27,000 --> 00:24:29,541
+<i>Bomb! Bomb! Just more carnal desires?</i>
+
+296
+00:24:29,625 --> 00:24:35,250
+<i>Showing the chink in your manly façade--how</i>
+<i>much girly cherishing can you do?</i>
+
+297
+00:24:35,333 --> 00:24:36,125
+<i>Can't you feel?</i>
+
+298
+00:24:36,208 --> 00:24:39,000
+<i>Gotta say it in your own words--</i>
+
+299
+00:24:39,083 --> 00:24:45,250
+<i>"Hear, hear!" "Here?" "Where?"</i>
+<i>"How are you still a Homo sapiens?"</i>
+
+300
+00:24:45,333 --> 00:24:52,000
+<i>Drum up a lovestorm (One chance) An</i>
+<i>avant-garde rhapsody (Oh, one more chance)</i>
+
+301
+00:24:52,083 --> 00:24:57,708
+<i>Compete, compete, compete!</i>
+<i>Refresh my love--the mostest more than most!</i>
+
+302
+00:24:57,791 --> 00:25:04,166
+<i>Natural-born dreamer (Wonder)</i>
+<i>Don't want it to fizzle out (Oh, falling down)</i>
+
+303
+00:25:04,250 --> 00:25:11,208
+<i>Not coming? Then I'll pull ya!</i>
+<i>"That's premeditated crime!" (Big love)</i>
+
+304
+00:25:11,291 --> 00:25:14,500
+<i>Ain't it su-su-su-su-super awesome?</i>
+<i>Top-quality training in love</i>
+
+305
+00:25:14,583 --> 00:25:17,583
+<i>Makes me wanna</i>
+<i>kiss-kiss-kiss-kiss ya, so watch close!</i>
+
+306
+00:25:22,875 --> 00:25:26,083
+<i>Yes! Rockin' on!</i>
+
+307
+00:25:27,416 --> 00:25:28,458
+"Next Time..."
+
+308
+00:25:28,541 --> 00:25:30,375
+"If the nightingale doesn't sing, kill it!"
+
+309
+00:25:30,458 --> 00:25:31,333
+So goes my family motto.
+
+310
+00:25:31,416 --> 00:25:32,291
+<i>That's</i> your family motto?!
+
+311
+00:25:32,375 --> 00:25:33,916
+What's wrong with it?
+
+312
+00:25:34,000 --> 00:25:36,041
+Nothing... but how many mottos
+do you Lautreamonts have, anyway?
+
+313
+00:25:36,125 --> 00:25:37,458
+1,086.
+
+314
+00:25:37,541 --> 00:25:39,541
+--That's a lot!
+--And now I shall list them all!
+
+315
+00:25:39,625 --> 00:25:40,208
+"Next Episode: Ice Blue Princess"
+Oh, no, you don't!
+
+316
+00:25:40,291 --> 00:25:42,250
+--One...
+--Stop!
+

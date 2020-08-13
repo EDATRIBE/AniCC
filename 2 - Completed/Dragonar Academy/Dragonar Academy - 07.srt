@@ -1,0 +1,1507 @@
+﻿1
+00:01:12,083 --> 00:01:13,625
+No!
+
+2
+00:01:14,166 --> 00:01:15,541
+This is--
+
+3
+00:01:15,625 --> 00:01:17,541
+It's too much...!
+
+4
+00:01:17,625 --> 00:01:19,916
+Why aren't you here for me?
+
+5
+00:01:20,000 --> 00:01:21,583
+Ash!
+
+6
+00:01:22,958 --> 00:01:28,500
+Let us end this once and for all,
+
+7
+00:01:28,583 --> 00:01:31,791
+daughter of Avalon...
+
+8
+00:01:47,666 --> 00:01:49,291
+A dream?
+
+9
+00:02:20,208 --> 00:02:23,750
+What are you doing up so early?
+
+10
+00:02:25,541 --> 00:02:30,041
+Uh... i-it's just... my bed--I...
+
+11
+00:02:33,416 --> 00:02:34,833
+You mean--
+
+12
+00:02:35,500 --> 00:02:36,583
+Fafnirite?
+
+13
+00:02:36,666 --> 00:02:38,500
+That dragon discharge?
+
+14
+00:02:38,583 --> 00:02:39,958
+Lemme see!
+
+15
+00:02:40,041 --> 00:02:41,625
+No way!
+
+16
+00:02:41,708 --> 00:02:42,625
+It's too embarrassing!
+
+17
+00:02:42,708 --> 00:02:44,583
+Embarrassing?
+
+18
+00:02:45,125 --> 00:02:47,125
+Well, obviously!
+
+19
+00:02:47,208 --> 00:02:50,583
+It's okay, I promise I won't laugh.
+
+20
+00:02:50,666 --> 00:02:54,416
+I accept you just the way you are.
+
+21
+00:02:54,833 --> 00:02:56,083
+Really?
+
+22
+00:02:56,916 --> 00:02:58,083
+Yep!
+
+23
+00:02:59,333 --> 00:03:01,083
+All right...
+
+24
+00:03:05,375 --> 00:03:06,708
+Huh?
+
+25
+00:03:07,458 --> 00:03:09,875
+You... you wet the bed?
+
+26
+00:03:13,416 --> 00:03:15,416
+What did you think?
+
+27
+00:03:15,500 --> 00:03:19,708
+I figured it'd be fafnirite.
+
+28
+00:03:19,791 --> 00:03:23,000
+That would be even <i>more</i> embarrassing!
+
+29
+00:03:23,083 --> 00:03:25,375
+Seriously?
+
+30
+00:03:36,041 --> 00:03:37,666
+In between the
+Zepharos Empire to the north
+
+31
+00:03:37,750 --> 00:03:40,916
+and the Chevron Kingdom
+to the south,
+
+32
+00:03:41,000 --> 00:03:42,875
+lies Lautreamont Knight Country.
+
+33
+00:03:42,958 --> 00:03:45,041
+Known as "the Dragon-Rearing Land,"
+
+34
+00:03:45,125 --> 00:03:49,541
+it boasts the largest dragon
+population on the Arc Strada continent.
+
+35
+00:03:49,625 --> 00:03:53,041
+This small country with
+fewer than five million citizens
+
+36
+00:03:53,125 --> 00:03:56,041
+is home to a unique school:
+
+37
+00:03:56,125 --> 00:03:58,291
+Ansullivan Dragonar Academy.
+
+38
+00:03:58,375 --> 00:04:00,458
+It aims to educate
+and guide dragon masters
+
+39
+00:04:00,541 --> 00:04:03,583
+and the so-called Breeders,
+young men and women
+
+40
+00:04:03,666 --> 00:04:06,750
+who have entered into bonds with dragons.
+
+41
+00:04:08,875 --> 00:04:13,750
+<i>Meeting you smack</i>
+<i>in the middle of the world</i>
+
+42
+00:04:13,833 --> 00:04:18,708
+<i>It leaves me breathless</i>
+
+43
+00:04:18,791 --> 00:04:23,041
+<i>The "something" you and I have</i>
+
+44
+00:04:23,125 --> 00:04:26,208
+<i>Starts with a tiny thrum</i>
+
+45
+00:04:26,291 --> 00:04:30,041
+<i>Now teach me about</i>
+<i>the sky one more time</i>
+
+46
+00:04:30,125 --> 00:04:33,875
+"Dragonar Academy"
+
+47
+00:04:33,958 --> 00:04:38,708
+<i>The weight of flapping</i>
+<i>wings that only a bird knows</i>
+
+48
+00:04:38,791 --> 00:04:43,708
+<i>Everyone longs for it,</i>
+<i>though they know nothing about it</i>
+
+49
+00:04:43,791 --> 00:04:51,958
+<i>You smiled with</i>
+<i>a slightly sorrowful look</i>
+
+50
+00:04:52,041 --> 00:04:54,375
+<i>I... I have nothing</i>
+
+51
+00:04:54,458 --> 00:04:56,833
+<i>But if your tears can be fewer</i>
+
+52
+00:04:56,916 --> 00:04:59,333
+<i>And you'll smile like you mean it</i>
+
+53
+00:04:59,416 --> 00:05:01,875
+<i>Then I can be a hero--any kind you need</i>
+
+54
+00:05:01,958 --> 00:05:04,333
+<i>I'll embody any kind of hero for you</i>
+
+55
+00:05:04,416 --> 00:05:08,750
+<i>I'll never, never,</i>
+<i>never, never let go</i>
+
+56
+00:05:08,833 --> 00:05:13,750
+<i>Even if I die,</i>
+<i>I'll be your knight alone</i>
+
+57
+00:05:13,833 --> 00:05:18,083
+<i>But you cried for</i>
+<i>real and got angry:</i>
+
+58
+00:05:18,166 --> 00:05:21,375
+<i>Saying "Don't be so cold to me"</i>
+
+59
+00:05:21,458 --> 00:05:24,083
+<i>I wipe your tears</i>
+
+60
+00:05:24,166 --> 00:05:26,583
+<i>Even without a sacred blade</i>
+
+61
+00:05:26,666 --> 00:05:29,625
+<i>I don't care if I'm not a hero</i>
+
+62
+00:05:29,708 --> 00:05:36,875
+<i>If I can protect you</i>
+<i>with all I have</i>
+
+63
+00:05:38,833 --> 00:05:42,250
+"Lucca Saarinen"
+
+64
+00:05:43,708 --> 00:05:45,125
+Honestly!
+
+65
+00:05:45,916 --> 00:05:49,125
+Three employees just up
+and quit, at a time like this?
+
+66
+00:05:49,208 --> 00:05:51,416
+This is our high season!
+
+67
+00:05:51,500 --> 00:05:54,500
+And all three quitting
+to get married, too.
+
+68
+00:05:54,583 --> 00:05:56,166
+This is no laughing matter!
+
+69
+00:05:56,250 --> 00:05:57,750
+And the icing on the cake?
+
+70
+00:05:57,833 --> 00:06:01,208
+You should find yourself a man, too, miss!
+
+71
+00:06:01,291 --> 00:06:02,375
+The nerve!
+
+72
+00:06:02,458 --> 00:06:05,416
+Well, Princess Veronica
+is single! And me?
+
+73
+00:06:05,500 --> 00:06:08,583
+My work is my life!
+
+74
+00:06:10,333 --> 00:06:12,166
+So, uh...
+
+75
+00:06:14,208 --> 00:06:16,291
+Oh, right, the interview!
+
+76
+00:06:16,375 --> 00:06:18,166
+Yes, yes, you're hired!
+
+77
+00:06:18,250 --> 00:06:22,416
+Thank you so much!
+I'll do my very best in the kitchen!
+
+78
+00:06:22,500 --> 00:06:24,625
+In the kitchen?
+
+79
+00:06:24,708 --> 00:06:27,416
+It'd be a waste to
+keep you behind the scenes.
+
+80
+00:06:29,000 --> 00:06:30,041
+Pardon?
+
+81
+00:06:30,791 --> 00:06:33,000
+I need you to be front of the house!
+
+82
+00:06:33,083 --> 00:06:34,250
+Whaaat?!
+
+83
+00:06:37,791 --> 00:06:39,916
+Huh? Eco's taking the day off?
+
+84
+00:06:40,000 --> 00:06:42,250
+Yeah... she's pretty cranky.
+
+85
+00:06:42,333 --> 00:06:45,708
+We'll need a lot more dialogue
+if we're gonna fix the rift
+
+86
+00:06:45,791 --> 00:06:48,250
+between human and dragonkind.
+
+87
+00:06:48,333 --> 00:06:50,916
+It's already Gemini.
+Almost time for camp.
+
+88
+00:06:51,000 --> 00:06:55,458
+Are they announcing the
+attendees at today's assembly?
+
+89
+00:06:55,541 --> 00:06:58,875
+Most of the glorious Order of the
+Sacred Dragonars of Lautreamont
+
+90
+00:06:58,958 --> 00:07:00,541
+went to this training camp.
+
+91
+00:07:00,625 --> 00:07:03,416
+It's like a gateway to the elite track.
+
+92
+00:07:04,166 --> 00:07:07,208
+Not that it has anything to do with us.
+
+93
+00:07:07,291 --> 00:07:08,666
+Yeah.
+
+94
+00:07:09,916 --> 00:07:12,625
+First-year Senios Jupito Dion!
+
+95
+00:07:12,708 --> 00:07:13,541
+Here!
+
+96
+00:07:13,625 --> 00:07:16,208
+First-year Senios Alis Vargan!
+
+97
+00:07:16,291 --> 00:07:17,250
+Here!
+
+98
+00:07:17,333 --> 00:07:19,791
+Please approach the stage.
+
+99
+00:07:19,875 --> 00:07:23,958
+And though she's absent today,
+our final camp attendee is:
+
+100
+00:07:24,041 --> 00:07:27,041
+third-year Unios Lucca Saarinen.
+
+101
+00:07:27,125 --> 00:07:28,416
+Playing hooky <i>again</i> ?
+
+102
+00:07:28,500 --> 00:07:30,041
+I guess that's how
+you get picked for camp!
+
+103
+00:07:30,125 --> 00:07:32,166
+What a crock!
+
+104
+00:07:32,250 --> 00:07:35,250
+Wow. Why all the backlash?
+
+105
+00:07:35,333 --> 00:07:39,291
+She hasn't been to class
+for going on three months now.
+
+106
+00:07:39,375 --> 00:07:42,250
+Who is this--this Lucca, was it?
+
+107
+00:07:42,333 --> 00:07:45,583
+How do you not know her?
+She's the student council secretary!
+
+108
+00:07:45,666 --> 00:07:49,791
+Maybe so, but I've never met her.
+
+109
+00:07:49,875 --> 00:07:52,541
+Lucca Saarinen. So talented,
+
+110
+00:07:52,625 --> 00:07:55,541
+she's the youngest person
+ever to be chosen as a Dragonar.
+
+111
+00:07:55,625 --> 00:07:58,458
+She even beat Rebecca's record.
+
+112
+00:07:58,541 --> 00:08:01,375
+Rebecca?! That's amazing!
+
+113
+00:08:01,458 --> 00:08:03,500
+Silence!
+
+114
+00:08:03,583 --> 00:08:07,041
+These, then, are our
+training camp attendees.
+
+115
+00:08:07,125 --> 00:08:09,833
+Like I said: nothing to do with us.
+
+116
+00:08:09,916 --> 00:08:11,416
+Yep.
+
+117
+00:08:11,500 --> 00:08:16,125
+And finally, we have a student
+attending by special invitation.
+
+118
+00:08:16,208 --> 00:08:18,250
+Special invitation?
+
+119
+00:08:18,333 --> 00:08:21,125
+This year, we have created a new category
+
+120
+00:08:21,208 --> 00:08:23,791
+for those students not selected to attend.
+
+121
+00:08:23,875 --> 00:08:27,250
+Now for the head of the
+selection committee, Rebecca.
+
+122
+00:08:27,333 --> 00:08:28,625
+Yes, sir.
+
+123
+00:08:30,166 --> 00:08:35,125
+I have chosen one student
+to attend by special invitation:
+
+124
+00:08:35,208 --> 00:08:38,625
+first-year Senios Ash Blake.
+
+125
+00:08:45,333 --> 00:08:46,708
+Huh?
+
+126
+00:08:49,791 --> 00:08:52,500
+Why would you choose me?
+
+127
+00:08:52,583 --> 00:08:56,458
+The fact that you've
+been given a unique parr in Eco.
+
+128
+00:08:56,541 --> 00:08:58,833
+That you've defeated Necromancia
+
+129
+00:08:58,916 --> 00:09:02,375
+and driven out Avdocha,
+She Who Condemns.
+
+130
+00:09:03,916 --> 00:09:07,125
+You definitely have talent.
+
+131
+00:09:07,208 --> 00:09:08,541
+Huh...
+
+132
+00:09:08,625 --> 00:09:11,041
+But under the old selection criteria,
+
+133
+00:09:11,125 --> 00:09:13,291
+there's no way you'd've made the cut.
+
+134
+00:09:13,375 --> 00:09:15,875
+So I came up with a whole new category
+
+135
+00:09:15,958 --> 00:09:20,166
+just so you could
+attend training camp.
+
+136
+00:09:20,250 --> 00:09:23,250
+All that, just for me?
+
+137
+00:09:25,333 --> 00:09:28,125
+Yes. Just for you.
+
+138
+00:09:28,208 --> 00:09:31,000
+I want to develop that talent of yours.
+
+139
+00:09:31,083 --> 00:09:34,041
+Can I expect great things from you?
+
+140
+00:09:34,125 --> 00:09:35,041
+Um...
+
+141
+00:09:35,750 --> 00:09:38,291
+Miss President!
+
+142
+00:09:40,750 --> 00:09:44,250
+Eavesdropping is most unbecoming.
+
+143
+00:09:47,250 --> 00:09:49,083
+Miss President! It's an emergency!
+
+144
+00:09:51,291 --> 00:09:52,375
+--A fire?
+--Where?
+
+145
+00:09:52,458 --> 00:09:55,250
+Isn't that the Ecbladian's room?
+
+146
+00:10:03,125 --> 00:10:05,333
+A-A coffin?!
+
+147
+00:10:05,416 --> 00:10:06,583
+No way!
+
+148
+00:10:06,666 --> 00:10:09,041
+I-Is she dead?
+
+149
+00:10:13,541 --> 00:10:17,125
+Oh, no! What are we gonna do?
+This is the worst!
+
+150
+00:10:17,208 --> 00:10:19,375
+What do we dooo?
+
+151
+00:10:34,458 --> 00:10:38,916
+So all that smoke was from the incense?
+
+152
+00:10:41,333 --> 00:10:44,583
+I'm sorry for the trouble I've caused.
+
+153
+00:10:44,666 --> 00:10:47,708
+At least you're all right.
+
+154
+00:10:47,791 --> 00:10:50,125
+Just be careful not
+to burn too much at once.
+
+155
+00:10:50,208 --> 00:10:53,916
+You're always right.
+
+156
+00:10:54,000 --> 00:10:56,458
+So yes, I will be careful.
+
+157
+00:10:57,000 --> 00:11:00,083
+There's trouble,
+and then there's <i>trouble</i> .
+
+158
+00:11:00,166 --> 00:11:02,416
+I mean, what's with the coffin?
+
+159
+00:11:02,500 --> 00:11:04,791
+It's not a coffin.
+
+160
+00:11:04,875 --> 00:11:07,041
+It's an Ecbladian bed.
+
+161
+00:11:07,125 --> 00:11:10,625
+A high-end bed you
+can also use at your funeral.
+
+162
+00:11:10,708 --> 00:11:13,000
+So it <i>is</i> a coffin!
+
+163
+00:11:14,208 --> 00:11:17,708
+Lucca's sensitive.
+Don't be too hard on her.
+
+164
+00:11:17,791 --> 00:11:22,291
+Lucca? So she's the Unios
+that got picked for training camp?
+
+165
+00:11:22,375 --> 00:11:25,208
+This is the first time
+you student council newbies
+
+166
+00:11:25,291 --> 00:11:27,791
+will have met her.
+
+167
+00:11:27,875 --> 00:11:32,583
+Lucca Saarinen is an Ecbladian,
+a fairy of the forest.
+
+168
+00:11:32,666 --> 00:11:35,916
+Her people have a
+knack for herbal medicine,
+
+169
+00:11:36,000 --> 00:11:38,583
+and their concoctions
+are highly valued the world over.
+
+170
+00:11:38,666 --> 00:11:43,166
+The Ecbladians are also a warrior clan,
+
+171
+00:11:43,250 --> 00:11:45,166
+with many Dragonars among them.
+
+172
+00:11:45,250 --> 00:11:48,916
+Of course, Lucca's skill is no secret.
+
+173
+00:11:49,000 --> 00:11:50,916
+She's broken my record
+
+174
+00:11:51,000 --> 00:11:55,000
+to become the youngest Dragonar in history.
+
+175
+00:11:56,250 --> 00:12:01,375
+By the way, Lucca,
+how are things with your parr Gawain?
+
+176
+00:12:02,458 --> 00:12:05,041
+Not good.
+
+177
+00:12:05,125 --> 00:12:07,583
+Any idea what could be causing it?
+
+178
+00:12:07,666 --> 00:12:09,333
+No.
+
+179
+00:12:09,416 --> 00:12:12,875
+It's not just that I can no longer ride him.
+
+180
+00:12:12,958 --> 00:12:16,791
+Gawain won't <i>let</i> me ride him.
+
+181
+00:12:20,333 --> 00:12:24,708
+So it's been three months
+since Lucca last rode Gawain...
+
+182
+00:12:24,791 --> 00:12:27,208
+We can't do much to help if we don't know
+
+183
+00:12:27,291 --> 00:12:29,416
+why he won't let her ride.
+
+184
+00:12:29,500 --> 00:12:32,166
+I wouldn't be so sure.
+
+185
+00:12:33,208 --> 00:12:35,875
+The problem lies in an
+interruption of the astral flow
+
+186
+00:12:35,958 --> 00:12:39,541
+that connects Lucca and Gawain.
+
+187
+00:12:39,625 --> 00:12:43,750
+If this goes on much longer,
+Gawain's life will be in danger.
+
+188
+00:12:45,458 --> 00:12:47,250
+Ha haaa!
+
+189
+00:12:50,500 --> 00:12:52,875
+Smells like sunshine!
+
+190
+00:12:55,416 --> 00:12:57,791
+Let us end this once and for all,
+
+191
+00:12:57,875 --> 00:13:00,625
+daughter of Avalon...
+
+192
+00:13:07,000 --> 00:13:12,708
+Dragons draw lifeforce from
+humans through the astral flow.
+
+193
+00:13:13,458 --> 00:13:17,250
+If that's been interrupted
+for three months now...
+
+194
+00:13:20,958 --> 00:13:24,291
+"Dragonar Academy"
+
+195
+00:13:24,958 --> 00:13:28,333
+"Dragonar Academy"
+
+196
+00:13:34,041 --> 00:13:36,958
+I've been undercover in
+the dining hall for two weeks.
+
+197
+00:13:37,041 --> 00:13:39,375
+I'm bound and determined to
+do a thorough investigation
+
+198
+00:13:39,458 --> 00:13:42,125
+and figure out his weaknesses once and for all!
+
+199
+00:13:42,208 --> 00:13:43,791
+Just you wait!
+
+200
+00:13:57,166 --> 00:14:00,333
+Owie ow ow ow...
+
+201
+00:14:00,416 --> 00:14:02,375
+How did <i>that</i> happen?
+
+202
+00:14:18,583 --> 00:14:20,750
+Anya?
+
+203
+00:14:20,833 --> 00:14:21,791
+Coming!
+
+204
+00:14:24,708 --> 00:14:25,791
+Huh?
+
+205
+00:14:25,875 --> 00:14:28,708
+Your help is needed at the training camp?
+
+206
+00:14:28,791 --> 00:14:32,291
+And I can't very well close this place down...
+
+207
+00:14:32,375 --> 00:14:35,291
+Why don't you let me run it, then?
+
+208
+00:14:35,375 --> 00:14:36,458
+What?
+
+209
+00:14:36,541 --> 00:14:38,500
+Oh, pretty please?
+
+210
+00:14:41,791 --> 00:14:44,000
+I'm coming in, Eco.
+
+211
+00:14:49,083 --> 00:14:51,208
+Wh-What was that for?
+
+212
+00:14:51,916 --> 00:14:53,416
+You're late!
+
+213
+00:14:59,583 --> 00:15:01,833
+Hey, slow down, huh?
+
+214
+00:15:03,250 --> 00:15:04,708
+What's wrong?
+
+215
+00:15:12,625 --> 00:15:14,166
+You all right?
+
+216
+00:15:15,583 --> 00:15:17,041
+Eco?
+
+217
+00:15:17,750 --> 00:15:20,333
+I had a scary dream.
+
+218
+00:15:20,416 --> 00:15:22,333
+You did?
+
+219
+00:15:22,416 --> 00:15:27,500
+And the bad guy in my dream...
+he looked like Necromancia,
+
+220
+00:15:27,583 --> 00:15:29,166
+but it wasn't.
+
+221
+00:15:29,250 --> 00:15:31,500
+He had nine eyes, for one thing.
+
+222
+00:15:31,583 --> 00:15:35,000
+He was super-huge and totally bizarre...
+
+223
+00:15:35,083 --> 00:15:37,500
+Just this, like... absolute evil.
+
+224
+00:15:37,583 --> 00:15:41,416
+And though I shouldn't
+have known this--this <i>thing</i> ,
+
+225
+00:15:41,500 --> 00:15:44,916
+it's like we'd met lots of
+times before, way back when.
+
+226
+00:16:01,791 --> 00:16:03,333
+'Scuse me.
+
+227
+00:16:03,666 --> 00:16:05,458
+Wh-What?
+
+228
+00:16:05,541 --> 00:16:07,000
+What's going on?!
+
+229
+00:16:07,083 --> 00:16:12,416
+This is what we did when
+I was little and too scared to sleep.
+
+230
+00:16:13,291 --> 00:16:14,583
+Ash...
+
+231
+00:16:14,666 --> 00:16:16,416
+And if we sleep together like this,
+
+232
+00:16:16,500 --> 00:16:19,041
+you probably won't
+wet the bed again, either.
+
+233
+00:16:19,125 --> 00:16:24,458
+Do you seriously think I'd
+commit such an indignity again?
+
+234
+00:16:24,541 --> 00:16:27,916
+N-No! I meant no offense, honestly!
+
+235
+00:16:28,000 --> 00:16:31,625
+Well, you better reel it in!
+
+236
+00:16:36,166 --> 00:16:41,208
+So does this mean you're feeling better?
+
+237
+00:16:49,500 --> 00:16:51,666
+Why are dragons seen in a different light?
+
+238
+00:16:51,750 --> 00:16:53,958
+--Why do we consider them sacred?
+--The old Eco is back, I see.
+
+239
+00:16:54,041 --> 00:16:56,333
+--There are many reasons, to be sure,
+--Yep, sleeping like a baby.
+
+240
+00:16:56,416 --> 00:16:57,875
+but chief among them is their capacity for magic...
+
+241
+00:16:57,958 --> 00:17:03,958
+So you fixed that human-dragon
+rift you were talking about.
+
+242
+00:17:04,041 --> 00:17:07,791
+Trust me, we still have a long way to go.
+
+243
+00:17:07,875 --> 00:17:08,708
+Ow, my back...
+
+244
+00:17:08,791 --> 00:17:10,958
+A long way to go?
+
+245
+00:17:11,041 --> 00:17:14,125
+All those late-night "discussions"...!
+
+246
+00:17:14,208 --> 00:17:17,666
+Whatever you're picturing, it didn't happen.
+
+247
+00:17:18,750 --> 00:17:21,458
+I wonder what Eco's like at night...
+
+248
+00:17:21,541 --> 00:17:24,666
+Probably all "No, donnn't..."
+
+249
+00:17:24,750 --> 00:17:26,208
+Lucca?
+
+250
+00:17:37,708 --> 00:17:39,708
+Gawain...
+
+251
+00:18:10,000 --> 00:18:11,291
+Lucca...
+
+252
+00:18:13,250 --> 00:18:14,583
+Rebecca,
+
+253
+00:18:14,666 --> 00:18:18,458
+how can we get Lucca and
+Gawain back the way they were?
+
+254
+00:18:18,541 --> 00:18:20,458
+Well, this is rather sudden.
+
+255
+00:18:20,541 --> 00:18:23,375
+I didn't see my
+parr for the longest time...
+
+256
+00:18:23,458 --> 00:18:25,125
+...and then I met Eco.
+
+257
+00:18:25,208 --> 00:18:29,250
+I can relate to how Lucca must be feeling.
+
+258
+00:18:30,000 --> 00:18:32,541
+I can't just leave her like that.
+
+259
+00:18:32,625 --> 00:18:34,875
+I want to help her!
+
+260
+00:18:37,000 --> 00:18:39,708
+There <i>is</i> a way, but...
+
+261
+00:18:39,791 --> 00:18:41,250
+Please, tell me!
+
+262
+00:18:42,333 --> 00:18:45,083
+It could be very dangerous...
+
+263
+00:18:45,583 --> 00:18:47,875
+You must ride Gawain.
+
+264
+00:18:47,958 --> 00:18:49,000
+Huh?
+
+265
+00:18:50,125 --> 00:18:52,416
+When you rode Necromancia,
+
+266
+00:18:52,500 --> 00:18:54,916
+it looked like you
+could sense his intentions.
+
+267
+00:18:55,000 --> 00:18:58,375
+Well... yes, vaguely...
+
+268
+00:18:58,458 --> 00:19:01,875
+I want you to try the
+same thing with Gawain.
+
+269
+00:19:01,958 --> 00:19:03,750
+All right, I will.
+
+270
+00:19:03,833 --> 00:19:05,083
+But first...
+
+271
+00:19:08,166 --> 00:19:12,083
+Lucca, can you try
+communicating with Gawain again?
+
+272
+00:19:12,166 --> 00:19:15,583
+Hmm... maybe not "communicate."
+
+273
+00:19:15,666 --> 00:19:18,708
+Try talking with Gawain again.
+
+274
+00:19:18,791 --> 00:19:19,916
+Is that better?
+
+275
+00:19:20,000 --> 00:19:22,625
+What are you mumbling about? Let's go!
+
+276
+00:19:22,708 --> 00:19:24,875
+I'm still psyching myself up!
+
+277
+00:19:24,958 --> 00:19:26,291
+Hey!
+
+278
+00:19:30,541 --> 00:19:31,916
+Stop that...
+
+279
+00:19:33,166 --> 00:19:35,416
+It'll melt...
+
+280
+00:19:37,375 --> 00:19:39,458
+Quit staring!
+
+281
+00:19:46,791 --> 00:19:49,666
+Lucca, we need to talk. It's serious.
+
+282
+00:19:51,625 --> 00:19:53,375
+How cute!
+
+283
+00:19:54,208 --> 00:19:56,000
+Those horns!
+
+284
+00:19:56,083 --> 00:19:57,875
+Gimme!
+
+285
+00:20:00,166 --> 00:20:03,125
+Please can I have them?
+
+286
+00:20:03,208 --> 00:20:04,958
+Of course you can't!
+
+287
+00:20:05,041 --> 00:20:07,583
+Then can I taste them?
+
+288
+00:20:09,041 --> 00:20:11,833
+No! Not the horns!
+
+289
+00:20:14,333 --> 00:20:16,291
+I belong to the p-proud dragon race!
+
+290
+00:20:16,375 --> 00:20:17,875
+Wh-What are you--
+
+291
+00:20:18,208 --> 00:20:19,916
+I'll c-crush--
+
+292
+00:20:20,000 --> 00:20:23,458
+N-No, please... please, stop!
+
+293
+00:20:30,083 --> 00:20:31,875
+Cut that out.
+
+294
+00:20:32,250 --> 00:20:36,416
+Well, I guess I'll go back to sleep.
+
+295
+00:20:37,583 --> 00:20:39,458
+Lucca, listen to me.
+
+296
+00:20:39,541 --> 00:20:42,625
+Rebecca's waiting at Dragon Pen 7.
+
+297
+00:20:43,791 --> 00:20:47,250
+What are you going to do to Gawain?
+
+298
+00:20:47,333 --> 00:20:49,333
+Don't worry, we're not doing anything.
+
+299
+00:20:49,416 --> 00:20:52,166
+This is for you and Gawain.
+
+300
+00:20:53,875 --> 00:20:56,625
+All right. I'll get ready.
+
+301
+00:21:00,625 --> 00:21:03,041
+Why are you undressing?!
+
+302
+00:21:05,916 --> 00:21:08,583
+I'm changing, to go meet Gawain.
+
+303
+00:21:11,500 --> 00:21:13,583
+I'm glad you came, Lucca.
+
+304
+00:21:13,666 --> 00:21:16,291
+Ash is about to ride Gawain.
+
+305
+00:21:16,375 --> 00:21:19,250
+That way, we can ask why he's rejecting you.
+
+306
+00:21:19,750 --> 00:21:23,625
+But first, could you try
+talking with Gawain one more time?
+
+307
+00:21:23,708 --> 00:21:27,083
+That'd be the best way to solve this.
+
+308
+00:21:35,333 --> 00:21:36,416
+Gawain?
+
+309
+00:21:59,333 --> 00:22:01,125
+Did that do it?!
+
+310
+00:22:04,000 --> 00:22:08,625
+It's... it's not working.
+
+311
+00:22:12,458 --> 00:22:14,000
+Let's begin.
+
+312
+00:22:16,250 --> 00:22:18,708
+<i>Bujeta</i> , <i>hombrera</i> ,
+<i>brazal</i> , <i>guarda</i> , <i>escarpe</i> !
+
+313
+00:22:18,791 --> 00:22:21,708
+<i>Espolazo</i> !
+
+314
+00:22:26,333 --> 00:22:30,166
+Ooh! Sir Silver Knight!
+
+315
+00:22:30,250 --> 00:22:32,125
+Just don't do anything rash.
+
+316
+00:22:32,208 --> 00:22:33,583
+I won't.
+
+317
+00:22:34,166 --> 00:22:36,500
+Thanks, Eco.
+
+318
+00:22:36,583 --> 00:22:40,750
+Save your words, thank
+me with crepes!
+
+319
+00:22:40,833 --> 00:22:43,250
+We're counting on you, Ash.
+
+320
+00:22:54,875 --> 00:22:58,333
+Gawain... why are you rejecting Lucca?
+
+321
+00:22:58,416 --> 00:23:02,000
+Tell me how you feel!
+
+322
+00:23:09,708 --> 00:23:11,000
+Gawain?
+
+323
+00:23:11,333 --> 00:23:13,500
+Ash! Above you!
+
+324
+00:23:20,708 --> 00:23:22,666
+<i>Ash</i> !
+
+325
+00:23:25,625 --> 00:23:28,625
+<i>Ain't it su-su-su-su-super awesome?</i>
+<i>Top-quality training in love</i>
+
+326
+00:23:28,708 --> 00:23:31,750
+<i>Makes me wanna</i>
+<i>kiss-kiss-kiss-kiss ya, so watch close!</i>
+
+327
+00:23:38,708 --> 00:23:44,958
+<i>Joy! Joy! Joy! First-class, right? Bomb!</i>
+<i>Bomb! Bon! Cute! Bon! Bon! Bonsoir?</i>
+
+328
+00:23:45,041 --> 00:23:48,250
+<i>Gimme a supernova named love</i>
+
+329
+00:23:48,333 --> 00:23:51,250
+<i>Joy! Joy! Joy! So cliché</i>
+
+330
+00:23:51,333 --> 00:23:54,750
+<i>Dabba dabba poppi poppu--do</i>
+<i>some scat then I'm outtie</i>
+
+331
+00:23:54,833 --> 00:23:57,291
+<i>Bomb! Bomb! Just more carnal desires?</i>
+
+332
+00:23:57,375 --> 00:24:03,125
+<i>Showing the chink in your manly façade--how</i>
+<i>much girly cherishing can you do?</i>
+
+333
+00:24:03,208 --> 00:24:04,000
+<i>Can't you feel?</i>
+
+334
+00:24:04,083 --> 00:24:06,791
+<i>Gotta say it in your own words--</i>
+
+335
+00:24:06,875 --> 00:24:13,125
+<i>"Hear, hear!" "Here?" "Where?"</i>
+<i>"How are you still a Homo sapiens?"</i>
+
+336
+00:24:13,208 --> 00:24:19,833
+<i>Drum up a lovestorm (One chance) An</i>
+<i>avant-garde rhapsody (Oh, one more chance)</i>
+
+337
+00:24:19,916 --> 00:24:25,458
+<i>Compete, compete, compete!</i>
+<i>Refresh my love--the mostest more than most!</i>
+
+338
+00:24:25,541 --> 00:24:32,041
+<i>Natural-born dreamer (Wonder)</i>
+<i>Don't want it to fizzle out (Oh, falling down)</i>
+
+339
+00:24:32,125 --> 00:24:39,125
+<i>Not coming? Then I'll pull ya!</i>
+<i>"That's premeditated crime!" (Big love)</i>
+
+340
+00:24:39,208 --> 00:24:42,208
+<i>Ain't it su-su-su-su-super awesome?</i>
+<i>Top-quality training in love</i>
+
+341
+00:24:42,291 --> 00:24:45,291
+<i>Makes me wanna</i>
+<i>kiss-kiss-kiss-kiss ya, so watch close!</i>
+
+342
+00:24:50,625 --> 00:24:53,875
+<i>Yes! Rockin' on!</i>
+
+343
+00:24:55,458 --> 00:24:56,125
+"Next Time..."
+ 
+
+344
+00:24:56,208 --> 00:24:57,125
+"Next Time..."
+Ash?
+
+345
+00:24:57,208 --> 00:24:58,458
+"Next Time..."
+What's up, Lucca?
+
+346
+00:24:58,541 --> 00:24:59,708
+Do you hate girls who
+aren't wearing underpants?
+
+347
+00:24:59,791 --> 00:25:00,583
+Th-That's pretty random!
+
+348
+00:25:00,666 --> 00:25:02,750
+So you hate me...
+
+349
+00:25:02,833 --> 00:25:04,208
+I didn't say that!
+
+350
+00:25:04,291 --> 00:25:05,083
+Then you like me?
+
+351
+00:25:05,166 --> 00:25:06,625
+Well, uh... I don't... hate you?
+
+352
+00:25:06,708 --> 00:25:07,833
+"Next Episode: Moonlit Roar"
+Well, uh... I don't... hate you?
+
+353
+00:25:07,916 --> 00:25:09,041
+"Next Episode: Moonlit Roar"
+You're nasty.
+
+354
+00:25:09,125 --> 00:25:10,291
+Geez, put me between
+a rock and a hard place!
+
