@@ -1,0 +1,2212 @@
+﻿1
+00:00:10,375 --> 00:00:12,958
+[IZUKU] Welcome to UA High,
+the prestigious school
+
+2
+00:00:13,041 --> 00:00:16,083
+that's turned out some of
+the world's greatest heroes.
+
+3
+00:00:16,166 --> 00:00:18,250
+I'm running toward my
+dream in these halls.
+
+4
+00:00:18,333 --> 00:00:19,666
+Learning to overcome obstacles
+
+5
+00:00:19,750 --> 00:00:22,833
+and save people with
+a smile on my face.
+
+6
+00:00:22,916 --> 00:00:25,958
+That's how I'll become the
+greatest hero in the world!
+
+7
+00:01:59,833 --> 00:02:01,708
+[REPORTER 47A] You spoke about
+keeping the students safe,
+
+8
+00:02:01,791 --> 00:02:03,083
+Eraser Head.
+
+9
+00:02:03,166 --> 00:02:04,708
+But according to our
+information, you encouraged them
+
+10
+00:02:04,791 --> 00:02:06,916
+to fight during the attack
+on the training camp,
+
+11
+00:02:07,000 --> 00:02:08,916
+putting them in grave danger.
+
+12
+00:02:09,000 --> 00:02:11,041
+What was your
+reasoning for this?
+
+13
+00:02:11,125 --> 00:02:14,166
+I concluded that because we
+didn't know the full situation.
+
+14
+00:02:14,250 --> 00:02:15,833
+Allowing them to use
+their Quirks would help
+
+15
+00:02:15,916 --> 00:02:17,500
+avoid the worst
+possible outcome.
+
+16
+00:02:17,583 --> 00:02:19,625
+And what would that outcome be?
+
+17
+00:02:19,708 --> 00:02:22,250
+Do you think 26 victims
+and one kidnapped child
+
+18
+00:02:22,333 --> 00:02:24,541
+is a win for UA High?
+
+19
+00:02:24,625 --> 00:02:26,208
+I assure you that
+things could have gone
+
+20
+00:02:26,291 --> 00:02:28,666
+much more poorly.
+I feared every student
+
+21
+00:02:28,750 --> 00:02:30,708
+would be tortured and
+killed in the end.
+
+22
+00:02:30,791 --> 00:02:33,666
+Most of the victims were
+harmed by the gas attack.
+
+23
+00:02:33,750 --> 00:02:36,333
+We've determined it to be the
+result of a poisonous Quirk
+
+24
+00:02:36,416 --> 00:02:37,791
+used by one of the villains.
+
+25
+00:02:37,875 --> 00:02:39,875
+It's thanks to the quick
+actions of Ms. Kendo
+
+26
+00:02:39,958 --> 00:02:43,291
+and Mr. Tetsutetsu that injuries
+were kept to a bare minimum.
+
+27
+00:02:43,375 --> 00:02:45,625
+Additionally, we're providing
+mental health counseling
+
+28
+00:02:45,708 --> 00:02:47,333
+to every student,
+though at the moment,
+
+29
+00:02:47,416 --> 00:02:50,583
+we do not see any signs of
+serious psychological trauma.
+
+30
+00:02:50,666 --> 00:02:52,833
+So you've found a bright
+spot in this tragedy?
+
+31
+00:02:52,916 --> 00:02:54,625
+We're relieved that
+an entire class
+
+32
+00:02:54,708 --> 00:02:56,916
+of burgeoning heroes
+still has a future.
+
+33
+00:02:57,000 --> 00:02:57,916
+Can you say the same thing
+
+34
+00:02:58,000 --> 00:03:01,166
+for the abducted,
+Katsuki Bakugo?
+
+35
+00:03:01,250 --> 00:03:03,416
+He enrolled at your school
+with excellent marks,
+
+36
+00:03:03,500 --> 00:03:05,833
+and went on to win
+the sports festival.
+
+37
+00:03:05,916 --> 00:03:07,375
+Before that, he
+survived the attack
+
+38
+00:03:07,458 --> 00:03:09,291
+of a powerful sludge
+villain who eventually
+
+39
+00:03:09,375 --> 00:03:11,291
+had to be taken down
+by All Might.
+
+40
+00:03:11,375 --> 00:03:14,041
+The boy is obviously
+strong and heroic.
+
+41
+00:03:14,125 --> 00:03:16,791
+On the other hand, the violence
+he displayed in the finals
+
+42
+00:03:16,875 --> 00:03:18,750
+and his attitude at
+the awards ceremony
+
+43
+00:03:18,833 --> 00:03:21,625
+both showed that he
+cannot control his temper.
+
+44
+00:03:21,708 --> 00:03:24,958
+What if this is the real reason
+the villains kidnapped him?
+
+45
+00:03:25,041 --> 00:03:27,375
+What if they're brainwashing
+Bakugo right now,
+
+46
+00:03:27,458 --> 00:03:29,875
+pulling him toward
+the path of evil?
+
+47
+00:03:29,958 --> 00:03:31,458
+How can you sit
+there and tell us
+
+48
+00:03:31,541 --> 00:03:33,375
+he still has a future?
+
+49
+00:03:33,458 --> 00:03:36,250
+[VLAD KING] This reporter knows
+exactly what he's doing.
+
+50
+00:03:36,333 --> 00:03:39,875
+He's trying to antagonize us
+so we say something damning.
+
+51
+00:03:39,958 --> 00:03:42,125
+You can't fall for it, Eraser.
+
+52
+00:03:42,208 --> 00:03:45,833
+He probably knows how much
+you hate the media.
+
+53
+00:03:45,916 --> 00:03:48,000
+Don't let him trick you.
+
+54
+00:03:50,791 --> 00:03:52,875
+[AIZAWA]
+As Katsuki Bakugo's teacher,
+
+55
+00:03:52,958 --> 00:03:57,125
+I take full responsibility for
+not taming his violent behavior.
+
+56
+00:03:57,208 --> 00:04:00,041
+However, his actions
+at the sports festival
+
+57
+00:04:00,125 --> 00:04:03,208
+were born of his
+deep-seated convictions.
+
+58
+00:04:03,291 --> 00:04:05,458
+He's trying harder than
+anyone in his pursuit
+
+59
+00:04:05,541 --> 00:04:07,833
+to become the top hero.
+
+60
+00:04:07,916 --> 00:04:10,250
+If the villains think they
+have a chance with him,
+
+61
+00:04:10,333 --> 00:04:11,958
+then they are grossly mistaken.
+
+62
+00:04:12,041 --> 00:04:14,583
+I can guarantee you that much.
+
+63
+00:04:14,666 --> 00:04:16,958
+That doesn't amount to
+real evidence, though.
+
+64
+00:04:17,041 --> 00:04:18,541
+I didn't ask you how you feel,
+
+65
+00:04:18,625 --> 00:04:21,333
+I asked you if you had
+concrete information.
+
+66
+00:04:21,416 --> 00:04:22,916
+We're doing our best
+with the intel
+
+67
+00:04:23,000 --> 00:04:24,541
+we currently have available.
+
+68
+00:04:24,625 --> 00:04:28,083
+I have no doubt the police
+will break this case very soon.
+
+69
+00:04:28,166 --> 00:04:30,125
+We won't rest until
+our missing student
+
+70
+00:04:30,208 --> 00:04:31,458
+is returned to UA.
+
+71
+00:04:31,541 --> 00:04:33,958
+Hah! Did ya hear the teachers?
+
+72
+00:04:34,041 --> 00:04:36,125
+They get me more than I thought.
+
+73
+00:04:36,208 --> 00:04:39,458
+I'll never join your
+league of bastards!
+
+74
+00:04:39,541 --> 00:04:40,916
+[KATSUKI] They went through
+the trouble of mounting
+
+75
+00:04:41,000 --> 00:04:44,875
+a huge attack, all just
+to bring me back here.
+
+76
+00:04:44,958 --> 00:04:46,833
+The idiots even told me
+what they wanted.
+
+77
+00:04:46,916 --> 00:04:49,083
+For me to join their
+pathetic group.
+
+78
+00:04:49,166 --> 00:04:51,125
+Which means I know
+they won't kill me.
+
+79
+00:04:51,208 --> 00:04:53,708
+What a bunch of amateurs.
+
+80
+00:04:53,791 --> 00:04:55,000
+Now's my chance.
+
+81
+00:04:55,083 --> 00:04:57,125
+I gotta take a couple
+of 'em down quick,
+
+82
+00:04:57,208 --> 00:04:58,666
+and get the hell outta here.
+
+83
+00:04:58,750 --> 00:05:02,250
+We may not be at camp,
+but I'm still allowed to fight!
+
+84
+00:05:02,333 --> 00:05:04,625
+He must've figured out
+he's important to us.
+
+85
+00:05:04,708 --> 00:05:05,916
+What a clever boy.
+
+86
+00:05:06,000 --> 00:05:08,416
+No. He's a fool.
+
+87
+00:05:08,500 --> 00:05:09,750
+Let me stab him.
+
+88
+00:05:09,833 --> 00:05:11,333
+[MR. COMPRESS] A clever
+performer would've acted
+
+89
+00:05:11,416 --> 00:05:12,833
+like we were winning him over.
+
+90
+00:05:12,916 --> 00:05:15,375
+Now that he's broken
+character, he's finished.
+
+91
+00:05:15,458 --> 00:05:17,208
+I only do whatever I want to,
+
+92
+00:05:17,291 --> 00:05:19,291
+and I won't even
+pretend otherwise.
+
+93
+00:05:19,375 --> 00:05:20,625
+And I'm tired of
+being surrounded
+
+94
+00:05:20,708 --> 00:05:23,291
+by a bunch of lame-ass wannabes.
+
+95
+00:05:25,791 --> 00:05:27,583
+[SHIGARAKI]
+Father.
+
+96
+00:05:27,666 --> 00:05:30,041
+[KUROGIRI]
+No, Tomura Shigaraki. Be calm.
+
+97
+00:05:34,041 --> 00:05:37,458
+Don't lay a finger
+on him. Any of you.
+
+98
+00:05:41,125 --> 00:05:43,166
+This "hero"...
+
+99
+00:05:44,833 --> 00:05:47,375
+[SHIGARAKI]
+...is still a valuable piece.
+
+100
+00:05:49,000 --> 00:05:52,791
+[SHIGARAKI] I wish you would've
+listened to what I had to say.
+
+101
+00:05:52,875 --> 00:05:56,208
+I thought you and I could
+come to an understanding.
+
+102
+00:05:56,291 --> 00:05:57,166
+[BEST JEANIST]
+Heroes and villains
+
+103
+00:05:57,250 --> 00:05:59,375
+are cut from the same cloth.
+
+104
+00:05:59,458 --> 00:06:01,333
+What, you think we're the same?
+
+105
+00:06:01,416 --> 00:06:03,875
+Not a chance.
+
+106
+00:06:03,958 --> 00:06:06,166
+[SHIGARAKI]
+Then I have no choice.
+
+107
+00:06:06,250 --> 00:06:08,791
+The heroes said they'd
+continue their investigation
+
+108
+00:06:08,875 --> 00:06:12,833
+of our group, so we don't have
+time to stand here and talk.
+
+109
+00:06:12,916 --> 00:06:14,958
+Master.
+
+110
+00:06:15,041 --> 00:06:17,125
+Lend me your power.
+
+111
+00:06:18,208 --> 00:06:22,416
+That is a wise decision,
+Tomura Shigaraki.
+
+112
+00:06:35,333 --> 00:06:38,000
+Okay, this is the spot the
+tracker is broadcasting from.
+
+113
+00:06:38,083 --> 00:06:41,375
+So that's their hideout?
+Not a bad one, I guess.
+
+114
+00:06:41,458 --> 00:06:43,375
+[YAOYOROZU]
+Maybe it is and maybe it isn't.
+
+115
+00:06:43,458 --> 00:06:44,916
+According to the
+tracking history,
+
+116
+00:06:45,000 --> 00:06:47,583
+the villain hasn't left this
+location for the past day.
+
+117
+00:06:47,666 --> 00:06:49,458
+But that's all we know.
+
+118
+00:06:49,541 --> 00:06:51,875
+One villain is hiding here,
+but that could be it.
+
+119
+00:06:51,958 --> 00:06:54,041
+They might have Bakugo
+somewhere else.
+
+120
+00:06:54,125 --> 00:06:56,458
+We're going into this
+operation completely blind
+
+121
+00:06:56,541 --> 00:07:00,166
+for the most part. Please
+try to proceed logically.
+
+122
+00:07:00,250 --> 00:07:01,458
+I don't like this.
+
+123
+00:07:01,541 --> 00:07:03,541
+None of us are good
+at sneaking around.
+
+124
+00:07:03,625 --> 00:07:06,041
+We need Hagakure or Jiro here.
+
+125
+00:07:06,125 --> 00:07:08,125
+If I think things are gonna
+be the least bit dangerous,
+
+126
+00:07:08,208 --> 00:07:09,375
+we're done.
+
+127
+00:07:09,458 --> 00:07:11,500
+I won't hesitate to
+call the police, either.
+
+128
+00:07:11,583 --> 00:07:13,875
+To make sure my
+friends are safe.
+
+129
+00:07:13,958 --> 00:07:16,625
+[IZUKU]
+Thank you, Iida.
+
+130
+00:07:16,708 --> 00:07:19,291
+So, what can we do with
+what's in front of us?
+
+131
+00:07:19,375 --> 00:07:20,833
+Let me see here.
+
+132
+00:07:20,916 --> 00:07:22,666
+[mumbling] The prerequisite is
+that we don't use our Quirks
+
+133
+00:07:22,750 --> 00:07:24,166
+to fight the villains,
+and on top of that,
+
+134
+00:07:24,250 --> 00:07:25,750
+we need to figure out...
+
+135
+00:07:25,833 --> 00:07:27,166
+[KIRISHIMA] It's been a while
+since I've seen him this weird.
+
+136
+00:07:27,250 --> 00:07:29,416
+[YAOYOROZU] Yeah, this is
+truly peak Midoriya.
+
+137
+00:07:29,500 --> 00:07:30,833
+[TENYA]
+That's right.
+
+138
+00:07:30,916 --> 00:07:32,208
+Once you set your
+heart on something,
+
+139
+00:07:32,291 --> 00:07:35,083
+there's no swaying you.
+You won't stop.
+
+140
+00:07:35,166 --> 00:07:37,166
+It's what I respect
+about you as a friend.
+
+141
+00:07:37,250 --> 00:07:38,416
+And a rival.
+
+142
+00:07:38,500 --> 00:07:40,875
+But there must be boundaries.
+
+143
+00:07:40,958 --> 00:07:43,958
+And someone has to make
+sure you don't cross them.
+
+144
+00:07:44,041 --> 00:07:47,000
+This time, I'll protect you.
+
+145
+00:07:48,166 --> 00:07:50,833
+[ENDEAVOR]
+Why should I clean up UA's mess?
+
+146
+00:07:50,916 --> 00:07:53,458
+I'm a very busy man,
+as you know.
+
+147
+00:07:53,541 --> 00:07:55,333
+[BEST JEANIST]
+Get off your high horse.
+
+148
+00:07:55,416 --> 00:07:57,583
+You are a UA alum.
+
+149
+00:07:57,666 --> 00:08:00,375
+We can't call any heroes
+away from the school.
+
+150
+00:08:00,458 --> 00:08:02,208
+There is a bigger
+picture, Endeavor.
+
+151
+00:08:02,291 --> 00:08:04,291
+[ENDEAVOR]
+Tch.
+
+152
+00:08:04,375 --> 00:08:05,583
+[TSUKAUCHI]
+It's possible this incident
+
+153
+00:08:05,666 --> 00:08:08,500
+is the beginning of the
+end for Hero society.
+
+154
+00:08:08,583 --> 00:08:11,458
+We'll stop at nothing
+to resolve this successfully.
+
+155
+00:08:11,541 --> 00:08:12,875
+[BEST JEANIST]
+During the internships,
+
+156
+00:08:12,958 --> 00:08:16,375
+I invited Bakugo to my agency
+to try and reform him.
+
+157
+00:08:16,458 --> 00:08:18,875
+I've met very few
+as stubborn as he is.
+
+158
+00:08:18,958 --> 00:08:20,833
+I imagine he's fighting back.
+
+159
+00:08:20,916 --> 00:08:22,666
+We need to hurry.
+
+160
+00:08:22,750 --> 00:08:25,333
+[GANG ORCA] Not even you were
+able to change his behavior.
+
+161
+00:08:25,416 --> 00:08:26,791
+[BEST JEANIST]
+Yes. He was inflexible,
+
+162
+00:08:26,875 --> 00:08:28,666
+pride sewn into his very core.
+
+163
+00:08:28,750 --> 00:08:31,541
+My comrade, Ragdoll,
+was also taken.
+
+164
+00:08:31,625 --> 00:08:33,291
+This is my chance
+to get her back.
+
+165
+00:08:33,375 --> 00:08:34,708
+[TSUKAUCHI] Thanks to
+the tracking devices set
+
+166
+00:08:34,791 --> 00:08:36,916
+by one of the students,
+we now believe there are
+
+167
+00:08:37,000 --> 00:08:39,416
+two separate hideout locations.
+
+168
+00:08:39,500 --> 00:08:40,833
+We know from our investigations
+
+169
+00:08:40,916 --> 00:08:43,416
+where the kidnapped
+victim is located.
+
+170
+00:08:43,500 --> 00:08:45,375
+We'll send the bulk
+of our forces there.
+
+171
+00:08:45,458 --> 00:08:47,958
+Retrieving Bakugo
+is our priority.
+
+172
+00:08:48,041 --> 00:08:49,125
+At the same time,
+
+173
+00:08:49,208 --> 00:08:50,583
+we'll gain control
+of the other hideout.
+
+174
+00:08:50,666 --> 00:08:52,458
+This will cut off
+their paths of retreat.
+
+175
+00:08:52,541 --> 00:08:54,416
+We'll arrest them all at once.
+
+176
+00:08:54,500 --> 00:08:55,666
+[GRAN TORINO]
+Toshinori.
+
+177
+00:08:55,750 --> 00:08:57,916
+If they're recruiting
+old men like me, then...
+
+178
+00:08:58,000 --> 00:08:59,000
+What are you suggesting?
+
+179
+00:08:59,083 --> 00:09:01,416
+You're still Gran Torino.
+
+180
+00:09:01,500 --> 00:09:03,958
+And with such staggering
+stakes at hand.
+
+181
+00:09:04,041 --> 00:09:06,916
+We can be sure that
+<i>he</i> is involved.
+
+182
+00:09:07,000 --> 00:09:09,750
+All For One.
+
+183
+00:09:09,833 --> 00:09:11,375
+We have the element of surprise!
+
+184
+00:09:11,458 --> 00:09:13,625
+These villains will not succeed!
+
+185
+00:09:13,708 --> 00:09:15,083
+At the press
+conference earlier,
+
+186
+00:09:15,166 --> 00:09:16,875
+we had Principal Nezu
+act clueless
+
+187
+00:09:16,958 --> 00:09:18,625
+to deceive the villains.
+
+188
+00:09:18,708 --> 00:09:22,958
+He feigned ignorance on camera,
+as if we didn't have leads.
+
+189
+00:09:23,041 --> 00:09:24,541
+After hearing his words,
+
+190
+00:09:24,625 --> 00:09:28,041
+the villains won't expect us
+to rush in on the very same day.
+
+191
+00:09:28,125 --> 00:09:32,416
+We'll retaliate! It's time
+for our counterattack!
+
+192
+00:09:32,500 --> 00:09:35,458
+Remind the world what
+you can do, Heroes!
+
+193
+00:09:46,500 --> 00:09:47,625
+We've gotten pretty close,
+
+194
+00:09:47,708 --> 00:09:49,791
+but I haven't seen
+anything move inside.
+
+195
+00:09:49,875 --> 00:09:51,708
+And not a single light is on.
+
+196
+00:09:51,791 --> 00:09:53,416
+It doesn't look
+like anyone's home.
+
+197
+00:09:53,500 --> 00:09:56,083
+They're hiding this
+lair in plain sight.
+
+198
+00:09:56,166 --> 00:09:58,125
+It looks like any other
+abandoned warehouse.
+
+199
+00:09:58,208 --> 00:09:59,458
+[IZUKU]
+The weeds under the front door
+
+200
+00:09:59,541 --> 00:10:01,125
+are thick and undisturbed.
+
+201
+00:10:01,208 --> 00:10:02,958
+There must be another
+way to get in.
+
+202
+00:10:03,041 --> 00:10:04,916
+Maybe someone's
+Quirk is hiding it.
+
+203
+00:10:05,000 --> 00:10:07,541
+We can't just enter carelessly.
+It could be a trap.
+
+204
+00:10:07,625 --> 00:10:09,125
+If we could just
+see inside somehow...
+
+205
+00:10:09,208 --> 00:10:11,708
+[DRUNK MAN 47A] Hey. You lookin'
+for a real man, darlin'?
+
+206
+00:10:11,791 --> 00:10:12,916
+I'm good.
+
+207
+00:10:13,000 --> 00:10:14,791
+Ditch these losers
+and come drink with us.
+
+208
+00:10:14,875 --> 00:10:16,833
+Come on, don't go
+pickin' fights.
+
+209
+00:10:16,916 --> 00:10:18,583
+[IZUKU]
+Hey! You talkin' ta us?
+
+210
+00:10:18,666 --> 00:10:20,250
+Let's get out of here.
+
+211
+00:10:22,541 --> 00:10:24,708
+It's not crowded, but
+there are people around.
+
+212
+00:10:24,791 --> 00:10:26,833
+We can't draw
+attention to ourselves.
+
+213
+00:10:26,916 --> 00:10:29,375
+So what's our next move?
+
+214
+00:10:29,458 --> 00:10:30,791
+[IZUKU]
+Let's go around the back.
+
+215
+00:10:30,875 --> 00:10:32,416
+It might be the best
+chance we have to get
+
+216
+00:10:32,500 --> 00:10:34,666
+some solid intel on this place.
+
+217
+00:10:39,875 --> 00:10:42,750
+This is so narrow.
+I might get stuck.
+
+218
+00:10:42,833 --> 00:10:44,458
+Just keep moving.
+We have to figure out
+
+219
+00:10:44,541 --> 00:10:45,958
+what's happening inside.
+
+220
+00:10:46,041 --> 00:10:47,916
+No one will see us
+from back here.
+
+221
+00:10:48,000 --> 00:10:49,416
+[gasps] There!
+
+222
+00:10:49,500 --> 00:10:51,500
+We should be able to get
+a look through that window.
+
+223
+00:10:51,583 --> 00:10:53,500
+We'll be blind in the darkness.
+
+224
+00:10:53,583 --> 00:10:55,541
+One second, I'll make
+a night vision scope.
+
+225
+00:10:55,625 --> 00:10:57,541
+Wait. No need.
+
+226
+00:10:57,625 --> 00:10:59,625
+I actually brought one
+along with me for this.
+
+227
+00:10:59,708 --> 00:11:01,666
+[IZUKU]
+Whoa, really?
+
+228
+00:11:01,750 --> 00:11:03,833
+When I thought about
+what we'd have to do,
+
+229
+00:11:03,916 --> 00:11:05,666
+I figured we might need it.
+
+230
+00:11:05,750 --> 00:11:08,375
+Sure, but aren't those
+models super expensive?
+
+231
+00:11:08,458 --> 00:11:10,083
+I did some research on
+them when I was thinking
+
+232
+00:11:10,166 --> 00:11:12,166
+about my costume, but,
+they cost, like,
+
+233
+00:11:12,250 --> 00:11:13,916
+50,000 or something, right?
+
+234
+00:11:14,000 --> 00:11:16,208
+[KIRISHIMA]
+Whatever, man. Just drop it.
+
+235
+00:11:16,291 --> 00:11:19,625
+Right. Then Kirishima
+will serve as our scout.
+
+236
+00:11:19,708 --> 00:11:21,625
+Back him up, Midoriya.
+
+237
+00:11:21,708 --> 00:11:22,666
+[IZUKU]
+Hold steady.
+
+238
+00:11:22,750 --> 00:11:24,541
+[TENYA]
+Don't lean forward too much.
+
+239
+00:11:24,625 --> 00:11:26,208
+We may have to run
+at a moment's notice.
+
+240
+00:11:26,291 --> 00:11:28,208
+[KIRISHIMA] Iida, can you
+move back a little?
+
+241
+00:11:30,583 --> 00:11:32,166
+[TENYA]
+Tell us what you see inside.
+
+242
+00:11:32,250 --> 00:11:33,708
+Quickly. And be quiet!
+
+243
+00:11:33,791 --> 00:11:36,666
+Got it. The place
+is pretty trashed.
+
+244
+00:11:36,750 --> 00:11:39,125
+Doesn't look like... Uh...
+
+245
+00:11:39,208 --> 00:11:41,375
+[yelps]
+
+246
+00:11:41,458 --> 00:11:42,625
+Hey, you okay?
+
+247
+00:11:42,708 --> 00:11:44,833
+What's wrong? You weren't
+spotted, were you?
+
+248
+00:11:44,916 --> 00:11:46,166
+The back left.
+
+249
+00:11:46,250 --> 00:11:48,833
+The corner, Midoriya. Look!
+
+250
+00:11:53,875 --> 00:11:58,750
+[IZUKU]
+No way. Are those all...
+
+251
+00:11:58,833 --> 00:12:00,750
+...Nomu?
+
+252
+00:12:00,833 --> 00:12:03,500
+[SHIGARAKI]
+Master. Lend me your power.
+
+253
+00:12:03,583 --> 00:12:04,916
+A master?
+
+254
+00:12:05,000 --> 00:12:07,208
+I thought you were
+the boss around here.
+
+255
+00:12:07,291 --> 00:12:08,791
+But you're a sidekick.
+
+256
+00:12:08,875 --> 00:12:11,083
+[SHIGARAKI]
+Kurogiri. Compress.
+
+257
+00:12:11,166 --> 00:12:13,750
+It's time to put him
+back to sleep.
+
+258
+00:12:13,833 --> 00:12:16,291
+[MR. COMPRESS sighs]
+I can't believe he's such a bad
+
+259
+00:12:16,375 --> 00:12:19,000
+audience member.
+It's almost impressive.
+
+260
+00:12:19,083 --> 00:12:20,208
+If you want me to listen,
+
+261
+00:12:20,291 --> 00:12:22,500
+then get on your knees and beg!
+
+262
+00:12:22,583 --> 00:12:24,041
+[KATSUKI]
+I wanna blow them away
+
+263
+00:12:24,125 --> 00:12:27,750
+with maximum firepower, but
+that warp guy is way too fast.
+
+264
+00:12:27,833 --> 00:12:29,250
+Think.
+
+265
+00:12:29,333 --> 00:12:32,708
+I need to make an opening
+somehow and get to the backdoor!
+
+266
+00:12:32,791 --> 00:12:34,375
+[knocking]
+
+267
+00:12:34,458 --> 00:12:36,958
+[VOICE] Hello? I gotta
+pizza delivery here.
+
+268
+00:12:40,958 --> 00:12:43,375
+[ALL MIGHT]
+Smash!
+
+269
+00:12:45,000 --> 00:12:45,791
+[SPINNER]
+What the--?
+
+270
+00:12:45,875 --> 00:12:47,958
+[SHIGARAKI]
+Kurogiri! Gate!
+
+271
+00:12:48,041 --> 00:12:50,416
+[KAMUI WOODS]
+Pre-emptive Binding...
+
+272
+00:12:53,208 --> 00:12:55,041
+[KAMUI WOODS]
+...Lacquered Chain Prison!
+
+273
+00:12:55,125 --> 00:12:57,541
+Heh. That's it?
+
+274
+00:12:59,375 --> 00:13:01,041
+Don't do anything foolish.
+
+275
+00:13:01,125 --> 00:13:04,375
+It's in your best interest
+to cooperate with us.
+
+276
+00:13:04,458 --> 00:13:07,583
+[ALL MIGHT] Just what I'd expect
+from a competent new hero.
+
+277
+00:13:07,666 --> 00:13:12,291
+And a veteran pro who moves
+faster than the eye can see!
+
+278
+00:13:12,375 --> 00:13:14,916
+You can't run anymore,
+League of Villains.
+
+279
+00:13:15,000 --> 00:13:16,750
+Understand?
+
+280
+00:13:17,875 --> 00:13:20,250
+Because we are here now!
+
+281
+00:13:20,333 --> 00:13:22,083
+[MR. COMPRESS] Right after
+the press conference?
+
+282
+00:13:22,166 --> 00:13:23,875
+They had this ruse
+planned the whole time!
+
+283
+00:13:23,958 --> 00:13:26,291
+[TWICE] Tree man!
+You're hugging me too tight!
+
+284
+00:13:26,375 --> 00:13:27,416
+Harder!
+
+285
+00:13:27,500 --> 00:13:28,708
+[EDGESHOT]
+One tends to neglect defense
+
+286
+00:13:28,791 --> 00:13:30,041
+when they're on the offense.
+
+287
+00:13:30,125 --> 00:13:32,583
+But we didn't come alone.
+
+288
+00:13:32,666 --> 00:13:33,750
+Take a look.
+
+289
+00:13:35,125 --> 00:13:36,958
+[EDGESHOT]
+You're surrounded by the police.
+
+290
+00:13:37,041 --> 00:13:39,750
+Not to mention powerful
+heroes like Endeavor.
+
+291
+00:13:39,833 --> 00:13:41,083
+Tsukauchi!
+
+292
+00:13:41,166 --> 00:13:42,875
+Why does Edgeshot get
+to rush into the fight
+
+293
+00:13:42,958 --> 00:13:44,416
+while I'm stuck here with you?
+
+294
+00:13:44,500 --> 00:13:45,958
+Because if someone slips out,
+
+295
+00:13:46,041 --> 00:13:47,916
+we'll need you to
+capture them immediately.
+
+296
+00:13:48,000 --> 00:13:49,291
+Ugh!
+
+297
+00:13:49,375 --> 00:13:51,125
+Ah, you must've been scared.
+
+298
+00:13:51,208 --> 00:13:53,083
+But you stayed strong.
+
+299
+00:13:53,166 --> 00:13:56,291
+I'm sorry. You're
+safe now, young man.
+
+300
+00:13:56,375 --> 00:13:57,958
+What?! I wasn't scared!
+
+301
+00:13:58,041 --> 00:13:59,291
+Not even close!
+
+302
+00:13:59,375 --> 00:14:00,541
+[ALL MIGHT]
+Heh!
+
+303
+00:14:00,625 --> 00:14:02,208
+[SHIGARAKI] After I went
+through all the trouble
+
+304
+00:14:02,291 --> 00:14:04,875
+of preparing this,
+the final boss
+
+305
+00:14:04,958 --> 00:14:08,166
+goes and shows up
+on my doorstep.
+
+306
+00:14:08,250 --> 00:14:10,666
+Everyone's been restrained.
+
+307
+00:14:10,750 --> 00:14:13,875
+There's no easy way to escape.
+
+308
+00:14:13,958 --> 00:14:15,625
+It can't be helped.
+
+309
+00:14:15,708 --> 00:14:19,708
+So, they've got backup,
+huh? Well, we do, too.
+
+310
+00:14:19,791 --> 00:14:23,208
+[SHIGARAKI] Kurogiri!
+Warp over as many as you can!
+
+311
+00:14:23,291 --> 00:14:24,416
+The Nomu, right?
+
+312
+00:14:24,500 --> 00:14:25,875
+[thud]
+
+313
+00:14:25,958 --> 00:14:27,083
+[KIRISHIMA]
+Hey!
+
+314
+00:14:27,166 --> 00:14:29,500
+[IZUKU gasps]
+Is that...?
+
+315
+00:14:38,083 --> 00:14:40,625
+[STUDENTS yelping]
+
+316
+00:14:42,250 --> 00:14:44,166
+[SHIGARAKI] What are you
+waiting for, dammit?
+
+317
+00:14:44,250 --> 00:14:46,333
+[KUROGIRI]
+I'm sorry, Tomura Shigaraki.
+
+318
+00:14:46,416 --> 00:14:47,708
+The Nomus were supposed to be
+
+319
+00:14:47,791 --> 00:14:50,791
+in a fixed location
+but... they're gone!
+
+320
+00:14:50,875 --> 00:14:52,291
+[SHIGARAKI]
+Huh?
+
+321
+00:14:52,375 --> 00:14:54,916
+[ALL MIGHT] It seems you have
+a lot to learn, Shigaraki.
+
+322
+00:14:55,000 --> 00:14:56,208
+You're still green.
+
+323
+00:14:56,291 --> 00:14:57,791
+[SHIGARAKI growls]
+
+324
+00:14:57,875 --> 00:15:01,541
+Your little League
+underestimated all of us.
+
+325
+00:15:01,625 --> 00:15:03,750
+The soul of this young man.
+
+326
+00:15:03,833 --> 00:15:06,625
+The police's diligent
+investigations.
+
+327
+00:15:06,708 --> 00:15:09,791
+And... our righteous fury!
+
+328
+00:15:10,958 --> 00:15:15,416
+[BEST JEANIST] We have control.
+The Nomu are neutralized.
+
+329
+00:15:15,500 --> 00:15:17,458
+Enough is enough.
+
+330
+00:15:17,541 --> 00:15:21,958
+Your game has come to
+an end, Tomura Shigaraki!
+
+331
+00:15:22,041 --> 00:15:24,041
+[yelps] All Might, please!
+
+332
+00:15:24,125 --> 00:15:26,208
+You're the only hero
+Stain respected!
+
+333
+00:15:26,291 --> 00:15:28,041
+You are worthy!
+
+334
+00:15:28,125 --> 00:15:31,583
+You think it's over?
+Don't be stupid.
+
+335
+00:15:31,666 --> 00:15:34,041
+I've only just begun to play.
+
+336
+00:15:34,125 --> 00:15:36,416
+Justice. Peace.
+
+337
+00:15:36,500 --> 00:15:39,125
+You created a garbage
+society by lifting up
+
+338
+00:15:39,208 --> 00:15:41,333
+such ridiculous ideals.
+
+339
+00:15:41,416 --> 00:15:44,541
+That's why I targeted
+you, All Might.
+
+340
+00:15:44,625 --> 00:15:47,875
+It's why I started gathering
+people to my cause.
+
+341
+00:15:47,958 --> 00:15:52,166
+You think this is the end?
+Then you've lost.
+
+342
+00:15:52,250 --> 00:15:53,416
+Kurogiri!
+
+343
+00:15:54,625 --> 00:15:56,541
+[MAGNE yelps]
+What just happened?
+
+344
+00:15:56,625 --> 00:15:58,916
+I couldn't see anything.
+Did they kill him?
+
+345
+00:15:59,000 --> 00:16:00,375
+[EDGESHOT]
+I played around with his insides
+
+346
+00:16:00,458 --> 00:16:02,541
+and made him fall unconscious.
+
+347
+00:16:02,625 --> 00:16:05,458
+Ninpo: Thousand Sheet Pierce!
+
+348
+00:16:05,541 --> 00:16:08,916
+He was such a nuisance.
+He had to sleep.
+
+349
+00:16:09,000 --> 00:16:10,708
+Weren't you listening earlier?
+
+350
+00:16:10,791 --> 00:16:13,958
+You'll all be better off
+if you take us seriously.
+
+351
+00:16:14,041 --> 00:16:15,166
+Kenji Hikiishi.
+
+352
+00:16:15,250 --> 00:16:16,083
+[gasps]
+
+353
+00:16:16,166 --> 00:16:17,750
+[GRAN TORINO]
+Atsuhiro Sako.
+
+354
+00:16:17,833 --> 00:16:19,500
+Shuichi Iguchi.
+
+355
+00:16:19,583 --> 00:16:21,208
+Himiko Toga.
+
+356
+00:16:21,291 --> 00:16:23,500
+Jin Bubaigawara.
+
+357
+00:16:23,583 --> 00:16:25,791
+[GRAN TORINO] Though they had
+little time and information,
+
+358
+00:16:25,875 --> 00:16:27,208
+the police worked
+through the night
+
+359
+00:16:27,291 --> 00:16:29,958
+to discover your
+true identities.
+
+360
+00:16:30,041 --> 00:16:31,875
+Do you understand?
+
+361
+00:16:31,958 --> 00:16:35,083
+There's nowhere left
+for any of you to run.
+
+362
+00:16:35,166 --> 00:16:38,041
+So, Shigaraki. One question.
+
+363
+00:16:38,125 --> 00:16:40,166
+Where is your boss hiding?
+
+364
+00:16:45,791 --> 00:16:49,125
+[ALL FOR ONE] No one's come
+to save you, have they?
+
+365
+00:16:49,208 --> 00:16:54,291
+You've had a hard life,
+Tenko Shimura.
+
+366
+00:16:54,375 --> 00:16:56,000
+"He'll be fine.
+
+367
+00:16:56,083 --> 00:16:58,583
+Eventually, the
+heroes will help."
+
+368
+00:16:58,666 --> 00:17:00,500
+I'm sure that's what
+everyone thought
+
+369
+00:17:00,583 --> 00:17:03,458
+as they looked away
+and ignored you.
+
+370
+00:17:03,541 --> 00:17:07,833
+The world shouldn't
+be so unforgiving.
+
+371
+00:17:07,916 --> 00:17:10,958
+You didn't do anything wrong.
+
+372
+00:17:12,250 --> 00:17:15,875
+[ALL FOR ONE]
+Don't worry. I am here for you.
+
+373
+00:17:17,833 --> 00:17:24,791
+[SHIGARAKI]
+No. This is not over.
+
+374
+00:17:24,875 --> 00:17:28,208
+Just you wait.
+The game is still mine.
+
+375
+00:17:28,291 --> 00:17:30,666
+You'll tell us where
+he is right now.
+
+376
+00:17:30,750 --> 00:17:33,583
+[SHIGARAKI]
+Go away. Disappear!
+
+377
+00:17:33,666 --> 00:17:35,291
+[ALL MIGHT growls]
+Shigaraki!
+
+378
+00:17:35,375 --> 00:17:39,333
+[SHIGARAKI]
+This is your fault. I hate you!
+
+379
+00:17:39,416 --> 00:17:41,000
+--[SHIGARAKI gasps]
+--[NOMUS growling]
+
+380
+00:17:41,083 --> 00:17:43,500
+[KAMUI WOODS]
+Nomu! How'd they get here?
+
+381
+00:17:43,583 --> 00:17:44,750
+What is this?
+
+382
+00:17:44,833 --> 00:17:47,041
+Dammit, Edgeshot. Stop Kurogiri!
+
+383
+00:17:47,125 --> 00:17:49,583
+[EDGESHOT] He's still out.
+This isn't his doing.
+
+384
+00:17:49,666 --> 00:17:51,291
+[GRAN TORINO]
+They keep on coming.
+
+385
+00:17:51,375 --> 00:17:53,958
+Don't release them under
+any circumstances, got it?
+
+386
+00:17:54,041 --> 00:17:55,500
+[KAMUI WOODS]
+Right!
+
+387
+00:17:55,583 --> 00:17:57,625
+[KATSUKI]
+The crap?
+
+388
+00:17:57,708 --> 00:17:58,833
+Bakugo!
+
+389
+00:18:02,083 --> 00:18:03,833
+No!
+
+390
+00:18:03,916 --> 00:18:06,583
+[KAMUI WOODS]
+Endeavor! Help us!
+
+391
+00:18:06,666 --> 00:18:08,375
+No!
+
+392
+00:18:08,458 --> 00:18:10,125
+[growling]
+
+393
+00:18:11,958 --> 00:18:14,458
+Tsukauchi. Evacuate the area!
+
+394
+00:18:14,541 --> 00:18:16,041
+They're from the other hideout.
+
+395
+00:18:16,125 --> 00:18:17,916
+That location should
+be locked down.
+
+396
+00:18:18,000 --> 00:18:20,958
+Come in, Jeanist. What the
+hell is going on over there?
+
+397
+00:18:22,083 --> 00:18:23,333
+Jeanist?!
+
+398
+00:18:26,541 --> 00:18:28,375
+Toshinori. What now?
+
+399
+00:18:28,458 --> 00:18:30,666
+They shouldn't have been
+able to warp Nomu here.
+
+400
+00:18:30,750 --> 00:18:32,833
+And this backup came too fast!
+
+401
+00:18:32,916 --> 00:18:36,166
+[ALL MIGHT]
+I fear that <i>he</i> has made a move.
+
+402
+00:18:38,541 --> 00:18:40,583
+[SHIGARAKI]
+Master.
+
+403
+00:18:46,000 --> 00:18:48,375
+What? Did the building
+just come down?
+
+404
+00:18:50,541 --> 00:18:53,083
+[gasps] Gang Orca and Mt. Lady?
+
+405
+00:18:53,166 --> 00:18:55,125
+Whoa, even Best Jeanist is here.
+
+406
+00:18:55,208 --> 00:18:57,291
+[YAOYOROZU]
+And Mr. Tiger, too.
+
+407
+00:18:57,375 --> 00:19:00,958
+Ugh. Are these gross
+dudes really alive?
+
+408
+00:19:01,041 --> 00:19:04,583
+I thought we'd be in for a
+fight, but this was super easy.
+
+409
+00:19:04,666 --> 00:19:06,333
+Maybe we should've
+left this to the police
+
+410
+00:19:06,416 --> 00:19:07,583
+and gone with All Might.
+
+411
+00:19:07,666 --> 00:19:08,833
+[BEST JEANIST]
+Difficulty and importance
+
+412
+00:19:08,916 --> 00:19:11,458
+are two very different
+things, rookie.
+
+413
+00:19:11,541 --> 00:19:14,291
+Riot squad, get the
+transports ready.
+
+414
+00:19:14,375 --> 00:19:15,625
+There could be more of them.
+
+415
+00:19:15,708 --> 00:19:16,583
+Be on your guard.
+
+416
+00:19:16,666 --> 00:19:17,666
+[RIOT SQUAD 47A]
+Yes, sir!
+
+417
+00:19:17,750 --> 00:19:20,041
+C'mon, Ragdoll. Wake up for me.
+
+418
+00:19:20,125 --> 00:19:21,458
+[GANG ORCA]
+Is that your teammate?
+
+419
+00:19:21,541 --> 00:19:23,666
+She's breathing. That's good.
+
+420
+00:19:23,750 --> 00:19:25,791
+Yes, but... Look at her.
+
+421
+00:19:25,875 --> 00:19:28,458
+What have they done
+to you, my friend?
+
+422
+00:19:29,958 --> 00:19:31,208
+Everything's fine.
+
+423
+00:19:31,291 --> 00:19:33,041
+The heroes were on top of
+this way before we were.
+
+424
+00:19:33,125 --> 00:19:34,166
+This is great!
+
+425
+00:19:34,250 --> 00:19:35,875
+Now then, let's get back home.
+
+426
+00:19:35,958 --> 00:19:39,000
+At least we won't have
+to explain ourselves.
+
+427
+00:19:39,083 --> 00:19:41,250
+It sounded like All Might
+is somewhere else.
+
+428
+00:19:41,333 --> 00:19:43,333
+Does that mean he's
+rescued Kacchan?
+
+429
+00:19:43,416 --> 00:19:44,583
+If All Might's on the scene,
+
+430
+00:19:44,666 --> 00:19:46,458
+there's no reason
+for us to worry.
+
+431
+00:19:46,541 --> 00:19:47,708
+Let's go. Quick.
+
+432
+00:19:47,791 --> 00:19:48,875
+Right.
+
+433
+00:19:57,750 --> 00:19:59,333
+[ALL FOR ONE]
+I'm sorry, Tiger.
+
+434
+00:19:59,416 --> 00:20:02,541
+But Ragdoll's Quirk
+was so useful.
+
+435
+00:20:02,625 --> 00:20:06,000
+I just had to take it.
+How could I not?
+
+436
+00:20:06,083 --> 00:20:07,625
+Are you with the League?
+
+437
+00:20:07,708 --> 00:20:09,208
+Somebody get us a light.
+
+438
+00:20:09,291 --> 00:20:12,166
+[ALL FOR ONE] Since my body
+was mostly destroyed,
+
+439
+00:20:12,250 --> 00:20:15,958
+I haven't been able
+to stock up on Quirks.
+
+440
+00:20:16,041 --> 00:20:18,250
+[GANG ORCA]
+Stop there! Don't move!
+
+441
+00:20:24,625 --> 00:20:26,458
+Hey! You can't attack like that!
+
+442
+00:20:26,541 --> 00:20:27,625
+What if he's just a bystander!
+
+443
+00:20:27,708 --> 00:20:29,458
+[BEST JEANIST]
+Think about the situation.
+
+444
+00:20:29,541 --> 00:20:31,958
+A moment of hesitation
+could decide the fight.
+
+445
+00:20:32,041 --> 00:20:34,791
+We can't let these
+villains try anything!
+
+446
+00:20:36,916 --> 00:20:38,291
+[BEST JEANIST grunts]
+
+447
+00:22:25,208 --> 00:22:27,791
+[ALL FOR ONE] Tomura has finally
+started thinking rationally
+
+448
+00:22:27,875 --> 00:22:31,250
+and making decisions by himself.
+
+449
+00:22:31,333 --> 00:22:36,291
+I do wish that you hadn't
+gotten in his way.
+
+450
+00:22:36,375 --> 00:22:38,875
+[IZUKU]
+There was no time to stop him.
+
+451
+00:22:38,958 --> 00:22:41,875
+No time to even move.
+
+452
+00:22:41,958 --> 00:22:44,250
+It happened in an instant.
+
+453
+00:22:44,333 --> 00:22:46,791
+A microsecond.
+
+454
+00:22:46,875 --> 00:22:48,583
+And in that moment,
+
+455
+00:22:48,666 --> 00:22:51,541
+this man made us feel death.
+
+456
+00:22:51,625 --> 00:22:55,291
+We could see it in
+front of us clearly.
+
+457
+00:22:55,375 --> 00:22:57,208
+[ALL MIGHT]
+Since you now bear One For All,
+
+458
+00:22:57,291 --> 00:22:58,375
+you may one day have to fight
+
+459
+00:22:58,458 --> 00:23:00,500
+against this great
+evil yourself.
+
+460
+00:23:00,583 --> 00:23:02,708
+Because I failed.
+
+461
+00:23:02,791 --> 00:23:06,875
+[IZUKU]
+"Tomura." He meant Shigaraki!
+
+462
+00:23:06,958 --> 00:23:11,416
+What is this? It's not
+true, is it, All Might?
+
+463
+00:23:11,500 --> 00:23:14,333
+Don't tell me that this...
+
+464
+00:23:14,416 --> 00:23:17,958
+...this is... All For One.
+
+465
+00:23:21,416 --> 00:23:25,458
+[ALL FOR ONE]
+Now then. Shall we begin?
+
+466
+00:23:29,000 --> 00:23:30,375
+[IZUKU]
+Now, the preview!
+
+467
+00:23:30,458 --> 00:23:32,375
+In one horrible instant,
+the pro heroes
+
+468
+00:23:32,458 --> 00:23:36,208
+who raided the Nomu factory were
+defeated by a massive blast.
+
+469
+00:23:36,291 --> 00:23:37,583
+The one to blame for the attack
+
+470
+00:23:37,666 --> 00:23:39,666
+is the villain
+All Might spoke of,
+
+471
+00:23:39,750 --> 00:23:42,833
+the Symbol of Evil, All For One.
+
+472
+00:23:42,916 --> 00:23:44,666
+In the face of his
+terrifying presence,
+
+473
+00:23:44,750 --> 00:23:46,708
+fear has us unable to move,
+
+474
+00:23:46,791 --> 00:23:49,166
+even though Kacchan is
+right in front of us!
+
+475
+00:23:49,250 --> 00:23:51,583
+Next time: "Symbol of Peace"!
+
+476
+00:23:51,666 --> 00:23:54,000
+Everything's okay now. Why?
+
+477
+00:23:54,083 --> 00:23:55,625
+Because <i>he</i> is here!
+
+478
+00:23:55,708 --> 00:23:58,000
+Go beyond! Plus Ultra!
+
