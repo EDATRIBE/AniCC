@@ -1,0 +1,2159 @@
+﻿1
+00:00:07,916 --> 00:00:09,166
+--[typing]
+--[knocking]
+
+2
+00:00:09,250 --> 00:00:09,916
+--[typing]
+--[door creaks]
+
+3
+00:00:10,000 --> 00:00:11,416
+[YAGI]
+Padon me.
+
+4
+00:00:13,250 --> 00:00:15,750
+[YAGI] Yoshida called
+earlier this morning, sir.
+
+5
+00:00:15,833 --> 00:00:17,583
+On behalf of the committee.
+
+6
+00:00:17,666 --> 00:00:21,583
+[sighs] I told him
+to call my assistant.
+
+7
+00:00:22,791 --> 00:00:25,125
+[YAGI]
+Is something wrong, sir?
+
+8
+00:00:25,208 --> 00:00:27,791
+[YAGI] "If you don't
+want the world to know,
+
+9
+00:00:27,875 --> 00:00:31,750
+transfer 10,000,000 yen
+as soon as possible."
+
+10
+00:00:31,833 --> 00:00:33,625
+Who the hell could do this?
+
+11
+00:00:33,708 --> 00:00:35,625
+It looks quite elaborate.
+
+12
+00:00:35,708 --> 00:00:39,666
+I wonder if they didn't use
+one of those new viruses.
+
+13
+00:00:39,750 --> 00:00:42,500
+Regardless, sir. I think
+I can handle this.
+
+14
+00:00:42,583 --> 00:00:44,583
+I've an associate who,
+to put it simply,
+
+15
+00:00:44,666 --> 00:00:47,291
+has experience with such things.
+
+16
+00:02:18,958 --> 00:02:21,625
+[ENOKIDA] So I looked into
+this cyberterrorist cell
+
+17
+00:02:21,708 --> 00:02:22,666
+like you asked.
+
+18
+00:02:22,750 --> 00:02:24,416
+They're called M3. Find much?
+
+19
+00:02:24,500 --> 00:02:27,791
+[ENOKIDA] Well, the job was
+certainly a pain in the neck.
+
+20
+00:02:27,875 --> 00:02:31,125
+Experts do naturally tend
+to have better security.
+
+21
+00:02:31,208 --> 00:02:33,958
+[CYBERCOP 7A]
+But you were able to get in?
+
+22
+00:02:34,041 --> 00:02:35,583
+[ENOKIDA]
+Of course.
+
+23
+00:02:35,666 --> 00:02:37,583
+This is full of data
+I took from the PC
+
+24
+00:02:37,666 --> 00:02:39,541
+of one of their top members.
+
+25
+00:02:39,625 --> 00:02:42,000
+It should be pretty useful.
+
+26
+00:02:42,083 --> 00:02:43,833
+For a police
+officer investigating
+
+27
+00:02:43,916 --> 00:02:45,875
+cyber crime, anyway.
+
+28
+00:02:45,958 --> 00:02:47,791
+Seems I was right to use you.
+
+29
+00:02:47,875 --> 00:02:49,291
+Yup.
+
+30
+00:02:49,375 --> 00:02:52,916
+Now can we forget about that
+little hack I did last week?
+
+31
+00:02:53,000 --> 00:02:54,625
+The biggest document
+I put on there
+
+32
+00:02:54,708 --> 00:02:58,208
+was some kind of list.
+It's encrypted though.
+
+33
+00:02:58,291 --> 00:03:01,083
+And that sorta thing is
+more up your alley, right?
+
+34
+00:03:01,166 --> 00:03:02,416
+[CYBERCOP 7A]
+I'll look into it.
+
+35
+00:03:02,500 --> 00:03:04,666
+[phone vibrates]
+
+36
+00:03:04,750 --> 00:03:05,916
+Excuse me.
+
+37
+00:03:06,000 --> 00:03:09,000
+Hey. Maru, what's goin' on?
+
+38
+00:03:09,083 --> 00:03:10,875
+[MARTÍNEZ]
+Saito got arrested.
+
+39
+00:03:10,958 --> 00:03:14,000
+Apparently he was blackmailing
+politicians online.
+
+40
+00:03:14,083 --> 00:03:16,958
+Publishing their private
+nudes and what not.
+
+41
+00:03:17,041 --> 00:03:20,500
+And some sort of cybercrime
+cop group caught him.
+
+42
+00:03:20,583 --> 00:03:24,500
+[ENOKIDA] You don't mean
+the Counter Cybercrime unit?
+
+43
+00:03:24,583 --> 00:03:27,750
+[BANBA] Hey, Doc. Wasn't
+expecting to hear from you.
+
+44
+00:03:27,833 --> 00:03:31,083
+Yeah, apologies for dragging
+you all the way out here.
+
+45
+00:03:31,166 --> 00:03:32,666
+But I've got a problem
+I was hoping
+
+46
+00:03:32,750 --> 00:03:34,666
+you could help me with.
+
+47
+00:03:34,750 --> 00:03:36,041
+[BANBA]
+Who are they?
+
+48
+00:03:36,125 --> 00:03:38,125
+[DR. SAEKI] Well first off,
+they were all homeless.
+
+49
+00:03:38,208 --> 00:03:41,250
+The bodies were delivered
+via black market courier.
+
+50
+00:03:41,333 --> 00:03:43,375
+Along with instructions
+saying to quietly
+
+51
+00:03:43,458 --> 00:03:45,500
+dispose of them
+if I wanted to live.
+
+52
+00:03:45,583 --> 00:03:47,875
+Well, that sure
+is creepy as hell.
+
+53
+00:03:47,958 --> 00:03:51,250
+I do make bodies disappear,
+but this is just...
+
+54
+00:03:51,333 --> 00:03:53,333
+Any idea who it could be?
+
+55
+00:03:53,416 --> 00:03:54,708
+I don't.
+
+56
+00:03:54,791 --> 00:03:57,708
+But it's likely one person,
+or one group of people.
+
+57
+00:03:57,791 --> 00:03:59,458
+Their method hasn't changed.
+
+58
+00:03:59,541 --> 00:04:02,666
+It's gonna be a pain in the
+ass to identify these guys.
+
+59
+00:04:02,750 --> 00:04:05,250
+As mangled as all
+their faces are.
+
+60
+00:04:13,958 --> 00:04:15,250
+Job for you.
+
+61
+00:04:15,333 --> 00:04:16,625
+And who's the target?
+
+62
+00:04:16,708 --> 00:04:19,541
+A hacker that goes
+by Macro Hard.
+
+63
+00:04:19,625 --> 00:04:20,875
+He's been snooping
+into the affairs
+
+64
+00:04:20,958 --> 00:04:23,500
+of some politicians we back.
+
+65
+00:04:23,583 --> 00:04:26,125
+I'll have Siva look into
+him as soon as possible.
+
+66
+00:04:26,208 --> 00:04:27,708
+[M3 HANDLER 7A]
+What? You're still working
+
+67
+00:04:27,791 --> 00:04:29,375
+with that psychopath?
+
+68
+00:04:29,458 --> 00:04:31,958
+The organization
+recognizes his expertise
+
+69
+00:04:32,041 --> 00:04:33,666
+as a computer hacker.
+
+70
+00:04:33,750 --> 00:04:36,875
+But that doesn't make him
+any more trustworthy.
+
+71
+00:04:36,958 --> 00:04:38,958
+And that washed up boxer
+you been workin' with
+
+72
+00:04:39,041 --> 00:04:41,958
+could fly off the rails
+any goddamn day.
+
+73
+00:04:42,041 --> 00:04:44,791
+I could have them both
+go to a psychiatrist.
+
+74
+00:04:44,875 --> 00:04:46,833
+So long as the
+organization's willing
+
+75
+00:04:46,916 --> 00:04:48,541
+to foot the bill, of course.
+
+76
+00:04:48,625 --> 00:04:51,791
+[M3 HANDLER 7A]
+Look. Just don't screw it up.
+
+77
+00:05:02,208 --> 00:05:04,166
+Oh. Hey, Chegaru.
+
+78
+00:05:10,583 --> 00:05:15,791
+[BOXER 7A whimpering]
+
+79
+00:05:15,875 --> 00:05:18,416
+[CHEGARU]
+What're you watching, Irasawa?
+
+80
+00:05:18,500 --> 00:05:21,291
+That match from the other day.
+
+81
+00:05:21,375 --> 00:05:25,375
+[BOXER 7A whimpering]
+
+82
+00:05:26,875 --> 00:05:28,541
+What's with the face?
+
+83
+00:05:28,625 --> 00:05:31,250
+You're the one who told me
+to record it, remember?
+
+84
+00:05:31,333 --> 00:05:34,250
+I didn't say to stare
+at it 24 hours a day.
+
+85
+00:05:34,333 --> 00:05:35,958
+[door clicks]
+
+86
+00:05:36,041 --> 00:05:37,250
+[SIVA]
+"If you get the urge to kill,
+
+87
+00:05:37,333 --> 00:05:39,958
+just tide yourself
+over with that video."
+
+88
+00:05:40,041 --> 00:05:41,916
+How's that idea workin' out?
+
+89
+00:05:42,000 --> 00:05:43,708
+[CHEGARU sighs]
+
+90
+00:05:43,791 --> 00:05:45,625
+So who's this guy
+on your monitor?
+
+91
+00:05:45,708 --> 00:05:47,875
+[SIVA]
+Just some NEET I found.
+
+92
+00:05:47,958 --> 00:05:50,916
+Thought I'd inject a little
+spice into his boring life.
+
+93
+00:05:51,000 --> 00:05:52,791
+Well, that's enough
+fun and games for now.
+
+94
+00:05:52,875 --> 00:05:54,125
+It's time to get to work.
+
+95
+00:05:54,208 --> 00:05:56,750
+New target? What's their name?
+
+96
+00:05:56,833 --> 00:05:58,250
+[CHEGARU]
+Macro Hard.
+
+97
+00:05:58,333 --> 00:06:00,125
+Now that's a stupid name.
+
+98
+00:06:00,208 --> 00:06:03,625
+[CHEGARU] He apparently has
+some info on our organization.
+
+99
+00:06:03,708 --> 00:06:06,583
+I want you to find him.
+And once you have,
+
+100
+00:06:06,666 --> 00:06:09,166
+give him the usual treatment.
+
+101
+00:06:11,833 --> 00:06:15,916
+[JIRO] Ta-dah! Your costume
+for the play is all ready!
+
+102
+00:06:18,625 --> 00:06:21,875
+Aw, you look so adorable!
+
+103
+00:06:21,958 --> 00:06:23,250
+What's wrong?
+
+104
+00:06:23,333 --> 00:06:26,083
+The play. They ended
+up cancelling it.
+
+105
+00:06:26,166 --> 00:06:28,083
+Oh, no. Why'd they do that?
+
+106
+00:06:28,166 --> 00:06:30,458
+Giria's mom made
+a big fuss at school.
+
+107
+00:06:30,541 --> 00:06:31,875
+She was shouting
+that her daughter
+
+108
+00:06:31,958 --> 00:06:34,833
+should've been the princess.
+And they listened.
+
+109
+00:06:34,916 --> 00:06:36,041
+Oh, goodness.
+
+110
+00:06:36,125 --> 00:06:38,041
+And then, they tried
+changing the script
+
+111
+00:06:38,125 --> 00:06:40,541
+so that all the girls
+could be princesses.
+
+112
+00:06:40,625 --> 00:06:42,500
+So they made the
+prince a playboy.
+
+113
+00:06:42,583 --> 00:06:44,166
+And they were gonna
+have the play be about
+
+114
+00:06:44,250 --> 00:06:46,083
+all of the girls
+fighting over him.
+
+115
+00:06:46,166 --> 00:06:48,000
+Well that's not too progressive.
+
+116
+00:06:48,083 --> 00:06:51,583
+[MISAKI] Yeah, so the principal
+ended up just calling it off.
+
+117
+00:06:51,666 --> 00:06:54,625
+We're just gonna sing instead.
+
+118
+00:06:54,708 --> 00:06:58,125
+So, um. Sorry about that.
+
+119
+00:06:58,208 --> 00:07:00,000
+There's no need to be sorry.
+
+120
+00:07:00,083 --> 00:07:01,791
+Don't let it get to you.
+
+121
+00:07:03,291 --> 00:07:06,166
+But what on earth will
+I do with this wig?
+
+122
+00:07:06,250 --> 00:07:08,416
+[SAITO] Seriously, guys,
+I wasn't arrested!
+
+123
+00:07:08,500 --> 00:07:10,500
+I agreed to be questioned.
+
+124
+00:07:10,583 --> 00:07:11,583
+Okay.
+
+125
+00:07:11,666 --> 00:07:13,625
+But the cops did
+show up at your door.
+
+126
+00:07:13,708 --> 00:07:16,833
+So what kinda cybercrimes
+did you get into?
+
+127
+00:07:16,916 --> 00:07:19,083
+My computer was used to
+send out death threats,
+
+128
+00:07:19,166 --> 00:07:20,791
+bomb threats, and other stuff.
+
+129
+00:07:20,875 --> 00:07:23,458
+On just about every message
+board you can think of.
+
+130
+00:07:23,541 --> 00:07:26,083
+And when they opened
+it in front of me...
+
+131
+00:07:26,166 --> 00:07:28,458
+It was full of naked kid pics.
+
+132
+00:07:28,541 --> 00:07:30,583
+Might not wanna
+sit so close, guys.
+
+133
+00:07:30,666 --> 00:07:32,583
+He's a full-blown perv!
+
+134
+00:07:32,666 --> 00:07:34,458
+I'm telling you, it wasn't me!
+
+135
+00:07:34,541 --> 00:07:37,666
+There were a bunch of folders
+on it I'd never seen before!
+
+136
+00:07:37,750 --> 00:07:38,750
+Hold on.
+
+137
+00:07:38,833 --> 00:07:40,250
+You mean Saito almost
+took the fall
+
+138
+00:07:40,333 --> 00:07:42,625
+for another crime he
+had nothin' to do with?
+
+139
+00:07:42,708 --> 00:07:45,333
+Someone got him with
+a remote access virus.
+
+140
+00:07:45,416 --> 00:07:46,708
+It's not too difficult.
+
+141
+00:07:46,791 --> 00:07:49,291
+They probably delivered
+it thorugh an email.
+
+142
+00:07:49,375 --> 00:07:51,708
+The internet's a
+scary place, ain't it?
+
+143
+00:07:51,791 --> 00:07:54,333
+Guess you saved Saito's
+butt. Nice work.
+
+144
+00:07:54,416 --> 00:07:57,041
+He says you went and talked
+to the cops for him.
+
+145
+00:07:57,125 --> 00:07:59,541
+I have an acquaintance
+who was involved, so...
+
+146
+00:07:59,625 --> 00:08:01,208
+It was still good of you.
+
+147
+00:08:01,291 --> 00:08:03,541
+Here. Brought a little
+present for ya.
+
+148
+00:08:03,625 --> 00:08:04,958
+Seriously?
+
+149
+00:08:06,208 --> 00:08:07,541
+[ENOKIDA]
+What is this?
+
+150
+00:08:07,625 --> 00:08:10,416
+He figured you could use
+a spare, just in case.
+
+151
+00:08:10,500 --> 00:08:13,541
+Are you trying to imply
+that my hair isn't natural?
+
+152
+00:08:13,625 --> 00:08:17,500
+Misaki was in a play, so Jiro
+made it for her costume.
+
+153
+00:08:17,583 --> 00:08:20,083
+But she says it got cancelled.
+
+154
+00:08:20,166 --> 00:08:23,125
+Those two make a cute
+little family, don't they?
+
+155
+00:08:23,208 --> 00:08:25,000
+They're adorable.
+
+156
+00:08:25,083 --> 00:08:28,625
+[MARTÍNEZ] I take it you still
+haven't made up with yours?
+
+157
+00:08:28,708 --> 00:08:32,916
+I wouldn't know where to start.
+Thought you would realize that.
+
+158
+00:08:38,291 --> 00:08:40,583
+[BANBA]
+So, how can I help you?
+
+159
+00:08:40,666 --> 00:08:42,416
+I'd like you to help me
+find the young man
+
+160
+00:08:42,500 --> 00:08:44,083
+in this picture.
+
+161
+00:08:44,166 --> 00:08:47,666
+He is the only son of the
+family I'm in service of.
+
+162
+00:08:47,750 --> 00:08:49,250
+For reasons I can't disclose,
+
+163
+00:08:49,333 --> 00:08:51,791
+he went into hiding
+eight years ago.
+
+164
+00:08:51,875 --> 00:08:54,041
+Hold on. Isn't that...?
+
+165
+00:08:54,125 --> 00:08:56,458
+Yeah. I think it might be.
+
+166
+00:08:56,541 --> 00:08:58,958
+The eyes. The hair.
+
+167
+00:08:59,041 --> 00:09:00,583
+So are you tellin' me--
+
+168
+00:09:00,666 --> 00:09:02,041
+[door opens]
+
+169
+00:09:02,125 --> 00:09:05,083
+Oh. If you're busy,
+I can come back.
+
+170
+00:09:05,166 --> 00:09:05,875
+[gasps]
+
+171
+00:09:05,958 --> 00:09:07,208
+Young Master!
+
+172
+00:09:07,291 --> 00:09:09,083
+[BOTH]
+"Young Master"?
+
+173
+00:09:14,666 --> 00:09:15,958
+[YAGI]
+Pardon.
+
+174
+00:09:16,041 --> 00:09:17,000
+Uh--
+
+175
+00:09:18,458 --> 00:09:19,541
+Wait. What are you doing?
+
+176
+00:09:19,625 --> 00:09:21,541
+We're on the third floor!
+
+177
+00:09:23,708 --> 00:09:25,875
+[gasps]
+
+178
+00:09:25,958 --> 00:09:28,625
+It brings me great pleasure
+to see you again,
+
+179
+00:09:28,708 --> 00:09:30,000
+Young Master.
+
+180
+00:09:30,083 --> 00:09:31,250
+Yagi.
+
+181
+00:09:32,833 --> 00:09:34,541
+[yelps]
+
+182
+00:09:34,625 --> 00:09:36,916
+No use running from
+a former hitman.
+
+183
+00:09:37,000 --> 00:09:39,666
+I was a servant
+then as I am now.
+
+184
+00:09:39,750 --> 00:09:41,833
+Though my work does vary.
+
+185
+00:09:41,916 --> 00:09:44,125
+Okay, who are you?
+
+186
+00:09:44,208 --> 00:09:45,583
+My goodness.
+
+187
+00:09:45,666 --> 00:09:48,666
+I had no idea you two were
+friends of the young master.
+
+188
+00:09:48,750 --> 00:09:50,708
+Please allow me to
+offer you my gratitude
+
+189
+00:09:50,791 --> 00:09:52,666
+for looking after him.
+
+190
+00:09:52,750 --> 00:09:54,458
+Yeah, he's a good kid.
+
+191
+00:09:54,541 --> 00:09:56,250
+Don't get what's goin' on.
+
+192
+00:09:56,333 --> 00:09:58,750
+But I'm glad you're reunited.
+
+193
+00:09:58,833 --> 00:10:00,791
+So, it looks like our
+little mushroom head
+
+194
+00:10:00,875 --> 00:10:02,708
+is the heir of
+a rich family, huh?
+
+195
+00:10:02,791 --> 00:10:04,541
+[BANBA]
+Agh!
+
+196
+00:10:04,625 --> 00:10:05,916
+Crap, I forgot.
+
+197
+00:10:06,000 --> 00:10:07,625
+I was gonna give him the data.
+
+198
+00:10:07,708 --> 00:10:10,000
+It's the whole reason I asked
+him to come over here.
+
+199
+00:10:10,083 --> 00:10:11,333
+Data?
+
+200
+00:10:11,416 --> 00:10:13,708
+You know, the corpses
+the doc got sent.
+
+201
+00:10:13,791 --> 00:10:15,833
+I was gonna have Enokida
+run their prints.
+
+202
+00:10:15,916 --> 00:10:17,291
+[phone vibrates]
+
+203
+00:10:18,958 --> 00:10:21,291
+Oh, hey, it's the doc.
+
+204
+00:10:21,375 --> 00:10:22,666
+[gasps]
+
+205
+00:10:22,750 --> 00:10:24,083
+[LIN]
+What is it?
+
+206
+00:10:24,166 --> 00:10:27,041
+He just got sent another body.
+
+207
+00:10:27,125 --> 00:10:32,291
+--[BOXER 7A whimpering]
+--[IRASAWA cackling]
+
+208
+00:10:32,375 --> 00:10:33,791
+The job is finished.
+
+209
+00:10:33,875 --> 00:10:35,958
+You mean the Macro Hard guy?
+
+210
+00:10:36,041 --> 00:10:38,583
+[CHEGARU] Irasawa sent me
+a video of the kill.
+
+211
+00:10:38,666 --> 00:10:40,416
+Yet again.
+
+212
+00:10:40,500 --> 00:10:43,375
+[SIVA] You know how
+he likes to show off.
+
+213
+00:10:43,458 --> 00:10:46,791
+[CHEGARU]
+So, you find anything of note?
+
+214
+00:10:46,875 --> 00:10:49,000
+[SIVA]
+Yeah, I'd say I did.
+
+215
+00:10:49,083 --> 00:10:52,000
+Most of Macro Hard's data
+is blackmail material.
+
+216
+00:10:52,083 --> 00:10:54,250
+He'd crack into people's
+PCs, and demand cash
+
+217
+00:10:54,333 --> 00:10:57,333
+in exchange for
+keeping their secrets.
+
+218
+00:10:57,416 --> 00:11:00,125
+That's a lot of famous
+names we're looking at.
+
+219
+00:11:00,208 --> 00:11:03,708
+Politicians, professional
+athletes, movie stars...
+
+220
+00:11:03,791 --> 00:11:06,750
+But my favorite is this one.
+
+221
+00:11:06,833 --> 00:11:08,500
+[CHEGARU]
+Matsuda.
+
+222
+00:11:08,583 --> 00:11:10,416
+He's in the House of
+Representatives, right?
+
+223
+00:11:10,500 --> 00:11:14,000
+[SIVA] Mm-hm. And his dirt
+was really interesting.
+
+224
+00:11:14,083 --> 00:11:17,958
+See, his son once hacked the
+Metropolitan Police's database.
+
+225
+00:11:18,041 --> 00:11:20,458
+Got arrested for it, too.
+
+226
+00:11:20,541 --> 00:11:22,583
+Kid had a rare talent.
+
+227
+00:11:22,666 --> 00:11:24,916
+I'm assuming his
+dad covered it up?
+
+228
+00:11:25,000 --> 00:11:27,916
+Yeah, but that isn't
+the exciting part.
+
+229
+00:11:28,000 --> 00:11:30,041
+It's the son's MO.
+
+230
+00:11:30,125 --> 00:11:33,791
+It looks like Nameko's.
+Think we found him.
+
+231
+00:11:33,875 --> 00:11:36,416
+The hacker from the
+organization's black list?
+
+232
+00:11:36,500 --> 00:11:38,583
+Called "Black Leg Nameko."
+
+233
+00:11:38,666 --> 00:11:41,083
+Anyway, I've been trying
+to track down a guy
+
+234
+00:11:41,166 --> 00:11:43,041
+who was doing some
+digging on us.
+
+235
+00:11:43,125 --> 00:11:45,083
+And I noticed a few
+major similarities
+
+236
+00:11:45,166 --> 00:11:47,000
+in their hacking methods.
+
+237
+00:11:47,083 --> 00:11:48,500
+His was like Black Leg's.
+
+238
+00:11:48,583 --> 00:11:51,291
+[SIVA]
+Yep. So I kept tracking him...
+
+239
+00:11:51,375 --> 00:11:54,416
+...to this net café in Nakasu.
+
+240
+00:11:54,500 --> 00:11:55,708
+When all of a sudden,
+
+241
+00:11:55,791 --> 00:11:59,291
+I found him. It all checks out.
+
+242
+00:12:03,166 --> 00:12:04,958
+[SIVA]
+That's Black Leg.
+
+243
+00:12:09,166 --> 00:12:11,875
+[ENOKIDA] What brings you
+all the way out here?
+
+244
+00:12:11,958 --> 00:12:14,833
+This was put on the
+master's computer.
+
+245
+00:12:14,916 --> 00:12:18,083
+It would appear that
+he's been hacked.
+
+246
+00:12:18,166 --> 00:12:20,083
+So what, do you think I did it?
+
+247
+00:12:20,166 --> 00:12:21,333
+Surely, you jest.
+
+248
+00:12:21,416 --> 00:12:23,291
+I'm quite sure that
+someone of your ability
+
+249
+00:12:23,375 --> 00:12:25,333
+would have no need
+to stoop so low.
+
+250
+00:12:25,416 --> 00:12:26,458
+That's true.
+
+251
+00:12:26,541 --> 00:12:27,833
+[YAGI]
+Actually,
+
+252
+00:12:27,916 --> 00:12:29,708
+I have come here with
+the hopes of you lending me
+
+253
+00:12:29,791 --> 00:12:32,083
+your services in
+catching the culprit.
+
+254
+00:12:32,166 --> 00:12:35,125
+[ENOKIDA] Why would I
+do anything to help him?
+
+255
+00:12:35,208 --> 00:12:37,500
+[YAGI]
+You still resent him, I see.
+
+256
+00:12:37,583 --> 00:12:39,166
+Of course I do.
+
+257
+00:12:39,250 --> 00:12:43,416
+I was murdered, remember?
+By my own father.
+
+258
+00:12:45,458 --> 00:12:47,708
+[ENOKIDA]
+So... This is fun and all...
+
+259
+00:12:47,791 --> 00:12:49,416
+But what are we doing?
+
+260
+00:12:54,625 --> 00:12:56,750
+You brought me here to kill me?
+
+261
+00:12:56,833 --> 00:13:00,000
+That is what the master
+has ordered me to do.
+
+262
+00:13:00,083 --> 00:13:02,291
+Because I'm in the way, huh?
+
+263
+00:13:05,500 --> 00:13:08,166
+[gunshot]
+
+264
+00:13:14,041 --> 00:13:15,458
+[ENOKIDA]
+Yagi.
+
+265
+00:13:15,541 --> 00:13:17,541
+Please flee, Young Master.
+
+266
+00:13:19,791 --> 00:13:22,041
+[YAGI]
+This will get you to Fukuoka.
+
+267
+00:13:22,125 --> 00:13:24,416
+And I have
+acquaintances in Hakata.
+
+268
+00:13:24,500 --> 00:13:27,041
+If you find yourself
+in trouble, seek them.
+
+269
+00:13:27,125 --> 00:13:29,958
+I am certain that
+they will help you.
+
+270
+00:13:30,041 --> 00:13:34,583
+Please be well,
+Young Master. Now go.
+
+271
+00:13:35,791 --> 00:13:38,500
+If you say you forgot,
+you're a liar.
+
+272
+00:13:38,583 --> 00:13:42,416
+Eight years ago, you pointed
+a loaded gun at my head.
+
+273
+00:13:42,500 --> 00:13:43,666
+[YAGI]
+One could argue that you were
+
+274
+00:13:43,750 --> 00:13:45,416
+reaping what you'd sown.
+
+275
+00:13:45,500 --> 00:13:47,208
+You had been publicly
+committing crimes
+
+276
+00:13:47,291 --> 00:13:49,250
+in order to sully
+your father's name.
+
+277
+00:13:49,333 --> 00:13:51,458
+You put any kid through
+that kind of intense
+
+278
+00:13:51,541 --> 00:13:53,833
+"education" and they're
+bound to act out.
+
+279
+00:13:53,916 --> 00:13:56,166
+I'm sorry that I
+wasn't the exception.
+
+280
+00:13:56,250 --> 00:13:58,875
+The problem was in the way
+you chose to act out.
+
+281
+00:13:58,958 --> 00:14:00,791
+You hacked the
+metropolitan police,
+
+282
+00:14:00,875 --> 00:14:03,291
+and at a critical moment
+in your father's career.
+
+283
+00:14:03,375 --> 00:14:05,958
+Yeah, I timed it that
+way deliberately.
+
+284
+00:14:06,041 --> 00:14:08,125
+Bet it was expensive
+to cover up.
+
+285
+00:14:08,208 --> 00:14:12,375
+That scandal in the midst
+of an election campaign.
+
+286
+00:14:12,458 --> 00:14:13,708
+I won't do it.
+
+287
+00:14:13,791 --> 00:14:16,125
+This has nothing to do with me.
+
+288
+00:14:16,208 --> 00:14:18,666
+I heard him once. On the phone.
+
+289
+00:14:18,750 --> 00:14:21,916
+And I'll never forget what
+I heard him say about me.
+
+290
+00:14:22,000 --> 00:14:23,708
+He said "That boy is sick.
+
+291
+00:14:23,791 --> 00:14:26,375
+And there is no cure
+for what he has."
+
+292
+00:14:26,458 --> 00:14:31,291
+Young Master.
+Or no. "Enokida" now.
+
+293
+00:14:31,375 --> 00:14:34,333
+Please don't get the wrong
+impression about this.
+
+294
+00:14:34,416 --> 00:14:38,750
+I have come to you as a client,
+looking to hire you for a job.
+
+295
+00:14:40,250 --> 00:14:43,625
+If this is insufficient,
+I can double it.
+
+296
+00:14:44,958 --> 00:14:47,458
+If you've become a
+professional in this world,
+
+297
+00:14:47,541 --> 00:14:50,875
+you won't let personal
+matters disrupt business.
+
+298
+00:14:52,125 --> 00:14:53,333
+Okay.
+
+299
+00:14:53,416 --> 00:14:56,666
+I can prob'ly find your
+hacker by tomorrow.
+
+300
+00:14:56,750 --> 00:14:59,541
+Go enjoy the sights
+in the meantime.
+
+301
+00:15:01,208 --> 00:15:03,458
+[SIVA]
+You ever hear of Flammulina?
+
+302
+00:15:03,541 --> 00:15:06,916
+It's a data stealing virus
+that Black Leg came up with.
+
+303
+00:15:07,000 --> 00:15:09,500
+It waits for the mark to
+download a large file,
+
+304
+00:15:09,583 --> 00:15:10,666
+and tags along.
+
+305
+00:15:10,750 --> 00:15:12,541
+I think that rings a bell.
+
+306
+00:15:12,625 --> 00:15:13,916
+'Kay, well,
+
+307
+00:15:14,000 --> 00:15:16,416
+the virus that Representative
+Matsuda's son used?
+
+308
+00:15:16,500 --> 00:15:18,541
+It was basically
+the first version.
+
+309
+00:15:18,625 --> 00:15:20,750
+What happened to him after?
+
+310
+00:15:20,833 --> 00:15:23,416
+The records say that
+he died eight years ago.
+
+311
+00:15:23,500 --> 00:15:27,583
+Flipside. It wouldn't have
+taken much to disguise the kid.
+
+312
+00:15:27,666 --> 00:15:29,583
+So what if he ran
+to Hakata and took
+
+313
+00:15:29,666 --> 00:15:32,000
+the online name of
+"Black Leg Nameko"?
+
+314
+00:15:32,083 --> 00:15:35,583
+If you ask me, it's the
+most likely option.
+
+315
+00:15:39,291 --> 00:15:40,916
+[LIN]
+Kuroiwa Manabu.
+
+316
+00:15:41,000 --> 00:15:45,208
+Worked for the Chuo ward
+office down in 7-Chome.
+
+317
+00:15:45,291 --> 00:15:48,333
+No way was this guy homeless.
+He had a steady job.
+
+318
+00:15:48,416 --> 00:15:50,958
+And his personal effects
+were still on him.
+
+319
+00:15:51,041 --> 00:15:52,375
+Here's his phone.
+
+320
+00:15:52,458 --> 00:15:55,416
+Well, that rules out the chance
+that this was a mugging.
+
+321
+00:15:55,500 --> 00:15:57,791
+So what the hell was the motive?
+
+322
+00:15:57,875 --> 00:16:00,458
+His address isn't
+too far from here.
+
+323
+00:16:00,541 --> 00:16:03,333
+Maybe we can find a
+few answers in there.
+
+324
+00:16:07,291 --> 00:16:08,833
+It isn't locked.
+
+325
+00:16:12,708 --> 00:16:14,708
+[BANBA] Someone's already
+been through here.
+
+326
+00:16:14,791 --> 00:16:17,875
+[doorbell rings]
+
+327
+00:16:17,958 --> 00:16:20,250
+[doorbell rings]
+
+328
+00:16:21,833 --> 00:16:25,000
+Ah-- Mushroom?
+
+329
+00:16:25,083 --> 00:16:26,833
+[ENOKIDA]
+Kuroiwa Manabu.
+
+330
+00:16:26,916 --> 00:16:30,250
+He was a hacker who went
+by the name Macro Hard.
+
+331
+00:16:30,333 --> 00:16:33,000
+I was hired by someone
+to try and track him down.
+
+332
+00:16:33,083 --> 00:16:35,208
+[BANBA] Is that what the
+old guy we met wanted?
+
+333
+00:16:35,291 --> 00:16:38,333
+Mostly. But from the
+looks of the place,
+
+334
+00:16:38,416 --> 00:16:41,583
+his PC's been taken, along with
+anything else I could use.
+
+335
+00:16:41,666 --> 00:16:44,625
+Wait. Think his phone
+might be useful?
+
+336
+00:16:44,708 --> 00:16:46,708
+Couldn't tell you the
+passcode, but here.
+
+337
+00:16:46,791 --> 00:16:48,125
+That's not a problem.
+
+338
+00:16:48,208 --> 00:16:50,291
+If anything's in here,
+I'll find it.
+
+339
+00:16:50,375 --> 00:16:51,375
+That must be it.
+
+340
+00:16:51,458 --> 00:16:52,625
+[ENOKIDA]
+Hm?
+
+341
+00:16:52,708 --> 00:16:56,000
+[BANBA] I thought I felt
+something watching us.
+
+342
+00:16:56,083 --> 00:16:58,791
+Bet that plushie has a camera.
+
+343
+00:17:04,458 --> 00:17:06,250
+Ya know, I could
+grab it for you.
+
+344
+00:17:06,333 --> 00:17:08,250
+Seeing as I'm a bit
+taller and all.
+
+345
+00:17:08,333 --> 00:17:11,541
+Oh, please. I'm obviously
+taller than you.
+
+346
+00:17:11,625 --> 00:17:14,416
+Would you care to
+test that theory?
+
+347
+00:17:14,500 --> 00:17:16,166
+See? I'm way above you.
+
+348
+00:17:16,250 --> 00:17:18,291
+No! That's just because
+you're in heels!
+
+349
+00:17:18,375 --> 00:17:21,458
+Like you can talk with those
+clunky soles you've got.
+
+350
+00:17:21,541 --> 00:17:24,041
+[BANBA]
+Easy, girls, you're both pretty.
+
+351
+00:17:24,125 --> 00:17:25,083
+[LIN, ENOKIDA]
+Huh?
+
+352
+00:17:25,166 --> 00:17:28,375
+[typing]
+
+353
+00:17:28,458 --> 00:17:30,625
+[MACRO]
+Huh? Who the hell--?
+
+354
+00:17:30,708 --> 00:17:32,625
+[MACRO yelping]
+
+355
+00:17:32,708 --> 00:17:36,041
+[BANBA] Wonder who they are.
+Too bad they wore hats.
+
+356
+00:17:36,125 --> 00:17:38,916
+We might've been able
+to make out their faces.
+
+357
+00:17:39,000 --> 00:17:41,291
+[ENOKIDA]
+So they were after his PC.
+
+358
+00:17:41,375 --> 00:17:43,250
+If he had a hidden
+camera set up inside
+
+359
+00:17:43,333 --> 00:17:45,583
+his own apartment,
+then he must've known
+
+360
+00:17:45,666 --> 00:17:47,291
+someone was after him.
+
+361
+00:17:47,375 --> 00:17:48,916
+It seems pretty obvious
+that these guys
+
+362
+00:17:49,000 --> 00:17:50,708
+are all professional hitmen.
+
+363
+00:17:50,791 --> 00:17:53,208
+I'm betting they were hired by
+someone that he blackmailed.
+
+364
+00:17:53,291 --> 00:17:54,833
+So they grabbed the
+computer to keep
+
+365
+00:17:54,916 --> 00:17:57,250
+the client's secret private.
+
+366
+00:17:57,333 --> 00:17:58,958
+How does this connect though?
+
+367
+00:17:59,041 --> 00:18:01,000
+With the dead homeless guys.
+
+368
+00:18:01,083 --> 00:18:04,708
+No idea, but this wraps up
+my case quite nicely.
+
+369
+00:18:04,791 --> 00:18:08,291
+Then again, I can't
+shake this odd feeling.
+
+370
+00:18:08,375 --> 00:18:11,000
+[CHEGARU] Macro Hard
+has been taken care of.
+
+371
+00:18:11,083 --> 00:18:12,333
+[M3 HANDLER 7A]
+I see.
+
+372
+00:18:12,416 --> 00:18:14,416
+[CHEGARU]
+And we found out something else.
+
+373
+00:18:14,500 --> 00:18:17,708
+It would seem that
+Black Leg lives in Hakata.
+
+374
+00:18:17,791 --> 00:18:20,791
+[M3 HANDLER 7A]
+Black Leg? Are you certain?
+
+375
+00:18:20,875 --> 00:18:25,000
+It was indicated by the intel
+we obtained from Macro Hard.
+
+376
+00:18:25,083 --> 00:18:27,250
+What should we do?
+
+377
+00:18:27,333 --> 00:18:30,541
+Black Leg is a threat
+to us, no doubt about it.
+
+378
+00:18:30,625 --> 00:18:32,250
+Best to take care
+of him quickly,
+
+379
+00:18:32,333 --> 00:18:34,750
+before he gets wise.
+
+380
+00:18:41,291 --> 00:18:44,625
+[BOXER 7A whimpering]
+
+381
+00:18:44,708 --> 00:18:47,041
+[CHEGARU] I take it you
+dealt with the body?
+
+382
+00:18:47,125 --> 00:18:49,166
+Yeah. Had a pro do it.
+
+383
+00:18:49,250 --> 00:18:52,125
+[CHEGARU] All right, then.
+On to the next job.
+
+384
+00:18:52,208 --> 00:18:54,375
+We've been ordered to
+deal with Black Leg.
+
+385
+00:18:54,458 --> 00:18:56,375
+I hoped you'd say that.
+
+386
+00:18:57,875 --> 00:19:00,291
+Just make sure you're not
+too obvious about it.
+
+387
+00:19:00,375 --> 00:19:02,666
+If he notices us,
+we'll never find him.
+
+388
+00:19:02,750 --> 00:19:05,125
+Well, if it looks like he's
+trying to counter-hack us,
+
+389
+00:19:05,208 --> 00:19:08,666
+I can just stop him by screwing
+with the city's internet signal.
+
+390
+00:19:08,750 --> 00:19:10,791
+Wouldn't that take
+you down, too?
+
+391
+00:19:10,875 --> 00:19:13,541
+Being a puny hacker
+seems like a drag.
+
+392
+00:19:13,625 --> 00:19:17,458
+Without your computer,
+you're flat out helpless.
+
+393
+00:19:19,541 --> 00:19:23,458
+That's it. He actually
+makes a good point.
+
+394
+00:19:23,541 --> 00:19:27,083
+If we can keep him
+from using his PC...
+
+395
+00:19:27,166 --> 00:19:28,916
+[CYBERCOP 7A] I'm calling
+about the list you gave us
+
+396
+00:19:29,000 --> 00:19:30,250
+the other day.
+
+397
+00:19:30,333 --> 00:19:32,125
+You manage to decrypt it?
+
+398
+00:19:32,208 --> 00:19:34,791
+[CYBERCOP 7A]
+Yeah. I've sent you a copy.
+
+399
+00:19:36,166 --> 00:19:39,416
+It's a list of hackers
+from around the world.
+
+400
+00:19:39,500 --> 00:19:41,958
+I've learned what M3
+has been up to.
+
+401
+00:19:42,041 --> 00:19:45,416
+They're sending operatives
+to places around the globe
+
+402
+00:19:45,500 --> 00:19:48,625
+to take out hackers who might
+pose a threat to them.
+
+403
+00:19:48,708 --> 00:19:50,750
+Wait a second. Okay.
+
+404
+00:19:50,833 --> 00:19:53,666
+So if this company
+is murdering hackers,
+
+405
+00:19:53,750 --> 00:19:55,750
+then this list is...
+
+406
+00:19:55,833 --> 00:19:59,083
+[CYBERCOP 7A] Exactly.
+You're looking at a hit list.
+
+407
+00:19:59,166 --> 00:20:01,791
+I just spotted
+Macro Hard's name.
+
+408
+00:20:01,875 --> 00:20:03,333
+That confirms it.
+
+409
+00:20:03,416 --> 00:20:05,500
+[CYBERCOP 7A]
+Take a look at the third page.
+
+410
+00:20:09,208 --> 00:20:10,625
+[CYBERCOP 7A]
+Do you see it?
+
+411
+00:20:10,708 --> 00:20:13,208
+They're after you, too, Enokida.
+
+412
+00:20:18,041 --> 00:20:19,416
+You find anything?
+
+413
+00:20:19,500 --> 00:20:21,708
+[LIN]
+It wouldn't kill you to--
+
+414
+00:20:21,791 --> 00:20:22,458
+No way!
+
+415
+00:20:22,541 --> 00:20:23,458
+What is it?
+
+416
+00:20:23,541 --> 00:20:25,625
+[LIN]
+Look!
+
+417
+00:20:25,708 --> 00:20:29,708
+[BANBA] "Five million to whoever
+can bring us this man."
+
+418
+00:20:29,791 --> 00:20:31,250
+Is that all?
+
+419
+00:20:35,541 --> 00:20:36,541
+[gasps]
+
+420
+00:20:39,708 --> 00:20:42,083
+Five million for this punk?
+
+421
+00:20:42,166 --> 00:20:43,791
+Now, that's easy money.
+
+422
+00:20:43,875 --> 00:20:45,208
+Five million?
+
+423
+00:20:45,291 --> 00:20:48,250
+[yells]
+
+424
+00:20:48,333 --> 00:20:49,000
+Whoa!
+
+425
+00:20:49,083 --> 00:20:50,916
+[laughs]
+
+426
+00:20:53,625 --> 00:20:55,041
+Ow!
+
+427
+00:20:59,250 --> 00:21:00,791
+Ha!
+
+428
+00:21:08,125 --> 00:21:09,875
+[BANBA]
+You all right?
+
+429
+00:21:09,958 --> 00:21:11,750
+I'm glad I took that shortcut.
+
+430
+00:21:11,833 --> 00:21:12,958
+[ENOKIDA]
+Banba.
+
+431
+00:21:14,541 --> 00:21:15,916
+[BANBA]
+"M3"?
+
+432
+00:21:16,000 --> 00:21:18,541
+It's an anti-hacker
+hitman group.
+
+433
+00:21:18,625 --> 00:21:22,541
+I had a weird feeling that
+someone might be on my tail.
+
+434
+00:21:22,625 --> 00:21:23,750
+For now,
+
+435
+00:21:23,833 --> 00:21:25,875
+I need to take down
+this bounty they put up.
+
+436
+00:21:25,958 --> 00:21:27,166
+[gasps]
+
+437
+00:21:28,416 --> 00:21:29,250
+[BANBA]
+What's wrong?
+
+438
+00:21:29,333 --> 00:21:31,041
+[ENOKIDA]
+It was a trap.
+
+439
+00:21:31,125 --> 00:21:32,625
+[BANBA]
+Trap?
+
+440
+00:21:32,708 --> 00:21:34,875
+That URL had a virus in it.
+
+441
+00:21:34,958 --> 00:21:38,625
+For as long as I stay online,
+it'll broadcast my location.
+
+442
+00:21:38,708 --> 00:21:42,208
+It's precise enough for
+them to track you down?
+
+443
+00:21:42,291 --> 00:21:43,625
+Sounds like there's
+nothin' for it
+
+444
+00:21:43,708 --> 00:21:45,708
+but to disconnect then.
+
+445
+00:21:45,791 --> 00:21:48,000
+That's just what they're
+hoping I'll do.
+
+446
+00:21:48,083 --> 00:21:49,791
+If a hacker can't get online,
+
+447
+00:21:49,875 --> 00:21:52,625
+then he loses his only
+means of fighting.
+
+448
+00:21:58,583 --> 00:22:01,708
+Agh! Should've been
+a double play!
+
+449
+00:22:01,791 --> 00:22:03,541
+How did they screw it up?
+
+450
+00:22:03,625 --> 00:22:06,250
+The batter was
+obviously just bait.
+
+451
+00:22:06,333 --> 00:22:07,708
+If they'd thrown to
+second base first,
+
+452
+00:22:07,791 --> 00:22:10,791
+they'd've had two outs for sure.
+
+453
+00:22:10,875 --> 00:22:12,041
+[ENOKIDA]
+Bait?
+
+454
+00:22:13,291 --> 00:22:15,583
+[ENOKIDA] Thanks, Banba.
+I'm getting out here.
+
+455
+00:22:15,666 --> 00:22:17,083
+You think it's safe?
+
+456
+00:22:17,166 --> 00:22:19,625
+If I end up needing help,
+I'll give you a call.
+
+457
+00:22:19,708 --> 00:22:21,041
+See ya.
+
+458
+00:23:10,041 --> 00:23:11,250
+[ENOKIDA]
+Smooth sailing so far.
+
+459
+00:23:11,333 --> 00:23:12,583
+[SIVA]
+Everything's going smoothly.
+
+460
+00:23:12,666 --> 00:23:14,000
+[BANBA]
+I'm s'posed to meet someone.
+
+461
+00:23:14,083 --> 00:23:15,000
+[ENOKIDA]
+Time I got goin'.
+
+462
+00:23:15,083 --> 00:23:15,875
+[LIN]
+A virus?
+
+463
+00:23:15,958 --> 00:23:17,083
+[BANBA]
+If you play you pay.
+
+464
+00:23:17,166 --> 00:23:18,458
+[IRASAWA] Which one
+will he actually get on?
+
+465
+00:23:18,541 --> 00:23:19,500
+[ENOKIDA]
+Good luck, Saito.
+
+466
+00:23:19,583 --> 00:23:21,041
+You're diversion two.
+
