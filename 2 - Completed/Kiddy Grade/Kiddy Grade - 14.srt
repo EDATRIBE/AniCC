@@ -1,0 +1,1351 @@
+﻿1
+00:02:24,041 --> 00:02:25,041
+Status?
+
+2
+00:02:25,125 --> 00:02:26,916
+Everything is running
+smoothly, Chief.
+
+3
+00:02:27,000 --> 00:02:28,791
+The nanomachines
+in the atmosphere,
+
+4
+00:02:28,875 --> 00:02:31,750
+crust and magma are
+fully operational.
+
+5
+00:02:33,541 --> 00:02:35,166
+Coffee?
+
+6
+00:02:35,250 --> 00:02:37,166
+Oh, yeah.
+Thank you.
+
+7
+00:02:39,750 --> 00:02:40,958
+Looks like the
+energy supplies
+
+8
+00:02:41,041 --> 00:02:43,250
+to the islands
+are working fine.
+
+9
+00:02:43,333 --> 00:02:46,041
+Her atmosphere has already
+settled into the Earth model.
+
+10
+00:02:46,125 --> 00:02:47,791
+Now, if we can
+just maintain
+
+11
+00:02:47,875 --> 00:02:50,916
+the mantle plume's stability
+and sustain the plate,
+
+12
+00:02:51,000 --> 00:02:53,083
+seems as if our
+job here is done.
+
+13
+00:02:54,958 --> 00:02:56,250
+Thanks, Chief.
+
+14
+00:02:59,208 --> 00:03:01,250
+They say that in a
+hundred and thirty days..
+
+15
+00:03:01,333 --> 00:03:02,458
+They're expecting to
+have eighty percent
+
+16
+00:03:02,541 --> 00:03:04,458
+of the oceans'
+water filled in.
+
+17
+00:03:04,541 --> 00:03:06,791
+But, of course, it'll
+still be a few years
+
+18
+00:03:06,875 --> 00:03:10,625
+before plants can grow and she
+can sustain any human life.
+
+19
+00:03:10,708 --> 00:03:12,666
+That's true, but that's
+work for another team.
+
+20
+00:03:12,750 --> 00:03:14,791
+We'll be long
+gone by then.
+
+21
+00:03:14,875 --> 00:03:16,333
+I doubt we'll have any
+reason to come back here,
+
+22
+00:03:16,416 --> 00:03:19,125
+unless it's
+on vacation.
+
+23
+00:03:19,208 --> 00:03:20,791
+Heh, Sounds
+good to me.
+
+24
+00:03:20,875 --> 00:03:22,500
+We'll certainly
+have the time.
+
+25
+00:03:22,583 --> 00:03:25,041
+Once the new Atlas models
+are put into service,
+
+26
+00:03:25,125 --> 00:03:27,708
+it's going to make
+our jobs a lot easier.
+
+27
+00:03:47,208 --> 00:03:50,625
+Careful, Éclair. You're
+upsetting Donnersclag.
+
+28
+00:03:50,708 --> 00:03:53,000
+I'm not upsetting
+you am I, Donner?
+
+29
+00:03:55,958 --> 00:03:58,500
+But I sure wouldn't blame
+you if you were upset...
+
+30
+00:03:58,583 --> 00:04:01,166
+being on the run and having
+to fight your friends.
+
+31
+00:04:03,708 --> 00:04:05,166
+I guess things aren't
+really working out
+
+32
+00:04:05,250 --> 00:04:08,416
+like you thought
+they would, huh?
+
+33
+00:04:08,500 --> 00:04:11,708
+Does this mean you're
+having regrets?
+
+34
+00:04:13,916 --> 00:04:16,125
+Why should I have any
+regrets, Lumiere?
+
+35
+00:04:16,208 --> 00:04:18,416
+I mean, it's not like I
+did anything wrong here!
+
+36
+00:04:18,500 --> 00:04:19,583
+Well if that's
+the case,
+
+37
+00:04:19,666 --> 00:04:21,125
+then why do you keep
+beating yourself up
+
+38
+00:04:21,208 --> 00:04:22,791
+over something that
+isn't your fault?
+
+39
+00:04:22,875 --> 00:04:24,416
+Here, I have
+an idea,
+
+40
+00:04:24,500 --> 00:04:26,458
+why don't you help
+me repair La Muse?
+
+41
+00:04:26,541 --> 00:04:27,458
+That way we'll be
+ready to take off
+
+42
+00:04:27,541 --> 00:04:29,458
+if they find out
+where we are.
+
+43
+00:04:29,541 --> 00:04:31,416
+But we don't have
+any spare parts.
+
+44
+00:04:31,500 --> 00:04:32,916
+Actually, we
+have plenty...
+
+45
+00:04:33,000 --> 00:04:34,041
+It's just that
+at the moment,
+
+46
+00:04:34,125 --> 00:04:36,166
+they're scattered
+all over the planet.
+
+47
+00:04:36,583 --> 00:04:38,208
+You didn't think I brought
+us all the way out
+
+48
+00:04:38,291 --> 00:04:39,333
+to this
+frontier region
+
+49
+00:04:39,416 --> 00:04:42,416
+just for the
+seclusion, did you?
+
+50
+00:04:42,500 --> 00:04:43,250
+Right then...
+
+51
+00:04:43,333 --> 00:04:44,833
+Now let's
+get to work.
+
+52
+00:04:49,583 --> 00:04:51,208
+Thank you.
+
+53
+00:04:53,208 --> 00:04:55,375
+I don't think I ever
+could've made it this far...
+
+54
+00:04:55,458 --> 00:04:57,166
+not by myself, anyway.
+
+55
+00:04:57,250 --> 00:05:00,791
+You, Donner, and La Muse are
+all I have to keep me going.
+
+56
+00:05:03,458 --> 00:05:05,958
+This is no time to get
+sentimental, Éclair.
+
+57
+00:05:06,041 --> 00:05:07,291
+We have a
+job to do.
+
+58
+00:05:07,375 --> 00:05:09,500
+There's an unmanned island
+about to pass over us.
+
+59
+00:05:22,500 --> 00:05:25,458
+You're sure we're not gonna
+run into anyone up there?
+
+60
+00:05:25,541 --> 00:05:27,125
+[Lumiere] There should
+be a small team
+
+61
+00:05:27,208 --> 00:05:29,666
+aboard the Central
+Command Island...
+
+62
+00:05:29,750 --> 00:05:32,041
+But since the planet's
+surface is still forming...
+
+63
+00:05:32,125 --> 00:05:34,708
+We're the only ones who
+can survive out here.
+
+64
+00:05:53,833 --> 00:05:58,250
+See, there she is. Just like
+I told you. Let's do this.
+
+65
+00:05:58,333 --> 00:05:59,125
+Fine.
+
+66
+00:06:07,041 --> 00:06:08,958
+Does this really
+bother you so much?
+
+67
+00:06:09,041 --> 00:06:10,625
+Yes, of course
+it does.
+
+68
+00:06:10,708 --> 00:06:13,291
+What? Do you think I should
+be happy about this?
+
+69
+00:06:18,208 --> 00:06:22,458
+Sister, if it bothers you...
+Maybe you shouldn't do it.
+
+70
+00:06:22,541 --> 00:06:24,083
+How many times
+have I told you-
+
+71
+00:06:24,166 --> 00:06:26,791
+don't call me 'sister'
+when we're on assignment.
+
+72
+00:06:26,875 --> 00:06:28,916
+Especially not
+one like this.
+
+73
+00:06:33,250 --> 00:06:36,541
+Please forgive me for
+what I'm about to do.
+
+74
+00:06:36,625 --> 00:06:40,458
+Donnersclag...
+Wirbelwind...
+
+75
+00:06:58,541 --> 00:07:00,291
+[Lumiere] A terraforming
+operation like this
+
+76
+00:07:00,375 --> 00:07:01,833
+requires an
+enormous number of
+
+77
+00:07:01,916 --> 00:07:04,958
+nanomachines to affect
+change on a planetary scale.
+
+78
+00:07:05,041 --> 00:07:06,791
+These islands
+inject the nanomachines
+
+79
+00:07:06,875 --> 00:07:09,291
+into the environment,
+supply them with power,
+
+80
+00:07:09,375 --> 00:07:12,291
+and relay commands
+from Central Control.
+
+81
+00:07:12,375 --> 00:07:13,791
+Yeah?
+So what?
+
+82
+00:07:13,875 --> 00:07:15,750
+In order to get from
+one planet to the next,
+
+83
+00:07:15,833 --> 00:07:18,041
+the island itself
+functions as a spaceship.
+
+84
+00:07:18,125 --> 00:07:19,583
+Which means we should
+find a few parts
+
+85
+00:07:19,666 --> 00:07:21,333
+that we can
+use inside.
+
+86
+00:07:30,958 --> 00:07:33,708
+I think that should take care
+of La Muse for a while...
+
+87
+00:07:37,125 --> 00:07:38,625
+What? What's
+the matter?
+
+88
+00:07:38,708 --> 00:07:41,500
+A small craft approaching
+us at tremendous speed.
+
+89
+00:07:41,583 --> 00:07:46,916
+Determining model...no
+time! 3...2...1...!
+
+90
+00:07:50,375 --> 00:07:52,125
+Donnersclag?!
+
+91
+00:07:58,500 --> 00:07:59,583
+Donner?
+
+92
+00:08:14,458 --> 00:08:17,041
+What's wrong
+with him?
+
+93
+00:08:17,125 --> 00:08:19,166
+His AI must have
+been tampered with.
+
+94
+00:08:19,250 --> 00:08:20,583
+How can
+that be?
+
+95
+00:08:20,666 --> 00:08:23,125
+It's supposed to be impossible
+to hack into his system.
+
+96
+00:08:23,208 --> 00:08:24,791
+Wait a
+minute...
+
+97
+00:08:24,875 --> 00:08:26,958
+Who could possibly be
+capable of tampering with
+
+98
+00:08:27,041 --> 00:08:30,250
+Donnersclag's AI system
+from the outside?
+
+99
+00:08:32,708 --> 00:08:35,083
+It's
+Tweedledee!
+
+100
+00:08:44,541 --> 00:08:47,041
+Okay, ladies, I'll come
+right to the point...
+
+101
+00:08:47,125 --> 00:08:48,541
+By order of the GOTT,
+
+102
+00:08:48,625 --> 00:08:50,166
+your crafts have
+been reprogrammed...
+
+103
+00:08:50,250 --> 00:08:52,625
+They now have only one
+primary function...
+
+104
+00:08:52,708 --> 00:08:55,708
+...And that is to ensure the
+destruction of you both.
+
+105
+00:08:55,791 --> 00:08:57,458
+What're you
+talking about?!
+
+106
+00:09:01,250 --> 00:09:03,333
+No! Not
+Wirbelwind, too!
+
+107
+00:09:03,416 --> 00:09:05,458
+I'm sorry, but I
+have my orders...
+
+108
+00:09:05,541 --> 00:09:06,916
+Under normal
+circumstances,
+
+109
+00:09:07,000 --> 00:09:10,583
+these are not the methods I
+would have chosen to use.
+
+110
+00:09:10,666 --> 00:09:12,250
+La Muse's security
+will soon be down
+
+111
+00:09:12,333 --> 00:09:13,916
+and it's new
+program in control.
+
+112
+00:09:14,000 --> 00:09:16,083
+You have about
+five minutes left.
+
+113
+00:09:16,166 --> 00:09:17,250
+Use that time
+to decide
+
+114
+00:09:17,333 --> 00:09:20,083
+if you're going to
+die quietly or fight.
+
+115
+00:09:20,666 --> 00:09:22,125
+There's one
+more thing...
+
+116
+00:09:22,208 --> 00:09:23,375
+It may
+sound selfish
+
+117
+00:09:23,458 --> 00:09:25,750
+but I would like to ask
+for a personal favor.
+
+118
+00:09:25,833 --> 00:09:28,750
+Please do everything
+within your power
+
+119
+00:09:28,833 --> 00:09:31,375
+to spare
+these children.
+
+120
+00:09:31,458 --> 00:09:34,041
+Very well. Goodbye.
+And good luck.
+
+121
+00:09:45,541 --> 00:09:48,375
+Tweedledee... Do you think
+you handled that well?
+
+122
+00:09:48,458 --> 00:09:50,500
+I mean they can easily
+scan your memory
+
+123
+00:09:50,583 --> 00:09:52,333
+and play back
+what you said.
+
+124
+00:09:52,416 --> 00:09:54,333
+Get that thing
+out of my sight.
+
+125
+00:09:54,416 --> 00:09:56,916
+Tweeledum! I said
+get rid of it!
+
+126
+00:09:59,375 --> 00:10:01,708
+What could the
+GOTT be thinking?
+
+127
+00:10:01,791 --> 00:10:03,000
+It's bad enough
+that the Chief
+
+128
+00:10:03,083 --> 00:10:05,083
+is ordering friends
+to kill each other...
+
+129
+00:10:05,166 --> 00:10:07,291
+but to make me do
+something so awful...
+
+130
+00:10:07,375 --> 00:10:11,166
+so disgusting... They've
+gone too far this time.
+
+131
+00:10:11,250 --> 00:10:13,833
+This is the worst mission
+I've ever been on!
+
+132
+00:10:15,708 --> 00:10:17,458
+I don't get it. What
+kind of program is this
+
+133
+00:10:17,541 --> 00:10:19,875
+that has you
+so worked up?
+
+134
+00:10:19,958 --> 00:10:22,000
+The worst kind.
+
+135
+00:10:22,083 --> 00:10:25,833
+The special assassination
+program... Hashish.
+
+136
+00:10:40,500 --> 00:10:42,541
+[Éclair] Can't you
+control him?
+
+137
+00:10:42,625 --> 00:10:45,916
+[Lumiere] No... Not with
+his nanomist shield up.
+
+138
+00:10:46,000 --> 00:10:48,208
+Even under normal conditions
+it would take me hours
+
+139
+00:10:48,291 --> 00:10:50,291
+to hack into
+his system.
+
+140
+00:10:50,375 --> 00:10:53,333
+I certainly couldn't
+do it in five minutes.
+
+141
+00:10:53,666 --> 00:10:56,625
+It's not like Donnersclag
+to keep missing like this...
+
+142
+00:10:56,708 --> 00:10:59,000
+especially at
+such close range.
+
+143
+00:10:59,083 --> 00:11:00,333
+What are
+you saying?
+
+144
+00:11:04,125 --> 00:11:06,166
+This will buy
+us some time!
+
+145
+00:11:13,416 --> 00:11:16,166
+It seems to me... his
+actions are forced.
+
+146
+00:11:16,250 --> 00:11:19,458
+I don't think the program has
+complete control over him...
+
+147
+00:11:19,541 --> 00:11:21,583
+at least
+not yet.
+
+148
+00:11:21,666 --> 00:11:23,125
+So there's
+some hope.
+
+149
+00:11:23,208 --> 00:11:25,791
+Do you think you might be
+able to get through to them?
+
+150
+00:11:25,875 --> 00:11:27,708
+I might, but it
+won't be easy.
+
+151
+00:11:27,791 --> 00:11:29,291
+And besides, I would
+hate to have to
+
+152
+00:11:29,375 --> 00:11:31,583
+subject them to
+my usual methods.
+
+153
+00:11:35,625 --> 00:11:38,541
+Oh, this is hopeless!
+We have to destroy them.
+
+154
+00:11:38,625 --> 00:11:41,958
+It's either that or
+let them kill us!
+
+155
+00:11:42,041 --> 00:11:44,500
+Well I say...
+Neither!
+
+156
+00:11:44,583 --> 00:11:46,666
+No! Éclair, wait!
+
+157
+00:11:46,750 --> 00:11:48,125
+Go!
+
+158
+00:11:50,041 --> 00:11:52,208
+I'll hold off
+Donnersclag somehow.
+
+159
+00:11:52,291 --> 00:11:54,208
+You go take
+care of La Muse!
+
+160
+00:11:57,625 --> 00:12:00,583
+If I can just make it to
+the emergency control room,
+
+161
+00:12:00,666 --> 00:12:02,458
+I may be able to
+utilize the nanomists
+
+162
+00:12:02,541 --> 00:12:04,583
+in the environment
+to our advantage.
+
+163
+00:12:08,958 --> 00:12:11,666
+You'd be easy enough for
+me to destroy, my friend..
+
+164
+00:12:11,750 --> 00:12:14,875
+But don't worry... I'll
+find a way to save you.
+
+165
+00:12:19,291 --> 00:12:22,000
+Come on then... I'm
+ready, Donnersclag.
+
+166
+00:12:40,666 --> 00:12:42,250
+Hey, Chief! You wanna
+take a look at this?
+
+167
+00:12:42,333 --> 00:12:43,750
+A high concentration
+of nanomist
+
+168
+00:12:43,833 --> 00:12:45,125
+has created a
+tropical cyclone
+
+169
+00:12:45,208 --> 00:12:46,500
+on the other side
+of the planet!
+
+170
+00:12:46,583 --> 00:12:47,625
+Impossible!
+
+171
+00:12:47,708 --> 00:12:49,166
+Wait a second. This
+can't be right!
+
+172
+00:12:49,250 --> 00:12:51,333
+There also seems to be
+a massive energy drain
+
+173
+00:12:51,416 --> 00:12:53,208
+in the airspace
+over that region!
+
+174
+00:12:53,291 --> 00:12:55,208
+Readings from Islands
+Alpha through Gamma
+
+175
+00:12:55,291 --> 00:12:58,125
+show all energy plants
+operating at full capacity!
+
+176
+00:12:58,208 --> 00:13:01,458
+I need an immediate analysis!
+Find out what's happening!
+
+177
+00:13:01,541 --> 00:13:03,458
+The storm is centered
+on Island Theta.
+
+178
+00:13:03,541 --> 00:13:05,875
+I'm measuring a
+40-kilometer radius!
+
+179
+00:13:06,708 --> 00:13:09,958
+[Lumiere] Okay, I've gained
+control of the nanomists.
+
+180
+00:13:10,041 --> 00:13:14,000
+I should be able to create
+a protective barrier.
+
+181
+00:13:14,083 --> 00:13:15,875
+Don't worry,
+Wirbelwind...
+
+182
+00:13:15,958 --> 00:13:19,500
+I'll get you back to
+normal... somehow.
+
+183
+00:13:27,041 --> 00:13:29,208
+Just
+in time.
+
+184
+00:13:42,291 --> 00:13:44,041
+I should have known it would
+take a lot more than that
+
+185
+00:13:44,125 --> 00:13:45,625
+to stop you,
+Wirbelwind!
+
+186
+00:13:49,541 --> 00:13:51,458
+I've got to do
+this just right,
+
+187
+00:13:51,541 --> 00:13:54,541
+or the La Muse
+will be vaporized.
+
+188
+00:13:55,041 --> 00:13:57,458
+It's spreading! Nanomists
+all over the planet
+
+189
+00:13:57,541 --> 00:13:58,500
+are behaving
+erratically!
+
+190
+00:13:58,583 --> 00:13:59,833
+I don't
+believe it!
+
+191
+00:13:59,916 --> 00:14:01,625
+The nanomists in the
+stratosphere are condensing!
+
+192
+00:14:01,708 --> 00:14:03,125
+It's acting as
+a giant lens!
+
+193
+00:14:03,208 --> 00:14:04,583
+The chlorophoric value
+is off the charts!
+
+194
+00:14:04,666 --> 00:14:07,375
+There's just no
+precedent for this...
+
+195
+00:14:07,458 --> 00:14:10,125
+What in the world is
+going on out there?
+
+196
+00:14:25,500 --> 00:14:28,166
+Well, this will be
+trickier if I can't see you.
+
+197
+00:14:33,250 --> 00:14:35,625
+I doubt that move's going
+to work a second time...
+
+198
+00:14:35,708 --> 00:14:38,166
+My girl is as crafty
+as she is cautious.
+
+199
+00:14:38,250 --> 00:14:41,291
+I wonder where she
+gets that from?
+
+200
+00:14:41,375 --> 00:14:43,833
+This must be so
+hard for her!
+
+201
+00:14:54,250 --> 00:14:59,291
+My goodness... You're...
+a tough boy aren't you...?
+
+202
+00:14:59,375 --> 00:15:01,708
+I guess I can't go
+easy on you anymore.
+
+203
+00:15:07,500 --> 00:15:10,458
+Sorry... Donner!
+
+204
+00:15:20,583 --> 00:15:22,166
+Don't worry I'll put
+you back together
+
+205
+00:15:22,250 --> 00:15:24,083
+better than
+new... I promise!
+
+206
+00:15:24,166 --> 00:15:25,833
+Forgive me...
+
+207
+00:15:35,708 --> 00:15:38,458
+She's redirecting energy
+to her flex phasers.
+
+208
+00:15:38,541 --> 00:15:41,416
+Oh no! She going for
+a point-blank attack!
+
+209
+00:15:41,500 --> 00:15:44,666
+Stop it!
+Wirbelwind! No!
+
+210
+00:15:59,458 --> 00:16:03,375
+Please...stop
+it...Donner...
+
+211
+00:16:28,000 --> 00:16:31,000
+Oh no...! Please
+don't shoot!
+
+212
+00:16:38,916 --> 00:16:41,916
+She's getting more
+aggressive with each attack.
+
+213
+00:16:42,000 --> 00:16:44,166
+The program must be
+gaining control...
+
+214
+00:16:44,250 --> 00:16:46,208
+What am I
+going to I do?
+
+215
+00:16:56,125 --> 00:16:59,750
+Magma concentration readings
+below Theta are off the scale!
+
+216
+00:16:59,833 --> 00:17:01,458
+And the viscosity
+is dropping.
+
+217
+00:17:01,541 --> 00:17:04,291
+I'm reading a massive
+build-up of Lorentz forces...
+
+218
+00:17:04,375 --> 00:17:07,458
+Pressure levels are
+approaching critical mark!
+
+219
+00:17:07,541 --> 00:17:09,458
+Is there anything
+we can do?
+
+220
+00:17:09,541 --> 00:17:10,750
+Cheif, I hate
+to say this,
+
+221
+00:17:10,833 --> 00:17:13,208
+but it's been out of our
+hands for some time now!
+
+222
+00:17:13,291 --> 00:17:15,625
+Some outside force has taken
+control of the region.
+
+223
+00:17:15,708 --> 00:17:17,958
+At this rate, it's going to
+break through the crust!
+
+224
+00:17:43,041 --> 00:17:45,083
+It's over now.
+
+225
+00:17:54,666 --> 00:17:56,666
+I gotcha.
+
+226
+00:17:58,041 --> 00:17:59,875
+Donner...?
+
+227
+00:18:17,500 --> 00:18:19,666
+Donner... No...
+
+228
+00:18:24,875 --> 00:18:25,958
+Activate!
+
+229
+00:18:33,416 --> 00:18:36,000
+Now initiate
+cooling systems!
+
+230
+00:18:41,833 --> 00:18:44,791
+Good. Her shield is down...
+and she's immobilized.
+
+231
+00:18:47,000 --> 00:18:49,875
+I need to hurry and rewrite
+the program while I still can.
+
+232
+00:18:57,208 --> 00:19:00,000
+Donnersclag activated
+his self-destruct mechanism.
+
+233
+00:19:00,083 --> 00:19:03,125
+Do you think it
+was... Hashish?
+
+234
+00:19:03,208 --> 00:19:05,458
+Hashish...
+what's that?
+
+235
+00:19:05,541 --> 00:19:06,833
+Originally,
+it was a drug
+
+236
+00:19:06,916 --> 00:19:09,416
+given to numb the
+emotions of assassins.
+
+237
+00:19:09,500 --> 00:19:11,125
+It created the
+perfect killer.
+
+238
+00:19:11,208 --> 00:19:14,458
+One who fears nothing.
+Not even his own death.
+
+239
+00:19:14,541 --> 00:19:16,333
+Now, it's a
+viral program
+
+240
+00:19:16,416 --> 00:19:18,666
+created to mimic
+those same effects...
+
+241
+00:19:18,750 --> 00:19:19,791
+A machine's
+primary function
+
+242
+00:19:19,875 --> 00:19:21,916
+under the virus'
+influence is to kill.
+
+243
+00:19:22,000 --> 00:19:23,750
+It will stop at nothing
+for that objective,
+
+244
+00:19:23,833 --> 00:19:27,250
+even if it destroys
+itself in the process.
+
+245
+00:19:27,333 --> 00:19:30,875
+Oh no! That means
+Wirbelwind too...!
+
+246
+00:19:31,250 --> 00:19:34,916
+She's activated
+her inertial drive!
+
+247
+00:19:35,000 --> 00:19:38,000
+It's no use...!
+I can't stop her!
+
+248
+00:19:44,208 --> 00:19:47,041
+Please, Wirbelwind!
+Don't do this!
+
+249
+00:19:52,875 --> 00:19:55,666
+Stop it,
+Wirbelwind! Stop!!
+
+250
+00:19:58,250 --> 00:19:59,500
+No!!
+
+251
+00:20:13,750 --> 00:20:18,750
+Wha...? Hey, what...? It all
+just went back to normal!
+
+252
+00:20:18,833 --> 00:20:20,583
+What just
+happened?
+
+253
+00:20:26,541 --> 00:20:29,541
+[Lumiere] Even if they had been
+successful in killing us...
+
+254
+00:20:29,625 --> 00:20:31,625
+they were programmed
+to self-destruct
+
+255
+00:20:31,708 --> 00:20:32,916
+after their
+mission.
+
+256
+00:20:34,083 --> 00:20:35,833
+Wirbelwind and
+Donnersclag knew this
+
+257
+00:20:35,916 --> 00:20:38,958
+and spared us by
+destroying themselves
+
+258
+00:20:39,041 --> 00:20:40,916
+before they lost
+complete control.
+
+259
+00:20:41,000 --> 00:20:42,500
+In their
+final moments,
+
+260
+00:20:42,583 --> 00:20:45,541
+they were doing everything in
+their power to save our lives.
+
+261
+00:20:48,083 --> 00:20:50,958
+I get it... So they were
+considered disposable
+
+262
+00:20:51,041 --> 00:20:53,583
+right from
+the start.
+
+263
+00:20:58,291 --> 00:21:01,041
+So this is...
+
+264
+00:21:01,125 --> 00:21:03,291
+...This is how
+the GOTT works?!
+
+265
+00:21:10,291 --> 00:21:13,500
+Donnersclag...
+
+266
+00:21:13,583 --> 00:21:17,166
+No more... This time
+they've gone too far.
+
+267
+00:21:22,083 --> 00:21:26,500
+I'm going to put an end to
+this... One way or another.
+
+268
+00:21:26,583 --> 00:21:29,041
+I won't let
+you stop me.
+
+269
+00:21:29,125 --> 00:21:31,000
+Well, then I'm
+going with you.
+
+270
+00:21:32,875 --> 00:21:34,666
+What did you
+expect me to say?
+
+271
+00:21:34,750 --> 00:21:38,208
+If there's a time for
+elegance... this isn't it.
+
+272
+00:23:25,208 --> 00:23:29,625
+Complete destruction. All that
+was once held dear is gone.
+
+273
+00:23:29,708 --> 00:23:31,833
+But after everything's
+been taken away,
+
+274
+00:23:31,916 --> 00:23:34,000
+there's nothing
+left to lose.
+
+275
+00:23:34,083 --> 00:23:38,416
+Next time on Kiddy
+Grade: "Break/Down".
+

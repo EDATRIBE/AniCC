@@ -1,0 +1,1651 @@
+﻿1
+00:01:50,833 --> 00:01:52,791
+[Council B]
+The Deucalion!
+
+2
+00:01:52,875 --> 00:01:55,041
+[Crewman A] The Deucalion's
+systems are powering up!
+
+3
+00:01:55,125 --> 00:01:57,208
+[Captain A] What?!
+Emergency shutdown!
+
+4
+00:01:57,291 --> 00:01:58,416
+[Crewman A]
+No response!
+
+5
+00:01:58,500 --> 00:01:59,875
+[Captain A] Stop
+it! At all costs!
+
+6
+00:01:59,958 --> 00:02:01,875
+[Crewman A] The ship's
+N-Layers are activating!
+
+7
+00:02:01,958 --> 00:02:02,916
+[Captain A] Damn!
+
+8
+00:02:09,750 --> 00:02:11,250
+[Crewman A] It- It's
+starting to move!
+
+9
+00:02:11,333 --> 00:02:13,625
+[Captain A] All hands!
+Get clear at once!
+
+10
+00:02:18,125 --> 00:02:21,708
+So, d'Autriche...
+it's you...
+
+11
+00:02:21,791 --> 00:02:26,041
+All of our hopes...
+All of our plans...
+
+12
+00:02:26,125 --> 00:02:27,500
+He's going to
+ruin them all!
+
+13
+00:02:27,583 --> 00:02:29,208
+Issue a
+priority alert!
+
+14
+00:02:29,291 --> 00:02:32,208
+Order all ships in the vicinity
+to converge on the target!
+
+15
+00:02:32,291 --> 00:02:33,750
+Secure the
+Deucalion!
+
+16
+00:02:48,916 --> 00:02:50,291
+The
+Deucalion!?
+
+17
+00:02:58,083 --> 00:02:59,125
+Sister...
+
+18
+00:02:59,208 --> 00:03:00,666
+How could this
+happen...?
+
+19
+00:03:00,750 --> 00:03:02,833
+Tactical, I want
+a 4-D Auto-Lock.
+
+20
+00:03:02,916 --> 00:03:05,208
+All turrets, prepare
+to fire on my mark.
+
+21
+00:03:05,291 --> 00:03:06,708
+Targeting
+failure!
+
+22
+00:03:06,791 --> 00:03:08,208
+It's a gravitational
+anomaly, sir!
+
+23
+00:03:08,291 --> 00:03:10,000
+It's interfering
+with our systems!
+
+24
+00:03:10,083 --> 00:03:12,333
+Sir... The Deucalion...
+It's preparing to warp!
+
+25
+00:03:12,416 --> 00:03:13,500
+Stop it!
+
+26
+00:03:17,375 --> 00:03:18,791
+Hurry! Run a
+warp trace!
+
+27
+00:03:18,875 --> 00:03:22,583
+Right. Initiating scan...
+There's too much interference!
+
+28
+00:03:56,000 --> 00:03:59,125
+There it is. Hardly a
+moment's journey in this ship.
+
+29
+00:04:03,458 --> 00:04:04,916
+Aineias...
+
+30
+00:04:12,500 --> 00:04:14,041
+The Deucalion
+is here.
+
+31
+00:04:32,291 --> 00:04:34,166
+What are you doing? You're
+in no shape for this!
+
+32
+00:04:34,250 --> 00:04:37,583
+I'm still your partner!
+I can't let you go alone!
+
+33
+00:04:40,333 --> 00:04:41,291
+Wait!
+
+34
+00:05:04,500 --> 00:05:06,125
+Stubborn girl...
+
+35
+00:05:27,500 --> 00:05:30,166
+[Crewman C] The target craft
+is beginning to transform!
+
+36
+00:05:30,250 --> 00:05:31,458
+[Captain B]
+Impossible!
+
+37
+00:05:31,541 --> 00:05:32,958
+Something that massive
+shouldn't be able to-
+
+38
+00:05:33,041 --> 00:05:35,583
+Sir! I'm reading a large output
+of terraforming nanomists!
+
+39
+00:05:35,666 --> 00:05:37,208
+They're inside
+the Roche Limit!
+
+40
+00:05:45,250 --> 00:05:47,958
+Truly... This
+is Atlas.
+
+41
+00:05:48,041 --> 00:05:50,916
+The titan that holds the
+world in his hands...
+
+42
+00:06:05,000 --> 00:06:06,208
+I'm scared, Mom...
+
+43
+00:06:06,291 --> 00:06:09,416
+It's all right...
+It'll be all right...
+
+44
+00:06:09,500 --> 00:06:11,791
+At present, wide fluctuations
+in barometric pressure
+
+45
+00:06:11,875 --> 00:06:14,041
+are being experienced
+all over the planet.
+
+46
+00:06:14,125 --> 00:06:16,833
+Tsunami warnings have been
+issued for all coastal regions,
+
+47
+00:06:16,916 --> 00:06:17,916
+and violent shifts
+in weather patterns
+
+48
+00:06:18,000 --> 00:06:19,791
+are expected
+to continue.
+
+49
+00:06:19,875 --> 00:06:21,833
+All citizens are
+urged to seek shelter,
+
+50
+00:06:21,916 --> 00:06:23,875
+until normal communications
+and transportation routes
+
+51
+00:06:23,958 --> 00:06:25,125
+can be
+restored...
+
+52
+00:06:25,208 --> 00:06:27,208
+Once again, this is a
+special news bulletin...
+
+53
+00:06:45,708 --> 00:06:47,333
+First wave,
+intercept!
+
+54
+00:06:47,416 --> 00:06:49,375
+Prepare to clear the
+8th Fleet for launch!
+
+55
+00:06:49,458 --> 00:06:50,875
+Conditions won't
+allow it, sir!
+
+56
+00:06:50,958 --> 00:06:53,375
+I'm picking up a new
+reading on sensors!
+
+57
+00:06:55,000 --> 00:06:57,583
+A G.O.T.T.
+High-Speed Cruiser!
+
+58
+00:06:57,666 --> 00:07:01,291
+Nearing escape velocity...
+Acceleration L-3...
+
+59
+00:07:06,458 --> 00:07:08,708
+Initiate an emergency
+command override...
+
+60
+00:07:08,791 --> 00:07:11,458
+Route all planetary management
+control to my station.
+
+61
+00:07:11,541 --> 00:07:14,375
+For the entire system?
+Are things really that bad?
+
+62
+00:07:14,458 --> 00:07:16,708
+What happened to
+repeating my orders?
+
+63
+00:07:16,791 --> 00:07:17,708
+Sorry, Chief.
+
+64
+00:07:17,791 --> 00:07:19,041
+Initiating
+command override,
+
+65
+00:07:19,125 --> 00:07:21,958
+and rerouting all planetary
+management systems.
+
+66
+00:07:34,250 --> 00:07:36,916
+So that's it.
+The Deucalion.
+
+67
+00:07:37,000 --> 00:07:42,833
+Yes... That's our target. The
+ship... And the man inside.
+
+68
+00:07:46,750 --> 00:07:50,250
+Éclair... So, you've
+come, after all.
+
+69
+00:07:51,375 --> 00:07:52,875
+The Chief of the
+G.O.T.T. has just issued
+
+70
+00:07:52,958 --> 00:07:54,833
+a formal declaration
+of emergency
+
+71
+00:07:54,916 --> 00:07:56,416
+and is raising the
+planetary shield
+
+72
+00:07:56,500 --> 00:07:58,500
+over all regions
+of Aineias.
+
+73
+00:07:58,583 --> 00:08:00,625
+Current weather
+conditions shou-
+
+74
+00:08:00,708 --> 00:08:01,916
+Current weather
+conditions should
+
+75
+00:08:02,000 --> 00:08:04,208
+begin to stabilize,
+however...
+
+76
+00:08:04,291 --> 00:08:06,375
+...all citizens are
+requested to remain where-
+
+77
+00:08:06,458 --> 00:08:09,041
+...indicates that all regions
+of Aineias have been affected
+
+78
+00:08:09,125 --> 00:08:11,375
+by this wave of
+environmental disaster...
+
+79
+00:08:11,458 --> 00:08:13,375
+This global crisis follows
+the sudden appearance
+
+80
+00:08:13,458 --> 00:08:15,041
+of the spaceship
+Deucalion,
+
+81
+00:08:15,125 --> 00:08:17,458
+and is the result of the
+massive gravity disturbance
+
+82
+00:08:17,541 --> 00:08:20,083
+created by its close
+proximity to the planet.
+
+83
+00:08:20,166 --> 00:08:22,625
+The Atlas-class intergalactic
+spaceship Deucalion
+
+84
+00:08:22,708 --> 00:08:23,916
+is the first
+of its kind,
+
+85
+00:08:24,000 --> 00:08:25,208
+and the largest
+vessel ever created
+
+86
+00:08:25,291 --> 00:08:26,958
+in the history of
+the human race...
+
+87
+00:08:27,041 --> 00:08:29,000
+The completion of this
+technological marvel
+
+88
+00:08:29,083 --> 00:08:30,375
+was expected
+to usher in
+
+89
+00:08:30,458 --> 00:08:33,500
+a new era of exploration and
+planetary development...
+
+90
+00:08:33,583 --> 00:08:36,125
+However, one day before
+its scheduled launch...
+
+91
+00:08:36,208 --> 00:08:39,000
+the ship was stolen
+by an as yet unknown-
+
+92
+00:08:39,083 --> 00:08:41,750
+Wait, we're receiving
+some new data...
+
+93
+00:08:41,833 --> 00:08:43,250
+It's breaking
+through?!
+
+94
+00:08:55,625 --> 00:08:59,125
+Chevalier... I
+don't understand.
+
+95
+00:08:59,208 --> 00:09:01,333
+Why are you
+doing this?
+
+96
+00:09:07,958 --> 00:09:11,916
+The defense system. It's locked
+onto us, but it isn't firing!
+
+97
+00:09:12,000 --> 00:09:13,333
+Chevalier!
+
+98
+00:09:17,166 --> 00:09:19,375
+So sorry to barge
+in like this.
+
+99
+00:09:19,458 --> 00:09:22,000
+But there didn't seem to
+be much point in knocking.
+
+100
+00:09:22,625 --> 00:09:24,125
+You two
+again...
+
+101
+00:09:27,375 --> 00:09:28,708
+And after all
+the care I took
+
+102
+00:09:28,791 --> 00:09:32,958
+to stay one step ahead of
+you... Most impressive.
+
+103
+00:09:36,375 --> 00:09:38,500
+[Alv] Thanks for warming
+up the engines for me.
+
+104
+00:09:38,583 --> 00:09:40,166
+You really
+shouldn't have...
+
+105
+00:09:42,833 --> 00:09:43,958
+No, Alv.
+
+106
+00:09:45,541 --> 00:09:47,583
+It's an uncharacteristically
+efficient move by the Council,
+
+107
+00:09:47,666 --> 00:09:49,125
+sending you here
+so quickly...
+
+108
+00:09:49,833 --> 00:09:53,458
+They didn't send me. I told
+you, I work for myself.
+
+109
+00:09:53,541 --> 00:09:56,333
+Another betrayal.
+And all this time...
+
+110
+00:09:56,416 --> 00:10:00,416
+I thought "Absorb" was your
+only ability. Silly me.
+
+111
+00:10:01,708 --> 00:10:04,666
+Stop Alv! We've got
+what we came here for.
+
+112
+00:10:04,750 --> 00:10:08,041
+I see no reason for any
+more senseless killing...
+
+113
+00:10:08,125 --> 00:10:10,041
+You think you can
+order me around?!
+
+114
+00:10:10,125 --> 00:10:11,250
+No, I-
+
+115
+00:10:12,125 --> 00:10:13,625
+I'm sorry...
+
+116
+00:10:19,000 --> 00:10:20,708
+Why, Alv...?
+
+117
+00:10:20,791 --> 00:10:23,250
+It's not what we came for,
+it's what I came for.
+
+118
+00:10:23,333 --> 00:10:25,625
+And I see no reason to
+share it with anyone.
+
+119
+00:10:25,708 --> 00:10:28,416
+Not even your
+own mother?!
+
+120
+00:10:28,500 --> 00:10:30,750
+No...
+don't...
+
+121
+00:10:30,833 --> 00:10:32,708
+You mean
+you knew?
+
+122
+00:10:32,791 --> 00:10:34,833
+I- I
+knew...?!
+
+123
+00:10:36,291 --> 00:10:37,291
+You've known
+all along!
+
+124
+00:10:37,375 --> 00:10:39,875
+And you still shot
+her in cold blood!
+
+125
+00:10:39,958 --> 00:10:41,791
+Oh, shut up.
+
+126
+00:10:56,625 --> 00:10:57,750
+A shield...?
+
+127
+00:11:01,958 --> 00:11:05,208
+Nothing like a little appetizer
+before the main course...
+
+128
+00:11:08,041 --> 00:11:11,500
+I'm sure you'd swallow us all
+if you could. Parasite...
+
+129
+00:11:11,583 --> 00:11:13,250
+I won't give
+you that chance.
+
+130
+00:11:19,458 --> 00:11:22,708
+Wh- what's this?
+A gravity well?
+
+131
+00:11:30,833 --> 00:11:32,916
+Wh- Where am I?
+
+132
+00:11:37,833 --> 00:11:40,875
+What the-?
+What's happening?!
+
+133
+00:11:40,958 --> 00:11:42,375
+No!
+
+134
+00:11:42,958 --> 00:11:44,875
+The Reception
+System chamber...
+
+135
+00:11:44,958 --> 00:11:46,000
+It essentially
+duplicates
+
+136
+00:11:46,083 --> 00:11:48,208
+your "Absorb"
+abilities mechanically.
+
+137
+00:11:49,500 --> 00:11:51,416
+Alv...
+Oh, no...
+
+138
+00:11:51,500 --> 00:11:53,041
+It will break down
+any form of matter
+
+139
+00:11:53,125 --> 00:11:54,708
+into its component
+particles
+
+140
+00:11:54,791 --> 00:11:56,708
+and convert it
+to pure energy.
+
+141
+00:11:56,791 --> 00:12:00,208
+It's one of this ship's main
+power processing facilities.
+
+142
+00:12:08,125 --> 00:12:10,708
+Stop it!
+Make it stop!
+
+143
+00:12:18,125 --> 00:12:19,583
+Alv...
+
+144
+00:12:21,291 --> 00:12:24,666
+The La Muse, Mark
+Zero... Calliope...
+
+145
+00:12:25,833 --> 00:12:29,041
+The nanomist layer is most
+likely acting as a shield.
+
+146
+00:12:29,125 --> 00:12:30,333
+We'll need to find
+an entry point
+
+147
+00:12:30,416 --> 00:12:32,041
+where we can
+punch through.
+
+148
+00:12:36,666 --> 00:12:38,500
+This is
+too easy.
+
+149
+00:12:39,458 --> 00:12:41,208
+I'm going in
+with you.
+
+150
+00:12:42,166 --> 00:12:44,916
+The Deucalion is just
+one large machine, right?
+
+151
+00:12:45,000 --> 00:12:46,500
+Even without
+my ability...
+
+152
+00:12:46,583 --> 00:12:49,583
+I still have a few tools
+that might come in handy.
+
+153
+00:12:57,083 --> 00:12:59,041
+She'll be
+here soon.
+
+154
+00:12:59,125 --> 00:13:00,708
+Yes...
+This is it.
+
+155
+00:13:00,791 --> 00:13:03,375
+After more than half
+a century of waiting...
+
+156
+00:13:03,458 --> 00:13:05,916
+The moment has
+finally arrived...
+
+157
+00:13:07,041 --> 00:13:08,791
+Chevalier...
+
+158
+00:13:13,208 --> 00:13:16,625
+Well, now... That's quite an
+entrance, albeit unnecessary.
+
+159
+00:13:16,708 --> 00:13:18,375
+I should think it
+obvious by now
+
+160
+00:13:18,458 --> 00:13:20,125
+that I've been
+expecting you.
+
+161
+00:13:20,208 --> 00:13:21,791
+I would have gladly
+opened the door.
+
+162
+00:13:23,708 --> 00:13:24,958
+Secretary
+d'Autriche.
+
+163
+00:13:25,041 --> 00:13:28,166
+Under our authority as
+G.O.T.T. ES Members,
+
+164
+00:13:28,250 --> 00:13:30,541
+we hereby charge you as
+being in direct violation
+
+165
+00:13:30,625 --> 00:13:32,083
+of interstellar law.
+
+166
+00:13:33,291 --> 00:13:36,000
+More specifically, you have
+committed multiple violations
+
+167
+00:13:36,083 --> 00:13:37,208
+of the Global
+Union Charter
+
+168
+00:13:37,291 --> 00:13:39,458
+and Interplanetary
+Navigation statutes.
+
+169
+00:13:39,541 --> 00:13:40,875
+All told, you are
+being charged
+
+170
+00:13:40,958 --> 00:13:42,375
+with three hundred
+and seventeen
+
+171
+00:13:42,458 --> 00:13:44,041
+separate criminal
+offenses.
+
+172
+00:13:44,125 --> 00:13:45,833
+Really?
+Is that all?
+
+173
+00:13:45,916 --> 00:13:47,666
+I'd say the number of
+crimes I've committed
+
+174
+00:13:47,750 --> 00:13:50,541
+is actually closer to
+80,000 at this point..
+
+175
+00:13:50,625 --> 00:13:51,916
+That's a rough
+estimate, of course...
+
+176
+00:13:52,000 --> 00:13:53,416
+What?
+
+177
+00:13:53,500 --> 00:13:55,916
+I'm afraid I don't have the
+time to name all of them...
+
+178
+00:13:56,000 --> 00:13:58,833
+Which is why, a few minutes
+before your arrival,
+
+179
+00:13:58,916 --> 00:14:01,708
+I submitted the full
+details to the public...
+
+180
+00:14:01,791 --> 00:14:03,333
+We have only just
+begun to sift through
+
+181
+00:14:03,416 --> 00:14:04,833
+the vast
+quantity of data
+
+182
+00:14:04,916 --> 00:14:06,166
+that we've
+received, however-
+
+183
+00:14:06,250 --> 00:14:08,041
+...clearly indicates a
+long history of corruption
+
+184
+00:14:08,125 --> 00:14:09,666
+within the highest
+levels of-
+
+185
+00:14:09,750 --> 00:14:12,041
+...illegal dealings with
+prominent corporate executives
+
+186
+00:14:12,125 --> 00:14:13,250
+and government
+officials,
+
+187
+00:14:13,333 --> 00:14:15,875
+which would seem to
+imply a vast conspiracy-
+
+188
+00:14:15,958 --> 00:14:17,875
+...news of these crimes
+has spread rapidly
+
+189
+00:14:17,958 --> 00:14:19,458
+over the
+galactic network,
+
+190
+00:14:19,541 --> 00:14:21,875
+and already the first cries of
+public outrage are beginning...
+
+191
+00:14:24,958 --> 00:14:28,541
+Why are you doing this? What
+do you hope to accomplish?
+
+192
+00:14:28,625 --> 00:14:32,083
+I wanted... I wanted
+to save you, Éclair.
+
+193
+00:14:35,666 --> 00:14:38,791
+You remembered me?
+After all this time?
+
+194
+00:14:38,875 --> 00:14:43,125
+Fifty years. Yes. I
+remembered. Or rather...
+
+195
+00:14:43,208 --> 00:14:44,916
+I couldn't
+forget...
+
+196
+00:14:46,583 --> 00:14:50,208
+Oh, you poor thing,
+are you hungry?
+
+197
+00:14:50,291 --> 00:14:52,041
+No, no.
+Nothing there...
+
+198
+00:14:52,125 --> 00:14:54,250
+We'll have to find milk
+for you someplace else.
+
+199
+00:15:00,583 --> 00:15:02,708
+What do they
+mean, "G.O.T.T."?
+
+200
+00:15:02,791 --> 00:15:05,208
+What do they mean, "For the
+service of the Global Union".
+
+201
+00:15:05,291 --> 00:15:07,875
+I can't...
+I can't go...
+
+202
+00:15:07,958 --> 00:15:09,958
+Mom? Are
+you okay?
+
+203
+00:15:14,541 --> 00:15:16,541
+How many times
+have I told you?
+
+204
+00:15:16,625 --> 00:15:18,625
+You don't have to
+call me "Mom".
+
+205
+00:15:18,708 --> 00:15:20,750
+It's just
+"Éclair", okay?
+
+206
+00:15:20,833 --> 00:15:24,166
+But why not? Is
+it because...
+
+207
+00:15:24,250 --> 00:15:27,791
+Is it because I'm
+not your real son?
+
+208
+00:15:27,875 --> 00:15:29,541
+You silly boy...
+
+209
+00:15:32,583 --> 00:15:34,708
+Éclair...
+
+210
+00:15:34,791 --> 00:15:36,708
+We might not be
+related by blood...
+
+211
+00:15:36,791 --> 00:15:40,208
+but you are still every bit
+my beautiful little son.
+
+212
+00:15:40,291 --> 00:15:42,500
+You have no idea what
+a wonderful difference
+
+213
+00:15:42,583 --> 00:15:44,041
+you've made
+in my life.
+
+214
+00:15:44,125 --> 00:15:46,708
+You've given me more happiness
+than you could ever know...
+
+215
+00:15:46,791 --> 00:15:48,083
+But...
+
+216
+00:15:48,166 --> 00:15:49,666
+But what?
+
+217
+00:15:49,750 --> 00:15:51,208
+Someday you'll have
+your own life,
+
+218
+00:15:51,291 --> 00:15:53,166
+and you'll forget
+all about me...
+
+219
+00:15:56,666 --> 00:15:59,708
+Éclair! Éclair!
+
+220
+00:15:59,791 --> 00:16:03,041
+Everything's going to be
+fine. You'll be happy.
+
+221
+00:16:03,125 --> 00:16:03,916
+They tell me you'll
+have nothing
+
+222
+00:16:04,000 --> 00:16:06,375
+but the best
+from now on...
+
+223
+00:16:08,458 --> 00:16:11,291
+After all, you're
+an Earthling.
+
+224
+00:16:11,375 --> 00:16:14,208
+It's only right you should
+be with the Nouvlesse.
+
+225
+00:16:20,291 --> 00:16:25,541
+Éclair... I won't forget
+you. I'll never forget...
+
+226
+00:16:25,625 --> 00:16:28,541
+And I promise,
+when I grow up,
+
+227
+00:16:28,625 --> 00:16:31,791
+I'm going to be strong
+enough to protect you...
+
+228
+00:16:31,875 --> 00:16:34,791
+And then,
+someday... Someday...
+
+229
+00:16:36,250 --> 00:16:39,333
+From now on, you'll be known
+as Chevalier d'Autriche.
+
+230
+00:16:39,416 --> 00:16:40,958
+You are expected to
+conduct yourself
+
+231
+00:16:41,041 --> 00:16:43,666
+as a proud member of
+the d'Autriche family.
+
+232
+00:16:43,750 --> 00:16:44,500
+Yes...
+
+233
+00:16:46,916 --> 00:16:48,541
+Dirty
+Nouvlesse...
+
+234
+00:16:53,333 --> 00:16:55,833
+Éclair...
+ES Member?
+
+235
+00:16:55,916 --> 00:16:58,750
+So... She works for
+the G.O.T.T. now?
+
+236
+00:16:58,833 --> 00:17:01,250
+What you got there?
+Anything interesting?
+
+237
+00:17:01,333 --> 00:17:03,375
+No... not
+really.
+
+238
+00:17:03,458 --> 00:17:06,541
+Let me guess... More
+studying. Am I right?
+
+239
+00:17:06,625 --> 00:17:09,375
+Sort of. I just
+chose a career.
+
+240
+00:17:09,458 --> 00:17:11,833
+I'm going to be
+a politician.
+
+241
+00:17:12,916 --> 00:17:13,958
+[News Anchor] Planet
+Azlantia has suffered
+
+242
+00:17:14,041 --> 00:17:15,208
+a second
+major disaster,
+
+243
+00:17:15,291 --> 00:17:17,583
+but in an unprecedented
+show of cooperation,
+
+244
+00:17:17,666 --> 00:17:19,625
+hundreds of planet-states
+have agreed to contribute
+
+245
+00:17:19,708 --> 00:17:21,333
+to the
+reconstruction effort-
+
+246
+00:17:21,416 --> 00:17:24,000
+one more sign of the radical
+shift in economic policy
+
+247
+00:17:24,083 --> 00:17:25,791
+taking place
+throughout the galaxy.
+
+248
+00:17:25,875 --> 00:17:27,375
+In response to the
+changing times,
+
+249
+00:17:27,458 --> 00:17:29,041
+the Global Union
+has recently named
+
+250
+00:17:29,125 --> 00:17:30,666
+a new Minister
+of Finance.
+
+251
+00:17:30,750 --> 00:17:32,666
+The youngest man to
+ever fill the post,
+
+252
+00:17:32,750 --> 00:17:34,666
+Chevalier d'Autriche
+will also serve
+
+253
+00:17:34,750 --> 00:17:36,708
+as the Secretary
+of the G.O.T.T.
+
+254
+00:17:37,666 --> 00:17:41,166
+Chevalier... A word of
+caution from an old man...
+
+255
+00:17:41,250 --> 00:17:44,708
+These commoners have become far
+more clever than you realize.
+
+256
+00:17:44,791 --> 00:17:46,708
+Don't let things
+get out of hand.
+
+257
+00:17:46,791 --> 00:17:47,916
+Sir...
+
+258
+00:17:52,166 --> 00:17:54,750
+The Deucalion...?
+
+259
+00:17:54,833 --> 00:17:56,416
+What is this?
+
+260
+00:18:06,333 --> 00:18:10,375
+Éclair... you may have
+lost your memories...
+
+261
+00:18:10,458 --> 00:18:12,250
+But I still
+have mine.
+
+262
+00:18:13,500 --> 00:18:16,208
+So then, why
+steal this ship?
+
+263
+00:18:16,291 --> 00:18:20,208
+Because it's proof. Undeniable
+proof of the Nouvlesse's plan
+
+264
+00:18:20,291 --> 00:18:23,625
+to rid themselves of the
+"commoners" once and for all...
+
+265
+00:18:23,708 --> 00:18:26,791
+I'm not sure I follow.
+You're talking about what?
+
+266
+00:18:26,875 --> 00:18:28,833
+Less than
+100,000 Nouvlesse?
+
+267
+00:18:28,916 --> 00:18:31,583
+What can they do against
+a galaxy of billions?
+
+268
+00:18:31,666 --> 00:18:34,458
+I have already made the public
+aware of the illegal means
+
+269
+00:18:34,541 --> 00:18:35,541
+through which
+the assets
+
+270
+00:18:35,625 --> 00:18:37,625
+to build the Deucalion
+were acquired.
+
+271
+00:18:37,708 --> 00:18:41,208
+However, that is not the extent
+of the Nouvlesse's betrayal.
+
+272
+00:18:41,291 --> 00:18:43,125
+Upon its completion,
+they intended to flee-
+
+273
+00:18:43,208 --> 00:18:45,416
+Earth and all- to
+another galaxy...
+
+274
+00:18:45,500 --> 00:18:47,625
+"Earth and all"?!
+Is that possible?!
+
+275
+00:18:47,708 --> 00:18:49,375
+It is, with
+this ship...
+
+276
+00:18:49,458 --> 00:18:51,291
+So, if they all
+left, then...
+
+277
+00:18:51,375 --> 00:18:55,666
+Yes. Chaos. The entire galactic
+economy would collapse.
+
+278
+00:18:55,750 --> 00:18:58,666
+After which, those planets that
+require continuous terraforming
+
+279
+00:18:58,750 --> 00:19:00,708
+to remain habitable would
+suddenly find themselves
+
+280
+00:19:00,791 --> 00:19:02,708
+without
+resources.
+
+281
+00:19:02,791 --> 00:19:04,916
+They would not be able to
+sustain themselves for long.
+
+282
+00:19:05,000 --> 00:19:06,625
+That's
+terrible...
+
+283
+00:19:06,708 --> 00:19:08,125
+To further
+prevent recovery,
+
+284
+00:19:08,208 --> 00:19:10,541
+this ship has also been
+programmed to launch a virus
+
+285
+00:19:10,625 --> 00:19:13,750
+that would destroy all of
+the Warp Gate networks...
+
+286
+00:19:13,833 --> 00:19:16,166
+All the evidence you
+need is right here.
+
+287
+00:19:16,250 --> 00:19:18,458
+The Deucalion
+itself-fully complete,
+
+288
+00:19:18,541 --> 00:19:20,625
+and on the eve
+of its launch...
+
+289
+00:19:20,708 --> 00:19:22,791
+So unless it was
+stopped before hand...
+
+290
+00:19:22,875 --> 00:19:24,833
+by the time anyone realized
+what was happening,
+
+291
+00:19:24,916 --> 00:19:26,416
+it'd be
+too late.
+
+292
+00:19:26,500 --> 00:19:27,750
+And now that
+you understand,
+
+293
+00:19:27,833 --> 00:19:30,708
+there is only one thing
+left for me to do...
+
+294
+00:19:30,791 --> 00:19:32,833
+[Council B] Shut down that
+transmission, at once!
+
+295
+00:19:32,916 --> 00:19:35,208
+The signal's already being
+carried by every media outlet
+
+296
+00:19:35,291 --> 00:19:36,500
+in the galactic
+network.
+
+297
+00:19:36,583 --> 00:19:38,125
+It's too
+late...
+
+298
+00:19:38,208 --> 00:19:41,708
+We're going to have a full
+scale revolution on our hands.
+
+299
+00:19:41,791 --> 00:19:44,041
+It might be prudent
+to re-establish our ties
+
+300
+00:19:44,125 --> 00:19:45,750
+with the
+Rosenfeld Group.
+
+301
+00:19:46,916 --> 00:19:49,625
+We're at the mercy of
+the filthy "commoners".
+
+302
+00:19:50,625 --> 00:19:52,291
+So what's the
+one thing?
+
+303
+00:19:52,375 --> 00:19:55,500
+The Nouvlesse will all
+but disappear after this.
+
+304
+00:19:55,583 --> 00:19:58,791
+But not until they've had
+their revenge. My life is over.
+
+305
+00:19:58,875 --> 00:20:00,666
+That is the price
+of my actions.
+
+306
+00:20:02,000 --> 00:20:05,208
+Éclair... If you feel you
+can bring yourself to do it-
+
+307
+00:20:05,291 --> 00:20:07,000
+Don't
+say it!
+
+308
+00:20:07,083 --> 00:20:08,333
+If I must die,
+
+309
+00:20:08,416 --> 00:20:10,916
+I prefer it to be at the
+moment of my own choosing.
+
+310
+00:20:11,000 --> 00:20:13,875
+I ask you to do me the
+favor of taking my life.
+
+311
+00:20:23,291 --> 00:20:25,125
+But before
+you do...
+
+312
+00:20:25,958 --> 00:20:30,416
+Allow me... to call you
+"Mother", one last time.
+
+313
+00:20:30,500 --> 00:20:32,583
+It's all I've really
+ever wanted...
+
+314
+00:20:32,666 --> 00:20:35,375
+For all these years, I've
+labored under the belief
+
+315
+00:20:35,458 --> 00:20:36,458
+that if I could
+somehow free you
+
+316
+00:20:36,541 --> 00:20:38,458
+from the rule of
+the Nouvlesse...
+
+317
+00:20:38,541 --> 00:20:41,958
+Maybe then, and only then,
+would my one wish be granted.
+
+318
+00:20:42,041 --> 00:20:44,041
+Chevalier...
+
+319
+00:20:44,125 --> 00:20:48,541
+I'm glad it was not
+in vain... Mother...
+
+320
+00:21:00,958 --> 00:21:02,125
+[Chevalier]
+What did you-??
+
+321
+00:21:02,208 --> 00:21:04,416
+I can't
+shoot you...
+
+322
+00:21:04,500 --> 00:21:08,291
+Not when everything you've
+done was all because of me!
+
+323
+00:21:08,375 --> 00:21:12,041
+I'm sorry, Chevalier...
+I'm so sorry!
+
+324
+00:21:12,750 --> 00:21:14,875
+Mother!
+
+325
+00:21:14,958 --> 00:21:16,416
+Chevalier!
+
+326
+00:21:19,916 --> 00:21:24,625
+Chevalier...? Chevalier!
+Why'd you do it?
+
+327
+00:21:26,791 --> 00:21:28,375
+As much as I've
+enjoyed watching
+
+328
+00:21:28,458 --> 00:21:30,583
+this ridiculous
+little drama,
+
+329
+00:21:30,666 --> 00:21:32,375
+I think it's time
+I made my entrance!
+
+330
+00:21:32,458 --> 00:21:33,833
+That
+voice...
+
+331
+00:21:34,750 --> 00:21:37,166
+Alv... Is
+that you...?
+
+332
+00:21:37,250 --> 00:21:40,000
+You mean... she's
+taken the ship?!
+
+333
+00:23:25,500 --> 00:23:27,750
+Time has come
+full circle.
+
+334
+00:23:27,833 --> 00:23:29,416
+But when the
+beginning is the end,
+
+335
+00:23:29,500 --> 00:23:31,083
+and the end the
+beginning...
+
+336
+00:23:31,166 --> 00:23:33,458
+nothing can
+exist in between.
+
+337
+00:23:33,541 --> 00:23:37,916
+Next time on Kiddy Grade:
+"Annihilation / Zero".
+
