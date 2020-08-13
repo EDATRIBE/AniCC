@@ -1,0 +1,1295 @@
+﻿1
+00:00:00,000 --> 00:00:09,093
+[OPENING THEME]
+
+2
+00:01:25,586 --> 00:01:29,741
+<i>[NARRATOR:] Zero System. The</i>
+<i>name given to a cockpit</i>
+<i>system that quickly</i>
+
+3
+00:01:29,881 --> 00:01:34,226
+<i>calculates battle data and feeds</i>
+<i>the large amounts of statistics</i>
+
+4
+00:01:34,386 --> 00:01:38,558
+<i>on estimated values directly</i>
+<i>back to the pilot.</i>
+
+5
+00:01:39,350 --> 00:01:42,811
+<i>But, this system also drives a</i>
+<i>pilot to his limits.</i>
+
+6
+00:01:43,228 --> 00:01:46,231
+<i>To the extent that he won't even</i>
+<i>fear his own death.</i>
+
+7
+00:01:46,398 --> 00:01:49,401
+<i>Thus helping him gain</i>
+<i>absolute victory.</i>
+
+8
+00:01:50,320 --> 00:01:53,238
+<i>The year is After Colony 195.</i>
+
+9
+00:01:53,573 --> 00:01:57,243
+<i>As the world constantly changes</i>
+<i>in the chaotic era,</i>
+
+10
+00:01:57,410 --> 00:02:01,788
+<i>there are two mobile suits that</i>
+<i>could turn humans into the</i>
+<i>ultimate weapon.</i>
+
+11
+00:02:02,206 --> 00:02:04,583
+<i>The Wing Zero, and the Epyon.</i>
+
+12
+00:02:07,253 --> 00:02:09,421
+Sanc Kingdom's Collapse
+
+13
+00:02:15,845 --> 00:02:21,683
+[REBEL:] Our enemy isn't Oz,
+it's the Romefeller Foundation,
+the ruling class on Earth.
+
+14
+00:02:22,018 --> 00:02:25,230
+But would you seriously consider
+teaming up with the
+Treize Faction?
+
+15
+00:02:26,188 --> 00:02:29,713
+Our first priority is to regain
+control of outer space.
+
+16
+00:02:29,858 --> 00:02:33,173
+We'll need to take in soldiers
+of the former alliance.
+
+17
+00:02:33,320 --> 00:02:36,093
+Absurd! There's no way we could
+team up with them.
+
+18
+00:02:36,240 --> 00:02:39,813
+Unless those of us that consider
+Romefeller an enemy all team up,
+
+19
+00:02:39,951 --> 00:02:42,413
+there's no way we can
+break their control!
+
+20
+00:02:43,540 --> 00:02:47,501
+Maybe. What do you think, Duo?
+
+21
+00:02:48,961 --> 00:02:52,493
+Well, it's true that Romefeller
+is an enemy to us,
+
+22
+00:02:52,631 --> 00:02:55,718
+the Treize Faction, and to
+the former Alliance.
+
+23
+00:02:56,760 --> 00:03:01,848
+But still, it's just as
+important to think about what
+happens once we defeat him.
+
+24
+00:03:02,641 --> 00:03:04,601
+Talk to me again once you
+figure that out.
+
+25
+00:03:05,520 --> 00:03:06,728
+Hey there! Duo!
+
+26
+00:03:06,980 --> 00:03:12,193
+[DUO:] Until then, I'll continue
+fighting alone to
+defeat Romefeller.
+
+27
+00:03:21,995 --> 00:03:23,871
+Hey! How did it go?
+
+28
+00:03:24,121 --> 00:03:26,133
+That meeting wasn't
+going anywhere.
+
+29
+00:03:26,290 --> 00:03:28,291
+[LAUGHING CHILDREN]
+
+30
+00:03:31,420 --> 00:03:35,153
+Yeah, I wonder what true peace
+really means anyway.
+
+31
+00:03:35,300 --> 00:03:36,173
+Huh?
+
+32
+00:03:36,300 --> 00:03:38,551
+I‐uh nothing. Just delete that!
+
+33
+00:03:39,053 --> 00:03:41,888
+Whoa, was that totally out of
+character or what!?
+
+34
+00:03:43,683 --> 00:03:46,153
+Hey Duo, let's go somewhere
+that's really fun!
+
+35
+00:03:46,310 --> 00:03:48,020
+Somewhere fun?
+
+36
+00:03:48,228 --> 00:03:52,275
+Yeah, let's go! Hurry, let's go!
+
+37
+00:03:58,363 --> 00:04:01,933
+[NOIN:] Oz's mobile doll troops
+have moved to the boundaries
+of the Sanc Kingdom.
+
+38
+00:04:02,076 --> 00:04:05,496
+and forces have been gathering
+in the surrounding
+military bases.
+
+39
+00:04:05,996 --> 00:04:12,336
+[NOIN:] It's unmistakable. Oz
+is‐ no, Romefeller is planning
+to destroy the Sanc Kingdom.
+
+40
+00:04:14,755 --> 00:04:17,258
+It's only a matter of time
+before they attack.
+
+41
+00:04:19,385 --> 00:04:23,931
+Very well then. I want to
+talk to Duke Dermail.
+
+42
+00:04:24,848 --> 00:04:28,686
+No wait, Romefeller now regards
+the Sanc Kingdom as an enemy.
+
+43
+00:04:29,228 --> 00:04:32,315
+We have no choice but to fight
+to save the Kingdom!
+
+44
+00:04:32,481 --> 00:04:37,353
+The Sanc Kingdom under the
+Peacecraft rule has always
+practiced the idea of pacifism.
+
+45
+00:04:37,486 --> 00:04:40,893
+We should advocate for
+disarmament and aim for a
+peaceful world where no
+
+46
+00:04:41,031 --> 00:04:43,743
+battles are fought. Therefore
+we mustn't fight.
+
+47
+00:04:43,910 --> 00:04:48,288
+Sure, but you have to understand
+the Sanc Kingdom is about
+to be annihilated.
+
+48
+00:04:48,998 --> 00:04:52,960
+But still. I am going to do
+everything I can to avoid a war.
+
+49
+00:04:56,546 --> 00:04:59,553
+[NOIN:] I can understand Miss
+Relena's ideals however,
+
+50
+00:04:59,716 --> 00:05:02,970
+Romefeller's military is trying
+to invade the country
+
+51
+00:05:04,055 --> 00:05:07,653
+Relena's too caught up in her
+ideal world. ‐What's that
+supposed to mean?
+
+52
+00:05:07,808 --> 00:05:12,480
+With things the way they are
+around the world, it'd be
+impossible to achieve
+total pacifism.
+
+53
+00:05:13,146 --> 00:05:16,816
+So, you're disputing Miss
+Relena's ideals? ‐I'm not.
+
+54
+00:05:17,693 --> 00:05:22,906
+Total pacifism is what people
+are hoping for, and people can't
+live without hope.
+
+55
+00:05:23,573 --> 00:05:26,535
+Tell me Heero, do you have any
+hopes of your own?
+
+56
+00:05:27,078 --> 00:05:29,955
+I only want to fight against
+those who try to conquer.
+
+57
+00:05:32,583 --> 00:05:34,251
+I wonder how Quatre's doing.
+
+58
+00:05:35,043 --> 00:05:38,088
+I hope he's able to come back
+here as soon as possible.
+
+59
+00:05:55,398 --> 00:05:56,440
+[DISTANT EXPLOSION]
+
+60
+00:05:57,233 --> 00:05:58,358
+That sound means!!
+
+61
+00:06:09,245 --> 00:06:12,706
+Don't let up! Show them what the
+Maguanac Corp is made of!
+
+62
+00:06:19,421 --> 00:06:21,381
+Dammit! Things sure look bad!
+
+63
+00:06:21,548 --> 00:06:24,873
+Auda! Take the third unit and
+head to the left wing!
+
+64
+00:06:25,010 --> 00:06:25,470
+[AUDA:] Roger!
+
+65
+00:06:25,636 --> 00:06:27,173
+[GUNFIRE]
+
+66
+00:06:27,305 --> 00:06:28,138
+What's that??
+
+67
+00:06:30,015 --> 00:06:31,058
+[AUDA:] Master Quatre??
+
+68
+00:06:31,850 --> 00:06:33,153
+It's Quatre!!
+
+69
+00:06:33,310 --> 00:06:34,813
+He's finally returned!
+
+70
+00:06:34,978 --> 00:06:35,730
+Hey!
+
+71
+00:06:37,606 --> 00:06:41,401
+You came back! We have
+something for you Master!
+
+72
+00:06:41,651 --> 00:06:45,196
+Yes, I know that! I came
+back here to get it!
+
+73
+00:06:49,493 --> 00:06:52,330
+Alright, let's move in and
+destroy them all at once men.
+
+74
+00:06:52,538 --> 00:06:56,333
+[SOLDIER:] Captain! The enemy is
+starting to fight back sir.
+
+75
+00:06:56,500 --> 00:06:58,920
+<i>Hey! Where'd that white</i>
+<i>suit come from AHH‐</i>
+
+76
+00:06:59,378 --> 00:07:00,420
+What happened!?
+
+77
+00:07:15,101 --> 00:07:16,770
+[SOLDIER:] Gundam 04??
+
+78
+00:07:20,525 --> 00:07:22,276
+Sandrock, let's do it!
+
+79
+00:07:27,198 --> 00:07:28,656
+[EXPLOSION]
+
+80
+00:07:37,458 --> 00:07:39,668
+I'm so glad you're safe
+and sound Master.
+
+81
+00:07:39,960 --> 00:07:45,465
+Rashid, all of you, sorry I've
+been such a pain, and thank you.
+
+82
+00:07:45,841 --> 00:07:51,305
+What exactly are you saying
+Master? We'd like to thank you
+for saving our lives.
+
+83
+00:07:53,015 --> 00:07:57,228
+So Master Quatre, are you in
+need of the Gundam again now?
+
+84
+00:07:57,478 --> 00:08:01,065
+Yeah, something's come up that I
+have to take care of soon.
+
+85
+00:08:07,196 --> 00:08:13,076
+[CIRCUS MUSIC]
+
+86
+00:08:14,870 --> 00:08:19,853
+Amazing! See, isn't this fun?
+‐You said it!
+
+87
+00:08:20,000 --> 00:08:23,003
+[RINGMASTER:] Next, a
+performance with the lion,
+
+88
+00:08:23,170 --> 00:08:25,798
+the
+king of the animals, and
+a young clown!
+
+89
+00:08:28,133 --> 00:08:29,843
+[LION ROARS]
+
+90
+00:08:30,051 --> 00:08:31,553
+Ah, watch out!
+
+91
+00:08:37,518 --> 00:08:43,356
+Excellent! I could fall for that
+clown. ‐ Sure, whatever.
+
+92
+00:08:43,648 --> 00:08:44,316
+Huh?
+
+93
+00:08:48,278 --> 00:08:50,280
+It's him, Trowa!
+
+94
+00:08:52,115 --> 00:08:53,616
+[CATHERINE:] Great show Trowa!
+
+95
+00:08:54,076 --> 00:08:58,173
+[TROWA:] How did I do? ‐Great!
+The crowd sure did love you.
+
+96
+00:08:58,330 --> 00:08:59,290
+That's good.
+
+97
+00:09:00,583 --> 00:09:05,211
+Hey Trowa, it is you! Trowa!
+Hey! [CATHERINE:] ‐Hey,
+excuse me!
+
+98
+00:09:06,505 --> 00:09:11,468
+So you were here! Where are the
+others, how's Heero?
+Isn't he with you??
+
+99
+00:09:12,135 --> 00:09:13,303
+Uh...
+
+100
+00:09:13,303 --> 00:09:14,263
+Trowa?
+
+101
+00:09:14,513 --> 00:09:16,015
+[CATHERINE:] Get out! ‐Huh?!
+
+102
+00:09:16,890 --> 00:09:19,753
+You must be an old acquaintance
+from his past, but Trowa's not
+
+103
+00:09:19,893 --> 00:09:21,603
+going to be doing any
+more fighting!
+
+104
+00:09:22,020 --> 00:09:24,813
+Trowa! What's gotten
+into you anyway??
+
+105
+00:09:24,940 --> 00:09:28,235
+Get out of here! Just leave us.
+
+106
+00:09:29,778 --> 00:09:30,738
+Trowa...
+
+107
+00:09:33,781 --> 00:09:37,233
+[NARRATOR:] Meanwhile, Colonel
+Tubarov was executing his plans
+
+108
+00:09:37,370 --> 00:09:42,500
+to construct a gigantic space
+battleship, as ordered by the
+Romefeller Foundation.
+
+109
+00:09:42,916 --> 00:09:47,588
+This project, commandeering the
+manpower and resources
+of outer space,
+
+110
+00:09:48,046 --> 00:09:51,883
+was becoming a significant
+burden on the citizens
+of the colonies.
+
+111
+00:09:52,175 --> 00:09:57,293
+<i>We're progressing at an</i>
+<i>aggressive pace, but given the</i>
+<i>enormous size of the battleship,</i>
+
+112
+00:09:57,431 --> 00:09:59,413
+<i>it's still going to</i>
+<i>take some time.</i>
+
+113
+00:09:59,558 --> 00:10:04,913
+<i>No excuses! We need this new</i>
+<i>symbol of our strength completed</i>
+<i>as soon as possible.</i>
+
+114
+00:10:05,063 --> 00:10:06,481
+[DERMAIL:] Symbol sir?
+
+115
+00:10:06,981 --> 00:10:10,778
+Oz currently lacks an individual
+that can fill Treize's place!
+
+116
+00:10:11,111 --> 00:10:15,783
+So it's crucial that Oz has a
+symbol of strength to bring the
+soldiers together.
+
+117
+00:10:16,033 --> 00:10:21,013
+And we must also eliminate the
+existence of any country that
+disrupts such unity!
+
+118
+00:10:21,163 --> 00:10:23,790
+You're talking about the Sanc
+Kingdom of course.
+
+119
+00:10:24,041 --> 00:10:26,820
+The Sanc Kingdom most certainly
+had a role to play in
+
+120
+00:10:26,960 --> 00:10:29,171
+proving Oz's support for
+peace policies.
+
+121
+00:10:30,421 --> 00:10:33,300
+But now they're nothing more
+than a hindrance to us!
+
+122
+00:10:33,925 --> 00:10:35,720
+So you're saying...
+
+123
+00:10:36,011 --> 00:10:38,573
+[DERMAIL:] We can no longer
+afford to have any nations
+
+124
+00:10:38,721 --> 00:10:41,433
+that won't obey the
+Romefeller Foundation
+
+125
+00:10:50,735 --> 00:10:54,041
+[SOLDIER:] Captain! The
+surrounding mobile doll unit has
+started to advance
+
+126
+00:10:54,196 --> 00:10:55,823
+from the country's
+mountain border!
+
+127
+00:10:56,156 --> 00:11:00,073
+Right. Our main unit will
+proceed to attack
+from the shores.
+
+128
+00:11:00,201 --> 00:11:02,913
+We must siege the capital
+of Sanc Kingdom.
+
+129
+00:11:03,080 --> 00:11:04,540
+[CAPTAIN:] Newport City.
+
+130
+00:11:06,041 --> 00:11:07,418
+[NOIN:] Miss Relena?
+
+131
+00:11:07,918 --> 00:11:09,893
+I've just been told our
+surveillance system
+at the border
+
+132
+00:11:10,045 --> 00:11:12,381
+has detected an invasion of
+mobile doll troops.
+
+133
+00:11:13,840 --> 00:11:17,343
+Duke Dermail contacted me just
+a little while ago.
+
+134
+00:11:18,095 --> 00:11:21,841
+He says Oz plans to attack us
+for our unrestricted acceptance
+
+135
+00:11:21,973 --> 00:11:24,351
+of Oz deserters and
+armed guerrillas.
+
+136
+00:11:25,351 --> 00:11:28,605
+I didn't expect Romefeller
+to be this dirty!
+
+137
+00:11:31,441 --> 00:11:35,433
+Miss Relena, the Sanc Kingdom
+stands as a hope for
+peace in today's
+
+138
+00:11:35,570 --> 00:11:40,075
+violent world, just please don't
+be too hard on those who
+fight to protect it.
+
+139
+00:11:42,368 --> 00:11:43,245
+[RELENA:] Miss Noin!
+
+140
+00:11:47,500 --> 00:11:51,545
+Pagan, please evacuate all the
+students from the institution.
+
+141
+00:11:51,961 --> 00:11:52,755
+Right.
+
+142
+00:12:02,723 --> 00:12:06,643
+No, stop it. Don't go doing
+that. Stop it Epyon!
+
+143
+00:12:32,503 --> 00:12:34,213
+All units, attack!
+
+144
+00:12:40,385 --> 00:12:41,136
+[EXPLOSION]
+
+145
+00:12:44,556 --> 00:12:47,393
+There are just way too
+many of them!
+
+146
+00:12:47,560 --> 00:12:50,436
+[PILOT:] <i>Alright units, release</i>
+<i>your Virgo troops!</i>
+
+147
+00:13:07,203 --> 00:13:08,163
+[EXPLOSION]
+
+148
+00:13:11,000 --> 00:13:12,166
+[EXPLOSION]
+
+149
+00:13:12,626 --> 00:13:15,461
+All units, retreat to the
+defense line now!
+
+150
+00:13:29,810 --> 00:13:31,561
+What, even more troops!?
+
+151
+00:13:47,326 --> 00:13:49,830
+I'm sure glad I'm not too
+late Miss Noin!
+
+152
+00:13:50,163 --> 00:13:52,666
+Quatre!? Thank god.
+
+153
+00:13:53,833 --> 00:13:55,626
+[DISTANT EXPLOSIONS]
+
+154
+00:13:56,711 --> 00:13:59,933
+[DOROTHY:] Even the Sanc
+Kingdom, with its total
+pacifism and all,
+
+155
+00:14:00,090 --> 00:14:03,426
+has finally gotten dragged into
+this storm of firepower.
+
+156
+00:14:03,968 --> 00:14:07,213
+Didn't you follow Pagan's
+instructions Dorothy?
+
+157
+00:14:07,346 --> 00:14:08,973
+You have to leave at once.
+
+158
+00:14:09,140 --> 00:14:11,633
+Who, me? My stay at
+the Sanc Kingdom
+
+159
+00:14:11,768 --> 00:14:15,063
+would be all but meaningless if
+I couldn't witness
+this situation.
+
+160
+00:14:16,523 --> 00:14:18,483
+[DOROTHY:] What do you plan
+to do Miss Relena?
+
+161
+00:14:19,276 --> 00:14:23,905
+Will you keep resisting? Or will
+you get military resistance
+from your allies?
+
+162
+00:14:24,240 --> 00:14:27,200
+That method is not an option
+in the Sanc Kingdom.
+
+163
+00:14:27,660 --> 00:14:30,411
+But what other methods are
+there Miss Relena?
+
+164
+00:14:31,996 --> 00:14:36,813
+If the Sanc Kingdom were to
+collapse now, then the ideal of
+total pacifism would vanish!
+
+165
+00:14:36,960 --> 00:14:39,933
+As if it were a dream. [RELENA:]
+‐That's not true at all Dorothy,
+
+166
+00:14:40,088 --> 00:14:42,966
+What all the people are wishing
+for is true peace.
+
+167
+00:14:43,841 --> 00:14:47,805
+And those same people are
+fighting beautifully to
+protect that peace too.
+
+168
+00:14:48,180 --> 00:14:49,390
+Isn't it grand?
+
+169
+00:15:16,666 --> 00:15:20,628
+Heero! You're straying too far
+off. Don't leave the city!
+
+170
+00:15:23,298 --> 00:15:25,733
+[HEERO:] If I start going out
+of control again,
+
+171
+00:15:25,883 --> 00:15:27,803
+no one's going to be
+able to stop me.
+
+172
+00:15:30,055 --> 00:15:33,808
+I haven't got the time to listen
+to you and your war
+hobbies right now.
+
+173
+00:15:34,183 --> 00:15:37,436
+That's not fair Miss Relena!
+‐Not fair?
+
+174
+00:15:37,855 --> 00:15:41,233
+You can assemble people with
+your sweet talk about peace,
+but when
+
+175
+00:15:41,400 --> 00:15:43,993
+an emergency arises you
+don't even do a thing!
+
+176
+00:15:44,151 --> 00:15:46,155
+[RELENA:] Now that's
+not exactly true!
+
+177
+00:15:46,488 --> 00:15:50,193
+Oh no? You can't do anything?
+That's because you're chasing
+
+178
+00:15:50,325 --> 00:15:52,193
+the impossible dream of
+total pacifism.
+
+179
+00:15:52,326 --> 00:15:53,793
+How can you say that?
+
+180
+00:15:53,953 --> 00:15:57,913
+My teacher told me something
+once; that man is a
+fighting animal
+
+181
+00:15:58,041 --> 00:16:01,893
+and that whoever wins after
+continuously fighting
+should rule.
+
+182
+00:16:02,045 --> 00:16:04,965
+Isn't that the way to bring
+about proper order?
+
+183
+00:16:05,340 --> 00:16:08,713
+Order could never bring about
+peace in such a situation,
+
+184
+00:16:08,843 --> 00:16:10,511
+that's nothing but domination!
+
+185
+00:16:10,886 --> 00:16:14,793
+But one can start to establish
+order merely by thinking
+this way, right?
+
+186
+00:16:14,933 --> 00:16:17,336
+What can one accomplish
+with total pacifism
+
+187
+00:16:17,476 --> 00:16:20,396
+when actual battles are being
+fought as we speak?
+
+188
+00:16:20,688 --> 00:16:23,191
+[DOROTHY:] What you have is
+nothing but a dream!
+
+189
+00:16:36,496 --> 00:16:38,290
+[GUNSHOTS]
+
+190
+00:16:42,418 --> 00:16:45,671
+We're the last line! We can't
+let them get through.
+
+191
+00:16:47,381 --> 00:16:48,800
+Backup troops??
+
+192
+00:16:54,013 --> 00:16:56,350
+Don't let up, it's
+far from over!
+
+193
+00:17:03,190 --> 00:17:04,525
+Miss Noin!
+
+194
+00:17:12,490 --> 00:17:15,201
+No! They've already
+entered the city!
+
+195
+00:17:18,621 --> 00:17:19,748
+Miss Relena!
+
+196
+00:17:20,623 --> 00:17:23,493
+[DOROTHY:] There's no place in
+the world today for
+powerless total
+
+197
+00:17:23,626 --> 00:17:27,630
+pacifism. You'll ony fall prey
+to those fighting animals.
+
+198
+00:17:27,923 --> 00:17:30,453
+This is the time to stand up and
+fight Miss Relena!
+
+199
+00:17:30,591 --> 00:17:32,693
+[RELENA:] Just because humans
+are fighting animals,
+
+200
+00:17:32,845 --> 00:17:34,873
+that doesn't make this
+situation right!
+
+201
+00:17:35,013 --> 00:17:39,013
+I believe that people can find a
+way to establish peace
+without finding it
+
+202
+00:17:39,141 --> 00:17:40,643
+necessary to fight!
+
+203
+00:17:41,018 --> 00:17:44,481
+You're so beautiful when you
+start talking of your ideas!
+
+204
+00:17:44,815 --> 00:17:48,093
+If you ask for their assistance
+I'm sure the Treize
+Faction and other
+
+205
+00:17:48,235 --> 00:17:52,196
+soldiers with grudges against Oz
+will come to you at the
+drop of a coin!
+
+206
+00:17:56,118 --> 00:17:59,705
+[EXPLOSION]
+
+207
+00:18:12,885 --> 00:18:17,848
+If the Sanc Kingdom and my own
+existence are going to cause the
+devastation of war
+
+208
+00:18:18,431 --> 00:18:23,270
+then I'll do my best to take a
+new step toward total pacifism.
+
+209
+00:18:24,436 --> 00:18:27,983
+Yes it's very important that you
+act now Miss Relena.
+
+210
+00:18:31,653 --> 00:18:33,405
+The city is being attacked!
+
+211
+00:18:42,246 --> 00:18:43,706
+[HEERO:] Relena!
+
+212
+00:18:46,793 --> 00:18:51,593
+Here Miss Relena! As requested,
+you are now connected to
+outer space and all
+
+213
+00:18:51,756 --> 00:18:53,753
+private lines of the
+Foundation executives.
+
+214
+00:18:53,883 --> 00:18:58,596
+But is there anyone within the
+Foundation now that can be of
+help to you Miss Relena?
+
+215
+00:19:01,766 --> 00:19:06,563
+<i>[RELENA:] My name is Relena</i>
+<i>Peacecraft. Chief Representative</i>
+<i>of the Sanc Kingdom.</i>
+
+216
+00:19:08,731 --> 00:19:09,553
+Miss Relena!?
+
+217
+00:19:09,691 --> 00:19:14,486
+<i>Our country is presently under</i>
+<i>attack following Oz's</i>
+<i>declaration of war against us.</i>
+
+218
+00:19:14,696 --> 00:19:18,200
+How shrewd. Is she asking for
+help from other countries?
+
+219
+00:19:18,491 --> 00:19:21,183
+<i>[RELENA:] Armed combat counters</i>
+<i>the Peacecraft philosophy and</i>
+
+220
+00:19:21,328 --> 00:19:24,455
+<i>the beliefs of the of the Sanc</i>
+<i>Kingdom and our pacifism.</i>
+
+221
+00:19:24,665 --> 00:19:29,233
+<i>However, if our nation becomes a</i>
+<i>target for Oz to conduct</i>
+<i>their battles,</i>
+
+222
+00:19:29,376 --> 00:19:34,048
+<i>I shall renounce this country's</i>
+<i>sovereignty, and</i>
+<i>dissolve this nation.</i>
+
+223
+00:19:34,215 --> 00:19:37,010
+[ZECHS:] How could she!? I
+hope I'm not too late!
+
+224
+00:19:39,596 --> 00:19:42,556
+<i>[RELENA:] Total pacifism should</i>
+<i>not be the cause of battle,</i>
+
+225
+00:19:42,975 --> 00:19:44,726
+<i>under any circumstances.</i>
+
+226
+00:19:46,978 --> 00:19:50,148
+<i>[RELENA:] I am therefore</i>
+<i>surrendering myself to Oz.</i>
+
+227
+00:19:50,773 --> 00:19:52,066
+Miss Relena...
+
+228
+00:19:52,650 --> 00:19:55,695
+<i>[RELENA:] This is to further</i>
+<i>my ideal of peace.</i>
+
+229
+00:19:56,696 --> 00:19:58,573
+An incredibly bold move.
+
+230
+00:19:58,948 --> 00:20:03,161
+I wonder if we could use that
+power as a unifying force
+for Romefeller.
+
+231
+00:20:03,536 --> 00:20:05,513
+Stop the fighting at once.
+
+232
+00:20:05,663 --> 00:20:08,708
+You no longer have a reason to
+fight this battle.
+
+233
+00:20:13,880 --> 00:20:17,841
+Well done, wow! How much better
+can you get Miss Relena?
+
+234
+00:20:18,968 --> 00:20:21,933
+I'm not in the mood for your
+flattery right now Dorothy!
+
+235
+00:20:22,096 --> 00:20:24,808
+[DOROTHY:] I'm serious, I'm an
+even bigger fan now!
+
+236
+00:20:25,100 --> 00:20:28,520
+Miss Relena, let's go to the
+Romefeller Foundation!
+
+237
+00:20:28,770 --> 00:20:30,896
+I'd be more than happy
+to escort you!
+
+238
+00:20:31,356 --> 00:20:34,233
+<i>[RELENA:] My dear people.</i>
+<i>Please forgive me.</i>
+
+239
+00:20:34,860 --> 00:20:37,070
+<i>This is the only</i>
+<i>path I can take.</i>
+
+240
+00:20:52,460 --> 00:20:54,378
+<i>[RASHID:] Master Quatre,</i>
+<i>let's go after it!</i>
+
+241
+00:20:54,713 --> 00:20:58,675
+<i>[QUATRE:] No! That would spoil</i>
+<i>the move just taken</i>
+<i>by Miss Relena.</i>
+
+242
+00:20:59,676 --> 00:21:02,511
+Quatre! Will you please
+come with me.
+
+243
+00:21:03,596 --> 00:21:04,513
+Where to?
+
+244
+00:21:05,681 --> 00:21:06,808
+Outer space.
+
+245
+00:21:08,268 --> 00:21:09,518
+I'd be glad to.
+
+246
+00:21:13,106 --> 00:21:16,108
+[DOROTHY:] I will personally
+guarantee your safety
+Miss Relena,
+
+247
+00:21:16,568 --> 00:21:20,821
+however I don't know how the
+Foundation will want
+to treat you.
+
+248
+00:21:25,118 --> 00:21:30,665
+<i>[RELENA:] I'm lost. How in the</i>
+<i>world am I going to make my</i>
+<i>ideal a reality now?</i>
+
+249
+00:21:32,166 --> 00:21:35,711
+<i>We'll take in the Virgos, then</i>
+<i>commence takeover with</i>
+<i>manned suits.</i>
+
+250
+00:21:36,838 --> 00:21:40,693
+Sir, there's still a mobile suit
+continuing to retaliate
+in the mountains.
+
+251
+00:21:40,841 --> 00:21:41,676
+What's that!?
+
+252
+00:21:58,985 --> 00:22:01,153
+[EXPLOSION]
+
+253
+00:22:11,915 --> 00:22:15,085
+[HEERO:] Where... where
+is my enemy??
+
+254
+00:22:26,763 --> 00:22:34,228
+[ENDING THEME]
+
+255
+00:23:39,376 --> 00:23:41,928
+<i>[NARRATOR:] The dream of an</i>
+<i>ideal world of peace</i>
+
+256
+00:23:42,088 --> 00:23:44,631
+<i>was easily overrun by the</i>
+<i>overwhelming force.</i>
+
+257
+00:23:45,216 --> 00:23:47,213
+<i>But the Romefeller</i>
+<i>Foundation hands the</i>
+
+258
+00:23:47,343 --> 00:23:50,305
+<i>heartbroken Relena yet</i>
+<i>another cruel option.</i>
+
+259
+00:23:50,721 --> 00:23:53,873
+<i>Meanwhile, two Gundam pilots,</i>
+<i>Heero and Zechs,</i>
+
+260
+00:23:54,016 --> 00:23:56,853
+<i>start a battle at the now</i>
+<i>demolished Sanc Kingdom.</i>
+
+261
+00:23:57,228 --> 00:24:00,023
+<i>But, the battle is</i>
+<i>now unnecessary.</i>
+
+262
+00:24:00,500 --> 00:24:05,580
+<i>Next, on Gundam Wing Episode 37:</i>
+<i>Zero vs. Epyon</i>
+

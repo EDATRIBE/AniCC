@@ -1,0 +1,1804 @@
+﻿1
+00:00:01,160 --> 00:00:08,460
+[♪♪]
+
+2
+00:01:24,580 --> 00:01:26,420
+<i>Narrator: With high expectations,</i>
+
+3
+00:01:26,490 --> 00:01:28,100
+<i>human beings leave earth...</i>
+
+4
+00:01:28,100 --> 00:01:30,210
+<i>...to begin a new life in</i>
+<i>space colonies.</i>
+
+5
+00:01:30,650 --> 00:01:33,340
+<i>However, the United Earth</i>
+<i>Sphere Alliance</i>
+
+6
+00:01:33,340 --> 00:01:35,340
+<i>gains great military powers...</i>
+
+7
+00:01:35,340 --> 00:01:36,980
+<i>... and soon seizes control of</i>
+
+8
+00:01:36,980 --> 00:01:38,570
+<i>one colony after another...</i>
+
+9
+00:01:38,570 --> 00:01:41,720
+<i>...in the name of</i>
+<i>justice and peace.</i>
+
+10
+00:01:42,240 --> 00:01:45,280
+<i>The year is after colony 195.</i>
+
+11
+00:01:45,280 --> 00:01:46,760
+<i>Operation Meteor.</i>
+
+12
+00:01:47,100 --> 00:01:49,560
+<i>In a move to counter the</i>
+<i>Alliance's ternary,</i>
+
+13
+00:01:49,840 --> 00:01:51,930
+<i>rebel citizens of</i>
+<i>certain colonies...</i>
+
+14
+00:01:51,930 --> 00:01:54,360
+<i>... scheme to bring new</i>
+<i>arsenals to the earth...</i>
+
+15
+00:01:54,360 --> 00:01:56,880
+<i>... disguising them as</i>
+<i>shooting stars.</i>
+
+16
+00:01:57,420 --> 00:02:01,930
+<i>However, the Alliance headquarters</i>
+<i>catches on to this operation.</i>
+
+17
+00:02:06,130 --> 00:02:08,680
+<i>You and I shouldn’t be</i>
+<i>fighting each other!</i>
+
+18
+00:02:14,530 --> 00:02:17,400
+<i>Put your hands down I was the</i>
+<i>first one to surrender</i>
+
+19
+00:02:17,400 --> 00:02:19,400
+<i>and come out, remember.</i>
+
+20
+00:02:23,260 --> 00:02:25,360
+<i>The Victoria Nightmare</i>
+
+21
+00:02:35,440 --> 00:02:37,840
+<i>Lieutenant Otto: We have word</i>
+<i>about the Corsica base.</i>
+
+22
+00:02:37,930 --> 00:02:40,500
+The enemies had left before the
+support troops arrived...
+
+23
+00:02:40,500 --> 00:02:42,880
+and 55% of the factory
+is destroyed.
+
+24
+00:02:43,380 --> 00:02:44,280
+<i>Lieutenant Zechs: Walker.</i>
+
+25
+00:02:44,280 --> 00:02:45,840
+<i>thanks for filling me in on</i>
+
+26
+00:02:45,840 --> 00:02:47,840
+<i>yet another two enemy machines.</i>
+
+27
+00:02:47,840 --> 00:02:50,810
+<i>Pilot 1: Lieutenant Zechs Victoria</i>
+<i>base is on the line.</i>
+
+28
+00:02:51,210 --> 00:02:52,610
+Hmm?
+
+29
+00:02:55,410 --> 00:02:57,880
+<i>It’s been quite a while,</i>
+<i>Lieutenant Zechs.</i>
+
+30
+00:02:58,480 --> 00:03:00,170
+<i>You’re looking good as usual Noin.</i>
+
+31
+00:03:00,170 --> 00:03:02,460
+I hear you’ve been pretty
+busy these days.
+
+32
+00:03:02,460 --> 00:03:04,040
+Rumors about the
+“Lightning count”...
+
+33
+00:03:04,040 --> 00:03:06,200
+... have made it all the way
+down here to Victoria.
+
+34
+00:03:06,200 --> 00:03:08,200
+<i>I don’t like where the</i>
+<i>rumors are headed.</i>
+
+35
+00:03:08,200 --> 00:03:10,610
+<i>I’ve become the target of enemies,</i>
+<i>and allies...</i>
+
+36
+00:03:10,610 --> 00:03:12,610
+...expect more than I can handle.
+
+37
+00:03:14,410 --> 00:03:16,170
+I think Rumors are great.
+
+38
+00:03:16,700 --> 00:03:18,640
+Have you heard any
+rumors about me?
+
+39
+00:03:19,290 --> 00:03:21,930
+<i>I hear that you’ve done well</i>
+<i>training pilots.</i>
+
+40
+00:03:22,210 --> 00:03:25,130
+<i>Also that you’re a superior</i>
+<i>all‐round soldier.</i>
+
+41
+00:03:25,860 --> 00:03:26,960
+<i>But Noin.</i>
+
+42
+00:03:26,960 --> 00:03:28,140
+<i>You use to hate war;</i>
+
+43
+00:03:28,140 --> 00:03:30,460
+<i>so what’s with all the</i>
+<i>effort your making?</i>
+
+44
+00:03:32,120 --> 00:03:33,940
+I’m honored that you
+seem to remember
+
+45
+00:03:33,940 --> 00:03:35,940
+so much about me Lieutenant.
+
+46
+00:03:36,810 --> 00:03:37,940
+My efforts
+
+47
+00:03:38,490 --> 00:03:40,680
+are for my love of outer space.
+
+48
+00:03:44,930 --> 00:03:46,380
+<i>Trainee: We’ve passed</i>
+<i>the 100 meter</i>
+
+49
+00:03:46,380 --> 00:03:47,620
+<i>point below the surface!</i>
+
+50
+00:03:47,620 --> 00:03:49,170
+<i>We’ve arrived at Zero G!</i>
+
+51
+00:03:49,170 --> 00:03:49,660
+<i>Noin: Right!</i>
+
+52
+00:03:49,660 --> 00:03:53,080
+<i>Commence final testing for mobile</i>
+<i>suit space operations.</i>
+
+53
+00:03:53,080 --> 00:03:55,080
+[collectively]
+Roger!
+
+54
+00:03:58,770 --> 00:03:59,970
+What are you doing!?
+
+55
+00:03:59,970 --> 00:04:02,400
+You shouldn’t have
+problems at this speed!
+
+56
+00:04:02,400 --> 00:04:05,490
+You must sense the
+movements of your craft!
+
+57
+00:04:05,490 --> 00:04:07,050
+Lieutenant Zechs is coming!
+
+58
+00:04:07,050 --> 00:04:09,050
+Don’t go embarrass yourselves!
+
+59
+00:04:09,050 --> 00:04:11,050
+Lieutenant Zechs is coming?!
+
+60
+00:04:11,050 --> 00:04:12,800
+Wow I’ll do my best!
+
+61
+00:04:12,800 --> 00:04:13,720
+Good!
+
+62
+00:04:14,170 --> 00:04:15,260
+<i>Zechs...</i>
+
+63
+00:04:15,260 --> 00:04:18,420
+<i>It’s been one year and</i>
+<i>twenty‐two days.</i>
+
+64
+00:04:36,690 --> 00:04:38,970
+<i>Zechs: So we’ve lost him have we?</i>
+
+65
+00:04:38,970 --> 00:04:39,570
+<i>Otto: Yes.</i>
+
+66
+00:04:39,570 --> 00:04:41,170
+It’s the only mobile
+suit that we’ve
+
+67
+00:04:41,170 --> 00:04:42,850
+been able to confirm the
+location of...
+
+68
+00:04:42,850 --> 00:04:45,260
+... and it seems to have
+vanished past the equator.
+
+69
+00:04:45,410 --> 00:04:48,120
+He’s headed for the Taurus
+suits at Noin’s base.
+
+70
+00:04:48,240 --> 00:04:50,120
+The military’s being
+too imprudent.
+
+71
+00:04:50,120 --> 00:04:51,570
+Even civilian children know
+
+72
+00:04:51,570 --> 00:04:53,170
+that the Taurus space
+mobile suits...
+
+73
+00:04:53,170 --> 00:04:54,170
+...are being manufactured
+
+74
+00:04:54,170 --> 00:04:55,730
+at the Victoria base Lieutenant.
+
+75
+00:04:56,060 --> 00:04:58,330
+And I’m on my way over there.
+
+76
+00:04:58,760 --> 00:05:00,600
+Noin’s about the only one who’ll
+
+77
+00:05:00,600 --> 00:05:02,480
+welcome an annoying Lieutenant.
+
+78
+00:05:02,480 --> 00:05:03,900
+Didn’t you graduate from the Lake
+
+79
+00:05:03,900 --> 00:05:05,900
+Victoria military
+academy together?
+
+80
+00:05:06,140 --> 00:05:07,400
+I’m surprised you knew.
+
+81
+00:05:07,400 --> 00:05:08,650
+Of course I do.
+
+82
+00:05:08,980 --> 00:05:10,240
+Everyone knows the top two
+
+83
+00:05:10,240 --> 00:05:11,890
+students of all time
+that graduated...
+
+84
+00:05:11,890 --> 00:05:14,250
+...form the Lake Victoria
+military academy.
+
+85
+00:05:14,840 --> 00:05:17,020
+I also know that you
+Lieutenant Zechs
+
+86
+00:05:17,120 --> 00:05:18,480
+were the top student.
+
+87
+00:05:19,160 --> 00:05:21,400
+She was always trying
+to be second.
+
+88
+00:05:21,770 --> 00:05:24,020
+In order for me to look better.
+
+89
+00:05:24,540 --> 00:05:26,940
+It looks like she’ll be
+helping me once again.
+
+90
+00:05:27,000 --> 00:05:31,560
+[♪♪]
+
+91
+00:05:36,740 --> 00:05:38,440
+Zechs Marquise.
+
+92
+00:05:38,680 --> 00:05:40,600
+Or rather, Peacecraft.
+
+93
+00:05:41,040 --> 00:05:43,490
+Come here and let me help you out.
+
+94
+00:05:48,220 --> 00:05:50,600
+<i>Noin: Today is your last</i>
+<i>day of training.</i>
+
+95
+00:05:50,600 --> 00:05:53,420
+you followed my strict
+command very well.
+
+96
+00:05:53,840 --> 00:05:57,920
+<i>Today you will become a member of</i>
+<i>the elite Specials force.</i>
+
+97
+00:06:15,560 --> 00:06:18,940
+<i>The enemy is targeting your space</i>
+<i>mission Taurus suits!</i>
+
+98
+00:06:19,170 --> 00:06:22,160
+And your first mission as a
+member of OZ...
+
+99
+00:06:22,160 --> 00:06:24,380
+...is to get your suits off base!
+
+100
+00:06:24,380 --> 00:06:27,160
+Shouldn’t we be leaving that to
+the transport division?
+
+101
+00:06:28,820 --> 00:06:29,940
+[smack]
+
+102
+00:06:30,820 --> 00:06:33,760
+I didn’t train anyone who couldn’t
+take care of his own machine.
+
+103
+00:06:33,970 --> 00:06:35,760
+Prepare to leave immediately!
+
+104
+00:06:35,760 --> 00:06:36,940
+Get a move on!
+
+105
+00:06:36,940 --> 00:06:37,900
+Yes, ma’am!
+
+106
+00:06:41,420 --> 00:06:42,380
+Hmm.
+
+107
+00:06:49,690 --> 00:06:51,700
+<i>Zechs: When will we slip</i>
+<i>the Tauruses out?</i>
+
+108
+00:06:51,840 --> 00:06:53,700
+<i>Noin: 0700 hours tomorrow.</i>
+
+109
+00:06:54,060 --> 00:06:55,160
+That’s close.
+
+110
+00:06:55,290 --> 00:06:57,370
+<i>I’ve heard the enemies</i>
+<i>won’t show on radar.</i>
+
+111
+00:06:57,370 --> 00:06:59,700
+<i>So we’ve got extra soldiers</i>
+<i>watching for them.</i>
+
+112
+00:06:59,700 --> 00:07:01,240
+That’s the best strategy.
+
+113
+00:07:01,440 --> 00:07:02,820
+good thinking Noin.
+
+114
+00:07:03,140 --> 00:07:04,570
+<i>I appreciate your compliment,</i>
+
+115
+00:07:04,570 --> 00:07:05,820
+<i>Lieutenant Zechs.</i>
+
+116
+00:07:06,250 --> 00:07:07,940
+Just call me Zechs, Noin.
+
+117
+00:07:08,440 --> 00:07:10,770
+By the way, this room
+sure is cheery.
+
+118
+00:07:11,330 --> 00:07:13,850
+Most of my soldiers are
+young and restless.
+
+119
+00:07:13,850 --> 00:07:15,970
+I thought this style
+would suit them.
+
+120
+00:07:17,050 --> 00:07:19,970
+Don’t go getting to attached or
+parting will hurt.
+
+121
+00:07:20,360 --> 00:07:22,130
+Thanks for being so concerned,
+
+122
+00:07:22,450 --> 00:07:25,370
+but my soldiers aren’t ever going
+to be killed in battle.
+
+123
+00:07:25,660 --> 00:07:28,040
+They’ve been trained not
+to overdo things.
+
+124
+00:07:28,480 --> 00:07:30,770
+In my mind, the value of
+life versus war
+
+125
+00:07:30,770 --> 00:07:32,530
+is something one can’t
+even compare.
+
+126
+00:07:32,650 --> 00:07:34,290
+My soldiers have died.
+
+127
+00:07:34,660 --> 00:07:37,220
+Noin, I disagree with
+your philosophy.
+
+128
+00:07:37,700 --> 00:07:40,880
+Battles that risks men’s lives
+are miscalculations!
+
+129
+00:07:41,280 --> 00:07:43,850
+I pity the soldiers who
+get killed off.
+
+130
+00:07:50,210 --> 00:07:51,330
+Noin here.
+
+131
+00:07:52,000 --> 00:07:54,810
+Oh, Lieutenant Zechs,
+you’ve got a call
+
+132
+00:07:54,810 --> 00:07:55,970
+here from Lieutenant Otto.
+
+133
+00:07:56,290 --> 00:07:58,840
+<i>Otto: The technicians here are</i>
+<i>just as surprised.</i>
+
+134
+00:07:59,020 --> 00:08:01,140
+<i>This mobile suit is far</i>
+<i>more superior</i>
+
+135
+00:08:01,140 --> 00:08:02,500
+<i>than initially predicted.</i>
+
+136
+00:08:02,500 --> 00:08:05,320
+It should be ready sooner
+than expected.
+
+137
+00:08:05,720 --> 00:08:08,610
+But even so it’s gonna take
+another month or two.
+
+138
+00:08:08,930 --> 00:08:10,250
+Thanks for letting me know.
+
+139
+00:08:10,380 --> 00:08:11,220
+sounds good.
+
+140
+00:08:11,410 --> 00:08:12,860
+Keep me posted.
+
+141
+00:08:13,560 --> 00:08:31,340
+[scabbards clinking]
+
+142
+00:08:36,640 --> 00:08:38,660
+[explosion]
+
+143
+00:08:39,080 --> 00:08:41,280
+[screams]
+
+144
+00:08:45,480 --> 00:08:46,860
+Noin: What is it,
+what’s happening?!
+
+145
+00:08:46,860 --> 00:08:48,000
+We’re under attack!
+
+146
+00:08:48,000 --> 00:08:51,120
+The pilot trainee dormitory has
+been his the worst!
+
+147
+00:08:51,130 --> 00:08:51,770
+What?!
+
+148
+00:08:52,820 --> 00:08:56,700
+[♪♪]
+
+149
+00:08:57,200 --> 00:08:58,600
+<i>This is terrible.</i>
+
+150
+00:08:59,570 --> 00:09:01,260
+Instructor...
+
+151
+00:09:01,260 --> 00:09:04,260
+I wanted to go to outer
+space so badly.
+
+152
+00:09:07,330 --> 00:09:09,740
+Find the enemy and
+attack them at once!
+
+153
+00:09:09,740 --> 00:09:11,130
+Destroy them all!
+
+154
+00:09:11,380 --> 00:09:13,560
+<i>We’re expecting a</i>
+<i>mobile suit battle.</i>
+
+155
+00:09:13,560 --> 00:09:14,930
+<i>Leos. lead the pack!</i>
+
+156
+00:09:14,930 --> 00:09:16,930
+<i>The enemy should be close by!</i>
+
+157
+00:09:19,650 --> 00:09:21,500
+How’s Lieutenant Zechs?
+
+158
+00:09:21,500 --> 00:09:22,820
+The South hanger is safe.
+
+159
+00:09:22,820 --> 00:09:24,380
+Word is that he’s headed here.
+
+160
+00:09:24,520 --> 00:09:25,240
+Good!
+
+161
+00:09:25,650 --> 00:09:27,970
+The enemy has come to destroy
+the Taurus suits!
+
+162
+00:09:27,970 --> 00:09:28,860
+Take your positions!
+
+163
+00:09:28,980 --> 00:09:31,920
+It’ll take 30 minuets to load all
+the machines for transport.
+
+164
+00:09:31,920 --> 00:09:32,580
+Okay!
+
+165
+00:09:32,580 --> 00:09:35,130
+You’ve gotta hold off the
+enemy for 30 minutes!
+
+166
+00:09:35,130 --> 00:09:37,130
+I’ll take command of the
+mobile suit troops.
+
+167
+00:09:37,530 --> 00:09:38,740
+<i>Troop 1: No sign of the enemy!</i>
+
+168
+00:09:38,740 --> 00:09:40,740
+<i>Troop 2: No sign of the enemy</i>
+<i>at the East Gate!</i>
+
+169
+00:09:40,740 --> 00:09:42,740
+<i>Troop 1: No problems at the water</i>
+<i>pressure generator!</i>
+
+170
+00:09:47,490 --> 00:09:50,010
+<i>There’s no sign of the</i>
+<i>enemy anywhere!</i>
+
+171
+00:09:55,160 --> 00:09:57,000
+Where’s the enemy hiding?!
+
+172
+00:09:57,760 --> 00:10:01,040
+Bring up the heat sensor
+images on the screen!
+
+173
+00:10:04,570 --> 00:10:05,520
+There he is!
+
+174
+00:10:05,730 --> 00:10:07,200
+Get some Aries over here!
+
+175
+00:10:07,320 --> 00:10:09,130
+Only those closest by!
+
+176
+00:10:09,130 --> 00:10:11,130
+We’re going after the enemy!
+
+177
+00:10:21,610 --> 00:10:24,200
+<i>Noin: Stop, Stop or I’ll shoot!</i>
+
+178
+00:10:24,900 --> 00:10:26,780
+There’s no way he can
+get out of here!
+
+179
+00:10:27,500 --> 00:10:28,920
+Does he have support troops?!
+
+180
+00:10:29,000 --> 00:10:30,420
+The Gundam!!
+
+181
+00:10:30,600 --> 00:10:33,360
+[♪♪]
+
+182
+00:10:33,570 --> 00:10:35,290
+It’s possible that theres
+a Gundam waiting
+
+183
+00:10:35,290 --> 00:10:36,320
+where the enemy’s headed!
+
+184
+00:10:36,320 --> 00:10:38,320
+Bring the space Lazer!
+
+185
+00:10:38,320 --> 00:10:39,930
+<i>special: But we can’t</i>
+<i>fully deploy the</i>
+
+186
+00:10:39,930 --> 00:10:41,340
+<i>heat when its used on Earth!</i>
+
+187
+00:10:41,730 --> 00:10:42,820
+Noin: Doesn’t matter!
+
+188
+00:10:42,820 --> 00:10:44,810
+<i>We just need one shot at him</i>
+
+189
+00:10:45,040 --> 00:10:46,120
+<i>Yes Mam!</i>
+
+190
+00:10:49,440 --> 00:10:51,740
+Is Noin in pursuit of the enemy?!
+
+191
+00:10:52,000 --> 00:10:53,930
+He’s heading for the
+bushes up ahead.
+
+192
+00:10:54,140 --> 00:10:55,920
+It’s a dead end pall!
+
+193
+00:10:57,690 --> 00:11:00,440
+[machine gun fire]
+
+194
+00:11:00,540 --> 00:11:03,400
+Uaagh, aaah!!
+
+195
+00:11:03,600 --> 00:11:07,260
+[grunting]
+
+196
+00:11:14,250 --> 00:11:16,890
+<i>Noin: You’re such a coward,</i>
+<i>attacking the soldiers</i>
+
+197
+00:11:16,890 --> 00:11:18,360
+<i>instead of the mobile suits!</i>
+
+198
+00:11:18,360 --> 00:11:20,280
+<i>You call yourself a man?!</i>
+
+199
+00:11:20,280 --> 00:11:22,280
+<i>You sound like a real know‐it‐all.</i>
+
+200
+00:11:26,620 --> 00:11:28,540
+He’s only a baby!
+
+201
+00:11:28,820 --> 00:11:31,970
+<i>A kid did all that damage to</i>
+<i>the base by himself?!</i>
+
+202
+00:11:32,900 --> 00:11:34,460
+Hm? a woman...
+
+203
+00:11:35,130 --> 00:11:36,520
+Now it makes sense.
+
+204
+00:11:39,860 --> 00:11:43,320
+[flares]
+
+205
+00:11:47,540 --> 00:11:49,740
+He attacked the base on his own.
+
+206
+00:11:49,740 --> 00:11:51,520
+But he only looks about 14.
+
+207
+00:11:51,960 --> 00:11:53,460
+He’s there!
+
+208
+00:11:54,980 --> 00:12:02,770
+[♪♪]
+
+209
+00:12:09,660 --> 00:12:11,600
+<i>Special!: Target in sight!</i>
+
+210
+00:12:11,600 --> 00:12:13,120
+<i>Special 2: Fire!!</i>
+
+211
+00:12:13,460 --> 00:12:14,580
+Don’t shoot!
+
+212
+00:12:14,730 --> 00:12:16,160
+<i>Special 2: Lieutenant Noin,</i>
+<i>why not?!</i>
+
+213
+00:12:16,360 --> 00:12:18,160
+Cause she’s a woman!
+
+214
+00:12:19,480 --> 00:12:22,500
+[Explosions]
+
+215
+00:12:23,280 --> 00:12:24,730
+<i>Damn you!!</i>
+
+216
+00:12:39,300 --> 00:12:41,660
+[♪♪]
+Gundam Wing
+
+217
+00:12:41,880 --> 00:12:42,530
+<i>Soldier: Hurry!</i>
+
+218
+00:12:42,530 --> 00:12:43,530
+<i>Lift off as soon as we get</i>
+
+219
+00:12:43,530 --> 00:12:44,970
+<i>all six Taurus suits loaded!</i>
+
+220
+00:12:45,170 --> 00:12:46,460
+<i>Orders from Lieutenant Noin!</i>
+
+221
+00:12:46,460 --> 00:12:47,320
+<i>Hurry!</i>
+
+222
+00:12:48,450 --> 00:12:50,320
+<i>The enemy isn’t headed this way.</i>
+
+223
+00:12:50,560 --> 00:12:52,010
+No need to panic.
+
+224
+00:12:52,050 --> 00:12:54,010
+We’ll handle things at the base.
+
+225
+00:12:54,010 --> 00:12:56,210
+Get your aircraft moved out
+
+226
+00:12:56,210 --> 00:12:58,460
+from in front of aircraft No. 1!
+
+227
+00:12:58,960 --> 00:13:02,220
+I don’t care if you’re following
+instructor Noin’s orders.
+
+228
+00:13:02,480 --> 00:13:05,050
+The enemy’s not coming, don’t
+move the Taurus suits.
+
+229
+00:13:06,060 --> 00:13:07,020
+Look, never mind!
+
+230
+00:13:07,020 --> 00:13:09,020
+Aircraft No. 2 out!
+
+231
+00:13:09,730 --> 00:13:12,500
+<i>Lieutenant Zechs, I could get</i>
+<i>you court‐martialed.</i>
+
+232
+00:13:13,260 --> 00:13:15,960
+I’m much more composed
+than you right now.
+
+233
+00:13:16,490 --> 00:13:18,730
+If one makes a decision
+with a cool head...
+
+234
+00:13:18,930 --> 00:13:22,120
+... He won’t find himself
+regretting that decision later on.
+
+235
+00:13:33,160 --> 00:13:34,600
+[gasp]
+
+236
+00:13:36,620 --> 00:13:38,180
+Move!!
+
+237
+00:13:38,820 --> 00:13:40,920
+Uagh, Aries?!
+
+238
+00:13:45,000 --> 00:13:47,700
+[blast]
+
+239
+00:13:47,700 --> 00:13:52,380
+[explosion]
+
+240
+00:13:53,360 --> 00:13:55,000
+Haa!
+
+241
+00:13:55,320 --> 00:13:57,280
+No, the Taurus suits...!
+
+242
+00:14:05,200 --> 00:14:08,520
+<i>Wufei: Are you listening woman,</i>
+<i>huh?!</i>
+
+243
+00:14:11,170 --> 00:14:14,130
+You saw I was a kid and you
+underestimated me.
+
+244
+00:14:14,130 --> 00:14:15,690
+<i>You’re a weak soldier.</i>
+
+245
+00:14:15,880 --> 00:14:18,860
+I don’t kill bleeding
+hearts or women.
+
+246
+00:14:25,380 --> 00:14:27,480
+Ugh, Dammit!
+
+247
+00:14:28,040 --> 00:14:30,240
+Aaaghhh!!
+
+248
+00:14:31,290 --> 00:14:33,360
+<i>Agh, Damn!</i>
+
+249
+00:14:43,540 --> 00:14:46,120
+Installation section 2600.
+
+250
+00:14:46,120 --> 00:14:47,540
+Repairs are possible.
+
+251
+00:14:47,880 --> 00:14:48,860
+Duo: Hey you!
+
+252
+00:14:48,970 --> 00:14:50,860
+I’m callin’ you!
+
+253
+00:14:52,770 --> 00:14:54,640
+You won’t even
+acknowledge our help.
+
+254
+00:14:54,800 --> 00:14:59,130
+Here I am Mr. Nice guy offering to
+fix your mobile suit...
+
+255
+00:14:59,130 --> 00:15:01,560
+... but you just brush
+me right off.
+
+256
+00:15:02,330 --> 00:15:05,260
+I don’t want anybody
+touching my mobile suit.
+
+257
+00:15:05,700 --> 00:15:07,040
+That’s all pal.
+
+258
+00:15:07,040 --> 00:15:10,620
+Well thats a joke; you haven’t
+even got the parts.
+
+259
+00:15:11,820 --> 00:15:13,610
+The best engineers in the world
+
+260
+00:15:13,610 --> 00:15:16,090
+couldn’t repair machines
+without the parts.
+
+261
+00:15:16,090 --> 00:15:18,280
+Mechanics need parts for repairs;
+
+262
+00:15:18,280 --> 00:15:19,850
+not like you with your leg.
+
+263
+00:15:19,850 --> 00:15:21,340
+You see what I’m sayin’?
+
+264
+00:15:24,210 --> 00:15:26,010
+Why did I even bother to rescue
+
+265
+00:15:26,010 --> 00:15:27,500
+this guy in the first place?
+
+266
+00:15:27,500 --> 00:15:28,920
+He’s anti‐social, thinks he’s
+
+267
+00:15:28,920 --> 00:15:30,920
+Evel Knievel, and hardly speaks.
+
+268
+00:15:30,920 --> 00:15:34,220
+Ugh, you’ve got such a
+gloomy personality!
+
+269
+00:15:34,220 --> 00:15:37,020
+Why don’t you just give up and
+stop pretending to be human?
+
+270
+00:15:37,020 --> 00:15:37,610
+Hey!
+
+271
+00:15:37,610 --> 00:15:38,650
+What is it?!
+
+272
+00:15:38,760 --> 00:15:41,570
+You’re too late if you think
+you’re going to ask for my help!
+
+273
+00:15:43,060 --> 00:15:45,140
+Could you keep it down over there?
+
+274
+00:15:45,320 --> 00:15:46,460
+yeah, sure.
+
+275
+00:15:46,570 --> 00:15:48,460
+Forgive me for interrupting.
+
+276
+00:15:48,720 --> 00:15:52,880
+[beeping]
+
+277
+00:15:52,880 --> 00:15:53,640
+Hmm, what is it?!
+[beeping]
+
+278
+00:15:53,640 --> 00:15:54,103
+Hmm, what is it?!
+
+279
+00:15:55,760 --> 00:15:57,020
+I’m on call.
+
+280
+00:15:57,120 --> 00:16:00,380
+An enemy carrier is
+transporting Gundanium alloy.
+
+281
+00:16:00,570 --> 00:16:02,800
+I’ll see to it first thing
+in the morning.
+
+282
+00:16:03,080 --> 00:16:06,760
+Heyy... you can’t go anywhere with
+your machine in this shape?!
+
+283
+00:16:06,940 --> 00:16:08,760
+We’re talkin’ miracles here!
+
+284
+00:16:08,850 --> 00:16:10,760
+it’d take a miracle for you.
+
+285
+00:16:11,000 --> 00:16:12,760
+But I can handle it.
+
+286
+00:16:12,980 --> 00:16:16,400
+Well excuse me for being
+a mere mortal!
+
+287
+00:16:17,770 --> 00:16:20,700
+<i>If you screw up, you’ll be</i>
+<i>blown to smithereens.</i>
+
+288
+00:16:20,700 --> 00:16:24,480
+<i>Your missions have no</i>
+<i>room for failure.</i>
+
+289
+00:16:24,480 --> 00:16:26,480
+<i>Just like mine; who</i>
+<i>are you anyway?</i>
+
+290
+00:16:28,140 --> 00:16:30,330
+Heero!
+
+291
+00:16:31,130 --> 00:16:35,650
+I am right over here so
+come and kill me!!
+
+292
+00:16:37,130 --> 00:16:43,000
+[♪♪]
+
+293
+00:16:43,120 --> 00:16:45,020
+<i>Officer 1: According to reports</i>
+<i>from Colonel Treize...</i>
+
+294
+00:16:45,020 --> 00:16:47,300
+...they’re definitely made
+of Gundanium alloy.
+
+295
+00:16:48,360 --> 00:16:49,650
+Very interesting...
+
+296
+00:16:50,360 --> 00:16:51,370
+<i>Mr Darlian: Treize?!</i>
+
+297
+00:16:51,370 --> 00:16:54,160
+<i>Treize Khushrenada of</i>
+<i>the Specials?!</i>
+
+298
+00:16:54,160 --> 00:16:56,138
+<i>Officer 2: I’ve heard</i>
+<i>that Gundanium alloy</i>
+
+299
+00:16:56,306 --> 00:16:57,900
+<i>can only be refined</i>
+<i>in outer space?</i>
+
+300
+00:16:58,120 --> 00:17:01,180
+<i>Officer 3: So we should conclude</i>
+<i>that these mobile suits...</i>
+
+301
+00:17:01,180 --> 00:17:02,890
+<i>... were sent in from the colonies!</i>
+
+302
+00:17:03,020 --> 00:17:05,240
+That would mean the
+disarmament of my military
+
+303
+00:17:05,240 --> 00:17:07,240
+would have to be put off on
+the back burner.
+
+304
+00:17:07,610 --> 00:17:10,000
+<i>Officer 3: in fact, we should be</i>
+<i>increasing our presence.</i>
+
+305
+00:17:10,140 --> 00:17:12,640
+<i>We’d be glad to direct our</i>
+<i>county’s space forces...</i>
+
+306
+00:17:12,640 --> 00:17:15,530
+<i>...to Lagrange point to support</i>
+<i>General Septem’s troops.</i>
+
+307
+00:17:15,530 --> 00:17:18,040
+<i>Officer 3: Our nation has already</i>
+<i>made arrangements to do so.</i>
+
+308
+00:17:18,540 --> 00:17:21,450
+I don’t think its wise to inter‐
+perate the actions of a few...
+
+309
+00:17:21,450 --> 00:17:22,880
+...as reflecting all the colonies.
+
+310
+00:17:22,880 --> 00:17:25,000
+The real problem we’re
+facing is how to deal
+
+311
+00:17:25,000 --> 00:17:26,530
+with these Gundam attacks.
+
+312
+00:17:26,720 --> 00:17:28,220
+<i>Officer 3: We know what</i>
+<i>the problem is!</i>
+
+313
+00:17:28,330 --> 00:17:30,540
+<i>General, please give</i>
+<i>orders to attack!</i>
+
+314
+00:17:30,650 --> 00:17:31,860
+The colonies are hoping...
+
+315
+00:17:31,860 --> 00:17:33,860
+...for peace in the Earth
+Sphere Alliance,
+
+316
+00:17:33,860 --> 00:17:35,860
+more than anyone else.
+
+317
+00:17:36,130 --> 00:17:37,650
+<i>We also want peace.</i>
+
+318
+00:17:37,650 --> 00:17:40,010
+<i>You don’t suppose these</i>
+<i>actions by the colonies’</i>
+
+319
+00:17:40,010 --> 00:17:42,010
+are stemming from some jealousy?
+
+320
+00:17:42,170 --> 00:17:43,370
+Absolutely not!
+
+321
+00:17:43,370 --> 00:17:46,330
+Until now hostilities have only
+been sparked by attempts...
+
+322
+00:17:46,330 --> 00:17:48,330
+... of the Alliance military
+to take control!
+
+323
+00:17:48,440 --> 00:17:50,660
+‐Your true feelings are
+finally coming out!
+
+324
+00:17:50,660 --> 00:17:51,851
+You’re a spy and you’ve been
+
+325
+00:17:52,020 --> 00:17:53,850
+secretly communicating
+with the colonies!
+
+326
+00:17:53,850 --> 00:17:55,200
+That’s ridiculous!
+
+327
+00:17:55,200 --> 00:17:57,410
+We’ve heard everything
+you have to say.
+
+328
+00:17:57,720 --> 00:18:00,600
+I’d like you to leave the room now
+Vice Foreign Minister.
+
+329
+00:18:00,800 --> 00:18:03,260
+Isn’t it about time you
+people realized...
+
+330
+00:18:03,340 --> 00:18:06,580
+...the ones posing the most threat
+are none other than yourselves!
+
+331
+00:18:06,580 --> 00:18:08,810
+<i>‐Silence! we’ve had enough!</i>
+
+332
+00:18:08,920 --> 00:18:11,580
+[♪♪]
+
+333
+00:18:11,650 --> 00:18:15,010
+So tension returns at
+Lagrange point, huh.
+
+334
+00:18:15,640 --> 00:18:18,130
+I believe that’s the way
+things should be.
+
+335
+00:18:18,460 --> 00:18:20,940
+The leak worked quite
+well I thought.
+
+336
+00:18:21,200 --> 00:18:23,000
+My hat’s off to Zechs.
+
+337
+00:18:23,250 --> 00:18:24,890
+He really does a fine job.
+
+338
+00:18:24,890 --> 00:18:26,440
+Oh by the way, lady Une.
+
+339
+00:18:26,570 --> 00:18:27,540
+Yes?
+
+340
+00:18:27,970 --> 00:18:30,060
+About Vice Foreign
+Minister Darlian...
+
+341
+00:18:30,850 --> 00:18:32,170
+I’ll see to it.
+
+342
+00:18:32,920 --> 00:18:36,420
+And I’ll have some rose fragrance
+ready in time for your next bath.
+
+343
+00:18:38,290 --> 00:18:39,970
+Sounds good.
+
+344
+00:18:48,340 --> 00:18:50,810
+[yawning]
+
+345
+00:18:50,890 --> 00:18:52,810
+Man, what the heck’s he thinkin’?
+
+346
+00:18:53,000 --> 00:18:54,810
+I’m sackin’ out.
+
+347
+00:18:57,100 --> 00:19:03,900
+[welding]
+
+348
+00:19:16,320 --> 00:19:18,090
+Duo: What’s goin’ on?!
+
+349
+00:19:20,220 --> 00:19:23,210
+Unreal! I don’t believe it!
+
+350
+00:19:23,490 --> 00:19:26,680
+The guy’s incredible; he fixed his
+machine in one night.
+
+351
+00:19:26,680 --> 00:19:28,360
+<i>Mechanic: ‐Oh no!!</i>
+
+352
+00:19:28,500 --> 00:19:29,580
+We’ve been had!
+
+353
+00:19:29,580 --> 00:19:31,840
+he took his parts from this suit!
+
+354
+00:19:32,040 --> 00:19:33,120
+What?!
+
+355
+00:19:33,120 --> 00:19:35,120
+I was just complimenting him!
+
+356
+00:19:35,360 --> 00:19:36,900
+Traitor!!!
+
+357
+00:19:36,920 --> 00:19:38,780
+[♪♪]
+
+358
+00:19:38,880 --> 00:19:40,600
+Target confirmed.
+
+359
+00:19:54,640 --> 00:19:58,650
+[explosion]
+
+360
+00:20:02,250 --> 00:20:06,650
+[laughs hysterically]
+
+361
+00:20:07,370 --> 00:20:26,060
+[violin and flute with
+background rock music]
+
+362
+00:20:49,850 --> 00:20:51,660
+It’s almost fixed!
+
+363
+00:20:51,690 --> 00:20:52,720
+They’re a similar make,
+
+364
+00:20:52,720 --> 00:20:53,930
+so it was very easy.
+
+365
+00:20:53,930 --> 00:20:55,930
+They're so similar its
+kind of freaky!
+
+366
+00:20:55,930 --> 00:20:57,380
+Don’t you think so boss?
+
+367
+00:20:57,380 --> 00:20:58,040
+yeah.
+
+368
+00:20:58,040 --> 00:21:00,540
+That’s why Quatre is so concerned.
+
+369
+00:21:01,840 --> 00:21:05,220
+I’m just relieved this guy who can
+fight as well as Quatre...
+
+370
+00:21:05,300 --> 00:21:06,820
+...isn’t an enemy.
+
+371
+00:21:19,890 --> 00:21:22,370
+‐Noin, are you alright in there?
+
+372
+00:21:22,600 --> 00:21:23,930
+Yeah.
+
+373
+00:21:24,250 --> 00:21:27,140
+Just feeling a little beat
+up inside and out.
+
+374
+00:21:28,810 --> 00:21:30,120
+Noin...
+
+375
+00:21:31,340 --> 00:21:33,640
+I’m just grateful that
+you’re alive.
+
+376
+00:21:33,960 --> 00:21:36,160
+You’re just saying that cause
+if I died i’d get
+
+377
+00:21:36,160 --> 00:21:37,500
+a two rank promotion.
+
+378
+00:21:37,890 --> 00:21:40,650
+You’ve got nothing to worry about
+with that sense of humor.
+
+379
+00:21:40,900 --> 00:21:43,720
+‐Listen you’ve gotta let me fight
+the enemy with you!
+
+380
+00:21:43,940 --> 00:21:45,930
+I wanna re‐train and get stronger!
+
+381
+00:21:46,050 --> 00:21:48,960
+I’ve been through hell with
+that Gundam as well.
+
+382
+00:21:49,240 --> 00:21:50,850
+But the next time I see them
+
+383
+00:21:50,850 --> 00:21:52,930
+they won’t be getting
+off so easily.
+
+384
+00:21:54,240 --> 00:21:55,320
+Oh Zechs...
+
+385
+00:21:55,320 --> 00:21:58,260
+I’d be happy if you worked
+along side me, Noin.
+
+386
+00:21:58,500 --> 00:22:00,680
+I’d be happy to, thank you.
+
+387
+00:22:01,100 --> 00:22:06,340
+[hyena’s growling]
+
+388
+00:22:06,450 --> 00:22:09,440
+Get out of my sight,
+you weaklings!!
+
+389
+00:22:10,140 --> 00:22:13,690
+[whimpering]
+
+390
+00:22:13,890 --> 00:22:15,610
+Fighting a weak enemy leaves
+
+391
+00:22:15,610 --> 00:22:18,450
+me feeling so empty afterwards.
+
+392
+00:22:18,720 --> 00:22:21,620
+Aaaaaaaghhhhh!!!
+
+393
+00:22:21,680 --> 00:22:23,760
+To be continued
+
+394
+00:22:26,800 --> 00:22:32,450
+[♪♪]
+
+395
+00:23:35,320 --> 00:23:37,450
+Next Episode
+
+396
+00:23:37,900 --> 00:23:39,580
+<i>Narrator: With the entrance</i>
+<i>of the Gundams',</i>
+
+397
+00:23:39,580 --> 00:23:41,260
+<i>the true battle has begun.</i>
+
+398
+00:23:41,560 --> 00:23:42,580
+<i>But is this really what</i>
+
+399
+00:23:42,580 --> 00:23:43,850
+<i>colonies desire?</i>
+
+400
+00:23:44,100 --> 00:23:44,880
+<i>Once again,</i>
+
+401
+00:23:44,880 --> 00:23:46,410
+<i>Vice Foreign Minister Darlian</i>
+
+402
+00:23:46,410 --> 00:23:47,640
+<i>leaves for the colonies...</i>
+
+403
+00:23:47,640 --> 00:23:49,010
+<i>... taking Relena with him.</i>
+
+404
+00:23:49,400 --> 00:23:51,560
+<i>But Lady Une OZ plans</i>
+
+405
+00:23:51,560 --> 00:23:53,490
+<i>the assassination of</i>
+<i>Minister Darlian.</i>
+
+406
+00:23:53,740 --> 00:23:56,010
+<i>With Minister Darlian’s</i>
+<i>dying breath...</i>
+
+407
+00:23:56,010 --> 00:23:57,680
+<i>...Relena learns the secrets</i>
+
+408
+00:23:57,680 --> 00:23:58,930
+<i>surrounding her birth.</i>
+
+409
+00:23:59,460 --> 00:24:01,960
+<i>Next, on Gundam Wing, episode 5.</i>
+
+410
+00:24:02,240 --> 00:24:03,960
+<i>Relena's Secret.</i>
+

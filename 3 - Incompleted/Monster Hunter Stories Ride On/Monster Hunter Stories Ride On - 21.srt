@@ -1,0 +1,1994 @@
+﻿1
+00:00:08,291 --> 00:00:09,458
+[NARRATOR]
+This young boy's name is Lute,
+
+2
+00:00:09,541 --> 00:00:11,458
+a rash but enthusiastic fellow,
+
+3
+00:00:11,541 --> 00:00:14,166
+who dreams of becoming
+the world's top Monster Rider.
+
+4
+00:00:14,250 --> 00:00:16,708
+And he's Navirou's top pupil!
+
+5
+00:00:16,791 --> 00:00:20,125
+[NARRATOR] After visiting Pawpad
+Place for info on Kinship Ore,
+
+6
+00:00:20,208 --> 00:00:22,375
+Navirou faced
+one trial after another!
+
+7
+00:00:22,458 --> 00:00:25,833
+And overcame them all
+with his genius!
+
+8
+00:00:25,916 --> 00:00:27,541
+[NARRATOR]
+And now a new day begins,
+
+9
+00:00:27,625 --> 00:00:29,958
+with a request that will
+lead to a new adventure
+
+10
+00:00:30,041 --> 00:00:33,250
+for Lute, Navirou,
+and all their friends!
+
+11
+00:02:32,958 --> 00:02:34,458
+[LUTE]
+What?
+
+12
+00:02:34,541 --> 00:02:37,125
+Now Simone and the Scriveners
+want us to do a Quest for them?
+
+13
+00:02:37,208 --> 00:02:39,375
+You're sure they want us
+instead of Hunters?
+
+14
+00:02:39,458 --> 00:02:42,000
+Yep! In fact, it's because
+you're all Riders
+
+15
+00:02:42,083 --> 00:02:44,083
+that Simone requested
+your services--
+
+16
+00:02:44,166 --> 00:02:46,125
+Uh, I mean the Captain.
+
+17
+00:02:46,208 --> 00:02:48,250
+What is it?
+
+18
+00:02:48,333 --> 00:02:51,375
+There's a good chance it's
+related to the Black Blight.
+
+19
+00:02:51,458 --> 00:02:53,208
+Where is it hitting now?
+
+20
+00:02:53,291 --> 00:02:54,458
+[LILIA]
+It might be hard to believe,
+
+21
+00:02:54,541 --> 00:02:56,125
+but until just a few years ago,
+
+22
+00:02:56,208 --> 00:02:58,041
+this vast desert
+was as lush and as green
+
+23
+00:02:58,125 --> 00:02:59,916
+as the forests around it.
+
+24
+00:03:00,000 --> 00:03:01,333
+[ALL gasp]
+
+25
+00:03:01,416 --> 00:03:03,750
+[LILIA] The cause seems to be
+a mysterious quicksand
+
+26
+00:03:03,833 --> 00:03:06,416
+that's consuming
+everything in its path.
+
+27
+00:03:07,958 --> 00:03:09,291
+As the desert spreads,
+
+28
+00:03:09,375 --> 00:03:11,916
+the monsters are starting
+to vanish too.
+
+29
+00:03:12,000 --> 00:03:13,916
+So the population's thinning.
+
+30
+00:03:14,000 --> 00:03:15,125
+Yeah.
+
+31
+00:03:15,208 --> 00:03:16,375
+[CHEVAL]
+And somehow, the Black Blight's
+
+32
+00:03:16,458 --> 00:03:18,166
+connected to this quicksand?
+
+33
+00:03:18,250 --> 00:03:20,000
+Possibly. The Scrivener's
+believe it is,
+
+34
+00:03:20,083 --> 00:03:22,458
+but they're not certain yet.
+
+35
+00:03:22,541 --> 00:03:24,000
+So to confirm it either way,
+
+36
+00:03:24,083 --> 00:03:26,458
+I'd like to go with you
+into the desert.
+
+37
+00:03:26,541 --> 00:03:29,291
+[MILLE] You sure?
+It's gonna be dangerous.
+
+38
+00:03:29,375 --> 00:03:31,333
+If the Black Blight's
+behind this quicksand,
+
+39
+00:03:31,416 --> 00:03:33,333
+I'll do anything to stop it.
+
+40
+00:03:33,416 --> 00:03:34,833
+That's right.
+
+41
+00:03:34,916 --> 00:03:36,291
+Yeah.
+
+42
+00:03:37,833 --> 00:03:39,875
+[HYORO] Have the Scriveners
+found any actual evidence
+
+43
+00:03:39,958 --> 00:03:42,250
+that Black Blight's involved?
+
+44
+00:03:42,333 --> 00:03:43,291
+[ALL]
+Uuh...
+
+45
+00:03:43,375 --> 00:03:44,958
+In the towns
+on the desert's edge,
+
+46
+00:03:45,041 --> 00:03:47,000
+the villagers have been talking.
+
+47
+00:03:47,083 --> 00:03:48,541
+Rumors about black monsters
+
+48
+00:03:48,625 --> 00:03:50,583
+coming out of
+the sands at night.
+
+49
+00:03:50,666 --> 00:03:53,375
+So large that they
+hide the moon from view.
+
+50
+00:03:53,458 --> 00:03:55,041
+Black monsters.
+
+51
+00:03:55,125 --> 00:03:56,625
+[CHEVAL]
+It has to be the Blight.
+
+52
+00:03:56,708 --> 00:03:58,583
+There's no doubt about it!
+
+53
+00:03:58,666 --> 00:04:00,916
+I agree, and that's why
+I'm coming with you.
+
+54
+00:04:01,000 --> 00:04:03,416
+There's a camp called Oasum
+that's full of refugees
+
+55
+00:04:03,500 --> 00:04:05,166
+who have lost
+their homes to the desert.
+
+56
+00:04:05,250 --> 00:04:06,750
+We can stop there
+to hear their stories
+
+57
+00:04:06,833 --> 00:04:08,833
+of the Blighted monsters.
+
+58
+00:04:08,916 --> 00:04:10,291
+Let's go!
+
+59
+00:04:17,208 --> 00:04:19,750
+[SIMONE] "I'm sure you
+must have seen or heard by now.
+
+60
+00:04:19,833 --> 00:04:22,208
+There reports of drastic,
+environmental changes
+
+61
+00:04:22,291 --> 00:04:24,291
+in the Desert Lands.
+
+62
+00:04:24,375 --> 00:04:26,583
+Based on the evidence,
+we believe the Black Blight
+
+63
+00:04:26,666 --> 00:04:28,750
+to be responsible
+for this phenomenon,
+
+64
+00:04:28,833 --> 00:04:32,250
+just as it was the cause of
+the incident in Hakum Village.
+
+65
+00:04:32,333 --> 00:04:34,625
+Therefore, I am asking
+for the Rider's help,
+
+66
+00:04:34,708 --> 00:04:38,125
+launching an independent
+investigation into the matter.
+
+67
+00:04:38,208 --> 00:04:40,333
+I know you originally
+come from a desert village,
+
+68
+00:04:40,416 --> 00:04:43,125
+so I thought it
+important to update you.
+
+69
+00:04:43,208 --> 00:04:45,416
+P.S. I hear that
+your current Quest
+
+70
+00:04:45,500 --> 00:04:48,166
+is an Desert Island
+Grand Hunt-a-Thon.
+
+71
+00:04:48,250 --> 00:04:50,291
+I know it's not
+my place to give advice,
+
+72
+00:04:50,375 --> 00:04:53,708
+but don't try too hard."
+
+73
+00:04:53,791 --> 00:04:55,166
+Uh.
+
+74
+00:04:55,250 --> 00:04:56,333
+[REVERTO]
+In other words:
+
+75
+00:04:56,416 --> 00:04:59,291
+"Finish it up
+and go help the kids."
+
+76
+00:04:59,375 --> 00:05:00,708
+[LILIA]
+Okay. This should be
+
+77
+00:05:00,791 --> 00:05:02,916
+enough gear for
+a few days in the desert.
+
+78
+00:05:03,000 --> 00:05:05,625
+No, you forgot the single
+most important item!
+
+79
+00:05:05,708 --> 00:05:06,708
+What's that?
+
+80
+00:05:06,791 --> 00:05:08,958
+Donuts, of course!
+
+81
+00:05:09,041 --> 00:05:10,958
+I put Mille and Hyoro
+in charge of packing
+
+82
+00:05:11,041 --> 00:05:12,416
+all the provisions.
+
+83
+00:05:12,500 --> 00:05:14,833
+They should be meeting us
+back here any minute.
+
+84
+00:05:14,916 --> 00:05:17,208
+--[LUTE] Oh! There they are!
+--[NAVIROU] Huh?
+
+85
+00:05:17,291 --> 00:05:19,916
+[LUTE] Well, they definitely
+got a lot of something!
+
+86
+00:05:20,000 --> 00:05:21,666
+[NAVIROU]
+Ooh!
+
+87
+00:05:21,750 --> 00:05:23,791
+Navirou can't handle
+the mystery any longer!
+
+88
+00:05:23,875 --> 00:05:26,291
+Open up those bags and
+give him all the donuts!
+
+89
+00:05:26,375 --> 00:05:27,958
+The only thing
+Lilia had on the list
+
+90
+00:05:28,041 --> 00:05:30,583
+were standard field rations
+and Well-Done Steak.
+
+91
+00:05:30,666 --> 00:05:31,666
+Yeah.
+
+92
+00:05:31,750 --> 00:05:34,750
+You're kidding. No donuts.
+
+93
+00:05:34,833 --> 00:05:36,916
+Navirou will die!
+
+94
+00:05:37,000 --> 00:05:40,166
+Huh? Donut!
+
+95
+00:05:40,250 --> 00:05:41,666
+That should cheer you up.
+
+96
+00:05:41,750 --> 00:05:45,583
+Hooray, Cheval! Navirou's
+top pupil comes through!
+
+97
+00:05:45,666 --> 00:05:47,666
+[CHEVAL laughing]
+Navirou, you're heavy.
+
+98
+00:05:47,750 --> 00:05:49,250
+[NAVIROU]
+Don't hold back now!
+
+99
+00:05:49,333 --> 00:05:51,125
+Pet Navirou
+as much as you'd like!
+
+100
+00:05:51,208 --> 00:05:53,500
+Oh good, he's back to normal.
+
+101
+00:05:53,583 --> 00:05:55,041
+[MILLE]
+Cheval?
+
+102
+00:05:55,125 --> 00:05:56,958
+When I was mentioning
+the Black Blight earlier,
+
+103
+00:05:57,041 --> 00:05:59,583
+he just didn't
+seem like himself.
+
+104
+00:05:59,666 --> 00:06:05,291
+[LUTE] I guess. He just wants
+to stop the Black Blight.
+
+105
+00:06:05,375 --> 00:06:07,250
+[LILIA]
+Yeah.
+
+106
+00:06:07,333 --> 00:06:09,666
+Check, check, and check!
+
+107
+00:06:09,750 --> 00:06:12,166
+Everything's accounted
+for and packed up.
+
+108
+00:06:12,250 --> 00:06:15,000
+We'll hit the road first thing
+tomorrow morning, okay?
+
+109
+00:06:15,083 --> 00:06:16,500
+[ALL]
+Mm!
+
+110
+00:06:16,583 --> 00:06:18,833
+The desert can be
+a really unforgiving place,
+
+111
+00:06:18,916 --> 00:06:21,291
+so, everyone,
+get plenty of rest tonight.
+
+112
+00:06:21,375 --> 00:06:23,125
+This is so cool, Lilia.
+
+113
+00:06:23,208 --> 00:06:25,666
+It's like you're a
+full fledged scrivener now!
+
+114
+00:06:25,750 --> 00:06:27,083
+Yeah, not really.
+
+115
+00:06:27,166 --> 00:06:29,666
+And you look like a natural
+in that uniform too!
+
+116
+00:06:29,750 --> 00:06:31,000
+[laughs]
+
+117
+00:06:31,083 --> 00:06:33,625
+I'm just an apprentice,
+you guys, but thank you!
+
+118
+00:06:33,708 --> 00:06:35,958
+As expected from
+Navirou's top pupil!
+
+119
+00:06:36,041 --> 00:06:39,083
+What? How many top pupils
+do you have, Navirou?
+
+120
+00:06:39,166 --> 00:06:40,500
+[ALL laugh]
+
+121
+00:06:40,583 --> 00:06:43,750
+[NAVIROU] As many as there are!
+And that's a Navi-rule.
+
+122
+00:06:43,833 --> 00:06:45,000
+[LUTE]
+What part of that is a rule?
+
+123
+00:06:45,083 --> 00:06:46,625
+[MILLE]
+That doesn't even make sense.
+
+124
+00:06:46,708 --> 00:06:47,541
+[HYORO]
+Yeah.
+
+125
+00:06:47,625 --> 00:06:49,000
+[NAVIROU]
+Aaah!
+
+126
+00:06:57,000 --> 00:06:59,375
+It could pose a real
+danger to your flowerbed.
+
+127
+00:06:59,458 --> 00:07:00,708
+And so it goes.
+
+128
+00:07:00,791 --> 00:07:03,500
+If that happens,
+I'll just plant more seeds.
+
+129
+00:07:03,583 --> 00:07:05,750
+The garden will bloom again.
+
+130
+00:07:09,916 --> 00:07:11,708
+[gasps]
+
+131
+00:07:13,041 --> 00:07:14,583
+[LILIA, MILLE]
+Cheval!
+
+132
+00:07:15,541 --> 00:07:16,750
+[LILIA]
+Hey, there you are.
+
+133
+00:07:16,833 --> 00:07:19,375
+I got worried when
+I didn't see you at the Inn.
+
+134
+00:07:19,458 --> 00:07:20,750
+[CHEVAL]
+Sorry.
+
+135
+00:07:20,833 --> 00:07:23,291
+Trouble sleeping?
+
+136
+00:07:23,375 --> 00:07:26,500
+Well, don't feel bad.
+I can't sleep at all, either.
+
+137
+00:07:26,583 --> 00:07:28,875
+I'm representing the
+Scriverners on this journey.
+
+138
+00:07:28,958 --> 00:07:30,875
+It's a big responsibility.
+
+139
+00:07:30,958 --> 00:07:33,875
+Ah! I'm so nervous, Cheval!
+
+140
+00:07:33,958 --> 00:07:37,583
+You'll be fine, Lilia.
+Take deep breaths.
+
+141
+00:07:39,583 --> 00:07:40,916
+You've been
+telling me to do that
+
+142
+00:07:41,000 --> 00:07:44,041
+ever since we were
+little kids, Cheval.
+
+143
+00:07:44,125 --> 00:07:50,333
+[inhales, exhales]
+
+144
+00:07:50,416 --> 00:07:52,166
+[LILIA]
+Yep. Still works.
+
+145
+00:07:52,250 --> 00:07:54,250
+C'mon, now you try it.
+
+146
+00:07:54,333 --> 00:07:56,041
+[CHEVAL]
+Wait, why me?
+
+147
+00:07:56,125 --> 00:07:58,208
+[LILIA]
+Why not?
+
+148
+00:08:02,958 --> 00:08:04,291
+[MILLE, LILIA yawn]
+
+149
+00:08:04,375 --> 00:08:07,166
+Hey, were you guys up late?
+
+150
+00:08:07,250 --> 00:08:09,625
+I was too nervous
+about today to sleep.
+
+151
+00:08:09,708 --> 00:08:13,208
+--You, too?
+--What? No, I feel fine.
+
+152
+00:08:13,291 --> 00:08:15,958
+According to this, we'll be
+in the desert lands soon.
+
+153
+00:08:16,041 --> 00:08:17,458
+Oh! Then we should stop here
+
+154
+00:08:17,541 --> 00:08:20,791
+so I can make each
+of us a Cool Drink.
+
+155
+00:08:20,875 --> 00:08:22,916
+Are these gonna be gross?
+
+156
+00:08:23,000 --> 00:08:25,250
+[CHEVAL]
+I'm not sure.
+
+157
+00:08:25,333 --> 00:08:28,083
+But at least they'll help us
+handle the desert heat.
+
+158
+00:08:28,166 --> 00:08:29,875
+Just gimme a second, guys.
+
+159
+00:08:29,958 --> 00:08:32,875
+These Cool Drinks have
+a few tricky ingredients.
+
+160
+00:08:32,958 --> 00:08:34,458
+[ALL gasp]
+
+161
+00:08:34,541 --> 00:08:35,916
+I'm mixing a new combination
+
+162
+00:08:36,000 --> 00:08:37,541
+that I learned
+from Captain Simone.
+
+163
+00:08:37,625 --> 00:08:40,500
+It's so tasty,
+it'll knock your socks off!
+
+164
+00:08:42,666 --> 00:08:44,958
+[LILIA humming]
+
+165
+00:08:45,041 --> 00:08:46,875
+Done! Bottom's up!
+
+166
+00:08:46,958 --> 00:08:49,083
+[ALL]
+Eeeh...
+
+167
+00:08:49,166 --> 00:08:51,500
+I made plenty, so don't be shy!
+
+168
+00:08:51,583 --> 00:08:52,708
+And remember, you guys,
+
+169
+00:08:52,791 --> 00:08:55,625
+restraint is hazardous
+to your health!
+
+170
+00:08:57,583 --> 00:08:59,458
+[LUTE]
+Cheval!
+
+171
+00:08:59,541 --> 00:09:01,333
+Let's drink ours together!
+
+172
+00:09:01,416 --> 00:09:03,000
+[BOTH]
+One. Two.
+
+173
+00:09:05,875 --> 00:09:07,833
+[BOTH laughing]
+
+174
+00:09:07,916 --> 00:09:10,875
+Oh, well, that wasn't so--
+
+175
+00:09:10,958 --> 00:09:14,083
+Blaaah! It takes
+a second to kick in!
+
+176
+00:09:14,166 --> 00:09:15,791
+Nasty!
+
+177
+00:09:15,875 --> 00:09:17,416
+[MILLE]
+Cheval's frozen!
+
+178
+00:09:17,500 --> 00:09:19,458
+[HYORO]
+Um, are you okay?
+
+179
+00:09:19,541 --> 00:09:20,750
+[laughs]
+
+180
+00:09:20,833 --> 00:09:23,833
+It's so delicious,
+he's positively speechless!
+
+181
+00:09:23,916 --> 00:09:25,583
+You're so delusional!
+
+182
+00:09:25,666 --> 00:09:27,791
+It's a crime
+you can't see the truth!
+
+183
+00:09:27,875 --> 00:09:30,250
+Here, Lilia,
+why don't you try it!
+
+184
+00:09:30,333 --> 00:09:36,500
+Okay...
+[slurps]
+
+185
+00:09:36,583 --> 00:09:38,416
+Now, watch, that gross
+aftertaste will kick in--
+
+186
+00:09:38,500 --> 00:09:40,291
+Oh, it's even
+better than I thought!
+
+187
+00:09:40,375 --> 00:09:42,583
+I could drink this all the time!
+
+188
+00:09:42,666 --> 00:09:44,250
+[LUTE, CHEVAL groan]
+
+189
+00:09:44,333 --> 00:09:46,166
+[LILIA]
+All right, guys! You're next!
+
+190
+00:09:46,250 --> 00:09:47,750
+[HYORO]
+Eh!
+
+191
+00:09:47,833 --> 00:09:49,333
+[HYORO, MILLE groan]
+
+192
+00:09:49,416 --> 00:09:51,000
+[LILIA]
+You, too, Navirou!
+
+193
+00:09:51,083 --> 00:09:54,458
+Navirou's eating only donuts
+for the duration of this trip!
+
+194
+00:09:54,541 --> 00:09:57,250
+You aren't you worried
+about the desert drying you out?
+
+195
+00:09:57,333 --> 00:10:00,333
+Navirou has
+a body of steel! Observe.
+
+196
+00:10:00,416 --> 00:10:03,000
+A little heat's never
+slowed down this fit Felyne!
+
+197
+00:10:03,083 --> 00:10:05,333
+[chuckles]
+
+198
+00:10:07,875 --> 00:10:10,625
+[CHEVAL] Y'know, taste aside,
+that Cool Drink really worked.
+
+199
+00:10:10,708 --> 00:10:12,458
+[HYORO]
+Good thing we all gave in, huh?
+
+200
+00:10:12,541 --> 00:10:15,041
+[MILLE] I don't know.
+My tongue is still tingling.
+
+201
+00:10:15,125 --> 00:10:17,750
+[LUTE] Well, if we didn't drink
+it, we'd be parched and weak.
+
+202
+00:10:17,833 --> 00:10:20,583
+It'd be awful!
+[laughs]
+
+203
+00:10:20,666 --> 00:10:22,541
+C'mon, buddy, no one's
+gonna look down on you
+
+204
+00:10:22,625 --> 00:10:25,208
+if just swallow your pride
+and have a Cool Drink.
+
+205
+00:10:25,291 --> 00:10:28,041
+Navirou would rather
+wither away to nothingness
+
+206
+00:10:28,125 --> 00:10:30,500
+than swallow that stuff.
+
+207
+00:10:36,583 --> 00:10:37,791
+[NAVIROU]
+An oasis!
+
+208
+00:10:37,875 --> 00:10:39,875
+Once again, Navirou's expert
+sense of direction
+
+209
+00:10:39,958 --> 00:10:41,625
+has saved you all!
+
+210
+00:10:41,708 --> 00:10:42,833
+[LUTE]
+Navirou!
+
+211
+00:10:42,916 --> 00:10:46,000
+That's not an oasis! Come back!
+
+212
+00:10:46,083 --> 00:10:48,750
+[NAVIROU]
+What? Where's the water?
+
+213
+00:10:50,375 --> 00:10:52,333
+[LILIA]
+Navi, get out!
+
+214
+00:11:00,541 --> 00:11:02,291
+[LILIA]
+A Barroth!
+
+215
+00:11:04,083 --> 00:11:06,250
+[roars]
+
+216
+00:11:06,333 --> 00:11:08,583
+Ride On!
+
+217
+00:11:08,666 --> 00:11:10,291
+Rathian!
+
+218
+00:11:16,125 --> 00:11:19,041
+[wailing]
+
+219
+00:11:20,583 --> 00:11:22,916
+Navirou, you have to
+stop struggling!
+
+220
+00:11:23,000 --> 00:11:25,750
+He's already pretty deep
+in that mud!
+
+221
+00:11:26,958 --> 00:11:30,791
+[MILLE grunting]
+
+222
+00:11:32,833 --> 00:11:34,083
+Navirou knew you'd never let
+
+223
+00:11:34,166 --> 00:11:36,416
+your fearless leader
+drown out here!
+
+224
+00:11:36,500 --> 00:11:40,375
+[BOTH grunting]
+
+225
+00:11:40,458 --> 00:11:41,458
+Careful you guys!
+
+226
+00:11:41,541 --> 00:11:43,625
+Barroth has the ability
+to fling mud!
+
+227
+00:11:43,708 --> 00:11:45,541
+Don't let it hit you!
+
+228
+00:11:49,208 --> 00:11:51,750
+Because that mud
+will cement you in place.
+
+229
+00:11:51,833 --> 00:11:53,375
+[MILLE, HYORO groaning]
+
+230
+00:11:53,458 --> 00:11:55,541
+[LUTE]
+Mille! Hyoro!
+
+231
+00:11:55,625 --> 00:12:00,750
+[grunting]
+
+232
+00:12:00,833 --> 00:12:03,083
+[MILLE, HYORO scream muffled]
+
+233
+00:12:03,166 --> 00:12:04,541
+[roars]
+
+234
+00:12:04,625 --> 00:12:07,208
+Ride On!
+
+235
+00:12:07,291 --> 00:12:09,166
+Rathian!
+
+236
+00:12:17,958 --> 00:12:20,916
+[roars]
+
+237
+00:12:21,000 --> 00:12:23,125
+[LUTE]
+It's Cheval!
+
+238
+00:12:31,000 --> 00:12:33,000
+[LILIA]
+It's a cleanser!
+
+239
+00:12:33,083 --> 00:12:34,625
+Grab on!
+
+240
+00:12:34,708 --> 00:12:36,750
+I owe ya one, Lilia.
+
+241
+00:12:36,833 --> 00:12:38,708
+[BARROTH roars]
+
+242
+00:12:45,375 --> 00:12:47,166
+[roars]
+
+243
+00:12:53,708 --> 00:12:56,500
+Cheval! This one's not Blighted!
+
+244
+00:12:56,583 --> 00:12:59,583
+It's just scared because
+we disturbed its den!
+
+245
+00:12:59,666 --> 00:13:01,916
+[CHEVAL]
+I will stop it!
+
+246
+00:13:02,000 --> 00:13:03,458
+[roars]
+
+247
+00:13:09,291 --> 00:13:11,375
+Cheval!
+
+248
+00:13:23,458 --> 00:13:25,458
+[roars]
+
+249
+00:13:25,541 --> 00:13:27,083
+[gasps]
+
+250
+00:13:34,791 --> 00:13:36,916
+It's caught in the Shock Trap!
+
+251
+00:13:37,000 --> 00:13:40,416
+[MILLE] Now use these
+Tranq Bombs to put it to sleep!
+
+252
+00:13:40,500 --> 00:13:41,666
+Right!
+
+253
+00:13:50,625 --> 00:13:53,208
+[HYORO]
+All right!
+
+254
+00:13:53,291 --> 00:13:56,875
+Please don't celebrate until
+Navirou's back on solid ground.
+
+255
+00:13:56,958 --> 00:13:58,250
+[KIDS]
+Oh.
+
+256
+00:13:59,833 --> 00:14:02,291
+You're lucky we were able
+to get you out of there!
+
+257
+00:14:02,375 --> 00:14:05,041
+Navirou can't believe
+you completly forgot about him!
+
+258
+00:14:05,125 --> 00:14:06,166
+How cruel!
+
+259
+00:14:06,250 --> 00:14:08,250
+Come on Navi,
+let's get that mud off.
+
+260
+00:14:08,333 --> 00:14:10,125
+You do realize all of this
+would have been avoided
+
+261
+00:14:10,208 --> 00:14:13,000
+if you just had a Cool Drink
+like the rest of us.
+
+262
+00:14:14,125 --> 00:14:17,000
+[NAVIROU sobbing]
+
+263
+00:14:21,500 --> 00:14:24,000
+So what, are we gonna do
+with the Barroth now?
+
+264
+00:14:24,083 --> 00:14:25,750
+[LILIA] Well, since it
+doesn't appear to be infected
+
+265
+00:14:25,833 --> 00:14:27,291
+with the Black Blight,
+
+266
+00:14:27,375 --> 00:14:30,291
+it's best if we let the Guild
+decide how to handle things.
+
+267
+00:14:30,375 --> 00:14:32,708
+As for us, once we
+get through this valley,
+
+268
+00:14:32,791 --> 00:14:34,916
+the road to Oasum splits in two.
+
+269
+00:14:35,000 --> 00:14:36,500
+According to the map,
+the mountain route
+
+270
+00:14:36,583 --> 00:14:38,083
+is pretty treacherous.
+
+271
+00:14:38,166 --> 00:14:40,250
+And there are no oases
+along the way.
+
+272
+00:14:40,333 --> 00:14:41,500
+Don't worry, Lilia.
+
+273
+00:14:41,583 --> 00:14:43,750
+I don't mind checking out
+that route for us.
+
+274
+00:14:43,833 --> 00:14:45,416
+[LILIA]
+But you can't go alone!
+
+275
+00:14:45,500 --> 00:14:47,666
+[MILLE]
+Then I'll go, too.
+
+276
+00:14:47,750 --> 00:14:48,833
+Me too.
+
+277
+00:14:48,916 --> 00:14:50,500
+Aw, thanks, guys.
+I'll fell a lot better
+
+278
+00:14:50,583 --> 00:14:52,500
+with you two coming along.
+
+279
+00:14:53,500 --> 00:14:55,083
+Great! And while you do that,
+
+280
+00:14:55,166 --> 00:14:56,916
+Lute and I will take
+the route through the Valley
+
+281
+00:14:57,000 --> 00:14:59,166
+and hand over
+the Barroth to the Guild.
+
+282
+00:14:59,250 --> 00:15:02,208
+[LUTE] Mmmm! This is
+gonna be so ultra tasty!
+
+283
+00:15:02,291 --> 00:15:04,875
+--[NAVIROU] Yoink! Ha-ha!
+--[LUTE] Hey!
+
+284
+00:15:04,958 --> 00:15:07,250
+--What a feast!
+--[LUTE] Give it back!
+
+285
+00:15:07,333 --> 00:15:08,625
+You won't get one bite!
+
+286
+00:15:08,708 --> 00:15:09,875
+[NAVIROU]
+Not fair!
+
+287
+00:15:09,958 --> 00:15:12,083
+You can't tempt Navirou
+with something so tasty!
+
+288
+00:15:12,166 --> 00:15:13,416
+It's Navirou's!
+
+289
+00:15:13,500 --> 00:15:16,375
+I didn't make it for you!
+
+290
+00:15:16,458 --> 00:15:18,166
+[NAVIROU] We need to
+settle all food scores,
+
+291
+00:15:18,250 --> 00:15:20,333
+right here right now!
+Let Navirou eat that!
+
+292
+00:15:20,416 --> 00:15:22,875
+[LUTE] No way! Forget it!
+You never make any sense!
+
+293
+00:15:22,958 --> 00:15:25,041
+[NAVIROU]
+Give it to Navirou!
+
+294
+00:15:35,416 --> 00:15:40,291
+[CHEVAL gasping]
+
+295
+00:15:40,375 --> 00:15:44,041
+[CHEVAL]
+Mom. Mom.
+
+296
+00:15:44,125 --> 00:15:48,833
+[MILLE]
+Cheval? Cheval! Cheval!
+
+297
+00:15:49,958 --> 00:15:52,625
+Are you okay? What's wrong?
+
+298
+00:15:52,708 --> 00:15:55,708
+Cheval?
+
+299
+00:15:55,791 --> 00:15:57,666
+Bad dream.
+
+300
+00:16:00,708 --> 00:16:04,833
+[CHEVAL] I've been dreaming
+about that night a lot lately.
+
+301
+00:16:04,916 --> 00:16:08,500
+And now, when I see
+a Monster attack someone,
+
+302
+00:16:08,583 --> 00:16:12,416
+I get angry, and this rage
+wells up from inside me.
+
+303
+00:16:12,500 --> 00:16:16,125
+At this point,
+it's almost a reflex.
+
+304
+00:16:16,208 --> 00:16:21,500
+I don't want what happened to me
+to happen to anyone else.
+
+305
+00:16:21,583 --> 00:16:23,083
+Maybe we should
+go out of our way
+
+306
+00:16:23,166 --> 00:16:26,083
+to defeat monsters
+who hurt people.
+
+307
+00:16:28,208 --> 00:16:30,000
+Well, if that feels right,
+
+308
+00:16:30,083 --> 00:16:34,166
+then it's probably best
+if you follow your instincts.
+
+309
+00:16:34,250 --> 00:16:38,166
+The Nargacuga
+changed things for all of us.
+
+310
+00:16:38,250 --> 00:16:40,958
+You're thinking about
+taking a new path.
+
+311
+00:16:41,041 --> 00:16:44,041
+Lilia joined the Scriveners
+and is tracking the Blight.
+
+312
+00:16:44,125 --> 00:16:47,583
+Hyoro's become braver
+and stronger, in his own way.
+
+313
+00:16:47,666 --> 00:16:50,708
+And there's Lute, whose dreams
+have only gotten bigger.
+
+314
+00:16:53,875 --> 00:16:58,166
+[MILLE] I'd like to
+find my own path, too.
+
+315
+00:16:58,250 --> 00:17:00,250
+[CHEVAL]
+You will find it, Mille.
+
+316
+00:17:00,333 --> 00:17:02,125
+I know you can.
+
+317
+00:17:05,500 --> 00:17:07,875
+Believe in yourself.
+
+318
+00:17:09,583 --> 00:17:12,083
+[MILLE]
+Thank you, Cheval.
+
+319
+00:17:12,166 --> 00:17:14,625
+Eeeh...
+
+320
+00:17:24,708 --> 00:17:26,208
+For the road, buddy!
+
+321
+00:17:26,291 --> 00:17:27,750
+You sure?
+
+322
+00:17:27,833 --> 00:17:30,250
+Last night, you seemed pretty
+happy it turned out so well.
+
+323
+00:17:30,333 --> 00:17:31,500
+Well, of course!
+
+324
+00:17:31,583 --> 00:17:33,625
+It tastes great, though
+nothing can ever compare
+
+325
+00:17:33,708 --> 00:17:36,208
+to the dishes
+Mrs. Vlau would make.
+
+326
+00:17:36,291 --> 00:17:37,583
+Thanks, Lute.
+
+327
+00:17:37,666 --> 00:17:40,000
+[LILIA] And here's
+an Energy Drink from me.
+
+328
+00:17:40,083 --> 00:17:41,750
+If you feel tired
+or under-the-weather,
+
+329
+00:17:41,833 --> 00:17:44,416
+drink this and you'll perk
+right back up, good as new!
+
+330
+00:17:44,500 --> 00:17:47,750
+Don't drink it, it'll just
+make you feel worse. Right?
+
+331
+00:17:47,833 --> 00:17:48,958
+[chuckles]
+
+332
+00:17:49,041 --> 00:17:51,000
+What? You want some, too?
+
+333
+00:17:51,083 --> 00:17:52,333
+Oh, no, no, no.
+
+334
+00:17:52,416 --> 00:17:54,125
+I couldn't take
+Cheval's Energy Drink.
+
+335
+00:17:54,208 --> 00:17:56,125
+Don't worry about me. I'm fine.
+
+336
+00:17:56,208 --> 00:17:57,583
+It's okay!
+
+337
+00:17:57,666 --> 00:18:00,833
+I already mixed up a huge
+pitcher of it, just for you!
+
+338
+00:18:00,916 --> 00:18:03,250
+Thank you for that, Navirou!
+
+339
+00:18:03,333 --> 00:18:05,666
+Uh, well, it's the thought
+that counts I guess.
+
+340
+00:18:05,750 --> 00:18:08,000
+Doesn't it though?
+Now, don't be shy!
+
+341
+00:18:08,083 --> 00:18:10,250
+I'm not shy--
+what are you talking about?
+
+342
+00:18:10,333 --> 00:18:14,583
+[laughing]
+
+343
+00:18:16,958 --> 00:18:18,875
+Be careful out there, guys!
+
+344
+00:18:18,958 --> 00:18:20,250
+[MILLE]
+You, too.
+
+345
+00:18:20,333 --> 00:18:22,208
+Right! Meet you in Oasum, Lute!
+
+346
+00:18:22,291 --> 00:18:24,750
+Yeah! I bet we
+beat you guys there!
+
+347
+00:18:24,833 --> 00:18:26,833
+Fine, then it's a race.
+
+348
+00:18:26,916 --> 00:18:28,875
+Stay safe out there, kids!
+
+349
+00:18:28,958 --> 00:18:31,041
+Same to you, bye!
+
+350
+00:18:37,208 --> 00:18:39,541
+Well, we better get a-move-on!
+
+351
+00:18:39,625 --> 00:18:40,750
+[LILIA]
+Right!
+
+352
+00:18:40,833 --> 00:18:41,833
+[NAVIROU]
+Mm!
+
+353
+00:18:41,916 --> 00:18:43,041
+What the--?
+
+354
+00:18:43,125 --> 00:18:44,250
+No way.
+
+355
+00:18:44,333 --> 00:18:45,583
+It's gone.
+
+356
+00:18:45,666 --> 00:18:47,541
+I swear,
+the Barroth was just here!
+
+357
+00:18:47,625 --> 00:18:49,791
+So where did it go?
+
+358
+00:18:49,875 --> 00:18:52,125
+[DR. MANELGER]
+It's our lucky day, Itsy-Bits!
+
+359
+00:18:52,208 --> 00:18:54,041
+We snagged ourselves a Barroth,
+
+360
+00:18:54,125 --> 00:18:56,708
+without getting our hands dirty!
+
+361
+00:18:56,791 --> 00:18:59,416
+It's all thanks to
+your genius, Dr. Manelger.
+
+362
+00:18:59,500 --> 00:19:01,583
+Once again, you've pulled off
+your signature move:
+
+363
+00:19:01,666 --> 00:19:02,916
+The Ol' Switcheroo!
+
+364
+00:19:03,000 --> 00:19:06,208
+You, sir, are
+an inspiration! Bravo!
+
+365
+00:19:06,291 --> 00:19:10,000
+Save some of that praise for the
+victories to come, Itsy-Bits!
+
+366
+00:19:10,083 --> 00:19:11,875
+Stealing this Barroth
+is but the first step
+
+367
+00:19:11,958 --> 00:19:13,583
+as we begin my larger plan
+
+368
+00:19:13,666 --> 00:19:16,958
+for an unprecedented
+revolution with Monsters!
+
+369
+00:19:17,041 --> 00:19:18,791
+[laughing]
+
+370
+00:19:18,875 --> 00:19:21,375
+[ITSY-BITS] Doctor, look!
+The ground is moving!
+
+371
+00:19:21,458 --> 00:19:24,458
+[DR. MANELGER] Mm? Ah, yes.
+Quicksand. Quite deadly!
+
+372
+00:19:24,541 --> 00:19:28,041
+As long as we don't fly too
+close, though, we'll be fine.
+
+373
+00:19:28,125 --> 00:19:30,916
+Huh? What's that?
+
+374
+00:19:31,000 --> 00:19:32,916
+Whoa, it is our lucky day!
+
+375
+00:19:33,000 --> 00:19:35,458
+First a Barroth,
+and now a Diablos!
+
+376
+00:19:35,541 --> 00:19:39,250
+The gods smile on me.
+They smile on me, I say!
+
+377
+00:19:39,333 --> 00:19:41,791
+A fact so important
+you repeated it twice!
+
+378
+00:19:41,875 --> 00:19:43,166
+Itsy-Bits!
+
+379
+00:19:43,250 --> 00:19:45,500
+Procure the Diablos,
+post-haste!
+
+380
+00:19:45,583 --> 00:19:47,000
+[ITSY-BITS]
+But you said quicksand is deadly
+
+381
+00:19:47,083 --> 00:19:48,583
+if we get too close!
+
+382
+00:19:48,666 --> 00:19:51,958
+[DR. MANELGER] 'Tis the common
+man who holds his life so dear!
+
+383
+00:19:57,291 --> 00:19:58,708
+[BOTH chuckle]
+
+384
+00:19:58,791 --> 00:20:00,833
+[ITSY-BITS]
+Doctor! That's not a Diablos!
+
+385
+00:20:00,916 --> 00:20:04,750
+That's a Plum Daimyo Hermitaur
+wearing a Diablos shell!
+
+386
+00:20:08,708 --> 00:20:10,458
+[DR. MANELGER, ITSY-BITS yell]
+
+387
+00:20:13,375 --> 00:20:15,708
+[BOTH]
+Somebody, help!
+
+388
+00:20:16,875 --> 00:20:20,250
+Let's go! Ride On!
+
+389
+00:20:20,333 --> 00:20:21,583
+Rathian!
+
+390
+00:20:21,666 --> 00:20:24,000
+Ride On!
+
+391
+00:20:24,083 --> 00:20:25,583
+Bulldrome!
+
+392
+00:20:25,666 --> 00:20:28,125
+Ride On!
+
+393
+00:20:28,208 --> 00:20:29,958
+Aptonoth!
+
+394
+00:20:32,666 --> 00:20:36,333
+[DR. MANELGER, ITSY-BITS yell]
+
+395
+00:20:36,416 --> 00:20:38,166
+Help's on the way!
+
+396
+00:20:48,333 --> 00:20:49,583
+[DR. MANELGER, ITSY-BITS yell]
+
+397
+00:20:49,666 --> 00:20:52,708
+--Cheval!
+--[HYORO] Mille! Look!
+
+398
+00:20:53,958 --> 00:20:56,000
+[HYORO]
+Where's Cheval?
+
+399
+00:21:00,375 --> 00:21:04,375
+[CHIEF OMNA] You must never
+forget the Riders' Laws.
+
+400
+00:21:04,458 --> 00:21:07,958
+Our humble lives unfold
+only by the grace of nature.
+
+401
+00:21:08,041 --> 00:21:11,166
+In many ways,
+we are a part of it.
+
+402
+00:21:11,250 --> 00:21:14,041
+Therefore, you must never
+take life unnecessarily,
+
+403
+00:21:14,125 --> 00:21:17,666
+you must protect
+and love all life.
+
+404
+00:21:41,916 --> 00:21:44,000
+[CHEVAL] The only thing
+that will stop these tragidies
+
+405
+00:21:44,083 --> 00:21:46,833
+is strength. Great strength!
+
+406
+00:21:46,916 --> 00:21:49,500
+And an iron will!
+
+407
+00:21:49,583 --> 00:21:51,500
+Rathian!
+
+408
+00:22:01,208 --> 00:22:03,541
+Scorching Slice Attack!
+
+409
+00:22:15,708 --> 00:22:17,375
+[BOTH]
+All right!
+
+410
+00:22:17,458 --> 00:22:20,375
+Oh, he's good.
+Very good in fact!
+
+411
+00:22:20,458 --> 00:22:23,250
+I think we'll
+get along just fine.
+
+412
+00:22:26,583 --> 00:22:31,250
+[CHEVAL] Any monster who hurts
+a person must be defeated!
+
+413
+00:22:33,250 --> 00:22:36,416
+[NAVIROU]
+<i>Monstie Manual</i> !
+
+414
+00:22:36,500 --> 00:22:38,166
+Here comes the part
+where Navirou
+
+415
+00:22:38,250 --> 00:22:39,750
+teaches you about Monsties.
+
+416
+00:22:39,833 --> 00:22:41,625
+Now then, Navirou hopes you have
+
+417
+00:22:41,708 --> 00:22:44,000
+your Media Trigger Smart
+Phone app open for this.
+
+418
+00:22:44,083 --> 00:22:46,291
+And get your eggs out,
+too, while you're at it!
+
+419
+00:22:46,375 --> 00:22:50,458
+Now it's time to form a
+Kinship with our Monsties!
+
+420
+00:22:51,625 --> 00:22:53,666
+The moment of new life!
+
+421
+00:22:53,750 --> 00:22:56,125
+Awaken!
+
+422
+00:22:59,250 --> 00:23:02,583
+[NAVIROU] Our Monstie
+this time is: Barroth!
+
+423
+00:23:02,666 --> 00:23:03,875
+Run into one of these
+in the wild
+
+424
+00:23:03,958 --> 00:23:05,708
+and you'll jump
+outta your shoes!
+
+425
+00:23:05,791 --> 00:23:09,500
+It uses the mud on its body
+for both offense and defense!
+
+426
+00:23:09,583 --> 00:23:13,708
+To top it off, that bony head
+crest has major crushing power!
+
+427
+00:23:13,791 --> 00:23:17,041
+Navirou can't wait to see what
+monster hatches next time!
+
+428
+00:23:18,000 --> 00:23:19,250
+[LUTE]
+Hey, guys! Lute here!
+
+429
+00:23:19,333 --> 00:23:21,083
+Well, we made it
+to the camp in Oasum,
+
+430
+00:23:21,166 --> 00:23:24,000
+but now a conflict's brewing
+between Riders and Hunters.
+
+431
+00:23:24,083 --> 00:23:27,208
+At this rate, we'll never
+slay that Cephadrome!
+
+432
+00:23:27,291 --> 00:23:29,666
+Next time: "Desert Mayday"!
+
+433
+00:23:29,750 --> 00:23:31,375
+Ride On!
+

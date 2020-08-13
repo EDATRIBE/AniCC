@@ -1,0 +1,2236 @@
+﻿1
+00:00:17,166 --> 00:00:20,125
+[NAZE] Sorry about this.
+I kept talkin' a big game,
+
+2
+00:00:20,208 --> 00:00:21,666
+but then we ran
+into some pirates,
+
+3
+00:00:21,750 --> 00:00:23,500
+and look at the
+state we're in now.
+
+4
+00:00:23,583 --> 00:00:25,500
+Ah, cut it out, Brother.
+
+5
+00:00:25,583 --> 00:00:28,375
+It's just a cheap fight
+some thugs picked with us,
+
+6
+00:00:28,458 --> 00:00:29,791
+that's all.
+
+7
+00:00:29,875 --> 00:00:32,458
+So what do ya you think
+we should do about it?
+
+8
+00:00:32,541 --> 00:00:34,458
+Well, they might be thugs,
+
+9
+00:00:34,541 --> 00:00:37,166
+but that doesn't mean
+I wanna let 'em slide.
+
+10
+00:00:37,250 --> 00:00:38,666
+Yeah. Same here.
+
+11
+00:00:38,750 --> 00:00:41,375
+Guess it's settled, then.
+It's time to teach all those
+
+12
+00:00:41,458 --> 00:00:44,666
+little punks a lesson about
+goin' up against us.
+
+13
+00:00:49,041 --> 00:00:50,583
+[TAKAKI]
+Oh, great.
+
+14
+00:00:50,666 --> 00:00:53,250
+I can't believe I'm so
+useless at a time like this.
+
+15
+00:00:53,333 --> 00:00:54,916
+Don't talk like that.
+
+16
+00:00:55,000 --> 00:00:57,375
+Right now, your job is to
+focus on getting better.
+
+17
+00:00:57,458 --> 00:01:00,166
+She's right, man. Just relax
+and get some rest, okay?
+
+18
+00:01:00,250 --> 00:01:01,708
+But I...
+
+19
+00:01:01,791 --> 00:01:04,500
+The boss says they're gonna
+deal with it, so stop worrying.
+
+20
+00:01:04,583 --> 00:01:05,833
+[MERRIBIT]
+I think that's best.
+
+21
+00:01:05,916 --> 00:01:07,958
+You can't rest properly
+if you're on edge.
+
+22
+00:01:08,041 --> 00:01:09,250
+[RIDE]
+Hey, ya hear that?
+
+23
+00:01:09,333 --> 00:01:11,041
+Even Miss Merribit
+agrees with me.
+
+24
+00:01:11,125 --> 00:01:12,291
+[TAKAKI]
+Ride I really--
+
+25
+00:01:12,375 --> 00:01:15,291
+[RIDE] Look. Wouldja go
+back to sleep already?
+
+26
+00:01:15,375 --> 00:01:17,000
+[NAZE] I didn't think
+finding the Brewer's ship
+
+27
+00:01:17,083 --> 00:01:18,375
+would be this hard.
+
+28
+00:01:18,458 --> 00:01:21,041
+We've sent our extended
+range Hyakuri out on patrol
+
+29
+00:01:21,125 --> 00:01:22,875
+several times already,
+
+30
+00:01:22,958 --> 00:01:25,166
+but we haven't seen so
+much as a shadow.
+
+31
+00:01:25,250 --> 00:01:27,958
+You mean they can see us,
+but we can't see them?
+
+32
+00:01:28,041 --> 00:01:29,500
+But how is that
+even possible?
+
+33
+00:01:29,583 --> 00:01:31,375
+And how are they
+keeping track of us?
+
+34
+00:01:31,458 --> 00:01:33,333
+Our ship is carrying
+Ahab Reactors.
+
+35
+00:01:33,416 --> 00:01:34,916
+Without any Adriadne signals,
+
+36
+00:01:35,000 --> 00:01:36,833
+it should be impossible
+to locate us.
+
+37
+00:01:36,916 --> 00:01:40,625
+And the fact that they demanded
+Kudelia raises more questions.
+
+38
+00:01:40,708 --> 00:01:42,458
+They know things
+about our ships,
+
+39
+00:01:42,541 --> 00:01:47,041
+and even the path we're taking.
+Smells like a rat to me.
+
+40
+00:01:47,125 --> 00:01:51,208
+Only Teiwaz knew our route.
+At least, that's what I thought.
+
+41
+00:01:51,291 --> 00:01:52,666
+Is that right?
+
+42
+00:01:52,750 --> 00:01:56,000
+Our own navigation officer
+came up with it by herself.
+
+43
+00:01:56,083 --> 00:01:59,333
+Of course, we logged it in to
+Teiwaz before we left Saisei.
+
+44
+00:01:59,416 --> 00:02:00,875
+Then if our info was leaked,
+
+45
+00:02:00,958 --> 00:02:03,208
+it would have to have come
+from someone back there.
+
+46
+00:02:03,291 --> 00:02:05,458
+[BISCUIT] Could something
+like that really happen?
+
+47
+00:02:05,541 --> 00:02:07,958
+Once an organization gets
+as big as we are,
+
+48
+00:02:08,041 --> 00:02:11,375
+it's not that easy to monitor
+everything that goes on.
+
+49
+00:02:11,458 --> 00:02:13,500
+So the Brewers could be
+waiting to ambush us
+
+50
+00:02:13,583 --> 00:02:15,666
+at any point along
+our flight path.
+
+51
+00:02:15,750 --> 00:02:17,416
+Then why don't we just
+change our course?
+
+52
+00:02:17,500 --> 00:02:18,791
+We could do that,
+
+53
+00:02:18,875 --> 00:02:20,750
+but then we'd miss our
+chance to get back at them.
+
+54
+00:02:20,833 --> 00:02:22,750
+[BISCUIT]
+So what do you suggest?
+
+55
+00:02:22,833 --> 00:02:25,541
+If that bloated freak
+is lying in wait for us,
+
+56
+00:02:25,625 --> 00:02:28,541
+there are several ways
+we could handle it.
+
+57
+00:02:28,625 --> 00:02:30,583
+[YUKINOJO] Okay. I'll take
+a look at it for ya.
+
+58
+00:02:30,666 --> 00:02:32,000
+Thanks, Old Man.
+
+59
+00:02:35,375 --> 00:02:36,791
+[exhales]
+
+60
+00:02:49,208 --> 00:02:52,000
+It's too late, Akihiro.
+
+61
+00:02:52,083 --> 00:02:57,041
+♪
+
+62
+00:04:23,666 --> 00:04:24,958
+[BISCUIT]
+According to Ms. Amida,
+
+63
+00:04:25,041 --> 00:04:26,541
+the point where the Brewers
+are expected to spring
+
+64
+00:04:26,625 --> 00:04:28,833
+their ambush on us is
+somewhere around...
+
+65
+00:04:28,916 --> 00:04:30,625
+...here.
+
+66
+00:04:30,708 --> 00:04:32,666
+I see. The Debris Zone.
+
+67
+00:04:32,750 --> 00:04:35,416
+[BISCUIT] Yeah. After the
+Calamity War came to an end,
+
+68
+00:04:35,500 --> 00:04:37,625
+the remains of Mobile Suits
+and other military ships
+
+69
+00:04:37,708 --> 00:04:39,250
+collected there.
+
+70
+00:04:39,333 --> 00:04:43,083
+A passage runs through it
+almost like a secret corridor.
+
+71
+00:04:43,166 --> 00:04:46,291
+[CHAD] Why has all the debris
+clumped together like that?
+
+72
+00:04:46,375 --> 00:04:49,041
+[BISCUIT] Ahab Reactors have
+a fairly long shelf life.
+
+73
+00:04:49,125 --> 00:04:51,666
+Many of them are still
+perfectly operational.
+
+74
+00:04:51,750 --> 00:04:53,166
+[CHAD] So the gravity
+from the reactors
+
+75
+00:04:53,250 --> 00:04:54,666
+is attracting the debris.
+
+76
+00:04:54,750 --> 00:04:58,000
+I can't believe they still
+work after hundreds of years.
+
+77
+00:04:58,083 --> 00:05:00,916
+I don't get it. Why are the
+reactors creating gravity?
+
+78
+00:05:01,000 --> 00:05:02,125
+For real?
+
+79
+00:05:02,208 --> 00:05:03,583
+The reason we're able
+to maintain gravity
+
+80
+00:05:03,666 --> 00:05:06,333
+aboard this ship is,
+because of our Ahab Reactor.
+
+81
+00:05:06,416 --> 00:05:08,291
+--[EUGENE grunts]
+--[KUDELIA] Huh?
+
+82
+00:05:08,375 --> 00:05:10,291
+Wow! I had no idea.
+
+83
+00:05:10,375 --> 00:05:11,166
+Seriously?
+
+84
+00:05:11,250 --> 00:05:13,166
+Forgive me, Miss Kudelia.
+
+85
+00:05:13,250 --> 00:05:15,916
+I should have explained things
+to you in much greater detail.
+
+86
+00:05:16,000 --> 00:05:17,458
+[KUDELIA]
+Oh, no...
+
+87
+00:05:17,541 --> 00:05:19,541
+Anyway the unstable gravity
+that's created by the reactors
+
+88
+00:05:19,625 --> 00:05:21,875
+is what keeps ordinary ships
+from attempting to pass
+
+89
+00:05:21,958 --> 00:05:23,375
+through the corridor.
+
+90
+00:05:23,458 --> 00:05:26,583
+[ORGA] Well, obviously, the Ahab
+Wave interference is huge.
+
+91
+00:05:26,666 --> 00:05:29,083
+It's impossible for anyone to
+detect the enemy's position
+
+92
+00:05:29,166 --> 00:05:30,458
+in that.
+
+93
+00:05:30,541 --> 00:05:32,208
+But why would we incorporate
+such a dangerous spot
+
+94
+00:05:32,291 --> 00:05:33,541
+into our flight path?
+
+95
+00:05:33,625 --> 00:05:35,458
+Because Teiwaz are the
+ones who first discovered
+
+96
+00:05:35,541 --> 00:05:37,583
+and mapped out the
+route to begin with.
+
+97
+00:05:37,666 --> 00:05:39,958
+Not only does it serve
+as a shortcut to Earth,
+
+98
+00:05:40,041 --> 00:05:41,541
+but it's also incredibly useful
+
+99
+00:05:41,625 --> 00:05:44,500
+for highly secretive jobs
+like the ones we have.
+
+100
+00:05:44,583 --> 00:05:46,083
+Look, if we know they're
+hiding out there,
+
+101
+00:05:46,166 --> 00:05:48,166
+then why don't we just
+attack them first?
+
+102
+00:05:48,250 --> 00:05:50,791
+[CHAD] Wait. Head on?
+That's what they're hoping for.
+
+103
+00:05:50,875 --> 00:05:53,916
+No. We shouldn't do that
+even if we wanted to.
+
+104
+00:05:54,000 --> 00:05:56,791
+Average ships can't fly
+through the Debris Zone.
+
+105
+00:05:56,875 --> 00:06:00,458
+It'd be like trying to hit a
+bullseye with our eyes closed.
+
+106
+00:06:00,541 --> 00:06:02,583
+[gasps]
+
+107
+00:06:02,666 --> 00:06:05,666
+But it shouldn't be a problem
+for space rats like us.
+
+108
+00:06:05,750 --> 00:06:07,958
+You've got a point there.
+
+109
+00:06:08,041 --> 00:06:10,833
+Okay, but... how can you
+be sure that the Brewers
+
+110
+00:06:10,916 --> 00:06:12,500
+are really gonna be out there?
+
+111
+00:06:12,583 --> 00:06:15,833
+Yeah, good point. the enemy may
+think that we'd never try it
+
+112
+00:06:15,916 --> 00:06:18,666
+and completely avoid the
+Shoal Zone all together.
+
+113
+00:06:18,750 --> 00:06:21,666
+So we'll have Lofter's Hyakuri
+with extended flight range,
+
+114
+00:06:21,750 --> 00:06:24,041
+and Mikazuki's Barbatos
+equipped with a booster,
+
+115
+00:06:24,125 --> 00:06:27,166
+fly in first, and act as scouts.
+
+116
+00:06:27,250 --> 00:06:29,291
+They'll think the <i>Isaribi</i>
+and the <i>Hammerhead</i> will be
+
+117
+00:06:29,375 --> 00:06:32,000
+following closely behind,
+and that's our advantage.
+
+118
+00:06:32,083 --> 00:06:34,916
+By using a long-range machine,
+we'll confuse them.
+
+119
+00:06:35,000 --> 00:06:36,791
+Their sense of distance
+will be thrown off.
+
+120
+00:06:36,875 --> 00:06:38,500
+[BISCUI] While they're
+distracted by what's behind
+
+121
+00:06:38,583 --> 00:06:40,791
+Mikazuki and Lofter's Suits,
+
+122
+00:06:40,875 --> 00:06:43,458
+we should be able
+spring our own ambush.
+
+123
+00:06:43,541 --> 00:06:45,041
+[door hums]
+
+124
+00:06:45,125 --> 00:06:47,375
+[AKIHIRO]
+You're goin' first, right?
+
+125
+00:06:47,458 --> 00:06:48,708
+[MIKAZUKI]
+Yeah.
+
+126
+00:06:51,333 --> 00:06:54,000
+[AKIHIRO]
+When they come out...
+
+127
+00:06:54,083 --> 00:06:57,125
+...and if my younger
+brother is with them...
+
+128
+00:06:57,208 --> 00:06:59,875
+[grunts]
+If Masahiro's there...
+
+129
+00:06:59,958 --> 00:07:01,166
+I want you to...
+
+130
+00:07:01,250 --> 00:07:02,541
+[MIKAZUKI]
+I know.
+
+131
+00:07:02,625 --> 00:07:04,750
+I'll go easy on him and
+try to buy a little time
+
+132
+00:07:04,833 --> 00:07:07,333
+until you can
+get there, all right?
+
+133
+00:07:07,416 --> 00:07:08,916
+--Mika--
+--[MIKAZUKI] But...
+
+134
+00:07:09,000 --> 00:07:12,625
+...if I'm in a bad situation,
+I can't make you any promises.
+
+135
+00:07:12,708 --> 00:07:14,291
+I'm sorry...
+
+136
+00:07:14,375 --> 00:07:15,958
+...but I'll try.
+
+137
+00:07:16,041 --> 00:07:17,833
+Alright.
+
+138
+00:07:17,916 --> 00:07:19,916
+Thank you.
+
+139
+00:07:20,000 --> 00:07:21,500
+[ATRA]
+Oh! Mikazuki.
+
+140
+00:07:21,583 --> 00:07:22,708
+[MIKAZUKI gasps]
+
+141
+00:07:24,250 --> 00:07:25,166
+Thank goodness.
+
+142
+00:07:25,250 --> 00:07:26,833
+We made it in time.
+
+143
+00:07:26,916 --> 00:07:27,958
+Here..
+
+144
+00:07:28,041 --> 00:07:29,250
+[MIKAZUKI]
+What is it?
+
+145
+00:07:29,333 --> 00:07:32,041
+It's your lunch. Kudelia and
+I made it for you.
+
+146
+00:07:32,125 --> 00:07:33,458
+I-I helped a little.
+
+147
+00:07:33,541 --> 00:07:36,583
+But honestly, it was Atra
+who did most of the work.
+
+148
+00:07:36,666 --> 00:07:39,958
+I'll be waiting here with
+even more, later on.
+
+149
+00:07:40,041 --> 00:07:42,125
+So make sure to come
+back in one piece.
+
+150
+00:07:42,208 --> 00:07:43,791
+Be careful out there.
+
+151
+00:07:43,875 --> 00:07:45,375
+[MIKAZUKI]
+Okay.
+
+152
+00:07:45,458 --> 00:07:47,000
+[YUKINOJO]
+Hm...
+
+153
+00:08:02,666 --> 00:08:04,291
+Docking with booster, completed.
+
+154
+00:08:04,375 --> 00:08:06,291
+[LAFTER] Gonna be just the
+two of us for a while.
+
+155
+00:08:06,375 --> 00:08:07,833
+Now, let's do this.
+
+156
+00:08:07,916 --> 00:08:10,375
+[MIKAZUKI] Sorry to get you
+involved in all uh this, Lafter.
+
+157
+00:08:10,458 --> 00:08:11,916
+[LAFTER]
+Hey, don't worry about it.
+
+158
+00:08:12,000 --> 00:08:14,708
+Besides, aren't you rescuing
+Akihiro's brother?
+
+159
+00:08:14,791 --> 00:08:16,250
+Once I heard that,
+
+160
+00:08:16,333 --> 00:08:18,708
+there's no way I could just
+sit back and let you go solo.
+
+161
+00:08:20,375 --> 00:08:21,625
+[FUMITAN]
+Barbatos and Hyakuri
+
+162
+00:08:21,708 --> 00:08:23,916
+are on their
+second acceleration.
+
+163
+00:08:24,000 --> 00:08:26,333
+Good. Then it's
+our turn to move!
+
+164
+00:08:26,416 --> 00:08:27,708
+[CREW]
+Yes, sir.
+
+165
+00:08:37,500 --> 00:08:40,166
+[MASAHIRO]
+Hm? Where'd you get that?
+
+166
+00:08:40,250 --> 00:08:42,750
+[BREWER A grunts]
+No way. We had extra?
+
+167
+00:08:42,833 --> 00:08:46,625
+It's Pedro's. Guess the staff
+left it here by mistake.
+
+168
+00:08:46,708 --> 00:08:50,125
+I see... Sorry, man.
+
+169
+00:08:50,208 --> 00:08:51,916
+Yeah, I know it sucks...
+
+170
+00:08:52,000 --> 00:08:54,791
+...but maybe Pedro's been
+reborn somewhere better.
+
+171
+00:08:54,875 --> 00:08:56,083
+What're you talkin' about?
+
+172
+00:08:56,166 --> 00:08:57,541
+Well uh...
+
+173
+00:08:57,625 --> 00:09:00,750
+I heard that's what happens
+whenever humans pass away.
+
+174
+00:09:00,833 --> 00:09:03,291
+They don't stay dead.
+They get to come back.
+
+175
+00:09:03,375 --> 00:09:04,875
+[BREWER A]
+But, how does that work?
+
+176
+00:09:04,958 --> 00:09:06,583
+[BREWER D] They're born
+from their mom's belly
+
+177
+00:09:06,666 --> 00:09:10,125
+and then they become
+babies all over again.
+
+178
+00:09:10,208 --> 00:09:13,458
+They forget everything and get
+a chance to redo their life.
+
+179
+00:09:13,541 --> 00:09:18,500
+But that's only for humans,
+isn't it? Not us Debris.
+
+180
+00:09:18,583 --> 00:09:20,625
+We die. That's all there is.
+
+181
+00:09:20,708 --> 00:09:22,041
+[BREWERS sigh]
+
+182
+00:09:22,125 --> 00:09:23,458
+We don't know for sure, though.
+
+183
+00:09:23,541 --> 00:09:25,875
+If I'm reborn, I'll be rich and
+get to eat steak every--
+
+184
+00:09:25,958 --> 00:09:28,208
+[KUDAL]
+So you want to be reborn, huh?
+
+185
+00:09:28,291 --> 00:09:29,708
+[BREWER A gasps]
+
+186
+00:09:29,791 --> 00:09:32,000
+[KUDAL] No problem! We can try
+it right now, if you like.
+
+187
+00:09:32,083 --> 00:09:34,583
+--Well?
+--[BREWER A grunts]
+
+188
+00:09:34,666 --> 00:09:36,250
+[KUDAL] You need to
+stop talking nonsense,
+
+189
+00:09:36,333 --> 00:09:38,375
+and finish up in here, brats!
+
+190
+00:09:38,458 --> 00:09:40,541
+There's a lot of
+work to be done.
+
+191
+00:09:40,625 --> 00:09:42,750
+[BREWER A grunts]
+
+192
+00:09:44,208 --> 00:09:45,666
+[KUDAL]
+Hey.
+
+193
+00:09:45,750 --> 00:09:47,166
+Yes, sir?
+
+194
+00:09:47,250 --> 00:09:51,125
+Try not to screw things
+up next time, kid.
+
+195
+00:09:51,208 --> 00:09:54,791
+If you fail again, it won't
+just be you who get punished.
+
+196
+00:09:54,875 --> 00:09:58,416
+I'll throw all of you naked into
+the cold, dark, void, got it?
+
+197
+00:09:58,500 --> 00:10:00,291
+So don't test me.
+
+198
+00:10:01,750 --> 00:10:03,041
+[MASAHIRO]
+Sir.
+
+199
+00:10:04,375 --> 00:10:06,125
+[LAFTER]
+We'll enter the corridor soon.
+
+200
+00:10:06,208 --> 00:10:08,958
+Oh. So it isn't a tunnel
+like I thought it was, huh?
+
+201
+00:10:09,041 --> 00:10:10,541
+[LAFTER] You can't see
+it with the naked eye,
+
+202
+00:10:10,625 --> 00:10:12,458
+if that's what you mean.
+
+203
+00:10:12,541 --> 00:10:14,166
+Uh... what are you doing?
+
+204
+00:10:14,250 --> 00:10:15,500
+[MIKAZUKI]
+Studying.
+
+205
+00:10:15,583 --> 00:10:18,291
+[LAFTER]
+Oh, I see.
+
+206
+00:10:18,375 --> 00:10:21,666
+Oh, communications with
+the ship will be cut soon.
+
+207
+00:10:28,750 --> 00:10:30,541
+[SHINO] You're out here
+pretty early, Akihiro.
+
+208
+00:10:30,625 --> 00:10:32,000
+[AKIHIRO]
+Hm?
+
+209
+00:10:32,083 --> 00:10:34,625
+You've still got plenty
+of time before dispatch.
+
+210
+00:10:34,708 --> 00:10:37,541
+Shouldn't you rest up a
+little before heading out?
+
+211
+00:10:37,625 --> 00:10:39,791
+No. I'm fine here.
+
+212
+00:10:39,875 --> 00:10:42,541
+[SHINO]
+Hmph. If you say so...
+
+213
+00:10:42,625 --> 00:10:44,333
+[FUMITAN] It seems
+data links with Barbatos
+
+214
+00:10:44,416 --> 00:10:46,000
+and Hyakuri have been severed.
+
+215
+00:10:46,083 --> 00:10:47,625
+It's almost time, then.
+
+216
+00:10:47,708 --> 00:10:51,083
+Look at that. There's even
+more debris around us.
+
+217
+00:10:54,708 --> 00:10:56,583
+Eugene, take the helm.
+
+218
+00:10:56,666 --> 00:10:57,583
+Huh?
+
+219
+00:10:57,666 --> 00:10:59,916
+Times like this,
+it's gotta be you.
+
+220
+00:11:00,000 --> 00:11:01,416
+You're the best choice here.
+
+221
+00:11:01,500 --> 00:11:03,041
+[gasps]
+
+222
+00:11:03,125 --> 00:11:05,083
+Jeez! No pressure, right?
+
+223
+00:11:05,166 --> 00:11:07,833
+Fine. I'll babysit
+you guys again.
+
+224
+00:11:09,708 --> 00:11:11,291
+[OPERATOR A] I'm linking
+our navigation system
+
+225
+00:11:11,375 --> 00:11:13,166
+with the <i>Isaribi's</i> .
+
+226
+00:11:13,250 --> 00:11:14,750
+That's it, boys.
+
+227
+00:11:14,833 --> 00:11:17,458
+Now we're completely dependent
+on you to get us through this.
+
+228
+00:11:17,541 --> 00:11:20,333
+We'll have our eyes closed
+until then, so be gentle.
+
+229
+00:11:20,416 --> 00:11:21,708
+[ORGA]
+Got it.
+
+230
+00:11:21,791 --> 00:11:24,708
+[FUMITAN] We'll be entering
+an area of dense debris.
+
+231
+00:11:24,791 --> 00:11:26,958
+Any impacts could
+cause the ship to shake.
+
+232
+00:11:27,041 --> 00:11:29,208
+All crew should be on alert.
+
+233
+00:11:31,250 --> 00:11:33,166
+It's finally starting.
+
+234
+00:11:33,250 --> 00:11:34,583
+[sighs]
+
+235
+00:11:38,708 --> 00:11:40,833
+[gasps]
+
+236
+00:11:40,916 --> 00:11:43,916
+Mikazuki will be all right.
+
+237
+00:11:44,000 --> 00:11:45,416
+I know it.
+
+238
+00:11:45,500 --> 00:11:47,875
+[KUDELIA exhales]
+
+239
+00:11:47,958 --> 00:11:49,125
+[KUDELIA]
+Yeah...
+
+240
+00:11:59,791 --> 00:12:01,750
+[ORGA]
+All right.
+
+241
+00:12:01,833 --> 00:12:03,000
+[ORGA]
+Tsk.
+
+242
+00:12:04,500 --> 00:12:05,916
+[ORGA]
+Let's go.
+
+
+243
+00:12:13,166 --> 00:12:15,833
+[LAFTER] Okay, we should be
+getting closer to the point.
+
+244
+00:12:15,916 --> 00:12:17,083
+[MIKAZUKI]
+I can't see anything.
+
+245
+00:12:17,166 --> 00:12:20,708
+Stay sharp. They could
+find us at anytime now.
+
+246
+00:12:24,291 --> 00:12:26,708
+[BREWER OPERATOR] Man Rodi
+on patrol, reporting:
+
+247
+00:12:26,791 --> 00:12:29,083
+We've spotted enemy
+Mobile Suits approaching.
+
+248
+00:12:29,166 --> 00:12:30,750
+The rats are trapped.
+
+249
+00:12:30,833 --> 00:12:33,833
+[chuckles]
+Send out our Mobile Suits.
+
+250
+00:12:38,583 --> 00:12:39,875
+They're here.
+
+251
+00:12:41,291 --> 00:12:44,666
+[BREWER B] That white one!
+I'll avenge Pedro.
+
+252
+00:12:44,750 --> 00:12:47,458
+[KUDAL] They can't use long
+distance communication here.
+
+253
+00:12:47,541 --> 00:12:49,625
+You need to cut
+their numbers. Quickly!
+
+254
+00:12:49,708 --> 00:12:51,333
+Just don't forget
+the main target
+
+255
+00:12:51,416 --> 00:12:53,666
+is the hunk of junk
+that's following them.
+
+256
+00:12:53,750 --> 00:12:56,416
+Surround them and don't let
+them get back to their ship.
+
+257
+00:12:56,500 --> 00:12:58,208
+[BREWERS]
+Yes, sir.
+
+258
+00:12:58,291 --> 00:13:00,375
+Think I'm gonna head out too.
+
+259
+00:13:00,458 --> 00:13:01,916
+You're gonna pay!
+
+260
+00:13:12,208 --> 00:13:13,458
+[grunts]
+
+261
+00:13:13,541 --> 00:13:14,958
+[BREWER A] Don't rush.
+Block their escape route.
+
+262
+00:13:15,041 --> 00:13:16,583
+Drive them towards our ship.
+
+263
+00:13:19,125 --> 00:13:22,250
+[LAFTER] Whoa! It's so cramped
+out here, I can barely maneuver!
+
+264
+00:13:22,333 --> 00:13:23,833
+Yeah, no kidding.
+
+265
+00:13:23,916 --> 00:13:25,666
+My booster's so hard to handle,
+that I that can't dodge any--
+
+266
+00:13:25,750 --> 00:13:26,875
+[radar beeps]
+
+267
+00:13:26,958 --> 00:13:29,791
+This Ahab Wave reaction.
+Is it him?
+
+268
+00:13:32,791 --> 00:13:33,583
+[BREWER OPERATOR]
+Two enemy units
+
+269
+00:13:33,666 --> 00:13:35,166
+are approaching fast.
+
+270
+00:13:35,250 --> 00:13:37,666
+[BROOKE] Tell me, have you
+seen their ship yet?
+
+271
+00:13:37,750 --> 00:13:39,041
+[BREWER OPERATOR]
+No, sir.
+
+272
+00:13:39,125 --> 00:13:42,000
+[growls] Damn it. They'll be
+here sooner or later.
+
+273
+00:13:42,083 --> 00:13:44,416
+And won't stray far
+from their scouts.
+
+274
+00:13:44,500 --> 00:13:47,458
+Until they arrive,
+make them suffer!
+
+275
+00:13:49,166 --> 00:13:51,041
+Isn't my darling here yet?
+
+276
+00:13:53,208 --> 00:13:54,416
+[grunts]
+
+277
+00:13:54,500 --> 00:13:57,708
+What the hell?
+It's just two machines.
+
+278
+00:13:57,791 --> 00:13:59,458
+Has there been any
+sign of their ship?
+
+279
+00:13:59,541 --> 00:14:02,791
+[BREWER OPERATOR] N-No, sir.
+Nothing from our scouts yet.
+
+280
+00:14:04,250 --> 00:14:05,875
+--[alarm blares]
+--What's going on, now?!
+
+281
+00:14:05,958 --> 00:14:07,583
+[BREWER OPERATOR]
+Ahab Wave on the port side!
+
+282
+00:14:07,666 --> 00:14:09,916
+[BROOKE]
+Huh? It can't be!
+
+283
+00:14:10,000 --> 00:14:13,208
+Ah! They came cutting
+through the Debris Zone?
+
+284
+00:14:13,291 --> 00:14:15,625
+Are they crazy?!
+
+285
+00:14:17,875 --> 00:14:19,000
+O-Orga!
+
+286
+00:14:19,083 --> 00:14:20,833
+Sorry to keep you waiting!
+
+287
+00:14:22,166 --> 00:14:24,333
+You're late, My Darling!
+
+288
+00:14:24,416 --> 00:14:25,916
+[OPERATOR B]
+Enemy ship dead ahead.
+
+289
+00:14:26,000 --> 00:14:28,583
+Let's show these sorry
+bastards why we call our ship
+
+290
+00:14:28,666 --> 00:14:30,875
+the "Hammerhead".
+Whaddya say?
+
+291
+00:14:30,958 --> 00:14:34,250
+Yes, sir! All crew,
+prepare for impact.
+
+292
+00:14:34,333 --> 00:14:38,041
+Reactor output to max!
+Full inertial control enabled!
+
+293
+00:14:38,125 --> 00:14:39,666
+Give them hell!
+
+294
+00:14:48,750 --> 00:14:49,833
+[gasps]
+
+295
+00:14:49,916 --> 00:14:51,541
+Don't let the
+Turbines show us up!
+
+296
+00:14:51,625 --> 00:14:53,833
+[EUGENE yells]
+
+297
+00:14:58,583 --> 00:14:59,916
+Now, what the hell?!
+
+298
+00:15:00,000 --> 00:15:01,666
+[SHINO]
+Let's do this!
+
+299
+00:15:04,500 --> 00:15:06,291
+[KUDAL yelps]
+Impossiblle!
+
+300
+00:15:06,375 --> 00:15:09,250
+How'd we let them ambush us?
+Now what are we gonna do?
+
+301
+00:15:09,333 --> 00:15:11,708
+We can't afford to back
+down on this job.
+
+302
+00:15:11,791 --> 00:15:13,958
+Gjallarhorn doesn't hand
+them out to just anyone.
+
+303
+00:15:14,041 --> 00:15:15,708
+This is our golden ticket.
+
+304
+00:15:15,791 --> 00:15:17,875
+If we pull it off,
+we'll gain their support!
+
+305
+00:15:17,958 --> 00:15:19,958
+Hey, you don't have
+to tell me that, boss.
+
+306
+00:15:20,041 --> 00:15:21,708
+I know what's at stake here.
+
+307
+00:15:21,791 --> 00:15:23,166
+We can still turn this around
+
+308
+00:15:23,250 --> 00:15:25,791
+if we manage to get ahold
+of that Kudelia girl.
+
+309
+00:15:25,875 --> 00:15:28,208
+We'll take care of the
+pests that boarded us.
+
+310
+00:15:28,291 --> 00:15:31,208
+I want you to get out there
+and smash up their ship good!
+
+311
+00:15:31,291 --> 00:15:34,375
+Fine by me! 'Cause I
+get the fun part.
+
+312
+00:15:34,458 --> 00:15:37,583
+Kudal Cadel.
+Gusion, heading out.
+
+313
+00:15:39,666 --> 00:15:41,375
+Go! Go!
+
+314
+00:15:42,833 --> 00:15:44,458
+[BREWER OPERATOR] Enemy
+intruders in the upper decks.
+
+315
+00:15:44,541 --> 00:15:47,291
+Come on! You just get
+rid of them already!
+
+316
+00:15:48,916 --> 00:15:51,000
+[ORGA]
+Sorry to make you wait, Akihiro.
+
+317
+00:15:51,083 --> 00:15:53,166
+There's no need to apologize.
+
+318
+00:15:53,250 --> 00:15:54,875
+Not to Human Debris
+like me, anyway.
+
+319
+00:15:54,958 --> 00:15:56,958
+You're still on
+that debris crap?
+
+320
+00:15:57,041 --> 00:15:59,083
+Well, knock it off.
+I'm sick of hearin' it.
+
+321
+00:15:59,166 --> 00:16:00,250
+[gasps]
+
+322
+00:16:00,333 --> 00:16:03,041
+[ORGA] We can't change
+our past, either.
+
+323
+00:16:03,125 --> 00:16:06,041
+Don't forget,
+we're all space rats.
+
+324
+00:16:06,125 --> 00:16:09,291
+All of us. But we can
+change the future.
+
+325
+00:16:09,375 --> 00:16:13,000
+Best we can,
+in spite of our past.
+
+326
+00:16:13,083 --> 00:16:16,500
+But don't take my word
+for it; learn it yourself.
+
+327
+00:16:16,583 --> 00:16:18,541
+Right here and now.
+
+328
+00:16:18,625 --> 00:16:19,708
+Yeah.
+
+329
+00:16:20,750 --> 00:16:24,583
+Akihiro Altland.
+Graze Custom, heading out.
+
+330
+00:16:26,958 --> 00:16:28,166
+[AKIHIRO]
+They're coming.
+
+331
+00:16:31,250 --> 00:16:32,333
+[AKIHIRO]
+Wait, that's...
+
+332
+00:16:32,416 --> 00:16:34,750
+[AMIDA] Your fight
+is with us now, boys.
+
+333
+00:16:34,833 --> 00:16:37,083
+We won't let you near Akihiro.
+
+334
+00:16:37,166 --> 00:16:38,291
+[AZEE]
+Hurry, Akihiro.
+
+335
+00:16:38,375 --> 00:16:40,500
+[grunts]
+Got it!
+
+336
+00:16:40,583 --> 00:16:42,250
+[MIKAZUKI]
+Okay. Let's go too, Lofter!
+
+337
+00:16:42,333 --> 00:16:43,375
+[LAFTER]
+Roger.
+
+338
+00:16:48,625 --> 00:16:51,750
+Now! Come at me from
+any angle you want!
+
+339
+00:16:51,833 --> 00:16:53,291
+[BREWER B]
+Hey! What's goin' on?
+
+340
+00:16:53,375 --> 00:16:54,416
+[BREWER A]
+Where'd they come from?
+
+341
+00:16:54,500 --> 00:16:55,875
+[BREWER D]
+They're attacking our ship!
+
+342
+00:16:55,958 --> 00:16:57,250
+Wait, reinforcements?
+
+343
+00:16:57,333 --> 00:17:01,708
+[KUDAL] You brats!
+Don't just sit around.
+
+344
+00:17:01,791 --> 00:17:04,333
+Numbers one through five,
+you need to follow me.
+
+345
+00:17:04,416 --> 00:17:07,666
+The rest of you stay here
+and stop these Mobile Suits.
+
+346
+00:17:07,750 --> 00:17:08,791
+[AZEE]
+They're attacking your ship.
+
+347
+00:17:08,875 --> 00:17:09,875
+[MIKAZUKI]
+I'm on it.
+
+348
+00:17:11,500 --> 00:17:13,875
+[AMIDA] I'll provide cover
+for the <i>Hammerhead</i> .
+
+349
+00:17:13,958 --> 00:17:16,833
+Lofter and Azee, I want
+you to stay with Akihiro.
+
+350
+00:17:16,916 --> 00:17:17,583
+[AZEE]
+Roger.
+
+351
+00:17:17,666 --> 00:17:18,833
+[LAFTER]
+Leave it to me.
+
+352
+00:17:23,000 --> 00:17:24,416
+Take this!
+
+353
+00:17:26,666 --> 00:17:28,708
+--[ALL grunt]
+--[ORGA] The hell?
+
+354
+00:17:28,791 --> 00:17:30,250
+[FUMITAN]
+We've been hit by a Mobile Suit.
+
+355
+00:17:30,333 --> 00:17:33,000
+What? A Suit has
+that much power?
+
+356
+00:17:35,333 --> 00:17:36,833
+[BREWER SOLDIER E gasps]
+
+357
+00:17:36,916 --> 00:17:38,458
+[BREWER SOLDIER E groans]
+
+358
+00:17:39,750 --> 00:17:41,583
+That suit... I know it.
+
+359
+00:17:41,666 --> 00:17:46,333
+Thanks, Mika! All right,
+let's regroup and finish this!
+
+360
+00:17:46,416 --> 00:17:48,041
+[BREWER SOLDIER F groans]
+
+361
+00:17:48,125 --> 00:17:50,083
+[SHINO grunts]
+
+362
+00:17:50,166 --> 00:17:52,291
+[SHINO] Thought Brewers
+were supposed to be tough!
+
+363
+00:17:52,375 --> 00:17:53,666
+[BREWER SOLDIERS yell]
+
+364
+00:17:53,750 --> 00:17:56,833
+Ya coulda fooled me!
+Your defense is one giant hole!
+
+365
+00:17:57,916 --> 00:17:59,041
+[BREWER A]
+Oh, no you don't!
+
+366
+00:17:59,125 --> 00:18:00,333
+I gotcha!
+
+367
+00:18:00,416 --> 00:18:02,125
+You can't do that alone!
+
+368
+00:18:04,083 --> 00:18:05,166
+Thanks, guys.
+
+369
+00:18:05,250 --> 00:18:06,458
+I'm coming, Masahiro!
+
+370
+00:18:06,541 --> 00:18:08,708
+[MASAHIRO grunts]
+
+371
+00:18:08,791 --> 00:18:11,833
+[gasps]
+That machine is...
+
+372
+00:18:11,916 --> 00:18:12,875
+[grunts]
+
+373
+00:18:12,958 --> 00:18:14,583
+[MASAHIRO]
+It's too late now...
+
+374
+00:18:16,416 --> 00:18:17,666
+[grunts]
+
+375
+00:18:19,166 --> 00:18:20,416
+[gasps]
+
+376
+00:18:20,500 --> 00:18:21,458
+[MASAHIRO]
+What's he doing?
+
+377
+00:18:21,541 --> 00:18:22,375
+[BREWER A]
+Masahiro?
+
+378
+00:18:22,458 --> 00:18:25,208
+Wait, where are you headed?!
+
+379
+00:18:25,291 --> 00:18:27,916
+[LAFTER]
+I said you can't go that way!
+
+380
+00:18:29,250 --> 00:18:31,166
+[MASAHIRO]
+Wh-What do you want?
+
+381
+00:18:31,250 --> 00:18:33,333
+[AKIHIRO]
+Sorry for the wait, Masahiro.
+
+382
+00:18:33,416 --> 00:18:35,333
+[AKIHIRO]
+I'm here for you now.
+
+383
+00:18:35,416 --> 00:18:37,125
+[MASAHIRO]
+Here... for me?
+
+384
+00:18:37,208 --> 00:18:39,916
+That's right. I promised you.
+
+385
+00:18:40,000 --> 00:18:42,083
+Brother... Why?
+
+386
+00:18:42,166 --> 00:18:44,125
+Pedro will be avenged!
+
+387
+00:18:46,541 --> 00:18:48,541
+[BREWER B]
+What?!
+
+388
+00:18:48,625 --> 00:18:49,583
+[BREWER B grunts]
+
+389
+00:18:49,666 --> 00:18:51,416
+[BREWER D]
+No! Vito...
+
+390
+00:18:51,500 --> 00:18:53,125
+[BREWER E]
+How did he...?
+
+391
+00:18:53,208 --> 00:18:56,625
+Quit gawkin' and put all you've
+got into taking this guy out!
+
+392
+00:19:00,000 --> 00:19:02,041
+[MASAHIRO]
+Why talk about this now?
+
+393
+00:19:02,125 --> 00:19:03,500
+[AKIHIRO]
+What do you mean?
+
+394
+00:19:03,583 --> 00:19:08,875
+I... I waited so long
+for you, Big Brother.
+
+395
+00:19:08,958 --> 00:19:11,250
+But one day, I realized...
+
+396
+00:19:11,333 --> 00:19:14,458
+...that having hope
+brings nothing but pain.
+
+397
+00:19:14,541 --> 00:19:16,541
+The more you hope,
+the more you suffer.
+
+398
+00:19:16,625 --> 00:19:17,666
+That's why I've come here for--
+
+399
+00:19:17,750 --> 00:19:19,166
+[MASAHIRO]
+Don't you see it's useless?!
+
+400
+00:19:19,250 --> 00:19:21,041
+[gasps]
+
+401
+00:19:21,125 --> 00:19:23,500
+[MASAHIRO] Even if you win
+and take me with you...
+
+402
+00:19:23,583 --> 00:19:25,833
+Even if I leave
+all this behind...
+
+403
+00:19:25,916 --> 00:19:28,541
+What exactly will that change?
+
+404
+00:19:28,625 --> 00:19:30,458
+Masahiro...
+
+405
+00:19:30,541 --> 00:19:35,000
+[MASAHIRO] Sooner or later,
+we'll all die. Isn't that right?
+
+406
+00:19:35,083 --> 00:19:38,250
+We're nothing more
+than Human Debris.
+
+407
+00:19:38,333 --> 00:19:39,875
+We can't die peacefully.
+
+408
+00:19:39,958 --> 00:19:42,875
+[SHINO]
+Hey! Don't go out there!
+
+409
+00:19:42,958 --> 00:19:45,250
+[DANTE]
+Dammit it all to hell!
+
+410
+00:19:45,333 --> 00:19:48,208
+I told him he
+needed to stay back!
+
+411
+00:19:48,291 --> 00:19:50,833
+[DANTE] I wish I could punch him
+for leavin' us here like this.
+
+412
+00:19:50,916 --> 00:19:52,083
+[SHINO]
+Let's move.
+
+413
+00:19:52,166 --> 00:19:55,750
+[MASAHIRO] Debris die
+in space like garbage.
+
+414
+00:19:55,833 --> 00:19:57,125
+[AKIHIRO]
+You know...
+
+415
+00:19:57,208 --> 00:19:59,166
+That's what I used
+to think, too.
+
+416
+00:19:59,250 --> 00:20:00,666
+[MASAHIRO]
+What?
+
+417
+00:20:00,750 --> 00:20:02,375
+[AKIHIRO]
+As Human Debris,
+
+418
+00:20:02,458 --> 00:20:04,916
+I thought it didn't
+matter what I did.
+
+419
+00:20:05,000 --> 00:20:07,416
+That nothing was ever
+gonna change.
+
+420
+00:20:07,500 --> 00:20:11,416
+And to be honest, I even
+gave up on finding you again.
+
+421
+00:20:11,500 --> 00:20:13,125
+Then one day,
+
+422
+00:20:13,208 --> 00:20:16,916
+I found people who treated
+me like a human being.
+
+423
+00:20:17,000 --> 00:20:22,291
+No... I've found people
+who call me family.
+
+424
+00:20:22,375 --> 00:20:23,625
+[MASAHIRO]
+Huh?
+
+425
+00:20:23,708 --> 00:20:25,125
+Family?
+
+426
+00:20:25,208 --> 00:20:28,708
+That's right. And they're
+waiting to meet you, brother.
+
+427
+00:20:28,791 --> 00:20:29,375
+Let's go.
+
+428
+00:20:29,458 --> 00:20:30,375
+[MASAHIRO]
+What?
+
+429
+00:20:31,833 --> 00:20:33,125
+[MASAHIRO]
+What's a family?
+
+430
+00:20:33,208 --> 00:20:33,791
+[AKIHIRO gasps]
+
+431
+00:20:33,875 --> 00:20:36,333
+[MASAHIRO chuckles]
+
+432
+00:20:36,416 --> 00:20:41,125
+[MASAHIRO] For me, it was
+only ever you, mom, and dad.
+
+433
+00:20:41,208 --> 00:20:44,875
+That's it. That's the
+one I remember.
+
+434
+00:20:44,958 --> 00:20:46,375
+Masahiro...
+
+435
+00:20:46,458 --> 00:20:50,666
+[MASAHIRO] So... while I was
+waiting for you to save me,
+
+436
+00:20:50,750 --> 00:20:54,833
+You were out there having
+the time of your life?!
+
+437
+00:20:54,916 --> 00:20:56,958
+You abandoned me.
+
+438
+00:20:57,041 --> 00:21:00,041
+No, that's not true! I didn't!
+
+439
+00:21:00,125 --> 00:21:03,791
+Soon, you'll find
+out... how it feels!
+
+440
+00:21:03,875 --> 00:21:05,125
+Brother!
+
+441
+00:21:12,375 --> 00:21:13,416
+[KUDAL]
+How annoying.
+
+442
+00:21:13,500 --> 00:21:15,250
+Annoying! Annoying! Annoying!
+
+443
+00:21:15,333 --> 00:21:18,125
+I've had enough of this!
+Why won't you die?!
+
+444
+00:21:18,208 --> 00:21:20,291
+Where the hell are you
+stupid rats, anyway?!
+
+445
+00:21:20,375 --> 00:21:23,791
+Somebody back me up! Hey!
+
+446
+00:21:23,875 --> 00:21:26,875
+Dammit! You guys're useless!
+
+447
+00:21:32,208 --> 00:21:33,458
+[gasps]
+
+448
+00:21:37,333 --> 00:21:38,166
+Not good!
+
+449
+00:21:38,250 --> 00:21:40,125
+[gasps]
+
+450
+00:21:40,208 --> 00:21:41,750
+Ah! I'll use him as a hostage,
+
+451
+00:21:41,833 --> 00:21:44,041
+and finish off the
+white one right now!
+
+452
+00:21:44,125 --> 00:21:46,250
+[MASAHIRO] You've got
+this all wrong, Akihiro.
+
+453
+00:21:46,333 --> 00:21:47,750
+You think we're human?
+
+454
+00:21:47,833 --> 00:21:49,625
+[chuckles]
+You're a fool.
+
+455
+00:21:49,708 --> 00:21:52,000
+It's time for you to
+find out first hand
+
+456
+00:21:52,083 --> 00:21:55,083
+what death for Human
+Debris is really like.
+
+457
+00:21:55,166 --> 00:21:57,375
+So, are you ready?
+
+458
+00:21:57,458 --> 00:21:58,583
+[KUDAL]
+Masahiro!
+
+459
+00:21:58,666 --> 00:21:59,333
+[gasps]
+
+460
+00:21:59,416 --> 00:22:00,833
+[KUDAL]
+Just like that!
+
+461
+00:22:00,916 --> 00:22:03,750
+Hold him tight and don't let go!
+
+462
+00:22:03,833 --> 00:22:05,083
+[AKIHIRO]
+No!
+
+463
+00:22:10,625 --> 00:22:11,708
+[gasps]
+
+464
+00:22:24,708 --> 00:22:25,833
+What are you doing?
+
+465
+00:22:25,916 --> 00:22:27,750
+[chuckles]
+
+466
+00:22:33,000 --> 00:22:37,250
+No! Masahiro!
+
+467
+00:22:39,583 --> 00:22:44,541
+♪
+
+
+468
+00:24:10,500 --> 00:24:11,791
+[NAZE]
+Listen close, kids.
+
+469
+00:24:11,875 --> 00:24:15,041
+I'm about to teach you the
+basics of good business.
+
+470
+00:24:15,125 --> 00:24:19,041
+First, "Quickly and Carefully,"
+that should be your motto.
+
+471
+00:24:19,125 --> 00:24:21,583
+Now, this next part
+is really important:
+
+472
+00:24:21,666 --> 00:24:22,916
+No matter what happens,
+
+473
+00:24:23,000 --> 00:24:25,291
+you should never mix
+business with pleasure.
+
+474
+00:24:25,375 --> 00:24:26,666
+Understand?
+
+475
+00:24:26,750 --> 00:24:29,500
+If you can do that,
+then you've got it made.
+
+476
+00:24:29,583 --> 00:24:31,083
+So go for it!
+
+477
+00:24:31,166 --> 00:24:35,000
+Next time on <i>Mobile Suit</i>
+<i>Gundam: Iron Blooded Orphans,</i>
+
+478
+00:24:35,083 --> 00:24:37,875
+Episode 13,
+"Funeral Rites."
+
+
+479
+00:24:37,958 --> 00:24:39,083
+I love you.
+
+

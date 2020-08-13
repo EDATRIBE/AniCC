@@ -1,0 +1,1442 @@
+﻿1
+00:00:00,640 --> 00:00:06,650
+GUNDAM 08TH MS TEAM
+
+2
+00:00:06,650 --> 00:00:11,650
+[OPENING THEME]
+
+3
+00:01:34,280 --> 00:01:38,440
+[PILOT] Altitude 9500
+wind speed 0.526.
+
+4
+00:01:38,440 --> 00:01:41,280
+[PILOT 2] Surrounding area
+clear of enemy presence.
+
+5
+00:01:41,280 --> 00:01:43,600
+[MAN] Escort plane. Stay on
+guard. [PILOT] Yes sir.
+
+6
+00:01:43,600 --> 00:01:47,000
+[PILOT 3] Flight program check.
+[PILOT] Linking to
+main computer.
+
+7
+00:01:47,000 --> 00:01:50,040
+[TECH 2] Gyro system activated.
+Trim control arm.
+
+8
+00:01:50,040 --> 00:01:54,080
+[PILOT] Generator system RGA.
+Activating all control systems.
+
+9
+00:01:54,080 --> 00:01:56,720
+[VOICE] How's the pressure
+in the plasma cylinder look?
+
+10
+00:01:56,720 --> 00:02:01,500
+[PILOT] 3% lower than normal.
+It's barely within the limit.
+But I'll make it work somehow.
+
+11
+00:02:01,500 --> 00:02:03,500
+[VOICE] Good.
+
+12
+00:02:03,920 --> 00:02:07,240
+[MACHINE POWERING UP]
+
+13
+00:02:07,240 --> 00:02:10,120
+[TECH] Preparing to release
+cables. All set?
+
+14
+00:02:10,120 --> 00:02:13,360
+[PILOT] Yes I'm ready
+when you are.
+
+15
+00:02:13,360 --> 00:02:23,560
+[TECH] Cable release on my mark:
+5, 4, 3, 2, 1... takeoff!
+
+16
+00:02:27,800 --> 00:02:46,120
+[TECH] 9000. 8500. 8000.
+7500. 7000. 6500. 6000...
+
+17
+00:02:53,360 --> 00:02:58,000
+[TECH] Minovsky particle
+compressor is
+functioning normally.
+
+18
+00:02:58,000 --> 00:03:02,720
+[TECH 2] Plasma propulsion power
+at point zero. Within
+predicted values.
+
+19
+00:03:02,760 --> 00:03:05,840
+[TECH] No instability
+detected in gyro system.
+
+20
+00:03:06,240 --> 00:03:12,120
+[PILOT] The vibration is less
+than I thought it would be.
+Increasing power!
+
+21
+00:03:23,840 --> 00:03:29,800
+Big brother: I believe
+your dream has come true!
+
+22
+00:03:32,800 --> 00:03:37,560
+THE DEMON OVERHEAD
+
+23
+00:03:42,720 --> 00:03:47,040
+[SOLDIER] Hey check it out!
+The Reaper's hard at work.
+
+24
+00:03:47,040 --> 00:03:53,040
+[SOLDIER 2] Oh yeah! Boy do I
+feel sorry for Karen. What did
+she ever do to get stuck
+
+25
+00:03:53,040 --> 00:03:55,500
+with a jinx like that guy!
+
+26
+00:03:55,500 --> 00:03:59,000
+[SOLDIER 2] No kidding! I feel
+sorry for the rest of 'em too.
+
+27
+00:03:59,000 --> 00:04:02,800
+[MICHEL] Chief what are
+those guys talking about?
+
+28
+00:04:02,800 --> 00:04:07,000
+[SOLDIER] Hey Sanders doesn't it
+bother you that all your
+teammates die?
+
+29
+00:04:07,000 --> 00:04:12,000
+What do you wanna bet that
+newbie Commander of his will be
+the next one to buy it?
+
+30
+00:04:12,000 --> 00:04:14,000
+Uh wait a minute sir.
+
+31
+00:04:14,000 --> 00:04:18,200
+Pretty sad to have no friends
+because you killed 'em all. Hey!
+
+32
+00:04:18,200 --> 00:04:21,560
+Wait sir!
+[SOLDIER] You son of a bitch
+come here.
+
+33
+00:04:21,560 --> 00:04:24,680
+[SOLDIER 2] Alright Reaper.
+You asked for it!
+
+34
+00:04:24,680 --> 00:04:29,600
+This is no good. Commander!
+Commander! Oh for crying out
+loud where is he?
+
+35
+00:04:29,600 --> 00:04:32,600
+Commander! Commander!
+We got trouble!
+
+36
+00:04:32,600 --> 00:04:36,080
+[MAN] Hey The Reaper's in a
+fight!
+[MAN 2] Cool who is he fighting?
+
+37
+00:04:36,080 --> 00:04:40,200
+[MAN 3] Two guys from the 07th.
+[MAN] I'm betting on the 07th
+guys!
+
+38
+00:04:40,200 --> 00:04:42,280
+[MAN 2] My money's
+on The Reaper!
+
+39
+00:04:42,280 --> 00:04:45,900
+Place your wagers boys! Hurry
+before the fight's over! Ha!
+
+40
+00:04:45,900 --> 00:04:48,500
+I don't see it. Where are they?
+
+41
+00:04:48,500 --> 00:04:52,560
+It's at 380 meters at 10 o'clock
+sir. But sir is it true
+that everyone
+
+42
+00:04:52,560 --> 00:04:56,000
+who has served with Sanders
+has died so far?
+
+43
+00:04:56,000 --> 00:04:59,480
+[SHIRO] Who told you a
+ridiculous story like that?
+
+44
+00:04:59,480 --> 00:05:01,000
+[MICHEL] Ow!!!
+
+45
+00:05:02,240 --> 00:05:06,880
+Alright Reaper! Now the time has
+come for you to rest in peace!
+
+46
+00:05:08,280 --> 00:05:11,880
+Get out of the way! Come on!
+Lemme through!
+
+47
+00:05:12,520 --> 00:05:16,760
+Hey 3 against one? They aren't
+even fighting fair!
+
+48
+00:05:16,760 --> 00:05:18,080
+What th‐
+
+49
+00:05:19,400 --> 00:05:22,080
+[SOLDIER] You bastard!
+Who's next?
+
+50
+00:05:22,080 --> 00:05:24,280
+[JEEP HONKING]
+
+51
+00:05:24,280 --> 00:05:28,280
+[KOJIMA] Just what the hell
+are you people doing?
+
+52
+00:05:28,280 --> 00:05:30,760
+Sir a friendly competition!
+
+53
+00:05:30,760 --> 00:05:34,200
+A sporting exchange
+between MS teams sir!
+
+54
+00:05:34,200 --> 00:05:38,350
+A friendly competition? Well you
+chose one hell of a
+hot day for it.
+
+55
+00:05:38,350 --> 00:05:43,320
+And you guys the 07th team?
+You're supposed to be out
+providing rear line support
+
+56
+00:05:43,320 --> 00:05:45,680
+to the western zone.
+
+57
+00:05:45,680 --> 00:05:47,400
+Sir! Will do sir!
+
+58
+00:05:47,400 --> 00:05:51,600
+[KOJIMA] Good. 08th team: I want
+you ready to move on a
+moment's notice.
+
+59
+00:05:51,600 --> 00:05:52,400
+[SHIRO] Sir!
+
+60
+00:05:52,400 --> 00:05:54,000
+[KOJIMA] MS teams dismissed!
+
+61
+00:05:54,000 --> 00:05:54,800
+[TEAMS] Sir!
+
+62
+00:05:54,800 --> 00:05:59,500
+[KOJIMA] The rest of you get
+back to where you belong.
+
+63
+00:05:59,500 --> 00:06:01,800
+Well I believe I won the bet.
+Hehehe.
+
+64
+00:06:01,800 --> 00:06:03,440
+[SOLDIER] How'd it start?
+
+65
+00:06:03,440 --> 00:06:07,000
+Better beware of
+The Reaper Commander newbie!
+
+66
+00:06:08,400 --> 00:06:12,080
+Don't let those punks
+get to you. It's not worth it.
+
+67
+00:06:12,080 --> 00:06:14,120
+[SANDERS] Right. But sir I...
+
+68
+00:06:14,120 --> 00:06:16,120
+Come on. Let's go.
+
+69
+00:06:25,580 --> 00:06:31,200
+[GINIAS] Thanks to all of your
+extraordinary efforts we
+have successfully
+
+70
+00:06:31,200 --> 00:06:37,000
+completed the first stage of the
+Apsalus project. The
+completion of the Apsalus is
+
+71
+00:06:37,000 --> 00:06:42,800
+close at hand! On the day it is
+finished our power over the
+Earth system shall be
+
+72
+00:06:42,800 --> 00:06:47,200
+renewed and the light of victory
+will fall upon Zeon. Sieg Zeon!
+
+73
+00:06:47,200 --> 00:06:54,040
+[CROWD] Sieg Zeon! Sieg Zeon!
+Sieg Zeon! Sieg Zeon!
+
+74
+00:06:59,920 --> 00:07:06,200
+And that's what finally
+convinced Duke Degin I was
+worthy of being in command
+
+75
+00:07:06,200 --> 00:07:08,480
+of this project.
+
+76
+00:07:08,480 --> 00:07:10,480
+[STUNNED VOICES]
+
+77
+00:07:15,560 --> 00:07:20,750
+Aina my dear. You look
+lovelier than ever this evening.
+
+78
+00:07:20,750 --> 00:07:22,960
+Thank you brother.
+
+79
+00:07:22,960 --> 00:07:28,000
+You test flight was magnificent.
+It was a wonderful feat.
+
+80
+00:07:28,000 --> 00:07:34,200
+I can hardly describe how
+wonderful it felt. Although I
+admit the ventilation
+
+81
+00:07:34,200 --> 00:07:40,200
+system could use just a little
+work. I was really hot in there.
+But then again if it
+
+82
+00:07:40,200 --> 00:07:46,200
+weren't for that my victory
+drink wouldn't taste quite as
+cool now would it brother?
+
+83
+00:07:46,200 --> 00:07:50,520
+You did do very well.
+Now please just enjoy yourself.
+
+84
+00:07:50,520 --> 00:07:55,440
+[VOICE] Ginias! Ginias where
+the hell are ya?
+
+85
+00:07:55,440 --> 00:07:58,040
+Oh great. Admiral Kellanay.
+
+86
+00:07:58,040 --> 00:08:02,440
+Outta my way! Move!
+Lemme through here!
+
+87
+00:08:02,440 --> 00:08:06,920
+Ah yes! Ginias there you are!
+How are ya?!
+
+88
+00:08:06,920 --> 00:08:09,600
+Yuri stop it. People
+are staring.
+
+89
+00:08:09,600 --> 00:08:14,760
+[YURI] Ah what the hell do we
+care? Hahahaha! I got a
+report your high‐priced
+
+90
+00:08:14,760 --> 00:08:19,500
+toy was finally working so I
+came over from Europe
+to have a look.
+
+91
+00:08:19,500 --> 00:08:22,520
+It's no toy to me.
+
+92
+00:08:22,520 --> 00:08:26,760
+Hahaha! What have we here? My
+little Aina all
+grown up at last!
+
+93
+00:08:26,760 --> 00:08:29,480
+And wouldn't you know it
+you grew up pretty.
+
+94
+00:08:29,480 --> 00:08:35,640
+The last time I saw you you were
+just a simple little kid. Women!
+You are amazing creatures.
+
+95
+00:08:35,640 --> 00:08:39,000
+You flatter me too much
+mister Kellanay.
+
+96
+00:08:39,000 --> 00:08:44,240
+[YURI] Hey whoa quit being so
+formal. It's not like we're
+strangers or anything.
+
+97
+00:08:44,240 --> 00:08:47,600
+Aina how about it?
+
+98
+00:08:47,600 --> 00:08:51,000
+How'd you like to be
+my girlfriend?
+
+99
+00:08:51,000 --> 00:08:52,000
+What?
+
+100
+00:08:52,000 --> 00:08:58,000
+I know most guys are intimidated
+by the Sahalins but I've
+never been afraid
+
+101
+00:08:58,000 --> 00:09:00,000
+to have a little fun.
+
+102
+00:09:00,000 --> 00:09:04,000
+You must be joking. Please
+excuse me while I step outside.
+
+103
+00:09:04,000 --> 00:09:07,750
+This room is
+becoming unbearable.
+
+104
+00:09:08,320 --> 00:09:10,880
+Pardon me please.
+
+105
+00:09:12,720 --> 00:09:19,360
+Heh. She won't let her guard
+down for a minute. Get it?
+
+106
+00:09:21,160 --> 00:09:25,320
+Hmph. Those two have
+never been any fun.
+
+107
+00:09:27,720 --> 00:09:31,440
+[AINA] Why does he have to
+show up now of all times?
+
+108
+00:09:31,440 --> 00:09:37,120
+With him here my brother's
+concentration will be thrown
+completely off! If Ginias
+
+109
+00:09:37,120 --> 00:09:42,500
+hadn't been there I would have
+loved to have just
+punched him out.
+
+110
+00:09:42,500 --> 00:09:48,000
+Miss Aina may I ask just what
+this project means to you ma'am?
+
+111
+00:09:48,000 --> 00:09:52,720
+My brother's dream is
+everything. Perhaps you think
+I'm being too dramatic?
+
+112
+00:09:52,720 --> 00:09:53,500
+No.
+
+113
+00:09:53,500 --> 00:09:58,600
+[AINA] Once his Apsalus is
+completed this war will
+finally come to an end.
+
+114
+00:09:58,600 --> 00:10:03,700
+I guess I'm having a hard time
+celebrating a weapon that will
+wipe out a lot of lives
+
+115
+00:10:03,700 --> 00:10:05,700
+before this is over.
+
+116
+00:10:05,700 --> 00:10:11,000
+The Sahalin family will win the
+war. And from now on my
+life will be forever
+
+117
+00:10:11,000 --> 00:10:13,200
+linked with your family.
+
+118
+00:10:13,200 --> 00:10:16,933
+I appreciate you sentiment.
+Power, prestige, nobility...
+
+119
+00:10:17,068 --> 00:10:19,200
+it's all part of
+being a Sahalin.
+
+120
+00:10:19,200 --> 00:10:23,300
+It's kind of like
+being a puppet.
+
+121
+00:10:23,300 --> 00:10:25,800
+[NORRIS] Ms. Aina...
+
+122
+00:10:25,800 --> 00:10:27,440
+[WISTFUL MUSIC]
+
+123
+00:10:36,120 --> 00:10:39,800
+[SHIRO] What's a matter Sanders?
+
+124
+00:10:39,800 --> 00:10:45,920
+I'm... I wish to resign sir.
+I would like a transfer.
+
+125
+00:10:45,920 --> 00:10:48,000
+You don't mean that.
+
+126
+00:10:48,000 --> 00:10:52,200
+[SANDERS] Eledore take my
+place as a mobile suit pilot.
+
+127
+00:10:52,200 --> 00:10:55,650
+[ELEDORE] What? What are you
+talking about? I can't do that.
+
+128
+00:10:55,650 --> 00:10:59,840
+Will then I suppose I could
+pilot it.
+‐What's this all about?
+
+129
+00:10:59,840 --> 00:11:06,640
+I won't go out there. At least
+not as a pilot. If I do I'll
+just get you all killed.
+
+130
+00:11:06,640 --> 00:11:10,680
+[KAREN] Ugh! What a wimp!
+
+131
+00:11:10,680 --> 00:11:12,400
+[SHIRO] Karen!
+
+132
+00:11:12,400 --> 00:11:17,640
+[KAREN] You're still hung up on
+that bullshit? OK so you've
+lost every team you've
+
+133
+00:11:17,640 --> 00:11:23,240
+fought with so far. But now
+because of what those morons
+said you believe you are
+
+134
+00:11:23,240 --> 00:11:27,200
+the Grim Reaper. You let what
+they said get under your skin.
+
+135
+00:11:27,200 --> 00:11:29,500
+Yes! That's why I want out.
+
+136
+00:11:29,500 --> 00:11:34,500
+You think quitting's gonna solve
+anything? Where's your
+damned balls soldier?
+
+137
+00:11:35,920 --> 00:11:38,800
+So you do have a pair after all?
+
+138
+00:11:38,800 --> 00:11:41,000
+[SHIRO] Damn it Karen.
+
+139
+00:11:41,000 --> 00:11:45,800
+This team would be better off
+without a goddamn coward like
+you on it anyway.
+
+140
+00:11:45,800 --> 00:11:48,800
+That's enough. You need to
+back off Chief.
+
+141
+00:11:48,800 --> 00:11:50,600
+What for?
+
+142
+00:11:50,600 --> 00:11:57,000
+No. It's alright. In my career
+I've had to watch every team
+I've ever served with get killed
+
+143
+00:11:57,000 --> 00:12:02,120
+on the 3rd mission every single
+time. And I always survive.
+
+144
+00:12:02,120 --> 00:12:05,360
+[GULP] You mean you're a
+3rd time jinx?
+
+145
+00:12:05,360 --> 00:12:11,120
+This will be our 3rd action
+together and if I'm part of it
+the 08th team is going to die.
+
+146
+00:12:11,120 --> 00:12:14,160
+That's why I have to quit now!
+Before I cau‐
+
+147
+00:12:14,160 --> 00:12:19,160
+Isn't it a little conceited to
+think that it was you who got
+your friends killed?
+
+148
+00:12:19,160 --> 00:12:25,550
+Sanders who do you think you
+are? Just shake that doomsday
+crap out of your head!
+
+149
+00:12:29,080 --> 00:12:35,120
+Permission denied. I'm sorry but
+I can't accept your transfer
+in the middle of
+
+150
+00:12:35,120 --> 00:12:38,120
+a mission. Now get back
+to your post.
+
+151
+00:12:38,120 --> 00:12:39,000
+But sir!
+
+152
+00:12:39,000 --> 00:12:41,240
+That's an order Sanders.
+
+153
+00:12:41,240 --> 00:12:42,000
+Right.
+
+154
+00:12:42,000 --> 00:12:47,800
+Don't worry about it. You know I
+think we'll be the ones who will
+break this run of bad
+
+155
+00:12:47,800 --> 00:12:50,800
+luck you've been having.
+
+156
+00:12:50,800 --> 00:12:55,600
+Oh yeah there's nothing to
+soothe your nerves like a
+dose of bad rations.
+
+157
+00:12:55,600 --> 00:13:01,480
+You know I was just thinking: I
+hope we don't see any
+action tomorrow sir.
+
+158
+00:13:01,880 --> 00:13:07,280
+Come on. If you want to survive
+you have to believe in it.
+
+159
+00:13:07,280 --> 00:13:08,160
+[MICHEL] Hmm?
+
+160
+00:13:08,160 --> 00:13:12,200
+You have to have faith.
+
+161
+00:13:18,520 --> 00:13:21,760
+[EXCITING MUSIC]
+
+162
+00:13:36,320 --> 00:13:38,320
+[BEEPING]
+
+163
+00:13:38,320 --> 00:13:41,520
+[TECH] We have a warning alarm!
+[GINIAS] I can see that.
+
+164
+00:13:41,520 --> 00:13:44,840
+[TECH] The telemeter is also
+off. We may be at its limit.
+
+165
+00:13:44,840 --> 00:13:49,850
+And there may be no problem.
+Have all our forces on the front
+begin forming a strong
+
+166
+00:13:49,850 --> 00:13:53,850
+perimeter. I want the Apsalus'
+flight path secured.
+
+167
+00:13:53,850 --> 00:13:57,080
+[GINIAS] Norris report. What's
+the condition of the unit?
+
+168
+00:13:57,080 --> 00:14:00,000
+[NORRIS] Sir I see no
+apparent changes.
+
+169
+00:14:00,000 --> 00:14:03,000
+[GINIAS] That's good. Continue
+to monitor the load rate.
+
+170
+00:14:03,000 --> 00:14:03,750
+[AINA] Right.
+
+171
+00:14:03,750 --> 00:14:07,000
+[NORRIS] Ms. Aina don't push it
+too hard.
+‐I'm aware of that.
+
+172
+00:14:07,000 --> 00:14:09,280
+[GUNFIRE]
+
+173
+00:14:13,360 --> 00:14:18,700
+We have reports of enemy fire.
+Something must be going on. OK
+Sanders get ready we're
+
+174
+00:14:18,700 --> 00:14:21,760
+moving into area 376.
+
+175
+00:14:21,760 --> 00:14:25,680
+[SHIRO] I'll take point.
+You follow me. Do you read?
+
+176
+00:14:25,680 --> 00:14:27,120
+I read.
+
+177
+00:14:31,520 --> 00:14:35,840
+I've got a bad feeling. Tell me
+you're not writing a letter.
+
+178
+00:14:35,840 --> 00:14:38,400
+I'm writing my will!
+
+179
+00:14:38,400 --> 00:14:40,560
+Great. You do that.
+
+180
+00:14:44,240 --> 00:14:50,200
+There's a strong vibration in
+the main body. Altitude 4000.
+The load is too high!
+
+181
+00:14:50,200 --> 00:14:54,680
+I can't maintain this altitude.
+I'm going into a dive!
+
+182
+00:14:54,680 --> 00:14:58,000
+[TECH] Try to override the
+control computer's codes.
+
+183
+00:14:58,000 --> 00:15:02,500
+[NORRIS] We're inside
+Feddie‐controlled territory.
+Be careful!
+
+184
+00:15:02,500 --> 00:15:03,500
+I can't climb!
+
+185
+00:15:03,500 --> 00:15:07,500
+[NORRIS] I know you can do it
+Aina. Just stop its descent.
+
+186
+00:15:07,500 --> 00:15:08,080
+[AINA] Right!
+
+187
+00:15:08,080 --> 00:15:12,300
+Broadcast Minovsky particles.
+We'll keep you in contact
+with the base.
+
+188
+00:15:12,300 --> 00:15:13,300
+[AINA] Thank you.
+
+189
+00:15:13,300 --> 00:15:14,860
+[TECH] Increasing altitude.
+
+190
+00:15:19,520 --> 00:15:24,520
+[GINIAS] Can we pull in support
+from the Northeastern
+defense line?
+
+191
+00:15:24,520 --> 00:15:27,840
+[TECH] Yes sir. They're
+initiating a diversion attack.
+
+192
+00:15:27,840 --> 00:15:32,360
+Abort Ginias. Enough already.
+Have Aina punch out
+of that thing.
+
+193
+00:15:32,360 --> 00:15:36,520
+We can't afford to lose the
+Apsalus. I know Aina
+can save it.
+
+194
+00:15:36,520 --> 00:15:38,920
+[TECH] This is the escort unit.
+
+195
+00:15:38,920 --> 00:15:42,840
+I can confirm that she's pulled
+out of the dive but just barely.
+
+196
+00:15:42,840 --> 00:15:48,160
+Excellent work Aina. Send out
+the reserve troops as well. We
+have to make certain
+
+197
+00:15:48,160 --> 00:15:51,480
+those Feddies don't spot the
+flight path of the Apsalus.
+
+198
+00:15:51,480 --> 00:15:52,480
+[TECH] Yes sir.
+
+199
+00:15:52,480 --> 00:15:57,720
+Typical. You brainiacs get
+overconfident and we've gotta
+clean up the mess.
+
+200
+00:15:57,720 --> 00:16:00,000
+Excuse me sir. I
+have the report.
+
+201
+00:16:00,000 --> 00:16:03,200
+[TECH] Sir we've regained
+partial latitude control.
+
+202
+00:16:03,200 --> 00:16:05,200
+[TECH 2] Power systems
+are overheating.
+
+203
+00:16:05,200 --> 00:16:10,160
+Ginias the time has come for me
+to head back to the European
+front. Be sure to
+
+204
+00:16:10,160 --> 00:16:13,760
+send me your plaything once
+you've worked the
+bugs out of it.
+
+205
+00:16:13,760 --> 00:16:16,920
+I didn't build it just
+for you Admiral.
+
+206
+00:16:16,920 --> 00:16:19,480
+[YURI] Yeah whatever. See
+you Mr. Genius.
+
+207
+00:16:21,320 --> 00:16:25,840
+[SHIRO] Eledore can you pinpoint
+the enemy's location for me?
+
+208
+00:16:25,840 --> 00:16:30,840
+[ELEDORE] 2000 meters away at 11
+o'clock. Karen's
+pursuing them now.
+
+209
+00:16:31,080 --> 00:16:33,080
+[GUNFIRE]
+
+210
+00:16:34,800 --> 00:16:40,480
+Huh? What are they up to?
+Commander! The enemy is
+pulling back!
+
+211
+00:16:40,880 --> 00:16:45,000
+[KAREN] It's like she wants
+us to follow him.
+
+212
+00:16:45,000 --> 00:16:48,760
+That's weird. They must be
+up to something.
+
+213
+00:16:48,760 --> 00:16:51,560
+What am I picking up?
+
+214
+00:16:51,560 --> 00:16:54,560
+I hear it too what is it?
+[ELEDORE] Quiet!
+
+215
+00:16:54,560 --> 00:16:57,920
+[KAREN] What do we do Commander?
+Do we follow them?
+
+216
+00:16:57,920 --> 00:17:00,440
+[SHIRO] No wait. There's
+something here.
+
+217
+00:17:00,440 --> 00:17:02,600
+[ELEDORE] Commander
+check this out.
+
+218
+00:17:02,600 --> 00:17:05,880
+[RADIO] About 25 clicks to the
+east! [RADIO 2] Recover it.
+
+219
+00:17:05,880 --> 00:17:09,600
+[RADIO 3] Roger. We should reach
+the Apsalus momentarily.
+
+220
+00:17:09,600 --> 00:17:11,400
+It's somewhere in the jungle.
+
+221
+00:17:11,400 --> 00:17:14,200
+[RADIO 4] Base I need a
+confirmation on the signal.
+
+222
+00:17:14,280 --> 00:17:16,440
+What the hell?
+
+223
+00:17:16,440 --> 00:17:23,720
+[ELEDORE] I can barely hear it
+because of the Minovsky particle
+jamming but I think
+
+224
+00:17:23,720 --> 00:17:28,800
+there's some sort of enemy unit
+headed this way. Hey. Why
+isn't this in code?
+
+225
+00:17:28,800 --> 00:17:34,320
+Alright. We'll lay low and wait
+for it here. All units
+ambush formation!
+
+226
+00:17:41,480 --> 00:17:45,520
+[MICHEL] Eledore do you really
+think it's coming our way?
+
+227
+00:17:45,520 --> 00:17:50,760
+Definitely. Commander it'll pass
+right over your head
+in 40 seconds.
+
+228
+00:17:50,760 --> 00:17:54,720
+[SHIRO] Got it. We'll let 'em
+pass &amp; then see what happens.
+
+229
+00:17:54,720 --> 00:17:58,200
+I wonder if this is Sanders'
+fault.
+‐Pipe down!
+
+230
+00:17:59,560 --> 00:18:04,640
+[ELEDORE] Picking up some
+vibration. This thing
+is beyond huge.
+
+231
+00:18:04,640 --> 00:18:08,040
+It's way bigger than
+a mobile suit.
+
+232
+00:18:10,640 --> 00:18:15,320
+[ELEDORE] Fighter planes.
+Multiple units.
+
+233
+00:18:15,320 --> 00:18:18,640
+[TENSE MUSIC]
+
+234
+00:18:20,920 --> 00:18:23,520
+Here they come!
+
+235
+00:18:23,520 --> 00:18:25,840
+Now let 'em through...
+
+236
+00:18:25,840 --> 00:18:27,000
+[GUNFIRE]
+
+237
+00:18:27,000 --> 00:18:29,160
+Who's shooting?!
+
+238
+00:18:32,080 --> 00:18:37,000
+[NORRIS] Concentrate on that
+point of fire. Secure the
+Apsalus flight path!
+
+239
+00:18:37,000 --> 00:18:38,500
+[PILOT] Roger!
+
+240
+00:18:38,500 --> 00:18:41,200
+You stupid shit! Why
+did you fire!?
+
+241
+00:18:41,200 --> 00:18:43,280
+I didn't know I...
+
+242
+00:18:43,280 --> 00:18:46,240
+[SHIRO] They're coming right
+for us! Scatter!
+
+243
+00:18:46,240 --> 00:18:48,240
+Just what we needed!
+
+244
+00:18:51,920 --> 00:18:53,600
+[GUNFIRE]
+
+245
+00:18:54,560 --> 00:18:56,800
+[KAREN] Are you
+reading me Sanders?
+
+246
+00:18:56,800 --> 00:18:57,600
+Roger!
+
+247
+00:18:57,600 --> 00:19:00,560
+[KAREN] I am not gonna
+die just watch me!
+
+248
+00:19:00,560 --> 00:19:03,480
+[SHIRO] Karen! What the
+hell are you doing?!
+
+249
+00:19:03,480 --> 00:19:05,120
+[YELLING]
+
+250
+00:19:07,360 --> 00:19:09,840
+There! That's the wa‐ uh?
+
+251
+00:19:11,360 --> 00:19:13,080
+[CRASHING SOUND]
+
+252
+00:19:13,080 --> 00:19:14,680
+Karen!
+
+253
+00:19:17,880 --> 00:19:19,400
+Ugh!
+
+254
+00:19:21,880 --> 00:19:24,400
+Karen! Wha‐...
+
+255
+00:19:28,120 --> 00:19:29,920
+It's huge!
+
+256
+00:19:29,920 --> 00:19:32,560
+What the hell is that thing!?
+
+257
+00:19:38,720 --> 00:19:41,360
+[GUNFIRE]
+
+258
+00:19:54,080 --> 00:19:56,990
+[GUNFIRE]
+
+259
+00:19:56,990 --> 00:19:58,600
+Did I get 'em?
+
+260
+00:19:58,600 --> 00:19:59,960
+Norris!
+
+261
+00:20:02,200 --> 00:20:05,240
+[NORRIS] Forgive me Ms. Aina!
+
+262
+00:20:05,240 --> 00:20:08,000
+Can you make it back
+to the base?
+
+263
+00:20:08,000 --> 00:20:11,750
+[NORRIS] I'll be fine. Please
+Ms. Aina just get out of here!
+
+264
+00:20:11,750 --> 00:20:16,120
+No I'm gonna cover you. In the
+meantime you get outta here!
+
+265
+00:20:16,120 --> 00:20:18,720
+[NORRIS] Ms. Aina!
+‐Alright let's do it!
+
+266
+00:20:20,600 --> 00:20:24,000
+[DISCHARGING SHOCK]
+
+267
+00:20:34,680 --> 00:20:37,200
+Goddamn monster!!
+
+268
+00:20:40,480 --> 00:20:46,880
+[SANDERS] They're not going to
+die. Do you hear they
+aren't gonna die!!
+
+269
+00:20:46,880 --> 00:20:49,000
+[GUNFIRE]
+
+270
+00:20:50,880 --> 00:20:52,880
+You like that?!
+
+271
+00:21:00,440 --> 00:21:02,200
+[SCREAMING]
+
+272
+00:21:06,120 --> 00:21:09,000
+He must be out of his mind!
+
+273
+00:21:15,040 --> 00:21:20,240
+I am not... I am not
+the Grim Reaper!
+
+274
+00:21:29,480 --> 00:21:35,760
+Not this time. I will not lose.
+I swear I will not lose again!
+
+275
+00:21:37,760 --> 00:21:39,760
+[GUNFIRE]
+
+276
+00:21:39,760 --> 00:21:45,200
+Give it everything you got!
+Shoot! Shoot at it until your
+guns are overheating!
+
+277
+00:21:45,200 --> 00:21:46,200
+[GUNFIRE]
+
+278
+00:21:46,200 --> 00:21:51,320
+[NORRIS] Ms. Aina! You can't
+take fire from that close! Get
+out of there now!
+
+279
+00:21:51,320 --> 00:21:52,760
+Roger!
+
+280
+00:22:06,880 --> 00:22:11,520
+[SHIRO] Sanders! Ha ha!
+You were great!
+
+281
+00:22:11,520 --> 00:22:14,800
+[LAUGHING]
+
+282
+00:22:15,720 --> 00:22:19,750
+See Sanders I was right.
+I'm alive!
+
+283
+00:22:20,760 --> 00:22:24,240
+Uh huh. We're still alive.
+
+284
+00:22:24,240 --> 00:22:27,000
+I guess we are alright.
+
+285
+00:22:27,000 --> 00:22:30,600
+Yeah. I can't believe it
+but I guess we really are.
+
+286
+00:22:30,600 --> 00:22:36,400
+And we all made it. We can
+overcome anything. Even
+break a jinx.
+
+287
+00:22:36,400 --> 00:22:41,900
+As long as we have
+faith in ourselves!
+
+288
+00:22:51,120 --> 00:22:56,120
+[ENDING THEME]
+
+289
+00:24:21,360 --> 00:24:27,360
+[SHIRO] The existence of the
+enemy's new weapon sends a shock
+through our forces.
+
+290
+00:24:27,360 --> 00:24:33,360
+Now the 08th Team is sent out
+every day to search and gather
+intelligence. And then
+
+291
+00:24:33,360 --> 00:24:39,360
+we get word that Eledore &amp;
+Michel have been captured by the
+Zeon! I hope those 2 will be
+
+292
+00:24:39,360 --> 00:24:44,300
+alright. They have to
+find some way to escape!
+
+293
+00:24:44,300 --> 00:24:51,120
+Next time on Mobile Suit Gundam
+The 08th MS Team: The Broken
+Order to Stand By.
+

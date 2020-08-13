@@ -1,0 +1,2521 @@
+﻿1
+00:00:14,000 --> 00:00:15,541
+[ZACK]
+Seriously?
+
+2
+00:00:15,625 --> 00:00:18,291
+What's with the freakin'
+horde surrounding us?
+
+3
+00:00:18,375 --> 00:00:19,625
+[TEKKADAN MEMBER 48A]
+It doesn't matter.
+
+4
+00:00:19,708 --> 00:00:22,166
+We quit Tekkadan, so it
+has nothing to do with us.
+
+5
+00:00:22,250 --> 00:00:24,000
+[TEKKADAN MEMBER 48B]
+I don't think they got the memo!
+
+6
+00:00:24,083 --> 00:00:26,916
+If they see us,
+they'll hunt us down, for sure!
+
+7
+00:00:27,000 --> 00:00:28,458
+[ZACK grunts]
+
+8
+00:00:28,541 --> 00:00:30,000
+So that's how it is, huh?
+
+9
+00:00:30,083 --> 00:00:31,791
+We're always gonna be
+part of Tekkadan
+
+10
+00:00:31,875 --> 00:00:33,833
+no matter where it is we go.
+
+11
+00:00:33,916 --> 00:00:35,291
+[TEKKADAN MEMBER 48A]
+Zack...
+
+12
+00:00:36,375 --> 00:00:37,625
+[IOK]
+Your orders were to stand by
+
+13
+00:00:37,708 --> 00:00:40,541
+once we'd surrounding
+Tekkadan's main base,
+
+14
+00:00:40,625 --> 00:00:42,416
+but are you sure that's wise?
+
+15
+00:00:42,500 --> 00:00:43,833
+[RUSTAL]
+I am indeed.
+
+16
+00:00:43,916 --> 00:00:46,666
+In order to revive Gjallarhorn's
+tarnished authority,
+
+17
+00:00:46,750 --> 00:00:48,583
+we must make a show
+of our righteousness
+
+18
+00:00:48,666 --> 00:00:50,333
+to the entire world.
+
+19
+00:00:50,416 --> 00:00:54,000
+Maintain the current situation
+until I get to Mars.
+
+20
+00:00:54,083 --> 00:00:55,583
+--[IOK] Yes, sir!
+--[beeps]
+
+21
+00:00:56,583 --> 00:00:59,291
+So you've heard it.
+Control of the civilian press
+
+22
+00:00:59,375 --> 00:01:01,541
+shall be at <i>your</i> discretion.
+
+23
+00:01:01,625 --> 00:01:04,500
+[NOBLISS]
+Leave it to me, sir.
+
+24
+00:01:04,583 --> 00:01:06,083
+[PRESS OFFICER 48A]
+In order to reestablish peace
+
+
+25
+00:01:06,166 --> 00:01:08,625
+in the Earth Sphere, we
+of the Arianrhod Fleet
+
+
+26
+00:01:08,708 --> 00:01:11,208
+are announcing that we will
+launch a mop-up operation
+
+
+27
+00:01:11,291 --> 00:01:13,916
+against both the traitor,
+McGillis Fareed,
+
+28
+00:01:14,000 --> 00:01:16,166
+who took up arms
+against the Seven Stars,
+
+29
+00:01:16,250 --> 00:01:20,208
+and Tekkadan, the armed
+organization that's aiding him.
+
+30
+00:01:20,291 --> 00:01:22,916
+We've already surrounded
+Tekkadan's headquarters on Mars
+
+31
+00:01:23,000 --> 00:01:25,041
+and have issued
+calls for their surrender,
+
+32
+00:01:25,125 --> 00:01:27,416
+but they have yet to respond.
+
+33
+00:01:27,500 --> 00:01:30,583
+And so, we expect to begin
+the operation as planned
+
+34
+00:01:30,666 --> 00:01:33,291
+tomorrow at noon, Mars time.
+
+35
+00:01:33,375 --> 00:01:35,083
+Madam President...
+
+36
+00:01:36,333 --> 00:01:39,208
+[GAELIO]
+Now you have nowhere to run.
+
+37
+00:01:39,291 --> 00:01:43,041
+What's you next move, McGillis?
+
+38
+00:01:43,125 --> 00:01:46,333
+[MCGILLIS] The situation
+has become much simpler.
+
+39
+00:01:46,416 --> 00:01:49,833
+If we wipe them out here,
+this will all be over.
+
+40
+00:01:49,916 --> 00:01:51,541
+That's a good thing, isn't it?
+
+41
+00:01:51,625 --> 00:01:53,666
+I'd think you'd want to
+fight them on your home turf.
+
+42
+00:01:53,750 --> 00:01:55,208
+[MIKAZUKI]
+I'll fight...
+
+43
+00:01:55,291 --> 00:01:58,000
+...if and when Orga tells me.
+
+44
+00:01:58,083 --> 00:02:00,291
+But what do <i>you</i> want to do?
+
+45
+00:02:00,375 --> 00:02:03,083
+[MIKAZUKI]
+I do what Orga wants me to do.
+
+46
+00:02:03,166 --> 00:02:04,583
+End of story.
+
+47
+00:02:04,666 --> 00:02:06,625
+[MCGILLIS]
+This isn't about Orga Itsuka.
+
+48
+00:02:06,708 --> 00:02:09,083
+I'm asking what <i>you</i> think.
+
+49
+00:02:10,916 --> 00:02:13,041
+[MIKAZUKI]
+I already told you.
+
+50
+00:02:13,125 --> 00:02:15,583
+Whatever it is
+Orga decides to do,
+
+51
+00:02:15,666 --> 00:02:17,583
+is what I want to do.
+
+52
+00:03:48,583 --> 00:03:51,083
+[CHAD] All our communication
+cables have been cut.
+
+53
+00:03:51,166 --> 00:03:52,666
+And they shoot down
+our LCS drones
+
+54
+00:03:52,750 --> 00:03:54,458
+as soon as we launch them.
+
+55
+00:03:54,541 --> 00:03:56,500
+If we can't use the QCCS either,
+
+56
+00:03:56,583 --> 00:03:59,500
+it'll be impossible to get any
+information from the outside
+
+57
+00:03:59,583 --> 00:04:01,625
+much less contact Mr. Makanai.
+
+58
+00:04:01,708 --> 00:04:04,250
+Gjallarhorn might be sittin'
+tight for the time being,
+
+59
+00:04:04,333 --> 00:04:06,958
+but they could attack us
+any minute now.
+
+60
+00:04:07,041 --> 00:04:09,166
+Look like we're at a dead end.
+
+61
+00:04:09,250 --> 00:04:11,333
+Why don't we just
+go after them first, then?
+
+62
+00:04:11,416 --> 00:04:13,125
+Oh, come on.
+We're outnumbered so bad
+
+63
+00:04:13,208 --> 00:04:14,625
+it's not even funny.
+
+64
+00:04:14,708 --> 00:04:16,708
+Up to you--your call.
+
+65
+00:04:16,791 --> 00:04:18,416
+There's nothing that we can do.
+
+66
+00:04:18,500 --> 00:04:21,208
+Our only option
+is to run, so we run.
+
+67
+00:04:21,291 --> 00:04:23,041
+Haven't you heard
+anything we've said?
+
+68
+00:04:23,125 --> 00:04:25,291
+Even if we managed
+to get away from them
+
+69
+00:04:25,375 --> 00:04:27,750
+we'd be on the run
+till the day we died.
+
+70
+00:04:27,833 --> 00:04:30,458
+[ORGA] As long as we make it
+out of here, we win.
+
+71
+00:04:30,541 --> 00:04:32,291
+After that,
+we'll destroy this place
+
+72
+00:04:32,375 --> 00:04:34,375
+to make it seem like
+we were wiped out.
+
+73
+00:04:34,458 --> 00:04:36,208
+Wiped out, Boss?
+
+74
+00:04:36,291 --> 00:04:40,250
+Yeah. All we gotta do is
+make them believe that we died.
+
+75
+00:04:40,333 --> 00:04:43,666
+We'll call Old Makanai after
+that so he can help us out.
+
+76
+00:04:43,750 --> 00:04:47,083
+Good idea. That way,
+they won't keep looking for us.
+
+77
+00:04:47,166 --> 00:04:49,000
+--Let's do it.
+--[EUGENE] That's impossible.
+
+78
+00:04:49,083 --> 00:04:51,291
+If you think we can make it out
+of here without being noticed,
+
+79
+00:04:51,375 --> 00:04:52,750
+then you're insane.
+
+80
+00:04:52,833 --> 00:04:55,458
+Actually, there might be
+a way to do just that.
+
+81
+00:04:55,541 --> 00:04:57,375
+If I'm remembering correctly,
+
+82
+00:04:57,458 --> 00:04:59,375
+there were old power cables
+running under the base
+
+83
+00:04:59,458 --> 00:05:02,083
+that date back all the way
+to the Calamity War.
+
+84
+00:05:02,166 --> 00:05:04,083
+So, if those tunnels
+are still down there,
+
+85
+00:05:04,166 --> 00:05:06,708
+we could use them to make
+our escape to Chryse.
+
+86
+00:05:06,791 --> 00:05:08,416
+Do you think
+that's even possible?
+
+87
+00:05:08,500 --> 00:05:09,833
+[EUGENE]
+Seriously.
+
+88
+00:05:09,916 --> 00:05:11,833
+It's worth a try.
+Eugene, go with Pops
+
+89
+00:05:11,916 --> 00:05:13,375
+and check out those tunnels.
+
+90
+00:05:13,458 --> 00:05:16,000
+[EUGENE]
+You got it, I'm on it.
+
+91
+00:05:16,083 --> 00:05:18,458
+All right, listen up.
+
+92
+00:05:18,541 --> 00:05:20,291
+This battle isn't about
+just killing someone
+
+93
+00:05:20,375 --> 00:05:22,166
+and it being over.
+
+94
+00:05:22,250 --> 00:05:23,541
+It's about
+every single one of us
+
+95
+00:05:23,625 --> 00:05:26,083
+getting out of this mess alive.
+
+96
+00:05:26,166 --> 00:05:28,500
+<i>That</i> is our objective.
+
+97
+00:05:28,583 --> 00:05:30,333
+We're gonna get through this.
+
+98
+00:05:30,416 --> 00:05:33,833
+And our surviving
+is what's gonna beat them.
+
+99
+00:05:33,916 --> 00:05:37,041
+You all got that?
+Don't ever back down!
+
+100
+00:05:40,166 --> 00:05:42,458
+[EUGENE]
+Man, he sure is ballsy.
+
+101
+00:05:42,541 --> 00:05:45,208
+Yeah, that's true.
+But he is starting to act
+
+102
+00:05:45,291 --> 00:05:46,666
+like the old Orga again.
+
+103
+00:05:46,750 --> 00:05:48,041
+[CHAD]
+I thought so, too.
+
+104
+00:05:48,125 --> 00:05:49,875
+He's full of confidence
+for some reason.
+
+105
+00:05:49,958 --> 00:05:51,208
+[AKIHIRO]
+Hm.
+
+106
+00:05:51,291 --> 00:05:54,541
+[EUGENE] You know, I said
+something to Orga once.
+
+107
+00:05:54,625 --> 00:05:57,666
+That nobody here seriously
+thought doing what he said
+
+108
+00:05:57,750 --> 00:05:59,500
+was gonna be a sure thing.
+
+109
+00:05:59,583 --> 00:06:02,583
+I meant it, but it was
+only half true.
+
+110
+00:06:02,666 --> 00:06:03,833
+[CHAD]
+Huh?
+
+111
+00:06:03,916 --> 00:06:05,458
+'Cause you can't help
+but think that if you
+
+112
+00:06:05,541 --> 00:06:07,000
+stick with him and his orders
+
+113
+00:06:07,083 --> 00:06:09,416
+things will just
+work themselves out.
+
+114
+00:06:09,500 --> 00:06:12,000
+Yeah. True.
+
+115
+00:06:12,083 --> 00:06:14,083
+[DANTE] In that case,
+let's get to work.
+
+116
+00:06:14,166 --> 00:06:16,125
+[AKIHIRO, CHAD, EUGENE]
+Right.
+
+117
+00:06:16,208 --> 00:06:17,958
+[MCGILLIS]
+I see. So you're making the call
+
+118
+00:06:18,041 --> 00:06:20,250
+to sneak away from here.
+
+119
+00:06:20,333 --> 00:06:22,750
+The Tekkadan I know
+would never back down.
+
+120
+00:06:22,833 --> 00:06:24,125
+You would just
+fight without giving it
+
+121
+00:06:24,208 --> 00:06:26,041
+so much as a second thought.
+
+122
+00:06:26,125 --> 00:06:27,125
+[ORGA]
+We're not dumb enough
+
+123
+00:06:27,208 --> 00:06:29,375
+to get into a conflict
+we can't win.
+
+124
+00:06:29,458 --> 00:06:31,541
+We have a different
+battle to fight.
+
+125
+00:06:31,625 --> 00:06:33,833
+A different battle, you say?
+
+126
+00:06:33,916 --> 00:06:35,500
+And what exactly is it
+that you're hoping
+
+127
+00:06:35,583 --> 00:06:37,666
+to get out of that battle?
+
+128
+00:06:37,750 --> 00:06:39,166
+[ORGA]
+The only thing I want
+
+129
+00:06:39,250 --> 00:06:43,083
+is for all of us to be alive
+at the end of it.
+
+130
+00:06:43,166 --> 00:06:45,875
+We'd use whatever
+was at our disposal.
+
+131
+00:06:45,958 --> 00:06:47,458
+And put our heads together
+to figure out
+
+132
+00:06:47,541 --> 00:06:49,208
+what our next move should be.
+
+133
+00:06:49,291 --> 00:06:51,208
+That's how we always managed it.
+
+134
+00:06:51,291 --> 00:06:55,166
+I'm not sure when,
+but I lost sight of that.
+
+135
+00:06:55,250 --> 00:06:58,083
+A rather pointless realization,
+don't you think?
+
+136
+00:06:58,166 --> 00:07:00,208
+[ORGA] You can call it
+whatever you want.
+
+137
+00:07:00,291 --> 00:07:03,708
+It's not pointless, though...
+if I'm with my buddies.
+
+138
+00:07:03,791 --> 00:07:05,458
+--Buddies, eh?
+--[radio clicks]
+
+139
+00:07:05,541 --> 00:07:08,250
+[EUGENE]
+Hey Orga, we found the tunnel!
+
+140
+00:07:08,333 --> 00:07:09,708
+Are you serious?!
+
+141
+00:07:09,791 --> 00:07:12,583
+[YUKINOJO] Yeah, but I gotta
+say it's seen better days.
+
+142
+00:07:12,666 --> 00:07:14,625
+We can't just haul off
+and blast it.
+
+143
+00:07:14,708 --> 00:07:17,208
+We're gonna have to dig
+through this mess by hand.
+
+144
+00:07:17,291 --> 00:07:20,208
+Fine, grab anyone who's free
+and get to work right away.
+
+145
+00:07:20,291 --> 00:07:22,416
+[YUKINOJO]
+Got it. Oh, and one more thing.
+
+146
+00:07:22,500 --> 00:07:25,250
+Some of these cables still
+seem to be in working order.
+
+147
+00:07:25,333 --> 00:07:27,833
+If the terminal on
+the Chryse side is functional,
+
+148
+00:07:27,916 --> 00:07:31,833
+it should be possible to get
+a call through to the outside.
+
+149
+00:07:31,916 --> 00:07:33,916
+Understood. All right.
+
+150
+00:07:34,000 --> 00:07:36,375
+Let's start by clearing out
+that tunnel A-SAP.
+
+151
+00:07:36,458 --> 00:07:38,666
+--[YUKINOJO] Roger that.
+--[radio clicks]
+
+152
+00:07:38,750 --> 00:07:41,291
+If it turns out we can't
+leave anytime soon,
+
+153
+00:07:41,375 --> 00:07:43,125
+then I'd like to at least
+try and get the word out
+
+154
+00:07:43,208 --> 00:07:46,416
+to Old Man Makanai so he has an
+idea of what we're planning.
+
+155
+00:07:46,500 --> 00:07:48,375
+You're saying you want
+to contact Earth?
+
+156
+00:07:48,458 --> 00:07:50,458
+[ORGA] Yeah. And if we
+could make it to Chryse,
+
+157
+00:07:50,541 --> 00:07:52,958
+there's also
+Kudelia's Admoss Company.
+
+158
+00:07:53,041 --> 00:07:55,291
+We could make things
+work over there.
+
+159
+00:07:55,375 --> 00:07:59,041
+But... with us
+surrounded like this...
+
+160
+00:07:59,125 --> 00:08:02,166
+If it were just a few men,
+you might actually have a shot
+
+161
+00:08:02,250 --> 00:08:04,458
+at temporarily breaking
+through their blockade.
+
+162
+00:08:04,541 --> 00:08:05,666
+[ORGA]
+Huh?
+
+163
+00:08:05,750 --> 00:08:07,083
+[MCGILLIS] I'm heading out.
+I'll find a way
+
+164
+00:08:07,166 --> 00:08:09,750
+to break through Gjallarhorn's
+blockade on my own.
+
+165
+00:08:09,833 --> 00:08:10,791
+What?
+
+166
+00:08:10,875 --> 00:08:12,125
+[MCGILLIS]
+By going out there,
+
+167
+00:08:12,208 --> 00:08:14,791
+it'll focus all of
+their attention on me.
+
+168
+00:08:14,875 --> 00:08:16,125
+While they're distracted,
+
+169
+00:08:16,208 --> 00:08:18,458
+it should be possible
+for you to escape.
+
+170
+00:08:18,541 --> 00:08:21,125
+You'd actually do that for us?
+
+171
+00:08:21,208 --> 00:08:22,958
+[MCGILLIS]
+Don't misunderstand.
+
+172
+00:08:23,041 --> 00:08:24,625
+I'm just taking
+the necessary steps
+
+173
+00:08:24,708 --> 00:08:27,458
+to ensure my objective
+is realized.
+
+174
+00:08:27,541 --> 00:08:29,708
+Whether you use that
+to your advantage or not
+
+175
+00:08:29,791 --> 00:08:31,791
+is of no concern to me.
+
+176
+00:08:31,875 --> 00:08:32,916
+But you'll--
+
+177
+00:08:33,000 --> 00:08:34,750
+As a matter of fact,
+your strategy is
+
+178
+00:08:34,833 --> 00:08:37,208
+quite beneficial
+to my goal, as well.
+
+179
+00:08:37,291 --> 00:08:39,375
+By making it appear
+as though you're still here,
+
+180
+00:08:39,458 --> 00:08:43,333
+we'll have a chance to lure
+Rustal Elion into a trap.
+
+181
+00:08:43,416 --> 00:08:47,916
+You see, I plan on
+using <i>you</i> to destroy <i>him</i> .
+
+182
+00:08:51,416 --> 00:08:53,083
+--[computer beeping]
+--[ORGA] Listen, Chad.
+
+183
+00:08:53,166 --> 00:08:56,125
+Have Ride get a car
+prepared for us.
+
+184
+00:08:56,208 --> 00:08:58,125
+We're heading to
+the Admoss Company.
+
+185
+00:08:58,208 --> 00:08:59,500
+[CHAD]
+What? But how?
+
+186
+00:08:59,583 --> 00:09:01,000
+[ORGA]
+We have a way to get through.
+
+187
+00:09:01,083 --> 00:09:03,291
+We're taking Kudelia
+and Atra along with us.
+
+188
+00:09:03,375 --> 00:09:04,791
+Go get them right away.
+
+189
+00:09:04,875 --> 00:09:08,166
+There's not much time,
+so do it now!
+
+190
+00:09:08,250 --> 00:09:09,833
+[ATRA]
+I'm not going with you.
+
+191
+00:09:09,916 --> 00:09:11,083
+[KUDELIA]
+Miss Atra...
+
+192
+00:09:11,166 --> 00:09:13,291
+[CHAD] This will be
+a battleground soon.
+
+193
+00:09:13,375 --> 00:09:14,875
+Trust me when I say
+it's safer for you
+
+194
+00:09:14,958 --> 00:09:16,333
+to leave with Miss Kudelia.
+
+195
+00:09:16,416 --> 00:09:19,291
+[ATRA] But I... I don't want
+to leave Mikazuki
+
+196
+00:09:19,375 --> 00:09:21,250
+and everyone else behind.
+
+197
+00:09:21,333 --> 00:09:23,625
+There's no time
+to debate this, Atra.
+
+198
+00:09:23,708 --> 00:09:25,583
+[ATRA]
+I know, but I...
+
+199
+00:09:25,666 --> 00:09:27,375
+Come on, Miss Atra.
+
+200
+00:09:28,875 --> 00:09:31,958
+[KUDELIA]
+Let's go. Together.
+
+201
+00:09:32,041 --> 00:09:35,333
+After all, I made
+a promise to Mikazuki
+
+202
+00:09:35,416 --> 00:09:37,208
+to watch over you
+and your child.
+
+203
+00:09:37,291 --> 00:09:40,875
+--[CHAD] Uh.
+--Wait, Atra's pregnant?
+
+204
+00:09:40,958 --> 00:09:42,875
+[KUDELIA]
+So please, Miss Atra.
+
+205
+00:09:42,958 --> 00:09:47,041
+Help me keep the promise
+that I made to Mikazuki.
+
+206
+00:09:47,125 --> 00:09:49,750
+My promise to the man I love.
+
+207
+00:09:49,833 --> 00:09:51,333
+[ATRA gasps]
+
+208
+00:09:54,291 --> 00:09:55,791
+[ATRA]
+Okay...
+
+209
+00:09:55,875 --> 00:09:58,041
+You should probably go pack
+and get ready, then.
+
+210
+00:09:58,125 --> 00:09:59,583
+[KUDELIA]
+What about you, Ms. Merribit?
+
+211
+00:09:59,666 --> 00:10:01,250
+I still have quite
+a bit of work to do,
+
+212
+00:10:01,333 --> 00:10:02,666
+so I'll be staying here.
+
+213
+00:10:02,750 --> 00:10:03,958
+[KUDELIA]
+But you...
+
+214
+00:10:04,041 --> 00:10:07,250
+Please don't worry.
+I'm sure we'll meet again.
+
+215
+00:10:07,333 --> 00:10:08,958
+The iron flower
+known as Tekkadan
+
+216
+00:10:09,041 --> 00:10:11,416
+won't wither and die
+that easily.
+
+217
+00:10:12,458 --> 00:10:14,708
+[MCGILLIS]
+Barbatos Lupus Rex.
+
+218
+00:10:14,791 --> 00:10:18,750
+The king of the wolves.
+What a valiant name.
+
+219
+00:10:18,833 --> 00:10:20,583
+Why are you dressed like that?
+
+220
+00:10:20,666 --> 00:10:21,791
+Going somewhere?
+
+221
+00:10:21,875 --> 00:10:23,958
+I am.
+
+222
+00:10:24,041 --> 00:10:28,291
+Mikazuki Augus, how would
+you feel about joining me?
+
+223
+00:10:28,375 --> 00:10:30,541
+[MIKAZUKI]
+Why?
+
+224
+00:10:30,625 --> 00:10:33,208
+Oh, right. I understand.
+
+225
+00:10:33,291 --> 00:10:35,916
+[MIKAZUKI]
+Hm?
+
+226
+00:10:36,000 --> 00:10:38,958
+[MCGILLIS] I thought the way
+you fought was beautiful.
+
+227
+00:10:39,041 --> 00:10:41,625
+Power that I saw as my ideal.
+
+228
+00:10:41,708 --> 00:10:45,541
+Power with which I could
+secure a bright future.
+
+229
+00:10:45,625 --> 00:10:49,166
+You and your gang don't know
+how to make use of that power.
+
+230
+00:10:49,250 --> 00:10:51,166
+So I thought that
+I could lead you.
+
+231
+00:10:51,250 --> 00:10:52,625
+I believed that
+I could guide you
+
+232
+00:10:52,708 --> 00:10:54,208
+toward our common goal.
+
+233
+00:10:54,291 --> 00:10:56,625
+However, I was mistaken.
+
+234
+00:10:56,708 --> 00:10:58,916
+Tekkadan's brilliance
+has no ideals.
+
+235
+00:10:59,000 --> 00:11:00,833
+They lack a true
+sense of purpose.
+
+236
+00:11:00,916 --> 00:11:03,916
+And they have no destination.
+This fleeting nature...
+
+237
+00:11:04,000 --> 00:11:06,750
+[MIKAZUKI] You talk
+too much, ya know that?
+
+238
+00:11:06,833 --> 00:11:09,458
+Every one of us
+is gonna make it there.
+
+239
+00:11:09,541 --> 00:11:10,791
+Make it where?
+
+240
+00:11:10,875 --> 00:11:12,583
+[ORGA]
+Hey. You know better than to
+
+241
+00:11:12,666 --> 00:11:15,000
+try and poach
+one of our members.
+
+242
+00:11:15,083 --> 00:11:17,166
+Yes, indeed. My apologies.
+
+243
+00:11:17,250 --> 00:11:19,958
+Well then,
+I think I'll be going.
+
+244
+00:11:21,833 --> 00:11:24,416
+[MIKAZUKI] Orga, do you
+need me to go out, too?
+
+245
+00:11:24,500 --> 00:11:26,083
+It's not time for that yet.
+
+246
+00:11:26,166 --> 00:11:28,833
+There's another job that I need
+you to take care of for me.
+
+247
+00:11:28,916 --> 00:11:31,375
+Yeah, okay.
+
+248
+00:11:31,458 --> 00:11:36,375
+Kings of Mars we said.
+So much for that.
+
+249
+00:11:36,458 --> 00:11:40,541
+[MIKAZUKI] Was that it?
+The place we belonged?
+
+250
+00:11:40,625 --> 00:11:45,041
+Well, that's what I always
+told myself anyway.
+
+251
+00:11:45,125 --> 00:11:49,083
+We'll just have to
+start lookin' again.
+
+252
+00:11:49,166 --> 00:11:51,625
+And I'm gonna
+make sure that happens
+
+253
+00:11:51,708 --> 00:11:54,333
+by heading over
+to Chryse with Kudelia,
+
+254
+00:11:54,416 --> 00:11:56,791
+and making arrangements
+with Old Man Makanai.
+
+255
+00:11:56,875 --> 00:11:58,250
+That worries me a little.
+
+256
+00:11:58,333 --> 00:11:59,583
+[ORGA]
+Hm?
+
+257
+00:11:59,666 --> 00:12:01,625
+If I'm not right there with you,
+
+258
+00:12:01,708 --> 00:12:03,500
+there's no telling
+how you'll mess up.
+
+259
+00:12:03,583 --> 00:12:05,416
+Hey, watch it.
+
+260
+00:12:05,500 --> 00:12:06,958
+It ain't like you can
+go charging into
+
+261
+00:12:07,041 --> 00:12:08,791
+the city in Barbatos.
+
+262
+00:12:08,875 --> 00:12:10,500
+Yeah, but still...
+
+263
+00:12:10,583 --> 00:12:12,875
+[ORGA] So, whaddya say
+you just let me borrow
+
+264
+00:12:12,958 --> 00:12:14,958
+your gun instead, then?
+
+265
+00:12:16,875 --> 00:12:18,333
+[MIKAZUKI]
+This?
+
+266
+00:12:18,416 --> 00:12:20,208
+[ORGA]
+Yeah.
+
+267
+00:12:20,291 --> 00:12:22,083
+[ORGA]
+Brings back memories.
+
+268
+00:12:22,166 --> 00:12:25,458
+That day, I'm not gonna lie,
+
+269
+00:12:25,541 --> 00:12:29,000
+I was absolutely
+terrified of you.
+
+270
+00:12:29,083 --> 00:12:30,958
+But I thought:
+
+271
+00:12:31,041 --> 00:12:33,958
+As long as I have
+this guy by my side,
+
+272
+00:12:34,041 --> 00:12:37,750
+there's nobody in the entire
+world who can beat me.
+
+273
+00:12:37,833 --> 00:12:39,083
+Even now?
+
+274
+00:12:39,166 --> 00:12:41,083
+Yeah.
+
+275
+00:12:41,166 --> 00:12:43,500
+Same as always.
+
+276
+00:12:43,583 --> 00:12:45,708
+[MIKAZUKI]
+Orga.
+
+277
+00:12:45,791 --> 00:12:49,125
+Make sure that you
+bring that back.
+
+278
+00:12:49,208 --> 00:12:51,708
+I plan to, Mika.
+
+279
+00:12:51,791 --> 00:12:53,500
+You don't have to worry.
+
+
+280
+00:12:54,583 --> 00:12:57,791
+[ATRA] Okay, I'll be
+going now, Mikazuki.
+
+281
+00:12:57,875 --> 00:12:59,333
+[MIKAZUKI]
+Mm.
+
+282
+00:12:59,416 --> 00:13:02,250
+Make sure
+you're careful, Mikazuki.
+
+283
+00:13:02,333 --> 00:13:04,208
+I don't think I should
+be lookin' at this.
+
+284
+00:13:04,291 --> 00:13:05,666
+[HUSH]
+Are you done yet?
+
+285
+00:13:05,750 --> 00:13:07,750
+[ORGA] All right, guys,
+Bael is heading out!
+
+286
+00:13:07,833 --> 00:13:09,833
+We need to go!
+
+287
+00:13:18,041 --> 00:13:19,250
+[SOLDIER 48A]
+We've detected an Ahab Wave
+
+288
+00:13:19,333 --> 00:13:20,833
+from the enemy base!
+
+289
+00:13:20,916 --> 00:13:22,166
+--[COMMANDER 48A] The pattern?
+--[SOLDIER 48A] Bael!
+
+290
+00:13:22,250 --> 00:13:24,000
+There you are, McGillis.
+
+291
+00:13:24,083 --> 00:13:26,041
+[COMMANDER 48A] All forces,
+stay put! Don't move!
+
+292
+00:13:26,125 --> 00:13:27,458
+[IOK'S SUBORDINATE 48A]
+Master Iok!
+
+293
+00:13:27,541 --> 00:13:30,333
+We have our orders, men!
+We have to obey the commander!
+
+294
+00:13:30,416 --> 00:13:31,375
+[IOK'S SUBORDINATE 48A]
+But, sir!
+
+295
+00:13:31,458 --> 00:13:33,250
+[IOK]
+Mars' media is watching us!
+
+296
+00:13:33,333 --> 00:13:35,041
+It's Master Rustal's order!
+
+297
+00:13:35,125 --> 00:13:37,791
+We're not to move
+until the enemy attacks!
+
+298
+00:13:37,875 --> 00:13:39,041
+[IOK'S SUBORDINATE 48A]
+So we're just supposed to watch
+
+299
+00:13:39,125 --> 00:13:40,791
+as our comrades get taken out?!
+
+300
+00:13:40,875 --> 00:13:41,958
+[IOK grunts]
+
+301
+00:13:42,041 --> 00:13:45,500
+Exactly! You mustn't
+take any action!
+
+302
+00:13:45,583 --> 00:13:47,708
+[IOK'S SUBORDINATE 48A]
+Master Iok!
+
+303
+00:13:47,791 --> 00:13:50,250
+[COMMANDER 48A]
+Lord Kujan, what are you doing?
+
+304
+00:13:50,333 --> 00:13:52,083
+[IOK]
+Please forgive me, Commander!
+
+305
+00:13:52,166 --> 00:13:55,583
+But, if blood must first
+be shed by someone...
+
+306
+00:13:57,083 --> 00:13:58,416
+[MCGILLIS]
+He disarmed?
+
+307
+00:13:58,500 --> 00:14:00,458
+I see. You're trying
+to force me into
+
+308
+00:14:00,541 --> 00:14:02,583
+drawing first blood, aren't you?
+
+309
+00:14:02,666 --> 00:14:04,166
+[IOK'S SUBORDINATE 48A]
+Master Iok, retreat!
+
+310
+00:14:04,250 --> 00:14:05,583
+[IOK]
+Don't interfere!
+
+311
+00:14:05,666 --> 00:14:07,458
+My men have saved me
+from the jaws of death
+
+312
+00:14:07,541 --> 00:14:09,500
+more times than I can count!
+
+313
+00:14:09,583 --> 00:14:12,041
+And if not for the noble
+sacrifices of those men,
+
+314
+00:14:12,125 --> 00:14:13,916
+I wouldn't be alive today!
+
+315
+00:14:14,000 --> 00:14:15,291
+And that's why...
+
+316
+00:14:15,375 --> 00:14:17,541
+...the time has come
+for me to lay down my life
+
+317
+00:14:17,625 --> 00:14:19,666
+in order to ensure
+the safety of yours!
+
+318
+00:14:19,750 --> 00:14:22,750
+Quite the commendable
+sentiment, Iok Kujan.
+
+319
+00:14:22,833 --> 00:14:27,916
+However, my purpose here is to
+cause a fair bit of commotion.
+
+320
+00:14:28,000 --> 00:14:30,000
+You're trying to bait me...
+
+321
+00:14:30,083 --> 00:14:31,250
+[yells]
+
+322
+00:14:31,333 --> 00:14:33,375
+[MCGILLIS]
+...so I may as well bite!
+
+323
+00:14:34,291 --> 00:14:35,666
+[IOK yells]
+
+324
+00:14:36,583 --> 00:14:38,416
+Dammit! Where is he?!
+
+325
+00:14:38,500 --> 00:14:40,500
+[gasps]
+McGillis!
+
+326
+00:14:41,750 --> 00:14:43,125
+[IOK'S SUBORDINATE 48A]
+Master Iok!
+
+327
+00:14:46,916 --> 00:14:49,291
+Now, Commander! Give the order!
+
+328
+00:14:49,375 --> 00:14:51,541
+[COMMANDER 48A]
+Understood, Lord Kujan.
+
+329
+00:14:51,625 --> 00:14:55,125
+[COMMANDER 48A] All squads!
+Commence counterattack!
+
+330
+00:14:55,208 --> 00:14:58,083
+[MCGILLIS] I'm in a rather
+foul mood at the moment.
+
+331
+00:14:58,166 --> 00:15:01,458
+So, if you don't mind, I believe
+I'll take it out on you.
+
+332
+00:15:07,416 --> 00:15:08,750
+[MCGILLIS]
+Lupus Rex.
+
+333
+00:15:08,833 --> 00:15:10,916
+The king of the wolves.
+
+334
+00:15:16,333 --> 00:15:18,000
+[MCGILLIS]
+That's right.
+
+335
+00:15:18,083 --> 00:15:20,208
+Wolves move in packs.
+
+336
+00:15:22,083 --> 00:15:24,958
+But that way of life
+isn't for me.
+
+337
+00:15:25,041 --> 00:15:27,125
+[beeping]
+
+338
+00:15:27,208 --> 00:15:29,916
+[MCGILLIS]
+Mission accomplished.
+
+339
+00:15:30,000 --> 00:15:33,375
+Time to part ways, Tekkadan.
+
+340
+00:15:36,833 --> 00:15:45,625
+[clanging]
+
+341
+00:15:45,708 --> 00:15:46,958
+[DANE]
+Zack?
+
+342
+00:15:47,041 --> 00:15:48,875
+Wow, I never thought I'd
+see you back here, again.
+
+343
+00:15:48,958 --> 00:15:50,458
+Like I had a freakin' choice.
+
+344
+00:15:50,541 --> 00:15:53,083
+I'll do whatever it takes
+to stay alive.
+
+345
+00:15:53,166 --> 00:15:55,083
+Now hurry up and get to work!
+
+346
+00:15:55,166 --> 00:15:57,250
+[EUGENE] After you take over
+for the guys working below,
+
+347
+00:15:57,333 --> 00:15:59,958
+--make sure that you keep--
+--[ELGAR] Deputy Boss!
+
+348
+00:16:00,041 --> 00:16:01,541
+[ELGAR] The boss and the
+others just broke through
+
+349
+00:16:01,625 --> 00:16:03,958
+--the enemy blockade!
+--That's great!
+
+350
+00:16:04,041 --> 00:16:06,416
+Okay guys,
+let's get to work!
+
+351
+00:16:06,500 --> 00:16:08,083
+[TEKKADAN MEMBERS]
+Yeah!
+
+352
+00:16:08,166 --> 00:16:10,750
+--[door knob clicks]
+--[CUCUBITA] Madam President!
+
+353
+00:16:10,833 --> 00:16:13,291
+Thank goodness
+you made it out okay!
+
+354
+00:16:13,375 --> 00:16:15,458
+Oh, I thought I'd
+never see you again!
+
+355
+00:16:15,541 --> 00:16:17,125
+Come now, you're overreacting.
+
+356
+00:16:17,208 --> 00:16:18,125
+[CUCUBITA]
+Can you blame me?!
+
+357
+00:16:18,208 --> 00:16:19,416
+Gjallarhorn said Tekkadan was
+
+358
+00:16:19,500 --> 00:16:21,166
+refusing their order
+to surrender!
+
+359
+00:16:21,250 --> 00:16:24,166
+They're planning an all-out
+attack on them tomorrow at noon!
+
+360
+00:16:24,250 --> 00:16:26,750
+[ORGA]
+They said what?!
+
+361
+00:16:26,833 --> 00:16:28,625
+[RUSTAL]
+That's McGillis for you.
+
+362
+00:16:28,708 --> 00:16:31,583
+Acting before all
+our pieces were in place.
+
+363
+00:16:31,666 --> 00:16:33,416
+[NOBLISS]
+You're not concerned by this?
+
+364
+00:16:33,500 --> 00:16:35,833
+It's nothing but
+a single Mobile Suit.
+
+365
+00:16:35,916 --> 00:16:38,958
+You just stay focused on
+controlling the civilian media.
+
+366
+00:16:39,041 --> 00:16:40,625
+Trust me, sir, I am.
+
+367
+00:16:40,708 --> 00:16:42,333
+Even with this latest incident,
+
+368
+00:16:42,416 --> 00:16:44,541
+they're eating out of
+the palm of my hand.
+
+369
+00:16:44,625 --> 00:16:46,750
+I'm quite certain
+Gjallarhorn will never lose
+
+370
+00:16:46,833 --> 00:16:48,500
+its moral high ground.
+
+371
+00:16:48,583 --> 00:16:51,375
+<i>I</i> shall be waiting for you
+here on Mars, then.
+
+372
+00:16:51,458 --> 00:16:52,875
+[beep]
+
+373
+00:16:52,958 --> 00:16:56,125
+[GAELIO] Is this wise? Letting
+McGillis do as he pleases?
+
+374
+00:16:56,208 --> 00:16:57,666
+Mars is a big place.
+
+375
+00:16:57,750 --> 00:17:01,708
+Though the Mars Branch's
+negligence is an issue.
+
+376
+00:17:01,791 --> 00:17:04,500
+If he were the kind of man
+who would simply run away,
+
+377
+00:17:04,583 --> 00:17:05,916
+we wouldn't have
+been faced with
+
+378
+00:17:06,000 --> 00:17:08,083
+a situation like this
+to begin with.
+
+379
+00:17:08,166 --> 00:17:12,416
+He'll come.
+We just have to be patient.
+
+380
+00:17:12,500 --> 00:17:14,375
+Then it'll be up to you.
+
+381
+00:17:14,458 --> 00:17:16,416
+Yes.
+
+382
+00:17:16,500 --> 00:17:19,416
+That is the only thing
+I have to live for.
+
+383
+00:17:19,500 --> 00:17:22,083
+[RIDE] Those bastards never
+gave us any calls to surrender!
+
+384
+00:17:22,166 --> 00:17:23,875
+[CUCUBITA] But that's what
+the news keeps saying.
+
+385
+00:17:23,958 --> 00:17:27,041
+So <i>that's</i> the reason they cut
+off all communications from HQ.
+
+386
+00:17:27,125 --> 00:17:28,291
+[ATRA]
+What does that mean?
+
+387
+00:17:28,375 --> 00:17:30,500
+It means they don't plan
+on letting us surrender.
+
+388
+00:17:30,583 --> 00:17:33,375
+Looks like they
+intend to kill us all.
+
+389
+00:17:33,458 --> 00:17:34,833
+Oh, no...
+
+390
+00:17:34,916 --> 00:17:36,875
+But there's still time
+to prevent that.
+
+391
+00:17:36,958 --> 00:17:38,708
+So let's get started!
+
+392
+00:17:40,291 --> 00:17:42,583
+[MAKANAI] How can you ask me
+to do such a thing?!
+
+393
+00:17:42,666 --> 00:17:44,916
+Deliberate tampering
+with personal information
+
+394
+00:17:45,000 --> 00:17:46,541
+is a serious offense!
+
+395
+00:17:46,625 --> 00:17:47,958
+I understand that.
+
+396
+00:17:48,041 --> 00:17:50,625
+But I'm not seeing
+any other way out for us.
+
+397
+00:17:50,708 --> 00:17:52,416
+I'll do anything
+to protect them.
+
+398
+00:17:52,500 --> 00:17:55,041
+I'll give my life to
+save them! I'm begging you!
+
+399
+00:17:55,125 --> 00:17:56,791
+[MAKANAI] It's difficult
+to turn down a request
+
+400
+00:17:56,875 --> 00:17:58,750
+from a man you owe your life to.
+
+401
+00:17:58,833 --> 00:18:00,458
+Mr. Makanai, are you...?
+
+402
+00:18:00,541 --> 00:18:01,750
+So, you'll help?
+
+403
+00:18:01,833 --> 00:18:03,250
+[MAKANAI]
+Before I can do anything,
+
+404
+00:18:03,333 --> 00:18:06,416
+you must come to Earth to
+finalize the formal paperwork.
+
+405
+00:18:06,500 --> 00:18:07,625
+Go back to Earth?
+
+406
+00:18:07,708 --> 00:18:09,500
+I understand.
+We'll make it there.
+
+407
+00:18:09,583 --> 00:18:10,875
+[MAKANAI]
+But be quick about it.
+
+408
+00:18:10,958 --> 00:18:12,750
+There's someone here
+who is so worried about you
+
+409
+00:18:12,833 --> 00:18:14,791
+that he can't
+do his job properly.
+
+410
+00:18:14,875 --> 00:18:16,916
+It's caused me to
+fall behind in my own work.
+
+411
+00:18:17,000 --> 00:18:18,541
+[TAKAKI]
+Don't say that, Mr. Makanai.
+
+412
+00:18:18,625 --> 00:18:21,416
+Wait, that voice!
+Am I hearing, Takaki?!
+
+413
+00:18:21,500 --> 00:18:23,250
+Ride? Is that you?
+
+414
+00:18:23,333 --> 00:18:25,291
+What the heck are
+you doin' over there?!
+
+415
+00:18:25,375 --> 00:18:27,583
+[TAKAKI chuckles]
+Oh, I managed to get a job
+
+416
+00:18:27,666 --> 00:18:29,333
+at Mr. Makanai's office.
+
+417
+00:18:29,416 --> 00:18:30,708
+Are you serious?
+
+418
+00:18:30,791 --> 00:18:33,000
+[TAKAKI] And it's all
+thanks to you, Boss.
+
+419
+00:18:33,083 --> 00:18:35,541
+Me and Fuka
+owe everything to you.
+
+420
+00:18:35,625 --> 00:18:39,875
+And so I wanna do
+what I can to repay you.
+
+421
+00:18:39,958 --> 00:18:41,666
+[ORGA]
+Takaki...
+
+422
+00:18:41,750 --> 00:18:45,708
+[ATRA] So, if we can just make
+it to Earth, we'll all be saved?
+
+423
+00:18:45,791 --> 00:18:47,291
+Yes.
+
+424
+00:18:47,375 --> 00:18:49,541
+[CHAD] You say that as if it's
+going to be a walk in the park.
+
+425
+00:18:49,625 --> 00:18:52,500
+But I bet Gjallarhorn
+will be watching the Isaribi.
+
+426
+00:18:52,583 --> 00:18:55,125
+Oh, that's right.
+I completely forgot.
+
+427
+00:18:55,208 --> 00:18:58,333
+I received an email addressed
+to Tekkadan while you were away.
+
+428
+00:18:58,416 --> 00:19:00,750
+It came for us?
+
+429
+00:19:00,833 --> 00:19:03,666
+[ORGA]
+This... is from Miss Azee?
+
+430
+00:19:03,750 --> 00:19:05,583
+[AZEE] Since we can't
+get hold of you guys,
+
+431
+00:19:05,666 --> 00:19:09,375
+we're sending a message
+via Kudelia Aina Bernstein.
+
+432
+00:19:09,458 --> 00:19:12,583
+We saw what's happening
+on the news.
+
+433
+00:19:12,666 --> 00:19:14,416
+If there's anything
+we can do to help,
+
+434
+00:19:14,500 --> 00:19:17,291
+go to Teiwaz's office on Mars.
+
+435
+00:19:17,375 --> 00:19:20,458
+We can smuggle
+anything, anywhere.
+
+436
+00:19:20,541 --> 00:19:24,416
+We already have
+Mr. McMurdo's consent on this.
+
+437
+00:19:24,500 --> 00:19:26,625
+We'll be waiting for your reply.
+
+438
+00:19:26,708 --> 00:19:28,750
+[ECO]
+Listen! You guys can't die!
+
+439
+00:19:28,833 --> 00:19:31,041
+You need to survive
+for those we lost,
+
+440
+00:19:31,125 --> 00:19:34,416
+like Darling, Ma'am, Lafter,
+and everyone else!
+
+441
+00:19:34,500 --> 00:19:36,166
+We'll be waiting!
+
+442
+00:19:37,791 --> 00:19:38,875
+You okay?
+
+443
+00:19:38,958 --> 00:19:40,375
+So what does Miss Azee say?
+
+444
+00:19:40,458 --> 00:19:42,833
+--[ORGA] We're all set.
+--[CHAD, RIDE] Huh?
+
+445
+00:19:42,916 --> 00:19:45,583
+[ORGA]
+It's gonna work out.
+
+446
+00:19:45,666 --> 00:19:47,791
+The road's opened up.
+
+447
+00:19:47,875 --> 00:19:50,958
+We just have to move forward!
+
+448
+00:19:51,041 --> 00:19:53,708
+First, we need to find out
+where that tunnel comes out!
+
+449
+00:19:53,791 --> 00:19:56,708
+We'll use that cable
+to let everyone know...
+
+450
+00:19:56,791 --> 00:19:58,916
+...we now have a plan
+that'll save us all!
+
+451
+00:19:59,000 --> 00:20:00,208
+[BOTH]
+Yeah.
+
+452
+00:20:00,291 --> 00:20:02,333
+[ORGA] Chad, Ride,
+bring the car around back!
+
+453
+00:20:02,416 --> 00:20:04,833
+[CHAD, RIDE]
+Yes, sir!
+
+454
+00:20:04,916 --> 00:20:07,000
+[ORGA]
+Are you sure about this, Atra?
+
+455
+00:20:07,083 --> 00:20:09,416
+[ATRA] Yes. I'm going to
+hide out at Miss Kudelia's
+
+456
+00:20:09,500 --> 00:20:11,166
+until this all blows over.
+
+457
+00:20:11,250 --> 00:20:12,750
+I'll keep her safe and sound.
+
+458
+00:20:12,833 --> 00:20:15,500
+It's what Mikazuki
+asked me to do.
+
+459
+00:20:15,583 --> 00:20:18,583
+He did? I see...
+
+460
+00:20:18,666 --> 00:20:21,458
+Well then, I guess
+this is goodbye for a while.
+
+461
+00:20:21,541 --> 00:20:24,833
+Guess so. And please,
+take care of Mikazuki for us.
+
+462
+00:20:24,916 --> 00:20:26,333
+Sure.
+
+463
+00:20:28,250 --> 00:20:30,375
+[ORGA]
+Now that I think about it,
+
+464
+00:20:30,458 --> 00:20:34,000
+Tekkadan really began when we
+were hired to take you to Earth.
+
+465
+00:20:35,625 --> 00:20:39,083
+You deliberately chose us
+for the job, didn't you?
+
+466
+00:20:39,166 --> 00:20:41,666
+Yes. I wanted to work
+alongside children
+
+467
+00:20:41,750 --> 00:20:44,625
+who were around my age
+and less fortunate than I was.
+
+468
+00:20:44,708 --> 00:20:47,708
+So I could somehow
+share in their pain.
+
+469
+00:20:47,791 --> 00:20:52,541
+[KUDELIA, ORGA laughing]
+
+470
+00:20:52,625 --> 00:20:55,041
+Boy, what an arrogant
+notion that was.
+
+471
+00:20:55,125 --> 00:20:57,625
+No, I'm grateful that you did.
+
+472
+00:20:57,708 --> 00:20:59,875
+So make your dreams come true.
+
+473
+00:21:01,208 --> 00:21:02,208
+I will.
+
+474
+00:21:02,291 --> 00:21:03,791
+[RIDE]
+Boss!
+
+475
+00:21:03,875 --> 00:21:05,250
+The car's ready
+whenever you are!
+
+476
+00:21:05,333 --> 00:21:07,166
+[ORGA]
+Right!
+
+477
+00:21:07,250 --> 00:21:08,333
+We're off.
+
+478
+00:21:08,416 --> 00:21:11,375
+Okay. Please be careful.
+
+479
+00:21:11,458 --> 00:21:13,625
+[RIDE]
+It almost seems too quiet.
+
+480
+00:21:13,708 --> 00:21:16,000
+There aren't any Gjallarhorn
+soldiers in the city,
+
+481
+00:21:16,083 --> 00:21:17,750
+unlike our headquarters.
+
+482
+00:21:17,833 --> 00:21:20,291
+[ORGA] Yeah. They probably
+sent every last soldier
+
+483
+00:21:20,375 --> 00:21:22,375
+they had over there.
+
+484
+00:21:22,458 --> 00:21:25,666
+[RIDE] Well, that doesn't
+matter anymore now, does it?
+
+485
+00:21:25,750 --> 00:21:26,958
+[ORGA]
+You're in a good mood.
+
+486
+00:21:27,041 --> 00:21:28,791
+[RIDE]
+Of course I am!
+
+487
+00:21:28,875 --> 00:21:31,625
+Everyone's gonna be saved
+and Takaki's hard at work!
+
+488
+00:21:31,708 --> 00:21:33,916
+So I gotta work hard, too!
+
+489
+00:21:34,000 --> 00:21:35,500
+Yeah.
+
+490
+00:21:35,583 --> 00:21:37,791
+[ORGA]
+You're absolutely right.
+
+491
+00:21:37,875 --> 00:21:42,083
+Everything that we've built up
+wasn't for nothing.
+
+492
+00:21:42,166 --> 00:21:45,375
+And from now on,
+as long as we don't stop,
+
+493
+00:21:45,458 --> 00:21:47,000
+the road will continue.
+
+494
+00:21:47,083 --> 00:21:49,000
+[tires squeal]
+[door handle clicks]
+
+495
+00:21:49,083 --> 00:21:50,416
+--[gunshot]
+--[CHAD groans]
+
+496
+00:21:50,500 --> 00:21:53,791
+[gunfire]
+
+497
+00:21:53,875 --> 00:21:56,250
+[RIDE]
+Boss! What are you doing?!
+
+498
+00:21:56,333 --> 00:21:58,500
+Boss!
+
+499
+00:21:58,583 --> 00:22:01,541
+[ORGA yelling]
+
+500
+00:22:06,458 --> 00:22:11,458
+[ORGA panting]
+
+501
+00:22:11,541 --> 00:22:14,000
+How 'bout that?
+
+502
+00:22:14,083 --> 00:22:16,750
+I'm a pretty good shot.
+[chuckles]
+
+503
+00:22:16,833 --> 00:22:18,583
+[RIDE]
+Hey...
+
+504
+00:22:18,666 --> 00:22:20,791
+Boss, are you...?
+
+505
+00:22:20,875 --> 00:22:23,541
+[RIDE whimpering]
+
+506
+00:22:23,625 --> 00:22:28,541
+[ORGA] Hey now, Ride,
+what's with the whimpering?
+
+507
+00:22:28,625 --> 00:22:32,125
+[RIDE]
+But... But you're...!
+
+508
+00:22:32,208 --> 00:22:36,250
+[ORGA] I'm the...
+boss of Tekkadan, aren't I?
+
+509
+00:22:36,333 --> 00:22:38,833
+Orga Itsuka.
+
+510
+00:22:38,916 --> 00:22:43,458
+Dammit. This is nothing
+but a scratch.
+
+511
+00:22:43,541 --> 00:22:45,083
+But why did you...?
+
+512
+00:22:45,166 --> 00:22:47,416
+You shouldn't
+have done that for me.
+
+513
+00:22:47,500 --> 00:22:50,375
+[ORGA]
+Protecting you is my job.
+
+514
+00:22:50,458 --> 00:22:52,625
+[sobbing]
+
+515
+00:22:52,708 --> 00:22:55,416
+--[RIDE] No!
+--[ORGA] We have to go!
+
+516
+00:22:55,500 --> 00:22:58,916
+[ORGA]
+Everyone's... waiting for us.
+
+517
+00:22:59,000 --> 00:23:02,458
+And besides...
+
+518
+00:23:02,541 --> 00:23:06,583
+[ORGA]
+Mika, I finally get it.
+
+519
+00:23:06,666 --> 00:23:09,875
+We don't need
+any goal to reach.
+
+520
+00:23:09,958 --> 00:23:14,833
+As long as we keep moving
+forward and never stop,
+
+521
+00:23:14,916 --> 00:23:18,291
+the road will continue.
+
+522
+00:23:18,375 --> 00:23:20,958
+[MIKAZUKI]
+I'm not gonna let you be sorry.
+
+523
+00:23:21,041 --> 00:23:23,958
+[ORGA]
+Yeah. I know.
+
+524
+00:23:26,375 --> 00:23:29,041
+Believe me,
+I'm never gonna quit.
+
+525
+00:23:29,125 --> 00:23:32,208
+So as long as you all
+keep moving,
+
+526
+00:23:32,291 --> 00:23:35,291
+I'll be at the end
+waiting for you!
+
+527
+00:23:45,708 --> 00:23:48,291
+[ORGA]
+So listen up.
+
+528
+00:23:48,375 --> 00:23:51,125
+Don't you ever stop.
+
+529
+00:23:56,541 --> 00:23:58,208
+[MIKAZUKI]
+Orga?
+
+530
+00:24:25,000 --> 00:24:26,208
+[MIKAZUKI]
+Next time on
+
+531
+00:24:26,291 --> 00:24:28,250
+<i>Mobile Suit Gundam:</i>
+<i>Iron-Blooded Orphans,</i>
+
+532
+00:24:28,333 --> 00:24:30,708
+"McGillis Fareed."
+
+533
+00:24:30,791 --> 00:24:34,083
+Hey, Atra asked me to
+think of a name for the baby.
+
+
+534
+00:24:34,166 --> 00:24:35,833
+What do you think it should be?
+
+
+535
+00:24:35,916 --> 00:24:38,875
+Oh, right. I'll ask Orga
+when he gets back.
+
+
