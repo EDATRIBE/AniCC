@@ -1,0 +1,2116 @@
+﻿1
+00:00:11,553 --> 00:00:13,722
+[HUDSON]
+This is Shinjuku's West Side.
+
+2
+00:00:13,764 --> 00:00:15,474
+A tidy grid of
+well‐lit streets,
+
+3
+00:00:15,516 --> 00:00:17,518
+teeming with smiling citizens,
+
+4
+00:00:17,559 --> 00:00:19,269
+walled off from
+the morass of crime and
+
+5
+00:00:19,311 --> 00:00:22,272
+chaos swirling just to the east.
+
+6
+00:00:22,314 --> 00:00:24,441
+There, on the dark
+streets of Kabukicho,
+
+7
+00:00:24,483 --> 00:00:26,527
+where the trumpeting of
+elephants rings in the hour
+
+8
+00:00:26,568 --> 00:00:30,739
+and evil lurks in every
+shadow, six detectives roam.
+
+9
+00:00:30,781 --> 00:00:34,451
+Freaks, geeks,
+losers and loons to a one.
+
+10
+00:00:34,493 --> 00:00:36,745
+Where they roam,
+chaos will surely follow.
+
+11
+00:00:36,787 --> 00:00:38,747
+And you, darlings,
+are invited to watch
+
+12
+00:00:38,789 --> 00:00:41,625
+their wild war
+of wills and wits.
+
+13
+00:00:43,669 --> 00:00:46,046
+[WATSON] I'm still
+not sure how this works.
+
+14
+00:00:46,088 --> 00:00:47,548
+Do all the detectives
+at the Row House
+
+15
+00:00:47,589 --> 00:00:50,133
+take on one case
+at the same time?
+
+16
+00:00:50,175 --> 00:00:52,761
+I suppose you would
+want to know about all that.
+
+17
+00:00:52,803 --> 00:00:54,805
+Okay.
+
+18
+00:00:54,846 --> 00:00:56,139
+When a client brings us a case,
+
+19
+00:00:56,181 --> 00:00:58,392
+it falls into
+one of three ranks.
+
+20
+00:00:58,433 --> 00:01:00,519
+The lowest is an A‐rank.
+
+21
+00:01:00,561 --> 00:01:02,729
+For A‐rank jobs,
+a client hires one
+
+22
+00:01:02,771 --> 00:01:06,400
+of the detectives directly.
+Basically normal P.I. work.
+
+23
+00:01:06,441 --> 00:01:08,610
+S‐rank is a step up,
+with a minimum reward
+
+24
+00:01:08,652 --> 00:01:10,112
+of one million yen.
+
+25
+00:01:10,153 --> 00:01:11,822
+These jobs are open
+to all in the row house,
+
+26
+00:01:11,863 --> 00:01:14,533
+but expenses aren't covered, and
+only the one who solves the case
+
+27
+00:01:14,575 --> 00:01:16,577
+gets to bring home that bacon.
+
+28
+00:01:16,618 --> 00:01:19,830
+And lastly,
+there's the S‐rank with bonus.
+
+29
+00:01:19,871 --> 00:01:22,207
+Where the client covers all
+detective's expenses during
+
+30
+00:01:22,249 --> 00:01:25,002
+the investigation whether
+they solve the case or not.
+
+31
+00:01:25,043 --> 00:01:28,338
+Naturally, everyone wants
+a piece of that action.
+
+32
+00:01:28,380 --> 00:01:29,673
+Ya follow me, babe?
+
+33
+00:01:32,759 --> 00:01:34,136
+[HUDSON]
+Eyes over here, honey.
+
+34
+00:01:34,177 --> 00:01:36,054
+Ah! Sorry.
+
+35
+00:01:36,096 --> 00:01:39,141
+So if I had an A‐rank case and
+I wanted to hire Mister Holmes,
+
+36
+00:01:39,182 --> 00:01:40,350
+how much is that?
+
+37
+00:01:40,392 --> 00:01:44,062
+Hard to say. He doesn't
+care much about money.
+
+38
+00:01:44,104 --> 00:01:47,065
+He only takes cases
+he finds interesting.
+
+39
+00:03:20,450 --> 00:03:21,493
+[SHERLOCK]
+Please get out.
+
+40
+00:03:21,535 --> 00:03:23,120
+[WOMAN 2A] I only brought
+you all of this because
+
+41
+00:03:23,161 --> 00:03:25,205
+I want to help you get better!
+
+42
+00:03:25,247 --> 00:03:26,707
+How could you not
+want ten days' worth
+
+43
+00:03:26,748 --> 00:03:28,583
+of vegetable fiber
+in a single meal?
+
+44
+00:03:28,625 --> 00:03:29,710
+I don't need more fiber.
+
+45
+00:03:29,751 --> 00:03:31,044
+[WOMAN 2A]
+I eat two every day
+
+46
+00:03:31,086 --> 00:03:33,046
+and I've never felt
+better in my life.
+
+47
+00:03:33,088 --> 00:03:34,631
+‐‐Keeps me good 'n regular, too.
+‐‐[WATSON] E‐Excuse me.
+
+48
+00:03:34,673 --> 00:03:36,383
+Mister Holmes,
+I want to hire you.
+
+49
+00:03:36,425 --> 00:03:38,385
+Oh, you're the one
+bunking in the storeroom
+
+50
+00:03:38,427 --> 00:03:39,761
+next door, aren't you?
+
+51
+00:03:39,803 --> 00:03:41,722
+Yes, the name's John Watson.
+
+52
+00:03:41,763 --> 00:03:42,764
+Wanna try some?
+
+53
+00:03:42,806 --> 00:03:47,185
+It's Super Veggieman, and it'll
+make your skin soft as satin.
+
+54
+00:03:47,227 --> 00:03:48,854
+[WATSON]
+I was wondering how you did it.
+
+55
+00:03:48,895 --> 00:03:50,188
+Ah?
+
+56
+00:03:50,230 --> 00:03:53,442
+A woman in her 30s
+would be jealous of your skin.
+
+57
+00:03:53,483 --> 00:03:55,902
+‐‐[gasps]
+‐‐And your pulse is so strong.
+
+58
+00:03:55,944 --> 00:03:58,155
+Oh, you're just too much!
+
+59
+00:03:58,196 --> 00:03:59,573
+Here. All of these are on me.
+
+60
+00:03:59,614 --> 00:04:01,032
+[gasps]
+
+61
+00:04:01,074 --> 00:04:03,744
+Nice to meet you, John.
+
+62
+00:04:03,785 --> 00:04:05,912
+[WATSON gasps]
+Hold on‐‐!
+
+63
+00:04:08,248 --> 00:04:09,958
+[SHERLOCK]
+Make something with that.
+
+64
+00:04:10,000 --> 00:04:13,128
+"Make something"?
+You want me to cook?
+
+65
+00:04:13,170 --> 00:04:15,422
+I was involved
+in a car accident.
+
+66
+00:04:15,464 --> 00:04:17,257
+My leg is still injured.
+
+67
+00:04:17,299 --> 00:04:18,508
+[WATSON gasps]
+
+68
+00:04:22,220 --> 00:04:23,889
+[WATSON groans]
+
+69
+00:04:27,893 --> 00:04:29,519
+The culprit remains at large.
+
+70
+00:04:29,561 --> 00:04:31,688
+After being caught on camera
+during the gold heist
+
+71
+00:04:31,730 --> 00:04:34,024
+two weeks ago,
+the phantom thief Cobra
+
+72
+00:04:34,065 --> 00:04:35,901
+has evaded law enforcement.
+
+73
+00:04:35,942 --> 00:04:37,694
+With the investigation
+stalled...
+
+74
+00:04:37,736 --> 00:04:39,404
+[WATSON]
+Food's ready.
+
+75
+00:04:39,446 --> 00:04:40,614
+What about the can?
+
+76
+00:04:40,655 --> 00:04:43,700
+Sorry. I couldn't
+find anything but oranges.
+
+77
+00:04:47,204 --> 00:04:48,622
+[grunts]
+
+78
+00:04:51,374 --> 00:04:53,293
+[SHERLOCK belches]
+
+79
+00:04:53,335 --> 00:04:55,587
+[WATSON] Um... Would you
+agree to take my case
+
+80
+00:04:55,629 --> 00:04:57,172
+if I paid on completion?
+
+81
+00:04:57,214 --> 00:04:59,841
+[SHERLOCK] And pick up after me,
+do laundry, buy groceries,
+
+82
+00:04:59,883 --> 00:05:03,303
+clean my room. Oh,
+and the bathroom, too.
+
+83
+00:05:03,345 --> 00:05:06,389
+As you may recall,
+I was recently hit by a car.
+
+84
+00:05:06,431 --> 00:05:07,808
+[meowing]
+
+85
+00:05:07,849 --> 00:05:08,809
+[BOTH]
+Hmm?
+
+86
+00:05:08,850 --> 00:05:10,227
+I've got a call.
+
+87
+00:05:13,188 --> 00:05:14,606
+Do you mind?
+
+88
+00:05:16,650 --> 00:05:18,068
+[sighs]
+
+89
+00:05:24,241 --> 00:05:25,700
+[MARY]
+Hey there!
+
+90
+00:05:26,660 --> 00:05:27,786
+[MARY giggles]
+
+91
+00:05:31,706 --> 00:05:33,542
+Hello.
+
+92
+00:05:33,583 --> 00:05:36,378
+It's nice to meet you,
+my name is Mary Morstan.
+
+93
+00:05:36,419 --> 00:05:37,879
+Are you working for Sherlock?
+
+94
+00:05:37,921 --> 00:05:39,631
+It's complicated.
+
+95
+00:05:39,673 --> 00:05:40,966
+Hmm?
+
+96
+00:05:41,716 --> 00:05:43,468
+[WATSON]
+He looks mad!
+
+97
+00:05:43,510 --> 00:05:46,471
+I'm here! Fabulous
+and fashionably late!
+
+98
+00:05:47,389 --> 00:05:50,934
+Right then. It's time
+to introduce our latest client.
+
+99
+00:05:50,976 --> 00:05:53,144
+[gasps]
+Miss Fujiko?
+
+100
+00:05:53,186 --> 00:05:56,857
+Hi there. Don't
+I see you at my shop sometimes?
+
+101
+00:05:56,898 --> 00:05:59,276
+Yeah. My name is Kobayashi.
+
+102
+00:05:59,317 --> 00:06:01,278
+Pardon me for interrupting.
+
+103
+00:06:01,319 --> 00:06:04,281
+But could we begin by discussing
+the pay rank for your case?
+
+104
+00:06:04,322 --> 00:06:06,449
+I have a fair amount
+to attend to today.
+
+105
+00:06:06,491 --> 00:06:08,201
+Ah. Sure.
+
+106
+00:06:08,243 --> 00:06:09,494
+S‐rank, no bonus.
+
+107
+00:06:09,536 --> 00:06:11,830
+The reward for solving it
+is one million yen.
+
+108
+00:06:11,872 --> 00:06:13,999
+Hah. A low S.
+
+109
+00:06:14,040 --> 00:06:16,042
+Best of luck to you,
+but I won't be taking part.
+
+110
+00:06:16,084 --> 00:06:17,836
+[KOBAYASHI growls]
+
+111
+00:06:17,878 --> 00:06:19,337
+That's the bare
+minimum she could pay
+
+112
+00:06:19,379 --> 00:06:21,214
+to get everybody to show up.
+
+113
+00:06:21,256 --> 00:06:23,174
+And we'll have to cover
+our own expenses, too,
+
+114
+00:06:23,216 --> 00:06:26,595
+so this isn't really
+all that great of a job.
+
+115
+00:06:26,636 --> 00:06:29,139
+Feh! Well,
+screw that guy anyway.
+
+116
+00:06:29,180 --> 00:06:31,808
+I'll see your case through
+to the end, Miss Fujiko!
+
+117
+00:06:31,850 --> 00:06:33,810
+[FUJIKO sighs]
+That's so good to hear.
+
+118
+00:06:33,852 --> 00:06:36,271
+So, tell us all about it!
+
+119
+00:06:36,313 --> 00:06:39,107
+Oh. Okay. Thank you.
+
+120
+00:06:39,149 --> 00:06:43,820
+I'm Fujiko Takamine, and I run
+a flower shop on Second Avenue.
+
+121
+00:06:43,862 --> 00:06:45,572
+I'll start from the beginning.
+
+122
+00:06:47,532 --> 00:06:50,160
+[FUJIKO] Saori, did you take
+care of that bouquet of roses
+
+123
+00:06:50,201 --> 00:06:52,203
+that Taneyama Farms ordered?
+
+124
+00:06:53,747 --> 00:06:55,540
+Hey, um, we're
+in a bit of a hurry‐‐
+
+125
+00:06:55,582 --> 00:06:59,961
+[SAORI yelps]
+Miss Fujiko. Look at this!
+
+126
+00:07:00,003 --> 00:07:02,047
+[FUJIKO]
+Next generation idols.
+
+127
+00:07:02,088 --> 00:07:06,134
+The "Staring‐at‐Eye Moles
+Squad?" What is that?
+
+128
+00:07:06,176 --> 00:07:09,512
+[KITA] You're so in! Those
+moles of yours are perfect!
+
+129
+00:07:09,554 --> 00:07:11,806
+Moles under the eyes
+aren't an uncommon feature.
+
+130
+00:07:11,848 --> 00:07:13,975
+But color, size, location.
+
+131
+00:07:14,017 --> 00:07:16,770
+It takes an exquisite balance
+of all these factors to create
+
+132
+00:07:16,811 --> 00:07:18,563
+a unique and charming look.
+
+133
+00:07:18,605 --> 00:07:20,106
+[FUJIKO]
+I'd never thought of that.
+
+134
+00:07:20,148 --> 00:07:22,359
+My name is Kita,
+and I'm with Star Promotions.
+
+135
+00:07:22,400 --> 00:07:23,735
+Here's my card.
+
+136
+00:07:23,777 --> 00:07:25,737
+Ah. Thank you.
+
+137
+00:07:25,779 --> 00:07:28,156
+[KITA] We're debuting the group
+with a public audition next week
+
+138
+00:07:28,198 --> 00:07:29,616
+at the Kabukicho Festival.
+
+139
+00:07:29,658 --> 00:07:32,953
+But you've already passed, so
+you'll be performing that day.
+
+140
+00:07:32,994 --> 00:07:34,746
+Which means we'll need
+you to work on your singing
+
+141
+00:07:34,788 --> 00:07:36,873
+and dancing for the next week.
+
+142
+00:07:36,915 --> 00:07:39,626
+We've arranged daily training
+sessions from 2 to 6 PM,
+
+143
+00:07:39,668 --> 00:07:42,337
+and we're going to need
+you to attend all of them.
+
+144
+00:07:42,379 --> 00:07:44,214
+[FUJIKO whimpers]
+
+145
+00:07:44,255 --> 00:07:45,799
+[SAORI]
+You can leave that to me!
+
+146
+00:07:45,840 --> 00:07:48,343
+Don't worry about the store,
+I'll take care of everything.
+
+147
+00:07:48,385 --> 00:07:50,011
+[FUJIKO]
+I shouldn't.
+
+148
+00:07:50,053 --> 00:07:52,180
+Please. Let me do this.
+
+149
+00:07:52,222 --> 00:07:55,392
+I know that you've always
+wanted to be an idol.
+
+150
+00:07:55,433 --> 00:07:58,103
+So go! Make
+your dreams come true!
+
+151
+00:07:58,144 --> 00:08:00,355
+[gasps]
+
+152
+00:08:00,397 --> 00:08:02,565
+[FUJIKO] The week
+went by before I knew it.
+
+153
+00:08:02,607 --> 00:08:04,859
+I sang and danced my heart out!
+
+154
+00:08:04,901 --> 00:08:09,155
+Until at long last, the day
+came for my big debut.
+
+155
+00:08:09,197 --> 00:08:10,240
+But then...
+
+156
+00:08:10,281 --> 00:08:14,119
+I tried calling Star Promotions
+just a little while ago.
+
+157
+00:08:14,160 --> 00:08:15,286
+They told me
+that there's nobody
+
+158
+00:08:15,328 --> 00:08:17,747
+working there named Kita.
+
+159
+00:08:17,789 --> 00:08:19,958
+And now I don't
+know where he's gone.
+
+160
+00:08:20,000 --> 00:08:22,335
+I beg you, help me
+find Mister Kita.
+
+161
+00:08:22,377 --> 00:08:25,296
+‐‐[KOBAYASHI] Aww...
+‐‐[FUJIKO] I... I just...
+
+162
+00:08:27,757 --> 00:08:29,718
+I really wanna be an idol!
+
+163
+00:08:29,759 --> 00:08:31,344
+[ALL groan]
+
+164
+00:08:33,221 --> 00:08:36,141
+Well, anyone have questions?
+
+165
+00:08:36,182 --> 00:08:38,893
+Have you talked to your
+parents about becoming an idol?
+
+166
+00:08:38,935 --> 00:08:41,396
+They might have some
+advice that could help.
+
+167
+00:08:41,438 --> 00:08:43,857
+I wish I'd had the chance.
+
+168
+00:08:43,898 --> 00:08:46,735
+Miss Fujiko lost her
+parents at an early age.
+
+169
+00:08:46,776 --> 00:08:49,821
+She's been keeping that flower
+shop going all by herself!
+
+170
+00:08:49,863 --> 00:08:52,032
+That part‐timer
+Saori is working there.
+
+171
+00:08:52,073 --> 00:08:53,700
+What's some
+retired cabaret girl know
+
+172
+00:08:53,742 --> 00:08:55,660
+about doing actual work?
+
+173
+00:08:55,702 --> 00:08:58,830
+[FUJIKO] That's not fair,
+Saori's a total sweetheart.
+
+174
+00:08:58,872 --> 00:09:01,374
+Are you staying at a hotel?
+
+175
+00:09:01,416 --> 00:09:03,543
+I am. I was
+planning on checking in
+
+176
+00:09:03,585 --> 00:09:05,795
+after the audition
+this afternoon.
+
+177
+00:09:05,837 --> 00:09:08,006
+It's too late for them
+to refund my reservation,
+
+178
+00:09:08,048 --> 00:09:10,133
+so Saori told me to just
+stay there and leave
+
+179
+00:09:10,175 --> 00:09:11,426
+the shop to her.
+
+180
+00:09:11,468 --> 00:09:13,303
+Not a whole lot
+to this one, is there?
+
+181
+00:09:13,344 --> 00:09:15,388
+I wouldn't be too
+sure about that.
+
+182
+00:09:15,430 --> 00:09:17,640
+There's more going on
+than you might think.
+
+183
+00:09:17,682 --> 00:09:19,476
+If you say so, old man.
+
+184
+00:09:20,894 --> 00:09:23,480
+After the sun has set
+upon the rest of the world.
+
+185
+00:09:23,521 --> 00:09:25,315
+We turn our thoughts to
+the hopes and dreams
+
+186
+00:09:25,356 --> 00:09:26,691
+of a young maiden.
+
+187
+00:09:26,733 --> 00:09:29,194
+These detectives'
+hearts brim with compassion
+
+188
+00:09:29,235 --> 00:09:31,571
+in this tenement where
+tears fall like rain.
+
+189
+00:09:31,613 --> 00:09:33,281
+The humble building
+that people call
+
+190
+00:09:33,323 --> 00:09:35,492
+the Detectives' Row House.
+
+191
+00:09:35,533 --> 00:09:37,744
+Mwah.
+
+192
+00:09:37,786 --> 00:09:39,496
+One million yen
+to the one who finds
+
+193
+00:09:39,537 --> 00:09:41,498
+our dear friend Kita.
+
+194
+00:09:42,957 --> 00:09:45,085
+[HUDSON]
+Ready... Go!
+
+195
+00:09:46,711 --> 00:09:47,921
+[KOBAYASHI]
+Miss Fujiko.
+
+196
+00:09:47,962 --> 00:09:50,840
+I swear, I won't rest
+until you become an idol.
+
+197
+00:09:50,882 --> 00:09:51,966
+Huh...?
+
+198
+00:09:52,008 --> 00:09:56,221
+[yells]
+
+199
+00:09:56,262 --> 00:09:58,556
+[gasps]
+Wait, Mister Holmes.
+
+200
+00:09:58,598 --> 00:10:00,391
+What about your injury?
+
+201
+00:10:00,433 --> 00:10:02,185
+It was a minor fracture.
+
+202
+00:10:02,227 --> 00:10:03,394
+I'm still able to walk.
+
+203
+00:10:03,436 --> 00:10:05,146
+[WATSON sighs]
+
+204
+00:10:05,188 --> 00:10:06,272
+Poor boy.
+
+205
+00:10:06,314 --> 00:10:07,857
+I wonder if he's even
+noticed that Sherlock
+
+206
+00:10:07,899 --> 00:10:09,234
+has been training him.
+
+207
+00:10:09,275 --> 00:10:12,487
+Yeah. Sherlock never lets
+anybody into his room.
+
+208
+00:10:12,529 --> 00:10:13,655
+You're right.
+
+209
+00:10:13,696 --> 00:10:15,532
+I don't think a single person
+has managed to make
+
+210
+00:10:15,573 --> 00:10:17,534
+their way in except for James.
+
+211
+00:10:18,827 --> 00:10:21,246
+[SHERLOCK] Finish the dishes
+and then get the laundry going.
+
+212
+00:10:21,287 --> 00:10:22,247
+[WATSON]
+Uh‐huh.
+
+213
+00:10:22,288 --> 00:10:24,499
+[SHERLOCK] And don't let
+anybody into my room.
+
+214
+00:10:26,126 --> 00:10:27,502
+Not a soul.
+
+215
+00:10:33,591 --> 00:10:34,717
+[sighs]
+
+216
+00:10:36,636 --> 00:10:38,805
+‐‐[grunts]
+‐‐[doorbell rings]
+
+217
+00:10:38,888 --> 00:10:40,807
+[MARY] Hi, John.
+You're in there, right?
+
+218
+00:10:47,438 --> 00:10:52,819
+[music plays loudly]
+
+219
+00:10:58,491 --> 00:10:59,909
+[music cuts out]
+
+220
+00:10:59,951 --> 00:11:01,661
+[thumping]
+
+221
+00:11:01,703 --> 00:11:04,831
+[running footsteps]
+
+222
+00:11:06,583 --> 00:11:08,042
+Hello, sir!
+
+223
+00:11:08,084 --> 00:11:10,628
+Next time, just ring the
+bell if you need someone.
+
+224
+00:11:10,670 --> 00:11:12,380
+Get me a cyclamen.
+
+225
+00:11:12,422 --> 00:11:14,757
+Sorry, but, could you
+point me to that?
+
+226
+00:11:14,799 --> 00:11:16,509
+[MAN]
+You are a florist, aren't you?
+
+227
+00:11:16,551 --> 00:11:18,803
+I'm just the part‐time help.
+
+228
+00:11:18,845 --> 00:11:21,139
+Right now,
+you're no help at all!
+
+229
+00:11:21,181 --> 00:11:23,433
+If it's not on the shelves,
+then it's sold out.
+
+230
+00:11:25,185 --> 00:11:27,395
+[SAORI]
+Thank you, please come again.
+
+231
+00:11:41,451 --> 00:11:46,623
+[receiver ringing]
+
+232
+00:11:46,664 --> 00:11:48,124
+[WATSON]
+Hello, Watson speaking.
+
+233
+00:11:48,166 --> 00:11:51,127
+[SHERLOCK] Don't let
+the phone ring that long.
+
+234
+00:11:51,169 --> 00:11:53,296
+[WATSON]
+The dishes are all done,
+
+235
+00:11:53,338 --> 00:11:56,257
+and I'm working
+on the laundry now.
+
+236
+00:11:56,299 --> 00:11:59,052
+Our culprit. It's Saori.
+
+237
+00:12:02,722 --> 00:12:04,682
+[SHERLOCK]
+Our culprit, it's Saori.
+
+238
+00:12:04,724 --> 00:12:06,893
+Uh. Okay, but who's Saori?
+
+239
+00:12:06,935 --> 00:12:09,020
+[SHERLOCK]
+The part‐timer at the florist!
+
+240
+00:12:09,062 --> 00:12:10,647
+I sent you a picture.
+
+241
+00:12:12,982 --> 00:12:14,359
+[SHERLOCK] My shelves
+have information on locals
+
+242
+00:12:14,400 --> 00:12:16,402
+with records, and
+this girl's got one.
+
+243
+00:12:16,444 --> 00:12:18,571
+Figure out who her partner
+is and send me a picture.
+
+244
+00:12:18,613 --> 00:12:19,906
+Now.
+
+245
+00:12:34,754 --> 00:12:37,340
+[cell phone ringing]
+
+246
+00:12:42,178 --> 00:12:43,763
+[SHERLOCK]
+Hmph.
+
+247
+00:12:49,602 --> 00:12:50,728
+[SHERLOCK]
+Hey.
+
+248
+00:12:51,479 --> 00:12:52,689
+Care to tell me
+why you've been
+
+249
+00:12:52,730 --> 00:12:54,524
+staring at that woman?
+
+250
+00:12:54,565 --> 00:12:56,734
+What? Sherlock?
+
+251
+00:12:56,776 --> 00:12:59,946
+You're my rival on this case,
+so I'm not going to answer that.
+
+252
+00:13:02,198 --> 00:13:03,408
+[MARY whimpers]
+
+253
+00:13:03,449 --> 00:13:05,576
+Was it him?
+
+254
+00:13:05,618 --> 00:13:08,830
+[WATSON humming]
+
+255
+00:13:08,871 --> 00:13:10,915
+What did I say?
+
+256
+00:13:10,957 --> 00:13:12,709
+Sorry, who are you?
+
+257
+00:13:16,170 --> 00:13:17,755
+Hi, Mr. Holmes!
+
+258
+00:13:17,797 --> 00:13:20,300
+You let Mary
+in here, didn't you?
+
+259
+00:13:20,341 --> 00:13:21,759
+[WATSON]
+No, of course not.
+
+260
+00:13:23,052 --> 00:13:25,596
+All we did was chat
+on the doorstep for a bit.
+
+261
+00:13:27,348 --> 00:13:28,641
+Is that bad?
+
+262
+00:13:28,683 --> 00:13:30,184
+[grunts]
+
+263
+00:13:30,226 --> 00:13:31,769
+What are you holding?
+
+264
+00:13:31,811 --> 00:13:35,565
+Oh! Mr. Holmes, please!
+Whatever I did, I'm sorry!
+
+265
+00:13:35,606 --> 00:13:36,983
+Stop it!
+You don't have to do‐‐
+
+266
+00:13:39,944 --> 00:13:43,031
+[WATSON]
+Ah. What is that?
+
+267
+00:13:43,072 --> 00:13:46,075
+It's a wire. Get out of here.
+
+268
+00:13:46,117 --> 00:13:48,953
+And don't ever let me
+see your face again.
+
+269
+00:13:48,995 --> 00:13:50,330
+[WATSON whimpers]
+
+270
+00:13:50,663 --> 00:13:52,040
+[BOY 2A laughs]
+I won!
+
+271
+00:13:52,081 --> 00:13:53,082
+[BOY 2B]
+Seriously?
+
+272
+00:13:53,124 --> 00:13:54,500
+[GIRL 2A]
+You must have good karma.
+
+273
+00:13:54,542 --> 00:13:55,460
+[BOY 2A]
+I had it comin'.
+
+274
+00:13:55,501 --> 00:13:57,170
+[BOY 2D] Yeah, they banned me
+from that pachinko place...
+
+275
+00:13:57,211 --> 00:13:59,047
+[GIRL 2B]
+Mister?
+
+276
+00:13:59,088 --> 00:14:01,049
+‐‐[BOY 2B] You did that?
+‐‐[GIRL 2A] What a hero!
+
+277
+00:14:01,090 --> 00:14:04,177
+Chocolate's always
+nice when you're sad.
+
+278
+00:14:04,218 --> 00:14:06,512
+You're sweet. Much obliged.
+
+279
+00:14:06,554 --> 00:14:07,972
+[MORIARTY]
+Don't eat that.
+
+280
+00:14:09,307 --> 00:14:11,934
+The Irregulars loaded
+it with tranquilizers.
+
+281
+00:14:11,976 --> 00:14:14,687
+In ten seconds
+you'd be out like a light.
+
+282
+00:14:14,729 --> 00:14:16,064
+What's your problem?
+
+283
+00:14:16,105 --> 00:14:17,357
+[YOSHIO]
+Get lost.
+
+284
+00:14:17,398 --> 00:14:18,900
+Yeah, we had him
+till you screwed it up.
+
+285
+00:14:18,941 --> 00:14:20,234
+Why don'tcha mind
+yer damn business...
+
+286
+00:14:20,276 --> 00:14:21,986
+Leave the poor guy alone.
+
+287
+00:14:22,028 --> 00:14:24,947
+Yoshio already got his wallet
+when he first showed up.
+
+288
+00:14:24,989 --> 00:14:26,657
+Wait. I remember you.
+
+289
+00:14:26,699 --> 00:14:28,493
+If ya been cleaned
+out, go home already.
+
+290
+00:14:28,534 --> 00:14:29,702
+[BOY 2D]
+Screw this, let's hit the slots.
+
+291
+00:14:29,744 --> 00:14:30,745
+Yeah!
+
+292
+00:14:30,787 --> 00:14:32,663
+[BOY 2D] Best way to
+spend other people's money!
+
+293
+00:14:32,705 --> 00:14:34,874
+Lemme up on your shoulders.
+
+294
+00:14:34,916 --> 00:14:37,668
+[MORIARTY] So I'm guessing this
+is your first time in Kabukicho?
+
+295
+00:14:37,710 --> 00:14:38,753
+That's right.
+
+296
+00:14:38,795 --> 00:14:42,298
+I only moved into my place over
+on the West Side a year ago.
+
+297
+00:14:42,340 --> 00:14:44,592
+[MORIARTY] You should watch your
+back in this part of town.
+
+298
+00:14:44,634 --> 00:14:47,220
+Officially, it's all Shinjuku,
+but this side of the wall
+
+299
+00:14:47,261 --> 00:14:49,472
+might as well be
+a different country.
+
+300
+00:14:49,514 --> 00:14:51,599
+You've probably caught
+on to that by now.
+
+301
+00:14:51,641 --> 00:14:53,726
+And Kabukicho here
+is the heart of the jungle.
+
+302
+00:14:53,768 --> 00:14:56,938
+People look at a Westsider
+like you and see an easy mark.
+
+303
+00:14:56,979 --> 00:14:58,731
+Fair enough.
+
+304
+00:14:58,773 --> 00:15:00,900
+[MORIARTY] I hear Sherlock
+kicked you out of the storeroom.
+
+305
+00:15:00,942 --> 00:15:03,152
+[WATSON grunts]
+
+306
+00:15:03,194 --> 00:15:05,780
+[MORIARTY] Why were you
+trying to hire him, anyway?
+
+307
+00:15:05,822 --> 00:15:09,075
+[WATSON] Because I've stumbled
+into a dangerous situation.
+
+308
+00:15:09,117 --> 00:15:11,285
+[MORIARTY] But there are
+plenty of detectives around.
+
+309
+00:15:11,327 --> 00:15:14,997
+Right, and I did think
+about that, but once I met him,
+
+310
+00:15:15,039 --> 00:15:17,166
+I knew that nobody
+else could help.
+
+311
+00:15:17,208 --> 00:15:19,085
+I think he's someone
+I can trust.
+
+312
+00:15:27,093 --> 00:15:28,678
+[MORIARTY]
+Let me give you a little tip.
+
+313
+00:15:31,431 --> 00:15:32,640
+[MORIARTY chuckles]
+
+314
+00:15:37,395 --> 00:15:40,481
+Do kids even go for the whole
+eye‐mole thing anymore?
+
+315
+00:15:40,523 --> 00:15:42,775
+Of course not, dummy,
+the audition was a scam
+
+316
+00:15:42,817 --> 00:15:44,110
+from the start.
+
+317
+00:15:59,834 --> 00:16:01,919
+Oh, yeah. That's inconspicuous.
+
+318
+00:16:01,961 --> 00:16:03,129
+[LUCY]
+Let's go.
+
+319
+00:16:09,969 --> 00:16:11,471
+[MARY]
+Where's he even going?
+
+320
+00:16:15,266 --> 00:16:16,309
+[BOTH gasp]
+
+321
+00:16:22,023 --> 00:16:23,149
+[MARY]
+He went this way!
+
+322
+00:16:25,610 --> 00:16:27,028
+[MARY gasps]
+Behind us!
+
+323
+00:16:29,989 --> 00:16:31,324
+[MARY panting]
+
+324
+00:16:31,365 --> 00:16:32,658
+[LUCY pantin]
+
+325
+00:16:33,493 --> 00:16:35,536
+How the hell does
+he keep slipping away?!
+
+326
+00:16:39,665 --> 00:16:41,667
+[panting]
+
+327
+00:16:46,839 --> 00:16:48,341
+[LUCY yells]
+
+328
+00:16:53,221 --> 00:16:54,680
+[MARY]
+Did you catch him?
+
+329
+00:16:56,015 --> 00:16:57,808
+[YOSHIO groans]
+
+330
+00:16:57,850 --> 00:16:59,060
+Crap, they got us.
+
+331
+00:16:59,101 --> 00:17:02,855
+[elephant trumpets]
+
+332
+00:17:02,897 --> 00:17:06,484
+[YOSHIO] Sorry boutcha.
+But you're outta time.
+
+333
+00:17:06,526 --> 00:17:08,027
+[groans]
+
+334
+00:17:10,905 --> 00:17:15,117
+[KITA, SAORI grunting]
+
+335
+00:17:20,414 --> 00:17:21,791
+How did you catch us?
+
+336
+00:17:22,708 --> 00:17:23,709
+You want to know?
+
+337
+00:17:23,751 --> 00:17:25,002
+I do.
+
+338
+00:17:26,045 --> 00:17:27,171
+You're sure?
+
+339
+00:17:27,213 --> 00:17:29,757
+I'm sure. So let's hear it.
+
+340
+00:17:29,799 --> 00:17:34,178
+[SHERLOCK chuckles]
+
+341
+00:17:44,981 --> 00:17:48,067
+I tell ya, the kids these days
+are into some weird crap!
+
+342
+00:17:48,109 --> 00:17:50,069
+Oh boy, what is it now?
+
+343
+00:17:50,111 --> 00:17:51,571
+What, you haven't heard?
+
+344
+00:17:51,612 --> 00:17:54,282
+Fujiko from the flower shop
+got picked up as an idol!
+
+345
+00:17:54,323 --> 00:17:55,491
+Who'd a' thought?
+
+346
+00:17:55,533 --> 00:17:57,201
+Eh, that whole
+thing was horse shit.
+
+347
+00:17:57,243 --> 00:17:59,203
+Well, that's a
+little harsh, isn't it?
+
+348
+00:17:59,245 --> 00:18:01,122
+I mean, she's not
+much to look at, sure,
+
+349
+00:18:01,163 --> 00:18:02,707
+but she's a sweet girl!
+
+350
+00:18:02,748 --> 00:18:04,292
+Not her, ya dummy.
+
+351
+00:18:04,333 --> 00:18:06,252
+I'm saying the
+audition was a con.
+
+352
+00:18:06,294 --> 00:18:09,213
+But what's the point of
+planning a whole fake audition?
+
+353
+00:18:09,255 --> 00:18:11,382
+That's a fair question.
+
+354
+00:18:11,424 --> 00:18:14,010
+Y'see, there's this
+girl named Saori.
+
+355
+00:18:14,051 --> 00:18:16,846
+Ah, you mean the part‐timer
+from the flower shop?
+
+356
+00:18:16,887 --> 00:18:18,431
+Yeah, but the
+problem is she doesn't
+
+357
+00:18:18,472 --> 00:18:20,349
+know anything about flowers.
+
+358
+00:18:20,391 --> 00:18:21,684
+I went there to
+pick up a cyclamen
+
+359
+00:18:21,726 --> 00:18:23,102
+and she said they'd sold out.
+
+360
+00:18:23,144 --> 00:18:25,938
+So? Shops sell out
+of stuff sometimes.
+
+361
+00:18:25,980 --> 00:18:27,607
+But they couldn't have
+sold out of cyclamen
+
+362
+00:18:27,648 --> 00:18:29,734
+at this time of year.
+It's a winter flower.
+
+363
+00:18:29,775 --> 00:18:31,777
+Ooh! There's a shock for ya!
+
+364
+00:18:31,819 --> 00:18:33,154
+And what's more,
+she came out front with
+
+365
+00:18:33,195 --> 00:18:36,157
+little bits of concrete dust
+all over her clothes.
+
+366
+00:18:36,198 --> 00:18:38,242
+All those song and dance
+lessons were just a trick
+
+367
+00:18:38,284 --> 00:18:40,828
+to get Fujiko out of
+the shop every day.
+
+368
+00:18:40,870 --> 00:18:43,164
+So that Saori could smash
+a hole through the back wall
+
+369
+00:18:43,205 --> 00:18:46,083
+into the alley, and guess
+what's behind the place?
+
+370
+00:18:46,125 --> 00:18:49,003
+[gasps]
+The Bentendou pawn shop!
+
+371
+00:18:49,045 --> 00:18:51,464
+No doubt there's plenty
+there worth stealing,
+
+372
+00:18:51,505 --> 00:18:52,715
+but busting a hole
+through the wall seems
+
+373
+00:18:52,757 --> 00:18:54,759
+a little much, don'tcha think?
+
+374
+00:18:54,800 --> 00:18:56,052
+Here's the twist:
+
+375
+00:18:56,093 --> 00:18:57,637
+That Kita guy
+who ran the auditions
+
+376
+00:18:57,678 --> 00:19:01,182
+also goes by another name.
+Kitaro the Mongoose.
+
+377
+00:19:01,223 --> 00:19:02,892
+Ooh! Oh! I know that name!
+
+378
+00:19:02,933 --> 00:19:04,185
+That's right.
+
+379
+00:19:04,226 --> 00:19:07,396
+The Mongoose was once the rival
+of the bank robber called Cobra.
+
+380
+00:19:07,438 --> 00:19:09,398
+And he knew that Bentendou
+was where Cobra used
+
+381
+00:19:09,440 --> 00:19:11,901
+to clean up the filthy
+lucre from his heists.
+
+382
+00:19:11,942 --> 00:19:14,570
+You're saying the idol
+gimmick was just a trick
+
+383
+00:19:14,612 --> 00:19:17,615
+Saori and Kita came up with to
+lure poor plain‐jane Fujiko
+
+384
+00:19:17,657 --> 00:19:21,202
+out of her shop so they could
+bust into Cobra's secret stash?
+
+385
+00:19:21,243 --> 00:19:23,871
+Precisely. So what's
+a desperate idol have
+
+386
+00:19:23,913 --> 00:19:26,707
+in common with a guy
+caught robbing a pawn shop?
+
+387
+00:19:26,749 --> 00:19:29,293
+Why don'tcha tell me?
+
+388
+00:19:29,335 --> 00:19:32,129
+In the end, both of
+'em are gonna get screwed.
+
+389
+00:19:33,381 --> 00:19:35,841
+[SHERLOCK] Thanks for
+coming out, that's the show.
+
+390
+00:19:35,883 --> 00:19:38,052
+[COBRA laughing]
+
+391
+00:19:38,094 --> 00:19:39,220
+[KITA gasps]
+
+392
+00:19:44,892 --> 00:19:47,019
+You're Cobra.
+
+393
+00:19:47,061 --> 00:19:48,979
+Hello, Sherlock Holmes.
+
+394
+00:19:52,900 --> 00:19:54,276
+And goodbye.
+
+395
+00:19:54,318 --> 00:19:55,653
+[SHERLOCK grunts]
+
+396
+00:19:59,281 --> 00:20:00,741
+[COBRA groans]
+
+397
+00:20:00,783 --> 00:20:02,326
+[SAORI gasps]
+
+398
+00:20:02,368 --> 00:20:03,994
+[gasps]
+
+399
+00:20:04,036 --> 00:20:08,374
+[WATSON pantin]
+
+400
+00:20:08,416 --> 00:20:09,875
+Why are you here?
+
+401
+00:20:09,917 --> 00:20:12,044
+[WATSON] Phew. I'm glad
+I made it in time.
+
+402
+00:20:12,086 --> 00:20:13,629
+You did not solve it!
+
+403
+00:20:13,671 --> 00:20:16,006
+You're nothing more than
+a good‐natured bumpkin!
+
+404
+00:20:16,048 --> 00:20:18,175
+My inductive reasoning
+is far beyond the faculties...
+
+405
+00:20:18,217 --> 00:20:20,553
+You know, I did
+just save your life.
+
+406
+00:20:22,596 --> 00:20:24,932
+[KOBAYASHI] Would this be a good
+place for the moth orchid?
+
+407
+00:20:24,974 --> 00:20:27,810
+Sure. Thanks
+so much for your help.
+
+408
+00:20:27,852 --> 00:20:29,603
+[KOBAYASHI whimpers]
+
+409
+00:20:29,645 --> 00:20:31,564
+Anytime!
+
+410
+00:20:31,605 --> 00:20:34,567
+I'll be your biggest fan till
+the day I die, Miss Fujiko.
+
+411
+00:20:34,608 --> 00:20:36,193
+[FUJIKO giggles]
+
+412
+00:20:37,236 --> 00:20:38,279
+[FUYUTO]
+Damn it!
+
+413
+00:20:38,320 --> 00:20:40,489
+So the bank offered
+a twenty million yen reward
+
+414
+00:20:40,531 --> 00:20:42,032
+for the stolen bullion?
+
+415
+00:20:42,074 --> 00:20:45,703
+Sherlock Holmes,
+you're one lucky bastard.
+
+416
+00:20:45,745 --> 00:20:47,830
+[MARY groans] I don't know how
+I'm supposed to keep
+
+417
+00:20:47,872 --> 00:20:49,832
+‐‐going like this.
+‐‐You've had enough barley tea.
+
+418
+00:20:49,874 --> 00:20:52,585
+I'm gonna have to cut you off.
+
+419
+00:20:52,626 --> 00:20:54,170
+[MARY]
+Mm?
+
+420
+00:20:54,211 --> 00:20:58,007
+Mary. You planted a bug on me.
+
+421
+00:20:58,048 --> 00:21:01,010
+[MARY giggles]
+Sorry 'bout that.
+
+422
+00:21:01,051 --> 00:21:03,846
+Well, I... All I want
+to say to you is that‐‐
+
+423
+00:21:03,888 --> 00:21:06,307
+[LUCY]
+I'm interested to hear this.
+
+424
+00:21:06,348 --> 00:21:08,934
+This conversation only
+concerns me and Mary.
+
+425
+00:21:08,976 --> 00:21:12,188
+I know you're worried,
+as her brother, but still,
+
+426
+00:21:12,229 --> 00:21:13,397
+that doesn't give you
+the right to involve‐‐
+
+427
+00:21:13,439 --> 00:21:14,482
+Her sister.
+
+428
+00:21:14,523 --> 00:21:16,484
+Ah.
+
+429
+00:21:16,525 --> 00:21:19,487
+Not her brother.
+You got me?
+
+430
+00:21:19,528 --> 00:21:21,614
+Yes! My apologies.
+
+431
+00:21:21,655 --> 00:21:24,408
+[PIPE yowls, hisses]
+
+432
+00:21:24,450 --> 00:21:25,618
+[WATSON whimpers]
+
+433
+00:21:27,453 --> 00:21:28,662
+[WATSON whimperin]
+
+434
+00:21:28,704 --> 00:21:30,331
+[PIPE growls]
+
+435
+00:21:30,372 --> 00:21:32,374
+[WATSON whimpers]
+
+436
+00:21:34,168 --> 00:21:35,377
+[WATSON squeals]
+
+437
+00:21:35,419 --> 00:21:38,756
+[screaming]
+
+438
+00:23:15,769 --> 00:23:17,396
+Hey, you guys.
+
+439
+00:23:17,438 --> 00:23:19,106
+[WATSON gasps]
+
+440
+00:23:19,148 --> 00:23:20,316
+[MORIARTY]
+Hmm?
+
+441
+00:23:21,442 --> 00:23:23,527
+So he did have help.
+
+442
+00:23:23,569 --> 00:23:25,070
+Stay out of my business.
+
+443
+00:23:25,112 --> 00:23:26,655
+I couldn't just
+walk away and leave him
+
+444
+00:23:26,697 --> 00:23:28,073
+moping alone on that bench.
+
+445
+00:23:28,115 --> 00:23:29,575
+[WATSON sigh]
+
+446
+00:23:29,617 --> 00:23:31,035
+It's still funny how
+you're always latching
+
+447
+00:23:31,076 --> 00:23:32,828
+onto some weird case.
+
+448
+00:23:32,870 --> 00:23:34,288
+Wait, he is?
+
+449
+00:23:34,330 --> 00:23:36,540
+[MORIARTY] Yeah. Let's
+see, there was that one
+
+450
+00:23:36,582 --> 00:23:38,626
+he took a while back
+where that snake fell down
+
+451
+00:23:38,667 --> 00:23:40,252
+out of the ceiling.
+
+452
+00:23:40,294 --> 00:23:42,671
+Really. As it happens,
+when I was
+
+453
+00:23:42,713 --> 00:23:45,591
+working at that university
+hospital on the West Side,
+
+454
+00:23:45,633 --> 00:23:47,760
+I was autopsying
+a certain young girl's body
+
+455
+00:23:47,801 --> 00:23:48,761
+when a pit viper suddenly‐‐
+
+456
+00:23:48,802 --> 00:23:50,429
+Shut up and fold.
+
+457
+00:23:50,471 --> 00:23:52,932
+[WATSON groans]
+
+458
+00:23:52,973 --> 00:23:55,392
+Back to moping.
+You hate to see it.
+
+459
+00:23:58,145 --> 00:23:59,563
+[gasps]
+
+460
+00:23:59,605 --> 00:24:00,898
+[MORIARTY]
+Chin up.
+
+461
+00:24:00,940 --> 00:24:03,859
+So... We've met, but
+I'm James Moriarty.
+
+462
+00:24:07,571 --> 00:24:11,200
+[B‐ZO] Great! Always
+love to meet a fan, my baby.
+

@@ -1,0 +1,1879 @@
+﻿1
+00:00:23,291 --> 00:00:25,666
+May I ask where you're
+going, Dr. Breguet?
+
+2
+00:00:25,750 --> 00:00:28,291
+[MARIE] To inspect the
+situation in the lower floors.
+
+3
+00:00:28,375 --> 00:00:31,541
+Do you really expect me to
+report my every move to you?
+
+4
+00:00:31,625 --> 00:00:32,750
+This is the Core Tower,
+
+5
+00:00:32,833 --> 00:00:35,041
+under the jurisdiction
+of the military,
+
+6
+00:00:35,125 --> 00:00:37,125
+so I will be accompanying you.
+
+7
+00:00:37,208 --> 00:00:39,041
+We'd love company.
+
+8
+00:00:43,291 --> 00:00:45,500
+[MILITARY OFFICER A]
+Try to remember your place.
+
+9
+00:00:45,583 --> 00:00:47,291
+The military has the
+final say on anything
+
+10
+00:00:47,375 --> 00:00:48,875
+that happens in the Tower.
+
+11
+00:00:48,958 --> 00:00:50,666
+You may have the
+title of "Meister,"
+
+12
+00:00:50,750 --> 00:00:54,416
+but we all know that you people
+are just glorified repairmen.
+
+13
+00:00:57,708 --> 00:00:59,291
+[MARIE]
+You've got one thing right.
+
+14
+00:00:59,375 --> 00:01:02,458
+We of the Meister
+Guild are repairmen.
+
+15
+00:01:02,541 --> 00:01:03,958
+We fix things.
+
+16
+00:01:04,041 --> 00:01:06,291
+Which is exactly what we're
+going to do with this Tower.
+
+17
+00:01:06,375 --> 00:01:09,791
+And nothing will
+stand in our way.
+
+18
+00:01:09,875 --> 00:01:11,916
+Nothing and no one.
+
+19
+00:02:47,541 --> 00:02:49,833
+[MARIE]
+Now I've got a question for you.
+
+20
+00:02:49,916 --> 00:02:53,208
+Answer quickly.
+When will the purge happen?
+
+21
+00:02:53,291 --> 00:02:54,958
+Twenty hours from now.
+
+22
+00:02:55,041 --> 00:02:56,958
+Tomorrow at 02:42.
+
+23
+00:02:57,041 --> 00:02:57,833
+[BOTH gasp]
+
+24
+00:02:57,916 --> 00:02:59,833
+Why do it so soon?
+
+25
+00:02:59,916 --> 00:03:01,958
+Because we can't
+afford to lose face.
+
+26
+00:03:02,041 --> 00:03:05,291
+There's an anomaly we can't fix,
+so the purge is our only option.
+
+27
+00:03:05,375 --> 00:03:08,125
+If the public learns that we
+couldn't handle the repairs,
+
+28
+00:03:08,208 --> 00:03:10,833
+our authority will
+be questioned.
+
+29
+00:03:10,916 --> 00:03:12,333
+You people are monsters!
+
+30
+00:03:12,416 --> 00:03:13,666
+Twenty million
+lives are at stake
+
+31
+00:03:13,750 --> 00:03:15,791
+and all you care
+about is saving face?
+
+32
+00:03:15,875 --> 00:03:18,541
+Tell us where the anomaly is.
+
+33
+00:03:18,625 --> 00:03:22,375
+Fine, Floor 24, in the
+pressure control block.
+
+34
+00:03:22,458 --> 00:03:25,000
+Sounds like we know
+where our next stop is.
+
+35
+00:03:25,083 --> 00:03:27,791
+[MILITARY OFFICER A] You really
+think you're going to fix it?
+
+36
+00:03:27,875 --> 00:03:29,583
+The purge is in 20 hours.
+
+37
+00:03:29,666 --> 00:03:32,333
+That'll never be long enough.
+
+38
+00:03:32,416 --> 00:03:34,625
+A lot can happen in 20 hours.
+
+39
+00:03:36,000 --> 00:03:37,291
+Let's do this.
+
+40
+00:03:37,375 --> 00:03:39,500
+We'll fix it if
+we can, and if not,
+
+41
+00:03:39,583 --> 00:03:41,833
+then I guess I'll
+die with this city.
+
+42
+00:03:45,833 --> 00:03:47,041
+What now?!
+
+43
+00:03:54,291 --> 00:03:55,875
+Why's it so loud?
+
+44
+00:03:55,958 --> 00:03:58,541
+Good morning, Master Naoto.
+How are you feeling?
+
+45
+00:03:58,625 --> 00:04:00,833
+You don't appear to
+have slept very well.
+
+46
+00:04:00,916 --> 00:04:03,666
+Was there something displeasing
+or inadequate about my lap?
+
+47
+00:04:03,750 --> 00:04:05,083
+No, not at all!
+
+48
+00:04:05,166 --> 00:04:07,666
+Y-Y-Your lap was amazing,
+pure perfection, I swear!
+
+49
+00:04:07,750 --> 00:04:09,166
+It's just that lately,
+
+50
+00:04:09,250 --> 00:04:11,791
+the ground beneath the Core
+Tower has been really noisy.
+
+51
+00:04:11,875 --> 00:04:15,500
+I assume that is due to errors
+in the city's mechanisms.
+
+52
+00:04:16,708 --> 00:04:20,375
+Well, it's 70,620
+meters below ground.
+
+53
+00:04:20,458 --> 00:04:23,041
+[RYUZU] Interesting. That
+would put it at Floor 24.
+
+54
+00:04:23,125 --> 00:04:25,041
+What? You know that?
+
+55
+00:04:25,125 --> 00:04:28,375
+Of course. Y designed
+me and the planet.
+
+56
+00:04:28,458 --> 00:04:31,083
+I guess you could say
+we have a lot in common.
+
+57
+00:04:33,500 --> 00:04:34,958
+[VOICE A] There's no limit
+to what you can achieve
+
+58
+00:04:35,041 --> 00:04:36,416
+as part of the Meister Guild...
+
+59
+00:04:36,500 --> 00:04:38,916
+[NAOTO]
+Ugh! The Meister Guild! I wish!
+
+60
+00:04:39,000 --> 00:04:40,541
+[RYUZU] You want to
+join the Guild someday?
+
+61
+00:04:40,625 --> 00:04:42,041
+[NAOTO]
+Yeah, of course!
+
+62
+00:04:42,125 --> 00:04:44,500
+Those guys get paid to spend
+their days ogling clockworks
+
+63
+00:04:44,583 --> 00:04:45,875
+and playing with
+the Core Towers.
+
+64
+00:04:45,958 --> 00:04:48,166
+I can't think of anything
+I would rather do.
+
+65
+00:04:48,250 --> 00:04:49,916
+They're amazing!
+
+66
+00:04:50,000 --> 00:04:51,916
+I'm afraid I must disagree.
+
+67
+00:04:52,000 --> 00:04:55,333
+They had 206 years, and they
+still couldn't repair me.
+
+68
+00:04:55,416 --> 00:04:58,291
+These are mankind's most
+skilled clocksmiths?
+
+69
+00:04:58,375 --> 00:05:00,666
+I find that a rather
+pathetic joke.
+
+70
+00:05:00,750 --> 00:05:02,291
+Well... Ha-ha...
+
+71
+00:05:02,375 --> 00:05:04,291
+Wait, 206 years?
+
+72
+00:05:04,375 --> 00:05:06,125
+I had no idea you'd
+been around that long.
+
+73
+00:05:06,208 --> 00:05:07,208
+When were you built?
+
+74
+00:05:07,291 --> 00:05:09,041
+[RYUZU]
+About a thousand years ago.
+
+75
+00:05:09,125 --> 00:05:10,666
+Seriously?
+
+76
+00:05:13,166 --> 00:05:15,291
+[HALTER] Think you'll be
+able to get it going again?
+
+77
+00:05:15,375 --> 00:05:17,000
+[MARIE]
+I need to secure a line first.
+
+78
+00:05:17,083 --> 00:05:19,666
+We have to inform
+everybody about the purge.
+
+79
+00:05:19,750 --> 00:05:23,000
+Usin' the emergency frequency
+for the Meister Guild.
+
+80
+00:05:23,083 --> 00:05:25,333
+[MARIE] The military is no
+longer just a hindrance.
+
+81
+00:05:25,416 --> 00:05:26,541
+They are the enemy.
+
+82
+00:05:26,625 --> 00:05:29,333
+Yeah, that's for sure.
+
+83
+00:05:29,416 --> 00:05:30,625
+[MARIE]
+All right.
+
+84
+00:05:30,708 --> 00:05:32,125
+Got it.
+
+85
+00:05:32,208 --> 00:05:34,416
+This'll reach the communication
+officer outside the tower.
+
+86
+00:05:35,791 --> 00:05:37,875
+[LIMONS] Kyoto Grid
+Communication Officer Limons.
+
+87
+00:05:37,958 --> 00:05:39,208
+[MARIE]
+This is Marie Breguet.
+
+88
+00:05:39,291 --> 00:05:42,458
+Hi, Dr. Breguet.
+It's been a while.
+
+89
+00:05:42,541 --> 00:05:44,750
+You're calling on the special
+frequency, you all right?
+
+90
+00:05:44,833 --> 00:05:45,916
+Is everything okay?
+
+91
+00:05:46,000 --> 00:05:47,458
+[MARIE]
+No, it isn't.
+
+92
+00:05:47,541 --> 00:05:50,708
+The military intends to purge
+the Kyoto Grid in 20 hours.
+
+93
+00:05:50,791 --> 00:05:52,250
+[LIMONS]
+That is serious.
+
+94
+00:05:52,333 --> 00:05:54,291
+Are you sure about this?
+
+95
+00:05:54,375 --> 00:05:56,666
+Yes, I need to speak with
+Service Chief Konrad
+
+96
+00:05:56,750 --> 00:05:58,916
+on Floor 3 immediately.
+
+97
+00:05:59,000 --> 00:06:01,500
+[LIMONS] Certainly. I'll have
+you patched through right away.
+
+98
+00:06:01,583 --> 00:06:02,708
+Good-bye.
+
+99
+00:06:08,250 --> 00:06:10,416
+[KONRAD] Konrad here.
+Are you all right, Meister?
+
+100
+00:06:10,500 --> 00:06:12,666
+[MARIE] Yes, but the
+situation is critical.
+
+101
+00:06:12,750 --> 00:06:15,000
+We questioned an officer
+and learned that the military
+
+102
+00:06:15,083 --> 00:06:17,750
+means to purge the
+Kyoto Grid in 20 hours.
+
+103
+00:06:17,833 --> 00:06:22,000
+You sure? That's earlier than
+we expected them to act.
+
+104
+00:06:22,083 --> 00:06:23,250
+We know where to go.
+
+105
+00:06:23,333 --> 00:06:26,125
+Please head to the
+24th Floor immediately.
+
+106
+00:06:26,208 --> 00:06:28,291
+That's where the anomaly is.
+
+107
+00:06:28,375 --> 00:06:30,541
+I'll meet you as
+soon as I'm able to.
+
+108
+00:06:30,625 --> 00:06:32,041
+[KONRAD]
+I understand your urgency,
+
+109
+00:06:32,125 --> 00:06:34,000
+but we've got another problem.
+
+110
+00:06:34,083 --> 00:06:36,166
+I can't say for
+sure what happened,
+
+111
+00:06:36,250 --> 00:06:38,250
+but Floor 3 has had its
+power system severed
+
+112
+00:06:38,333 --> 00:06:41,208
+from the power spring
+barrel on Floor 15.
+
+113
+00:06:41,291 --> 00:06:44,166
+I'm sorry, but there's simply
+no way we can get to Floor 24
+
+114
+00:06:44,250 --> 00:06:46,500
+until we repair it.
+
+115
+00:06:46,583 --> 00:06:48,916
+The military doesn't
+want us interfering.
+
+116
+00:06:49,000 --> 00:06:51,000
+They're actively
+sabotaging us now.
+
+117
+00:06:51,083 --> 00:06:54,333
+Explains why the elevator
+shut down on us. Damn.
+
+118
+00:06:54,416 --> 00:06:56,625
+[KONRAD] I promise we're
+doing everything we can,
+
+119
+00:06:56,708 --> 00:06:59,916
+but the repairs will still
+take about four hours.
+
+120
+00:07:00,000 --> 00:07:01,416
+[MARIE]
+Given the situation,
+
+121
+00:07:01,500 --> 00:07:05,333
+wouldn't it be faster to
+go directly to the barrel?
+
+122
+00:07:05,416 --> 00:07:08,750
+Good thinking. You're right.
+
+123
+00:07:08,833 --> 00:07:11,583
+[HALTER] I have to ask,
+though I'm sure I'll regret it,
+
+124
+00:07:11,666 --> 00:07:13,875
+we're going down to the power
+spring barrel, aren't we?
+
+125
+00:07:13,958 --> 00:07:16,250
+That's a 30,000-meter
+descent, you know.
+
+126
+00:07:16,333 --> 00:07:18,500
+Well, there's no other option.
+
+127
+00:07:18,583 --> 00:07:21,125
+C'mon, where's your
+sense of adventure?
+
+128
+00:07:30,166 --> 00:07:32,250
+[COMM. VOICE A] Commencing
+purge from the outer edge
+
+129
+00:07:32,333 --> 00:07:34,166
+of the Kyoto Grid.
+
+130
+00:07:36,166 --> 00:07:38,666
+[HALTER] Special express
+to the depths of hell.
+
+131
+00:07:38,750 --> 00:07:42,291
+Better hold on tight,
+Princess. It's a long fall.
+
+132
+00:07:42,375 --> 00:07:44,416
+You've got a pretty girl
+all wrapped around you,
+
+133
+00:07:44,500 --> 00:07:46,250
+I would think you'd be happier.
+
+134
+00:07:46,333 --> 00:07:47,458
+[HALTER]
+Heh.
+
+135
+00:07:50,208 --> 00:07:53,208
+[KONRAD] Meister Marie is
+on her way to the barrel.
+
+136
+00:07:53,291 --> 00:07:55,541
+We're going to assist her
+as best we can here.
+
+137
+00:07:55,625 --> 00:07:57,291
+We've got a lot
+to do. Stay sharp.
+
+138
+00:07:57,375 --> 00:07:58,625
+[ENGINEERS]
+Yes, sir!
+
+139
+00:08:01,791 --> 00:08:03,458
+[NAOTO groans]
+
+140
+00:08:03,541 --> 00:08:04,791
+[NAOTO]
+Everyone's staring,
+
+141
+00:08:04,875 --> 00:08:06,750
+wondering what a pretty
+girl like you is doing
+
+142
+00:08:06,833 --> 00:08:08,875
+with a loser like me.
+
+143
+00:08:10,166 --> 00:08:12,541
+So this is the high school
+you attend, Master?
+
+144
+00:08:12,625 --> 00:08:14,041
+Yep, this is it.
+
+145
+00:08:14,125 --> 00:08:15,541
+I hadn't thought
+about it till now,
+
+146
+00:08:15,625 --> 00:08:17,708
+but what will you do
+while I'm at school?
+
+147
+00:08:17,791 --> 00:08:18,916
+That's simple.
+
+148
+00:08:19,000 --> 00:08:20,541
+I'll do what's required
+to perform my duties
+
+149
+00:08:20,625 --> 00:08:22,125
+as your servant.
+
+150
+00:08:23,333 --> 00:08:26,625
+[TEACHER A] Listen up, class, we
+have a new student joining us.
+
+151
+00:08:26,708 --> 00:08:29,750
+Like the teacher said, I am
+now a student at this school.
+
+152
+00:08:29,833 --> 00:08:32,833
+You may call me RyuZU Yourslave.
+
+153
+00:08:32,916 --> 00:08:35,125
+Is this really happening?
+
+154
+00:08:35,208 --> 00:08:36,916
+It is not a habit of
+mine to spend time
+
+155
+00:08:37,000 --> 00:08:39,833
+with people of vastly
+inferior intellect.
+
+156
+00:08:39,916 --> 00:08:42,958
+So there's no need to be
+friendly to me, at all.
+
+157
+00:08:43,041 --> 00:08:44,250
+One more thing,
+
+158
+00:08:44,333 --> 00:08:47,208
+and this is very important,
+so listen closely.
+
+159
+00:08:47,291 --> 00:08:50,625
+I'm a servant. I am
+Master Naoto's property.
+
+160
+00:08:50,708 --> 00:08:51,541
+[chuckles]
+
+161
+00:08:51,625 --> 00:08:52,625
+[NAOTO screams]
+
+162
+00:08:52,708 --> 00:08:54,666
+What the heck are you saying?!
+
+163
+00:08:59,916 --> 00:09:02,291
+[MARIE] It's going to get
+more narrow up ahead.
+
+164
+00:09:02,375 --> 00:09:04,041
+Think you can squeeze through?
+
+165
+00:09:04,125 --> 00:09:06,333
+I dunno. It'll be
+a tight fit for me.
+
+166
+00:09:06,416 --> 00:09:09,625
+I'm not exactly a small guy.
+We can't all be as flat as you.
+
+167
+00:09:09,708 --> 00:09:10,666
+[MARIE]
+What?!
+
+168
+00:09:10,750 --> 00:09:12,375
+I'm still a growing
+girl, damn it.
+
+169
+00:09:12,458 --> 00:09:14,250
+[HALTER] That sounds
+like wishful thinking.
+
+170
+00:09:14,333 --> 00:09:16,875
+You know that wanting something
+doesn't make it true, right?
+
+171
+00:09:16,958 --> 00:09:17,500
+[MARIE]
+Die!
+
+172
+00:09:17,583 --> 00:09:18,791
+Ow!
+
+173
+00:09:21,750 --> 00:09:23,041
+We're almost there.
+
+174
+00:09:23,125 --> 00:09:26,750
+The barrel is through here.
+Be sure to stay with me.
+
+175
+00:09:26,833 --> 00:09:29,916
+I'll be right behind
+you. You ready?
+
+176
+00:09:36,458 --> 00:09:37,625
+As much as I'd like to,
+
+177
+00:09:37,708 --> 00:09:40,291
+we don't have time to
+deal with these guys.
+
+178
+00:09:40,375 --> 00:09:41,875
+Then we'll take a shortcut.
+
+179
+00:09:41,958 --> 00:09:42,833
+You up for it, Halter?
+
+180
+00:09:42,916 --> 00:09:44,458
+Sure, let's go.
+
+181
+00:09:59,583 --> 00:10:00,833
+[MARIE
+All right, we're here.
+
+182
+00:10:00,916 --> 00:10:03,708
+That's the barrel's connection
+to the main shaft.
+
+183
+00:10:03,791 --> 00:10:06,833
+Ugh. I knew it.
+They were waiting for us.
+
+184
+00:10:06,916 --> 00:10:08,666
+Come on. Let's go.
+
+185
+00:10:08,750 --> 00:10:09,708
+Right.
+
+186
+00:10:13,791 --> 00:10:16,166
+How much time do
+you need, Princess?
+
+187
+00:10:17,416 --> 00:10:19,333
+Forty-one seconds please.
+
+188
+00:10:19,416 --> 00:10:21,791
+[HALTER]
+Okay. You got it.
+
+189
+00:10:47,166 --> 00:10:48,208
+[HALTER]
+Tch.
+
+190
+00:10:57,041 --> 00:11:00,250
+[HALTER]
+A VS-071-A minotaur.
+
+191
+00:11:00,333 --> 00:11:03,625
+The latest offering
+from Vacheron.
+
+192
+00:11:03,708 --> 00:11:06,208
+You wanna test your
+strength against me?
+
+193
+00:11:06,291 --> 00:11:09,083
+Well, come on then, let's dance.
+
+194
+00:11:09,166 --> 00:11:11,166
+Okay.
+
+195
+00:11:11,250 --> 00:11:13,250
+Another 1-20 to go.
+
+196
+00:11:32,458 --> 00:11:34,250
+[HALTER]
+I'm done with you!
+
+197
+00:11:40,416 --> 00:11:42,666
+[MARIE] Damn, I only
+had three more to go!
+
+198
+00:11:43,750 --> 00:11:45,916
+Come on, think, Marie!
+
+199
+00:11:46,000 --> 00:11:47,916
+You've gotta do something!
+
+200
+00:11:52,750 --> 00:11:54,416
+[KONRAD]
+Nice work, you two.
+
+201
+00:11:54,500 --> 00:11:56,666
+I hope you don't mind if we
+give you a hand with these.
+
+202
+00:11:56,750 --> 00:11:59,583
+We don't mind at all!
+Thanks, Meister Konrad.
+
+203
+00:11:59,666 --> 00:12:01,416
+Just one more left.
+
+204
+00:12:11,416 --> 00:12:12,833
+We're done here.
+
+205
+00:12:30,166 --> 00:12:32,041
+[MARIE]
+We've got 18 hours left.
+
+206
+00:12:32,125 --> 00:12:34,375
+Let's hurry and get
+back to the others.
+
+207
+00:12:37,666 --> 00:12:41,208
+[RYUZU] Is everything
+all right? You look tired.
+
+208
+00:12:41,291 --> 00:12:44,000
+Oh, yeah? I look tired, huh?
+
+209
+00:12:44,083 --> 00:12:45,583
+Well, considering I
+just spent all day
+
+210
+00:12:45,666 --> 00:12:48,250
+with my classmates looking at me
+like I'm the scum of the earth,
+
+211
+00:12:48,333 --> 00:12:50,250
+I guess that's not surprising.
+
+212
+00:12:50,333 --> 00:12:52,416
+They envy you because you
+have something beautiful
+
+213
+00:12:52,500 --> 00:12:54,750
+they have no hope of possessing.
+
+214
+00:12:54,833 --> 00:12:57,541
+You have me now, and that
+makes you their superior.
+
+215
+00:12:57,625 --> 00:13:01,041
+You shouldn't allow the stares
+of lesser mortals trouble you.
+
+216
+00:13:02,666 --> 00:13:05,541
+Okay, if you say so.
+
+217
+00:13:05,625 --> 00:13:08,500
+[RYUZU] I'm surprised at
+how little it's changed.
+
+218
+00:13:08,583 --> 00:13:09,750
+[NAOTO]
+Hm?
+
+219
+00:13:09,833 --> 00:13:12,458
+Wait, you mean you've
+been to Kyoto before?
+
+220
+00:13:12,541 --> 00:13:14,916
+[RYUZU] I was talking
+about the planet itself.
+
+221
+00:13:15,000 --> 00:13:18,375
+In 206 years--no, more.
+
+222
+00:13:18,458 --> 00:13:22,583
+In the thousand years since I
+was built, it's barely changed.
+
+223
+00:13:22,666 --> 00:13:24,541
+It's stagnated.
+
+224
+00:13:27,791 --> 00:13:29,958
+Thousand years, huh?
+
+225
+00:13:30,041 --> 00:13:32,958
+Long life, even for
+a clock. Real long.
+
+226
+00:13:33,041 --> 00:13:35,500
+It must be needing
+an overhaul by now.
+
+227
+00:13:38,125 --> 00:13:40,791
+[KONRAD]
+Pressure control unit JD-90021
+
+228
+00:13:40,875 --> 00:13:45,000
+appears to be working fine,
+so that wasn't the problem.
+
+229
+00:13:45,083 --> 00:13:46,958
+This is impossible.
+
+230
+00:13:47,041 --> 00:13:48,958
+The control block has
+trillions of parts.
+
+231
+00:13:49,041 --> 00:13:51,583
+That's just way
+too many to check.
+
+232
+00:13:51,666 --> 00:13:53,291
+We can narrow it down some,
+
+233
+00:13:53,375 --> 00:13:56,208
+but that still leaves something
+like 520 million parts
+
+234
+00:13:56,291 --> 00:13:57,333
+to look over.
+
+235
+00:13:57,416 --> 00:13:59,208
+No way we'll find
+it soon enough.
+
+236
+00:13:59,291 --> 00:14:01,500
+It'd take a miracle.
+
+237
+00:14:01,583 --> 00:14:04,958
+[MARIE] Then we'll just
+have to make one happen.
+
+238
+00:14:05,041 --> 00:14:07,500
+There are 20 million
+lives at stake right now.
+
+239
+00:14:07,583 --> 00:14:12,125
+We'll fix this. Whatever it
+takes, we'll make that repair.
+
+240
+00:14:12,208 --> 00:14:15,166
+We still have 9 hours
+and 44 minutes.
+
+241
+00:14:15,250 --> 00:14:17,166
+Let's keep narrowing it down.
+
+242
+00:14:17,250 --> 00:14:19,750
+Meister Marie, we're
+going to keep working,
+
+243
+00:14:19,833 --> 00:14:22,666
+but shouldn't we give an
+evacuation notice to the public?
+
+244
+00:14:22,750 --> 00:14:25,458
+We can't. That might
+spook the military.
+
+245
+00:14:25,541 --> 00:14:26,916
+They could move up the purge.
+
+246
+00:14:27,000 --> 00:14:29,416
+They'll do anything
+to cover their tracks.
+
+247
+00:14:29,500 --> 00:14:31,791
+Yeah, he's right. It would
+be too much of a risk.
+
+248
+00:14:31,875 --> 00:14:33,375
+So our hands are tied?
+
+249
+00:14:33,458 --> 00:14:36,541
+It feels wrong not
+to warn people.
+
+250
+00:14:36,625 --> 00:14:39,291
+[HALTER] We got a message
+from Guild headquarters.
+
+251
+00:14:39,375 --> 00:14:41,375
+We're to withdraw.
+
+252
+00:14:41,458 --> 00:14:43,291
+You've got to be kidding!
+
+253
+00:14:51,458 --> 00:14:54,583
+[MARIE] Man, can't we
+catch a freaking break?
+
+254
+00:14:54,666 --> 00:14:56,916
+If only RyuZU were here.
+
+255
+00:14:57,000 --> 00:14:59,541
+[HALTER] You think having that
+thing with us would be helpful?
+
+256
+00:14:59,625 --> 00:15:01,625
+Assuming we could
+get it working.
+
+257
+00:15:01,708 --> 00:15:04,208
+Which would be a
+miracle on its own.
+
+258
+00:15:04,291 --> 00:15:06,208
+I'm grasping at straws.
+
+259
+00:15:06,291 --> 00:15:09,291
+Right now, I'd take help
+from anywhere I can get it.
+
+260
+00:15:13,666 --> 00:15:15,416
+[MARIE]
+So many people depending on us,
+
+261
+00:15:15,500 --> 00:15:18,583
+and they don't even know it.
+
+262
+00:15:18,666 --> 00:15:21,791
+Finding one defect in more
+than 500 million parts?
+
+263
+00:15:21,875 --> 00:15:25,000
+We're looking for a needle
+in a stack of needles.
+
+264
+00:15:25,083 --> 00:15:28,125
+It's going to be impossible.
+
+265
+00:15:28,208 --> 00:15:29,791
+There's no way.
+
+266
+00:15:31,583 --> 00:15:34,958
+But you're gonna
+do it, aren't you?
+
+267
+00:15:36,041 --> 00:15:37,708
+You bet I am!
+
+268
+00:15:37,791 --> 00:15:39,916
+I'm Meister Marie Bell Breguet,
+
+269
+00:15:40,000 --> 00:15:41,416
+and I'm a woman
+who doesn't believe
+
+270
+00:15:41,500 --> 00:15:43,916
+in the word "impossible."
+
+271
+00:15:44,000 --> 00:15:45,333
+Good, now here.
+
+272
+00:15:45,416 --> 00:15:47,708
+You and I both know you'll
+be practically useless
+
+273
+00:15:47,791 --> 00:15:50,000
+without that.
+
+274
+00:15:50,083 --> 00:15:52,916
+You're such a jerk.
+
+275
+00:15:53,000 --> 00:15:54,666
+But thank you.
+
+276
+00:15:59,000 --> 00:16:00,208
+[NAOTO]
+Huh? Ha-ha!
+
+277
+00:16:00,291 --> 00:16:02,458
+Is there something wrong?
+
+278
+00:16:02,541 --> 00:16:05,583
+Hey, would you mind
+trying that outfit on?
+
+279
+00:16:07,791 --> 00:16:11,458
+[RYUZU]
+Um, Master Naoto?
+
+280
+00:16:11,541 --> 00:16:13,500
+I'm not so sure about this.
+
+281
+00:16:13,583 --> 00:16:15,291
+I don't think it's an
+appropriate outfit
+
+282
+00:16:15,375 --> 00:16:17,291
+for a servant.
+
+283
+00:16:17,375 --> 00:16:19,291
+Nope, I think it's
+totally appropriate.
+
+284
+00:16:19,375 --> 00:16:20,791
+You look really good!
+
+285
+00:16:20,875 --> 00:16:23,791
+Better than good! Amazing!
+
+286
+00:16:23,875 --> 00:16:27,125
+Thank you, but it doesn't
+seem very practical to me.
+
+287
+00:16:27,208 --> 00:16:30,291
+[NAOTO] It's more fun
+this way. Date-like!
+
+288
+00:16:30,375 --> 00:16:31,541
+I'm confused, though.
+
+289
+00:16:31,625 --> 00:16:33,208
+I don't understand why
+you would want things
+
+290
+00:16:33,291 --> 00:16:35,291
+to be "date-like" with a clock.
+
+291
+00:16:35,375 --> 00:16:38,916
+What do you mean?
+You're not a clock, RyuZU.
+
+292
+00:16:39,000 --> 00:16:41,833
+All right, but if I'm not
+a clock to you, Master,
+
+293
+00:16:41,916 --> 00:16:43,208
+then what am I?
+
+294
+00:16:43,291 --> 00:16:46,875
+Only the best thing ever!
+A cute automaton girl.
+
+295
+00:16:46,958 --> 00:16:49,708
+Wait a second.
+You-You think I'm cute?
+
+296
+00:16:49,791 --> 00:16:51,166
+[NAOTO]
+Super cute!
+
+297
+00:16:51,250 --> 00:16:54,000
+Hey, what if we do something
+fun with your hair?
+
+298
+00:16:54,083 --> 00:16:56,333
+We could make it look a bit
+more playful, you know?
+
+299
+00:16:56,416 --> 00:16:57,666
+--Just hold still.
+--Wait. Please stop.
+
+300
+00:16:57,750 --> 00:17:00,000
+--I think I've got an idea.
+--Wait. Please stop.
+
+301
+00:17:00,083 --> 00:17:01,833
+[NAOTO yelping]
+
+302
+00:17:04,541 --> 00:17:05,708
+[RYUZU]
+I see now.
+
+303
+00:17:05,791 --> 00:17:08,333
+This makeover was actually
+a calculated plot.
+
+304
+00:17:08,416 --> 00:17:12,416
+A way to disguise the sexual
+harassment you intended.
+
+305
+00:17:12,500 --> 00:17:13,750
+No! No!
+
+306
+00:17:13,833 --> 00:17:16,416
+I'm not smart enough
+for that, I swear!
+
+307
+00:17:18,291 --> 00:17:19,791
+[LIMONS]
+I'll say it again.
+
+308
+00:17:19,875 --> 00:17:23,333
+You and your team are to cease
+your repair efforts immediately.
+
+309
+00:17:23,416 --> 00:17:24,875
+[MARIE]
+Will you tell us why?
+
+310
+00:17:24,958 --> 00:17:27,875
+[LIMONS] The military maintains
+all the world's Core Towers,
+
+311
+00:17:27,958 --> 00:17:30,208
+which gives them a great
+deal of authority.
+
+312
+00:17:30,291 --> 00:17:31,708
+We can't disregard their wishes
+
+313
+00:17:31,791 --> 00:17:33,250
+because we don't
+agree with them.
+
+314
+00:17:33,333 --> 00:17:35,250
+It's a matter of give and take.
+
+315
+00:17:35,333 --> 00:17:36,750
+Give and take, huh?
+
+316
+00:17:36,833 --> 00:17:39,250
+We're talking about 20 million
+people losing their lives,
+
+317
+00:17:39,333 --> 00:17:41,791
+and that's how you're
+going to justify it?
+
+318
+00:17:43,500 --> 00:17:45,916
+[LIMONS]
+A regretful sacrifice.
+
+319
+00:17:47,125 --> 00:17:50,083
+You're in bed with the
+military, aren't you?
+
+320
+00:17:50,166 --> 00:17:53,125
+[LIMONS] The world needs both
+the military and the guild.
+
+321
+00:17:53,208 --> 00:17:56,458
+It makes sense for us to work
+together, don't you think?
+
+322
+00:17:56,541 --> 00:17:58,375
+You were the one
+I spoke to earlier.
+
+323
+00:17:58,458 --> 00:18:00,958
+Bet you leaked
+that message, too.
+
+324
+00:18:01,041 --> 00:18:04,250
+[LIMONS]
+Going so soon? Where to?
+
+325
+00:18:04,333 --> 00:18:07,166
+[MARIE] Where do you think?
+To resume my work.
+
+326
+00:18:07,250 --> 00:18:10,708
+Do that, and I will be forced
+to revoke your license.
+
+327
+00:18:10,791 --> 00:18:14,083
+You'll be nothing more
+than a regular civilian.
+
+328
+00:18:14,166 --> 00:18:18,500
+Of course, you won't be allowed
+to enter the Core Tower, either.
+
+329
+00:18:18,583 --> 00:18:20,250
+What's going on here?
+
+330
+00:18:20,333 --> 00:18:23,583
+Your name. You're
+Limons Vacheron.
+
+331
+00:18:23,666 --> 00:18:24,708
+So, what?
+
+332
+00:18:24,791 --> 00:18:26,458
+Is this the Vacheron
+Company's attempt
+
+333
+00:18:26,541 --> 00:18:28,458
+to discredit the Breguets?
+
+334
+00:18:29,916 --> 00:18:32,000
+Quite an imagination you've got.
+
+335
+00:18:32,083 --> 00:18:34,666
+I have no clue what
+you're talking about.
+
+336
+00:18:36,583 --> 00:18:39,250
+You disgust me!
+
+337
+00:18:39,333 --> 00:18:40,791
+[gasps]
+
+338
+00:18:43,750 --> 00:18:44,833
+[HALTER]
+Marie!
+
+339
+00:18:46,166 --> 00:18:47,500
+Let's go.
+
+340
+00:18:47,583 --> 00:18:50,208
+This guy isn't worth the
+effort of pulling the trigger.
+
+341
+00:18:51,541 --> 00:18:52,791
+Yeah.
+
+342
+00:19:02,750 --> 00:19:03,875
+No.
+
+343
+00:19:05,583 --> 00:19:12,541
+[screaming]
+
+344
+00:19:12,625 --> 00:19:14,375
+his isn't helping. Calm down!
+
+345
+00:19:14,458 --> 00:19:17,666
+[MARIE]
+Let go! Let go! Let go!
+
+346
+00:19:32,583 --> 00:19:35,541
+[MARIE]
+Don't you get it?
+
+347
+00:19:35,625 --> 00:19:37,625
+Don't you see what's going on?
+
+348
+00:19:37,708 --> 00:19:39,750
+This is happening because of me.
+
+349
+00:19:39,833 --> 00:19:41,375
+These guys want
+to screw me over,
+
+350
+00:19:41,458 --> 00:19:43,125
+and the 20 million
+people in this city
+
+351
+00:19:43,208 --> 00:19:46,083
+are nothing more than
+collateral damage!
+
+352
+00:19:46,166 --> 00:19:47,583
+No.
+
+353
+00:19:47,666 --> 00:19:51,250
+The purge was gonna happen
+anyway. The military wants it.
+
+354
+00:19:51,333 --> 00:19:54,125
+The shitheads from Vacheron
+are just along for the ride.
+
+355
+00:19:54,208 --> 00:19:56,791
+How can you know for
+sure that's true?
+
+356
+00:19:56,875 --> 00:20:00,958
+If I hadn't been here, maybe the
+purge could've been avoided.
+
+357
+00:20:01,041 --> 00:20:04,708
+[HALTER] Even so, that doesn't
+make this your fault.
+
+358
+00:20:04,791 --> 00:20:06,416
+Shut up!
+
+359
+00:20:06,500 --> 00:20:10,750
+Shut up! Just shut up!
+
+360
+00:20:14,916 --> 00:20:19,500
+[MARIE laughing]
+
+361
+00:20:19,583 --> 00:20:24,500
+All those people...
+just... gone.
+
+362
+00:20:28,708 --> 00:20:29,875
+Are you calm now?
+
+363
+00:20:29,958 --> 00:20:31,625
+[MARIE]
+What are talking about?
+
+364
+00:20:31,708 --> 00:20:35,666
+Nobody's calmer than me.
+I'm the damn queen of calm.
+
+365
+00:20:36,750 --> 00:20:39,875
+Whatever you say, Your Majesty.
+
+366
+00:20:39,958 --> 00:20:42,291
+It's okay. It's
+going to be okay.
+
+367
+00:20:42,375 --> 00:20:44,166
+If these jerks think I'll
+give up that easily,
+
+368
+00:20:44,250 --> 00:20:46,541
+then they're even
+stupider than I thought.
+
+369
+00:20:46,625 --> 00:20:48,875
+I'll teach them not to
+mess with Marie Breguet.
+
+370
+00:20:48,958 --> 00:20:52,500
+We've got a city to save,
+Halter, let's get back to work!
+
+371
+00:20:56,958 --> 00:20:59,250
+[NAOTO]
+RyuZU, how should I say this?
+
+372
+00:20:59,333 --> 00:21:00,750
+Well, to be perfectly
+honest with you,
+
+373
+00:21:00,833 --> 00:21:03,958
+that outfit is just
+a little unsettling.
+
+374
+00:21:04,041 --> 00:21:06,791
+I cannot comprehend the fetish
+you have for skimpy outfits
+
+375
+00:21:06,875 --> 00:21:10,208
+or your wish to style my hair
+"playfully," as you refer to it.
+
+376
+00:21:10,291 --> 00:21:14,208
+However, I do know that there is
+a time and place for everything.
+
+377
+00:21:18,166 --> 00:21:20,541
+You don't have to come
+with me, you know.
+
+378
+00:21:20,625 --> 00:21:23,875
+I realize I'm just being
+willful at this point.
+
+379
+00:21:23,958 --> 00:21:25,500
+Of course I'm coming.
+
+380
+00:21:25,583 --> 00:21:28,291
+Unless you've got yourself
+another bodyguard.
+
+381
+00:21:28,375 --> 00:21:31,625
+Besides, when have you
+ever not been willful?
+
+382
+00:21:33,708 --> 00:21:34,833
+You shut up.
+
+383
+00:21:34,916 --> 00:21:36,666
+[HALTER chuckles]
+
+384
+00:21:36,750 --> 00:21:39,791
+So, uh, is this really
+where we're gonna stay?
+
+385
+00:21:39,875 --> 00:21:42,125
+Master Naoto, you have
+the courage of a flea,
+
+386
+00:21:42,208 --> 00:21:44,291
+so this may be difficult.
+
+387
+00:21:44,375 --> 00:21:46,500
+But could you please attempt
+to display the dignity
+
+388
+00:21:46,583 --> 00:21:50,208
+and composure that a servant
+of my caliber deserves?
+
+389
+00:22:04,041 --> 00:22:06,083
+--Is that...?
+--You all right? What's up?
+
+390
+00:22:07,125 --> 00:22:08,125
+[RYUZU]
+Why are we stopping?
+
+391
+00:22:08,208 --> 00:22:10,333
+Is something wrong?
+
+392
+00:22:10,416 --> 00:22:13,541
+No, it can't be.
+
+393
+00:22:13,625 --> 00:22:18,000
+That's the first unit of the
+Initial-Y Series. RyuZU!
+
+394
+00:23:58,666 --> 00:24:00,833
+[NAOTO] The countdown for
+the purge of the Kyoto Grid
+
+395
+00:24:00,916 --> 00:24:03,041
+draws steadily closer to zero.
+
+396
+00:24:03,125 --> 00:24:06,500
+As trouble continues to brew,
+two geniuses meet.
+
+397
+00:24:06,583 --> 00:24:08,791
+With their powerful
+automata at their sides,
+
+398
+00:24:08,875 --> 00:24:11,958
+an unlikely and unexpected
+quartet is born.
+
+399
+00:24:12,041 --> 00:24:13,583
+The gears that will
+determine the fate
+
+400
+00:24:13,666 --> 00:24:16,083
+of the Clockwork Planet
+are beginning to turn.
+
+401
+00:24:16,166 --> 00:24:17,916
+Where will they lead us?
+
+402
+00:24:18,000 --> 00:24:20,166
+Next time: "Conflict."
+
+403
+00:24:20,250 --> 00:24:22,083
+Come on, ya gotta be kidding me!
+
+404
+00:24:22,166 --> 00:24:25,041
+How could I not fall in love
+after something like that?
+

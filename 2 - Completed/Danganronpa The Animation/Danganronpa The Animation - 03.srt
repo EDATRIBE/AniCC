@@ -1,0 +1,2668 @@
+﻿1
+00:00:17,625 --> 00:00:19,458
+[NAEGI]
+Hope's Peak High School...
+
+2
+00:00:19,541 --> 00:00:22,291
+A hell on earth where the
+only way to graduate
+
+3
+00:00:22,375 --> 00:00:23,750
+is murder.
+
+4
+00:00:25,125 --> 00:00:28,083
+[NAEGI] As long as you don't
+get caught, you go free.
+
+5
+00:00:30,333 --> 00:00:32,416
+[NAEGI] And now
+Maizono's dead...
+
+6
+00:00:32,500 --> 00:00:34,333
+Butchered.
+
+7
+00:00:34,416 --> 00:00:36,250
+The prime suspect is me...
+
+8
+00:00:36,333 --> 00:00:38,000
+Thing is, I'm innocent.
+
+9
+00:00:38,083 --> 00:00:41,333
+She would tell you herself:
+I couldn't hurt a fly.
+
+10
+00:00:45,875 --> 00:00:47,375
+[NAEGI] Here we go...
+
+11
+00:00:47,458 --> 00:00:49,291
+Good luck, everybody.
+
+12
+00:00:51,541 --> 00:00:52,916
+[NAEGI] We're gonna need it.
+
+13
+00:00:59,833 --> 00:01:00,791
+Holy crap...
+
+14
+00:01:00,875 --> 00:01:02,416
+Swank for a courtroom.
+
+15
+00:01:02,500 --> 00:01:03,916
+[MONOKUMA] Goodie gumdrop!
+
+16
+00:01:04,000 --> 00:01:05,791
+Took your time, I see.
+
+17
+00:01:07,375 --> 00:01:08,791
+[MONOKUMA] Be honest, now:
+
+18
+00:01:08,875 --> 00:01:11,458
+you were expecting something
+considerably less tasteful.
+
+19
+00:01:11,541 --> 00:01:13,583
+Screwed up either way,
+if you ask me.
+
+20
+00:01:13,666 --> 00:01:14,750
+Before we start...
+
+21
+00:01:14,833 --> 00:01:15,916
+[ALL] Huh?
+
+22
+00:01:16,000 --> 00:01:18,458
+I have a question
+relevant to our task.
+
+23
+00:01:18,541 --> 00:01:19,833
+Why the portraits?
+
+24
+00:01:19,916 --> 00:01:20,958
+[MONOKUMA] Why not?
+
+25
+00:01:21,041 --> 00:01:22,166
+Just 'cause they're dead,
+
+26
+00:01:22,250 --> 00:01:23,958
+I'd hate for them to
+miss the proceedings.
+
+27
+00:01:24,041 --> 00:01:26,500
+[CELESTIA] And the extra
+podium belongs to whom?
+
+28
+00:01:26,583 --> 00:01:29,250
+Counting our departed
+classmates, we number fifteen.
+
+29
+00:01:29,333 --> 00:01:30,958
+Why sixteen places?
+
+30
+00:01:31,041 --> 00:01:32,791
+[MONOKUMA] You're readin'
+too much into it, darlin'.
+
+31
+00:01:32,875 --> 00:01:35,375
+The extra podium just means
+this courtroom is tricked out
+
+32
+00:01:35,458 --> 00:01:37,625
+for a maximum of sixteen jurors.
+
+33
+00:01:37,708 --> 00:01:38,958
+Speaking of which:
+
+34
+00:01:39,041 --> 00:01:41,208
+that's all the time we've
+got for pleasantries.
+
+35
+00:01:41,291 --> 00:01:45,083
+Ladies and germs,
+time to get judicial!
+
+36
+00:01:45,166 --> 00:01:46,416
+This is jacked up...
+
+37
+00:01:46,500 --> 00:01:48,666
+Nobody here really thinks
+one of us killed her?
+
+38
+00:01:48,750 --> 00:01:49,750
+Hmph.
+
+39
+00:01:49,833 --> 00:01:51,333
+[MONOKUMA] They'd
+be correct, m'boy!
+
+40
+00:01:51,416 --> 00:01:52,750
+No room for doubt, I'm afraid.
+
+41
+00:01:52,833 --> 00:01:54,583
+Right. Everybody
+close your eyes!
+
+42
+00:01:54,666 --> 00:01:56,708
+If you're the murderer
+raise your hand!
+
+43
+00:01:56,791 --> 00:01:59,208
+Yeah, that'll float
+like an old lady's fart.
+
+44
+00:01:59,291 --> 00:02:00,875
+[MONOKUMA laughs]
+
+45
+00:02:00,958 --> 00:02:02,125
+[MONOKUMA] Enough chit chat...
+
+46
+00:02:02,208 --> 00:02:04,625
+Commence debating
+for your lives!
+
+47
+00:02:04,708 --> 00:02:06,875
+[NAEGI] I've got to
+stay focused...
+
+48
+00:02:06,958 --> 00:02:09,250
+Unless I can convince them I
+didn't do it,
+
+49
+00:02:09,333 --> 00:02:10,750
+we're all done for.
+
+50
+00:02:23,500 --> 00:02:24,333
+So, uh...
+
+51
+00:02:24,416 --> 00:02:25,750
+How does debating work?
+
+52
+00:02:25,833 --> 00:02:27,666
+Knowing where to start's
+half the battle.
+
+53
+00:02:27,750 --> 00:02:30,333
+Well, I suggest we begin by
+considering the murder weapon
+
+54
+00:02:30,416 --> 00:02:32,166
+itself, see where
+that takes us.
+
+55
+00:02:32,250 --> 00:02:34,291
+We can be sure it was
+the weapon because of
+
+56
+00:02:34,375 --> 00:02:35,458
+where it was found...
+
+57
+00:02:35,541 --> 00:02:37,208
+Sticking out of the
+victim's mid-section
+
+58
+00:02:37,291 --> 00:02:38,833
+is not generally
+where a knife is kept!
+
+59
+00:02:38,916 --> 00:02:40,041
+[OHWADA] Congratulations.
+
+60
+00:02:40,125 --> 00:02:41,291
+You're good.
+
+61
+00:02:41,375 --> 00:02:43,000
+[NAEGI] Don't blow him off;
+it's important.
+
+62
+00:02:43,083 --> 00:02:44,166
+[OHWADA] What?
+
+63
+00:02:44,250 --> 00:02:46,000
+Just stop and think
+about it for a sec.
+
+64
+00:02:46,083 --> 00:02:47,583
+The knife had to come
+from the kitchen.
+
+65
+00:02:47,666 --> 00:02:49,166
+So does...
+
+66
+00:02:49,250 --> 00:02:51,291
+that mean anyone who was in the
+kitchen last night is a suspect?
+
+67
+00:02:51,375 --> 00:02:53,708
+He's just tryin' to
+get us to split hairs.
+
+68
+00:02:53,791 --> 00:02:55,541
+He's the killer, remember?
+
+69
+00:02:55,625 --> 00:02:56,958
+[ASAHINA] Wait, you know what?
+
+70
+00:02:57,041 --> 00:03:00,166
+I think I can prove Naegi
+isn't the one who took it!
+
+71
+00:03:00,250 --> 00:03:01,208
+[gasping]
+
+72
+00:03:01,291 --> 00:03:02,791
+I would know, 'cause
+Sakura and me
+
+73
+00:03:02,875 --> 00:03:05,041
+spent most of the day yesterday
+hangin' out in the cafeteria.
+
+74
+00:03:05,125 --> 00:03:08,000
+[CELESTIA] I'm sorry...
+Sakura is who, exactly?
+
+75
+00:03:08,083 --> 00:03:09,333
+No offense.
+
+76
+00:03:09,416 --> 00:03:10,791
+None taken.
+
+77
+00:03:13,291 --> 00:03:14,583
+[OHGAMI] We were
+there until late...
+
+78
+00:03:14,666 --> 00:03:16,958
+Enjoying a lovely evening
+tea, as it happens.
+
+79
+00:03:17,041 --> 00:03:18,250
+[ASAHINA] I was on edge...
+
+80
+00:03:18,333 --> 00:03:20,541
+Sakura was sweet enough
+to keep me company
+
+81
+00:03:20,625 --> 00:03:21,791
+and try and calm my nerves.
+
+82
+00:03:21,875 --> 00:03:23,666
+[FUKAWA] Phugh, well...!
+What if you both did it?
+
+83
+00:03:23,750 --> 00:03:25,000
+If you teamed up...
+
+84
+00:03:25,083 --> 00:03:27,291
+you'd just have to keep
+your stories straight.
+
+85
+00:03:27,375 --> 00:03:30,083
+[MONOKUMA] Oh, please note:
+if two or more people team up
+
+86
+00:03:30,166 --> 00:03:32,166
+to commit murder,
+only the actual killer
+
+87
+00:03:32,250 --> 00:03:33,375
+is eligible for graduation.
+
+88
+00:03:33,458 --> 00:03:34,875
+No exceptions.
+
+89
+00:03:34,958 --> 00:03:37,000
+Yes. It's clearly
+stated in the rules.
+
+90
+00:03:37,083 --> 00:03:38,250
+I see...
+
+91
+00:03:38,333 --> 00:03:40,416
+In other words, no one
+stands to gain anything
+
+92
+00:03:40,500 --> 00:03:41,500
+from opting to team up.
+
+93
+00:03:41,583 --> 00:03:42,583
+[FUKAWA] Yeah, fine...
+
+94
+00:03:42,666 --> 00:03:44,250
+Then stop beating
+around the bush
+
+95
+00:03:44,333 --> 00:03:46,000
+and tell us who took
+the knife already!
+
+96
+00:03:46,083 --> 00:03:46,875
+Swim-hussy!
+
+97
+00:03:46,958 --> 00:03:48,375
+You take that back!
+
+98
+00:03:48,458 --> 00:03:50,541
+[OHGAMI] As Asahina said,
+we were there for some time...
+
+99
+00:03:50,625 --> 00:03:51,916
+We know who took the knife
+
+100
+00:03:52,000 --> 00:03:53,541
+because we witnessed
+its removal.
+
+101
+00:03:53,625 --> 00:03:55,375
+[TOGAMI] Why did you
+not mention this sooner?
+
+102
+00:03:55,458 --> 00:03:56,666
+I guess...
+
+103
+00:03:56,750 --> 00:03:58,791
+'Cause it's... rude to
+speak ill of the dead.
+
+104
+00:03:58,875 --> 00:04:00,208
+Wait, what?
+
+105
+00:04:00,291 --> 00:04:01,958
+[ASAHINA] It was Maizono...
+
+106
+00:04:02,041 --> 00:04:05,291
+I don't know why,
+but it was definitely her.
+
+107
+00:04:05,375 --> 00:04:06,916
+But that doesn't
+make sense...
+
+108
+00:04:07,000 --> 00:04:08,833
+Why would she take the knife?
+
+109
+00:04:08,916 --> 00:04:10,958
+[OHGAMI] I'm afraid
+there can be no doubt.
+
+110
+00:04:11,500 --> 00:04:13,000
+How does royal
+milk tea sound?
+
+111
+00:04:13,083 --> 00:04:15,708
+You're nice enough to stay
+here; I should go all out.
+
+112
+00:04:15,791 --> 00:04:17,916
+[door opens]
+
+113
+00:04:18,000 --> 00:04:19,208
+Oh. Hi...
+
+114
+00:04:19,291 --> 00:04:21,666
+Just thought I'd get
+myself something to drink.
+
+115
+00:04:21,750 --> 00:04:24,666
+[ASAHINA] At the time, it didn't
+strike me as weird or anything.
+
+116
+00:04:24,750 --> 00:04:25,916
+[OHGAMI] Nor I.
+
+117
+00:04:26,000 --> 00:04:26,958
+[ISHIMARU] I see...
+
+118
+00:04:27,041 --> 00:04:28,666
+So the victim
+procured the weapon
+
+119
+00:04:28,750 --> 00:04:30,625
+that would then end her life!
+
+120
+00:04:30,708 --> 00:04:32,083
+[MAIZONO] Good night.
+Sweet dreams.
+
+121
+00:04:32,166 --> 00:04:34,791
+--Yes. Good night.
+--Huh? Sure! Same to you.
+
+122
+00:04:34,875 --> 00:04:36,250
+[OHGAMI] Hm...?
+
+123
+00:04:38,708 --> 00:04:40,041
+Of course. Yeah...
+
+124
+00:04:40,125 --> 00:04:42,250
+She must've wanted it
+to protect herself!
+
+125
+00:04:42,333 --> 00:04:43,750
+That being the case...
+
+126
+00:04:43,833 --> 00:04:46,333
+The very thing she thought to
+fend off her attacker with
+
+127
+00:04:46,416 --> 00:04:47,708
+proved her undoing...
+
+128
+00:04:47,791 --> 00:04:50,125
+Simple, tragic irony
+at its finest.
+
+129
+00:04:50,208 --> 00:04:51,125
+Yeah, no kidding.
+
+130
+00:04:51,208 --> 00:04:52,833
+All the same, Naegi...
+
+131
+00:04:52,916 --> 00:04:55,125
+You're still rather far
+from clearing your name
+
+132
+00:04:55,208 --> 00:04:56,791
+in this bloody business.
+
+133
+00:04:56,875 --> 00:04:58,625
+[FUKAWA] Ah-ha! See?!
+
+134
+00:04:58,708 --> 00:05:00,875
+There's murder written
+all over his face!
+
+135
+00:05:00,958 --> 00:05:02,791
+Damn it, I told you
+it wasn't me!
+
+136
+00:05:02,875 --> 00:05:04,750
+Ooh! En garde, everyone!
+
+137
+00:05:04,833 --> 00:05:08,041
+He's attempting to steer
+the debate in his favor!
+
+138
+00:05:08,125 --> 00:05:10,500
+What a skilled
+manipulator you are!
+
+139
+00:05:10,583 --> 00:05:13,708
+[NAEGI] C'mon; why aren't
+you getting it?!
+
+140
+00:05:13,791 --> 00:05:17,333
+If you pin this on me,
+we all get executed!
+
+141
+00:05:17,416 --> 00:05:20,333
+[KIRIGIRI] Careful.
+
+142
+00:05:20,416 --> 00:05:22,541
+I'm of the opinion
+it's still too early
+
+143
+00:05:22,625 --> 00:05:24,166
+to point the finger at Naegi.
+
+144
+00:05:24,250 --> 00:05:25,541
+[ALL gasp]
+
+145
+00:05:25,625 --> 00:05:27,916
+[KIRIGIRI] There's evidence
+we're not considering.
+
+146
+00:05:28,000 --> 00:05:29,041
+[NAEGI gasps]
+
+147
+00:05:29,125 --> 00:05:30,458
+You believe me...?
+
+148
+00:05:30,541 --> 00:05:31,833
+[OHGAMI] What "evidence?"
+
+149
+00:05:31,916 --> 00:05:34,958
+I submit to you all the
+state of the crime scene.
+
+150
+00:05:35,041 --> 00:05:37,708
+Did the culprit appear to
+have easy access to the shower?
+
+151
+00:05:37,791 --> 00:05:38,750
+I think not.
+
+152
+00:05:38,833 --> 00:05:40,416
+[CELESTIA] What
+are you driving at? 
+
+153
+00:05:40,500 --> 00:05:42,625
+[NAEGI] The doorknob to
+my shower was thrashed.
+
+154
+00:05:42,708 --> 00:05:43,625
+I saw it.
+
+155
+00:05:43,708 --> 00:05:44,791
+[YAMADA] In point of fact,
+
+156
+00:05:44,875 --> 00:05:46,708
+it did look like it'd
+seen better days.
+
+157
+00:05:46,791 --> 00:05:48,750
+So?! What is that
+supposed to prove
+
+158
+00:05:48,833 --> 00:05:50,333
+except he broke it
+to get at his prey?!
+
+159
+00:05:50,416 --> 00:05:51,750
+Animal!
+
+160
+00:05:51,833 --> 00:05:53,958
+[KIRIGIRI] That one
+small detail convinces me
+
+161
+00:05:54,041 --> 00:05:55,500
+that Naegi couldn't have
+been the murderer.
+
+162
+00:05:55,583 --> 00:05:57,791
+What're you, nuts?
+He needed in: Boom...
+
+163
+00:05:57,875 --> 00:05:59,458
+He broke it; end of story...
+
+164
+00:05:59,541 --> 00:06:02,416
+He didn't have any choice 'cause
+she locked the door on him.
+
+165
+00:06:02,500 --> 00:06:04,000
+I can prove you wrong!
+
+166
+00:06:06,500 --> 00:06:08,791
+The shower doors don't
+lock in the boys' rooms...
+
+167
+00:06:08,875 --> 00:06:10,458
+Only the girls' showers do.
+
+168
+00:06:10,541 --> 00:06:12,583
+Yeah? And how do you know that?
+
+169
+00:06:12,666 --> 00:06:14,291
+[NAEGI]
+Monokuma said so himself.
+
+170
+00:06:14,375 --> 00:06:16,083
+Our showers don't have
+locks installed...
+
+171
+00:06:16,166 --> 00:06:17,583
+Go on sir, tell them!
+
+172
+00:06:17,666 --> 00:06:19,875
+[MONOKUMA] Huh? Yeah,
+sure. Whatever.
+
+173
+00:06:19,958 --> 00:06:22,000
+But, then why'd the killer
+have to go to the trouble
+
+174
+00:06:22,083 --> 00:06:24,375
+of breaking the doorknob
+to get at Maizono?
+
+175
+00:06:24,458 --> 00:06:27,375
+[NAEGI] Because my door's wonky.
+There's a trick to opening it.
+
+176
+00:06:27,458 --> 00:06:28,750
+[FUJISAKI gasps]
+
+177
+00:06:28,833 --> 00:06:30,833
+They didn't know...
+figured the door was locked...
+
+178
+00:06:30,916 --> 00:06:34,083
+For all intents and purposes,
+to them it was a girl's room...
+
+179
+00:06:34,166 --> 00:06:36,958
+They'd have thought the only
+option was to bust the doorknob.
+
+180
+00:06:37,041 --> 00:06:39,416
+[KIRIGIRI] If Naegi were the
+murderer, he'd've been aware
+
+181
+00:06:39,500 --> 00:06:41,666
+the door doesn't lock and,
+knowing the trick to opening it,
+
+182
+00:06:41,750 --> 00:06:42,791
+simply walked in.
+
+183
+00:06:42,875 --> 00:06:45,166
+[FUKAWA] Makes sense...
+I suppose. Ugh.
+
+184
+00:06:45,250 --> 00:06:47,083
+[murmuring]
+
+185
+00:06:47,166 --> 00:06:48,458
+Whoa, thank you.
+
+186
+00:06:48,541 --> 00:06:50,166
+Don't get too
+comfortable...
+
+187
+00:06:50,250 --> 00:06:51,750
+We're not done yet.
+
+188
+00:06:51,833 --> 00:06:54,666
+[CELESTIA] Let us assume the
+murderer is someone else...
+
+189
+00:06:54,750 --> 00:06:57,083
+Where would they get the
+idea the door was locked?
+
+190
+00:06:57,166 --> 00:06:59,166
+Were they not aware that
+the two had switched rooms?
+
+191
+00:06:59,250 --> 00:07:00,833
+And why be there if they didn't?
+
+192
+00:07:00,916 --> 00:07:02,125
+That's the point...
+
+193
+00:07:02,208 --> 00:07:04,000
+From the evidence, I think
+we can safely assume
+
+194
+00:07:04,083 --> 00:07:07,375
+the killer believed he or she
+was actually in Maizono's room.
+
+195
+00:07:07,458 --> 00:07:08,958
+[FUJISAKI] Let me
+get this straight...
+
+196
+00:07:09,041 --> 00:07:11,750
+You're saying the culprit was
+in the dark about the room swap?
+
+197
+00:07:11,833 --> 00:07:14,333
+[FUKAWA] Please... We were
+all in the dark about it!
+
+198
+00:07:14,416 --> 00:07:16,958
+This ain't exactly narrowing
+our list of suspects!
+
+199
+00:07:17,041 --> 00:07:19,625
+So? Then we put it
+to a majority vote...
+
+200
+00:07:19,708 --> 00:07:21,333
+That could work... Yeah.
+
+201
+00:07:21,416 --> 00:07:23,875
+I mean... we are in
+a bit of a pinch, right?
+
+202
+00:07:23,958 --> 00:07:26,041
+Either we put someone
+on the chopping block
+
+203
+00:07:26,125 --> 00:07:27,375
+or we all get the axe.
+
+204
+00:07:27,458 --> 00:07:30,333
+No need to throw our hands
+in the air, Yasuhiro...
+
+205
+00:07:30,416 --> 00:07:32,083
+The devil is in the details...
+
+206
+00:07:32,166 --> 00:07:33,750
+I urge you all to focus.
+
+207
+00:07:33,833 --> 00:07:35,291
+[ASAHINA] Now that
+I think about it...
+
+208
+00:07:35,375 --> 00:07:37,791
+If Maizono was freaked out
+like Naegi says,
+
+209
+00:07:37,875 --> 00:07:39,625
+how'd the killer get into
+the room to begin with?
+
+210
+00:07:39,708 --> 00:07:41,041
+She wouldn't have let 'em in.
+
+211
+00:07:41,125 --> 00:07:42,708
+[FUJISAKI] Was the lock picked?
+
+212
+00:07:42,791 --> 00:07:44,000
+[ISHIMARU] Not possible.
+
+213
+00:07:44,083 --> 00:07:46,000
+The tumblers are all
+reinforced electronically.
+
+214
+00:07:46,083 --> 00:07:46,916
+Heh-heh!
+
+215
+00:07:47,000 --> 00:07:48,166
+Prepare yourselves
+
+216
+00:07:48,250 --> 00:07:50,083
+for an ingenious bit of
+sleuthing, friends!
+
+217
+00:07:50,166 --> 00:07:52,708
+Contrary to the assumption
+we've been laboring under,
+
+218
+00:07:52,791 --> 00:07:54,708
+I put it to you
+that Maizono indeed
+
+219
+00:07:54,791 --> 00:07:55,791
+let the killer in herself!
+
+220
+00:07:55,875 --> 00:07:56,916
+C'mon, man.
+
+221
+00:07:57,000 --> 00:07:58,458
+[YAMADA] Hmm...?
+
+222
+00:07:58,541 --> 00:08:00,541
+We've been over this; she was
+too scared to open the door.
+
+223
+00:08:00,625 --> 00:08:03,708
+Ah... You certainly have the
+right to your opinion, but...
+
+224
+00:08:03,791 --> 00:08:05,000
+Logic!
+
+225
+00:08:05,083 --> 00:08:07,375
+I'd agree with you,
+except we'd both be wrong!
+
+226
+00:08:07,458 --> 00:08:09,625
+I know what I saw.
+
+227
+00:08:09,708 --> 00:08:13,833
+When she came to me...
+she was practically in tears.
+
+228
+00:08:13,916 --> 00:08:16,041
+[NAEGI] Whatever you do,
+don't open the door.
+
+229
+00:08:16,125 --> 00:08:17,041
+Promise me.
+
+230
+00:08:17,125 --> 00:08:18,375
+[MAIZONO] You got it.
+
+231
+00:08:18,458 --> 00:08:20,125
+That door's staying locked
+even if I know it's you
+
+232
+00:08:20,208 --> 00:08:21,000
+on the other side.
+
+233
+00:08:21,083 --> 00:08:22,333
+Would sorta defeat the purpose
+
+234
+00:08:22,416 --> 00:08:24,000
+of swapping rooms
+otherwise, right?
+
+235
+00:08:24,083 --> 00:08:26,333
+[NAEGI] I don't know about you,
+but I have a pretty hard time
+
+236
+00:08:26,416 --> 00:08:27,583
+believing she'd
+answer the door
+
+237
+00:08:27,666 --> 00:08:29,083
+after saying
+something like that.
+
+238
+00:08:29,166 --> 00:08:30,958
+[KIRIGIRI]
+Perhaps that was the idea...
+
+239
+00:08:31,041 --> 00:08:33,458
+Her terror could
+have been a ruse.
+
+240
+00:08:33,541 --> 00:08:35,458
+[ALL gasp]
+
+241
+00:08:35,541 --> 00:08:36,333
+[NAEGI] No...
+
+242
+00:08:36,416 --> 00:08:38,083
+She wouldn't lie to me!
+
+243
+00:08:38,166 --> 00:08:40,166
+Maizono and I were friends!
+
+244
+00:08:40,250 --> 00:08:41,583
+Yes, I will grant you,
+
+245
+00:08:41,666 --> 00:08:44,125
+it is an unpleasant
+possibility to consider...
+
+246
+00:08:44,208 --> 00:08:46,333
+But, I'm afraid, necessary.
+
+247
+00:08:46,416 --> 00:08:49,291
+[MAIZONO] "There's something I
+want to talk about in private.
+
+248
+00:08:49,375 --> 00:08:52,541
+Please come to my room. Make
+sure to check the nameplate
+
+249
+00:08:52,625 --> 00:08:54,958
+so you don't go to the
+wrong room by mistake.
+
+250
+00:08:55,041 --> 00:08:56,416
+Sayaka Maizono"
+
+251
+00:08:57,833 --> 00:08:59,791
+What's that s'posed to be...?
+
+252
+00:08:59,875 --> 00:09:02,125
+The impression of a
+letter she wrote.
+
+253
+00:09:02,208 --> 00:09:04,875
+I found it on the
+notepad in your room...
+
+254
+00:09:04,958 --> 00:09:06,208
+I'm sorry.
+
+255
+00:09:06,291 --> 00:09:09,250
+Are you trying to say
+it was you who wrote this?
+
+256
+00:09:09,333 --> 00:09:11,458
+No... It wasn't.
+
+257
+00:09:11,541 --> 00:09:14,166
+Of course not...
+I thought as much.
+
+258
+00:09:14,250 --> 00:09:17,708
+As you can see, the
+signature is quite legible.
+
+259
+00:09:17,791 --> 00:09:20,166
+[NAEGI] I don't get it.
+Why would she...?
+
+260
+00:09:20,250 --> 00:09:22,083
+[KIRIGIRI] I think
+she wrote this letter
+
+261
+00:09:22,166 --> 00:09:25,000
+with the intent of luring
+someone to their death.
+
+262
+00:09:25,083 --> 00:09:26,250
+[NAEGI gasps]
+
+263
+00:09:26,333 --> 00:09:27,625
+[YAMADA] Someone would
+have to be dead inside
+
+264
+00:09:27,708 --> 00:09:29,875
+to overlook a personal
+invitation from a teen idol
+
+265
+00:09:29,958 --> 00:09:32,250
+of Maizono's caliber...
+That is...
+
+266
+00:09:32,333 --> 00:09:34,541
+unless they were already
+perfectly satisfied
+
+267
+00:09:34,625 --> 00:09:36,083
+with those of the 2-D variety.
+
+268
+00:09:36,166 --> 00:09:37,333
+Yes, but...
+
+269
+00:09:37,416 --> 00:09:40,208
+The note clearly says
+to come to her room...
+
+270
+00:09:40,291 --> 00:09:42,250
+So there we have
+it then, don't we?
+
+271
+00:09:42,333 --> 00:09:44,125
+She wasn't in her room.
+
+272
+00:09:44,208 --> 00:09:45,666
+[FUJISAKI] Right.
+
+273
+00:09:45,750 --> 00:09:48,625
+Whoever it was would've gone to
+where Naegi was by mistake.
+
+274
+00:09:48,708 --> 00:09:50,958
+[KIRIGIRI] Ah... but they
+wouldn't have, you see.
+
+275
+00:09:51,041 --> 00:09:52,375
+Maizono was clever.
+
+276
+00:09:52,458 --> 00:09:54,125
+[CELESTIA] Really? How so?
+
+277
+00:09:54,208 --> 00:09:56,291
+[KIRIGIRI] After she
+and Naegi switched rooms,
+
+278
+00:09:56,375 --> 00:10:00,000
+she slipped out and
+swapped their nameplates.
+
+279
+00:10:00,083 --> 00:10:03,333
+My notebook missed
+this detail entirely.
+
+280
+00:10:03,416 --> 00:10:06,375
+[FUJISAKI] Then she was luring
+someone into Naegi's room...
+
+281
+00:10:06,458 --> 00:10:08,000
+[TOGAMI] Well,
+if memory serves...
+
+282
+00:10:08,083 --> 00:10:10,333
+I believe the phrase
+tossed out a little earlier
+
+283
+00:10:10,416 --> 00:10:12,083
+was "luring someone
+to their death."
+
+284
+00:10:12,166 --> 00:10:13,708
+Yes... Seems so...
+
+285
+00:10:13,791 --> 00:10:16,250
+And it's the only logical
+conclusion left...
+
+286
+00:10:16,333 --> 00:10:18,750
+Of course, that points the
+finger away from Naegi.
+
+287
+00:10:18,833 --> 00:10:19,875
+Finally...
+
+288
+00:10:19,958 --> 00:10:22,916
+Fine. Whatever...
+So who killed her?
+
+289
+00:10:23,000 --> 00:10:25,625
+Isn't it obvious?
+
+290
+00:10:25,708 --> 00:10:29,958
+Whoever she invited to my room
+turned the tables on her...
+
+291
+00:10:30,041 --> 00:10:31,375
+Got to her first.
+
+292
+00:10:31,458 --> 00:10:32,541
+[gasping]
+
+293
+00:10:32,625 --> 00:10:34,500
+We're actually going
+with this idea
+
+294
+00:10:34,583 --> 00:10:37,416
+that she swapped rooms with
+Naegi to try and off someone?
+
+295
+00:10:37,500 --> 00:10:39,416
+[TOGAMI] Far from
+the worst of gambits...
+
+296
+00:10:39,500 --> 00:10:42,000
+Once the deed was done,
+she'd have an out...
+
+297
+00:10:42,083 --> 00:10:44,041
+She had but to switch
+the nameplates back
+
+298
+00:10:44,125 --> 00:10:45,125
+to pin it on you.
+
+299
+00:10:45,208 --> 00:10:46,416
+She'd never do tha--!
+
+300
+00:10:46,500 --> 00:10:48,041
+[TOGAMI] Oh please... Wake up!
+
+301
+00:10:48,125 --> 00:10:51,583
+What could she have possibly
+been up to if not that?
+
+302
+00:10:51,666 --> 00:10:54,583
+Her fatal misstep, of course,
+was inadvertently giving
+
+303
+00:10:54,666 --> 00:10:58,625
+her prospective victim the
+opportunity to fight back.
+
+304
+00:10:58,708 --> 00:11:00,875
+They got the first strike
+in with that katana!
+
+305
+00:11:00,958 --> 00:11:04,000
+[CELESTIA] No. That was
+used in self-defense.
+
+306
+00:11:04,083 --> 00:11:06,916
+[TOGAMI] Yes, the damage to
+the sheath implies as much...
+
+307
+00:11:07,000 --> 00:11:08,833
+Had things gone
+according to plan...
+
+308
+00:11:08,916 --> 00:11:10,750
+Maizono would be
+standing here now,
+
+309
+00:11:10,833 --> 00:11:12,875
+pointing the finger at Naegi.
+
+310
+00:11:12,958 --> 00:11:15,291
+I trusted her...
+Why would she...
+
+311
+00:11:15,375 --> 00:11:17,041
+[CELESTIA] Why wouldn't she?
+
+312
+00:11:17,125 --> 00:11:19,000
+It was an ironclad
+way out of here
+
+313
+00:11:19,083 --> 00:11:20,541
+was it not?
+
+314
+00:11:20,625 --> 00:11:23,541
+If we omit the fact that it
+was a spectacular failure, yes.
+
+315
+00:11:23,625 --> 00:11:24,458
+Poor fool.
+
+316
+00:11:24,541 --> 00:11:25,875
+Don't talk about
+her like that!
+
+317
+00:11:25,958 --> 00:11:28,833
+Oh, I'm sorry. You have
+a reason to defend her?
+
+318
+00:11:28,916 --> 00:11:29,916
+No! But still--!
+
+319
+00:11:30,000 --> 00:11:31,333
+[KIRIGIRI] Calm down.
+
+320
+00:11:31,416 --> 00:11:33,708
+This isn't the time
+to argue. Focus.
+
+321
+00:11:33,791 --> 00:11:35,083
+Yes, quite right.
+
+322
+00:11:35,166 --> 00:11:37,958
+The murderer is still at large,
+and time is short.
+
+323
+00:11:38,041 --> 00:11:40,916
+Let's get to it, then.
+It's one of us.
+
+324
+00:11:41,000 --> 00:11:43,500
+[HAGAKURE] Well, duh! But
+how the hell do we pick?!
+
+325
+00:11:43,583 --> 00:11:46,708
+Ugh! We're all goners! I know
+it! I'm too young to die!
+
+326
+00:11:46,791 --> 00:11:48,375
+It's not fair!
+
+327
+00:11:48,458 --> 00:11:49,750
+[NAEGI] I gotta think!
+
+328
+00:11:49,833 --> 00:11:51,625
+If we don't figure out
+who killed her,
+
+329
+00:11:51,708 --> 00:11:53,833
+it's the end for all of us!
+
+330
+00:11:53,916 --> 00:11:56,541
+There's got to be something
+we've missed...
+
+331
+00:11:56,625 --> 00:11:59,125
+[LEON] Well... Guess that's
+pretty much it for us...
+
+332
+00:11:59,208 --> 00:12:02,708
+Damn... If only there
+was more to go on, right?
+
+333
+00:12:02,791 --> 00:12:04,750
+We're outta clues.
+
+334
+00:12:04,833 --> 00:12:06,208
+That's where you're wrong!
+
+335
+00:12:08,458 --> 00:12:10,083
+The hell am I missin' then?
+
+336
+00:12:10,166 --> 00:12:13,000
+Something pretty big, actually.
+
+337
+00:12:13,083 --> 00:12:16,541
+She left us a message...
+Not the one on the notepad.
+
+338
+00:12:16,625 --> 00:12:18,625
+Wha... What are you drivin' at?
+
+339
+00:12:18,708 --> 00:12:20,875
+She left a dying message.
+
+340
+00:12:20,958 --> 00:12:23,416
+One scrawled in blood
+on the wall behind her.
+
+341
+00:12:23,500 --> 00:12:25,333
+[HAGAKURE] That's right!
+What did it say?
+
+342
+00:12:25,416 --> 00:12:27,833
+[ASAHINA] You mean that
+random string of numbers?
+
+343
+00:12:27,916 --> 00:12:30,166
+Hey, you're supposed to
+be some kinda crazy genius
+
+344
+00:12:30,250 --> 00:12:31,666
+with numbers, ain'tcha?
+
+345
+00:12:31,750 --> 00:12:34,250
+The one's she left behind mean
+anything special or what?
+
+346
+00:12:34,333 --> 00:12:36,500
+I tried every decryption
+trick in the book...
+
+347
+00:12:36,583 --> 00:12:39,791
+but whatever they're supposed
+to mean, it's not code I know.
+
+348
+00:12:39,875 --> 00:12:41,291
+I'm sorry...
+
+349
+00:12:41,375 --> 00:12:43,208
+[NAEGI] Break it down...
+
+350
+00:12:43,291 --> 00:12:46,291
+When things took a turn,
+Maizono ran for the shower
+
+351
+00:12:46,375 --> 00:12:48,375
+but the killer
+forced his way in...
+
+352
+00:12:48,458 --> 00:12:50,916
+Did he already have the knife?
+
+353
+00:12:51,000 --> 00:12:52,083
+[NAEGI gasps]
+
+354
+00:12:52,166 --> 00:12:53,958
+[NAEGI] That's it! I've got it!
+
+355
+00:12:54,041 --> 00:12:55,958
+[ALL gasp]
+
+356
+00:12:56,041 --> 00:12:58,916
+The message wasn't
+a string of numbers!
+
+357
+00:12:59,000 --> 00:13:00,708
+She wrote out her killer's name!
+
+358
+00:13:00,791 --> 00:13:02,291
+[ALL gasp]
+
+359
+00:13:02,375 --> 00:13:04,958
+[NAEGI] If you flip those marks
+around a hundred-eighty degrees,
+
+360
+00:13:05,041 --> 00:13:07,333
+there you have it,
+plain as day...
+
+361
+00:13:07,416 --> 00:13:10,291
+L-E-O-N.
+
+362
+00:13:10,375 --> 00:13:11,583
+Whad'ya know...
+
+363
+00:13:11,666 --> 00:13:13,750
+That's your name, isn't it?
+
+364
+00:13:13,833 --> 00:13:15,333
+Leon Kuwata.
+
+365
+00:13:15,416 --> 00:13:16,791
+[LEON gasps]
+
+366
+00:13:26,500 --> 00:13:29,541
+So, Leon, if you got
+anything to say...
+
+367
+00:13:29,625 --> 00:13:31,333
+Now's the time.
+
+368
+00:13:31,416 --> 00:13:32,333
+[LEON whimpers]
+
+369
+00:13:32,416 --> 00:13:34,416
+[OHGAMI] Disappointing, Leon.
+
+370
+00:13:34,500 --> 00:13:35,916
+[LEON] Gimme a break!
+
+371
+00:13:36,000 --> 00:13:37,750
+You're not seriously listening
+to this lying little punk!
+
+372
+00:13:37,833 --> 00:13:39,708
+[KIRIGIRI] Maizono
+identified her murderer
+
+373
+00:13:39,791 --> 00:13:41,000
+from beyond the grave...
+
+374
+00:13:41,083 --> 00:13:43,708
+A name written as
+her life ebbed away.
+
+375
+00:13:43,791 --> 00:13:46,208
+Scrawled that way 'cause
+of the angle of her head...
+
+376
+00:13:46,291 --> 00:13:49,000
+Poor girl probably didn't have
+the energy left to hoist herself
+
+377
+00:13:49,083 --> 00:13:50,666
+around the right direction.
+
+378
+00:13:50,750 --> 00:13:52,708
+[LEON] Maybe someone's
+trying to frame me!
+
+379
+00:13:52,791 --> 00:13:54,000
+You think of that?
+
+380
+00:13:54,083 --> 00:13:56,416
+Everything you've got
+is circumstantial!
+
+381
+00:13:56,500 --> 00:13:58,500
+Let's assume you're
+not the perpetrator.
+
+382
+00:13:58,583 --> 00:14:01,375
+Care to explain why you
+tried to destroy evidence?
+
+383
+00:14:01,458 --> 00:14:02,833
+[LEON gasps]
+
+384
+00:14:02,916 --> 00:14:04,750
+[ALL gasp]
+
+385
+00:14:04,833 --> 00:14:06,541
+Somebody explain!
+
+386
+00:14:06,625 --> 00:14:08,125
+Yeah, of course!
+
+387
+00:14:08,208 --> 00:14:10,208
+She means those
+charred pieces of shirt
+
+388
+00:14:10,291 --> 00:14:12,750
+and glass ball fragments we
+found in the garbage room!
+
+389
+00:14:12,833 --> 00:14:15,250
+[YAMADA] Right! I'd
+forgotten all about those!
+
+390
+00:14:15,333 --> 00:14:16,791
+[HAGAKURE] Y'know,
+come to think of it,
+
+391
+00:14:16,875 --> 00:14:19,083
+I haven't seen my
+crystal ball in a while...
+
+392
+00:14:19,166 --> 00:14:20,750
+Think that's what
+happened to it?
+
+393
+00:14:20,833 --> 00:14:22,083
+Well, Naegi...
+
+394
+00:14:22,166 --> 00:14:24,500
+Seems you and I are of
+the same opinion...
+
+395
+00:14:24,583 --> 00:14:25,958
+Puzzle it out yet?
+
+396
+00:14:28,583 --> 00:14:31,083
+[NAEGI] Here's what
+I believe happened...
+
+397
+00:14:31,166 --> 00:14:33,458
+Maizono's killer was
+in over his head...
+
+398
+00:14:33,541 --> 00:14:35,666
+He hadn't planned on
+killing anyone that night;
+
+399
+00:14:35,750 --> 00:14:37,875
+the evidence had to
+be dealt with fast...
+
+400
+00:14:37,958 --> 00:14:40,750
+Unfortunately, the garbage
+room was on lock down.
+
+401
+00:14:40,833 --> 00:14:43,958
+This is where Hagakure's
+missing glass ball comes in.
+
+402
+00:14:44,041 --> 00:14:46,333
+Activating the incinerator
+from the other side
+
+403
+00:14:46,416 --> 00:14:49,125
+of the gate would be near
+impossible for almost anyone.
+
+404
+00:14:49,208 --> 00:14:51,750
+But our culprit had mad skills.
+
+405
+00:14:51,833 --> 00:14:57,125
+Specifically, Super High School
+Level Baseball Player skills.
+
+406
+00:14:57,208 --> 00:14:59,833
+All finished, our perp
+figured he could chill,
+
+407
+00:14:59,916 --> 00:15:02,625
+walk back to his room like
+nothing had happened...
+
+408
+00:15:02,708 --> 00:15:05,541
+That, as it turns out,
+was his big mistake...
+
+409
+00:15:05,625 --> 00:15:08,000
+A scrap of the burning
+bloodstained shirt sleeve
+
+410
+00:15:08,083 --> 00:15:10,791
+fell out... Gotcha.
+Hard evidence...
+
+411
+00:15:10,875 --> 00:15:13,250
+He thought he'd improvised
+the perfect crime,
+
+412
+00:15:13,333 --> 00:15:16,375
+when in fact he'd left a trail
+leading us right to him.
+
+413
+00:15:19,125 --> 00:15:22,166
+Deny if you want,
+that's how it went.
+
+414
+00:15:28,500 --> 00:15:31,583
+You stand accused.
+Now'd be the time to object.
+
+415
+00:15:31,666 --> 00:15:35,750
+[LEON] Object? Hah. Yeah...
+Let me think about that.
+
+416
+00:15:35,833 --> 00:15:39,083
+You're damn right I object!
+This is all a buncha BS!
+
+417
+00:15:39,166 --> 00:15:42,875
+Oh-ho ho ho, hell to the no!
+Think I'm takin' the wrap?!
+
+418
+00:15:42,958 --> 00:15:45,083
+You're the only one here
+with the athletic chops
+
+419
+00:15:45,166 --> 00:15:47,208
+to throw Hagakure's
+glass ball far enough
+
+420
+00:15:47,291 --> 00:15:48,958
+and hard enough to
+hit the incinerator switch
+
+421
+00:15:49,041 --> 00:15:50,166
+and you know it!
+
+422
+00:15:50,250 --> 00:15:52,416
+[LEON] Yeah! Nice
+try, but screw you!
+
+423
+00:15:52,500 --> 00:15:54,875
+What about Yamada?!
+He's on trash detail!
+
+424
+00:15:54,958 --> 00:15:56,416
+He could've unlocked the gate!
+
+425
+00:15:56,500 --> 00:15:58,958
+Which is exactly why he wouldn't
+have needed to use the ball;
+
+426
+00:15:59,041 --> 00:16:00,958
+he would've just used his
+access key and walked off
+
+427
+00:16:01,041 --> 00:16:02,458
+without any of us having a clue.
+
+428
+00:16:02,541 --> 00:16:05,958
+Ha-ha! Yeah, big man, tryin'
+to trick me into fessin' up!
+
+429
+00:16:06,041 --> 00:16:08,916
+Well, like I said,
+it's all circumstantial!
+
+430
+00:16:09,000 --> 00:16:12,291
+Maybe. But there's still one
+vital piece of evidence
+
+431
+00:16:12,375 --> 00:16:13,541
+that points directly at you.
+
+432
+00:16:13,625 --> 00:16:15,583
+What, you gonna make
+somethin' up now?!
+
+433
+00:16:15,666 --> 00:16:17,291
+The bathroom... The doorknob...
+
+434
+00:16:17,375 --> 00:16:18,708
+The screws were removed.
+
+435
+00:16:18,791 --> 00:16:20,750
+Who gives a flyin' rat's ass?!
+
+436
+00:16:20,833 --> 00:16:22,666
+[NAEGI] How exactly do
+you think the murderer
+
+437
+00:16:22,750 --> 00:16:24,333
+removed those screws, huh?
+
+438
+00:16:24,416 --> 00:16:26,333
+[LEON] Whatever you're
+drivin' at, jerkwad,
+
+439
+00:16:26,416 --> 00:16:28,500
+you are barking up
+the wrong tree!
+
+440
+00:16:28,583 --> 00:16:30,916
+[NAEGI] Well if what I'm
+driving at is on the money...
+
+441
+00:16:31,000 --> 00:16:33,291
+There'll be proof
+in your toolkit.
+
+442
+00:16:33,375 --> 00:16:35,250
+How 'bout you give us a look?
+
+443
+00:16:35,333 --> 00:16:37,750
+[LEON] Never-never-never-never
+never-never-never-never!
+
+444
+00:16:37,833 --> 00:16:39,708
+This is a sham!
+I'm warning you, dude!
+
+445
+00:16:39,791 --> 00:16:41,291
+Back off!
+
+446
+00:16:41,375 --> 00:16:44,833
+[NAEGI] You're guilty,
+Leon Kuwata!
+
+447
+00:16:44,916 --> 00:16:47,666
+I demand you show us
+what's inside your toolkit!
+
+448
+00:16:53,291 --> 00:16:55,375
+Come on. What's the big deal?
+
+449
+00:16:55,458 --> 00:16:57,166
+What have you got to hide?
+
+450
+00:16:59,500 --> 00:17:02,500
+Bear in mind, if it's been
+used, prepare to explain...
+
+451
+00:17:02,583 --> 00:17:05,583
+In minute detail and 'til every
+last one of us is satisfied.
+
+452
+00:17:05,666 --> 00:17:07,250
+And under the circumstances...
+
+453
+00:17:07,333 --> 00:17:10,208
+Not knowing is not
+going to be acceptable.
+
+454
+00:17:10,291 --> 00:17:14,416
+[LEON stutters]
+
+455
+00:17:18,791 --> 00:17:22,291
+Predictable... He has nothing
+to say in his defense.
+
+456
+00:17:24,416 --> 00:17:26,166
+I'm sorry, man.
+
+457
+00:17:26,250 --> 00:17:27,750
+[MONOKUMA laughs]
+
+458
+00:17:27,833 --> 00:17:30,416
+[MONOKUMA] I'd say you kids have
+hashed this one out nicely...
+
+459
+00:17:30,500 --> 00:17:33,916
+Major kudos! Let's
+move on to Voting Time!
+
+460
+00:17:34,000 --> 00:17:36,958
+Kindly lock in your votes
+by pressing the switches
+
+461
+00:17:37,041 --> 00:17:39,041
+there in front of you.
+
+462
+00:17:39,125 --> 00:17:43,708
+Who's the guilty so-and-so? Feel
+good about your final choice?
+
+463
+00:17:43,791 --> 00:17:45,375
+And the award goes to...
+
+464
+00:17:48,000 --> 00:17:52,125
+[drum roll]
+
+465
+00:17:52,208 --> 00:17:56,125
+[machine whistles]
+
+466
+00:17:57,625 --> 00:17:58,958
+[MONOKUMA] Correct!
+
+467
+00:17:59,041 --> 00:18:00,541
+Well done, peeps!
+
+468
+00:18:00,625 --> 00:18:03,666
+Sayaka Maizono's
+murderer was indeed...
+
+469
+00:18:03,750 --> 00:18:05,791
+Leon Kuwata!
+
+470
+00:18:05,875 --> 00:18:07,250
+I...
+
+471
+00:18:09,125 --> 00:18:10,250
+[ASAHINA] Oh wow...
+
+472
+00:18:10,333 --> 00:18:13,625
+You dumbass! What the
+hell got into you?!
+
+473
+00:18:13,708 --> 00:18:15,250
+[LEON] I didn't want to...
+
+474
+00:18:15,333 --> 00:18:16,666
+She was...
+
+475
+00:18:16,750 --> 00:18:19,750
+I mean, she was tryin'
+to kill me, right?
+
+476
+00:18:19,833 --> 00:18:20,958
+I just...
+
+477
+00:18:21,041 --> 00:18:23,083
+I didn't know what
+else to do, okay?
+
+478
+00:18:23,166 --> 00:18:24,708
+What if she'd gone after you?!
+
+479
+00:18:24,791 --> 00:18:27,416
+You'd all'a done the
+same thing in my shoes!
+
+480
+00:18:27,500 --> 00:18:30,625
+[LEON sobs]
+
+481
+00:18:30,708 --> 00:18:32,416
+[MONOKUMA] Right,
+so there you have it!
+
+482
+00:18:32,500 --> 00:18:35,916
+Excellent job dispensing tough
+justice; and I mean that...
+
+483
+00:18:36,000 --> 00:18:39,416
+Moving on now to
+the punishment phase!
+
+484
+00:18:39,500 --> 00:18:41,666
+No! I didn't have a choice!
+
+485
+00:18:41,750 --> 00:18:44,708
+The crazy skank was gonna kill
+me, what was I s'posed to do?!
+
+486
+00:18:44,791 --> 00:18:45,458
+Come on, guys...
+
+487
+00:18:45,541 --> 00:18:47,916
+I acted in self-defense!
+
+488
+00:18:48,000 --> 00:18:50,958
+Special circumstances!
+I-I'm not really a murderer!
+
+489
+00:18:51,041 --> 00:18:52,166
+[MONOKUMA] Yes, yes.
+
+490
+00:18:52,250 --> 00:18:54,291
+I'm sure we're all
+relieved to hear that.
+
+491
+00:18:54,375 --> 00:18:56,750
+But rules are rules;
+too bad, so sad.
+
+492
+00:18:56,833 --> 00:18:58,500
+No, wait! It's not right!
+
+493
+00:18:58,583 --> 00:19:01,791
+[MONOKUMA] "Right"?! Right don't
+enter into it, sweetheart.
+
+494
+00:19:01,875 --> 00:19:06,083
+You killed and got caught.
+Which means you die.
+
+495
+00:19:06,166 --> 00:19:09,416
+[LEON] Nuh... no...! No!
+
+496
+00:19:09,500 --> 00:19:10,791
+Get me out of this place!
+
+497
+00:19:10,875 --> 00:19:12,541
+[MONOKUMA] For all-star
+athlete Leon Kuwata,
+
+498
+00:19:12,625 --> 00:19:15,333
+whose talents behind the plate
+certainly held more promise
+
+499
+00:19:15,416 --> 00:19:16,875
+than his career as
+a lady killer,
+
+500
+00:19:16,958 --> 00:19:19,708
+I've come up with a very
+special method of execution...
+
+501
+00:19:19,791 --> 00:19:22,041
+Play ball!
+
+502
+00:19:22,125 --> 00:19:25,625
+Nooooo!
+
+503
+00:21:03,666 --> 00:21:04,875
+[MONOKUMA] Ha-ha!
+
+504
+00:21:04,958 --> 00:21:07,625
+Now that's what I call extreme!
+
+505
+00:21:07,708 --> 00:21:11,458
+I feel the adrenaline coursing
+through me like lightning!
+
+506
+00:21:12,500 --> 00:21:14,000
+[whimpering]
+
+507
+00:21:14,083 --> 00:21:16,750
+[FUKAWA] What is going on here?
+Someone wake me up, pleeease!
+
+508
+00:21:16,833 --> 00:21:20,166
+[FUJISAKI] I-I... I just...
+I can't take this.
+
+509
+00:21:20,250 --> 00:21:23,250
+[MONOKUMA] Now, now. It's not
+so bad, once you get used to it.
+
+510
+00:21:23,333 --> 00:21:25,666
+Abandon all hope of seeing
+the light of day again,
+
+511
+00:21:25,750 --> 00:21:27,750
+and you'll be fine. Promise...
+
+512
+00:21:27,833 --> 00:21:30,791
+'Course, now that I hear myself
+say it out loud,
+
+513
+00:21:30,875 --> 00:21:32,583
+it does sound pretty cruel...
+
+514
+00:21:34,125 --> 00:21:38,125
+[MONOKUMA] There, there, Naegi.
+It's all right. I know.
+
+515
+00:21:38,208 --> 00:21:40,833
+[NAEGI] Know what?
+What are you talking about?
+
+516
+00:21:40,916 --> 00:21:44,166
+[MONOKUMA] Don't be like that.
+Maizono sold you up the river.
+
+517
+00:21:44,250 --> 00:21:45,625
+You're hurtin', it's fine.
+
+518
+00:21:45,708 --> 00:21:47,916
+[NAEGI] Screw you!
+
+519
+00:21:48,000 --> 00:21:49,333
+You did this...
+
+520
+00:21:49,416 --> 00:21:52,583
+It was all your fault
+from beginning to end!
+
+521
+00:21:52,666 --> 00:21:54,916
+Don't, Naegi... Don't lose it...
+
+522
+00:21:55,000 --> 00:21:56,833
+Think about this; you will never
+avenge her
+
+523
+00:21:56,916 --> 00:21:58,291
+if you get killed too.
+
+524
+00:21:59,583 --> 00:22:00,958
+Damn it!
+
+525
+00:22:02,708 --> 00:22:04,083
+[NAEGI] Damn it all...
+
+526
+00:22:06,458 --> 00:22:09,041
+[doorbell rings]
+
+527
+00:22:14,250 --> 00:22:16,958
+[KIRIGIRI] I know now's
+probably not the best time,
+
+528
+00:22:17,041 --> 00:22:18,666
+but I need to talk with you.
+
+529
+00:22:18,750 --> 00:22:21,625
+[NAEGI] It's about her,
+isn't it? Maizono...
+
+530
+00:22:21,708 --> 00:22:23,083
+[KIRIGIRI] Yeah.
+
+531
+00:22:25,416 --> 00:22:26,541
+I'll be frank.
+
+532
+00:22:26,625 --> 00:22:29,041
+It may be undeniable
+that Maizono meant to
+
+533
+00:22:29,125 --> 00:22:30,583
+frame you for murder...
+
+534
+00:22:30,666 --> 00:22:33,166
+The facts paint too
+clear a picture...
+
+535
+00:22:33,250 --> 00:22:34,416
+That said...
+
+536
+00:22:34,500 --> 00:22:38,416
+What do you imagine
+her dying thoughts were?
+
+537
+00:22:38,500 --> 00:22:41,166
+[NAEGI] How the hell
+should I know?
+
+538
+00:22:41,250 --> 00:22:42,958
+Naegi, I'm serious...
+
+539
+00:22:43,041 --> 00:22:45,416
+You knew her well
+enough to speculate...
+
+540
+00:22:45,500 --> 00:22:47,625
+Personally, I believe
+her last thoughts
+
+541
+00:22:47,708 --> 00:22:49,166
+were of how to save you.
+
+542
+00:22:49,250 --> 00:22:52,000
+I think we can surmise that's
+what she wanted in the end.
+
+543
+00:22:52,083 --> 00:22:53,333
+[NAEGI gasps]
+
+544
+00:22:53,416 --> 00:22:55,208
+[KIRIGIRI] Why else leave
+the message, correct?
+
+545
+00:22:55,291 --> 00:22:57,958
+She certainly didn't have to.
+
+546
+00:22:58,041 --> 00:22:59,416
+Yeah, nice try...
+
+547
+00:22:59,500 --> 00:23:01,875
+I wish I could believe that,
+but all she really wanted
+
+548
+00:23:01,958 --> 00:23:04,291
+was to make sure Leon
+paid for killing her.
+
+549
+00:23:04,375 --> 00:23:06,750
+[KIRIGIRI] I beg to differ.
+
+550
+00:23:06,833 --> 00:23:08,125
+In fact...
+
+551
+00:23:08,208 --> 00:23:10,416
+She never meant to hurt you.
+
+552
+00:23:10,500 --> 00:23:12,375
+She wasn't a killer.
+
+553
+00:23:12,458 --> 00:23:14,916
+Nor was she comfortable
+with deceiving you.
+
+554
+00:23:16,791 --> 00:23:19,791
+Sadly, she hesitated when
+she ought to have been bold
+
+555
+00:23:19,875 --> 00:23:21,208
+and wound up dead...
+
+556
+00:23:21,291 --> 00:23:23,458
+Rather a high price to pay.
+
+557
+00:23:23,541 --> 00:23:26,750
+[NAEGI] So... Why are
+you telling me this?
+
+558
+00:23:26,833 --> 00:23:28,250
+Because I think
+you're strong...
+
+559
+00:23:28,333 --> 00:23:30,916
+You can push through
+this intact.
+
+560
+00:23:31,000 --> 00:23:34,541
+Resilience is a rare quality
+in people; I sense it in you.
+
+561
+00:23:36,166 --> 00:23:37,458
+[KIRIGIRI] Of course,
+there's always the chance
+
+562
+00:23:37,541 --> 00:23:39,083
+I'm reading too
+much into things.
+
+563
+00:23:39,166 --> 00:23:41,166
+But for your sake,
+I hope I'm not.
+
+564
+00:23:41,250 --> 00:23:44,125
+Y'expect me to just "push
+through" the death of a friend?
+
+565
+00:23:44,208 --> 00:23:47,083
+If that's what you're talking
+about, then I'm not your guy.
+
+566
+00:23:48,291 --> 00:23:51,625
+[NAEGI] When someone I care
+about dies, I don't move on.
+
+567
+00:23:51,708 --> 00:23:53,875
+I carry it with me...
+
+568
+00:23:53,958 --> 00:23:55,166
+Forever...
+
+569
+00:23:55,250 --> 00:23:57,458
+It's who I am...
+
+570
+00:23:57,541 --> 00:23:59,916
+Maizono and Kuwata's deaths...
+
+571
+00:24:00,000 --> 00:24:02,333
+I'm not sweepin'
+'em under the rug.
+
+572
+00:24:02,416 --> 00:24:04,916
+I'm not the type
+who just forgets.
+
+573
+00:24:05,000 --> 00:24:07,916
+If I get out of here,
+I'll still be haunted by 'em!
+
+574
+00:24:08,000 --> 00:24:10,125
+I'll always look back!
+
+575
+00:24:10,208 --> 00:24:11,500
+How noble...
+
+576
+00:24:11,583 --> 00:24:14,333
+A difficult path, but noble...
+
+577
+00:24:14,416 --> 00:24:15,125
+Still, though...
+
+578
+00:24:15,208 --> 00:24:16,833
+I have hope.
+
+579
+00:24:18,416 --> 00:24:21,583
+So... While I'm here, and
+it may be silly to ask...
+
+580
+00:24:21,666 --> 00:24:24,416
+What precisely keyed you in to
+the fact that I'd popped by
+
+581
+00:24:24,500 --> 00:24:26,500
+to speak with you about Maizono?
+
+582
+00:24:26,583 --> 00:24:28,708
+[NAEGI] Oh, I can
+read your mind.
+
+583
+00:24:28,791 --> 00:24:30,500
+[KIRIGIRI gasps]
+
+584
+00:24:30,583 --> 00:24:31,791
+[NAEGI] Kidding...
+
+585
+00:24:31,875 --> 00:24:33,250
+Intuition.
+

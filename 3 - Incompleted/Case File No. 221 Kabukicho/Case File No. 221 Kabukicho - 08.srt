@@ -1,0 +1,2122 @@
+﻿1
+00:00:12,387 --> 00:00:14,264
+[SHERLOCK]
+Now, what's the password?
+
+2
+00:00:15,516 --> 00:00:17,476
+You were never trying
+to blackmail Moran,
+
+3
+00:00:17,518 --> 00:00:19,686
+and Mycroft knew it.
+
+4
+00:00:19,728 --> 00:00:22,314
+You're not interested
+in money at all.
+
+5
+00:00:22,356 --> 00:00:24,858
+What you want is
+the contents of the drive.
+
+6
+00:00:26,818 --> 00:00:28,654
+[gasping]
+
+7
+00:00:28,695 --> 00:00:29,780
+Nicely done.
+
+8
+00:00:29,821 --> 00:00:31,782
+Wait. You're saying he's right?
+
+9
+00:00:31,823 --> 00:00:33,283
+There's no reason
+for her to get caught up
+
+10
+00:00:33,325 --> 00:00:34,618
+in a blackmail scheme.
+
+11
+00:00:34,660 --> 00:00:37,955
+She would have been swimming
+in sex doll money in a few days.
+
+12
+00:00:37,996 --> 00:00:39,456
+Password.
+
+13
+00:00:39,498 --> 00:00:42,501
+If I knew it, we wouldn't
+be talking right now.
+
+14
+00:00:42,543 --> 00:00:44,378
+The plan was to get
+the drive out of Japan
+
+15
+00:00:44,419 --> 00:00:47,464
+far beyond Moran's reach.
+
+16
+00:00:47,506 --> 00:00:49,216
+Why go to all that trouble?
+
+17
+00:00:54,471 --> 00:00:57,015
+Well. Have fun trying
+to crack your egg.
+
+18
+00:01:00,310 --> 00:01:02,521
+[NEWSCASTER 8A] Six months
+later, the question remains.
+
+19
+00:01:02,563 --> 00:01:03,981
+Where is Jack the Ripper?
+
+20
+00:01:04,022 --> 00:01:05,857
+Though there have been no
+new murders tied to Jack since
+
+21
+00:01:05,899 --> 00:01:07,693
+the death of
+Mayor Moran's daughter,
+
+22
+00:01:07,734 --> 00:01:10,779
+the killer is still at large,
+his true identity unknown.
+
+23
+00:01:10,821 --> 00:01:12,698
+[MORAN] My highest
+priority now is to bring
+
+24
+00:01:12,739 --> 00:01:13,699
+my daughters...
+
+25
+00:01:13,740 --> 00:01:16,285
+Now, with the murderer
+still on the loose,
+
+26
+00:01:16,326 --> 00:01:18,370
+the current lull in violence
+brings no comfort to
+
+27
+00:01:18,412 --> 00:01:20,163
+the grieving families
+of his victims,
+
+28
+00:01:20,205 --> 00:01:22,958
+and the people of
+Shinjuku can't yet re‐‐
+
+29
+00:01:24,668 --> 00:01:29,673
+[KOBAYASHI whistling]
+
+30
+00:01:30,799 --> 00:01:31,925
+[KOBAYASHI grunts]
+
+31
+00:01:31,967 --> 00:01:33,427
+Sorry, kid.
+
+32
+00:01:33,468 --> 00:01:35,762
+There's something I was
+not expecting to see.
+
+33
+00:01:37,723 --> 00:01:39,808
+[SHERLOCK]
+Hmm?
+
+34
+00:01:39,850 --> 00:01:40,851
+[PIPE purring]
+
+35
+00:01:40,892 --> 00:01:43,395
+[WATSON]
+Ms. Adler?
+
+36
+00:01:43,437 --> 00:01:44,730
+[IRENE]
+Huh?
+
+37
+00:03:19,324 --> 00:03:21,451
+[WATSON gasps]
+
+38
+00:03:21,493 --> 00:03:22,703
+Why are you here?
+
+39
+00:03:22,744 --> 00:03:24,705
+[IRENE] And what business
+is that of yours, exactly?
+
+40
+00:03:24,746 --> 00:03:27,457
+It's fine! She's lending us
+a hand with the bar for a while.
+
+41
+00:03:27,499 --> 00:03:29,209
+‐‐What for?
+‐‐[HUDSON yelps]
+
+42
+00:03:29,251 --> 00:03:30,502
+[KOBAYASHI]
+Well, the Missus has been having
+
+43
+00:03:30,544 --> 00:03:32,462
+some back pain issues lately.
+
+44
+00:03:32,504 --> 00:03:34,798
+But this angel‐‐she rented
+a room nearby so
+
+45
+00:03:34,840 --> 00:03:39,261
+she could help out!
+Aww, what a sweetheart, right?
+
+46
+00:03:39,302 --> 00:03:42,305
+Clean the bathrooms.
+Please, dear?
+
+47
+00:03:42,347 --> 00:03:43,598
+[KOBAYASHI]
+Right away, ma'am!
+
+48
+00:03:43,640 --> 00:03:45,726
+[whimpers]
+
+49
+00:03:45,767 --> 00:03:47,978
+[FUYUTO] Beer taps
+are clean, spic and span.
+
+50
+00:03:48,019 --> 00:03:49,312
+So now that that's done.
+
+51
+00:03:49,354 --> 00:03:51,231
+Is there somebody you could
+talk to about getting me
+
+52
+00:03:51,273 --> 00:03:52,482
+those papers to
+move to the West‐‐
+
+53
+00:03:52,524 --> 00:03:54,025
+Would you mind cleaning
+under the sink, please?
+
+54
+00:03:54,067 --> 00:03:55,527
+[FUYUTO]
+Consider it done!
+
+55
+00:03:55,569 --> 00:03:57,195
+Ugh. She's trained
+you like dogs.
+
+56
+00:03:57,237 --> 00:03:58,739
+[MORIARTY]
+Hi, guys.
+
+57
+00:04:03,535 --> 00:04:04,786
+Hey. How's it been?
+
+58
+00:04:04,828 --> 00:04:06,079
+All good.
+
+59
+00:04:06,121 --> 00:04:08,790
+My! What a handsome boy!
+
+60
+00:04:08,832 --> 00:04:11,084
+Fun! Just what this place needs!
+
+61
+00:04:11,126 --> 00:04:12,836
+A middle‐aged woman.
+
+62
+00:04:14,212 --> 00:04:16,673
+[FUYUTO] Ah! Thanks for
+coming through for me!
+
+63
+00:04:16,715 --> 00:04:20,343
+‐‐Have at.
+‐‐Huzzah!
+
+64
+00:04:20,385 --> 00:04:21,720
+Ah‐ha‐ha!
+
+65
+00:04:21,762 --> 00:04:23,346
+How long can I keep it?
+
+66
+00:04:23,388 --> 00:04:25,223
+‐‐Consider it yours, friend.
+‐‐Thank you!
+
+67
+00:04:25,265 --> 00:04:26,308
+[WATSON]
+You're already leaving?
+
+68
+00:04:26,349 --> 00:04:27,851
+[MORIARTY]
+Yep.
+
+69
+00:04:27,893 --> 00:04:29,227
+Hmm?
+
+70
+00:04:32,314 --> 00:04:33,648
+Huh?
+
+71
+00:04:35,650 --> 00:04:36,902
+[WATSON]
+Mrs. Hudson?
+
+72
+00:04:36,943 --> 00:04:38,570
+Is your back still hurting?
+
+73
+00:04:38,612 --> 00:04:41,031
+[HUDSON] Oh, don't
+trouble yourself over me.
+
+74
+00:04:41,072 --> 00:04:43,033
+It's that time of month is all.
+
+75
+00:04:43,074 --> 00:04:46,578
+I'm fine, darlings, get started.
+Oh, my god...
+
+76
+00:04:46,620 --> 00:04:48,663
+My name is Yui Shirota.
+
+77
+00:04:48,705 --> 00:04:50,040
+My ex‐husband...
+
+78
+00:04:50,081 --> 00:04:53,335
+He wants‐‐to steal my daughter.
+
+79
+00:04:53,376 --> 00:04:55,754
+He's trying to get
+full custody of Emiri.
+
+80
+00:04:55,796 --> 00:04:56,838
+[giggles]
+
+81
+00:04:56,880 --> 00:04:59,466
+But it's strange.
+He‐He didn't want kids.
+
+82
+00:04:59,508 --> 00:05:02,552
+He left me as soon as
+he learned I was pregnant.
+
+83
+00:05:02,594 --> 00:05:04,596
+I've raised Emiri by myself.
+
+84
+00:05:04,638 --> 00:05:08,016
+We've never had much, but we've
+always been happy together.
+
+85
+00:05:09,518 --> 00:05:11,186
+[YUI]
+Then, last week,
+
+86
+00:05:11,228 --> 00:05:15,440
+he called me out of nowhere and
+told me he wanted to take Emiri.
+
+87
+00:05:15,482 --> 00:05:19,277
+We never filed for divorce,
+so legally, we're still married.
+
+88
+00:05:20,529 --> 00:05:22,197
+But why now?
+
+89
+00:05:22,239 --> 00:05:24,908
+[YUI] I don't know.
+Of course, I refused.
+
+90
+00:05:26,827 --> 00:05:29,913
+And then he threatened
+to reveal my secret.
+
+91
+00:05:29,955 --> 00:05:31,790
+Which would be...?
+
+92
+00:05:31,832 --> 00:05:34,501
+[YUI] I've never had a
+very strong constitution.
+
+93
+00:05:34,543 --> 00:05:36,545
+One time last year,
+the stress caught up with me
+
+94
+00:05:36,586 --> 00:05:38,672
+and I collapsed.
+
+95
+00:05:38,713 --> 00:05:40,549
+After they treated
+me at the hospital,
+
+96
+00:05:40,590 --> 00:05:42,676
+the doctor told me that my
+condition might make it
+
+97
+00:05:42,717 --> 00:05:44,553
+difficult to raise a child.
+
+98
+00:05:44,594 --> 00:05:48,557
+But I couldn't imagine giving up
+my only daughter for anything.
+
+99
+00:05:48,598 --> 00:05:51,852
+So I paid him to keep it quiet.
+
+100
+00:05:51,893 --> 00:05:55,355
+Then I received this
+from my ex‐husband.
+
+101
+00:05:55,397 --> 00:05:58,608
+The medical chart
+from my hospital stay.
+
+102
+00:05:58,650 --> 00:06:01,319
+If I don't give him Emiri,
+he'll sue for custody using
+
+103
+00:06:01,361 --> 00:06:04,281
+my diagnosis as
+evidence against me.
+
+104
+00:06:04,322 --> 00:06:06,199
+[MICHEL] So you're going to
+need one of us to track down
+
+105
+00:06:06,241 --> 00:06:07,659
+your original medical chart.
+
+106
+00:06:07,701 --> 00:06:10,453
+Yes. I want you
+to steal it for me.
+
+107
+00:06:10,495 --> 00:06:11,872
+So that's the job.
+
+108
+00:06:11,913 --> 00:06:15,542
+It's an S‐rank with no bonus
+and a 1,000,000 reward.
+
+109
+00:06:15,584 --> 00:06:16,501
+[GROUP grunts]
+
+110
+00:06:16,543 --> 00:06:19,379
+I've got business
+to attend to. Pass on this one.
+
+111
+00:06:19,421 --> 00:06:22,215
+Hah! Jerkin'
+it isn't "business."
+
+112
+00:06:22,257 --> 00:06:24,801
+So. What can you
+tell us about your ex?
+
+113
+00:06:24,843 --> 00:06:26,094
+His name is Milverton.
+
+114
+00:06:26,136 --> 00:06:27,470
+Here's a picture.
+
+115
+00:06:27,512 --> 00:06:29,723
+He used to be a writer
+for a weekly paper,
+
+116
+00:06:29,764 --> 00:06:32,392
+but when I called them,
+they said he had retired.
+
+117
+00:06:33,852 --> 00:06:35,395
+[YUI] One of his former
+colleagues told me that
+
+118
+00:06:35,437 --> 00:06:38,607
+I would probably find him
+working somewhere in Kabukicho,
+
+119
+00:06:38,648 --> 00:06:41,151
+but that's all the information
+they had, so I have no idea
+
+120
+00:06:41,192 --> 00:06:42,527
+‐‐where to start.
+‐‐Yeah?
+
+121
+00:06:42,569 --> 00:06:44,571
+Then you've come to
+the right place, miss!
+
+122
+00:06:44,613 --> 00:06:46,698
+When it comes to
+finding people in Kabukicho,
+
+123
+00:06:46,740 --> 00:06:49,159
+everyone in this row
+house is an expert.
+
+124
+00:06:49,200 --> 00:06:51,620
+[HUDSON] Sure, but I've
+never even seen the guy.
+
+125
+00:06:53,747 --> 00:06:55,040
+What do you think?
+
+126
+00:06:55,081 --> 00:06:56,958
+I'm out. Not worth it.
+
+127
+00:06:57,000 --> 00:06:58,585
+Well, I'd like to help.
+
+128
+00:06:58,627 --> 00:06:59,669
+Ah?
+
+129
+00:06:59,711 --> 00:07:02,672
+[GROUP]
+Hmm?
+
+130
+00:07:02,714 --> 00:07:06,009
+That's fine. After all, Sherlock
+won't be needing his pager.
+
+131
+00:07:06,051 --> 00:07:07,010
+Augh!
+
+132
+00:07:07,052 --> 00:07:09,346
+Which means, we're partners now.
+
+133
+00:07:09,387 --> 00:07:11,514
+Let's get to it,
+Johnwa Kobayashi.
+
+134
+00:07:11,556 --> 00:07:14,351
+‐‐Stop!
+‐‐Um... I'm Kobayashi.
+
+135
+00:07:14,392 --> 00:07:17,646
+[HUDSON] After the sun has set
+upon the rest of the world.
+
+136
+00:07:17,687 --> 00:07:20,899
+Our little town of Kabukicho
+lights up in neon.
+
+137
+00:07:20,941 --> 00:07:23,485
+If gold and silver are
+what you're after,
+
+138
+00:07:23,526 --> 00:07:26,947
+steal back the secret that
+would tear this family apart.
+
+139
+00:07:26,988 --> 00:07:29,699
+A light gleams in these
+detectives' eyes.
+
+140
+00:07:29,741 --> 00:07:32,744
+This is a haven for
+outcasts and oddballs.
+
+141
+00:07:32,786 --> 00:07:34,245
+And you're
+the reason they call it
+
+142
+00:07:34,287 --> 00:07:36,289
+"the Detectives' Row House."
+
+143
+00:07:36,331 --> 00:07:38,583
+Mwah!
+
+144
+00:07:38,625 --> 00:07:40,377
+A cool million goes
+to the one who finds
+
+145
+00:07:40,418 --> 00:07:42,212
+Yu‐Yu's medical chart.
+
+146
+00:07:42,253 --> 00:07:43,630
+Ready...
+
+147
+00:07:43,672 --> 00:07:44,923
+Go!
+
+148
+00:07:48,385 --> 00:07:49,344
+[YUI gasps]
+
+149
+00:07:49,386 --> 00:07:50,971
+‐‐[HUDSON] Are you all right?
+‐‐[SHERLOCK] Hmm?
+
+150
+00:07:51,012 --> 00:07:53,932
+[HUDSON] Hold on, darling,
+your face is a bit flushed.
+
+151
+00:07:53,974 --> 00:07:56,351
+Oh, no! You're burning up!
+
+152
+00:07:56,393 --> 00:07:58,103
+To the hospital!
+
+153
+00:07:58,144 --> 00:08:00,480
+Sherlock, hold down
+the fort, sweetie!
+
+154
+00:08:00,522 --> 00:08:01,648
+[SHERLOCK]
+Wha‐‐
+
+155
+00:08:03,149 --> 00:08:05,276
+[EMIRI]
+Huh...
+
+156
+00:08:05,318 --> 00:08:06,528
+[SHERLOCK whimpers]
+
+157
+00:08:24,379 --> 00:08:25,755
+[stomach growling]
+
+158
+00:08:27,173 --> 00:08:29,509
+[stomach growling]
+
+159
+00:08:32,137 --> 00:08:33,471
+[SHERLOCK groans]
+
+160
+00:08:35,140 --> 00:08:36,141
+[EMIRI giggle]
+
+161
+00:08:39,519 --> 00:08:40,937
+‐‐[EMIRI] Ew!
+‐‐[SHERLOCK groans]
+
+162
+00:08:45,316 --> 00:08:47,694
+[WATSON] What are we doing
+in a Mahjong parlor?
+
+163
+00:08:48,862 --> 00:08:50,572
+If the man's in Kabukicho,
+
+164
+00:08:50,613 --> 00:08:53,783
+and the Missus doesn't know him,
+then we'll have to dig deep.
+
+165
+00:08:55,410 --> 00:08:57,245
+[IRENE]
+There he is.
+
+166
+00:08:57,287 --> 00:08:59,456
+‐‐[WATSON] Who's that?
+‐‐[IRENE] Tony Shigeru.
+
+167
+00:08:59,497 --> 00:09:01,541
+They call him the don
+of the publishing world.
+
+168
+00:09:01,583 --> 00:09:03,918
+He knows everything that
+happens in print media,
+
+169
+00:09:03,960 --> 00:09:05,754
+and everybody involved.
+
+170
+00:09:05,795 --> 00:09:08,173
+[WATSON] Ah, right, Milverton
+was a journalist!
+
+171
+00:09:09,507 --> 00:09:11,051
+[TONY] And what could
+have put me on the radar
+
+172
+00:09:11,092 --> 00:09:13,011
+of the notorious Irene Adler?
+
+173
+00:09:13,053 --> 00:09:15,221
+I need information
+on a Milverton.
+
+174
+00:09:17,223 --> 00:09:19,559
+I see. What's it worth to you?
+
+175
+00:09:19,601 --> 00:09:21,269
+How much do you want?
+
+176
+00:09:21,311 --> 00:09:24,022
+[TONY] If you have
+to ask, don't bother.
+
+177
+00:09:24,064 --> 00:09:27,067
+[IRENE] Hmm. How about a juicy
+scoop on the mayor?
+
+178
+00:09:30,070 --> 00:09:32,238
+Moran lied about his education.
+
+179
+00:09:32,280 --> 00:09:35,784
+That is juicy indeed.
+Your man Milverton is one of
+
+180
+00:09:35,825 --> 00:09:38,328
+the most accomplished
+blackmailers I know of.
+
+181
+00:09:38,369 --> 00:09:40,205
+A blackmailer?
+
+182
+00:09:40,246 --> 00:09:42,749
+[TONY] He digs up dirt on
+celebrities and politicians,
+
+183
+00:09:42,791 --> 00:09:44,751
+and they pay him
+to bury it again.
+
+184
+00:09:44,793 --> 00:09:46,503
+All while operating
+under the guise
+
+185
+00:09:46,544 --> 00:09:48,505
+of a legitimate entrepreneur.
+
+186
+00:09:48,546 --> 00:09:50,048
+Of what kind?
+
+187
+00:09:50,090 --> 00:09:51,132
+[TONY]
+Several.
+
+188
+00:09:51,174 --> 00:09:52,842
+He runs a variety
+of front operations
+
+189
+00:09:52,884 --> 00:09:55,220
+using multiple
+assumed identities.
+
+190
+00:09:55,261 --> 00:09:57,180
+I'll send a list along later.
+
+191
+00:09:57,222 --> 00:09:59,057
+[WATSON]
+Can you tell us where he lives?
+
+192
+00:09:59,099 --> 00:10:02,769
+[TONY] Hmm. From what I'm told,
+he's set himself up a bed
+
+193
+00:10:02,811 --> 00:10:05,105
+in the office of one of
+his front companies.
+
+194
+00:10:05,146 --> 00:10:08,566
+That said, I have no idea
+which company or where it is.
+
+195
+00:10:08,608 --> 00:10:11,152
+Then we'll have
+to run down the whole list.
+
+196
+00:10:11,194 --> 00:10:13,655
+[TONY] I'm also informed
+he's been paying nightly visits
+
+197
+00:10:13,696 --> 00:10:16,241
+to a certain old hangout of his.
+
+198
+00:10:16,282 --> 00:10:18,660
+Lastly, his appearance
+has changed dramatically
+
+199
+00:10:18,701 --> 00:10:20,328
+since his time as a reporter.
+
+200
+00:10:20,370 --> 00:10:22,622
+In fact the difference was
+so stark that I was inspired
+
+201
+00:10:22,664 --> 00:10:24,582
+to write a poem after I saw it.
+
+202
+00:10:24,624 --> 00:10:27,836
+[WATSON]
+Uh, what do you mean by that?
+
+203
+00:10:27,877 --> 00:10:30,255
+How badly do
+you wanna know, kid?
+
+204
+00:10:30,296 --> 00:10:32,048
+[WATSON]
+Uhh...
+
+205
+00:10:32,090 --> 00:10:35,385
+How's this?
+A scoop on yours truly.
+
+206
+00:10:37,887 --> 00:10:40,265
+Would Moran use his
+measurements as a password?
+
+207
+00:10:40,306 --> 00:10:42,851
+Of course not.
+Why would he even know them?
+
+208
+00:10:42,892 --> 00:10:44,477
+So what is it?
+
+209
+00:10:44,519 --> 00:10:46,646
+[EMIRI giggling]
+
+210
+00:10:46,688 --> 00:10:47,814
+[laptop beeping]
+
+211
+00:10:47,856 --> 00:10:49,149
+‐‐Ahh!
+‐‐Buu‐buu!
+
+212
+00:10:49,190 --> 00:10:51,067
+Hey, don't do that to my laptop!
+
+213
+00:10:51,568 --> 00:10:52,861
+[gasps]
+
+214
+00:10:54,821 --> 00:10:56,865
+Hey! Give it back!
+
+215
+00:10:56,906 --> 00:10:59,159
+Gimme! Let go!
+
+216
+00:10:59,200 --> 00:11:00,618
+‐‐[EMIRI whimpering]
+‐‐Oh, crap!
+
+217
+00:11:00,660 --> 00:11:01,995
+Uh, c'mon, please don't cry!
+
+218
+00:11:02,036 --> 00:11:04,122
+[SHERLOCK gruntin]
+
+219
+00:11:04,164 --> 00:11:07,500
+‐‐Ha! Piggy! Let's go, Mr. Pig!
+‐‐[squealing]
+
+220
+00:11:07,542 --> 00:11:10,003
+[elephant trumpets]
+
+221
+00:11:10,044 --> 00:11:12,297
+Ugh! This blows...
+
+222
+00:11:12,338 --> 00:11:13,923
+We searched the whole
+town and we've got jack
+
+223
+00:11:13,965 --> 00:11:16,050
+and crap to show for it.
+
+224
+00:11:21,055 --> 00:11:22,557
+[SHERLOCK chuckles]
+
+225
+00:11:37,572 --> 00:11:39,866
+[phone ringing]
+
+226
+00:11:39,908 --> 00:11:42,452
+[WATSON] This is the "certain
+old hangout" that Mr. Shigeru
+
+227
+00:11:42,493 --> 00:11:43,870
+mentioned, right, Ms. Adler?
+
+228
+00:11:43,912 --> 00:11:45,121
+Yes, that's right.
+
+229
+00:11:45,163 --> 00:11:46,539
+[WATSON]
+I've taken a look around,
+
+230
+00:11:46,581 --> 00:11:48,791
+but I haven't seen anyone
+matching his description.
+
+231
+00:11:52,086 --> 00:11:55,673
+Also, that poem he gave
+us tells me less than nothing.
+
+232
+00:11:56,716 --> 00:11:58,968
+[IRENE] Complaining
+doesn't help us either.
+
+233
+00:12:01,054 --> 00:12:03,765
+Of course! I'll leave you to it.
+
+234
+00:12:03,806 --> 00:12:05,099
+Get after that girl working...
+
+235
+00:12:05,141 --> 00:12:08,686
+[WATSON]
+Dark skin, round ears.
+
+236
+00:12:08,728 --> 00:12:10,188
+‐‐[MILVERTON] Got it?
+‐‐[gasps]
+
+237
+00:12:10,230 --> 00:12:12,482
+[WATSON]
+Light skin, round ears!
+
+238
+00:12:12,523 --> 00:12:15,443
+From light to dark.
+Like an Othello game!
+
+239
+00:12:15,485 --> 00:12:17,528
+[MILVERTON]
+But not here! Now go tell her!
+
+240
+00:12:17,570 --> 00:12:19,072
+‐‐She's losing me money.
+‐‐Ms. Adler!
+
+241
+00:12:19,113 --> 00:12:22,200
+I think I found Milverton!
+
+242
+00:12:22,242 --> 00:12:24,827
+Meet me in
+Sherlock's room tomorrow.
+
+243
+00:12:24,869 --> 00:12:27,121
+Good job.
+Stay on the ball, there.
+
+244
+00:12:27,163 --> 00:12:28,957
+‐‐[IRENE] Excuse me, sir.
+‐‐Huh?
+
+245
+00:12:29,832 --> 00:12:31,834
+[IRENE]
+I'm with Kabuki Insurance.
+
+246
+00:12:31,876 --> 00:12:33,628
+You're the proprietor here, yes?
+
+247
+00:12:33,670 --> 00:12:36,589
+This is about your policy.
+The Smile Plan.
+
+248
+00:12:39,884 --> 00:12:41,886
+[MILVERTON snoring]
+
+249
+00:12:45,390 --> 00:12:47,058
+[BAR PATRON 8A]
+Whoa, check her out.
+
+250
+00:12:47,100 --> 00:12:48,393
+That's Agatha Kuroki!
+
+251
+00:12:48,434 --> 00:12:49,394
+[IRENE gasps]
+
+252
+00:12:49,435 --> 00:12:51,062
+[BAR PATRON 8B]
+Oh, yeah, she had that affair!
+
+253
+00:12:51,104 --> 00:12:53,606
+Your payment for the month is
+due tonight, as agreed upon.
+
+254
+00:12:53,648 --> 00:12:55,358
+[AGATHA]
+Just a little longer, please.
+
+255
+00:12:55,400 --> 00:12:56,359
+[STAFF 8A]
+No way.
+
+256
+00:12:56,401 --> 00:12:58,820
+The boss doesn't give
+extensions for anything.
+
+257
+00:12:58,861 --> 00:13:00,321
+You've got less than an hour.
+
+258
+00:13:00,363 --> 00:13:02,949
+[AGATHA] Wait. I'll get
+him his money. Please!
+
+259
+00:13:02,991 --> 00:13:04,242
+[IRENE]
+How much do you need?
+
+260
+00:13:04,284 --> 00:13:07,203
+Ah‐‐ [gasps] Irene...?
+
+261
+00:13:11,416 --> 00:13:12,959
+It's been awhile, hasn't it?
+
+262
+00:13:13,001 --> 00:13:14,794
+Since we shared the screen.
+
+263
+00:13:14,836 --> 00:13:15,920
+It has...
+
+264
+00:13:17,213 --> 00:13:19,716
+What were you doing in that bar?
+
+265
+00:13:19,757 --> 00:13:22,051
+I'll pay you back. Promise.
+
+266
+00:13:22,093 --> 00:13:23,511
+It's fine.
+
+267
+00:13:24,804 --> 00:13:26,723
+Milverton knows something
+that would ruin me
+
+268
+00:13:26,764 --> 00:13:29,267
+if it made it into the papers.
+
+269
+00:13:29,309 --> 00:13:30,810
+In exchange for his silence,
+
+270
+00:13:30,852 --> 00:13:35,565
+he demanded monthly payments‐‐
+My money and my body.
+
+271
+00:13:35,606 --> 00:13:38,943
+But the tabloids learned
+I'd slept with him.
+
+272
+00:13:38,985 --> 00:13:40,320
+Now the money's drying up.
+
+273
+00:13:40,361 --> 00:13:44,365
+Then stop paying him,
+or it'll never end.
+
+274
+00:13:44,407 --> 00:13:45,491
+But...
+
+275
+00:13:45,533 --> 00:13:47,785
+[IRENE] You can't win
+if you play his game.
+
+276
+00:13:47,827 --> 00:13:50,830
+Trust me on this.
+I'll always have your back.
+
+277
+00:13:52,081 --> 00:13:54,876
+Thank you. That means a lot.
+
+278
+00:13:54,917 --> 00:13:56,753
+I feel a little better now.
+
+279
+00:14:02,967 --> 00:14:04,052
+[SHERLOCK]
+Why are you here?
+
+280
+00:14:04,093 --> 00:14:05,553
+Oh, don't mind me.
+
+281
+00:14:05,595 --> 00:14:08,639
+[WATSON] Ah? It looks like
+Emiri forgot her picture book.
+
+282
+00:14:10,224 --> 00:14:12,143
+[doorbell rings]
+
+283
+00:14:12,185 --> 00:14:14,187
+‐‐[WATSON] Hello?
+‐‐[IRENE] Come in, it's open!
+
+284
+00:14:14,228 --> 00:14:15,897
+[door creaks
+
+285
+00:14:15,938 --> 00:14:17,023
+[BOTH gasp]
+
+286
+00:14:17,065 --> 00:14:18,024
+[WATSON]
+Milverton!
+
+287
+00:14:18,066 --> 00:14:19,108
+[MILVERTON]
+Huh?
+
+288
+00:14:19,150 --> 00:14:20,651
+[IRENE]
+I told him to come here.
+
+289
+00:14:20,693 --> 00:14:21,861
+[MILVERTON]
+Yeah, and you'd better believe
+
+290
+00:14:21,903 --> 00:14:23,488
+that took me by surprise.
+
+291
+00:14:23,529 --> 00:14:25,365
+Getting a phone call out of
+the blue from some broad
+
+292
+00:14:25,406 --> 00:14:26,908
+‐‐I never even met.
+‐‐[sniffing]
+
+293
+00:14:26,949 --> 00:14:28,326
+What the hell are you doing?
+
+294
+00:14:28,368 --> 00:14:30,078
+This pig smells.
+
+295
+00:14:30,119 --> 00:14:32,538
+‐‐[MILVERTON growls]
+‐‐It's time to talk business.
+
+296
+00:14:32,580 --> 00:14:35,625
+For instance, hiring underage
+girls to work at your bar.
+
+297
+00:14:35,666 --> 00:14:37,293
+What are you goin' on about?
+
+298
+00:14:37,335 --> 00:14:40,004
+Yeah, these customers all love
+the young girls.
+
+299
+00:14:40,046 --> 00:14:41,631
+Mine are mostly
+middle schoolers,
+
+300
+00:14:41,672 --> 00:14:43,466
+a few high schoolers in there.
+
+301
+00:14:43,508 --> 00:14:45,551
+College chicks may
+as well be grannies!
+
+302
+00:14:45,593 --> 00:14:47,553
+Hold on, it's you!
+
+303
+00:14:47,595 --> 00:14:50,890
+Now, we can discuss
+Yui Shirota's medical chart.
+
+304
+00:14:50,932 --> 00:14:54,060
+I get it. My ex
+put you up to all this.
+
+305
+00:14:54,102 --> 00:14:56,229
+Well, go ahead and show
+that video to the cops
+
+306
+00:14:56,270 --> 00:14:58,147
+‐‐if you feel like it.
+‐‐[WATSON] Uh?
+
+307
+00:14:58,189 --> 00:14:59,524
+You think the police
+in this town are
+
+308
+00:14:59,565 --> 00:15:01,359
+gonna do anything about it, pal?
+
+309
+00:15:01,401 --> 00:15:03,653
+I could build an island in
+the bay outta half the dirt
+
+310
+00:15:03,694 --> 00:15:06,239
+I got on those punks,
+are you kidding me?
+
+311
+00:15:06,280 --> 00:15:07,990
+Ah. Well if that's the case,
+
+312
+00:15:08,032 --> 00:15:09,951
+I suppose we should
+try another approach.
+
+313
+00:15:09,992 --> 00:15:12,203
+Knock yourself out,
+sweet cheeks.
+
+314
+00:15:12,245 --> 00:15:16,249
+Right. Agatha made her
+payment to you yesterday,
+
+315
+00:15:16,290 --> 00:15:18,751
+so why did you still
+go public with her secret?
+
+316
+00:15:18,793 --> 00:15:19,961
+She missed her
+payment deadline
+
+317
+00:15:20,002 --> 00:15:22,213
+by five seconds. We're done.
+
+318
+00:15:22,255 --> 00:15:23,756
+[SHERLOCK]
+Tell me something, pig.
+
+319
+00:15:23,798 --> 00:15:25,007
+[MILVERTON]
+Screw you.
+
+320
+00:15:25,049 --> 00:15:27,635
+Who do you plan
+on selling Emiri to?
+
+321
+00:15:27,677 --> 00:15:30,138
+Well, look at
+the big brain on this guy.
+
+322
+00:15:30,179 --> 00:15:31,681
+I've got a friend with
+a whole lot of money
+
+323
+00:15:31,722 --> 00:15:33,391
+and he likes 'em real young.
+
+324
+00:15:33,433 --> 00:15:36,227
+A man of his stature could give
+my daughter a much better life
+
+325
+00:15:36,269 --> 00:15:38,396
+than her basket case
+of a mother, right?
+
+326
+00:15:38,438 --> 00:15:39,856
+Whattaya gonna do?
+
+327
+00:15:42,775 --> 00:15:45,027
+Can you believe that scumbag?!
+
+328
+00:15:45,069 --> 00:15:47,155
+Hey! We're getting that chart!
+
+329
+00:15:47,196 --> 00:15:49,031
+We know where it must be.
+
+330
+00:15:49,073 --> 00:15:51,033
+Yes, in Milverton's office.
+
+331
+00:15:51,075 --> 00:15:52,118
+[WATSON]
+Hmm.
+
+332
+00:15:52,160 --> 00:15:53,870
+[SHERLOCK] We found the pig
+we were looking for, old man,
+
+333
+00:15:53,911 --> 00:15:55,496
+but where's his sty?
+
+334
+00:15:55,538 --> 00:15:57,081
+Come on, can't you
+try to figure it out
+
+335
+00:15:57,123 --> 00:15:59,167
+for yourself before you ask me?
+
+336
+00:15:59,208 --> 00:16:01,752
+Tell me you at least
+noticed that stink on him.
+
+337
+00:16:01,794 --> 00:16:03,296
+What are we watching right now?
+
+338
+00:16:03,337 --> 00:16:05,381
+Forensic rakugo.
+
+339
+00:16:05,423 --> 00:16:06,924
+You were picking up chlorine.
+
+340
+00:16:06,966 --> 00:16:09,177
+While you're at it, did you
+get a look at his eyes?
+
+341
+00:16:09,218 --> 00:16:12,555
+Yeah, things were redder
+than a monkey's ass cheeks!
+
+342
+00:16:12,597 --> 00:16:14,474
+Boy, you're a real class act.
+
+343
+00:16:14,515 --> 00:16:16,476
+Point is, if his eyes were red‐‐
+
+344
+00:16:16,517 --> 00:16:18,811
+It's at a night pool.
+
+345
+00:16:18,853 --> 00:16:20,646
+Milverton has the chart
+locked up in the office
+
+346
+00:16:20,688 --> 00:16:23,024
+at his night pool.
+Let's go find it.
+
+347
+00:16:23,065 --> 00:16:24,609
+[WATSON]
+Oh, right. Coming!
+
+348
+00:16:26,611 --> 00:16:28,404
+Ah! Maki. Um...
+
+349
+00:16:28,446 --> 00:16:29,697
+Could you sign this?
+
+350
+00:16:29,739 --> 00:16:31,741
+Huh? Why do you have that?
+
+351
+00:16:34,076 --> 00:16:38,706
+[SWIMMERS chatting, laughing]
+
+352
+00:16:46,130 --> 00:16:47,215
+And the office is...
+
+353
+00:16:47,256 --> 00:16:48,466
+Over here.
+
+354
+00:16:50,635 --> 00:16:52,261
+[WATSON chuckles]
+
+355
+00:16:54,013 --> 00:16:55,473
+[SHERLOCK]
+There it is.
+
+356
+00:16:55,515 --> 00:16:57,600
+[WATSON] Of course
+there's extra security.
+
+357
+00:16:57,642 --> 00:16:59,560
+Great. How do we deal with that?
+
+358
+00:16:59,602 --> 00:17:02,063
+[WATSON]
+Ah. Hmm?
+
+359
+00:17:02,104 --> 00:17:03,689
+Do you have an idea?
+
+360
+00:17:04,941 --> 00:17:06,359
+Um... What?
+
+361
+00:17:07,401 --> 00:17:08,361
+[SHERLOCK]
+Go make a scene.
+
+362
+00:17:08,402 --> 00:17:10,988
+‐‐[WATSON] Ahh! You jerk!
+‐‐[SWIMMERS screaming]
+
+363
+00:17:11,030 --> 00:17:12,990
+‐‐Hey!
+‐‐What the hell are you doing?!
+
+364
+00:17:13,032 --> 00:17:14,242
+[GUARD 8A]
+Out of the pool, now!
+
+365
+00:17:14,283 --> 00:17:15,493
+[GUARD 8B]
+You're done here, pervert!
+
+366
+00:17:15,535 --> 00:17:17,620
+Oh, my. You are a bold one.
+
+367
+00:17:23,668 --> 00:17:24,919
+[SHERLOCK]
+Looks like we found it.
+
+368
+00:17:24,961 --> 00:17:26,671
+Now where's that treasure?
+
+369
+00:17:26,712 --> 00:17:27,922
+Excellent question.
+
+370
+00:17:27,964 --> 00:17:29,882
+Thinking back, the stink
+of chlorine on that pig
+
+371
+00:17:29,924 --> 00:17:32,635
+was incredibly strong when
+he came to the office before.
+
+372
+00:17:32,677 --> 00:17:35,096
+Right? My nose hairs
+were burning.
+
+373
+00:17:37,932 --> 00:17:39,600
+[SHERLOCK] He wouldn't reek
+like that just from sleeping
+
+374
+00:17:39,642 --> 00:17:40,726
+near a pool.
+
+375
+00:17:40,768 --> 00:17:43,646
+He'd have to have been soaking
+in the water every single night.
+
+376
+00:17:46,816 --> 00:17:47,942
+[gasps]
+
+377
+00:17:50,236 --> 00:17:53,114
+[IRENE] You'd like to hear
+how I knew, wouldn't you?
+
+378
+00:18:01,789 --> 00:18:03,916
+[IRENE] An old friend
+of mine told me about it.
+
+379
+00:18:06,502 --> 00:18:08,588
+[MILVERTON]
+What the hell is this crap?
+
+380
+00:18:08,629 --> 00:18:11,173
+I'm paying you idiots
+to guard the damn door.
+
+381
+00:18:12,425 --> 00:18:14,510
+[MILVERTON]
+No shit. Do your jobs.
+
+382
+00:18:14,552 --> 00:18:15,595
+Huh?
+
+383
+00:18:25,605 --> 00:18:27,607
+[SHERLOCK] Jugemu jugemu goko
+no surikire kaijarisuigyo‐no
+
+384
+00:18:27,648 --> 00:18:31,027
+suigyomats unraimats furaimats
+kuunerutokoro ni sumutokoro
+
+385
+00:18:31,068 --> 00:18:32,194
+yabura...
+
+386
+00:18:35,448 --> 00:18:37,575
+[SHERLOCK] Ponpokona
+no chokyumei no chosuke.
+
+387
+00:18:37,617 --> 00:18:38,909
+Hey. Shut up!
+
+388
+00:18:38,951 --> 00:18:42,413
+[SHERLOCK grunting]
+
+389
+00:18:46,500 --> 00:18:47,710
+[door clacks]
+
+390
+00:18:47,752 --> 00:18:50,004
+[MILVERTON]
+Huh? What do you want?
+
+391
+00:18:50,046 --> 00:18:51,839
+‐‐[gun clicks]
+‐‐[MILVERTON gasps] Ah! No.
+
+392
+00:18:51,881 --> 00:18:53,007
+No, don't! Don't do it!
+
+393
+00:18:53,049 --> 00:18:54,508
+[gunshots]
+
+394
+00:18:56,510 --> 00:18:58,054
+[door slams
+
+395
+00:19:08,898 --> 00:19:10,024
+[gasps]
+
+396
+00:19:17,156 --> 00:19:18,824
+Ponpokopi!
+
+397
+00:19:19,825 --> 00:19:21,243
+It's time to go.
+
+398
+00:19:41,681 --> 00:19:43,599
+[SWIMMERS murmurin]
+
+399
+00:19:43,641 --> 00:19:45,017
+[SWIMMER 8A]
+What happened? What's going on?
+
+400
+00:19:45,059 --> 00:19:46,519
+[SWIMMER 8B] They're saying
+someone got murdered!
+
+401
+00:19:46,560 --> 00:19:48,062
+[SWIMMER 8A]
+Holy crap! Do we know who died?
+
+402
+00:19:48,104 --> 00:19:49,522
+[SWIMMER 8C]
+Nope!
+
+403
+00:19:49,563 --> 00:19:51,774
+[AGATHA grunting]
+
+404
+00:19:51,816 --> 00:19:54,402
+Who's there? Ah! Irene?
+
+405
+00:19:56,278 --> 00:19:58,614
+Don't get caught, okay, Agatha?
+
+406
+00:19:59,657 --> 00:20:01,534
+I believe this is
+what you came for.
+
+407
+00:20:06,288 --> 00:20:08,332
+[IRENE]
+Now get going.
+
+408
+00:20:08,374 --> 00:20:09,875
+You've done enough.
+
+409
+00:20:09,917 --> 00:20:12,336
+Those people's secrets
+are all safe now.
+
+410
+00:20:13,629 --> 00:20:15,715
+[IRENE]
+You got everything you wanted.
+
+411
+00:20:15,756 --> 00:20:17,967
+There's no reason for you
+to be here anymore.
+
+412
+00:20:19,176 --> 00:20:21,554
+So run. Don't look back.
+
+413
+00:20:21,595 --> 00:20:23,681
+Or else, I'll turn
+you in myself.
+
+414
+00:20:26,267 --> 00:20:27,768
+Thank you.
+
+415
+00:20:29,937 --> 00:20:31,522
+[lighter clicks]
+
+416
+00:20:34,066 --> 00:20:35,151
+Bless you.
+
+417
+00:20:35,192 --> 00:20:37,778
+Thank you so much for
+keeping my little girl safe.
+
+418
+00:20:37,820 --> 00:20:40,239
+I don't know how
+I can repay you.
+
+419
+00:20:40,281 --> 00:20:41,365
+Piggy.
+
+420
+00:20:41,407 --> 00:20:44,160
+Thank you!
+Let's play again soon!
+
+421
+00:20:45,411 --> 00:20:48,873
+Pfft. Yeah. Let's not.
+
+422
+00:20:48,914 --> 00:20:50,750
+Emiri, we should be going.
+
+423
+00:20:50,791 --> 00:20:52,543
+I can show you out.
+
+424
+00:20:52,585 --> 00:20:55,296
+[EMIRI]
+Bye‐bye! See ya later!
+
+425
+00:20:57,548 --> 00:20:59,800
+What a peach.
+
+426
+00:20:59,842 --> 00:21:02,344
+I think Irene may see
+a bit of herself in Emiri.
+
+427
+00:21:02,386 --> 00:21:04,388
+‐‐[EMIRI] Thank you!
+‐‐[WATSON] You think? Maybe so.
+
+428
+00:21:04,430 --> 00:21:06,390
+What makes you say that?
+
+429
+00:21:07,600 --> 00:21:08,893
+[WATSON]
+Read this.
+
+430
+00:21:10,853 --> 00:21:13,481
+[HUDSON] Someone's been
+talking to the gossip rags.
+
+431
+00:21:13,522 --> 00:21:15,274
+[WATSON]
+Irene went to them herself.
+
+432
+00:21:15,316 --> 00:21:18,027
+Even as a kid, she always
+marched to her own beat.
+
+433
+00:21:18,068 --> 00:21:19,028
+[WATSON]
+Hmm?
+
+434
+00:21:19,069 --> 00:21:20,529
+[HUDSON]
+I suppose I never told you,
+
+435
+00:21:20,571 --> 00:21:22,573
+but I looked after
+her for a while.
+
+436
+00:22:59,253 --> 00:23:00,379
+[gasps]
+
+437
+00:23:03,632 --> 00:23:05,718
+[LESTRADE] Do you think
+you can help me out with this?
+
+438
+00:23:05,759 --> 00:23:07,219
+Let's find out.
+
+439
+00:23:07,261 --> 00:23:09,972
+Victim's name is Milverton.
+Killed last night.
+
+440
+00:23:10,014 --> 00:23:12,141
+Cause of death was
+two gunshots to the chest.
+
+441
+00:23:12,182 --> 00:23:14,268
+[SHERLOCK]
+That's going nowhere.
+
+442
+00:23:14,310 --> 00:23:15,853
+[LESTRADE]
+What do you mean by that?
+
+443
+00:23:15,895 --> 00:23:17,938
+Way too many suspects.
+
+444
+00:23:17,980 --> 00:23:19,148
+[WATSON gasps]
+
+445
+00:23:19,773 --> 00:23:23,027
+[phone buzzing
+
+446
+00:23:23,068 --> 00:23:25,237
+[LESTRADE]
+This is Lestrade.
+
+447
+00:23:25,279 --> 00:23:27,615
+There was?!
+Jack's struck again!
+
+448
+00:23:27,656 --> 00:23:30,034
+I'll be there as soon as I can!
+
+449
+00:23:30,075 --> 00:23:31,160
+[HUDSON]
+The real thing?
+
+450
+00:23:31,201 --> 00:23:32,161
+Seems so.
+
+451
+00:23:32,202 --> 00:23:33,621
+The victim was a woman.
+
+452
+00:23:33,662 --> 00:23:35,789
+An actress who's been
+in the news lately.
+
+453
+00:23:35,831 --> 00:23:37,791
+Her name was Agatha Kuroki.
+
+454
+00:23:37,833 --> 00:23:40,085
+I need to report to the
+crime scene immediately.
+
+455
+00:23:43,672 --> 00:23:45,049
+What's wrong?
+
+456
+00:23:45,090 --> 00:23:46,342
+[IRENE whimpers]
+
+457
+00:23:51,889 --> 00:23:53,432
+[gaspin]
+
+458
+00:23:57,895 --> 00:23:58,854
+[IRENE gasps]
+
+459
+00:23:58,896 --> 00:24:01,148
+Irene.
+
+460
+00:24:01,190 --> 00:24:04,276
+Somebody is trying
+to kill you, right?
+
+461
+00:24:04,318 --> 00:24:05,945
+Jack the Ripper.
+
+462
+00:24:06,946 --> 00:24:08,572
+[FUYUTO] I know a special
+place that I'd really
+
+463
+00:24:08,614 --> 00:24:09,657
+like to show you.
+
+464
+00:24:09,698 --> 00:24:12,117
+[MAKI] I'll be by your side
+until the very end!
+

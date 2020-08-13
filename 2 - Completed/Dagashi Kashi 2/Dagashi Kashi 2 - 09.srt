@@ -1,0 +1,996 @@
+﻿1
+00:00:11,250 --> 00:00:12,750
+You know what?
+
+2
+00:00:12,833 --> 00:00:15,375
+Seems my idea was a failure.
+
+3
+00:00:15,458 --> 00:00:16,625
+[KOKONOTSU]
+Oh?
+
+4
+00:00:16,708 --> 00:00:19,041
+My poor gorgeous cakes
+did not manage to sell.
+
+5
+00:00:19,125 --> 00:00:19,916
+Instead...
+
+6
+00:00:20,000 --> 00:00:21,375
+They went bad, didn't they?
+
+7
+00:00:21,458 --> 00:00:25,000
+Indeed. May they rest
+well in cake heaven.
+
+8
+00:00:25,083 --> 00:00:29,625
+[BENIYUTAKA] Behold! I call it
+the "Special Sweets Corner"!
+
+9
+00:00:29,708 --> 00:00:32,750
+[BENIYUTAKA] So I switched
+to a made to order system.
+
+10
+00:00:32,833 --> 00:00:34,333
+Would you believe there's
+a demand for that
+
+11
+00:00:34,416 --> 00:00:36,250
+way out here in the boonies?
+
+12
+00:00:36,333 --> 00:00:38,125
+Now they're selling fabulously!
+
+13
+00:00:38,208 --> 00:00:39,875
+That's great.
+
+14
+00:00:39,958 --> 00:00:41,416
+[BENIYUTAKA]
+Customers can order in store,
+
+15
+00:00:41,500 --> 00:00:44,791
+over the phone, or even
+via the Internets!
+
+16
+00:00:44,875 --> 00:00:47,791
+Thank you for coming!
+
+17
+00:00:47,875 --> 00:00:50,333
+The "Internets," huh?
+
+18
+00:00:50,416 --> 00:00:53,541
+[HAJIME]
+Let's see.
+
+19
+00:00:53,625 --> 00:00:54,583
+Hey, welcome back!
+
+20
+00:00:54,666 --> 00:00:57,458
+[KOKONOTSU]
+The Internets. The net?
+
+21
+00:00:57,541 --> 00:01:00,708
+The net. The net.
+
+22
+00:01:00,791 --> 00:01:03,750
+The Internets, huh?
+
+23
+00:01:03,833 --> 00:01:04,833
+[gasps]
+
+24
+00:01:10,250 --> 00:01:11,041
+That's the answer!
+
+25
+00:01:11,125 --> 00:01:13,333
+[HAJIME screams]
+
+26
+00:01:13,416 --> 00:01:16,375
+[KOKONOTSU]
+Oh, am I interrupting something?
+
+27
+00:01:16,458 --> 00:01:18,958
+I was just writing
+in my journal.
+
+28
+00:01:19,041 --> 00:01:20,583
+[KOKONOTSU]
+Gotcha.
+
+29
+00:01:20,666 --> 00:01:22,208
+Anyway, I've got an idea.
+
+30
+00:01:22,291 --> 00:01:25,291
+We should totally use
+Internet shopping, too!
+
+31
+00:01:25,375 --> 00:01:26,833
+[HAJIME]
+Uh.
+
+32
+00:01:26,916 --> 00:01:30,666
+Okay, is there like
+a manga you want?
+
+33
+00:01:30,750 --> 00:01:35,708
+♪
+
+
+34
+00:03:01,000 --> 00:03:02,833
+[HAJIME]
+I get it.
+
+35
+00:03:02,916 --> 00:03:04,583
+So what you're saying is that
+
+36
+00:03:04,666 --> 00:03:07,250
+you wanna sell <i>dagashi</i> and
+stuff on the Internet as well.
+
+37
+00:03:07,333 --> 00:03:09,125
+Now that I think about it,
+a lot of companies
+
+38
+00:03:09,208 --> 00:03:10,833
+are online these days.
+
+39
+00:03:10,916 --> 00:03:12,916
+I know! We should be, too.
+
+40
+00:03:13,000 --> 00:03:15,041
+So we need to make a
+website for our shop.
+
+41
+00:03:15,125 --> 00:03:17,375
+I agree. I'm way ahead of you.
+
+42
+00:03:17,458 --> 00:03:18,791
+First draft. Boom.
+
+43
+00:03:18,875 --> 00:03:21,583
+Huh? Whoa!
+
+44
+00:03:21,666 --> 00:03:25,208
+Already? You're like
+an Internet wizard!
+
+45
+00:03:25,291 --> 00:03:28,208
+It's this thing called
+Hypertext Markup Language.
+
+46
+00:03:28,291 --> 00:03:30,333
+I learned it in college.
+
+47
+00:03:30,416 --> 00:03:33,041
+Ah, the famous HTML
+coding language.
+
+48
+00:03:33,125 --> 00:03:36,500
+The home page is still kinda
+bare, but check this out.
+
+49
+00:03:36,583 --> 00:03:37,916
+[KOKONOTSU]
+Cool!
+
+50
+00:03:38,000 --> 00:03:39,458
+Love the sparkling effect,
+
+51
+00:03:39,541 --> 00:03:41,791
+it follows the
+cursor everywhere!
+
+52
+00:03:41,875 --> 00:03:44,125
+How did you pull that off?
+
+53
+00:03:44,208 --> 00:03:45,541
+[HAJIME]
+Good question!
+
+54
+00:03:45,625 --> 00:03:48,166
+It's a little code
+called Java Script!
+
+55
+00:03:48,250 --> 00:03:51,375
+Ah, the famous Java
+Script coding language!
+
+56
+00:03:51,458 --> 00:03:55,000
+This is amazing, you can do
+anything with a computer!
+
+57
+00:03:55,083 --> 00:03:58,291
+[HAJIME]
+Welcome to technology!
+
+58
+00:03:58,375 --> 00:04:01,041
+We should probably add
+some more information.
+
+59
+00:04:01,125 --> 00:04:05,041
+For example, I dunno, your
+selling point or something.
+
+60
+00:04:05,125 --> 00:04:08,125
+'Kay, that should
+be easy enough.
+
+61
+00:04:08,208 --> 00:04:09,833
+Let's see.
+
+62
+00:04:09,916 --> 00:04:11,458
+[gasps]
+
+63
+00:04:11,541 --> 00:04:13,750
+"We sell <i>dagashi</i> ."
+
+64
+00:04:18,541 --> 00:04:20,125
+Yes, we do.
+
+65
+00:04:22,708 --> 00:04:25,333
+[BOTH laughing]
+
+66
+00:04:25,416 --> 00:04:27,791
+That's just ridiculous!
+
+67
+00:04:27,875 --> 00:04:32,041
+For real! And the text is just
+scrolling forever and ever!
+
+68
+00:04:32,125 --> 00:04:33,416
+[BOTH laughing]
+
+69
+00:04:33,500 --> 00:04:35,791
+Hold on a sec, I can fix it.
+
+70
+00:04:38,166 --> 00:04:40,125
+[BOTH laughing]
+
+71
+00:04:40,208 --> 00:04:42,041
+Great job! It's much better!
+
+72
+00:04:42,125 --> 00:04:43,208
+I know, right?
+
+73
+00:04:43,291 --> 00:04:44,875
+I mean, it's not like
+it's super obvious
+
+74
+00:04:44,958 --> 00:04:46,916
+that we're selling
+<i>dagashi</i> in this store!
+
+75
+00:04:47,000 --> 00:04:47,958
+[KOKONOTSU]
+Yeah, it's not like
+
+76
+00:04:48,041 --> 00:04:50,291
+it's in the name
+Shikada Dagashi!
+
+77
+00:04:50,375 --> 00:04:53,416
+[BOTH laughing]
+
+78
+00:04:53,500 --> 00:04:55,875
+Wow. I'm actually having
+a lot of fun with this.
+
+79
+00:04:55,958 --> 00:04:56,666
+Me, too!
+
+80
+00:04:56,750 --> 00:04:57,625
+[gasps]
+
+81
+00:04:57,708 --> 00:04:59,083
+Oh, yeah.
+
+82
+00:04:59,166 --> 00:05:02,458
+Perfect, hold that pose.
+
+83
+00:05:02,541 --> 00:05:05,708
+Right, say cheese.
+
+84
+00:05:05,791 --> 00:05:07,083
+Now we import the picture
+
+85
+00:05:07,166 --> 00:05:09,291
+and put it at the
+top of the page.
+
+86
+00:05:11,541 --> 00:05:13,916
+[BOTH laughing]
+
+87
+00:05:14,000 --> 00:05:16,458
+This is so stupid!
+
+88
+00:05:16,541 --> 00:05:19,541
+C'mon, it's so funny!
+
+89
+00:05:19,625 --> 00:05:21,583
+Watch what happens
+when I do this.
+
+90
+00:05:21,666 --> 00:05:22,916
+[BOTH laugh]
+
+91
+00:05:23,000 --> 00:05:25,375
+[KOKONOTSU]
+It's an army of me!
+
+92
+00:05:25,458 --> 00:05:27,666
+[HAJIME]
+Okay, okay, me next!
+
+93
+00:05:27,750 --> 00:05:30,083
+It's only fair after all.
+
+94
+00:05:30,166 --> 00:05:34,041
+I'll do this so I don't have
+make a black censor bar.
+
+95
+00:05:34,125 --> 00:05:37,375
+Oh, we can also say that
+we deliver <i>dagashi</i> .
+
+96
+00:05:37,458 --> 00:05:39,541
+What else should we add here?
+
+97
+00:05:39,625 --> 00:05:42,625
+How 'bout the nostalgic
+feeling our shop has?
+
+98
+00:05:42,708 --> 00:05:44,875
+Maybe that would be
+a good angle to push.
+
+99
+00:05:44,958 --> 00:05:47,875
+[HAJIME] Yeah, a reminder
+of a simpler time.
+
+100
+00:05:47,958 --> 00:05:49,416
+Here goes.
+
+101
+00:05:55,166 --> 00:05:57,208
+Uh. That works.
+
+102
+00:05:57,291 --> 00:05:58,541
+Yeah.
+
+103
+00:05:58,625 --> 00:06:00,708
+[HAJIME] Doesn't seem to
+advertise the shop though.
+
+104
+00:06:00,791 --> 00:06:02,791
+[KOKONOTSU]
+Right.
+
+105
+00:06:02,875 --> 00:06:04,916
+Ah! Hold up, we also sell toys!
+
+106
+00:06:05,000 --> 00:06:09,958
+I'll add that in!
+We've got toys, too.
+
+107
+00:06:11,500 --> 00:06:14,083
+Let's refresh.
+
+108
+00:06:14,166 --> 00:06:16,750
+This is what it looks
+like all together.
+
+109
+00:06:20,916 --> 00:06:22,750
+It's a bit much, isn't it?
+
+110
+00:06:22,833 --> 00:06:24,541
+Maybe a little.
+
+111
+00:06:24,625 --> 00:06:27,125
+[HAJIME]
+You actually mean "a lot," huh?
+
+112
+00:06:27,208 --> 00:06:28,416
+[KOKONOTSU]
+Yeah.
+
+113
+00:06:28,500 --> 00:06:30,375
+[HAJIME]
+I should start over.
+
+114
+00:06:30,458 --> 00:06:32,416
+[KOKONOTSU]
+Yeah.
+
+115
+00:06:32,500 --> 00:06:33,708
+[HAJIME]
+And so.
+
+116
+00:06:35,250 --> 00:06:36,041
+[KOKONOTSU]
+Hey.
+
+117
+00:06:36,125 --> 00:06:37,625
+Just a heads up that our order
+
+118
+00:06:37,708 --> 00:06:39,416
+should come in later
+this morning.
+
+119
+00:06:41,125 --> 00:06:43,916
+Oh, yeah? I didn't know
+you ordered anything.
+
+120
+00:06:44,000 --> 00:06:44,791
+[KOKONOTSU]
+What?
+
+121
+00:06:44,875 --> 00:06:46,333
+Because I didn't.
+
+122
+00:06:46,416 --> 00:06:48,541
+It's the order you said you
+would take care of yourself.
+
+123
+00:06:48,625 --> 00:06:52,250
+Uh, did you forget
+to make the order?
+
+124
+00:06:52,333 --> 00:06:55,041
+No. Come on, don't
+be ridiculous.
+
+125
+00:06:55,125 --> 00:06:58,166
+Uh, I was testing you,
+and you passed grasshopper!
+
+126
+00:06:58,250 --> 00:06:59,375
+[KOKONOTSU]
+Thank goodness.
+
+127
+00:06:59,458 --> 00:07:03,000
+[HAJIME] Okay, have a
+great day at school!
+
+128
+00:07:04,125 --> 00:07:06,666
+I can't believe I forgot! Crap!
+
+129
+00:07:06,750 --> 00:07:10,083
+I wonder if it's possible
+to do a same day delivery.
+
+130
+00:07:10,166 --> 00:07:14,291
+Ugh! What was it again?
+Uh, Super Ball?
+
+131
+00:07:14,375 --> 00:07:18,375
+Well, it's not like it's
+the most popular item here.
+
+132
+00:07:18,458 --> 00:07:19,250
+The end.
+
+133
+00:07:19,333 --> 00:07:20,291
+Whoa, cool.
+
+134
+00:07:20,375 --> 00:07:21,791
+Hi, welcome!
+
+135
+00:07:21,875 --> 00:07:23,625
+Wait, what the--?
+
+136
+00:07:23,708 --> 00:07:25,541
+They're out of Super Balls?
+
+137
+00:07:25,625 --> 00:07:28,166
+[BOY C]
+Seriously? How lame can you get?
+
+138
+00:07:28,250 --> 00:07:30,041
+Uh.
+
+139
+00:07:30,125 --> 00:07:33,250
+I'm sorry. We're ordering
+more today, though.
+
+140
+00:07:33,333 --> 00:07:34,750
+Yeah?
+
+141
+00:07:34,833 --> 00:07:37,416
+Well, fat lot of good that
+does me right now, huh, lady?
+
+142
+00:07:37,500 --> 00:07:40,416
+Why did you even bother
+to open up the store?
+
+143
+00:07:40,500 --> 00:07:42,333
+You guys are useless.
+
+144
+00:07:42,416 --> 00:07:44,708
+[BOY B] No wonder you're
+going out of business.
+
+145
+00:07:44,791 --> 00:07:47,333
+[BOY C]
+This place sucks.
+
+146
+00:07:47,416 --> 00:07:49,333
+[HAJIME] Oh, no, if I don't
+do something quick,
+
+147
+00:07:49,416 --> 00:07:50,833
+they'll stop coming here.
+
+148
+00:07:50,916 --> 00:07:54,041
+I can't let that happen.
+Think, Hajime!
+
+149
+00:07:55,541 --> 00:07:58,041
+[HAJIME]
+Hold it right there, boys!
+
+150
+00:07:58,125 --> 00:08:00,125
+A huge super ball!
+
+151
+00:08:00,208 --> 00:08:02,041
+I can get you the most
+super-est Super Ball
+
+152
+00:08:02,125 --> 00:08:04,375
+that has ever dared to super!
+
+153
+00:08:04,458 --> 00:08:05,708
+[ALL]
+Huh?
+
+154
+00:08:06,916 --> 00:08:08,083
+[BOY A]
+What is this?
+
+155
+00:08:08,166 --> 00:08:10,916
+[HAJIME] Oh, it's salt,
+laundry starch, and...
+
+156
+00:08:11,000 --> 00:08:13,208
+Who cares? We want Super Balls!
+
+157
+00:08:13,291 --> 00:08:14,333
+That's right!
+
+158
+00:08:14,416 --> 00:08:17,000
+I know. Try and be patient.
+
+159
+00:08:17,083 --> 00:08:20,416
+Good things come to those
+who wait, young man.
+
+160
+00:08:20,500 --> 00:08:24,500
+First, you add the salt
+to a glass of water.
+
+161
+00:08:24,583 --> 00:08:25,666
+Then stir it.
+
+162
+00:08:25,750 --> 00:08:28,375
+Well, at least until
+the salt dissolves.
+
+163
+00:08:28,458 --> 00:08:31,125
+The next step is adding
+in the laundry starch.
+
+164
+00:08:31,208 --> 00:08:35,625
+Okay. Let's start with
+Mister Impatient.
+
+165
+00:08:35,708 --> 00:08:36,875
+What's your favorite color?
+
+166
+00:08:36,958 --> 00:08:39,125
+Uh, that's not my
+name, you stupid!
+
+167
+00:08:39,208 --> 00:08:41,416
+Well, it is now!
+
+168
+00:08:41,500 --> 00:08:42,333
+It's blue.
+
+169
+00:08:42,416 --> 00:08:43,583
+[HAJIME]
+A solid choice.
+
+170
+00:08:43,666 --> 00:08:44,958
+In that case,
+
+171
+00:08:45,041 --> 00:08:48,333
+I'll use my favorite color,
+peacock blue, for yours.
+
+172
+00:08:48,416 --> 00:08:51,166
+Squeeze a bit of the paint
+in to the mixture.
+
+173
+00:08:51,250 --> 00:08:55,791
+And then stir, stir,
+and stir some more!
+
+174
+00:08:55,875 --> 00:08:59,083
+And voila! One
+custom Super Ball!
+
+175
+00:08:59,166 --> 00:09:00,875
+That's way gross.
+
+176
+00:09:00,958 --> 00:09:02,708
+[BOY A]
+That's not a Super Ball.
+
+177
+00:09:02,791 --> 00:09:05,250
+Now, now, now.
+You have to be patient.
+
+178
+00:09:05,333 --> 00:09:07,708
+Seriously, girls don't
+go for that attitude.
+
+179
+00:09:07,791 --> 00:09:10,791
+We just have to roll it
+around and shape it a bit.
+
+180
+00:09:10,875 --> 00:09:12,166
+Some water is going to come out,
+
+181
+00:09:12,250 --> 00:09:16,333
+and when it does, wipe it
+off, then keep rolling!
+
+182
+00:09:16,416 --> 00:09:18,583
+Okay. Ta-dah!
+
+183
+00:09:18,666 --> 00:09:21,750
+You have your own
+special Super Ball!
+
+184
+00:09:21,833 --> 00:09:25,791
+It's just for me?
+
+185
+00:09:25,875 --> 00:09:28,125
+Thank you!
+
+186
+00:09:28,208 --> 00:09:31,083
+[BOY B] Whoa! You're like some
+kinda crazy alchemist!
+
+187
+00:09:31,166 --> 00:09:32,875
+[BOY C]
+Hey, I want one, too!
+
+188
+00:09:32,958 --> 00:09:34,708
+--[BOY B] I've got next!
+--[BOY A] Whoa! It's so cool!
+
+189
+00:09:34,791 --> 00:09:38,750
+Okay! But that's
+30 yen for each ball.
+
+190
+00:09:38,833 --> 00:09:40,541
+[BOY A]
+Oops, gotta run!
+
+191
+00:09:41,708 --> 00:09:45,166
+Well, at least I solved
+that conundrum.
+
+192
+00:09:45,250 --> 00:09:46,583
+What do I do?
+
+193
+00:09:46,666 --> 00:09:50,541
+I still need to make an order
+for more Super Balls.
+
+194
+00:09:50,625 --> 00:09:52,750
+Or do I?
+
+195
+00:09:52,833 --> 00:09:54,000
+[HAJIME]
+And so,
+
+196
+00:09:54,083 --> 00:09:56,666
+I spent the rest of the
+day making Super Balls.
+
+197
+00:09:56,750 --> 00:09:58,083
+The only thing
+that kept me going
+
+198
+00:09:58,166 --> 00:10:00,750
+was my determination
+to not get in trouble.
+
+199
+00:10:00,833 --> 00:10:03,833
+I felt a strange sense of
+fulfilment while I worked.
+
+200
+00:10:03,916 --> 00:10:06,291
+I couldn't remember the last
+time I'd worked on something
+
+201
+00:10:06,375 --> 00:10:09,000
+with such a clear
+sense of dedication.
+
+202
+00:10:09,083 --> 00:10:12,250
+It felt good. It felt right.
+
+203
+00:10:12,333 --> 00:10:15,458
+[HAJIME]
+I'm finished!
+
+204
+00:10:15,541 --> 00:10:18,666
+That batch should last us
+for a little while! Yep!
+
+205
+00:10:18,750 --> 00:10:20,000
+[sighs]
+
+206
+00:10:20,083 --> 00:10:22,333
+I sure have worked up
+quite an appetite though.
+
+207
+00:10:22,416 --> 00:10:23,916
+Time to get some grub.
+
+208
+00:10:25,208 --> 00:10:26,166
+[HAJIME gasps]
+
+209
+00:10:29,500 --> 00:10:32,458
+[HAJIME screams]
+
+210
+00:10:32,541 --> 00:10:34,958
+[SAYA]
+But that's To for you.
+
+211
+00:10:35,041 --> 00:10:36,083
+[BOTH gasp]
+
+212
+00:10:39,458 --> 00:10:42,625
+So, uh, what happened?
+
+213
+00:10:42,708 --> 00:10:45,750
+Um. Hey, welcome back?
+
+214
+00:10:45,833 --> 00:10:48,375
+[KOKONOTSU]
+Don't change the subject.
+
+215
+00:10:48,458 --> 00:10:53,416
+♪
+
+
+216
+00:12:18,791 --> 00:12:19,916
+[HAJIME]
+Next time:
+
+217
+00:12:20,000 --> 00:12:22,583
+"Monjiro Squid, Manga
+Manuscript and..."
+
+218
+00:12:22,666 --> 00:12:25,083
+Tell me the truth, manager!
+

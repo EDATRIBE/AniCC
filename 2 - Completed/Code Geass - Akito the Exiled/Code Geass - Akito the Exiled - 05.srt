@@ -1,0 +1,4246 @@
+﻿1
+00:00:17,958 --> 00:00:20,041
+[beeping]
+
+2
+00:00:20,125 --> 00:00:23,083
+[explosion]
+
+3
+00:00:34,208 --> 00:00:35,958
+[RYO]
+Yukiya!
+
+4
+00:00:36,958 --> 00:00:37,625
+[RYO]
+Yukiya!
+
+5
+00:00:37,708 --> 00:00:38,875
+[AYANO]
+Ryo!
+
+6
+00:00:39,375 --> 00:00:40,583
+You can't help him now!
+
+7
+00:00:40,666 --> 00:00:42,708
+These Alexanders aren't
+equipped for water.
+
+8
+00:00:42,791 --> 00:00:45,291
+I don't care! We can't just...
+
+9
+00:00:46,833 --> 00:00:48,416
+Akito.
+
+10
+00:00:48,500 --> 00:00:49,541
+And Leila.
+
+11
+00:00:49,625 --> 00:00:52,583
+[LEILA]
+Ryo! Ayano! Come in!
+
+12
+00:00:52,666 --> 00:00:55,250
+What? Yukiya's inside?
+
+13
+00:00:57,791 --> 00:00:59,500
+[AKITO] I've picked up the
+beacon from his machine.
+
+14
+00:00:59,583 --> 00:01:02,000
+Akito! Please save Yukiya!
+
+15
+00:01:02,083 --> 00:01:05,166
+I'm going to do
+everything that I can.
+
+16
+00:01:05,250 --> 00:01:08,833
+[ANNA] Come in.
+Leila. What's going on?
+
+17
+00:01:08,916 --> 00:01:10,916
+What just crashed into the lake?
+
+18
+00:01:11,000 --> 00:01:13,541
+Was it a float system's
+reactor core?
+
+19
+00:01:13,625 --> 00:01:15,875
+[LEILA]
+No time! Yukiya's in there!
+
+20
+00:01:15,958 --> 00:01:18,041
+[gasps] That's terrible!
+
+21
+00:01:18,125 --> 00:01:19,208
+[LEILA]
+Help me think, Anna!
+
+22
+00:01:19,291 --> 00:01:21,833
+There has to be a
+way to save him!
+
+23
+00:01:21,916 --> 00:01:25,166
+[ANNA]
+Hmm. Leila. It's an Alexander.
+
+24
+00:01:25,250 --> 00:01:27,666
+Those models have
+shock-absorbing balloons.
+
+25
+00:01:27,750 --> 00:01:30,541
+So if you can access Yukiya's
+system and activate them,
+
+26
+00:01:30,625 --> 00:01:32,458
+the cockpit block will
+fill with balloons,
+
+27
+00:01:32,541 --> 00:01:34,750
+making it buoyant
+enough to float!
+
+28
+00:01:34,833 --> 00:01:37,500
+[LEILA] But how do we access
+Yukiya's machine remotely?
+
+29
+00:01:37,583 --> 00:01:39,375
+[ANNA]
+If Akito uses his BRS,
+
+30
+00:01:39,458 --> 00:01:42,875
+it will connect his
+Alexander to Yukiya's.
+
+31
+00:01:42,958 --> 00:01:44,708
+Akito. You heard that, right?
+
+32
+00:01:44,791 --> 00:01:48,708
+Activating now.
+Requesting system control.
+
+33
+00:01:51,333 --> 00:01:52,666
+[AKITO gasping]
+
+34
+00:02:18,541 --> 00:02:20,375
+It came up!
+
+35
+00:02:20,458 --> 00:02:22,291
+It's Yukiya! We found him!
+
+36
+00:02:22,375 --> 00:02:24,000
+Bring us in closer!
+
+37
+00:02:24,083 --> 00:02:25,250
+You got it.
+
+38
+00:02:25,333 --> 00:02:27,500
+So that chick is
+your CO, is she?
+
+39
+00:02:27,583 --> 00:02:29,041
+Yeah, she's a damn good one.
+
+40
+00:02:29,125 --> 00:02:31,833
+And her name's not "chick,"
+it's Leila Malcal.
+
+41
+00:02:31,916 --> 00:02:35,250
+[ASHLEY]
+Hmph. Leila it is then.
+
+42
+00:03:01,541 --> 00:03:03,708
+Oh, hey. Akito.
+
+43
+00:03:03,791 --> 00:03:06,458
+Don't talk. I'm gonna
+get you out of here.
+
+44
+00:03:06,541 --> 00:03:10,000
+Heh. What's gotten into you?
+
+45
+00:03:10,083 --> 00:03:12,208
+You're not one to
+talk like the hero.
+
+46
+00:03:12,291 --> 00:03:14,666
+No. I'm not.
+
+47
+00:03:14,750 --> 00:03:16,583
+[LEILA]
+Anna, we just retrieved Yukiya,
+
+48
+00:03:16,666 --> 00:03:18,500
+but he's very seriously injured.
+
+49
+00:03:18,583 --> 00:03:21,500
+Please inform Dr. Randle
+immediately!
+
+50
+00:03:21,583 --> 00:03:22,583
+Oh, no, Yukiya.
+
+51
+00:03:22,666 --> 00:03:24,708
+Captain. What's wrong?
+
+52
+00:03:24,791 --> 00:03:27,083
+Uh! I've got you!
+
+53
+00:03:27,166 --> 00:03:29,500
+[SARA] The wZERO Unit and
+the commander's group
+
+54
+00:03:29,583 --> 00:03:30,416
+are coming back.
+
+55
+00:03:30,500 --> 00:03:31,375
+Tell the doctor!
+
+56
+00:03:31,458 --> 00:03:32,291
+I'm on it.
+
+57
+00:03:32,375 --> 00:03:34,791
+I'm sending her their location.
+
+58
+00:03:40,583 --> 00:03:42,791
+[BRONDELLO] Transport the
+wounded to the garrison!
+
+59
+00:03:42,875 --> 00:03:45,250
+Do a head count of all
+squads Knightmares!
+
+60
+00:03:45,333 --> 00:03:48,333
+Abandon any damaged units
+where they're standing.
+
+61
+00:03:50,458 --> 00:03:51,958
+[DORE]
+Sir Brondello!
+
+62
+00:03:52,041 --> 00:03:54,833
+My squad is down to
+fewer than ten machines.
+
+63
+00:03:54,916 --> 00:03:58,541
+[SCHOLZ] Well, we're lucky
+you made it out alive, Dore.
+
+64
+00:03:58,625 --> 00:04:00,166
+You fared well, Sir Scholz.
+
+65
+00:04:00,250 --> 00:04:02,791
+More than half your
+squad is undamaged.
+
+66
+00:04:02,875 --> 00:04:04,333
+Yeah.
+
+67
+00:04:04,416 --> 00:04:07,875
+That's only because we were
+at the back of the formation.
+
+68
+00:04:07,958 --> 00:04:11,875
+[JEAN]
+What are you doing?
+
+69
+00:04:11,958 --> 00:04:15,666
+Grand Master Shaing never
+gave the order for a retreat!
+
+70
+00:04:15,750 --> 00:04:18,083
+Two thirds of our
+forces are destroyed.
+
+71
+00:04:18,166 --> 00:04:20,666
+We require time to regroup!
+
+72
+00:04:20,750 --> 00:04:23,291
+[JEAN] Did that attack turn
+you all into cowards?
+
+73
+00:04:23,375 --> 00:04:24,875
+Of course not!
+
+74
+00:04:24,958 --> 00:04:27,125
+But Knights don't force their
+troops into honorless battles!
+
+75
+00:04:27,208 --> 00:04:28,833
+Not that a rookie
+upstart like you
+
+76
+00:04:28,916 --> 00:04:30,333
+would know anything about honor!
+
+77
+00:04:30,416 --> 00:04:31,583
+[JEAN growls]
+
+78
+00:04:31,666 --> 00:04:33,208
+[SHIN]
+Jean.
+
+79
+00:04:33,291 --> 00:04:34,458
+Lord Hyuga?
+
+80
+00:04:34,541 --> 00:04:36,083
+[SHIN]
+I heard everything.
+
+81
+00:04:36,166 --> 00:04:38,833
+I'd like the Three Swordmasters
+to retreat for now.
+
+82
+00:04:38,916 --> 00:04:40,625
+Are you certain, sir?
+
+83
+00:04:40,708 --> 00:04:42,625
+[SHIN]
+Yes. But don't worry,
+
+84
+00:04:42,708 --> 00:04:46,291
+I plan to test their mettle
+as knights very soon.
+
+85
+00:04:55,541 --> 00:05:00,125
+[SHIN] I'll crush them. Along
+with the rest of this world.
+
+86
+00:05:06,875 --> 00:05:09,250
+Suzaku.
+
+87
+00:05:09,333 --> 00:05:12,875
+Would you...
+
+88
+00:05:12,958 --> 00:05:16,708
+...bring me some water, please?
+
+89
+00:05:17,333 --> 00:05:18,708
+[SUZAKU]
+Huh?
+
+90
+00:05:35,416 --> 00:05:36,833
+[JULIUS groans]
+
+91
+00:05:47,250 --> 00:05:49,375
+[JULIUS]
+S-Suzaku.
+
+92
+00:05:49,458 --> 00:05:50,416
+[gasps]
+
+93
+00:05:52,833 --> 00:05:55,791
+[JULIUS] I want you to
+kill me... Suzaku.
+
+94
+00:05:55,875 --> 00:05:57,083
+[SUZAKU gasps]
+
+95
+00:06:00,750 --> 00:06:03,750
+[JULIUS coughing]
+
+96
+00:06:11,583 --> 00:06:14,333
+Suzaku. Please...
+
+97
+00:06:14,416 --> 00:06:16,375
+...kill me.
+
+98
+00:06:17,541 --> 00:06:19,458
+[SUZAKU]
+I want to go get her.
+
+99
+00:06:19,541 --> 00:06:21,208
+You and me.
+
+100
+00:06:21,291 --> 00:06:23,500
+Let's go get Nunnally.
+
+101
+00:06:44,291 --> 00:06:45,708
+[MALE JUGEND 3A]
+General Smilas.
+
+102
+00:06:45,791 --> 00:06:47,416
+We've received reports
+that Lord Shaing
+
+103
+00:06:47,500 --> 00:06:50,958
+has taken control
+of Euro Britannia.
+
+104
+00:06:51,041 --> 00:06:53,333
+Lord Shaing is an
+Eleven, I believe.
+
+105
+00:06:53,416 --> 00:06:55,541
+That seems to be true, sir!
+
+106
+00:06:55,625 --> 00:06:58,958
+Then we'd better not
+underestimate him.
+
+107
+00:07:09,291 --> 00:07:12,250
+[AYANO] I told you to
+hurry up and jump ship.
+
+108
+00:07:12,333 --> 00:07:16,208
+You just had to take
+your time. Freak'n Yukiya.
+
+109
+00:07:16,291 --> 00:07:18,750
+[DAVID] His pancreatic
+artery's bleeding a lot,
+
+110
+00:07:18,833 --> 00:07:20,458
+but I think I can fix it.
+
+111
+00:07:20,541 --> 00:07:22,833
+I just hope this
+connection holds out.
+
+112
+00:07:22,916 --> 00:07:25,500
+Would you believe this is my
+first time doing telesurgery
+
+113
+00:07:25,583 --> 00:07:27,625
+on a patient in a
+secret location.
+
+114
+00:07:27,708 --> 00:07:30,208
+You know, I wouldn't just
+do this for anyone, Sophie.
+
+115
+00:07:30,291 --> 00:07:32,583
+[SOPHIE]
+I appreciate your help, David.
+
+116
+00:07:32,666 --> 00:07:35,041
+[DAVID]
+Then promise me something.
+
+117
+00:07:35,125 --> 00:07:36,208
+[SOPHIE]
+What's that?
+
+118
+00:07:36,291 --> 00:07:38,625
+[DAVID]
+When Takeru wakes up,
+
+119
+00:07:38,708 --> 00:07:41,125
+I want to be the
+first person you call.
+
+120
+00:07:41,208 --> 00:07:42,458
+[SOPHIE gasps]
+
+121
+00:07:42,541 --> 00:07:44,125
+[DAVID] I don't know where
+you are right now, but,
+
+122
+00:07:44,208 --> 00:07:45,916
+I assume he's with you.
+
+123
+00:07:46,000 --> 00:07:48,375
+Just let me know.
+
+124
+00:07:49,958 --> 00:07:52,500
+Thanks, David.
+I'll do just that.
+
+125
+00:07:52,583 --> 00:07:54,208
+I promise.
+
+126
+00:07:54,291 --> 00:07:55,958
+I'll hold you to it.
+
+127
+00:07:56,041 --> 00:07:57,208
+As it stands,
+
+128
+00:07:57,291 --> 00:07:58,958
+Takeru's got way more
+chess wins against me
+
+129
+00:07:59,041 --> 00:08:00,875
+than I've got on him.
+
+130
+00:08:00,958 --> 00:08:02,750
+I need to catch up.
+
+131
+00:08:02,833 --> 00:08:04,916
+Tell him to wake
+his ass up, Sophie.
+
+132
+00:08:05,000 --> 00:08:07,125
+Even if it takes a miracle.
+
+133
+00:08:10,291 --> 00:08:12,541
+[LEILA]
+Yukiya's surgery was successful.
+
+134
+00:08:12,625 --> 00:08:13,750
+[CLAUS]
+Thanks to him,
+
+135
+00:08:13,833 --> 00:08:16,666
+we wiped out two thirds
+of the enemy forces.
+
+136
+00:08:16,750 --> 00:08:18,125
+They've still got the advantage
+
+137
+00:08:18,208 --> 00:08:19,666
+when it comes to
+numbers, though.
+
+138
+00:08:19,750 --> 00:08:22,000
+Then I'll have Major Hammel's
+security team pilot
+
+139
+00:08:22,083 --> 00:08:23,791
+Alexanders as well.
+
+140
+00:08:23,875 --> 00:08:27,375
+[CLAUS] Well, Hammel's team is
+just supposed to be support.
+
+141
+00:08:27,458 --> 00:08:29,166
+[beeping]
+
+142
+00:08:29,250 --> 00:08:30,750
+Anyway, looks like I just got
+
+143
+00:08:30,833 --> 00:08:33,541
+the most recent data
+from Captain Clement.
+
+144
+00:08:33,625 --> 00:08:35,250
+How many drones will we have?
+
+145
+00:08:35,333 --> 00:08:37,625
+We're gonna have
+ten at the most.
+
+146
+00:08:37,708 --> 00:08:38,791
+The bulk of our parts
+
+147
+00:08:38,875 --> 00:08:41,375
+went into the Alexanders
+for Hammel's team.
+
+148
+00:08:41,458 --> 00:08:44,125
+[LEILA] And do we still have
+the Alexander I used before?
+
+149
+00:08:44,208 --> 00:08:46,916
+[CLAUS]
+Major Hammel got that one.
+
+150
+00:08:47,000 --> 00:08:48,500
+[LEILA]
+Oh, I see.
+
+151
+00:08:48,583 --> 00:08:51,208
+You've got a Knightmare
+for me though, right?
+
+152
+00:08:51,291 --> 00:08:54,083
+You're going to need my
+help to win this thing.
+
+153
+00:08:54,166 --> 00:08:56,291
+We're up against the
+Holy Order of Michael.
+
+154
+00:08:56,375 --> 00:08:58,000
+You used to be on their side.
+
+155
+00:08:58,083 --> 00:09:01,750
+Well, that was before
+Shaing tried to do me in.
+
+156
+00:09:01,833 --> 00:09:05,166
+And besides. I owe Akito one.
+
+157
+00:09:09,833 --> 00:09:10,833
+[ASHLEY]
+Heh.
+
+158
+00:09:11,666 --> 00:09:14,416
+[ASHLEY]
+Hey, Pops! Give me some!
+
+159
+00:09:15,166 --> 00:09:18,041
+Well, help yourself...
+
+160
+00:09:18,125 --> 00:09:19,208
+All right.
+
+161
+00:09:19,291 --> 00:09:22,708
+I'll let you pilot one
+of the Alexanders.
+
+162
+00:09:22,791 --> 00:09:25,833
+That's a great plan,
+Commander. Smart move.
+
+163
+00:09:25,916 --> 00:09:29,958
+Yeah, you sure know what
+you're doing, Leila.
+
+164
+00:09:30,041 --> 00:09:32,333
+[CHLOE] It's a good thing we
+got that Knightmare data
+
+165
+00:09:32,416 --> 00:09:34,500
+from that boy with the red hair.
+
+166
+00:09:34,583 --> 00:09:36,166
+Right, Sergeant Hilda?
+
+167
+00:09:36,250 --> 00:09:38,583
+[HILDA]
+Yeah. I think I caught his name.
+
+168
+00:09:38,666 --> 00:09:40,541
+It's Ashley.
+
+169
+00:09:40,625 --> 00:09:42,583
+That's why we're using
+the Schrötter Steel.
+
+170
+00:09:42,666 --> 00:09:44,333
+This'll be much better.
+
+171
+00:09:44,416 --> 00:09:47,625
+Altering those designs has been
+rough on the boss though.
+
+172
+00:09:47,708 --> 00:09:48,875
+[CHLOE]
+Yeah, she had to completely
+
+173
+00:09:48,958 --> 00:09:50,583
+rework the new
+Alexander model,
+
+174
+00:09:50,666 --> 00:09:53,333
+and the upgraded
+model for Akito.
+
+175
+00:09:53,416 --> 00:09:56,958
+She's really talented, huh?
+
+176
+00:09:57,041 --> 00:09:58,375
+She sure is.
+
+177
+00:09:58,458 --> 00:10:01,208
+Military-use robotics
+are just the beginning
+
+178
+00:10:01,291 --> 00:10:03,250
+of what she can do.
+
+179
+00:10:11,541 --> 00:10:14,208
+[MECHANIC 5A] Do we have
+any spare elbow motors?
+
+180
+00:10:14,291 --> 00:10:15,250
+This one's fried!
+
+181
+00:10:15,333 --> 00:10:16,500
+[MECHANIC 5B]
+We're all out.
+
+182
+00:10:16,583 --> 00:10:18,666
+Grab one from the spare units.
+
+183
+00:10:18,750 --> 00:10:19,750
+[MECHANIC 5C]
+Yeesh.
+
+184
+00:10:19,833 --> 00:10:21,666
+It's hard to work
+without supplies.
+
+185
+00:10:21,750 --> 00:10:22,916
+[MECHANIC 5D]
+No choice.
+
+186
+00:10:23,000 --> 00:10:25,625
+We'll just have to make
+do with what we've got.
+
+187
+00:10:30,250 --> 00:10:32,375
+[sighs] Lord Hyuga.
+
+188
+00:10:32,458 --> 00:10:33,333
+[clang]
+
+189
+00:10:33,416 --> 00:10:35,000
+[JEAN gasps]
+
+190
+00:10:37,083 --> 00:10:38,208
+[gasps]
+
+191
+00:10:41,250 --> 00:10:42,291
+[ASHLEY]
+Hey.
+
+192
+00:10:42,375 --> 00:10:44,250
+[JEAN]
+A-Ashley?
+
+193
+00:10:44,333 --> 00:10:46,250
+And in their uniform no less.
+
+194
+00:10:46,333 --> 00:10:48,750
+[ASHLEY] Just hear me out
+before you up and kill me.
+
+195
+00:10:48,833 --> 00:10:50,000
+[JEAN]
+Why should I?
+
+196
+00:10:50,083 --> 00:10:52,666
+[ASHLEY] You and I are
+a lot alike, you know.
+
+197
+00:10:52,750 --> 00:10:54,083
+We were orphans.
+
+198
+00:10:54,166 --> 00:10:57,416
+All alone in the world and
+knocking on death's door.
+
+199
+00:10:57,500 --> 00:10:59,791
+Until Shaing took us in.
+
+200
+00:10:59,875 --> 00:11:01,125
+So we owe him our li--
+
+201
+00:11:01,208 --> 00:11:03,375
+He's different than
+he used to be.
+
+202
+00:11:03,458 --> 00:11:07,541
+I don't know why.
+All he wants is bloodshed.
+
+203
+00:11:07,625 --> 00:11:09,125
+It's like he's possessed.
+
+204
+00:11:09,208 --> 00:11:11,416
+[gasps]
+
+205
+00:11:11,500 --> 00:11:12,916
+[ASHLEY]
+Despite all that,
+
+206
+00:11:13,000 --> 00:11:17,916
+I got a buddy who wants to save
+the bastard from himself.
+
+207
+00:11:18,000 --> 00:11:20,083
+Since they're brothers...
+
+208
+00:11:21,708 --> 00:11:24,000
+Akito... Hyuga.
+
+209
+00:11:24,083 --> 00:11:26,000
+[ASHLEY]
+Jean. Er...
+
+210
+00:11:26,083 --> 00:11:29,916
+Wait, you went by Jeanne
+before he found you, right?
+
+211
+00:11:30,000 --> 00:11:34,875
+Well, Jeanne, I think we
+oughtta help them out.
+
+212
+00:11:34,958 --> 00:11:38,708
+'Cause if anybody can
+bring Shin Hyuga back,
+
+213
+00:11:38,791 --> 00:11:40,708
+it's Akito.
+
+214
+00:11:51,541 --> 00:11:55,791
+[wolves howling]
+
+215
+00:12:28,416 --> 00:12:31,583
+Now. Shall we begin?
+
+216
+00:12:32,375 --> 00:12:34,375
+All forces, advance!
+
+217
+00:12:38,833 --> 00:12:41,458
+The time has come to bring
+order to the Order of Michael!
+
+218
+00:12:41,541 --> 00:12:42,625
+Sir!
+
+219
+00:12:44,583 --> 00:12:46,916
+Dore! I'll go in first!
+
+220
+00:12:47,000 --> 00:12:49,916
+Godspeed, friend.
+We're behind you.
+
+221
+00:13:10,625 --> 00:13:12,625
+[KNIGHT 5A]
+No good! We can't puncture it!
+
+222
+00:13:12,708 --> 00:13:15,500
+Then we need to push forward
+with the Canterbury!
+
+223
+00:13:15,583 --> 00:13:16,833
+[KNIGHT 5A]
+Yes, sir!
+
+224
+00:13:25,833 --> 00:13:27,125
+We still don't have a visual?
+
+225
+00:13:27,208 --> 00:13:28,416
+[CHLOE]
+Working on it!
+
+226
+00:13:28,500 --> 00:13:30,250
+Ah! Got it!
+
+227
+00:13:30,333 --> 00:13:33,791
+Eight o'clock! Range, 250!
+
+228
+00:13:33,875 --> 00:13:35,833
+[SARA]
+Begin counterattack!
+
+229
+00:13:41,416 --> 00:13:45,250
+[KNIGHT 5A]
+We're taking fire from the wall!
+
+230
+00:13:45,333 --> 00:13:49,375
+[KNIGHT 5B] Close the distance!
+Don't back down!
+
+231
+00:13:49,458 --> 00:13:51,625
+[KNIGHT 5C] We have to
+protect the Canterbury!
+
+232
+00:13:51,708 --> 00:13:54,666
+[KNIGHT 5D] Alpha Platoon,
+move forward! Now!
+
+233
+00:13:59,875 --> 00:14:00,833
+[BRONDELLO]
+Hang in there!
+
+234
+00:14:00,916 --> 00:14:02,875
+We can fall back and regroup!
+
+235
+00:14:05,458 --> 00:14:07,416
+[BRONDELLO]
+Lord Shaing.
+
+236
+00:14:07,500 --> 00:14:11,458
+[SHIN]
+If you cowards retreat now,
+
+237
+00:14:11,541 --> 00:14:13,583
+I'll have to shoot you.
+
+238
+00:14:13,666 --> 00:14:15,458
+[BRONDELLO growls]
+Bastard!
+
+239
+00:14:15,541 --> 00:14:17,750
+[SHIN]
+Is this your idea of honor?
+
+240
+00:14:19,625 --> 00:14:23,833
+I must say I'm disappointed,
+Sir Brondello.
+
+241
+00:14:31,250 --> 00:14:34,291
+Oh, no, there's a
+crack in sector A23!
+
+242
+00:14:40,875 --> 00:14:42,166
+[KNIGHT 5D]
+We're latched on!
+
+243
+00:14:42,250 --> 00:14:43,541
+[KNIGHT 5E]
+Let's go!
+
+244
+00:14:43,625 --> 00:14:46,125
+Enemy Knightmares
+found in sector A17!
+
+245
+00:14:46,208 --> 00:14:48,958
+[gasps] Stop them.
+
+246
+00:14:57,666 --> 00:14:59,833
+[KNIGHT 5B]
+Damn! We can't get any closer!
+
+247
+00:14:59,916 --> 00:15:02,708
+[KNIGHT 5C] We can't reach
+the Alpha Platoon! Ah!
+
+248
+00:15:02,791 --> 00:15:04,625
+By the time we can
+attack the castle,
+
+249
+00:15:04,708 --> 00:15:06,625
+we might not have
+any troops left.
+
+250
+00:15:06,708 --> 00:15:07,208
+[SCHOLZ]
+Dore!
+
+251
+00:15:07,291 --> 00:15:08,458
+[DORE gasps]
+
+252
+00:15:08,541 --> 00:15:10,500
+[SCHOLZ] I'll have my team
+create an opening.
+
+253
+00:15:13,166 --> 00:15:15,083
+The rest'll have to be
+up to you, brother.
+
+254
+00:15:15,166 --> 00:15:16,416
+Roger.
+
+255
+00:15:16,500 --> 00:15:18,833
+I'll be joining you and
+Lord Manfredi before long.
+
+256
+00:15:18,916 --> 00:15:20,750
+I look forward to
+seeing each other again
+
+257
+00:15:20,833 --> 00:15:22,500
+on the other side.
+
+258
+00:15:23,291 --> 00:15:24,541
+Move out!
+
+259
+00:15:29,916 --> 00:15:35,291
+[yelling]
+
+260
+00:15:38,250 --> 00:15:39,458
+[gasps]
+
+261
+00:15:39,541 --> 00:15:41,416
+[SARA]
+We've got an explosion in A23!
+
+262
+00:15:41,500 --> 00:15:43,208
+[OLIVIA]
+Our defenses are crumbling!
+
+263
+00:15:43,291 --> 00:15:46,666
+[SHIN] Fools are only
+useful as pawns anyway.
+
+264
+00:15:46,750 --> 00:15:49,583
+Prepare to advance
+on the enemy castle!
+
+265
+00:15:51,583 --> 00:15:53,666
+[KNIGHT 5D]
+There it is! Going in!
+
+266
+00:15:58,083 --> 00:16:00,041
+[SARA] The Knightmare squad
+just got into the castle
+
+267
+00:16:00,125 --> 00:16:01,791
+through the old gate!
+
+268
+00:16:03,000 --> 00:16:05,500
+[KNIGHT 5B] Let's head for
+the command center!
+
+269
+00:16:08,166 --> 00:16:09,166
+[gasps]
+
+270
+00:16:14,875 --> 00:16:16,208
+[KNIGHT 5D]
+The path's blocked off!
+
+271
+00:16:16,291 --> 00:16:18,208
+[KNIGHT 5F]
+Get the wounded out of here!
+
+272
+00:16:18,291 --> 00:16:20,958
+So, they want to make
+things difficult.
+
+273
+00:16:30,958 --> 00:16:33,375
+[LEILA] wZERO squad.
+Prepare to strike.
+
+274
+00:16:33,458 --> 00:16:35,666
+Captain Hyuga,
+get ready to launch!
+
+275
+00:16:35,750 --> 00:16:38,625
+Captain Hyuga! Do you copy?
+
+276
+00:16:38,708 --> 00:16:39,958
+[ASHLEY]
+Heh.
+
+277
+00:16:40,041 --> 00:16:43,583
+I think this baby's gonna
+be a perfect fit for me.
+
+278
+00:16:43,666 --> 00:16:45,750
+[RYO] Why the hell did
+you get the new one?
+
+279
+00:16:45,833 --> 00:16:47,125
+[ASHLEY]
+Oh, quit crying.
+
+280
+00:16:47,208 --> 00:16:48,791
+[RYO]
+What'd you say?
+
+281
+00:16:54,083 --> 00:16:56,416
+There! Open fire!
+
+282
+00:16:59,000 --> 00:17:01,000
+[KNIGHT 5B]
+They've got eyes on us!
+
+283
+00:17:01,083 --> 00:17:02,750
+[KNIGHT 5D]
+They're on top of us!
+
+284
+00:17:04,250 --> 00:17:07,125
+Fall back! Get out of range!
+
+285
+00:17:14,916 --> 00:17:16,666
+[KNIGHT 5D]
+It's an ambush!
+
+286
+00:17:46,458 --> 00:17:48,041
+I'm Ashley Ashra!
+
+287
+00:17:48,125 --> 00:17:50,291
+If any of you clowns are
+dumb enough to try me,
+
+288
+00:17:50,375 --> 00:17:51,458
+step right up!
+
+289
+00:17:51,541 --> 00:17:53,250
+[KNIGHT 5D]
+The Ghost of Hannibal!
+
+290
+00:17:53,333 --> 00:17:55,291
+Ashley from Ashra Force?
+
+291
+00:17:55,375 --> 00:17:57,625
+Then we'll keep pushing forward!
+
+292
+00:17:59,125 --> 00:18:00,291
+[RYO]
+Here they come!
+
+293
+00:18:00,375 --> 00:18:02,250
+[ASHLEY]
+This oughtta be fun!
+
+294
+00:18:11,750 --> 00:18:12,791
+[DORN growls]
+
+295
+00:18:30,583 --> 00:18:32,041
+He's here.
+
+296
+00:18:41,500 --> 00:18:43,458
+Final enemy Knightmare inbound.
+
+297
+00:18:43,541 --> 00:18:44,916
+Incoming at high velocity!
+
+298
+00:18:45,000 --> 00:18:46,083
+You got a visual?
+
+299
+00:18:46,166 --> 00:18:47,625
+[SARA]
+Just a second, sir.
+
+300
+00:18:47,708 --> 00:18:49,208
+Got it!
+
+301
+00:18:50,375 --> 00:18:51,500
+[SARA]
+It's the four-legged unit!
+
+302
+00:18:51,583 --> 00:18:52,916
+[gasps]
+
+303
+00:18:53,000 --> 00:18:55,291
+All forces, move
+into the castle.
+
+304
+00:18:55,375 --> 00:18:57,666
+Destroy the command
+center first.
+
+305
+00:19:02,458 --> 00:19:03,708
+[AKITO gasping]
+
+306
+00:19:14,041 --> 00:19:15,375
+Dammit, Shaing!
+
+307
+00:19:15,458 --> 00:19:18,500
+I can't believe I used to
+look up to such a coward!
+
+308
+00:19:18,583 --> 00:19:20,541
+[SHIN]
+Is that you, Ashley?
+
+309
+00:19:23,208 --> 00:19:26,541
+How hard did they make you
+beg for that Knightmare?
+
+310
+00:19:26,625 --> 00:19:28,208
+[ASHLEY]
+Shut your mouth!
+
+311
+00:19:28,291 --> 00:19:30,791
+[RYO] Heads up, Akito!
+He got past us!
+
+312
+00:19:30,875 --> 00:19:31,791
+[AKITO gasping]
+
+313
+00:19:31,875 --> 00:19:33,541
+[ASHLEY]
+You're mine!
+
+314
+00:19:36,416 --> 00:19:39,041
+[SHIN]
+You'll be the next to die.
+
+315
+00:19:39,125 --> 00:19:40,250
+But don't worry,
+
+316
+00:19:40,333 --> 00:19:42,958
+your new friends will
+be joining you soon.
+
+317
+00:19:43,041 --> 00:19:46,333
+That's just how generous I am!
+
+318
+00:19:46,416 --> 00:19:48,291
+Damn you!
+
+319
+00:19:51,708 --> 00:19:55,000
+[RYO] Ashley! C'mon,
+you're way too close!
+
+320
+00:19:59,583 --> 00:20:00,666
+Brother!
+
+321
+00:20:00,750 --> 00:20:04,375
+I don't know why you
+insist on fighting!
+
+322
+00:20:04,458 --> 00:20:07,041
+[SHIN]
+Because ending this cruel world,
+
+323
+00:20:07,125 --> 00:20:10,541
+is all that I care
+about! That's it!
+
+324
+00:20:12,166 --> 00:20:14,333
+[SHIN]
+Time's up, Akito.
+
+325
+00:20:14,416 --> 00:20:18,583
+Forsake this mortal coil. Die!
+
+326
+00:20:20,416 --> 00:20:22,708
+They're still fighting
+in sector A23!
+
+327
+00:20:22,791 --> 00:20:25,208
+Akito, Ryo, and Ashley
+are running at full power.
+
+328
+00:20:25,291 --> 00:20:27,416
+I just hope they don't overload.
+
+329
+00:20:31,250 --> 00:20:33,583
+[AKITO]
+Commander.
+
+330
+00:20:33,666 --> 00:20:37,375
+I need a favor.
+
+331
+00:20:37,458 --> 00:20:40,125
+Could you hold onto this?
+
+332
+00:20:40,208 --> 00:20:41,625
+[LEILA]
+Akito.
+
+333
+00:20:43,833 --> 00:20:45,833
+[AKITO]
+If I get killed,
+
+334
+00:20:45,916 --> 00:20:49,916
+and there's nothing left
+of my body, bury it.
+
+335
+00:20:50,000 --> 00:20:53,500
+[LEILA]
+You'd better...
+
+336
+00:20:53,583 --> 00:20:55,000
+...make sure you come back.
+
+337
+00:20:55,083 --> 00:20:56,166
+[AKITO gasps]
+
+338
+00:20:58,125 --> 00:21:00,958
+Because I...
+
+339
+00:21:01,041 --> 00:21:02,541
+I have some things I
+want to say to you,
+
+340
+00:21:02,625 --> 00:21:04,583
+but now's not the time.
+
+341
+00:21:04,666 --> 00:21:06,416
+So...
+
+342
+00:21:06,500 --> 00:21:08,541
+I want you to promise me Akito.
+
+343
+00:21:08,625 --> 00:21:11,916
+Promise me that you'll come
+back safe with the others.
+
+344
+00:21:13,750 --> 00:21:15,250
+[SARA]
+Order of Michael Knightmare!
+
+345
+00:21:15,333 --> 00:21:17,041
+They are breaching the gate!
+
+346
+00:21:17,125 --> 00:21:19,833
+Defensive maneuvers. Hurry!
+
+347
+00:21:22,791 --> 00:21:24,875
+Akito! They're coming!
+
+348
+00:21:26,541 --> 00:21:27,791
+You little...
+
+349
+00:21:27,875 --> 00:21:28,458
+[AKITO]
+Ashley.
+
+350
+00:21:28,541 --> 00:21:29,333
+[ASHLEY]
+Uh.
+
+351
+00:21:29,416 --> 00:21:31,208
+Fall back to sector 18.
+
+352
+00:21:31,291 --> 00:21:33,083
+If you say so.
+
+353
+00:21:44,291 --> 00:21:46,166
+[KNIGHT 5C]
+We've reached the middle gate!
+
+354
+00:21:46,250 --> 00:21:48,208
+[KNIGHT 5E]
+The Platoon's goin' in.
+
+355
+00:21:48,625 --> 00:21:50,916
+They let us push
+them back so easily.
+
+356
+00:21:51,000 --> 00:21:52,833
+[gasps] No, wait!
+
+357
+00:21:52,916 --> 00:21:53,833
+[SARA]
+Four!
+
+358
+00:21:53,916 --> 00:21:54,708
+Three!
+
+359
+00:21:54,791 --> 00:21:55,791
+Two!
+
+360
+00:21:55,875 --> 00:21:57,041
+One!
+
+361
+00:22:04,291 --> 00:22:07,541
+[YUKIYA]
+A-Ayano. Hey.
+
+362
+00:22:09,125 --> 00:22:09,791
+[AYANO]
+Yukiya!
+
+363
+00:22:09,875 --> 00:22:11,208
+Wait, what? Where am I--
+
+364
+00:22:11,291 --> 00:22:13,541
+[AYANO] Yukiya!
+Oh my god, you're okay!
+
+365
+00:22:13,625 --> 00:22:16,125
+[YUKIYA groaning]
+
+366
+00:22:16,208 --> 00:22:17,833
+[AYANO]
+Oh, sorry!
+
+367
+00:22:17,916 --> 00:22:19,666
+[YUKIYA]
+It's fine. How long...
+
+368
+00:22:19,750 --> 00:22:21,583
+Have I been under for?
+
+369
+00:22:21,666 --> 00:22:24,458
+Six days. Seven, counting today.
+
+370
+00:22:24,541 --> 00:22:28,208
+That's crazy. It's
+been a whole week?
+
+371
+00:22:28,291 --> 00:22:30,041
+What about...
+
+372
+00:22:30,125 --> 00:22:32,250
+[gasps] Oh, no.
+
+373
+00:22:32,333 --> 00:22:33,250
+[AYANO]
+Yukiya, wait!
+
+374
+00:22:33,333 --> 00:22:34,583
+You're not supposed to get up!
+
+375
+00:22:34,666 --> 00:22:37,583
+I have to. I have to talk
+to Leila right now!
+
+376
+00:22:37,666 --> 00:22:38,666
+[AYANO]
+Uh?
+
+377
+00:22:38,750 --> 00:22:40,916
+Mariko and Shinji
+told me something.
+
+378
+00:22:41,000 --> 00:22:44,333
+It's all up to us. Only
+we can save the world!
+
+379
+00:22:44,416 --> 00:22:46,125
+[AYANO gasps]
+
+380
+00:22:46,208 --> 00:22:48,458
+[SARA]
+Explosion in sector 23!
+
+381
+00:22:48,541 --> 00:22:50,333
+Enemy Knightmare
+squad eliminated!
+
+382
+00:22:50,416 --> 00:22:53,750
+[OLIVIA] There's another squad
+on the sector 4 castle wall!
+
+383
+00:22:56,541 --> 00:22:58,125
+[KNIGHT 5C] Changed ammo
+to cluster warheads.
+
+384
+00:22:58,208 --> 00:22:59,125
+Loading is complete!
+
+385
+00:22:59,208 --> 00:23:00,875
+We've got the target in sight!
+
+386
+00:23:04,833 --> 00:23:07,375
+[gasps] Take cover! Hurry!
+
+387
+00:23:12,541 --> 00:23:16,208
+[OLIVIA] Sector 25's been hit!
+They're firing at us!
+
+388
+00:23:16,291 --> 00:23:18,333
+[AYANO]
+Leila, do you copy?
+
+389
+00:23:18,416 --> 00:23:19,583
+[LEILA]
+Ayano?
+
+390
+00:23:19,666 --> 00:23:21,750
+Yukiya and I need our
+machines prepped now.
+
+391
+00:23:21,833 --> 00:23:23,791
+Wait did you say Yukiya's
+with you? Is he--?
+
+392
+00:23:23,875 --> 00:23:24,750
+[YUKIYA]
+I'm fine.
+
+393
+00:23:24,833 --> 00:23:25,791
+[gasps]
+
+394
+00:23:30,541 --> 00:23:33,541
+[YUKIYA]
+Leila. After all this time,
+
+395
+00:23:33,625 --> 00:23:35,333
+I finally get it.
+
+396
+00:23:35,416 --> 00:23:37,458
+Me hating this world
+is never gonna change
+
+397
+00:23:37,541 --> 00:23:39,625
+anything for the better.
+
+398
+00:23:42,666 --> 00:23:45,500
+[YUKIYA]
+So if it'll help my friends,
+
+399
+00:23:45,583 --> 00:23:49,791
+I might as well...
+love the world.
+
+400
+00:23:57,000 --> 00:23:58,250
+[HAMMEL]
+They're here!
+
+401
+00:23:58,333 --> 00:24:01,375
+Stay calm! We're not letting
+go of this position!
+
+402
+00:24:06,458 --> 00:24:09,166
+The enemy forces have
+just entered sector 13!
+
+403
+00:24:09,250 --> 00:24:11,791
+They're coming over
+the northwest wall!
+
+404
+00:24:16,583 --> 00:24:18,875
+All we want is their commander!
+
+405
+00:24:20,833 --> 00:24:22,750
+Fire MPA cannon!
+
+406
+00:24:28,125 --> 00:24:30,458
+Take out that artillary!
+
+407
+00:24:50,958 --> 00:24:52,125
+[gasps]
+
+408
+00:24:56,666 --> 00:24:58,250
+[BRONDELLO groans]
+
+409
+00:25:09,041 --> 00:25:12,250
+[OLIVIA] They're gathering
+at the control tower.
+
+410
+00:25:12,333 --> 00:25:13,000
+Olivia.
+
+411
+00:25:13,083 --> 00:25:14,500
+I'm ready.
+
+412
+00:25:16,083 --> 00:25:19,375
+We're the only ones who know
+how to use these things.
+
+413
+00:25:19,458 --> 00:25:21,166
+[OLIVIA]
+Hope we don't have to.
+
+414
+00:25:23,083 --> 00:25:24,541
+[JEAN]
+Lord Hyuga,
+
+415
+00:25:24,625 --> 00:25:26,750
+I've just finished rewriting
+the transport's flight program
+
+416
+00:25:26,833 --> 00:25:28,875
+at the launch site.
+
+417
+00:25:28,958 --> 00:25:31,833
+[SHIN] Good. Launch it
+as soon as it's ready.
+
+418
+00:25:36,250 --> 00:25:37,958
+[SHIN]
+Jean.
+
+419
+00:25:38,041 --> 00:25:40,000
+It won't be long now.
+
+420
+00:25:40,083 --> 00:25:43,500
+Everything... will be wiped out.
+
+421
+00:25:43,583 --> 00:25:45,416
+Yes, Lord Hyuga.
+
+422
+00:25:49,333 --> 00:25:53,541
+[AYANO] Freeze! One wrong move
+and it'll be your last!
+
+423
+00:25:53,625 --> 00:25:55,125
+There's nowhere to run.
+
+424
+00:25:55,208 --> 00:25:57,791
+Nobody has to get hurt.
+We can talk.
+
+425
+00:26:05,375 --> 00:26:06,958
+No way.
+
+426
+00:26:17,375 --> 00:26:18,541
+I've heard of you.
+
+427
+00:26:18,625 --> 00:26:21,333
+You're the lady knight
+Ashley told us about.
+
+428
+00:26:24,125 --> 00:26:26,291
+[AYANO]
+He told us the whole story.
+
+429
+00:26:26,375 --> 00:26:28,791
+[JEAN] Stop talking and
+get down on the ground.
+
+430
+00:26:28,875 --> 00:26:32,041
+You're getting ready
+to blow up Pendragon.
+
+431
+00:26:32,125 --> 00:26:34,541
+The whole world's
+gonna be torn apart.
+
+432
+00:26:34,625 --> 00:26:36,625
+Is that really okay with you?
+
+433
+00:26:36,708 --> 00:26:39,500
+[grunts] I told you to
+get on the ground!
+
+434
+00:26:39,583 --> 00:26:41,458
+[AYANO]
+I know what it feels like.
+
+435
+00:26:41,541 --> 00:26:45,291
+To want to do everything
+the person you love says.
+
+436
+00:26:46,458 --> 00:26:50,291
+But listen. That's not
+what love's about.
+
+437
+00:26:50,375 --> 00:26:52,208
+Stay away!
+
+438
+00:26:55,083 --> 00:26:57,583
+Being in love with someone means
+doing what's best for them.
+
+439
+00:26:57,666 --> 00:26:59,875
+[JEAN]
+Silence!
+
+440
+00:26:59,958 --> 00:27:01,750
+Not just doing what they wan--
+
+441
+00:27:01,833 --> 00:27:04,166
+[groans]
+
+442
+00:27:04,250 --> 00:27:06,791
+That's not how you show
+someone that you care.
+
+443
+00:27:06,875 --> 00:27:09,250
+How I feel is irrelevant to me.
+
+444
+00:27:09,333 --> 00:27:14,000
+The only thing that matters now
+is Lord Hyuga's objective!
+
+445
+00:27:14,083 --> 00:27:17,541
+I'm going to make it come true!
+
+446
+00:27:17,625 --> 00:27:20,708
+Even if you obey his every word,
+
+447
+00:27:20,791 --> 00:27:23,083
+it won't be enough to
+make him love you back.
+
+448
+00:27:23,166 --> 00:27:24,458
+[gasps]
+
+449
+00:27:37,000 --> 00:27:39,041
+If that's true...
+
+450
+00:27:39,125 --> 00:27:42,875
+...then what should I do now?
+
+451
+00:27:54,333 --> 00:27:55,875
+Got you.
+
+452
+00:28:00,666 --> 00:28:02,416
+[ALL gasping]
+
+453
+00:28:05,083 --> 00:28:07,875
+[SARA] We've lost signal from
+the observation balloon!
+
+454
+00:28:07,958 --> 00:28:09,208
+Don't panic!
+
+455
+00:28:09,291 --> 00:28:10,833
+We can still track their
+position from the sensors!
+
+456
+00:28:10,916 --> 00:28:12,583
+Yes ma'am!
+
+457
+00:28:15,625 --> 00:28:18,000
+[AKITO]
+Stop this now!
+
+458
+00:28:19,000 --> 00:28:22,625
+[SHIN] The only cure for
+foolishness... is death!
+
+459
+00:28:22,708 --> 00:28:25,541
+[AKITO grunts]
+Just stop!
+
+460
+00:28:35,833 --> 00:28:37,541
+We're too close! Back off!
+
+461
+00:28:37,625 --> 00:28:39,458
+[YUKIYA]
+I don't think so.
+
+462
+00:28:42,291 --> 00:28:44,208
+Lieutenant Naruse?
+
+463
+00:28:47,583 --> 00:28:50,750
+The best way to handle a bully
+is to get right up in his face.
+
+464
+00:28:50,833 --> 00:28:51,750
+[KNIGHT 5F]
+He's closing in!
+
+465
+00:28:51,833 --> 00:28:53,708
+[KNIGHT 5G]
+Shoot him, quick!
+
+466
+00:28:56,625 --> 00:28:57,666
+[KNIGHT 5C]
+He's in our blind spot!
+
+467
+00:28:57,750 --> 00:29:00,000
+Fire antipersonnel cannon!
+
+468
+00:29:01,875 --> 00:29:03,375
+Now die, Akito!
+
+469
+00:29:03,458 --> 00:29:04,333
+You first!
+
+470
+00:29:04,416 --> 00:29:05,708
+Evasive maneuvers!
+
+471
+00:29:05,791 --> 00:29:07,291
+Bye, bye.
+
+472
+00:29:08,166 --> 00:29:08,791
+[KNIGHTS scream]
+
+473
+00:29:08,875 --> 00:29:10,208
+Yukiya!
+
+474
+00:29:14,041 --> 00:29:18,208
+Dammit! That's as far
+as you're gonna get!
+
+475
+00:29:18,291 --> 00:29:19,916
+They're swarming us guys!
+
+476
+00:29:20,000 --> 00:29:22,166
+We'll have to swat
+the lot of them!
+
+477
+00:29:28,833 --> 00:29:30,291
+Akito!
+
+478
+00:29:30,375 --> 00:29:32,333
+[AKITO gasping]
+
+479
+00:29:33,083 --> 00:29:35,125
+There's a spike in
+Akito's brainwaves!
+
+480
+00:29:35,208 --> 00:29:37,125
+The BRS is rapidly
+becoming entangled.
+
+481
+00:29:37,208 --> 00:29:38,583
+[FERILLI]
+A wave resonance?
+
+482
+00:29:38,666 --> 00:29:40,541
+[KATE] Ashley and Sayama
+have completely synced
+
+483
+00:29:40,625 --> 00:29:41,625
+with Captain Hyuga!
+
+484
+00:29:41,708 --> 00:29:43,083
+What's the BRS operation rate?
+
+485
+00:29:43,166 --> 00:29:46,250
+[KATE]
+Uh! Over 300%, doctor!
+
+486
+00:29:50,333 --> 00:29:51,458
+[LEILA gasps]
+
+487
+00:29:53,375 --> 00:29:55,000
+Akito!
+
+488
+00:29:57,458 --> 00:29:59,666
+He's disappeared?
+
+489
+00:30:09,291 --> 00:30:11,291
+This place...
+
+490
+00:30:17,250 --> 00:30:20,750
+[OLD MAN 5A] I must congratulate
+you, Young Master.
+
+491
+00:30:20,833 --> 00:30:23,500
+You now have a younger brother.
+
+492
+00:30:28,625 --> 00:30:31,708
+Shin. Come and
+meet your brother.
+
+493
+00:30:31,791 --> 00:30:34,500
+Why don't you
+introduce yourself?
+
+494
+00:30:35,416 --> 00:30:37,458
+So he's... my brother?
+
+495
+00:30:37,541 --> 00:30:40,958
+[CROWD chatting]
+
+496
+00:30:42,041 --> 00:30:45,041
+[SHIN]
+I realized it in an instant.
+
+497
+00:30:45,125 --> 00:30:48,125
+Who Akito's real father was.
+
+498
+00:30:50,583 --> 00:30:53,333
+Sara! Can you track Akito
+and the enemy Knightmare?
+
+499
+00:30:53,416 --> 00:30:54,916
+I lost sight of them.
+
+500
+00:30:55,000 --> 00:30:57,833
+Somehow... their signals
+just vanished!
+
+501
+00:30:57,916 --> 00:31:00,083
+Oh, come on! Not right now!
+
+502
+00:31:00,166 --> 00:31:02,166
+Must be the brainwave resonance.
+
+503
+00:31:02,250 --> 00:31:04,666
+I think it's interfering
+with spacetime.
+
+504
+00:31:04,750 --> 00:31:06,833
+Could this be a singularity?
+
+505
+00:31:09,541 --> 00:31:11,625
+You should take
+my life as well.
+
+506
+00:31:11,708 --> 00:31:12,875
+Just kill me.
+
+507
+00:31:12,958 --> 00:31:15,625
+Let me finally be free
+from your cruelty.
+
+508
+00:31:15,708 --> 00:31:17,750
+[SHIN'S FATHER]
+Foolish woman.
+
+509
+00:31:17,833 --> 00:31:19,833
+You may have betrayed me,
+
+510
+00:31:19,916 --> 00:31:22,125
+but that has no bearing
+on how the world works
+
+511
+00:31:22,208 --> 00:31:24,250
+or your place within it.
+
+512
+00:31:24,333 --> 00:31:28,250
+Instead, I will spare you,
+and as punishment for your sins,
+
+513
+00:31:28,333 --> 00:31:30,166
+you will remain at my side
+
+514
+00:31:30,250 --> 00:31:33,958
+for the rest of your
+miserable life.
+
+515
+00:31:34,041 --> 00:31:36,166
+You're a monster.
+
+516
+00:31:37,083 --> 00:31:39,333
+[SHIN]
+Disgusting.
+
+517
+00:31:39,416 --> 00:31:41,791
+That I was born of
+this harlot's womb.
+
+518
+00:31:41,875 --> 00:31:45,250
+The thought makes me sick.
+
+519
+00:31:45,333 --> 00:31:47,000
+[AKITO]
+But...
+
+520
+00:31:47,083 --> 00:31:49,625
+She's still our mother, Shin.
+
+521
+00:31:50,333 --> 00:31:52,875
+[SOPHIE] It must've fused
+with Akito's waveform.
+
+522
+00:31:52,958 --> 00:31:55,750
+Actually, no. No,
+they're resonating.
+
+523
+00:31:55,833 --> 00:31:58,375
+Joe Wise! Is there
+a telemetry error?
+
+524
+00:31:58,458 --> 00:32:01,041
+Nope. I'm not seeing any
+obvious program errors!
+
+525
+00:32:01,125 --> 00:32:03,500
+There's an anomaly
+in the BRS values.
+
+526
+00:32:03,583 --> 00:32:06,708
+Oh, no! I can't track
+any of the Alexanders.
+
+527
+00:32:06,791 --> 00:32:08,541
+The coordinates are too jumbled!
+
+528
+00:32:08,625 --> 00:32:10,625
+It might be a Penrose effect.
+
+529
+00:32:10,708 --> 00:32:12,333
+What's the correlation
+of the brainwaves
+
+530
+00:32:12,416 --> 00:32:13,625
+and spacetime movement?
+
+531
+00:32:13,708 --> 00:32:15,083
+[JOE] You're asking for a
+comparison of mental
+
+532
+00:32:15,166 --> 00:32:16,375
+and physical phenomena?
+
+533
+00:32:16,458 --> 00:32:17,625
+[SOPHIE]
+Yes.
+
+534
+00:32:17,708 --> 00:32:19,500
+The coordinates are
+obviously scrambling
+
+535
+00:32:19,583 --> 00:32:22,083
+because of this anomaly
+with the brainwaves.
+
+536
+00:32:22,166 --> 00:32:24,708
+If I understand correctly,
+you're saying that
+
+537
+00:32:24,791 --> 00:32:27,583
+a human mind is affecting
+the physical world?
+
+538
+00:32:27,666 --> 00:32:29,791
+[SOPHIE]
+Perhaps. Easy to forget,
+
+539
+00:32:29,875 --> 00:32:31,875
+but the world around
+us is only concrete
+
+540
+00:32:31,958 --> 00:32:34,041
+because we're here
+to observe it.
+
+541
+00:32:34,125 --> 00:32:36,458
+The intersecting brainwaves
+of multiple people
+
+542
+00:32:36,541 --> 00:32:39,250
+allows us to create an
+observer much more powerful
+
+543
+00:32:39,333 --> 00:32:41,708
+than any one human being.
+
+544
+00:32:43,083 --> 00:32:45,416
+After all, our universe
+is constructed
+
+545
+00:32:45,500 --> 00:32:47,583
+from the billions of
+brains observing it.
+
+546
+00:32:47,666 --> 00:32:50,333
+Which are products
+of the universe.
+
+547
+00:32:50,416 --> 00:32:51,875
+As Nietzsche once said,
+
+548
+00:32:51,958 --> 00:32:55,083
+"if you look into an abyss,
+the abyss looks into you."
+
+549
+00:32:55,166 --> 00:32:57,291
+Never-ending cycles
+such as this one
+
+550
+00:32:57,375 --> 00:32:59,916
+may make it possible for
+us to alter the past,
+
+551
+00:33:00,000 --> 00:33:02,541
+or even create a new universe.
+
+552
+00:33:02,625 --> 00:33:06,458
+Uh. New universe. Say what?
+
+553
+00:33:08,416 --> 00:33:10,541
+[BOMBER 5A panting]
+
+554
+00:33:18,125 --> 00:33:20,041
+[BRONDELLO]
+Let's go!
+
+555
+00:33:22,625 --> 00:33:25,500
+The enemy's breaching our
+final defensive perimeter!
+
+556
+00:33:25,583 --> 00:33:26,791
+Oh, no!
+
+557
+00:33:29,166 --> 00:33:33,500
+[panting]
+
+558
+00:33:39,041 --> 00:33:45,333
+[GEASS SKULL chuckles]
+Tell me, young one.
+
+559
+00:33:46,250 --> 00:33:48,625
+[SHIN gasps]
+
+560
+00:33:48,708 --> 00:33:51,541
+[GEASS SKULL]
+Do you desire... power?
+
+561
+00:33:51,625 --> 00:33:56,083
+[SHIN]
+Yes. If I had the power,
+
+562
+00:33:56,166 --> 00:33:58,416
+I could punish this
+sickening world.
+
+563
+00:33:58,500 --> 00:34:00,541
+[GEASS SKULL]
+All those who bear true hatred
+
+564
+00:34:00,625 --> 00:34:06,291
+for this miserable world
+shall inherit my power.
+
+565
+00:34:07,458 --> 00:34:10,291
+You'll find none more
+worthy of it than me.
+
+566
+00:34:10,375 --> 00:34:12,458
+I promise you that.
+
+567
+00:34:13,041 --> 00:34:17,208
+[GEASS SKULL] But if you accept
+it, your life will be solitude.
+
+568
+00:34:17,291 --> 00:34:19,000
+[GEASS SKULL laughs]
+
+569
+00:34:19,083 --> 00:34:21,291
+[SHIN]
+I'm not afraid to be alone.
+
+570
+00:34:21,375 --> 00:34:23,708
+In fact, I hunger for it.
+
+571
+00:34:36,791 --> 00:34:38,166
+[OLIVIA]
+They're inside the corridor!
+
+572
+00:34:38,250 --> 00:34:39,583
+Take shelter in
+the command post!
+
+573
+00:34:39,666 --> 00:34:40,541
+[ALL gasping]
+
+574
+00:34:40,625 --> 00:34:41,250
+Chloe?
+
+575
+00:34:41,333 --> 00:34:42,875
+I'm so scared, Hilda!
+
+576
+00:34:42,958 --> 00:34:43,791
+[LEILA gasps]
+
+577
+00:34:43,875 --> 00:34:45,458
+[ANNA]
+Chloe! Hilda!
+
+578
+00:34:45,541 --> 00:34:47,833
+Don't shoot us!
+You don't have to--
+
+579
+00:34:52,333 --> 00:34:54,291
+[CLAUS]
+Commander!
+
+580
+00:34:54,375 --> 00:34:57,041
+Hold your fire! Stop shooting!
+
+581
+00:35:01,000 --> 00:35:03,000
+[BRONDELLO]
+So much blood.
+
+582
+00:35:10,250 --> 00:35:12,708
+Lieutenant Colonel.
+
+583
+00:35:14,916 --> 00:35:16,041
+[BRONDELLO gasps]
+
+584
+00:35:18,500 --> 00:35:21,958
+[LEILA]
+Anna? Dr. Randle?
+
+585
+00:35:22,833 --> 00:35:26,250
+[LEILA]
+You can't all be... No.
+
+586
+00:35:31,958 --> 00:35:34,583
+[CROWD chattering, laughing]
+
+587
+00:35:34,666 --> 00:35:35,875
+[LEILA]
+Where am I?
+
+588
+00:35:35,958 --> 00:35:37,750
+[BREISGAU]
+Hello, Mademoiselle.
+
+589
+00:35:37,833 --> 00:35:43,500
+You seem perhaps a little lost.
+Can we help you find something?
+
+590
+00:35:43,583 --> 00:35:47,166
+Oh, Bradow. This woman
+is clearly a soldier.
+
+591
+00:35:47,250 --> 00:35:49,833
+You should address her formally.
+
+592
+00:35:49,916 --> 00:35:51,333
+[BREISGAU]
+Ha, ha. I'm sorry.
+
+593
+00:35:51,416 --> 00:35:55,000
+--[LEILA] Father? Mother?
+--I've never seen that uniform.
+
+594
+00:35:56,000 --> 00:35:56,291
+Whoa!
+
+595
+00:35:56,375 --> 00:35:57,041
+Akito!
+
+596
+00:35:57,125 --> 00:35:57,708
+No!
+
+597
+00:35:57,791 --> 00:35:59,291
+[AYANO]
+Look out!
+
+598
+00:36:18,250 --> 00:36:21,333
+[MANFREDI]
+You have great potential.
+
+599
+00:36:21,416 --> 00:36:23,708
+In Britannia, you
+can become a knight
+
+600
+00:36:23,791 --> 00:36:28,208
+even if you are an Eleven.
+If you're a good fighter.
+
+601
+00:36:30,000 --> 00:36:31,750
+[ALICE]
+Look, Mother!
+
+602
+00:36:32,125 --> 00:36:34,666
+What a delightful little boat!
+
+603
+00:36:34,750 --> 00:36:36,125
+[ALICE laughs]
+
+604
+00:36:36,208 --> 00:36:39,958
+[SHIN]
+Alice. Your hands are freezing.
+
+605
+00:36:40,041 --> 00:36:41,916
+I think that's enough
+for now, don't you?
+
+606
+00:36:42,000 --> 00:36:44,250
+Yeah, I guess you're right.
+
+607
+00:36:48,208 --> 00:36:49,708
+[LEILA gasps]
+
+608
+00:37:00,625 --> 00:37:01,916
+They're alive!
+
+609
+00:37:02,000 --> 00:37:03,333
+[CARETAKER]
+It's difficult for humans
+
+610
+00:37:03,416 --> 00:37:06,041
+to balance instinct
+with intellect.
+
+611
+00:37:06,125 --> 00:37:09,958
+I'm sure you understand
+that, Leila.
+
+612
+00:37:10,541 --> 00:37:13,000
+I'm sorry, but who are you?
+
+613
+00:37:15,000 --> 00:37:17,541
+[CARETAKER]
+I am no one.
+
+614
+00:37:17,625 --> 00:37:22,333
+Outside the perspective
+of those who observe me,
+
+615
+00:37:22,416 --> 00:37:23,791
+I don't exist.
+
+616
+00:37:23,875 --> 00:37:25,291
+[LEILA]
+Like the witch in the forest.
+
+617
+00:37:25,375 --> 00:37:28,666
+[CARETAKER]
+Oh no, she's a human. Like you.
+
+618
+00:37:30,916 --> 00:37:32,500
+Just think of me...
+
+619
+00:37:32,583 --> 00:37:34,875
+Rather... Perhaps you
+should think of us
+
+620
+00:37:34,958 --> 00:37:36,875
+as a sort of collective
+consciousness,
+
+621
+00:37:36,958 --> 00:37:39,458
+if that makes sense to you.
+
+622
+00:37:39,541 --> 00:37:43,083
+An entity that effects the
+evolution of the universe.
+
+623
+00:37:43,166 --> 00:37:44,666
+I'm confused.
+
+624
+00:37:44,750 --> 00:37:47,833
+Are you saying you're the one
+who decides the fates of humans?
+
+625
+00:37:47,916 --> 00:37:49,666
+[CARETAKER]
+Not at all.
+
+626
+00:37:49,750 --> 00:37:52,750
+You sought power for
+yourself and claimed it.
+
+627
+00:37:52,833 --> 00:37:55,916
+But that power isn't
+quite the same as mine.
+
+628
+00:37:56,000 --> 00:38:00,708
+Listen. I just want everyone
+to live and be happy.
+
+629
+00:38:00,791 --> 00:38:03,291
+[CARETAKER] The most basic
+desire of every living thing
+
+630
+00:38:03,375 --> 00:38:06,583
+is to continue to exist.
+
+631
+00:38:06,666 --> 00:38:08,333
+But the fact remains,
+
+632
+00:38:08,416 --> 00:38:11,041
+all things must one
+day disappear.
+
+633
+00:38:11,125 --> 00:38:12,291
+That may be true,
+
+634
+00:38:12,375 --> 00:38:14,666
+but our lives are
+still worth living.
+
+635
+00:38:14,750 --> 00:38:16,916
+[CARETAKER]
+Yes, there is a certain beauty
+
+636
+00:38:17,000 --> 00:38:21,041
+to the fragility of humans.
+
+637
+00:38:21,125 --> 00:38:25,416
+But you're different. You wield
+a fragment of a greater power.
+
+638
+00:38:25,500 --> 00:38:26,791
+A fragment?
+
+639
+00:38:26,875 --> 00:38:28,000
+Of the Geass,
+
+640
+00:38:28,083 --> 00:38:30,875
+which I've come to think
+is beyond your kind.
+
+641
+00:38:30,958 --> 00:38:34,666
+Perhaps we should remove
+it from your world.
+
+642
+00:38:34,750 --> 00:38:36,250
+[LEILA]
+Geass?
+
+643
+00:38:38,041 --> 00:38:40,000
+You know, in the
+beginning I thought
+
+644
+00:38:40,083 --> 00:38:43,958
+humans weren't all that
+special as a species.
+
+645
+00:38:44,041 --> 00:38:47,958
+I thought you couldn't and
+didn't deserve to use the Geass.
+
+646
+00:38:48,041 --> 00:38:50,125
+That you ought to go extinct.
+
+647
+00:38:50,208 --> 00:38:51,750
+[LEILA]
+Please, wait!
+
+648
+00:38:53,583 --> 00:38:56,250
+[CARETAKER] But given
+the way things turned out,
+
+649
+00:38:56,333 --> 00:38:59,291
+perhaps you can prove me wrong.
+
+650
+00:39:02,916 --> 00:39:06,125
+Assuming you can stop that
+man and his corrupt Geass,
+
+651
+00:39:06,208 --> 00:39:07,583
+of course.
+
+652
+00:39:12,083 --> 00:39:13,208
+[gasps]
+
+653
+00:39:14,125 --> 00:39:15,958
+We have explosions
+at the control tower!
+
+654
+00:39:16,041 --> 00:39:17,000
+[LEILA grunts]
+
+655
+00:39:21,041 --> 00:39:22,583
+What about the Liberte?
+
+656
+00:39:22,666 --> 00:39:24,000
+[CHLOE]
+Still can't get a signal!
+
+657
+00:39:24,083 --> 00:39:24,875
+[LEILA gasps]
+
+658
+00:39:24,958 --> 00:39:26,375
+Joe Wise! Record this, please!
+
+659
+00:39:26,458 --> 00:39:29,791
+Right. It's already recording!
+
+660
+00:39:29,875 --> 00:39:31,000
+[CHLOE]
+Hilda, what's this?
+
+661
+00:39:31,083 --> 00:39:32,166
+[FERILLI]
+Ashley's gone out of control!
+
+662
+00:39:32,250 --> 00:39:33,375
+[KATE]
+Doctor!
+
+663
+00:39:33,458 --> 00:39:34,375
+I'm sending you the
+brainwave measurement!
+
+664
+00:39:34,458 --> 00:39:35,791
+[LEILA gasps]
+
+665
+00:39:35,875 --> 00:39:38,625
+The enemy's breaching our
+final defensive perimeter!
+
+666
+00:39:38,708 --> 00:39:41,083
+[gasps] Apply the
+anti-explosion gel!
+
+667
+00:39:41,166 --> 00:39:42,708
+Roger!
+
+668
+00:39:46,250 --> 00:39:47,666
+[KNIGHT 5D grunts]
+
+669
+00:39:48,833 --> 00:39:51,541
+[KNIGHT 5D] I'm sorry, sir,
+we can't destroy the door!
+
+670
+00:39:51,625 --> 00:39:53,291
+[BRONDELLO]
+A blast-proof hatch?
+
+671
+00:39:53,375 --> 00:39:55,000
+[OLIVIA]
+They're inside the corridor!
+
+672
+00:39:55,083 --> 00:39:57,375
+Commander! Should we use
+the gas to wipe them out?
+
+673
+00:39:57,458 --> 00:39:58,833
+Not yet!
+
+674
+00:39:58,916 --> 00:40:00,916
+Open up a channel
+to the outside.
+
+675
+00:40:01,000 --> 00:40:02,833
+I'll talk to their leader.
+
+676
+00:40:04,583 --> 00:40:07,291
+Come on. Snap out of it!
+
+677
+00:40:09,583 --> 00:40:11,291
+[SHIN yells]
+
+678
+00:40:44,625 --> 00:40:47,083
+[LEILA] We would like
+to request a cease-fire.
+
+679
+00:40:47,166 --> 00:40:50,416
+We have no desire to
+fight you any longer.
+
+680
+00:40:50,500 --> 00:40:51,666
+A woman?
+
+681
+00:40:51,750 --> 00:40:54,083
+[LEILA]
+This is Leila Breisgau.
+
+682
+00:40:54,166 --> 00:40:56,208
+The Commander of this base.
+
+683
+00:40:56,291 --> 00:40:57,166
+[AKITO]
+Commander.
+
+684
+00:40:57,250 --> 00:40:59,125
+[LEILA]
+Uh?
+
+685
+00:40:59,208 --> 00:41:01,125
+[AKITO]
+I know this beautiful painting,
+
+686
+00:41:01,208 --> 00:41:04,291
+of a woman with an angel.
+
+687
+00:41:04,375 --> 00:41:09,208
+The woman in the picture
+looks a lot like you.
+
+688
+00:41:09,291 --> 00:41:11,416
+This is the one.
+
+689
+00:41:11,500 --> 00:41:16,958
+It must have been hanging
+in the house I grew up in.
+
+690
+00:41:17,041 --> 00:41:20,833
+Did you like this painting
+when you were a child?
+
+691
+00:41:20,916 --> 00:41:23,250
+I don't know.
+
+692
+00:41:23,333 --> 00:41:29,375
+But I do like the expression
+on the lady's face.
+
+693
+00:41:29,458 --> 00:41:32,000
+She looks so kind.
+
+694
+00:41:32,083 --> 00:41:33,958
+[LEILA]
+Akito.
+
+695
+00:41:36,458 --> 00:41:37,125
+[LEILA grunts]
+
+696
+00:41:37,208 --> 00:41:38,500
+What's wrong?
+
+697
+00:41:38,583 --> 00:41:41,250
+Lieutenant Colonel. Shut
+down the command center.
+
+698
+00:41:41,333 --> 00:41:42,750
+What?!
+
+699
+00:41:48,958 --> 00:41:52,166
+[SHIN groans]
+You're different now.
+
+700
+00:41:58,083 --> 00:41:59,500
+[SHIN groaning]
+
+701
+00:41:59,583 --> 00:42:01,416
+Brother!
+
+702
+00:42:19,583 --> 00:42:22,208
+I'm gonna make sure you suffer!
+
+703
+00:42:30,625 --> 00:42:31,750
+[AKITO grunts]
+
+704
+00:42:39,958 --> 00:42:41,083
+[AKITO grunting]
+
+705
+00:42:42,875 --> 00:42:44,708
+[RYO screams]
+
+706
+00:42:48,625 --> 00:42:49,625
+[gasps]
+
+707
+00:43:01,958 --> 00:43:03,291
+No!
+
+708
+00:43:13,750 --> 00:43:16,208
+I'm not losing another teammate!
+
+709
+00:43:28,000 --> 00:43:31,916
+Hey! You're pretty tough.
+I was hoping for a challenge!
+
+710
+00:43:43,125 --> 00:43:46,291
+Silence! It's over for you!
+
+711
+00:43:50,750 --> 00:43:52,250
+[ASHLEY groaning]
+
+712
+00:43:58,583 --> 00:44:00,541
+[AKITO]
+Stop this now!
+
+713
+00:44:30,166 --> 00:44:32,041
+[AKITO yelling]
+
+714
+00:44:49,541 --> 00:44:52,625
+[SHIN yelling]
+
+715
+00:45:13,541 --> 00:45:15,541
+[LEILA]
+Akito!
+
+716
+00:45:15,625 --> 00:45:19,416
+[RYO grunting]
+Dammit, it's stuck!
+
+717
+00:45:19,500 --> 00:45:21,500
+How'm I supposed to get out?
+
+718
+00:45:24,250 --> 00:45:25,583
+Akito!
+
+719
+00:45:28,958 --> 00:45:29,750
+Akito!
+
+720
+00:45:29,833 --> 00:45:30,500
+Akito!
+
+721
+00:45:30,583 --> 00:45:32,000
+Akito!
+
+722
+00:45:39,666 --> 00:45:42,666
+[SHIN cries]
+Mother.
+
+723
+00:45:42,750 --> 00:45:44,791
+Oh, Mother.
+
+724
+00:45:44,875 --> 00:45:47,916
+I'm going to miss you.
+
+725
+00:45:48,000 --> 00:45:50,375
+Listen. I'm so sorry.
+
+726
+00:45:50,458 --> 00:45:53,541
+But at least now, you'll
+never get hurt again.
+
+727
+00:45:58,416 --> 00:45:59,708
+[AKITO]
+Big brother?
+
+728
+00:45:59,791 --> 00:46:00,958
+[SHIN]
+Mm?
+
+729
+00:46:04,041 --> 00:46:05,916
+What's happening?
+
+730
+00:46:07,750 --> 00:46:12,708
+Akito. You're not
+supposed to be alive.
+
+731
+00:46:12,791 --> 00:46:15,625
+This world is cruel.
+
+732
+00:46:15,708 --> 00:46:18,208
+You're so innocent.
+
+733
+00:46:18,291 --> 00:46:21,166
+[SHIN] I imagine what this
+place will do to you and--
+
+734
+00:46:21,250 --> 00:46:22,958
+[AKITO laughs]
+
+735
+00:46:23,041 --> 00:46:25,250
+[SHIN]
+I can't bear it.
+
+736
+00:46:37,750 --> 00:46:41,208
+Akito... Die.
+
+737
+00:46:50,833 --> 00:46:53,958
+[AKITO]
+Brother. Don't do this.
+
+738
+00:46:54,041 --> 00:46:56,958
+Killing everyone isn't
+gonna solve anything!
+
+739
+00:46:57,041 --> 00:47:00,458
+Of course not.
+I'm well aware of that.
+
+740
+00:47:00,541 --> 00:47:04,458
+But still, I know.
+It's what they truly want.
+
+741
+00:47:04,541 --> 00:47:08,333
+Even you crave violence
+like the rest of them.
+
+742
+00:47:08,416 --> 00:47:09,541
+You're wrong!
+
+743
+00:47:09,625 --> 00:47:12,125
+[SHIN] Let me give you
+this gift brother!
+
+744
+00:47:12,208 --> 00:47:14,833
+Your suffering in this
+miserable world...
+
+745
+00:47:14,916 --> 00:47:16,541
+...ends now!
+
+746
+00:47:16,625 --> 00:47:18,000
+[AKITO whimpers]
+
+747
+00:47:18,083 --> 00:47:22,333
+Akito!
+
+748
+00:47:22,416 --> 00:47:30,666
+[SHIN yelling]
+
+749
+00:47:33,583 --> 00:47:34,750
+[AKITO groans]
+
+750
+00:47:34,833 --> 00:47:40,250
+I will kill you, Akito! I swear!
+
+751
+00:47:40,333 --> 00:47:42,041
+Death is a blessing!
+
+752
+00:47:42,125 --> 00:47:45,625
+I'm just doing
+what's best for you!
+
+753
+00:47:45,708 --> 00:47:46,625
+Don't do it!
+
+754
+00:47:46,708 --> 00:47:47,416
+Leave him alone!
+
+755
+00:47:47,500 --> 00:47:48,750
+Please, don't!
+
+756
+00:47:48,833 --> 00:47:50,458
+Begone, spirits!
+
+757
+00:47:50,541 --> 00:47:52,708
+[MANFREDI] You truly love
+your younger brother.
+
+758
+00:47:52,791 --> 00:47:54,166
+[SHIN grunts]
+
+759
+00:47:54,250 --> 00:47:56,291
+You wish to free
+the people you love
+
+760
+00:47:56,375 --> 00:47:58,750
+from the pain
+of human existence.
+
+761
+00:47:58,833 --> 00:48:00,458
+We understand.
+
+762
+00:48:00,541 --> 00:48:03,541
+[MARIA] We realize that your
+intentions are noble, my son.
+
+763
+00:48:03,625 --> 00:48:05,041
+That said,
+
+764
+00:48:05,125 --> 00:48:06,750
+I don't think that killing is
+the answer to your fears.
+
+765
+00:48:06,833 --> 00:48:09,916
+I know what I'm doing!
+
+766
+00:48:10,000 --> 00:48:11,458
+[ALICE]
+Brother,
+
+767
+00:48:11,541 --> 00:48:13,916
+we don't doubt that you did
+this out of your love for us.
+
+768
+00:48:14,000 --> 00:48:17,291
+But still. It seems your
+methods are misguided.
+
+769
+00:48:17,375 --> 00:48:19,666
+This world is full
+of possibilities.
+
+770
+00:48:19,750 --> 00:48:22,666
+There must be a better way.
+
+771
+00:48:22,750 --> 00:48:25,583
+That woman there.
+
+772
+00:48:25,666 --> 00:48:28,458
+She clearly believes it.
+
+773
+00:48:30,750 --> 00:48:35,958
+There is no other way.
+Not in this world!
+
+774
+00:48:36,041 --> 00:48:39,083
+Shin, please don't kill Akito.
+
+775
+00:48:39,166 --> 00:48:42,708
+So he means that much
+to you, does he?
+
+776
+00:48:42,791 --> 00:48:45,958
+If you loved me, you would
+have killed him at birth!
+
+777
+00:48:46,041 --> 00:48:47,375
+Please believe me.
+
+778
+00:48:47,458 --> 00:48:50,541
+I loved both of you
+with all my heart!
+
+779
+00:48:52,291 --> 00:48:53,916
+Liar!
+
+780
+00:49:03,291 --> 00:49:05,208
+[AKITO]
+Listen! Just stop!
+
+781
+00:49:05,291 --> 00:49:07,583
+[SHIN]
+It has to be this way!
+
+782
+00:49:07,666 --> 00:49:08,500
+[AKITO groans]
+
+783
+00:49:08,583 --> 00:49:10,875
+[SHIN grunting]
+
+784
+00:49:15,125 --> 00:49:16,666
+Akito!
+
+785
+00:49:21,000 --> 00:49:23,458
+You're supposed to
+die at my hands.
+
+786
+00:49:23,541 --> 00:49:25,291
+Why can't you see that?
+
+787
+00:49:29,208 --> 00:49:31,541
+I'm not letting you kill Akito!
+
+788
+00:49:31,625 --> 00:49:32,625
+[SHIN growls]
+
+789
+00:49:33,541 --> 00:49:35,000
+Stay away from our friend!
+
+790
+00:49:35,083 --> 00:49:36,500
+Akito. You're safe.
+
+791
+00:49:36,583 --> 00:49:38,416
+We're with you!
+
+792
+00:49:38,500 --> 00:49:39,458
+[SHIN]
+Hm? Uh.
+
+793
+00:49:39,541 --> 00:49:40,666
+[SOLDIERS chattering]
+
+794
+00:49:40,750 --> 00:49:41,833
+[HAMMEL]
+Don't harm him.
+
+795
+00:49:41,916 --> 00:49:43,125
+[SOLDIER 5C]
+I won't let you kill Akito!
+
+796
+00:49:43,208 --> 00:49:44,208
+[SOPHIE]
+Listen to us.
+
+797
+00:49:44,291 --> 00:49:48,041
+[JOE]
+You can't kill Akito!
+
+798
+00:49:49,208 --> 00:49:51,250
+Enough of this!
+
+799
+00:49:58,291 --> 00:50:01,125
+[SHIN yelling]
+
+800
+00:50:04,750 --> 00:50:05,916
+[LEILA]
+Ah!
+
+801
+00:50:29,500 --> 00:50:34,000
+I don't want you...
+to suffer any longer.
+
+802
+00:50:34,083 --> 00:50:37,583
+[SHIN] How could you
+possibly understand, Jean?
+
+803
+00:50:39,458 --> 00:50:44,583
+I-I love you, Lord Hyuga.
+
+804
+00:50:44,666 --> 00:50:46,791
+I always have.
+
+805
+00:50:53,000 --> 00:50:55,375
+[SHIN]
+Stupid woman.
+
+806
+00:51:02,333 --> 00:51:04,500
+[SHIN]
+Just like my mother.
+
+807
+00:51:06,333 --> 00:51:07,958
+Look what you've done.
+
+808
+00:51:08,041 --> 00:51:11,041
+[AKITO grunting]
+
+809
+00:51:11,125 --> 00:51:12,291
+[SHIN grunts]
+
+810
+00:51:12,375 --> 00:51:13,583
+[AKITO]
+Brother!
+
+811
+00:51:16,416 --> 00:51:17,583
+[SHIN]
+Just go away!
+
+812
+00:51:17,666 --> 00:51:19,750
+[AKITO]
+No! I won't!
+
+813
+00:51:21,625 --> 00:51:22,625
+I won't.
+
+814
+00:51:22,708 --> 00:51:24,666
+[SHIN grunting]
+
+815
+00:51:28,625 --> 00:51:30,250
+[AKITO]
+Big brother?
+
+816
+00:51:35,041 --> 00:51:36,500
+[AKITO]
+Big brother!
+
+817
+00:51:36,583 --> 00:51:39,750
+[SHIN sniffles]
+Go away!
+
+818
+00:51:39,833 --> 00:51:43,291
+Come back, Shin.
+Let's go home.
+
+819
+00:51:43,791 --> 00:51:45,666
+Get lost!
+
+820
+00:51:51,500 --> 00:51:54,625
+[AKITO cries]
+
+821
+00:51:59,875 --> 00:52:01,375
+[SHIN]
+Stop crying.
+
+822
+00:52:01,458 --> 00:52:03,166
+[crying continues]
+
+823
+00:52:03,250 --> 00:52:05,291
+I said stop!
+
+824
+00:52:09,166 --> 00:52:11,625
+[SHIN]
+Come on. Climb on my back.
+
+825
+00:52:19,583 --> 00:52:21,333
+[AKITO]
+Thank you.
+
+826
+00:52:21,416 --> 00:52:24,250
+[SHIN]
+No more crying Akito, okay?
+
+827
+00:52:30,291 --> 00:52:32,791
+[AKITO]
+I love you, Shin.
+
+828
+00:52:49,875 --> 00:52:51,583
+Akito.
+
+829
+00:52:53,083 --> 00:52:54,916
+[AKITO]
+Shin.
+
+830
+00:52:55,625 --> 00:52:57,791
+[AKITO]
+Brother.
+
+831
+00:52:57,875 --> 00:52:58,875
+Are you...?
+
+832
+00:52:58,958 --> 00:53:01,625
+[SHIN]
+You can let go. You won't be...
+
+833
+00:53:01,708 --> 00:53:04,416
+...alone when I'm gone.
+
+834
+00:53:06,083 --> 00:53:11,000
+[SHIN] This world may be
+cruel, but... [groaning]
+
+835
+00:53:11,083 --> 00:53:14,166
+I want you to live.
+
+836
+00:53:14,250 --> 00:53:15,916
+[AKITO]
+Where are you--?
+
+837
+00:53:17,041 --> 00:53:20,750
+[SHIN]
+Jean. Jeanne...
+
+838
+00:53:22,333 --> 00:53:24,583
+[JEAN]
+Shin.
+
+839
+00:53:24,666 --> 00:53:26,541
+[SHIN]
+I'm here.
+
+840
+00:53:27,833 --> 00:53:31,416
+[JEAN]
+Shin! I've missed you so!
+
+841
+00:53:31,500 --> 00:53:33,791
+[SHIN]
+I'm so sorry, Jeanne.
+
+842
+00:53:33,875 --> 00:53:36,708
+We're together now. For good.
+
+843
+00:53:36,791 --> 00:53:39,250
+[JEAN]
+I'm glad, Shin.
+
+844
+00:53:53,250 --> 00:53:55,000
+[LEILA]
+Akito.
+
+845
+00:54:40,875 --> 00:54:43,500
+[FEMALE JUGEND 3A] Enemy units
+have emerged from the pillbox.
+
+846
+00:54:43,583 --> 00:54:44,916
+[MALE JUGEND 3A]
+It seems they'd rather die
+
+847
+00:54:45,000 --> 00:54:46,250
+than surrender.
+
+848
+00:54:46,333 --> 00:54:48,458
+Yes, so it seems.
+
+849
+00:55:05,125 --> 00:55:06,083
+[SMILAS]
+Uh!
+
+850
+00:55:07,458 --> 00:55:11,791
+[ASHLEY]
+Uhh! That was quite a ride.
+
+851
+00:55:11,875 --> 00:55:14,625
+That sounds like... Could it be?
+
+852
+00:55:16,875 --> 00:55:18,916
+I would know that red
+Knightmare anywhere!
+
+853
+00:55:19,000 --> 00:55:20,250
+Master Ashley!
+
+854
+00:55:20,333 --> 00:55:21,416
+Is that you?
+
+855
+00:55:21,500 --> 00:55:23,250
+We've waited so long!
+
+856
+00:55:23,333 --> 00:55:25,750
+Master Ashley!
+
+857
+00:55:25,833 --> 00:55:28,500
+[ASHLEY]
+Of course you guys survived!
+
+858
+00:55:28,583 --> 00:55:30,875
+That's my Ashra Force!
+
+859
+00:55:30,958 --> 00:55:32,000
+[MALE JUGEND 3A]
+General!
+
+860
+00:55:32,083 --> 00:55:34,583
+An enemy Knightmare
+force is inbound!
+
+861
+00:55:34,666 --> 00:55:36,333
+Take them down!
+
+862
+00:55:36,416 --> 00:55:39,916
+[CARETAKER] He's willing to face
+anything for his comrades.
+
+863
+00:55:40,000 --> 00:55:43,625
+You should be more
+like him, Gene Smilas.
+
+864
+00:55:43,708 --> 00:55:45,125
+[SMILAS gasping]
+
+865
+00:55:50,666 --> 00:55:54,958
+But sadly, you won't
+get the chance.
+
+866
+00:55:55,750 --> 00:55:58,000
+[ALL screaming]
+
+867
+00:56:07,583 --> 00:56:09,083
+[ANCHOR 5A]
+The death of General Smilas
+
+868
+00:56:09,166 --> 00:56:13,833
+marks the end of Europia's
+experiment in dictatorship.
+
+869
+00:56:13,916 --> 00:56:15,916
+Now, once again,
+
+870
+00:56:16,000 --> 00:56:20,000
+Europia will be a republic
+of and by the people.
+
+871
+00:56:22,500 --> 00:56:24,875
+[FARNESE] The rebellion by
+the Holy Order of Michael
+
+872
+00:56:24,958 --> 00:56:28,666
+gave the homeland the excuse
+they needed to intervene.
+
+873
+00:56:28,750 --> 00:56:31,416
+I'm very sorry, Your Highness.
+
+874
+00:56:31,500 --> 00:56:34,666
+[VELAINES] It is quite a shame.
+Tell me, Lord Farnese.
+
+875
+00:56:34,750 --> 00:56:35,500
+[gasps]
+
+876
+00:56:35,583 --> 00:56:36,791
+The Europian commander
+
+877
+00:56:36,875 --> 00:56:38,666
+who sent in the
+Ghost of Hannibal.
+
+878
+00:56:38,750 --> 00:56:41,708
+Do you have any information
+regarding this person?
+
+879
+00:56:41,791 --> 00:56:45,041
+[FARNESE] I only know that her
+name was Leila Breisgau, sir.
+
+880
+00:56:45,125 --> 00:56:46,541
+[VELAINES]
+Just as I thought.
+
+881
+00:56:46,625 --> 00:56:48,958
+It's come to my attention that
+the castle Shaing attacked
+
+882
+00:56:49,041 --> 00:56:51,166
+happened to belong
+to the Breisgau family
+
+883
+00:56:51,250 --> 00:56:54,916
+before the revolution 300
+years ago. Quite interesting.
+
+884
+00:56:55,000 --> 00:56:57,791
+We'll be mindful of the
+Briesgau name going forward.
+
+885
+00:56:57,875 --> 00:57:01,291
+[VELAINES] Indeed. We can
+only hope that someday
+
+886
+00:57:01,375 --> 00:57:03,250
+a descendant of
+the Breisgau line
+
+887
+00:57:03,333 --> 00:57:06,500
+returns to claim
+that land again.
+
+888
+00:57:24,875 --> 00:57:25,791
+[ANOU groans]
+
+889
+00:57:25,875 --> 00:57:27,791
+[CON ARTIST 3E]
+Ugh. Good grief.
+
+890
+00:57:27,875 --> 00:57:30,791
+For a former soldier,
+you sure are useless.
+
+891
+00:57:30,875 --> 00:57:33,166
+[ANOU sighs]
+I know. I'm sorry.
+
+892
+00:57:33,250 --> 00:57:35,541
+[AYANO]
+Stop goofing around, Anou.
+
+893
+00:57:35,625 --> 00:57:37,833
+What are we gonna do with you?
+
+894
+00:57:37,916 --> 00:57:41,083
+You sure know how to
+handle a knife, Yukiya!
+
+895
+00:57:41,166 --> 00:57:43,250
+[GRANNY 3C]
+He can handle me any day!
+
+896
+00:57:43,333 --> 00:57:44,291
+Look at him.
+
+897
+00:57:44,375 --> 00:57:45,625
+He's even more
+handsome now that...
+
+898
+00:57:45,708 --> 00:57:48,666
+[YUKIYA] Hey. Cut it out!
+You're embarrassing me!
+
+899
+00:57:48,750 --> 00:57:50,291
+[RYO]
+Whoa! What is this?
+
+900
+00:57:50,375 --> 00:57:53,041
+You better not be
+groping Yukiya!
+
+901
+00:57:53,125 --> 00:57:55,708
+We've got plenty of love
+for you too, hot stuff.
+
+902
+00:57:55,791 --> 00:57:58,083
+Ah. I mean, I guess
+I won't stop you.
+
+903
+00:57:58,166 --> 00:58:00,166
+[GRANNY 3B]
+Ooh, you're so strong and manly!
+
+904
+00:58:00,250 --> 00:58:00,958
+Oh, you think so?
+
+905
+00:58:01,041 --> 00:58:02,333
+Yeah, I guess I am!
+
+906
+00:58:02,416 --> 00:58:04,541
+[ASHLEY] Well, aren't you
+popular with the ladies?
+
+907
+00:58:04,625 --> 00:58:05,833
+[RYO]
+Uh.
+
+908
+00:58:05,916 --> 00:58:08,000
+[ALL]
+Ashley!
+
+909
+00:58:08,083 --> 00:58:09,500
+[BOTH gasp]
+
+910
+00:58:09,583 --> 00:58:11,875
+Uh, hello.
+
+911
+00:58:25,708 --> 00:58:27,208
+[AKITO]
+Are you sure about this?
+
+912
+00:58:27,291 --> 00:58:28,250
+[gasps]
+
+913
+00:58:30,333 --> 00:58:31,875
+Of course I am.
+
+914
+00:58:31,958 --> 00:58:34,625
+I've really come to enjoy
+the life we have here.
+
+915
+00:58:34,708 --> 00:58:36,583
+Just take a look around us.
+
+916
+00:58:36,666 --> 00:58:38,333
+It's so beautiful.
+
+917
+00:58:38,416 --> 00:58:40,958
+Um... What do you think?
+
+918
+00:58:41,041 --> 00:58:43,541
+I think so, too.
+
+919
+00:58:43,625 --> 00:58:46,291
+I've got such a big family now.
+
+920
+00:58:46,375 --> 00:58:47,958
+[LEILA laughs]
+
+921
+00:58:49,291 --> 00:58:52,625
+Let's head back now,
+Commander. Okay?
+
+922
+00:58:59,833 --> 00:59:02,458
+I mean... Leila.
+
+923
+00:59:46,583 --> 00:59:47,500
+[SUZAKU gasps]
+
+924
+00:59:51,958 --> 00:59:54,125
+[ROLO]
+Don't be alarmed.
+
+925
+00:59:54,208 --> 00:59:55,833
+I'm here to retrieve you.
+
+926
+00:59:55,916 --> 00:59:57,041
+[JULIUS gasping]
+
+927
+00:59:57,125 --> 00:59:59,833
+[ROLO] It would appear
+His Imperial Majesty
+
+928
+00:59:59,916 --> 01:00:04,083
+wishes to meet with Lord
+Julius Kingsley once more.
+
+929
+01:00:06,083 --> 01:00:10,416
+[ROLO] Won't you return
+to Britannia with us,
+
+930
+01:00:10,500 --> 01:00:13,041
+Sir Kururugi?
+

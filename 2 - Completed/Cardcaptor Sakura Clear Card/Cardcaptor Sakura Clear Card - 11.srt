@@ -1,0 +1,2109 @@
+﻿1
+00:01:49,250 --> 00:01:52,500
+[TOMOYO] Again? And you said
+there were two cards this time?
+
+2
+00:01:52,583 --> 00:01:54,000
+Yeah. That's right.
+
+3
+00:01:54,083 --> 00:01:55,791
+At home?
+
+4
+00:01:55,875 --> 00:01:57,875
+Akiho had come over.
+
+5
+00:02:00,125 --> 00:02:02,416
+And what was she doing?
+
+6
+00:02:02,500 --> 00:02:04,250
+[SAKURA]
+Sleeping, thanks to this.
+
+7
+00:02:04,333 --> 00:02:05,791
+[SYAORAN]
+Okay.
+
+8
+00:02:05,875 --> 00:02:09,541
+And, once again, I couldn't
+sense a darn thing.
+
+9
+00:02:09,625 --> 00:02:11,333
+Did you, though?
+
+10
+00:02:11,416 --> 00:02:13,833
+It was just barely
+there, but yes.
+
+11
+00:02:13,916 --> 00:02:16,458
+I could tell something
+was different.
+
+12
+00:02:16,541 --> 00:02:18,041
+[SYAORAN]
+How so?
+
+13
+00:02:18,125 --> 00:02:20,041
+I'm not sure how to explain it.
+
+14
+00:02:20,125 --> 00:02:23,541
+I guess something felt
+kind of "off." You know?
+
+15
+00:02:23,625 --> 00:02:25,875
+Just off?
+
+16
+00:02:27,916 --> 00:02:29,708
+[KERO] So right now,
+Sakura's the only one
+
+17
+00:02:29,791 --> 00:02:31,916
+who can sense the cards.
+
+18
+00:02:33,708 --> 00:02:34,333
+[TOMOYO gasps]
+
+19
+00:02:34,416 --> 00:02:35,458
+Hold on!
+
+20
+00:02:35,541 --> 00:02:37,166
+[SAKURA]
+Go ahead. What is it?
+
+21
+00:02:37,250 --> 00:02:38,916
+Well, I noticed something,
+
+22
+00:02:39,000 --> 00:02:40,750
+but it may not
+be that important.
+
+23
+00:02:40,833 --> 00:02:44,666
+Tell me. At this point,
+anything'll help.
+
+24
+00:02:44,750 --> 00:02:47,875
+[TOMOYO] These two cards,
+Labyrinth and Snooze,
+
+25
+00:02:47,958 --> 00:02:50,208
+they seemed familiar to me.
+
+26
+00:02:50,291 --> 00:02:51,875
+And it's because their
+powers are similar
+
+27
+00:02:51,958 --> 00:02:54,791
+to the Maze and
+Sleep Clow Cards.
+
+28
+00:02:54,875 --> 00:02:56,208
+[SAKURA gasps]
+
+29
+00:03:03,416 --> 00:03:04,875
+[TEACHER A]
+Formulas are your friends.
+
+30
+00:03:04,958 --> 00:03:07,000
+You'll be using them
+for a long time.
+
+31
+00:03:07,083 --> 00:03:09,791
+I strongly suggest
+you memorize them.
+
+32
+00:03:09,875 --> 00:03:13,250
+All right, we'll
+start with equality.
+
+33
+00:03:13,333 --> 00:03:14,833
+This should look familiar.
+
+34
+00:03:14,916 --> 00:03:17,708
+Today we'll be learning about
+formulas called equalities
+
+35
+00:03:17,791 --> 00:03:19,125
+and how they use the equal sign
+
+36
+00:03:19,208 --> 00:03:22,750
+to express relationships
+between numerical values.
+
+37
+00:03:22,833 --> 00:03:25,208
+We call everything to
+the left of the equal sign
+
+38
+00:03:25,291 --> 00:03:26,583
+the left-side value.
+
+39
+00:03:26,666 --> 00:03:30,208
+Everything to the right
+is the right-side value.
+
+40
+00:03:30,291 --> 00:03:31,708
+Though they may be expressed
+in different forms...
+
+41
+00:03:31,791 --> 00:03:34,166
+[SAKURA]
+It's like Tomoyo was saying.
+
+42
+00:03:34,250 --> 00:03:35,791
+These new cards
+that are showing up
+
+43
+00:03:35,875 --> 00:03:40,333
+seem to have a lot in
+common with the old ones.
+
+44
+00:03:40,416 --> 00:03:44,791
+Aqua is similar to Watery.
+Flight is like Fly.
+
+45
+00:03:44,875 --> 00:03:48,458
+And Gale, Gale resembles Windy.
+
+46
+00:03:50,958 --> 00:03:53,500
+[SAKURA]
+But would that mean...?
+
+47
+00:03:53,583 --> 00:03:54,750
+Miss Kinomoto.
+
+48
+00:03:54,833 --> 00:03:56,583
+[SAKURA]
+Uh. Yes, sir!
+
+49
+00:03:56,666 --> 00:03:58,041
+[gasps]
+
+50
+00:03:58,125 --> 00:03:59,083
+[KERO]
+Uh? Huh?
+
+51
+00:03:59,166 --> 00:03:59,916
+[chuckles]
+
+52
+00:04:00,000 --> 00:04:02,291
+Oh, did I startle you?
+
+53
+00:04:02,375 --> 00:04:05,500
+Dozed off for a
+little there, did we?
+
+54
+00:04:05,583 --> 00:04:07,916
+Well, that's good, but
+I would like you to pay
+
+55
+00:04:08,000 --> 00:04:10,541
+a bit more attention
+going forward.
+
+56
+00:04:10,625 --> 00:04:12,958
+Uh. Right.
+
+57
+00:04:13,041 --> 00:04:17,916
+Okay, we got it, Teach. Will do.
+
+58
+00:04:19,833 --> 00:04:21,416
+Oh, wow.
+
+59
+00:04:21,500 --> 00:04:24,166
+You were called out in
+front of the whole class?
+
+60
+00:04:25,875 --> 00:04:27,875
+It was totally embarrassing.
+
+61
+00:04:27,958 --> 00:04:31,666
+Yes, but at least you weren't
+actually taking a nap, right?
+
+62
+00:04:31,750 --> 00:04:34,250
+I was still spacing out, though.
+
+63
+00:04:34,333 --> 00:04:36,291
+I can't believe I did that.
+
+64
+00:04:36,375 --> 00:04:38,083
+[CHIHARU]
+It happens to everyone.
+
+65
+00:04:38,166 --> 00:04:39,750
+Don't beat yourself up.
+
+66
+00:04:39,833 --> 00:04:41,666
+Like just the other
+day in class.
+
+67
+00:04:41,750 --> 00:04:43,875
+I was thinking about
+a story I'm writing,
+
+68
+00:04:43,958 --> 00:04:45,791
+and then the teacher
+suddenly called on me
+
+69
+00:04:45,875 --> 00:04:48,208
+and I had no idea what to say.
+
+70
+00:04:48,291 --> 00:04:52,750
+A story? Yay, I can't wait.
+What will this new one be about?
+
+71
+00:04:52,833 --> 00:04:55,083
+[NAOKO]
+I don't wanna say just yet.
+
+72
+00:04:55,166 --> 00:04:58,125
+Oh, I do have an
+announcement, though.
+
+73
+00:04:58,208 --> 00:05:00,500
+I get to write the script
+for our next play.
+
+74
+00:05:00,583 --> 00:05:03,125
+They're letting first-years
+do most of the work.
+
+75
+00:05:03,208 --> 00:05:04,416
+You'll write it all?
+
+76
+00:05:04,500 --> 00:05:05,833
+Yeah.
+
+77
+00:05:05,916 --> 00:05:08,166
+That's why I joined the drama
+club in the first place.
+
+78
+00:05:08,250 --> 00:05:10,750
+The Literature Club
+would've worked too, I guess.
+
+79
+00:05:10,833 --> 00:05:13,250
+Except, lately I'm a
+lot more interested
+
+80
+00:05:13,333 --> 00:05:15,833
+in scriptwriting than
+writing novels.
+
+81
+00:05:15,916 --> 00:05:19,000
+You remember those photos?
+Back at my house?
+
+82
+00:05:19,083 --> 00:05:21,291
+From when you played
+a beautiful princess?
+
+83
+00:05:21,375 --> 00:05:22,833
+Um, right.
+
+84
+00:05:22,916 --> 00:05:26,083
+It was a school play, and
+Naoko wrote the whole thing.
+
+85
+00:05:26,166 --> 00:05:28,000
+[gasps]
+
+86
+00:05:28,083 --> 00:05:29,958
+[AKIHO]
+You must be so talented!
+
+87
+00:05:30,041 --> 00:05:33,125
+[NAOKO] I don't know.
+I still have a lot to learn.
+
+88
+00:05:33,208 --> 00:05:36,208
+[AKIHO] You'll show
+me the video, right?
+
+89
+00:05:36,291 --> 00:05:37,625
+Yeah, sure.
+
+90
+00:05:37,708 --> 00:05:40,583
+[TAKASHI]
+You guys having fun?
+
+91
+00:05:40,666 --> 00:05:43,333
+I'm sorry we're late.
+
+92
+00:05:43,416 --> 00:05:46,375
+[TOMOYO] So how did your
+meeting with the teacher go?
+
+93
+00:05:46,458 --> 00:05:49,833
+Not bad, we were talking about
+the next sports tournament.
+
+94
+00:05:49,916 --> 00:05:52,833
+Li and I are working on the
+operating committee together.
+
+95
+00:05:52,916 --> 00:05:54,666
+That sounds like fun.
+
+96
+00:05:54,750 --> 00:05:57,000
+[TAKASHI]
+It is, once things get moving.
+
+97
+00:05:57,083 --> 00:05:58,333
+But first you have to decide
+
+98
+00:05:58,416 --> 00:05:59,833
+who's going to be
+in which event,
+
+99
+00:05:59,916 --> 00:06:01,375
+and that can be difficult.
+
+100
+00:06:01,458 --> 00:06:02,958
+[SYAORAN]
+Very.
+
+101
+00:06:03,041 --> 00:06:06,500
+I guess no one would wanna be
+in an event they're not good at.
+
+102
+00:06:06,583 --> 00:06:09,041
+What about you, Akiho?
+Play any sports?
+
+103
+00:06:09,125 --> 00:06:10,416
+I guess I'm all right at tennis.
+
+104
+00:06:10,500 --> 00:06:12,250
+I've played it ever
+since I was little.
+
+105
+00:06:12,333 --> 00:06:13,708
+That's too bad.
+
+106
+00:06:13,791 --> 00:06:16,500
+There's no tennis this
+time around, sorry.
+
+107
+00:06:18,416 --> 00:06:21,333
+So what events are in
+the tournament, then?
+
+108
+00:06:21,416 --> 00:06:25,041
+There's volleyball,
+and basketball, ping-pong.
+
+109
+00:06:25,125 --> 00:06:26,375
+Oh, and badminton.
+
+110
+00:06:26,458 --> 00:06:28,625
+Okay, that's kind
+of like tennis.
+
+111
+00:06:28,708 --> 00:06:30,208
+Is it?
+
+112
+00:06:30,291 --> 00:06:32,000
+Allow me to enlighten you.
+
+113
+00:06:32,083 --> 00:06:34,708
+In badminton, two players
+stand on either side of a net
+
+114
+00:06:34,791 --> 00:06:36,291
+that's stretched
+across the court,
+
+115
+00:06:36,375 --> 00:06:39,208
+and volley a shuttlecock back
+and forth to score points.
+
+116
+00:06:39,291 --> 00:06:41,125
+The shuttlecock
+actually moves faster
+
+117
+00:06:41,208 --> 00:06:43,458
+than any other object in sports.
+
+118
+00:06:43,541 --> 00:06:47,583
+Also, many people mistakenly
+call the event "bat-minton."
+
+119
+00:06:47,666 --> 00:06:51,166
+But that's wrong.
+It's actually "badminton."
+
+120
+00:06:51,250 --> 00:06:52,541
+[CHIHARU]
+Huh?
+
+121
+00:06:52,625 --> 00:06:56,125
+Wait. I can't find anything
+to criticize in that.
+
+122
+00:06:56,208 --> 00:06:58,541
+It sounded like a thorough
+explanation to me.
+
+123
+00:06:58,625 --> 00:07:00,208
+[ALL]
+Mh! Mh!
+
+124
+00:07:00,291 --> 00:07:02,666
+Yamazaki actually told
+the truth for once?
+
+125
+00:07:02,750 --> 00:07:04,916
+[chuckles]
+
+126
+00:07:05,000 --> 00:07:06,375
+You've gotta keep
+people guessing.
+
+127
+00:07:06,458 --> 00:07:08,333
+Ah! This just feels wrong!
+
+128
+00:07:08,416 --> 00:07:11,708
+You're you! You're not
+supposed to tell the truth.
+
+129
+00:07:13,291 --> 00:07:15,791
+[SYAORAN] So all of you have
+the day off from your clubs?
+
+130
+00:07:15,875 --> 00:07:19,000
+Yeah. No cheerleading today.
+
+131
+00:07:19,083 --> 00:07:21,083
+[AKIHO] And we're on break
+so the piano can get tuned
+
+132
+00:07:21,166 --> 00:07:23,833
+and the teacher can get
+some arrangements done.
+
+133
+00:07:23,916 --> 00:07:24,833
+[TOMOYO]
+There was a meeting about
+
+134
+00:07:24,916 --> 00:07:26,166
+the joint recital
+we're putting on
+
+135
+00:07:26,250 --> 00:07:28,166
+with another middle
+school next month.
+
+136
+00:07:28,250 --> 00:07:30,250
+Everyone's getting
+really excited.
+
+137
+00:07:30,333 --> 00:07:32,750
+[SAKURA] A recital?
+Can we come see it, too?
+
+138
+00:07:32,833 --> 00:07:35,666
+[TOMOYO]
+Yes! It'll be in our auditorium.
+
+139
+00:07:35,750 --> 00:07:37,583
+What do you think,
+Syaoran, you wanna go?
+
+140
+00:07:37,666 --> 00:07:38,375
+Sure.
+
+141
+00:07:38,458 --> 00:07:39,750
+Okay then, we'll be there.
+
+142
+00:07:39,833 --> 00:07:41,541
+You'll do great.
+I know you will!
+
+143
+00:07:41,625 --> 00:07:42,791
+[TOMOYO, AKIHO]
+Thanks!
+
+144
+00:07:42,875 --> 00:07:45,541
+We're not going to
+disappoint you, I promise.
+
+145
+00:07:45,625 --> 00:07:46,416
+[KAITO]
+Akiho.
+
+146
+00:07:46,500 --> 00:07:47,958
+[AKIHO]
+Uh?
+
+147
+00:07:48,041 --> 00:07:49,583
+It's Kaito!
+
+148
+00:07:50,708 --> 00:07:52,166
+Hello there.
+
+149
+00:07:52,250 --> 00:07:54,958
+[SAKURA, TOMOYO]
+Nice to see you!
+
+150
+00:07:55,041 --> 00:07:56,958
+Are you on your way
+home from school?
+
+151
+00:07:57,041 --> 00:07:59,416
+Yes. What are you up to?
+
+152
+00:07:59,500 --> 00:08:00,833
+Just finished shopping.
+
+153
+00:08:00,916 --> 00:08:02,583
+Why don't I take a bag?
+
+154
+00:08:02,666 --> 00:08:05,333
+Thank you, but I'm all right.
+
+155
+00:08:07,708 --> 00:08:09,916
+[KAITO]
+Where are my manners?
+
+156
+00:08:10,000 --> 00:08:11,875
+Please, forgive me.
+
+157
+00:08:11,958 --> 00:08:15,000
+I look after Akiho.
+My name is Yuna D. Kaito.
+
+158
+00:08:15,083 --> 00:08:18,125
+And you? May I ask yours?
+
+159
+00:08:18,208 --> 00:08:20,708
+I'm Syaoran Li.
+
+160
+00:08:26,291 --> 00:08:28,916
+Now then, do you need
+to make any stops?
+
+161
+00:08:29,000 --> 00:08:30,166
+I don't.
+
+162
+00:08:30,250 --> 00:08:33,000
+[KAITO]
+Very good. Shall we head home?
+
+163
+00:08:33,083 --> 00:08:34,708
+Yes!
+
+164
+00:08:34,791 --> 00:08:38,875
+Ladies, do come
+visit again soon.
+
+165
+00:08:38,958 --> 00:08:41,458
+And you, please.
+
+166
+00:08:48,625 --> 00:08:51,083
+I'm so hungry!
+
+167
+00:08:51,166 --> 00:08:52,375
+[yelps]
+
+168
+00:08:53,458 --> 00:08:54,583
+What are you doing?
+
+169
+00:08:54,666 --> 00:08:56,958
+Coulda sworn I
+smelled fresh bread.
+
+170
+00:08:57,041 --> 00:08:59,375
+Sorry, that was Kaito's.
+It's not for you.
+
+171
+00:08:59,458 --> 00:09:00,833
+[KERO groans]
+
+172
+00:09:00,916 --> 00:09:03,333
+I was stuck in the bag while
+you guys got to eat lunch.
+
+173
+00:09:03,416 --> 00:09:05,750
+It's like you're
+trying to starve me!
+
+174
+00:09:05,833 --> 00:09:08,000
+But I packed a ton
+of snacks for you.
+
+175
+00:09:08,083 --> 00:09:10,791
+You thought those would be
+enough to keep me going?
+
+176
+00:09:10,875 --> 00:09:12,666
+Don't go blaming
+me if you get fat.
+
+177
+00:09:12,750 --> 00:09:14,208
+[KERO]
+A little bit of extra padding
+
+178
+00:09:14,291 --> 00:09:16,958
+isn't gonna change
+this smokin' hot body!
+
+179
+00:09:17,041 --> 00:09:19,125
+[SAKURA] But we're talking
+about more than a little.
+
+180
+00:09:19,208 --> 00:09:20,916
+[KERO]
+Good thing I'm charming, then.
+
+181
+00:09:21,000 --> 00:09:23,041
+Is something bothering you?
+
+182
+00:09:37,791 --> 00:09:39,458
+Good morning.
+
+183
+00:09:39,541 --> 00:09:42,666
+Actually, I suppose it's
+evening where you are.
+
+184
+00:09:45,958 --> 00:09:49,458
+So someone with magic.
+How does Sakura know him?
+
+185
+00:09:49,541 --> 00:09:52,500
+You remember the transfer
+student she's friends with?
+
+186
+00:09:52,583 --> 00:09:55,500
+He's some kind of
+caretaker for her.
+
+187
+00:09:55,583 --> 00:09:57,291
+[ERIOL]
+His name?
+
+188
+00:09:58,625 --> 00:10:00,750
+Yuna D.
+
+189
+00:10:00,833 --> 00:10:02,666
+[SYAORAN]
+Do you know him?
+
+190
+00:10:02,750 --> 00:10:04,750
+I'm not acquainted with him, no.
+
+191
+00:10:04,833 --> 00:10:10,250
+Although, the "D" in his name...
+if it refers to what I think...
+
+192
+00:10:10,333 --> 00:10:12,583
+[SYAORAN]
+What are you talking about?
+
+193
+00:10:14,708 --> 00:10:15,833
+[ERIOL]
+Well, you see,
+
+194
+00:10:15,916 --> 00:10:18,375
+here in England, there's
+a magic association
+
+195
+00:10:18,458 --> 00:10:22,625
+that grants its highest-ranked
+magic users the title of "D."
+
+196
+00:10:22,708 --> 00:10:24,583
+[SYAORAN]
+I've never heard of it.
+
+197
+00:10:26,041 --> 00:10:27,583
+That's all right.
+
+198
+00:10:27,666 --> 00:10:31,625
+Your mother must not've
+taught you about them yet.
+
+199
+00:10:31,708 --> 00:10:34,458
+Some rumors concerning
+them aren't good.
+
+200
+00:10:34,541 --> 00:10:37,458
+So he's part of
+this association?
+
+201
+00:10:37,541 --> 00:10:41,625
+[ERIOL] I cannot say for
+certain, but it is possible.
+
+202
+00:10:41,708 --> 00:10:44,000
+Okay, but I don't get
+why he would do something
+
+203
+00:10:44,083 --> 00:10:47,875
+to make his affiliation
+and status so obvious.
+
+204
+00:10:47,958 --> 00:10:50,416
+[ERIOL] It may make
+no difference to him.
+
+205
+00:10:50,500 --> 00:10:52,583
+Not if he's powerful enough.
+
+206
+00:11:02,541 --> 00:11:04,250
+Does Sakura know?
+
+207
+00:11:04,333 --> 00:11:05,583
+[SYAORAN]
+She hasn't said anything,
+
+208
+00:11:05,666 --> 00:11:07,708
+and I haven't told her.
+
+209
+00:11:07,791 --> 00:11:10,000
+Interesting.
+
+210
+00:11:10,083 --> 00:11:12,583
+Then it's a power that
+she cannot detect,
+
+211
+00:11:12,666 --> 00:11:14,625
+but one that you can.
+
+212
+00:11:14,708 --> 00:11:17,708
+So you think this guy
+has Moon magic, too?
+
+213
+00:11:17,791 --> 00:11:21,291
+[ERIOL] It is a reasonable
+assumption, yes.
+
+214
+00:11:21,375 --> 00:11:23,875
+In which case, you
+need to be prepared.
+
+215
+00:11:23,958 --> 00:11:28,416
+If anything unfortunate happens,
+it may be problematic for you.
+
+216
+00:11:28,500 --> 00:11:31,500
+As one who draws from
+the same power source.
+
+217
+00:11:33,916 --> 00:11:35,875
+[ERIOL] You said that nothing
+about the transfer student
+
+218
+00:11:35,958 --> 00:11:38,125
+seemed unusual, correct?
+
+219
+00:11:38,208 --> 00:11:42,083
+Right. She doesn't set off
+any alarm bells for me.
+
+220
+00:11:42,166 --> 00:11:44,708
+[ERIOL] Perhaps not, but
+she did move into the house
+
+221
+00:11:44,791 --> 00:11:48,083
+in which I once lived.
+
+222
+00:11:48,166 --> 00:11:50,708
+It would be logical for someone
+with the same type of magic
+
+223
+00:11:50,791 --> 00:11:52,625
+to have made that choice.
+
+224
+00:11:52,708 --> 00:11:54,750
+It's an ideal location
+for preserving people
+
+225
+00:11:54,833 --> 00:11:57,291
+with magical power.
+
+226
+00:11:57,375 --> 00:12:00,833
+That's why they chose to live
+there? Because they knew?
+
+227
+00:12:00,916 --> 00:12:02,916
+[ERIOL]
+It's a possibility.
+
+228
+00:12:05,291 --> 00:12:07,916
+[ERIOL]
+Let me look into this.
+
+229
+00:12:08,000 --> 00:12:10,083
+I'll tell you what I find.
+
+230
+00:12:11,625 --> 00:12:13,125
+'Kay, thanks.
+
+231
+00:12:14,166 --> 00:12:15,458
+[ERIOL]
+Certainly.
+
+232
+00:12:15,541 --> 00:12:16,708
+We must do what we can
+
+233
+00:12:16,791 --> 00:12:19,208
+to help Sakura and the
+people she cares about.
+
+234
+00:12:22,166 --> 00:12:25,708
+[KAHO] Another magic-user
+so close to Sakura.
+
+235
+00:12:25,791 --> 00:12:27,958
+There does seem to be a pattern.
+
+236
+00:12:28,041 --> 00:12:32,291
+Those with great magical power
+tend to converge around her.
+
+237
+00:12:32,375 --> 00:12:33,625
+But why?
+
+238
+00:12:33,708 --> 00:12:35,375
+They're drawn to her,
+
+239
+00:12:35,458 --> 00:12:38,625
+because she possesses
+immense power herself.
+
+240
+00:12:40,375 --> 00:12:42,666
+[ERIOL]
+Sakura is very strong.
+
+241
+00:12:42,750 --> 00:12:45,375
+I doubt anyone knows
+that better than I.
+
+242
+00:12:46,750 --> 00:12:47,916
+[KAHO]
+You're right.
+
+243
+00:12:48,000 --> 00:12:49,791
+Besides, she has
+someone by her side
+
+244
+00:12:49,875 --> 00:12:53,083
+who treasures her
+above all else.
+
+245
+00:12:53,166 --> 00:12:55,083
+That's worth a great deal.
+
+246
+00:13:04,750 --> 00:13:06,083
+[SAKURA]
+So how's school?
+
+247
+00:13:06,166 --> 00:13:07,250
+[TOYA]
+It's fine.
+
+248
+00:13:07,333 --> 00:13:09,083
+[SAKURA] Come on,
+that's all you ever say.
+
+249
+00:13:09,166 --> 00:13:10,500
+[TOYA]
+You?
+
+250
+00:13:10,583 --> 00:13:13,000
+[SAKURA] It's been fun.
+But English is hard.
+
+251
+00:13:13,083 --> 00:13:14,750
+[TOYA]
+What about math?
+
+252
+00:13:14,833 --> 00:13:17,666
+[SAKURA] It's not too bad.
+It's gotten easier.
+
+253
+00:13:17,750 --> 00:13:20,833
+I feel like this teacher's
+better at explaining everything.
+
+254
+00:13:20,916 --> 00:13:22,833
+Hey. This is good.
+
+255
+00:13:22,916 --> 00:13:25,125
+Did you do something
+different with it?
+
+256
+00:13:27,000 --> 00:13:28,625
+Added some butter.
+
+257
+00:13:33,250 --> 00:13:35,666
+You're right.
+I can totally tell!
+
+258
+00:13:35,750 --> 00:13:37,375
+All right, whatever you say.
+
+259
+00:13:37,458 --> 00:13:38,875
+Hey, I'm serious!
+
+260
+00:13:38,958 --> 00:13:42,083
+The butter adds richness
+and a softer texture.
+
+261
+00:13:42,166 --> 00:13:44,208
+You sound like a TV food critic.
+
+262
+00:13:44,291 --> 00:13:46,750
+I was trying to be nice!
+
+263
+00:13:46,833 --> 00:13:47,958
+Oh, yeah.
+
+264
+00:13:48,041 --> 00:13:50,333
+Dad's going to be away
+this weekend, again.
+
+265
+00:13:50,416 --> 00:13:52,083
+[SAKURA]
+Aw, really?
+
+266
+00:13:52,166 --> 00:13:54,500
+Oh, I promised my friend
+that she could come over
+
+267
+00:13:54,583 --> 00:13:56,125
+and look at our library.
+
+268
+00:13:56,208 --> 00:14:00,125
+I asked Dad, and he said it was
+fine, so you don't mind, right?
+
+269
+00:14:00,208 --> 00:14:03,041
+[TOYA] Yeah, if he said
+it's okay, then sure.
+
+270
+00:14:03,125 --> 00:14:04,625
+I'll move some books
+around for ya.
+
+271
+00:14:04,708 --> 00:14:06,083
+It's pretty crowded in there.
+
+272
+00:14:06,166 --> 00:14:07,791
+Okay, that's great!
+
+273
+00:14:09,375 --> 00:14:13,000
+Thanks so much for
+the delicious food.
+
+274
+00:14:13,083 --> 00:14:15,333
+G'bye! Have fun at work.
+
+275
+00:14:17,333 --> 00:14:20,958
+All clear. You can come
+downstairs if you want.
+
+276
+00:14:24,958 --> 00:14:26,500
+Guessing your brother left?
+
+277
+00:14:26,583 --> 00:14:27,625
+Yep.
+
+278
+00:14:27,708 --> 00:14:30,000
+Yukibunny said he
+was going out, too.
+
+279
+00:14:30,083 --> 00:14:31,166
+I didn't know you guys were
+
+280
+00:14:31,250 --> 00:14:33,250
+full-fledged texting
+buddies now.
+
+281
+00:14:33,333 --> 00:14:34,583
+We are.
+
+282
+00:14:34,666 --> 00:14:36,958
+But sometimes I think
+he's trying to torture me.
+
+283
+00:14:37,041 --> 00:14:40,750
+Sending yummy food pics right
+when I get hungry. Look!
+
+284
+00:14:40,833 --> 00:14:42,458
+[SAKURA giggles]
+
+285
+00:14:42,541 --> 00:14:44,666
+He told me you send him
+pictures of food too.
+
+286
+00:14:44,750 --> 00:14:45,916
+Trying to get revenge?
+
+287
+00:14:46,000 --> 00:14:47,708
+[KERO]
+Yep, an eye for an eye.
+
+288
+00:14:47,791 --> 00:14:50,000
+Take that! And that!
+
+289
+00:14:50,083 --> 00:14:52,041
+Man, that's a good one!
+
+290
+00:14:52,125 --> 00:14:54,375
+Wait a second,
+you're in all of them.
+
+291
+00:14:54,458 --> 00:14:56,041
+How did you take all those?
+
+292
+00:14:56,125 --> 00:14:58,666
+[KERO] Tomoyo gave me a
+remote-control button.
+
+293
+00:14:58,750 --> 00:15:02,416
+That thing is every
+selfie taker's dream.
+
+294
+00:15:07,333 --> 00:15:09,750
+You can have the cupcakes
+on the table if you want.
+
+295
+00:15:09,833 --> 00:15:12,000
+Toya got them from
+one of his jobs.
+
+296
+00:15:12,083 --> 00:15:14,375
+[KERO]
+Yay!
+
+297
+00:15:18,291 --> 00:15:20,458
+Yum! Get a picture!
+
+298
+00:15:20,541 --> 00:15:22,041
+Okay.
+
+299
+00:15:28,791 --> 00:15:29,625
+[KERO]
+Hm?
+
+300
+00:15:29,708 --> 00:15:31,625
+You all right over there?
+
+301
+00:15:34,791 --> 00:15:36,958
+[KERO]
+It's another card, isn't it?
+
+302
+00:15:43,375 --> 00:15:45,750
+No, stop! Wait a sec.
+
+303
+00:15:46,791 --> 00:15:49,208
+[SAKURA whines]
+
+304
+00:15:53,750 --> 00:15:56,291
+[KERO] Tomoyo had to do
+something with her mom today,
+
+305
+00:15:56,375 --> 00:15:58,125
+so she needed some backup.
+
+306
+00:15:58,208 --> 00:16:00,000
+And, that would be me.
+
+307
+00:16:00,083 --> 00:16:02,375
+She gave me very
+strict instructions.
+
+308
+00:16:02,458 --> 00:16:05,750
+Dress you up in that and
+then film you using this!
+
+309
+00:16:05,833 --> 00:16:09,125
+Oh. Oh, yeah. The camera loves
+you. Come on, give me more.
+
+310
+00:16:09,208 --> 00:16:10,083
+Give me more.
+
+311
+00:16:10,166 --> 00:16:13,000
+Right. Why am I surprised?
+
+312
+00:16:14,791 --> 00:16:16,208
+[KERO]
+Being in Penguin Park at night
+
+313
+00:16:16,291 --> 00:16:18,416
+sure brings back
+memories, doesn't it?
+
+314
+00:16:18,500 --> 00:16:19,750
+No kidding.
+
+315
+00:16:19,833 --> 00:16:21,625
+There were so many crazy
+things that happened here.
+
+316
+00:16:21,708 --> 00:16:25,708
+That time with the King Penguin
+when he was flipped upside down.
+
+317
+00:16:25,791 --> 00:16:27,041
+[SAKURA]
+Yeah.
+
+318
+00:16:28,083 --> 00:16:29,166
+[KERO gasps]
+
+319
+00:16:29,250 --> 00:16:31,958
+[KERO]
+Kinda like he is now!
+
+320
+00:16:32,041 --> 00:16:34,375
+[screams]
+
+321
+00:16:34,458 --> 00:16:36,916
+[SAKURA] It's gonna be
+on the news again!
+
+322
+00:16:37,958 --> 00:16:41,000
+[KERO] This little guy's
+standing on his head, too.
+
+323
+00:16:50,791 --> 00:16:53,625
+It's not over. All of
+them are flipping.
+
+324
+00:16:53,708 --> 00:16:55,875
+[rumbling]
+
+325
+00:16:59,250 --> 00:17:01,833
+[BOTH scream]
+
+326
+00:17:06,208 --> 00:17:08,333
+Why is this happening?
+
+327
+00:17:10,333 --> 00:17:12,291
+[KERO]
+We gotta stop it.
+
+328
+00:17:12,375 --> 00:17:14,541
+I know that, but how?
+
+329
+00:17:18,958 --> 00:17:19,791
+[gasps]
+
+330
+00:17:19,875 --> 00:17:22,083
+[SAKURA]
+There! That smoky stuff.
+
+331
+00:17:23,333 --> 00:17:25,750
+So that's what's behind
+this crazy prank?
+
+332
+00:17:25,833 --> 00:17:26,750
+I think so.
+
+333
+00:17:26,833 --> 00:17:29,958
+Great! Let's go get it, then!
+
+334
+00:17:30,041 --> 00:17:31,541
+Right!
+
+335
+00:17:31,625 --> 00:17:33,583
+Release!
+
+336
+00:17:46,041 --> 00:17:47,750
+[SAKURA]
+Force without master,
+
+337
+00:17:47,833 --> 00:17:51,416
+heed the call of my Staff of
+Dreams, and become my power!
+
+338
+00:17:51,500 --> 00:17:52,666
+Sec--
+
+339
+00:17:55,833 --> 00:17:57,333
+[screams]
+
+340
+00:17:59,541 --> 00:18:02,833
+[screaming]
+
+341
+00:18:08,000 --> 00:18:09,958
+Good catch, thanks.
+
+342
+00:18:10,041 --> 00:18:12,208
+Jeez, you scared me!
+
+343
+00:18:12,291 --> 00:18:14,041
+Looks like we can't
+get too close.
+
+344
+00:18:14,125 --> 00:18:16,333
+[SAKURA] Not without being
+turned upside-down.
+
+345
+00:18:16,416 --> 00:18:19,125
+[KERO] We'd smack our heads
+on the ground for sure.
+
+346
+00:18:19,208 --> 00:18:21,333
+That would give us
+a couple of nasty bumps.
+
+347
+00:18:21,416 --> 00:18:22,750
+I don't want a bump on my head!
+
+348
+00:18:22,833 --> 00:18:24,875
+So we gotta
+figure somethin' out.
+
+349
+00:18:28,000 --> 00:18:30,208
+We're runnin' out of time, here.
+
+350
+00:18:34,000 --> 00:18:35,625
+So what now?
+
+351
+00:18:38,375 --> 00:18:39,416
+[gasps]
+
+352
+00:18:41,208 --> 00:18:42,291
+[gasps]
+
+353
+00:18:43,500 --> 00:18:45,500
+I've got an idea!
+
+354
+00:18:47,875 --> 00:18:49,375
+[SAKURA]
+That's enough!
+
+355
+00:19:01,625 --> 00:19:02,916
+All right!
+
+356
+00:19:03,000 --> 00:19:05,750
+If you're airborne, you can
+control your movements!
+
+357
+00:19:07,833 --> 00:19:09,250
+[SAKURA]
+Force without master,
+
+358
+00:19:09,333 --> 00:19:13,625
+heed the call of my Staff of
+Dreams, and become my power!
+
+359
+00:19:13,708 --> 00:19:15,666
+Secure!
+
+360
+00:19:30,291 --> 00:19:33,833
+[SAKURA]
+There, gotcha.
+
+361
+00:19:33,916 --> 00:19:36,166
+"Reversal."
+
+362
+00:19:36,250 --> 00:19:37,375
+Accurate, huh?
+
+363
+00:19:37,458 --> 00:19:39,416
+Uh, yeah.
+
+364
+00:19:39,500 --> 00:19:41,250
+Right. We've gotta be quick.
+
+365
+00:19:41,333 --> 00:19:43,833
+We'll use the card to
+put everything ba--
+
+366
+00:19:46,500 --> 00:19:47,916
+What happened?
+
+367
+00:19:48,000 --> 00:19:51,125
+Wow, this is crazy.
+Look at that.
+
+368
+00:19:51,208 --> 00:19:53,208
+[WOMAN B]
+Why's it upside-down?
+
+369
+00:19:53,291 --> 00:19:55,458
+[BOTH yelp]
+
+370
+00:20:00,875 --> 00:20:04,041
+[TOMOYO] When everyone showed
+up, you flew back home?
+
+371
+00:20:04,125 --> 00:20:07,500
+If we'd hung around any longer,
+somebody would've seen us.
+
+372
+00:20:07,583 --> 00:20:10,125
+And there's no hiding from
+social media these days.
+
+373
+00:20:10,208 --> 00:20:12,208
+[TOMOYO] I don't think
+you need to worry.
+
+374
+00:20:12,291 --> 00:20:13,583
+Your secret's safe.
+
+375
+00:20:13,666 --> 00:20:15,666
+It doesn't look like you
+were caught on film.
+
+376
+00:20:15,750 --> 00:20:17,875
+Turn on the TV and check.
+
+377
+00:20:19,750 --> 00:20:21,625
+We're live from Penguin Park
+
+378
+00:20:21,708 --> 00:20:23,000
+where all of the
+playground equipment
+
+379
+00:20:23,083 --> 00:20:24,625
+has been turned upside-down.
+
+380
+00:20:24,708 --> 00:20:26,583
+[BOTH scream]
+
+381
+00:20:26,666 --> 00:20:27,833
+[REPORTER A]
+According to witness statements,
+
+382
+00:20:27,916 --> 00:20:29,125
+the crime appears
+to have occurred
+
+383
+00:20:29,208 --> 00:20:31,166
+over a span of about 20 minutes.
+
+384
+00:20:31,250 --> 00:20:33,708
+The responsible party
+has yet to be identified.
+
+385
+00:20:33,791 --> 00:20:36,125
+Whoever they are,
+they remain at large.
+
+386
+00:20:36,208 --> 00:20:37,833
+We'll continue to cover the--
+
+387
+00:20:39,750 --> 00:20:41,500
+Well, it's big news now.
+
+388
+00:20:41,583 --> 00:20:44,750
+Yeah, maybe we
+shouldn't have run off.
+
+389
+00:20:44,833 --> 00:20:46,375
+It was the only way
+to keep the world
+
+390
+00:20:46,458 --> 00:20:48,583
+from finding out about
+the Cardcaptors.
+
+391
+00:20:48,666 --> 00:20:50,666
+You two made the right decision.
+
+392
+00:20:50,750 --> 00:20:51,958
+After things settle down a bit,
+
+393
+00:20:52,041 --> 00:20:54,666
+we can go back and
+fix the playground.
+
+394
+00:20:54,750 --> 00:20:56,291
+Yeah. You're right.
+
+395
+00:20:56,375 --> 00:20:58,291
+At least, we hope so.
+
+396
+00:20:58,375 --> 00:21:00,541
+[TOMOYO]
+Now that that's settled. Kero?
+
+397
+00:21:00,625 --> 00:21:01,625
+Yes?
+
+398
+00:21:01,708 --> 00:21:04,583
+How did your stint
+as a cameraman go?
+
+399
+00:21:04,666 --> 00:21:06,916
+[KERO]
+Great! I got it all.
+
+400
+00:21:07,000 --> 00:21:08,875
+Could I see some
+of the footage now?
+
+401
+00:21:08,958 --> 00:21:10,250
+Sure!
+
+402
+00:21:18,250 --> 00:21:20,250
+You're setting it up so
+we can all watch the video
+
+403
+00:21:20,333 --> 00:21:21,208
+at the same time?
+
+404
+00:21:21,291 --> 00:21:24,000
+Yep! This. This. This.
+
+405
+00:21:24,083 --> 00:21:27,458
+Now we... push the button!
+
+406
+00:21:31,375 --> 00:21:33,625
+[whines]
+
+407
+00:21:38,500 --> 00:21:41,291
+[SAKURA]
+Ugh. It's making me dizzy.
+
+408
+00:21:45,833 --> 00:21:47,041
+[SAKURA]
+Hm?
+
+409
+00:21:47,125 --> 00:21:48,916
+It looks like something's
+blocking the camera.
+
+410
+00:21:49,000 --> 00:21:50,791
+Oh, whoopsie.
+
+411
+00:21:50,875 --> 00:21:52,708
+You remember when you first
+got flipped upside-down
+
+412
+00:21:52,791 --> 00:21:55,791
+and I had to catch
+you in my mouth?
+
+413
+00:21:55,875 --> 00:21:59,125
+My daring rescue must've
+knocked the camera over.
+
+414
+00:21:59,208 --> 00:22:01,625
+[KERO chuckles nervously]
+
+415
+00:22:04,000 --> 00:22:05,708
+[KERO laughs]
+
+416
+00:22:05,791 --> 00:22:07,583
+Well, accidents
+happen sometimes.
+
+417
+00:22:07,666 --> 00:22:09,041
+That's showbiz for ya.
+
+418
+00:22:09,125 --> 00:22:11,291
+[TOMOYO]
+Yes, that's true.
+
+419
+00:22:12,958 --> 00:22:16,416
+[TOMOYO] Irregularities
+are a part of filming.
+
+420
+00:22:17,541 --> 00:22:19,208
+But, Kero.
+
+421
+00:22:21,791 --> 00:22:23,625
+[KERO]
+Yes?
+
+422
+00:22:23,708 --> 00:22:25,791
+[TOMOYO]
+Your training starts tomorrow!
+
+423
+00:22:25,875 --> 00:22:27,833
+[KERO]
+Uh. Huh?
+
+424
+00:22:27,916 --> 00:22:28,958
+For what?
+
+425
+00:22:29,041 --> 00:22:31,458
+[TOMOYO]
+What else? For videography!
+
+426
+00:22:31,541 --> 00:22:33,666
+With both of us as
+filmmaking experts,
+
+427
+00:22:33,750 --> 00:22:36,791
+we'll never miss a moment
+of Sakura's heroics.
+
+428
+00:22:36,875 --> 00:22:38,208
+[KERO]
+Oh, boy.
+
+429
+00:22:38,291 --> 00:22:40,333
+You're not joking
+about this, are you?
+
+430
+00:22:40,416 --> 00:22:42,333
+[TOMOYO]
+Together, you and I will become
+
+431
+00:22:42,416 --> 00:22:43,541
+masters of the camera!
+
+432
+00:22:43,625 --> 00:22:47,166
+I should probably
+say no. But sure!
+
+433
+00:22:47,250 --> 00:22:48,708
+Okay, how's this angle?
+
+434
+00:22:48,791 --> 00:22:49,708
+[TOMOYO]
+That looks good.
+
+435
+00:22:49,791 --> 00:22:50,791
+[KERO]
+And maybe like this?
+
+436
+00:22:50,875 --> 00:22:51,833
+[TOMOYO]
+Yes, wonderful!
+
+437
+00:22:51,916 --> 00:22:53,000
+[KERO]
+How 'bout now?
+
+438
+00:22:53,083 --> 00:22:53,833
+[TOMOYO]
+Perfect!
+
+439
+00:22:53,916 --> 00:22:56,625
+[KERO laughing]
+
+440
+00:24:27,500 --> 00:24:30,166
+Hidey-howdy-ho!
+
+441
+00:24:30,250 --> 00:24:31,833
+It's "Leave it to Kero" time.
+
+442
+00:24:31,916 --> 00:24:33,916
+Today we're gonna take
+a closer look at the park
+
+443
+00:24:34,000 --> 00:24:35,958
+that just keeps on showin' up.
+
+444
+00:24:36,041 --> 00:24:37,500
+Everyone calls it Penguin Park,
+
+445
+00:24:37,583 --> 00:24:40,125
+but its official name
+is Tomoeda Central Park.
+
+446
+00:24:40,208 --> 00:24:41,500
+There's an awesome playground
+
+447
+00:24:41,583 --> 00:24:44,000
+with a penguin-shaped slide,
+nicknamed King Penguin,
+
+448
+00:24:44,083 --> 00:24:47,291
+plus swings, see-saws, a jungle
+gym, and lots of other stuff.
+
+449
+00:24:47,375 --> 00:24:50,291
+It has plenty of greenery,
+and it's in a great location.
+
+450
+00:24:50,375 --> 00:24:52,208
+It's nice to relax in
+the park sometimes.
+
+451
+00:24:52,291 --> 00:24:55,333
+In fact, I could use a nice
+park nap right about now!
+
+452
+00:24:55,416 --> 00:24:57,291
+Bye-bye!
+
+453
+00:24:57,375 --> 00:24:59,541
+[SAKURA] It's my first
+ball-sports tournament.
+
+454
+00:24:59,625 --> 00:25:02,291
+I love P.E. stuff,
+so I'm really excited!
+
+455
+00:25:02,375 --> 00:25:03,625
+What?
+
+456
+00:25:03,708 --> 00:25:05,875
+Akiho and Syaoran will be
+facing off in badminton?
+
+457
+00:25:05,958 --> 00:25:09,458
+Next time, "Sakura and the
+Icy Ball-Sports Tournament."
+
+458
+00:25:09,541 --> 00:25:12,375
+Say it with me: Release!
+
