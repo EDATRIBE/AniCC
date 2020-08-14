@@ -1,0 +1,2278 @@
+﻿1
+00:01:38,166 --> 00:01:39,250
+[MAGE]
+Yuri...
+
+2
+00:01:39,333 --> 00:01:42,708
+♪
+
+3
+00:01:42,791 --> 00:01:45,083
+I'm sorry for running
+off on my own.
+
+4
+00:01:47,166 --> 00:01:49,041
+But...
+
+5
+00:01:49,125 --> 00:01:51,333
+I know that we'll meet again.
+
+6
+00:01:51,416 --> 00:01:53,000
+Thanks for everything.
+
+7
+00:01:53,083 --> 00:01:54,833
+I love you.
+
+8
+00:01:56,083 --> 00:01:57,833
+-[DERRIDA] Mage...
+-[click]
+
+9
+00:01:59,125 --> 00:02:00,833
+She disappeared one day.
+
+10
+00:02:00,916 --> 00:02:02,708
+This is all she left me.
+
+11
+00:02:02,791 --> 00:02:04,416
+[VIDAUX]
+If the reason they're after her
+
+12
+00:02:04,500 --> 00:02:07,500
+is because of the access key
+to the patch file you gave her,
+
+13
+00:02:07,583 --> 00:02:09,208
+[footsteps]
+
+14
+00:02:09,291 --> 00:02:12,083
+why don't you just make another
+one and sell it off already?
+
+15
+00:02:12,166 --> 00:02:13,708
+It's not that simple.
+
+16
+00:02:13,791 --> 00:02:15,625
+I'd need equipment,
+
+17
+00:02:15,708 --> 00:02:17,666
+not to mention the time!
+
+18
+00:02:17,750 --> 00:02:20,875
+So, it seems, you were lying
+when you said that brain
+
+19
+00:02:20,958 --> 00:02:22,416
+of yours
+would be worth something to me.
+
+20
+00:02:22,500 --> 00:02:24,875
+I know there are people
+who'd want the key!
+
+21
+00:02:26,500 --> 00:02:28,000
+Wait, hang on a second.
+
+22
+00:02:28,958 --> 00:02:31,208
+What ever happened to Rebuild?
+
+23
+00:02:31,291 --> 00:02:33,500
+They haven't been blamed
+for all this destruction?
+
+24
+00:02:33,583 --> 00:02:35,750
+[VIDAUX] [sigh]
+Exactly the opposite.
+
+25
+00:02:35,833 --> 00:02:38,708
+The government brought them
+in to stop the rampaging DZs,
+
+26
+00:02:38,791 --> 00:02:40,041
+and now they're positioned as
+
+27
+00:02:40,125 --> 00:02:42,541
+the country's largest
+defense contractor.
+
+28
+00:02:42,625 --> 00:02:44,000
+[DERRIDA]
+No...
+
+29
+00:02:44,083 --> 00:02:46,375
+[VIDAUX] Pursuing a case
+against Rebuild would make
+
+30
+00:02:46,458 --> 00:02:49,041
+the government liable as well,
+since they're the ones
+
+31
+00:02:49,125 --> 00:02:51,166
+that commissioned them
+in the first place.
+
+32
+00:02:51,250 --> 00:02:53,208
+Of course they can't
+swallow that pill,
+
+33
+00:02:53,291 --> 00:02:56,958
+so they've let the issue
+languish while the war drags on.
+
+34
+00:02:57,041 --> 00:02:58,375
+-Damn it.
+-Hey!
+
+35
+00:02:58,458 --> 00:02:59,625
+Speaking of Rebuild!
+
+36
+00:02:59,708 --> 00:03:02,333
+If we accept that
+Derrida's story is true,
+
+37
+00:03:02,416 --> 00:03:04,458
+then the people most
+interested in the patch file,
+
+38
+00:03:04,541 --> 00:03:07,041
+would be Rebuild
+and the government.
+
+39
+00:03:07,125 --> 00:03:08,583
+Yeah, that's right.
+
+40
+00:03:08,666 --> 00:03:10,083
+Then it stands to reason
+
+41
+00:03:10,166 --> 00:03:12,583
+that Rebuild has some leads
+on where to find Mage!
+
+42
+00:03:12,666 --> 00:03:14,125
+[gasp]
+
+43
+00:03:14,208 --> 00:03:15,750
+♪
+
+44
+00:03:15,833 --> 00:03:18,250
+[DERRIDA] We can't use
+the internet? You're kidding.
+
+45
+00:03:18,333 --> 00:03:19,833
+[VIDAUX]
+Don't know what to tell you,
+
+46
+00:03:19,916 --> 00:03:21,916
+the war's trashed
+our infrastructure.
+
+47
+00:03:22,000 --> 00:03:24,916
+Hardly anywhere except the
+city center has a connection.
+
+48
+00:03:25,000 --> 00:03:26,916
+[DERRIDA sighs]
+
+49
+00:03:27,000 --> 00:03:29,125
+[DERRIDA] So, our only option
+is infiltrating Rebuild
+
+50
+00:03:29,208 --> 00:03:31,208
+and using their terminals
+to steal the data
+
+51
+00:03:31,291 --> 00:03:32,958
+from the network directly.
+
+52
+00:03:33,041 --> 00:03:34,875
+[VIDAUX] There's one
+problem with that, too.
+
+53
+00:03:34,958 --> 00:03:38,416
+[DERRIDA]
+Of course there is. What is it?
+
+54
+00:03:38,500 --> 00:03:41,208
+[VIDAUX] Das Band.
+A wall meant to keep refugees
+
+55
+00:03:41,291 --> 00:03:42,791
+from the city's
+war-torn outskirts
+
+56
+00:03:42,875 --> 00:03:44,708
+from pouring into
+the inner limits.
+
+57
+00:03:46,250 --> 00:03:49,708
+[DERRIDA] All this happened in
+the 10 years I've been asleep.
+
+58
+00:03:49,791 --> 00:03:50,750
+What should we do?
+
+59
+00:03:50,833 --> 00:03:52,708
+Is there any way to get inside?
+
+60
+00:03:55,041 --> 00:03:56,416
+[footsteps]
+
+61
+00:03:59,208 --> 00:04:01,041
+[DERRIDA]
+Seems so obvious.
+
+62
+00:04:01,125 --> 00:04:02,583
+Is it safe?
+
+63
+00:04:02,666 --> 00:04:05,125
+[VIDAUX] There are some nasty
+rumors about this place.
+
+64
+00:04:05,208 --> 00:04:06,416
+[BOTH grimace]
+
+65
+00:04:06,500 --> 00:04:08,125
+[DERRIDA]
+Care to elaborate?
+
+66
+00:04:09,583 --> 00:04:11,625
+[rubble crunching]
+
+67
+00:04:19,083 --> 00:04:21,125
+♪
+
+68
+00:04:25,833 --> 00:04:26,916
+[grunt]
+
+69
+00:04:27,000 --> 00:04:28,333
+[sigh]
+
+70
+00:04:28,416 --> 00:04:29,750
+[groan]
+
+71
+00:04:31,750 --> 00:04:33,166
+-[squeak]
+-[BOTH gasp]
+
+72
+00:04:35,041 --> 00:04:36,208
+[DERRIDA]
+Hey.
+
+73
+00:04:36,291 --> 00:04:38,041
+You still haven't
+answered my question.
+
+74
+00:04:38,125 --> 00:04:39,458
+I dunno.
+
+75
+00:04:39,541 --> 00:04:41,375
+Might've been a gas leak
+or a cave-in,
+
+76
+00:04:41,458 --> 00:04:44,500
+but people keep dying in here
+and repairs end up stalling.
+
+77
+00:04:44,583 --> 00:04:45,500
+So...
+
+78
+00:04:45,583 --> 00:04:47,500
+Oh no. It's not...
+
+79
+00:04:47,583 --> 00:04:49,625
+a ghost, is it?
+
+80
+00:04:49,708 --> 00:04:51,333
+[VIDAUX] I wish it was
+something that whimsical.
+
+81
+00:04:51,416 --> 00:04:53,458
+Tell ya what, though,
+since I'm feeling generous,
+
+82
+00:04:53,541 --> 00:04:55,041
+I won't charge extra for this.
+
+83
+00:04:55,125 --> 00:04:56,916
+[DERRIDA] Are you really
+talking about my tab right now?
+
+84
+00:04:57,000 --> 00:04:58,083
+[VIDAUX]
+I told you.
+
+85
+00:04:58,166 --> 00:05:00,083
+I don't work for free.
+
+86
+00:05:00,166 --> 00:05:02,166
+[YURI] Come on!
+So if someone's in trouble,
+
+87
+00:05:02,250 --> 00:05:04,708
+but they don't have any money,
+you'd abandon them?
+
+88
+00:05:04,791 --> 00:05:06,166
+[VIDAUX]
+Yeah.
+
+89
+00:05:06,250 --> 00:05:09,083
+It's not my job to
+be a bleeding heart.
+
+90
+00:05:09,166 --> 00:05:10,958
+Doesn't your conscience
+ever bother you?
+
+91
+00:05:11,041 --> 00:05:12,125
+Conscience?
+
+92
+00:05:12,208 --> 00:05:13,916
+I don't trust
+something like that.
+
+93
+00:05:15,000 --> 00:05:17,541
+Wow, seriously?
+
+94
+00:05:17,625 --> 00:05:19,166
+[DERRIDA sighs]
+
+95
+00:05:19,250 --> 00:05:21,625
+-I'll make money, or rather...
+-Huh?
+
+96
+00:05:22,583 --> 00:05:24,083
+There's a man named Andrei.
+
+97
+00:05:24,166 --> 00:05:27,458
+10 years ago, he killed my
+father and framed me for it.
+
+98
+00:05:27,541 --> 00:05:30,083
+If I can expose him
+and clear my name,
+
+99
+00:05:30,166 --> 00:05:31,666
+I should get my position back,
+
+100
+00:05:31,750 --> 00:05:33,958
+and all of the money
+that's rightfully mine.
+
+101
+00:05:34,041 --> 00:05:35,791
+I swear,
+
+102
+00:05:35,875 --> 00:05:37,666
+no matter what,
+
+103
+00:05:37,750 --> 00:05:40,041
+I'll be sure he pays
+for what he's done.
+
+104
+00:05:40,125 --> 00:05:41,458
+[sigh]
+
+105
+00:05:43,083 --> 00:05:44,041
+[breeze humming]
+
+106
+00:05:44,125 --> 00:05:45,666
+[water dripping]
+
+107
+00:05:49,958 --> 00:05:50,958
+[running water]
+
+108
+00:05:53,083 --> 00:05:55,083
+[VIDAUX] This should put us
+on the other side of the wall.
+
+109
+00:05:56,041 --> 00:05:58,041
+Now, let's look for a way
+to the surface.
+
+110
+00:05:58,125 --> 00:05:59,750
+-But how are we supposed to fi--
+-[MAYUKA whines]
+
+111
+00:05:59,833 --> 00:06:00,708
+[yelp]
+
+112
+00:06:00,791 --> 00:06:01,833
+-Huh?
+-Hmm?
+
+113
+00:06:01,916 --> 00:06:04,166
+[gasping]
+
+114
+00:06:04,250 --> 00:06:05,416
+Hey!
+
+115
+00:06:05,500 --> 00:06:07,250
+-[MAYUKA] What?
+-Next to that pillar,
+
+116
+00:06:07,333 --> 00:06:08,541
+I saw someone,
+
+117
+00:06:08,625 --> 00:06:09,625
+-a shadow!
+-[flashlight clicks]
+
+118
+00:06:09,708 --> 00:06:10,625
+[MAYUKA]
+Was it a ghost?!
+
+119
+00:06:11,958 --> 00:06:14,166
+There! See it? Right there?
+
+120
+00:06:14,250 --> 00:06:15,750
+[panting]
+
+121
+00:06:15,833 --> 00:06:16,833
+♪
+
+122
+00:06:16,916 --> 00:06:18,291
+[creaking]
+
+123
+00:06:18,375 --> 00:06:20,166
+[MAYUKA and YURI screaming]
+
+124
+00:06:20,250 --> 00:06:22,083
+Hmm...
+
+125
+00:06:22,166 --> 00:06:24,250
+[VIDAUX] [sigh]
+I thought so.
+
+126
+00:06:24,333 --> 00:06:26,125
+This place is infested!
+
+127
+00:06:26,208 --> 00:06:28,083
+Wait! Turn off the lights,
+
+128
+00:06:28,166 --> 00:06:30,291
+-and cut the engine, too.
+-What, why?
+
+129
+00:06:30,375 --> 00:06:32,333
+[DERRIDA]
+It's a low battery warning.
+
+130
+00:06:32,416 --> 00:06:35,375
+The way their eyes are blinking
+means they're in emergency mode.
+
+131
+00:06:35,458 --> 00:06:37,583
+-[VIDAUX] Shut down the engine.
+-[GRAHAM] Roger.
+
+132
+00:06:37,666 --> 00:06:39,041
+[VIDAUX]
+Explain, Derrida.
+
+133
+00:06:40,000 --> 00:06:42,041
+Sleep mode. They're out of fuel,
+so they can't move.
+
+134
+00:06:42,125 --> 00:06:43,125
+[BOTH whimpering]
+
+135
+00:06:43,208 --> 00:06:44,791
+But they reacted to the light,
+
+136
+00:06:44,875 --> 00:06:46,625
+so their sensors aren't dead.
+
+137
+00:06:46,708 --> 00:06:48,333
+It's like they're on standby,
+
+138
+00:06:48,416 --> 00:06:50,166
+preserving every bit
+of battery they can
+
+139
+00:06:50,250 --> 00:06:52,500
+in order to keep monitoring
+their surroundings,
+
+140
+00:06:52,583 --> 00:06:55,333
+and so they can counterattack
+if there's hostile stimuli.
+
+141
+00:06:55,416 --> 00:06:56,875
+If we don't trigger
+those sensors,
+
+142
+00:06:56,958 --> 00:06:58,333
+we should be able to pass.
+
+143
+00:06:59,291 --> 00:07:01,041
+[VIDAUX]
+You sure about this?
+
+144
+00:07:01,125 --> 00:07:04,125
+If I was programming
+them for militarization,
+
+145
+00:07:04,208 --> 00:07:05,750
+that's what I would've done.
+
+146
+00:07:06,708 --> 00:07:07,791
+[VIDAUX]
+Okay, Graham.
+
+147
+00:07:07,875 --> 00:07:09,500
+Shut down all sensors.
+
+148
+00:07:09,583 --> 00:07:11,208
+Nice and quiet, now.
+
+149
+00:07:11,291 --> 00:07:12,875
+[rubble crunching]
+
+150
+00:07:14,000 --> 00:07:15,958
+[DERRIDA]
+Just how many are there?
+
+151
+00:07:19,666 --> 00:07:21,166
+[BOTH whimpering]
+
+152
+00:07:26,041 --> 00:07:27,166
+[crunch, smash]
+
+153
+00:07:27,250 --> 00:07:28,083
+[gasp]
+
+154
+00:07:28,166 --> 00:07:30,166
+[DZs humming, creaking]
+
+155
+00:07:35,666 --> 00:07:37,416
+[whimpering, gasp]
+
+156
+00:07:37,500 --> 00:07:39,166
+[air rushing, thud]
+
+157
+00:07:39,250 --> 00:07:40,041
+[BOTH gasp]
+
+158
+00:07:40,125 --> 00:07:41,083
+♪
+
+159
+00:07:41,166 --> 00:07:42,791
+[gasping]
+
+160
+00:07:42,875 --> 00:07:45,750
+[humming continues]
+
+161
+00:07:45,833 --> 00:07:47,666
+So, it comes down
+to a fight anyway!
+
+162
+00:07:48,833 --> 00:07:50,041
+[tires screeching]
+
+163
+00:07:50,125 --> 00:07:52,083
+[smash]
+
+164
+00:07:54,000 --> 00:07:56,875
+[tires screeching]
+
+165
+00:07:56,958 --> 00:07:59,375
+[groaning]
+
+166
+00:08:00,833 --> 00:08:02,375
+[grunt]
+
+167
+00:08:03,541 --> 00:08:05,208
+[humming]
+
+168
+00:08:05,291 --> 00:08:06,208
+[blast]
+
+169
+00:08:07,625 --> 00:08:08,458
+[thud]
+
+170
+00:08:08,541 --> 00:08:09,500
+[tires screeching]
+
+171
+00:08:09,583 --> 00:08:10,916
+[crash]
+
+172
+00:08:11,000 --> 00:08:12,041
+[electronics winding down]
+
+173
+00:08:12,125 --> 00:08:13,000
+[beeping]
+
+174
+00:08:17,666 --> 00:08:19,416
+[VIDAUX] Looks like you
+were right, Derrida.
+
+175
+00:08:19,500 --> 00:08:22,500
+They didn't pursue us
+through the passageway.
+
+176
+00:08:22,583 --> 00:08:25,166
+[YURI] But, there'll be
+more at the next station.
+
+177
+00:08:25,250 --> 00:08:26,666
+Don't worry.
+
+178
+00:08:26,750 --> 00:08:27,875
+We should be able to take
+
+179
+00:08:27,958 --> 00:08:29,791
+the construction workers'
+stairway up.
+
+180
+00:08:29,875 --> 00:08:31,166
+[VIDAUX]
+Hey, what about Graham?
+
+181
+00:08:31,250 --> 00:08:32,916
+You suggesting
+we leave him here?
+
+182
+00:08:33,000 --> 00:08:35,166
+[GRAHAM] I cannot endorse
+this plan of action.
+
+183
+00:08:35,250 --> 00:08:37,083
+No, not at all.
+
+184
+00:08:37,166 --> 00:08:38,708
+We'll take Graham with us, too.
+
+185
+00:08:42,125 --> 00:08:43,041
+[footsteps]
+
+186
+00:08:44,000 --> 00:08:45,500
+[DERRIDA]
+Everything's ready.
+
+187
+00:08:45,583 --> 00:08:47,208
+[VIDAUX]
+I don't like this.
+
+188
+00:08:47,291 --> 00:08:49,875
+♪
+
+189
+00:08:51,916 --> 00:08:53,166
+[MAYUKA]
+Hello! Hello!
+
+190
+00:08:53,250 --> 00:08:54,541
+Testing, testing!
+
+191
+00:08:54,625 --> 00:08:55,708
+[YURI]
+Can you guys hear us?
+
+192
+00:08:55,791 --> 00:08:57,750
+-Loud and clear, very good.
+-Hmm?
+
+193
+00:08:57,833 --> 00:08:59,666
+Now, Graham,
+maximize the broadcast strength
+
+194
+00:08:59,750 --> 00:09:01,291
+and encryption. You got it?
+
+195
+00:09:01,375 --> 00:09:02,750
+[GRAHAM]
+Roger that, sir.
+
+196
+00:09:02,833 --> 00:09:05,208
+Huh! Was that actually
+Graham's voice?
+
+197
+00:09:05,291 --> 00:09:07,208
+-[GRAHAM] It's remote access.
+-[VIDAUX] Hmm...
+
+198
+00:09:07,291 --> 00:09:09,125
+I told you we'd be bringing him.
+
+199
+00:09:09,208 --> 00:09:10,541
+Having a good A.I. on our side
+
+200
+00:09:10,625 --> 00:09:12,458
+will make this
+easier to pull off.
+
+201
+00:09:12,541 --> 00:09:14,000
+-[growl]
+-[GRAHAM] Much appreciated.
+
+202
+00:09:14,083 --> 00:09:17,416
+Hey! Don't use Graham in
+ways that I don't understand!
+
+203
+00:09:18,416 --> 00:09:20,750
+Why not? It's a basic feature.
+
+204
+00:09:20,833 --> 00:09:22,000
+Hey, Graham. Map, please.
+
+205
+00:09:22,083 --> 00:09:23,000
+[beeping]
+
+206
+00:09:23,083 --> 00:09:24,291
+[GRAHAM]
+Acquiring data about
+
+207
+00:09:24,375 --> 00:09:26,250
+Rebuild's staff
+and security placement,
+
+208
+00:09:26,333 --> 00:09:28,791
+using internal attendance
+tracking system.
+
+209
+00:09:28,875 --> 00:09:31,333
+Everyone's gone home.
+Looking good.
+
+210
+00:09:31,416 --> 00:09:33,958
+-Yeah, what makes you so sure?
+-[chuckle]
+
+211
+00:09:34,041 --> 00:09:36,166
+That's the benefit
+of being former staff.
+
+212
+00:09:37,125 --> 00:09:38,750
+If we use a fake pass
+like this one,
+
+213
+00:09:38,833 --> 00:09:41,833
+then even if the security robots
+see us, they won't bother us.
+
+214
+00:09:41,916 --> 00:09:44,333
+[VIDAUX] You seem awfully
+familiar with all this.
+
+215
+00:09:44,416 --> 00:09:46,291
+[DERRIDA] One of the first
+things I did when I got hired
+
+216
+00:09:46,375 --> 00:09:48,125
+was rig the time card system.
+
+217
+00:09:49,458 --> 00:09:52,083
+I didn't want my work schedule
+to be decided by some machines.
+
+218
+00:09:52,166 --> 00:09:54,541
+Ah. I thought you were
+a goodie-two-shoes type,
+
+219
+00:09:54,625 --> 00:09:56,583
+but you had a real bad streak.
+
+220
+00:09:56,666 --> 00:09:58,541
+-I'm impressed.
+-Maybe.
+
+221
+00:09:58,625 --> 00:10:01,208
+It just made me mad how they'd
+force me out at quitting time,
+
+222
+00:10:01,291 --> 00:10:03,291
+even if I wanted
+to work all night.
+
+223
+00:10:03,375 --> 00:10:05,041
+[VIDAUX]
+Huh?
+
+224
+00:10:06,458 --> 00:10:08,291
+[beeping]
+
+225
+00:10:08,375 --> 00:10:09,333
+[doors slide open]
+
+226
+00:10:09,416 --> 00:10:10,625
+[beeping]
+
+227
+00:10:16,625 --> 00:10:18,375
+You don't have to
+keep looking around.
+
+228
+00:10:18,458 --> 00:10:20,250
+There's no one here.
+
+229
+00:10:20,333 --> 00:10:22,083
+And this will fool the machines!
+
+230
+00:10:22,166 --> 00:10:25,041
+Based on your memories
+from 10 years ago, at least.
+
+231
+00:10:25,125 --> 00:10:27,916
+Security is even lighter
+than I remember, actually.
+
+232
+00:10:28,000 --> 00:10:29,375
+Even the guard's office
+has been moved
+
+233
+00:10:29,458 --> 00:10:31,208
+to the weapons
+department floor.
+
+234
+00:10:32,250 --> 00:10:35,291
+Guess this company really
+is a defense contractor now.
+
+235
+00:10:37,750 --> 00:10:38,916
+[DERRIDA]
+Andrei...
+
+236
+00:10:40,041 --> 00:10:41,875
+[elevator humming]
+
+237
+00:10:41,958 --> 00:10:42,833
+[beep]
+
+238
+00:10:51,708 --> 00:10:53,250
+So, this Andrei guy,
+
+239
+00:10:53,333 --> 00:10:56,166
+what if he turned out to be
+in the building right now?
+
+240
+00:10:56,250 --> 00:10:57,375
+Huh?
+
+241
+00:10:57,458 --> 00:10:59,166
+As if he would ever
+stay this late.
+
+242
+00:10:59,250 --> 00:11:00,541
+I'm talking hypothetically.
+
+243
+00:11:00,625 --> 00:11:02,625
+If the man who killed
+your best friend
+
+244
+00:11:02,708 --> 00:11:04,541
+and your father
+were here right now,
+
+245
+00:11:04,625 --> 00:11:06,291
+what would you do?
+
+246
+00:11:07,541 --> 00:11:08,916
+Well, I...
+
+247
+00:11:09,000 --> 00:11:10,458
+[VIDAUX]
+I should make it clear,
+
+248
+00:11:10,541 --> 00:11:12,416
+I won't take part in revenge.
+
+249
+00:11:12,500 --> 00:11:14,166
+Not for any reason.
+
+250
+00:11:14,250 --> 00:11:16,416
+If you're in this
+to get vengeance,
+
+251
+00:11:16,500 --> 00:11:18,166
+I'm pulling out here and now.
+
+252
+00:11:18,250 --> 00:11:20,166
+♪
+
+253
+00:11:20,250 --> 00:11:21,791
+Another regulation of yours?
+
+254
+00:11:21,875 --> 00:11:24,041
+No, more serious than that.
+
+255
+00:11:24,125 --> 00:11:27,125
+It's a belief
+I refuse to compromise.
+
+256
+00:11:27,208 --> 00:11:29,458
+[DERRIDA] Even if the vengeance
+would be righteous?
+
+257
+00:11:29,541 --> 00:11:30,875
+Derrida.
+
+258
+00:11:30,958 --> 00:11:32,625
+If you really believe
+that there's such a thing
+
+259
+00:11:32,708 --> 00:11:34,666
+as perfectly
+righteous revenge,
+
+260
+00:11:34,750 --> 00:11:36,875
+when the time comes,
+find a mirror.
+
+261
+00:11:37,833 --> 00:11:39,333
+[DERRIDA]
+A mirror?
+
+262
+00:11:40,291 --> 00:11:42,458
+[VIDAUX]
+Look at your face, that's all.
+
+263
+00:11:44,208 --> 00:11:45,083
+[beep]
+
+264
+00:11:54,416 --> 00:11:56,458
+♪
+
+265
+00:11:59,333 --> 00:12:00,833
+Okay, let's split up.
+
+266
+00:12:00,916 --> 00:12:03,291
+I'll start by hitting
+the executive suite.
+
+267
+00:12:03,375 --> 00:12:04,833
+Yeah, okay.
+
+268
+00:12:04,916 --> 00:12:07,250
+I'll check out my old lab,
+it's just up ahead.
+
+269
+00:12:09,833 --> 00:12:11,625
+[DERRIDA] We'll meet
+at the elevator in 20.
+
+270
+00:12:11,708 --> 00:12:13,083
+[VIDAUX]
+Right.
+
+271
+00:12:15,041 --> 00:12:16,083
+[door opens]
+
+272
+00:12:17,583 --> 00:12:18,625
+[door closes]
+
+273
+00:12:24,500 --> 00:12:27,166
+Nobody wanted
+a murderer's old lab?
+
+274
+00:12:27,250 --> 00:12:29,208
+I guess I understand that.
+
+275
+00:12:34,958 --> 00:12:35,875
+[computer whirring]
+
+276
+00:12:35,958 --> 00:12:37,541
+[typing]
+
+277
+00:12:38,708 --> 00:12:40,083
+A password?
+
+278
+00:12:40,166 --> 00:12:42,166
+That's pretty old-school.
+
+279
+00:12:42,250 --> 00:12:44,708
+His last login was on...
+
+280
+00:12:44,791 --> 00:12:46,958
+December 20th, 2050.
+
+281
+00:12:48,333 --> 00:12:49,458
+That day.
+
+282
+00:12:50,416 --> 00:12:52,208
+"Happy birthday."
+
+283
+00:12:52,291 --> 00:12:53,541
+[clicking, creaking]
+
+284
+00:12:53,625 --> 00:12:55,208
+[beeping]
+
+285
+00:13:00,666 --> 00:13:02,541
+What kind of flower
+did she like, again?
+
+286
+00:13:02,625 --> 00:13:03,416
+♪
+
+287
+00:13:03,500 --> 00:13:04,416
+Mage...
+
+288
+00:13:06,666 --> 00:13:09,458
+Take care... of Mage!
+
+289
+00:13:09,541 --> 00:13:10,875
+[gasp]
+
+290
+00:13:10,958 --> 00:13:13,000
+[groaning]
+
+291
+00:13:14,875 --> 00:13:15,916
+[mechanical tick]
+
+292
+00:13:22,291 --> 00:13:23,583
+[gasp]
+
+293
+00:13:24,750 --> 00:13:25,833
+It's you again.
+
+294
+00:13:27,000 --> 00:13:28,708
+My name is Ange.
+
+295
+00:13:32,875 --> 00:13:35,166
+[WOMAN, overlapping]
+Clockwise. Anti-Clockwise.
+
+296
+00:13:39,541 --> 00:13:40,333
+♪
+
+297
+00:13:40,416 --> 00:13:42,041
+[DERRIDA]
+Who are you?
+
+298
+00:13:42,125 --> 00:13:43,916
+What's going on?
+
+299
+00:13:44,000 --> 00:13:45,500
+You're not Mage.
+
+300
+00:13:45,583 --> 00:13:47,458
+[ANGE]
+Mage is waiting for you.
+
+301
+00:13:48,916 --> 00:13:50,958
+She's been waiting a long time.
+
+302
+00:13:54,541 --> 00:13:55,625
+[heavy breathing]
+
+303
+00:13:55,708 --> 00:13:58,375
+[DERRIDA]
+I have to kill Andrei.
+
+304
+00:13:58,458 --> 00:14:00,416
+I don't have time to hesitate.
+
+305
+00:14:00,500 --> 00:14:03,416
+At this rate, Dad, Nathan,
+and Mage will be...
+
+306
+00:14:04,666 --> 00:14:07,583
+Do it! This is
+the only right choice.
+
+307
+00:14:07,666 --> 00:14:08,541
+[heavy breathing]
+
+308
+00:14:08,625 --> 00:14:10,541
+[VIDAUX]
+Look at your face.
+
+309
+00:14:10,625 --> 00:14:12,875
+[heavy breathing]
+
+310
+00:14:16,125 --> 00:14:18,166
+[wind swirling]
+
+311
+00:14:20,041 --> 00:14:21,708
+[painful groaning]
+
+312
+00:14:24,416 --> 00:14:25,458
+Ah!
+
+313
+00:14:27,875 --> 00:14:28,916
+What the--
+
+314
+00:14:30,166 --> 00:14:31,750
+What was I just doing?
+
+315
+00:14:33,333 --> 00:14:35,666
+I was on my way to
+the flower shop...
+
+316
+00:14:35,750 --> 00:14:36,875
+[gasp]
+
+317
+00:14:36,958 --> 00:14:38,541
+[crackling, beeping]
+
+318
+00:14:40,041 --> 00:14:40,916
+That was...
+
+319
+00:14:41,875 --> 00:14:43,125
+-[door opens]
+-[gasp]
+
+320
+00:14:43,208 --> 00:14:45,250
+It's time, what're you doing?
+
+321
+00:14:46,375 --> 00:14:48,125
+[gasp, grunt]
+
+322
+00:14:48,208 --> 00:14:50,208
+I copied every file that
+they had even vaguely
+
+323
+00:14:50,291 --> 00:14:51,375
+relating to Madge Bilstein.
+
+324
+00:14:51,458 --> 00:14:52,833
+What about you?
+
+325
+00:14:52,916 --> 00:14:54,208
+Sorry, I'm on it now.
+
+326
+00:14:54,291 --> 00:14:55,416
+Well, hurry up!
+
+327
+00:14:55,500 --> 00:14:56,916
+I'll go stand watch.
+
+328
+00:14:57,916 --> 00:14:59,125
+[growl]
+
+329
+00:14:59,208 --> 00:15:00,958
+[click, typing]
+
+330
+00:15:01,041 --> 00:15:02,916
+[DERRIDA]
+This file...
+
+331
+00:15:03,000 --> 00:15:06,333
+Nathan had an information
+source I didn't know about.
+
+332
+00:15:06,416 --> 00:15:08,000
+Is that what
+the password was for?
+
+333
+00:15:09,250 --> 00:15:11,125
+This is...
+
+334
+00:15:11,208 --> 00:15:13,500
+It... can't be!
+
+335
+00:15:13,583 --> 00:15:14,750
+-[YURI] Someone's coming!
+-Huh?
+
+336
+00:15:14,833 --> 00:15:17,166
+Looks like a human
+security force. Run!
+
+337
+00:15:17,250 --> 00:15:19,166
+Company!
+We can't use the elevator.
+
+338
+00:15:19,250 --> 00:15:20,791
+Let's take the security stairs!
+
+339
+00:15:21,750 --> 00:15:22,750
+[panting]
+
+340
+00:15:25,500 --> 00:15:26,791
+[DERRIDA]
+The alarms aren't sounding!
+
+341
+00:15:26,875 --> 00:15:28,708
+They don't know we're here yet!
+
+342
+00:15:29,666 --> 00:15:31,708
+[panting]
+
+343
+00:15:34,750 --> 00:15:38,041
+Just eight more floors and
+we can get out into the park.
+
+344
+00:15:38,125 --> 00:15:40,416
+We'll meet up with Graham
+and make a plan.
+
+345
+00:15:40,500 --> 00:15:42,000
+Yuri, if you're not
+sure about driving,
+
+346
+00:15:42,083 --> 00:15:43,541
+now's the time to speak up.
+
+347
+00:15:43,625 --> 00:15:44,541
+[YURI]
+Leave it to me!
+
+348
+00:15:44,625 --> 00:15:46,250
+That car's too conspicuous!
+
+349
+00:15:46,333 --> 00:15:48,875
+We've managed to not make any
+electronic footprints so far!
+
+350
+00:15:48,958 --> 00:15:50,041
+If we just wait a while...
+
+351
+00:15:50,125 --> 00:15:51,416
+All well and good,
+
+352
+00:15:51,500 --> 00:15:53,666
+but somebody left
+non-electronic footprints
+
+353
+00:15:53,750 --> 00:15:56,208
+on that dusty lab
+floor upstairs.
+
+354
+00:15:57,375 --> 00:15:58,666
+[heavy breathing]
+
+355
+00:16:00,125 --> 00:16:01,208
+[alarm blaring]
+
+356
+00:16:01,291 --> 00:16:03,041
+-[bang]
+-Damn it!
+
+357
+00:16:03,125 --> 00:16:05,041
+I'll overlook a few
+scratches on the car,
+
+358
+00:16:05,125 --> 00:16:06,166
+so just gun it over here!
+
+359
+00:16:06,250 --> 00:16:07,125
+♪
+
+360
+00:16:07,208 --> 00:16:08,416
+-[roar]
+-[MAYUKA] Got it!
+
+361
+00:16:08,500 --> 00:16:09,750
+Okay, let's hit it!
+
+362
+00:16:09,833 --> 00:16:12,375
+So, this is what
+a steering wheel feels like.
+
+363
+00:16:12,458 --> 00:16:13,458
+Huh?
+
+364
+00:16:13,541 --> 00:16:14,875
+How's it start?
+
+365
+00:16:15,958 --> 00:16:18,000
+[tires screeching]
+
+366
+00:16:21,000 --> 00:16:24,208
+[metal scraping]
+
+367
+00:16:25,416 --> 00:16:27,083
+[swoop, thud]
+
+368
+00:16:27,166 --> 00:16:29,208
+[tires screeching]
+
+369
+00:16:31,750 --> 00:16:34,125
+You told Papa that you
+were sure you could drive!
+
+370
+00:16:34,208 --> 00:16:35,666
+Mmm!
+
+371
+00:16:35,750 --> 00:16:38,375
+[YURI] I'm definitely getting
+my license this year!
+
+372
+00:16:47,166 --> 00:16:49,333
+He told us to gun it, remember?
+
+373
+00:16:53,750 --> 00:16:55,250
+I'm coming, Derrida.
+
+374
+00:16:55,333 --> 00:16:56,666
+Hang in there.
+
+375
+00:16:57,625 --> 00:16:59,125
+You really like him, huh?
+
+376
+00:16:59,208 --> 00:17:01,416
+You guys would be cute together!
+
+377
+00:17:01,500 --> 00:17:03,541
+Huh, what's that?
+Can't hear you!
+
+378
+00:17:03,625 --> 00:17:05,500
+[doors slamming]
+
+379
+00:17:08,208 --> 00:17:10,083
+[DERRIDA panting]
+
+380
+00:17:11,666 --> 00:17:12,875
+[gunshots]
+
+381
+00:17:13,958 --> 00:17:15,125
+[grunt]
+
+382
+00:17:15,208 --> 00:17:17,291
+♪
+
+383
+00:17:17,375 --> 00:17:18,458
+[gunfire]
+
+384
+00:17:18,541 --> 00:17:19,541
+[explosion]
+
+385
+00:17:19,625 --> 00:17:21,500
+[panting]
+
+386
+00:17:21,583 --> 00:17:22,416
+Almost!
+
+387
+00:17:23,833 --> 00:17:25,958
+[tires screeching]
+
+388
+00:17:27,791 --> 00:17:29,166
+Get ready to jump, Derrida!
+
+389
+00:17:29,250 --> 00:17:30,125
+Huh?
+
+390
+00:17:32,041 --> 00:17:32,833
+[grunt]
+
+391
+00:17:32,916 --> 00:17:34,500
+[air rushing]
+
+392
+00:17:35,916 --> 00:17:37,500
+-[tires screeching]
+-[banging]
+
+393
+00:17:38,958 --> 00:17:40,500
+[thuds, grunts]
+
+394
+00:17:42,375 --> 00:17:43,666
+[smash]
+
+395
+00:17:43,750 --> 00:17:45,375
+[buzzing, humming]
+
+396
+00:17:46,333 --> 00:17:47,416
+Yahoo!
+
+397
+00:17:48,833 --> 00:17:50,166
+-[camera snap]
+-[giggle]
+
+398
+00:17:50,250 --> 00:17:52,208
+-Take your wall and shove it!
+-[camera snap]
+
+399
+00:17:53,708 --> 00:17:54,708
+[camera snap]
+
+400
+00:17:54,791 --> 00:17:55,833
+[gasp]
+
+401
+00:17:56,791 --> 00:17:58,291
+Derrida?
+
+402
+00:18:01,541 --> 00:18:03,333
+[VIDAUX]
+That was rough.
+
+403
+00:18:03,416 --> 00:18:04,916
+What a crazy ride.
+
+404
+00:18:05,000 --> 00:18:07,333
+[snoring]
+
+405
+00:18:07,416 --> 00:18:09,958
+Any luck finding out
+where Mage might be?
+
+406
+00:18:10,041 --> 00:18:11,333
+[VIDAUX]
+Not yet.
+
+407
+00:18:11,416 --> 00:18:13,083
+But hopefully we'll be able
+to find something
+
+408
+00:18:13,166 --> 00:18:15,500
+in this mountain of files
+we took from Rebuild.
+
+409
+00:18:15,583 --> 00:18:17,666
+That's great, it means
+there's a chance!
+
+410
+00:18:17,750 --> 00:18:19,458
+Isn't that right, Derrida?
+
+411
+00:18:20,500 --> 00:18:22,416
+Uh. Hey, what's wrong?
+
+412
+00:18:22,500 --> 00:18:24,166
+Well, it...
+
+413
+00:18:24,250 --> 00:18:26,000
+It's good news about Mage, yeah.
+
+414
+00:18:27,000 --> 00:18:28,416
+But...
+
+415
+00:18:32,333 --> 00:18:34,833
+[typing]
+
+416
+00:18:35,791 --> 00:18:36,916
+-[YURI] Hmm?
+-[VIDAUX] Hmm.
+
+417
+00:18:37,000 --> 00:18:38,375
+[gasp]
+
+418
+00:18:38,458 --> 00:18:40,375
+[DERRIDA]
+I thought that it was Andrei,
+
+419
+00:18:40,458 --> 00:18:42,500
+who was behind
+the incident 10 years ago.
+
+420
+00:18:43,458 --> 00:18:45,250
+That he was trying
+to kill off people
+
+421
+00:18:45,333 --> 00:18:48,666
+who knew about the DZ bug,
+to keep the secret hidden.
+
+422
+00:18:48,750 --> 00:18:49,875
+[YURI]
+But, it wasn't?
+
+423
+00:18:49,958 --> 00:18:51,875
+[DERRIDA]
+That data shows
+
+424
+00:18:51,958 --> 00:18:53,750
+that the DZ bug
+was manufactured
+
+425
+00:18:53,833 --> 00:18:55,041
+and put in there
+intentionally.
+
+426
+00:18:55,125 --> 00:18:57,208
+-But, why?
+-How do you know this?
+
+427
+00:18:57,291 --> 00:18:59,875
+[DERRIDA] It's signed by all
+the executives except my father.
+
+428
+00:18:59,958 --> 00:19:01,666
+Government officials, too.
+
+429
+00:19:01,750 --> 00:19:03,708
+That can only mean...
+
+430
+00:19:03,791 --> 00:19:05,458
+the DZ rampage was engineered
+
+431
+00:19:05,541 --> 00:19:08,250
+by the government
+and Rebuild from the start.
+
+432
+00:19:08,333 --> 00:19:10,083
+I don't understand.
+
+433
+00:19:10,166 --> 00:19:11,541
+When the DZs went haywire,
+
+434
+00:19:11,625 --> 00:19:13,958
+it turned the war
+completely upside down.
+
+435
+00:19:14,041 --> 00:19:15,500
+He thinks it was
+done on purpose,
+
+436
+00:19:15,583 --> 00:19:17,958
+by people who stood to
+benefit from the chaos.
+
+437
+00:19:18,041 --> 00:19:18,875
+No way.
+
+438
+00:19:18,958 --> 00:19:19,958
+♪
+
+439
+00:19:20,041 --> 00:19:20,958
+[DERRIDA]
+The patch file I made,
+
+440
+00:19:21,041 --> 00:19:23,250
+they don't need it at all.
+
+441
+00:19:23,333 --> 00:19:25,125
+They'd actually prefer
+to be rid of it!
+
+442
+00:19:26,958 --> 00:19:28,166
+[DERRIDA]
+It isn't just Rebuild
+
+443
+00:19:28,250 --> 00:19:30,416
+who's after the access key
+for the patch.
+
+444
+00:19:30,500 --> 00:19:31,875
+It's the government,
+
+445
+00:19:31,958 --> 00:19:34,125
+and the other countries
+involved in the war, too.
+
+446
+00:19:34,208 --> 00:19:35,083
+[sigh]
+
+447
+00:19:36,458 --> 00:19:38,125
+Vidaux.
+It's time we parted ways.
+
+448
+00:19:38,208 --> 00:19:40,708
+I won't drag you
+any deeper into this.
+
+449
+00:19:40,791 --> 00:19:43,083
+I'll pay you the money
+I owe you, I promise.
+
+450
+00:19:43,166 --> 00:19:45,416
+Could you just take Yuri
+somewhere safe for me?
+
+451
+00:19:45,500 --> 00:19:47,166
+Derrida!
+
+452
+00:19:47,250 --> 00:19:48,791
+[DERRIDA] It was my misplaced
+optimism that caused this mess!
+
+453
+00:19:48,875 --> 00:19:50,166
+Wait, hold on!
+
+454
+00:19:50,250 --> 00:19:52,416
+It isn't only your fault.
+
+455
+00:19:52,500 --> 00:19:54,083
+I also...
+
+456
+00:19:54,166 --> 00:19:55,916
+Yuri?
+
+457
+00:19:56,000 --> 00:19:57,833
+So, what's your plan?
+
+458
+00:19:57,916 --> 00:20:00,916
+I need to find Mage first,
+no matter what.
+
+459
+00:20:01,000 --> 00:20:02,291
+Then, I wanna do
+something about
+
+460
+00:20:02,375 --> 00:20:04,000
+this endless gridlock of a war!
+
+461
+00:20:04,916 --> 00:20:06,583
+Hmm...
+
+462
+00:20:06,666 --> 00:20:09,666
+When a man discovers something
+more valuable than his revenge,
+
+463
+00:20:10,916 --> 00:20:12,208
+he's earned my assistance.
+
+464
+00:20:12,291 --> 00:20:13,166
+[gasp]
+
+465
+00:20:16,791 --> 00:20:18,000
+[sigh]
+
+466
+00:20:18,083 --> 00:20:19,791
+Oh, is that so?
+
+467
+00:20:19,875 --> 00:20:21,000
+Another of your regulations?
+
+468
+00:20:21,083 --> 00:20:22,916
+No sir.
+
+469
+00:20:23,000 --> 00:20:25,041
+Spur of the moment choice.
+
+470
+00:20:25,125 --> 00:20:27,750
+I actually got a copy
+of your data, too.
+
+471
+00:20:27,833 --> 00:20:30,416
+You have quite a fortune,
+based on patents alone.
+
+472
+00:20:32,541 --> 00:20:34,541
+Once we've got
+your name cleared,
+
+473
+00:20:34,625 --> 00:20:36,500
+I'll accept all
+of it as payment.
+
+474
+00:20:37,458 --> 00:20:39,500
+♪
+
+475
+00:20:47,875 --> 00:20:49,291
+[MAN 1]
+So then,
+
+476
+00:20:49,375 --> 00:20:51,958
+do we have a final report
+on the rampaging Automata?
+
+477
+00:20:52,916 --> 00:20:54,500
+Anyone?
+
+478
+00:20:54,583 --> 00:20:56,791
+[MAN 2] We've concluded
+it is no longer possible
+
+479
+00:20:56,875 --> 00:20:59,625
+to settle the situation
+through normal methods.
+
+480
+00:21:00,791 --> 00:21:02,250
+[MAN 3]
+Pandora's box is open,
+
+481
+00:21:02,333 --> 00:21:04,166
+and there's no way
+to close it, then.
+
+482
+00:21:04,250 --> 00:21:05,958
+That's what you're saying?
+
+483
+00:21:11,583 --> 00:21:12,875
+[typing]
+
+484
+00:21:12,958 --> 00:21:15,041
+♪
+
+485
+00:21:15,125 --> 00:21:16,250
+Huh?
+
+486
+00:21:16,333 --> 00:21:18,125
+[footsteps]
+
+487
+00:21:18,208 --> 00:21:20,250
+-You thinking?
+-Yeah.
+
+488
+00:21:20,333 --> 00:21:22,750
+I had a dream about
+Mage's birthday.
+
+489
+00:21:23,708 --> 00:21:25,500
+Thing is, in the dream,
+I was...
+
+490
+00:21:26,458 --> 00:21:29,041
+[chuckle] Well, it would've made
+me late, so it's impossible.
+
+491
+00:21:29,125 --> 00:21:31,791
+You mean her birthday
+party 10 years ago?
+
+492
+00:21:31,875 --> 00:21:33,541
+But, you were late that day.
+
+493
+00:21:34,500 --> 00:21:35,791
+Huh?
+
+494
+00:21:35,875 --> 00:21:38,125
+I mean, you got there
+after I did, at least.
+
+495
+00:21:38,208 --> 00:21:39,125
+[click]
+
+496
+00:21:39,208 --> 00:21:40,416
+Hmm...
+
+497
+00:21:40,500 --> 00:21:42,375
+[MAGE]
+Coming!
+
+498
+00:21:42,458 --> 00:21:43,291
+[doors creak]
+
+499
+00:21:43,375 --> 00:21:45,166
+You're late, Derrida!
+
+500
+00:21:45,250 --> 00:21:46,291
+-[splat]
+-[gasp]
+
+501
+00:21:46,375 --> 00:21:47,875
+[YURI laughing]
+
+502
+00:21:47,958 --> 00:21:49,916
+[DERRIDA]
+Uh, happy birthday, Mage!
+
+503
+00:21:51,875 --> 00:21:53,291
+[DERRIDA]
+Did I...
+
+504
+00:21:53,375 --> 00:21:55,166
+change things...
+
+505
+00:21:55,250 --> 00:21:56,541
+with a time ride?
+
+506
+00:21:57,625 --> 00:21:59,666
+Did I experience
+a different past?
+
+507
+00:21:59,750 --> 00:22:01,416
+♪
+
+508
+00:22:01,500 --> 00:22:03,333
+[DERRIDA]
+Uh, happy birthday, Mage!
+
+509
+00:22:03,416 --> 00:22:04,958
+[laughing]
+
+510
+00:22:05,041 --> 00:22:06,833
+It's not that funny,
+stop laughing!
+
+511
+00:22:07,791 --> 00:22:08,833
+[gasp]
+

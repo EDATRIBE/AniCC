@@ -1,0 +1,1460 @@
+﻿1
+00:00:14,416 --> 00:00:16,208
+Predicting the weather.
+
+2
+00:00:19,041 --> 00:00:21,666
+Forecast for
+Tanegashima and nearby areas.
+
+3
+00:00:21,750 --> 00:00:24,166
+Skies will be cloudy.
+Showers are likely
+
+4
+00:00:24,250 --> 00:00:30,000
+beginning in the afternoon,
+and continuing on into tomorrow.
+
+5
+00:00:33,333 --> 00:00:38,583
+Airi thinks there's
+going to be a storm today.
+
+6
+00:02:14,500 --> 00:02:16,291
+I don't get what's happening.
+
+7
+00:02:27,583 --> 00:02:29,083
+Any of it.
+
+8
+00:02:34,250 --> 00:02:36,958
+We're somewhere inside
+the space center, aren't we?
+
+9
+00:02:37,041 --> 00:02:38,750
+But why here?
+
+10
+00:02:39,458 --> 00:02:41,708
+D-Do you wanna know
+what happened to me?
+
+11
+00:02:42,625 --> 00:02:44,791
+I went out to get some food
+from the convenience store
+
+12
+00:02:44,875 --> 00:02:47,458
+near my place, and,
+and JAXA was there!
+
+13
+00:02:47,541 --> 00:02:50,125
+I don't have any idea where
+they came from, or why.
+
+14
+00:02:50,208 --> 00:02:53,041
+Everything happened so fast,
+it's all kind of fuzzy.
+
+15
+00:02:54,625 --> 00:02:56,083
+I'm assuming you
+were shoved into a van
+
+16
+00:02:56,166 --> 00:02:57,750
+without explanation, like us.
+
+17
+00:02:57,833 --> 00:03:00,125
+P-Pretty much, yes.
+
+18
+00:03:01,500 --> 00:03:04,666
+Okay. I might know
+what's going on here.
+
+19
+00:03:04,750 --> 00:03:07,291
+I've seen this
+sort of thing before.
+
+20
+00:03:07,375 --> 00:03:10,833
+Hey, Chief, are you
+doing a "Gendou Pose"?
+
+21
+00:03:10,916 --> 00:03:12,625
+Clever boy.
+
+22
+00:03:12,708 --> 00:03:14,166
+So, where have
+you seen this before?
+
+23
+00:03:14,250 --> 00:03:17,625
+Oh. These abductions happen
+all the time in robot anime!
+
+24
+00:03:17,708 --> 00:03:20,083
+If they follow the normal plot,
+it means we've been chosen
+
+25
+00:03:20,166 --> 00:03:22,041
+to operate a robot of justice!
+
+26
+00:03:22,125 --> 00:03:24,875
+You really are full
+of nonsense, you know that?
+
+27
+00:03:29,250 --> 00:03:31,583
+Uh. Hi.
+
+28
+00:03:32,291 --> 00:03:33,666
+You're behind this?!
+
+29
+00:03:33,750 --> 00:03:36,750
+Hold on, I don't understand,
+Dad! What's going on here?
+
+30
+00:03:36,833 --> 00:03:38,583
+Please. Allow me to explain.
+
+31
+00:03:48,958 --> 00:03:51,375
+My name is Nae Tennoji.
+I am a member of
+
+32
+00:03:51,458 --> 00:03:55,125
+JAXA ARD's Innovative
+Technology Research Center.
+
+33
+00:03:55,208 --> 00:03:56,708
+Nice to meet you.
+
+34
+00:03:56,791 --> 00:03:59,583
+And now for the reason
+we've asked you here today.
+
+35
+00:04:01,541 --> 00:04:02,875
+Here it is!
+
+36
+00:04:02,958 --> 00:04:07,500
+Project name: "Let's build
+a giant robot with JAXA!"
+
+37
+00:04:09,583 --> 00:04:10,250
+Huh?
+
+38
+00:04:11,708 --> 00:04:14,750
+You want us to work with
+you on building a giant robot?
+
+39
+00:04:14,833 --> 00:04:16,333
+Yes, that's right.
+
+40
+00:04:16,416 --> 00:04:18,500
+The project's officially known
+as the Research Support Project
+
+41
+00:04:18,583 --> 00:04:20,541
+for Technical
+Innovation in Robotics.
+
+42
+00:04:20,625 --> 00:04:22,458
+Basically, we want to
+lend what support we can
+
+43
+00:04:22,541 --> 00:04:24,666
+to people working
+on large-scale robots.
+
+44
+00:04:24,750 --> 00:04:27,333
+Innovative roboticists
+like yourselves, of course.
+
+45
+00:04:27,416 --> 00:04:30,750
+The goal is to have something to
+show at next year's Tokyo Expo.
+
+46
+00:04:30,833 --> 00:04:32,625
+The expo?!
+
+47
+00:04:32,708 --> 00:04:35,500
+With that said,
+our budget is relatively small.
+
+48
+00:04:35,583 --> 00:04:38,625
+Smaller than the
+tears of a sparrow.
+
+49
+00:04:38,708 --> 00:04:41,833
+Unfortunately, we'll only be
+able to support one project.
+
+50
+00:04:41,916 --> 00:04:46,041
+And while I was trying to decide
+what to go with, I saw ROBO-ONE.
+
+51
+00:04:46,125 --> 00:04:48,708
+I was impressed. You really
+held your own against
+
+52
+00:04:48,791 --> 00:04:52,291
+the famous Mr. Pleiades in the
+final round of the tournament.
+
+53
+00:04:56,208 --> 00:04:58,958
+As it happens,
+Mr. Pleiades has joined us.
+
+54
+00:04:59,041 --> 00:05:01,291
+Why can't you keep
+your big mouf cwosed?
+
+55
+00:05:01,708 --> 00:05:03,583
+After the tournament,
+I ran across the interview
+
+56
+00:05:03,666 --> 00:05:05,916
+you gave to the Kaiyomi Times.
+
+57
+00:05:06,333 --> 00:05:08,500
+You spoke so passionately
+about your dream
+
+58
+00:05:08,583 --> 00:05:11,166
+to build a robot that was
+more than ten meters tall.
+
+59
+00:05:11,250 --> 00:05:14,250
+I knew I'd found what
+I was looking for!
+
+60
+00:05:14,333 --> 00:05:16,541
+And, at last, you're here.
+
+61
+00:05:16,625 --> 00:05:18,625
+I had no doubt all
+kinds of organizations
+
+62
+00:05:18,708 --> 00:05:21,583
+and corporations had
+already started courting you.
+
+63
+00:05:21,666 --> 00:05:24,750
+Because of that, I'm afraid I
+went to rather extreme measures
+
+64
+00:05:24,833 --> 00:05:28,875
+to bring you here in secret.
+I do regret that necessity.
+
+65
+00:05:29,250 --> 00:05:32,166
+You think that many people
+would be interested in us?!
+
+66
+00:05:32,250 --> 00:05:34,458
+Don't you know flattery
+when you hear it?
+
+67
+00:05:35,625 --> 00:05:37,625
+So can you be more specific
+
+68
+00:05:37,708 --> 00:05:39,750
+about the support
+you're offering?
+
+69
+00:05:39,833 --> 00:05:41,916
+We'll provide
+developmental funding.
+
+70
+00:05:42,000 --> 00:05:44,125
+And, you'll have the
+benefit of valuable advice
+
+71
+00:05:44,208 --> 00:05:46,833
+from our engineers
+during the building process.
+
+72
+00:05:46,916 --> 00:05:48,625
+Hooooboy!
+
+73
+00:05:48,708 --> 00:05:51,750
+There's gotta be a catch. That
+sounds way too good to be true.
+
+74
+00:05:51,833 --> 00:05:53,416
+Well, at this
+point all I can really do
+
+75
+00:05:53,500 --> 00:05:55,541
+is ask you to trust me.
+
+76
+00:05:55,625 --> 00:05:57,958
+But something else to keep
+in mind. If your completed
+
+77
+00:05:58,041 --> 00:06:00,916
+robot is well-received at
+the expo, you might be asked
+
+78
+00:06:01,000 --> 00:06:03,875
+to develop other large-scale
+robots in the future.
+
+79
+00:06:03,958 --> 00:06:06,500
+Together with JAXA, you can
+build a robot of justice
+
+80
+00:06:06,583 --> 00:06:08,541
+that will kick all
+kinds of bad-guy-butt!
+
+81
+00:06:08,625 --> 00:06:12,833
+Just like you've always wanted!
+Well, what do you say?
+
+82
+00:06:12,916 --> 00:06:14,958
+Now you're making it
+sound like a weapon.
+
+83
+00:06:15,041 --> 00:06:17,750
+I'm afraid I can't
+condone that type of project.
+
+84
+00:06:17,833 --> 00:06:20,541
+I was just, um, exaggerating.
+
+85
+00:06:25,250 --> 00:06:28,708
+I like the picture you're
+painting! It sounds amazing!
+
+86
+00:06:28,791 --> 00:06:31,958
+Here we go; it's like
+a dog with a bone.
+
+87
+00:06:32,041 --> 00:06:34,375
+Oh, really? Fantastic!
+
+88
+00:06:34,458 --> 00:06:37,291
+We had already planned on
+entering the expo, anyway.
+
+89
+00:06:37,375 --> 00:06:41,958
+So why not partner up with
+JAXA to do it? Okay, we're in!
+
+90
+00:06:44,875 --> 00:06:47,416
+That's incredible news!
+Now, about the robot
+
+91
+00:06:47,500 --> 00:06:49,750
+you guys have already
+begun constructing...
+
+92
+00:06:49,833 --> 00:06:52,125
+Do you think maybe
+I could have a look at it?
+
+93
+00:06:52,666 --> 00:06:54,416
+Yes, absolutely!
+
+94
+00:06:56,375 --> 00:07:01,750
+Unbelievable. You actually
+turned down support from JAXA.
+
+95
+00:07:02,208 --> 00:07:04,541
+I had to.
+
+96
+00:07:04,625 --> 00:07:06,791
+She wanted us to
+put GunBuild-1 on hold
+
+97
+00:07:06,875 --> 00:07:09,250
+and start on a new robot.
+
+98
+00:07:13,583 --> 00:07:17,500
+Neat blueprints.
+You drew these yourself, Sis?
+
+99
+00:07:19,333 --> 00:07:22,875
+Is it true? You're really
+gonna make a GUNVARREL?!
+
+100
+00:07:22,958 --> 00:07:27,625
+That's the GunBuild Prototype
+Mark 1. GunBuild-1 for short.
+
+101
+00:07:29,208 --> 00:07:32,833
+Completing GunBuild-1,
+that's my dream.
+
+102
+00:07:32,916 --> 00:07:36,416
+But, making another
+robot from scratch?
+
+103
+00:07:36,500 --> 00:07:38,500
+That's not even an option.
+
+104
+00:07:39,333 --> 00:07:41,291
+Are you sure, Akiho?
+
+105
+00:07:41,750 --> 00:07:45,833
+And you, Yashio? What do
+you think about all this?
+
+106
+00:07:45,916 --> 00:07:47,458
+I don't really care.
+
+107
+00:07:47,541 --> 00:07:49,916
+You won't be getting much
+help outta me either way.
+
+108
+00:07:50,000 --> 00:07:53,250
+Come on, Kai! Are you
+really gonna be like that?!
+
+109
+00:07:53,333 --> 00:07:55,916
+If you want me to help, all you
+have to do is beat me at...
+
+110
+00:07:57,791 --> 00:07:59,583
+You jerk!
+
+111
+00:08:03,458 --> 00:08:06,458
+More nonsense!
+Does it ever stop?
+
+112
+00:08:06,791 --> 00:08:08,916
+Stupid boys and their stupid...
+
+113
+00:08:18,500 --> 00:08:20,333
+Look at this weather.
+
+114
+00:08:20,416 --> 00:08:23,291
+I imagine you'll want to head
+home before the storm hits.
+
+115
+00:08:23,375 --> 00:08:26,958
+Probably. You know,
+I wonder, are you positive
+
+116
+00:08:27,041 --> 00:08:30,041
+that was the right decision?
+Not telling Akiho that this was
+
+117
+00:08:30,125 --> 00:08:33,416
+all your idea to
+begin with, I mean. Sir.
+
+118
+00:08:34,791 --> 00:08:37,041
+It would have been too
+embarrassing to tell her.
+
+119
+00:08:37,125 --> 00:08:39,375
+I'm shocked by
+how it turned out.
+
+120
+00:08:39,458 --> 00:08:42,125
+In a million years, I never
+thought she'd reject the offer.
+
+121
+00:08:42,208 --> 00:08:44,125
+I'm sorry I wasted your time.
+
+122
+00:08:44,500 --> 00:08:45,791
+Not at all!
+
+123
+00:08:45,875 --> 00:08:48,166
+It was a really
+nice thing to see.
+
+124
+00:08:48,250 --> 00:08:49,625
+A group of friends
+getting together
+
+125
+00:08:49,708 --> 00:08:52,083
+to create something
+they're passionate about.
+
+126
+00:08:53,458 --> 00:08:56,000
+I admire that kind
+of drive and conviction.
+
+127
+00:08:56,083 --> 00:08:58,750
+So I'm not ready to
+give up on them just yet.
+
+128
+00:09:04,708 --> 00:09:07,791
+Hey, Brother!
+A typhoon is blowing in.
+
+129
+00:09:08,791 --> 00:09:11,000
+Yeah, I noticed that.
+
+130
+00:09:24,041 --> 00:09:25,500
+Airi, tell me something.
+
+131
+00:09:25,583 --> 00:09:27,708
+What do you know about these
+"Kagome, Kagome" phone calls
+
+132
+00:09:27,791 --> 00:09:29,416
+everyone has
+been getting lately?
+
+133
+00:09:29,500 --> 00:09:32,916
+"Kagome, Kagome"? That's
+a song, isn't it, Brother?
+
+134
+00:09:33,000 --> 00:09:35,875
+I'm talking about the
+ringtone, here, not the song.
+
+135
+00:09:38,000 --> 00:09:40,291
+Maybe Gezi knows
+something about it.
+
+136
+00:09:43,250 --> 00:09:45,208
+Your access has
+now been confirmed.
+
+137
+00:09:45,291 --> 00:09:47,333
+Switch to Gezi
+mode was successful.
+
+138
+00:09:47,666 --> 00:09:49,583
+So all these
+"Kagome, Kagome" phone calls.
+
+139
+00:09:49,666 --> 00:09:51,500
+Do you know anything about them?
+
+140
+00:09:51,583 --> 00:09:54,375
+They appear to have
+occurred throughout Japan.
+
+141
+00:09:56,000 --> 00:09:58,041
+And what about
+the "Kimijima Reports"?
+
+142
+00:09:58,125 --> 00:09:59,666
+Is there a whole series of them?
+
+143
+00:09:59,750 --> 00:10:02,833
+Yes. They go up
+to Report Number 7.
+
+144
+00:10:02,916 --> 00:10:05,250
+Whoa, that's more
+than I would've guessed.
+
+145
+00:10:05,333 --> 00:10:07,500
+Do you have any idea
+where the other ones are?
+
+146
+00:10:07,583 --> 00:10:11,000
+All the remaining reports?
+Negative, I'm afraid that
+
+147
+00:10:11,083 --> 00:10:12,625
+neither Airi nor Gezi knows
+
+148
+00:10:12,708 --> 00:10:15,125
+where all of the
+Kimijima Reports are hidden.
+
+149
+00:10:15,750 --> 00:10:18,833
+Okay, so, you do know
+where some of them are, right?
+
+150
+00:10:18,916 --> 00:10:22,750
+Yes, Kimijima Report
+Number 2 is known.
+
+151
+00:10:22,833 --> 00:10:25,583
+It is located in
+the Uchugaoka Park area.
+
+152
+00:10:25,666 --> 00:10:27,333
+That puts it right around here.
+
+153
+00:10:27,416 --> 00:10:30,291
+Yes, but do not
+bother searching for it.
+
+154
+00:10:30,375 --> 00:10:32,708
+The Kimijima Report
+AR markers will not appear
+
+155
+00:10:32,791 --> 00:10:35,375
+on your IRUO
+display at this time.
+
+156
+00:10:36,666 --> 00:10:37,875
+And why not?
+
+157
+00:10:37,958 --> 00:10:40,541
+Each Kimijima report
+has flags attached to it,
+
+158
+00:10:40,625 --> 00:10:43,625
+conditions that must be met
+in order to make it visible.
+
+159
+00:10:44,041 --> 00:10:45,125
+Conditions, huh?
+
+160
+00:10:46,250 --> 00:10:47,666
+So, I guess the
+"Hidden Hand" password
+
+161
+00:10:47,750 --> 00:10:49,625
+isn't gonna cut it this time.
+
+162
+00:10:52,625 --> 00:10:54,250
+Hold on a minute.
+
+163
+00:10:54,333 --> 00:10:56,958
+Hey, Gezi. In what
+year did Kou Kimijima die?
+
+164
+00:10:57,041 --> 00:10:59,125
+Two thousand and ten.
+
+165
+00:10:59,208 --> 00:11:01,625
+Did IRUO even exist back then?
+
+166
+00:11:01,708 --> 00:11:04,166
+An alpha was indeed in
+development at that time.
+
+167
+00:11:05,541 --> 00:11:11,791
+Wow. So, Gezi, what are these
+flags for making it visible?
+
+168
+00:11:12,208 --> 00:11:14,000
+Report Number Two flags.
+
+169
+00:11:14,083 --> 00:11:16,125
+File download
+in progress. Please wait.
+
+170
+00:11:18,791 --> 00:11:21,875
+The requested file has
+been successfully downloaded.
+
+171
+00:11:22,458 --> 00:11:26,083
+First flag: Find and read
+Kimijima Report Number One.
+
+172
+00:11:26,166 --> 00:11:29,166
+Additionally, make contact
+with Airi at least once.
+
+173
+00:11:29,250 --> 00:11:30,708
+Check!
+
+174
+00:11:30,791 --> 00:11:33,666
+Second flag: Press the green
+button beneath the radar dome
+
+175
+00:11:33,750 --> 00:11:36,125
+located near the old folk museum
+
+176
+00:11:36,208 --> 00:11:38,625
+and then press it
+again one hour later.
+
+177
+00:11:39,791 --> 00:11:42,458
+Third flag: Compete in
+the Uchugaoka Park's
+
+178
+00:11:42,541 --> 00:11:44,583
+go-kart time
+trial and achieve a time
+
+179
+00:11:44,666 --> 00:11:46,583
+below the
+thirty second mark.
+
+180
+00:11:46,666 --> 00:11:49,875
+Then post and sign your
+name on the IRUO geotag there.
+
+181
+00:11:51,083 --> 00:11:55,291
+Okay, on the fourth and
+final flag: Earn a triple-S rank
+
+182
+00:11:55,375 --> 00:11:56,708
+while playing the arcade mode
+
+183
+00:11:56,791 --> 00:11:59,833
+of the "Golden Wolf
+Fighter IV" fighting app.
+
+184
+00:11:59,916 --> 00:12:01,083
+Once you have succeeded,
+
+185
+00:12:01,166 --> 00:12:04,083
+upload your record to
+the online leader board.
+
+186
+00:12:04,500 --> 00:12:05,833
+This is ridiculous!
+
+187
+00:12:05,916 --> 00:12:08,083
+Why do I have to jump
+through all these hoops?!
+
+188
+00:12:08,166 --> 00:12:10,500
+Only my master knows that.
+
+189
+00:12:10,583 --> 00:12:12,708
+This is basically one big game.
+
+190
+00:12:12,791 --> 00:12:15,125
+'Kay, start with the radar dome.
+
+191
+00:12:25,708 --> 00:12:28,625
+Hey, there really
+is a green button.
+
+192
+00:12:37,166 --> 00:12:39,833
+Whoa! What was that?!
+
+193
+00:12:52,750 --> 00:12:56,666
+Aw, man.
+Why didn't I just go home?
+
+194
+00:12:58,083 --> 00:12:59,583
+Blast from the past.
+
+195
+00:12:59,666 --> 00:13:01,916
+Didn't know there
+was an app version.
+
+196
+00:13:02,000 --> 00:13:05,083
+Everybody I knew was playing
+this game about ten years ago.
+
+197
+00:13:05,166 --> 00:13:08,041
+Misa used to wipe the
+floor with me when we played.
+
+198
+00:13:10,333 --> 00:13:12,708
+Got an hour. And since
+I don't have anything
+
+199
+00:13:12,791 --> 00:13:15,250
+better to do to pass the time.
+
+200
+00:13:36,791 --> 00:13:38,500
+Send!
+
+201
+00:13:42,333 --> 00:13:44,958
+Oh heck yeah! Flag cleared!
+
+202
+00:13:45,041 --> 00:13:46,541
+It's been so long
+since I played this;
+
+203
+00:13:46,625 --> 00:13:48,458
+it was actually pretty tough.
+
+204
+00:13:52,041 --> 00:13:53,791
+Crap, that's bad.
+
+205
+00:13:53,875 --> 00:13:55,666
+I believe Airi
+warned you beforehand
+
+206
+00:13:55,750 --> 00:13:57,750
+of the typhoon's arrival.
+
+207
+00:13:58,208 --> 00:14:00,250
+Yeah, she did.
+Don't blame her.
+
+208
+00:14:01,458 --> 00:14:03,291
+What the crap was that?
+
+209
+00:14:06,500 --> 00:14:08,208
+And what is that thing?
+
+210
+00:14:13,750 --> 00:14:16,041
+It looks like a
+plate from the radar dome!
+
+211
+00:14:16,125 --> 00:14:19,208
+Typhoons have been
+known to damage equipment.
+
+212
+00:14:19,708 --> 00:14:21,750
+Do you think it's
+gonna survive the storm?
+
+213
+00:14:21,833 --> 00:14:24,083
+There is a risk of
+damage to the structure.
+
+214
+00:14:24,166 --> 00:14:27,416
+And not only to the dome,
+but to the antenna itself.
+
+215
+00:14:27,500 --> 00:14:29,083
+I believe that
+opening the dome earlier
+
+216
+00:14:29,166 --> 00:14:30,916
+may not have been a good idea.
+
+217
+00:14:31,000 --> 00:14:32,625
+By doing so,
+you left it vulnerable
+
+218
+00:14:32,708 --> 00:14:34,416
+to the wind and the rain.
+
+219
+00:14:34,500 --> 00:14:36,458
+Great. You're blaming me now?
+
+220
+00:14:42,125 --> 00:14:45,333
+So? What'll happen
+to the second flag
+
+221
+00:14:45,416 --> 00:14:47,041
+if the dome gets wrecked?
+
+222
+00:14:47,125 --> 00:14:50,291
+It is possible that you
+will be unable to clear it.
+
+223
+00:14:50,375 --> 00:14:52,708
+Then what? Are you
+saying I gotta find a way
+
+224
+00:14:52,791 --> 00:14:55,666
+to protect the
+antenna from the storm?
+
+225
+00:15:01,041 --> 00:15:04,166
+Beginning shutdown
+process for Gezi mode.
+
+226
+00:15:05,625 --> 00:15:09,333
+How bad is it? Is the tower
+going to be okay, Brother?
+
+227
+00:15:10,250 --> 00:15:12,125
+That's the first thing
+you're worried about?
+
+228
+00:15:12,208 --> 00:15:13,875
+Airi is very worried.
+
+229
+00:15:13,958 --> 00:15:17,333
+If the antenna breaks,
+I'll have one less task to do.
+
+230
+00:15:17,416 --> 00:15:18,500
+Wait, what do you mean?
+
+231
+00:15:18,583 --> 00:15:21,083
+My master gave me
+various tasks to do.
+
+232
+00:15:21,166 --> 00:15:22,500
+One of the tasks is to listen
+
+233
+00:15:22,583 --> 00:15:24,916
+and make sure the
+"bee-bee-boo" sound plays
+
+234
+00:15:25,000 --> 00:15:28,708
+once every day, as scheduled.
+And then, after it goes off,
+
+235
+00:15:28,791 --> 00:15:31,333
+I'm supposed to look for
+anything out of the ordinary.
+
+236
+00:15:31,416 --> 00:15:32,958
+Really? Is that your job?
+
+237
+00:15:33,041 --> 00:15:36,208
+Yes. I've been doing
+it for about ten years now,
+
+238
+00:15:36,291 --> 00:15:38,666
+but if something
+happens to the tower,
+
+239
+00:15:38,750 --> 00:15:40,583
+that task won't be possible,
+
+240
+00:15:40,666 --> 00:15:43,500
+and Airi won't have
+as much to do anymore.
+
+241
+00:15:46,166 --> 00:15:48,791
+Man, I really should've
+kept my mouth shut.
+
+242
+00:15:56,708 --> 00:15:59,458
+That's one way
+to wake up from a nap.
+
+243
+00:15:59,541 --> 00:16:03,458
+Hey, Aki! Do you have
+any idea where Kai might be?
+
+244
+00:16:03,541 --> 00:16:04,708
+Wha?
+
+245
+00:16:04,791 --> 00:16:07,916
+Apparently he hasn't
+come home yet today!
+
+246
+00:16:16,791 --> 00:16:20,333
+Why am I doing this?
+I must be crazy!
+
+247
+00:16:20,416 --> 00:16:23,166
+Airi's just an AI.
+Why should I care if some
+
+248
+00:16:23,250 --> 00:16:27,083
+overblown operating system
+gets to keep her job or not...
+
+249
+00:16:30,125 --> 00:16:31,375
+Damn!
+
+250
+00:18:18,333 --> 00:18:20,875
+Thank you so very much
+for doing that, Brother.
+
+251
+00:18:20,958 --> 00:18:23,875
+Now Airi can do the
+job her master gave her.
+
+252
+00:18:26,791 --> 00:18:29,333
+You're hurt! Airi wishes
+she could make you better,
+
+253
+00:18:29,416 --> 00:18:31,625
+but that's not
+in her programming.
+
+254
+00:18:31,708 --> 00:18:36,541
+You seem to be
+surprisingly calm about this.
+
+255
+00:18:36,625 --> 00:18:40,625
+Airi's sorry, but she can't
+say when the storm will pass.
+
+256
+00:18:40,708 --> 00:18:43,250
+Airi only has access to
+data that has been uploaded
+
+257
+00:18:43,333 --> 00:18:47,958
+to the IRUO system. So, even
+though she wants to very much,
+
+258
+00:18:48,041 --> 00:18:51,166
+Airi can't comprehend
+the pain you must be feeling.
+
+259
+00:18:53,083 --> 00:18:55,125
+Please, Brother,
+you have to stay strong,
+
+260
+00:18:55,208 --> 00:18:57,375
+just for a little while longer!
+
+261
+00:19:01,125 --> 00:19:07,166
+Kai! Kai! Wake up! Kai!
+
+262
+00:19:07,250 --> 00:19:10,166
+Is that you, Aki?
+
+263
+00:19:10,250 --> 00:19:13,708
+Idiot! Why the heck
+are you up on the tower?
+
+264
+00:19:13,791 --> 00:19:16,208
+Why are you here?
+
+265
+00:19:16,291 --> 00:19:17,541
+When you didn't
+come home, I thought you
+
+266
+00:19:17,625 --> 00:19:20,541
+might be in the park,
+so I came to look for you.
+
+267
+00:19:21,083 --> 00:19:23,958
+Then a girl named
+Airi showed up on my IRUO.
+
+268
+00:19:25,333 --> 00:19:27,625
+She told me
+something had happened,
+
+269
+00:19:27,708 --> 00:19:30,583
+that you needed help,
+and I should come up here.
+
+270
+00:19:32,833 --> 00:19:36,375
+So, how are we
+supposed to get down?
+
+271
+00:19:36,458 --> 00:19:41,208
+Huh? Uh, don't worry about it.
+
+272
+00:19:41,291 --> 00:19:44,291
+We've got plenty
+of help down below.
+
+273
+00:19:45,083 --> 00:19:46,625
+Thank you for coming.
+
+274
+00:19:46,708 --> 00:19:49,625
+I guess I really
+owe ya one now, don't I?
+
+275
+00:19:51,500 --> 00:19:55,791
+This is kinda like on
+the Anemone. Just you and me.
+
+276
+00:20:06,458 --> 00:20:09,458
+I had to get checked out
+at the hospital after that.
+
+277
+00:20:09,541 --> 00:20:12,041
+And then I spent the entire
+afternoon today apologizing
+
+278
+00:20:12,125 --> 00:20:15,041
+to people for all
+the trouble I'd caused.
+
+279
+00:20:15,125 --> 00:20:18,125
+And telling Aki all
+about Airi and how we'd met.
+
+280
+00:20:19,125 --> 00:20:21,541
+And, as for the final flag.
+
+281
+00:20:21,625 --> 00:20:24,083
+The go-kart course
+was long shut down,
+
+282
+00:20:24,166 --> 00:20:26,000
+but I solved that
+problem easily enough
+
+283
+00:20:26,083 --> 00:20:29,458
+and cleared the flag by posting
+a made-up time to the geotag.
+
+284
+00:20:34,583 --> 00:20:37,291
+And that's how I netted
+Kimijima Report Number 2.
+
+285
+00:20:42,458 --> 00:20:44,625
+NASA was forced into
+their scientific cover up
+
+286
+00:20:44,708 --> 00:20:47,375
+by a body known as the
+Committee of Three Hundred,
+
+287
+00:20:47,458 --> 00:20:50,375
+a group that controls
+the world from the shadows.
+
+288
+00:20:51,000 --> 00:20:54,125
+They are supporters of
+the Human Cultivation Project.
+
+289
+00:20:54,208 --> 00:20:57,625
+The aims of this program are
+to reduce the human population
+
+290
+00:20:57,708 --> 00:21:01,583
+to one billion people, and to
+create a single world government
+
+291
+00:21:01,666 --> 00:21:03,833
+through the use of propaganda.
+
+292
+00:21:04,250 --> 00:21:06,541
+Pay heed to "Kagome, Kagome." 
+
+293
+00:21:06,625 --> 00:21:08,958
+This seemingly
+innocent song is a symbol
+
+294
+00:21:09,041 --> 00:21:11,583
+to the Committee
+and their followers.
+
+295
+00:21:11,666 --> 00:21:13,083
+You are certain
+to come across it
+
+296
+00:21:13,166 --> 00:21:15,875
+wherever they are doing research
+or conducting experiments
+
+297
+00:21:15,958 --> 00:21:18,750
+toward the
+furtherance of their goals.
+
+298
+00:22:58,083 --> 00:23:00,791
+The Robot Research Club
+members enjoy summer vacation
+
+299
+00:23:00,875 --> 00:23:03,708
+and take a break from their
+work to attend a local festival.
+
+300
+00:23:03,791 --> 00:23:05,250
+Meanwhile, Frau asks Kai
+
+301
+00:23:05,333 --> 00:23:06,875
+if he knows anything
+that might help her
+
+302
+00:23:06,958 --> 00:23:09,000
+learn more about what
+happened to her mother.
+
+303
+00:23:09,083 --> 00:23:11,958
+A celebration, fireworks,
+a summer night.
+
+304
+00:23:12,041 --> 00:23:14,666
+And then, at last,
+GunBuild-1 is complete.
+
+305
+00:23:14,750 --> 00:23:17,416
+A crowd gathers as the
+club members wait anxiously
+
+306
+00:23:17,500 --> 00:23:19,041
+to see how the robot built from
+
+307
+00:23:19,125 --> 00:23:21,000
+their dreams and
+passion will perform.
+
+308
+00:23:22,291 --> 00:23:23,625
+Episode 9!
+
+309
+00:23:23,708 --> 00:23:25,166
+Let's hit it off, everybody!
+
+310
+00:23:25,250 --> 00:23:26,166
+Later days!
+

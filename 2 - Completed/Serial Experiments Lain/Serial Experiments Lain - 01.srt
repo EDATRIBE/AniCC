@@ -1,0 +1,538 @@
+﻿1
+00:02:40,958 --> 00:02:45,083
+Why? Why won't you come?
+
+2
+00:02:45,166 --> 00:02:47,500
+I wish you would come here...
+
+3
+00:03:14,875 --> 00:03:17,291
+Look! Look at that!
+
+4
+00:03:34,750 --> 00:03:39,625
+"Why you have to do that...
+
+5
+00:03:40,333 --> 00:03:43,625
+...is something you
+should figure out for yourself."
+
+6
+00:03:52,875 --> 00:03:54,458
+Gotcha!
+
+7
+00:03:56,166 --> 00:03:58,041
+Hey, cut it out!
+
+8
+00:03:58,125 --> 00:03:58,666
+Why?
+
+9
+00:03:58,750 --> 00:03:59,791
+Don't!
+
+10
+00:03:59,875 --> 00:04:02,541
+What's the problem? Don't play hard to get!
+
+11
+00:04:02,625 --> 00:04:05,583
+Come on, let's go someplace happy.
+
+12
+00:04:21,833 --> 00:04:25,125
+"I...
+
+13
+00:04:26,000 --> 00:04:29,458
+...don't need to stay in a place like this."
+
+14
+00:04:49,333 --> 00:04:50,750
+What the <i>hell</i> ?
+
+15
+00:04:50,833 --> 00:04:52,083
+What happened?!
+
+16
+00:04:55,791 --> 00:04:59,458
+W-We don't know anything!
+W-We've got nothing to do with this!
+
+17
+00:04:59,541 --> 00:05:02,208
+--She came outta nowhere...
+--Oh, no...
+
+18
+00:05:03,666 --> 00:05:04,833
+Damn it...
+
+19
+00:05:30,041 --> 00:05:33,041
+"If you stay in a place like this...
+
+20
+00:05:33,541 --> 00:05:37,000
+...you might not be able to connect."
+
+21
+00:06:24,666 --> 00:06:26,541
+What a racket...
+
+22
+00:06:29,583 --> 00:06:31,583
+Can't you be quiet?
+
+23
+00:07:23,041 --> 00:07:27,166
+"Everybody, hurry..."
+
+24
+00:07:35,333 --> 00:07:37,916
+Juri, don't make such a big deal about it.
+
+25
+00:07:38,000 --> 00:07:40,625
+Yeah, it's just some stupid prank.
+
+26
+00:07:40,708 --> 00:07:42,583
+B-But...
+
+27
+00:07:50,083 --> 00:07:51,791
+It'll be okay.
+
+28
+00:07:56,208 --> 00:07:57,791
+Lain?
+
+29
+00:07:59,541 --> 00:08:02,000
+Did you get one, too?
+
+30
+00:08:03,833 --> 00:08:05,625
+Get what?
+
+31
+00:08:05,708 --> 00:08:07,625
+Mail!
+
+32
+00:08:07,708 --> 00:08:09,291
+Mail?
+
+33
+00:08:10,041 --> 00:08:11,958
+From Chisa Yomoda!
+
+34
+00:08:13,333 --> 00:08:16,333
+I... I'm not very good with computers.
+
+35
+00:08:17,583 --> 00:08:20,583
+You should at least check your mail once a day.
+
+36
+00:08:20,666 --> 00:08:22,333
+Well, it's up to you, I guess.
+
+37
+00:08:22,416 --> 00:08:24,958
+Lain's such a baby.
+
+38
+00:08:29,875 --> 00:08:32,458
+Why is she crying?
+
+39
+00:08:32,541 --> 00:08:38,333
+Because she got mail from
+Chisa Yomoda, that's why!
+
+40
+00:08:38,416 --> 00:08:40,500
+Chisa? Who's that?
+
+41
+00:08:40,583 --> 00:08:42,125
+She was in class D.
+
+42
+00:08:42,208 --> 00:08:44,416
+She killed herself last week by
+jumping off a building in Shibuya.
+
+43
+00:08:44,500 --> 00:08:47,375
+Come on, the teacher told everybody!
+
+44
+00:08:47,458 --> 00:08:49,375
+It's not just Juri.
+
+45
+00:08:51,083 --> 00:08:54,583
+Lots of people have
+gotten mail from her this week.
+
+46
+00:08:54,666 --> 00:08:57,041
+But she's...
+
+47
+00:08:57,125 --> 00:09:00,916
+Right. You shouldn't be
+getting mail from a dead girl.
+
+48
+00:09:01,000 --> 00:09:02,500
+But there it is.
+
+49
+00:09:58,583 --> 00:10:01,958
+"What's it like when you die?"
+
+50
+00:10:03,000 --> 00:10:05,208
+"It <i>really</i> hurts! :)"
+
+51
+00:11:39,750 --> 00:11:41,791
+"Powering up... Working..."
+
+52
+00:11:41,875 --> 00:11:44,875
+"Just a little longer..."
+
+53
+00:11:44,958 --> 00:11:46,333
+Log in.
+
+54
+00:11:48,208 --> 00:11:49,916
+Who are you?
+
+55
+00:12:01,208 --> 00:12:04,375
+Lain. Please say your name.
+
+56
+00:12:04,458 --> 00:12:07,041
+La-i-n.
+
+57
+00:12:07,916 --> 00:12:09,833
+Accepted.
+
+58
+00:12:11,958 --> 00:12:14,000
+You must be Lain.
+
+59
+00:12:15,083 --> 00:12:19,166
+Lain has mail.
+
+60
+00:12:19,250 --> 00:12:20,958
+From who?
+
+61
+00:12:21,041 --> 00:12:23,000
+Chisa Yomoda.
+
+62
+00:12:24,208 --> 00:12:26,791
+Do you wish to read your mail?
+
+63
+00:12:31,000 --> 00:12:34,541
+"Hello, how are you?"
+
+64
+00:12:36,666 --> 00:12:38,250
+Hello...
+
+65
+00:12:40,791 --> 00:12:42,208
+...how are you?
+
+66
+00:12:50,458 --> 00:12:57,708
+Lain, I walked home with you
+just once. Do you remember?
+
+67
+00:12:59,666 --> 00:13:05,083
+I have only given up my body.
+
+68
+00:13:05,166 --> 00:13:11,125
+By doing this, I can explain
+to you that I am still alive.
+
+69
+00:13:11,208 --> 00:13:16,458
+I wanted to let you know this,
+Lain, so I sent this mail to you.
+
+70
+00:13:16,541 --> 00:13:20,791
+Do you understand?
+It's okay if you can't right now.
+
+71
+00:13:20,875 --> 00:13:25,291
+You will all understand soon. <i>Everyone</i> will.
+
+72
+00:13:26,208 --> 00:13:28,500
+Why did you die?
+
+73
+00:13:29,208 --> 00:13:34,583
+Rumor at school has it
+that this is prank mail,
+
+74
+00:13:34,666 --> 00:13:39,625
+but I want you to know that it isn't, Lain.
+
+75
+00:13:39,708 --> 00:13:43,541
+Why? Why did you die?
+
+76
+00:13:45,875 --> 00:13:48,500
+"God is here."
+ 
+
+77
+00:13:48,583 --> 00:13:50,166
+"God is here."
+God...
+
+78
+00:13:52,333 --> 00:13:54,833
+...is here.
+
+79
+00:13:54,916 --> 00:13:56,500
+Huh?
+
+80
+00:13:57,916 --> 00:14:01,875
+"God..."
+
+81
+00:14:21,416 --> 00:14:25,833
+I ate lunch late today. I'm done.
+
+82
+00:14:33,250 --> 00:14:34,250
+Mom?
+
+83
+00:14:34,333 --> 00:14:35,541
+Yes?
+
+84
+00:14:35,625 --> 00:14:38,041
+I got mail.
+
+85
+00:14:41,000 --> 00:14:44,541
+From a girl who killed herself last week.
+
+86
+00:15:28,666 --> 00:15:31,916
+What is it, Lain?
+
+87
+00:15:32,000 --> 00:15:36,208
+It's certainly unusual to see you in here.
+
+88
+00:15:54,875 --> 00:15:56,458
+I...
+
+89
+00:16:00,041 --> 00:16:05,291
+I was wondering if you
+could buy me a new Navi...
+
+90
+00:16:05,375 --> 00:16:08,000
+Finally caught the bug, huh?
+
+91
+00:16:12,625 --> 00:16:16,375
+You're in junior high now.
+
+92
+00:16:16,458 --> 00:16:19,041
+Your friends are leaving you in the dust, right?
+
+93
+00:16:19,125 --> 00:16:22,041
+I keep telling you that you
+should use a better machine.
+
+94
+00:16:26,416 --> 00:16:29,708
+You know, Lain, in this world,
+
+95
+00:16:29,791 --> 00:16:32,958
+whether it's here in the
+real world or in the Wired,
+
+96
+00:16:34,708 --> 00:16:40,083
+people connect to each other,
+and that's how societies function.
+
+97
+00:16:47,375 --> 00:16:52,291
+Even a girl like you can make
+friends right off the bat, Lain.
+
+98
+00:16:52,375 --> 00:16:55,083
+There's nothing to be afraid of.
+
+99
+00:16:56,041 --> 00:16:59,875
+I wonder why your mother
+can't understand that...?
+
+100
+00:17:07,166 --> 00:17:10,916
+I'm not scared.
+
+101
+00:17:11,000 --> 00:17:15,791
+But why bring up your Navi all of a sudden?
+
+102
+00:17:21,333 --> 00:17:23,833
+There's a friend I want to see.
+
+103
+00:17:48,500 --> 00:17:50,708
+--What happened?
+--Damn it...
+
+104
+00:17:50,791 --> 00:17:54,083
+We apologize for the
+inconvenience, ladies and gentlemen.
+
+105
+00:17:54,166 --> 00:17:57,375
+The train is currently
+stopped due to an accident.
+
+106
+00:17:57,458 --> 00:17:58,250
+What?
+
+107
+00:17:58,333 --> 00:17:59,916
+Was someone hit?
+
+108
+00:18:00,000 --> 00:18:01,916
+I can't believe this...
+
+109
+00:20:43,375 --> 00:20:44,958
+Miss Iwakura.
+
+110
+00:20:52,875 --> 00:20:54,666
+Miss Iwakura.
+
+111
+00:20:54,750 --> 00:20:55,916
+Yes, Ma'am.
+
+112
+00:20:56,000 --> 00:20:59,708
+This will be on the test.
+
+113
+00:21:10,500 --> 00:21:15,083
+"Come to the Wired as soon as you can."
+
+114
+00:21:17,833 --> 00:21:25,791
+"Come to the Wired as soon as you can."
+
+115
+00:22:05,250 --> 00:22:07,000
+Chisa...?
+
+116
+00:22:09,916 --> 00:22:12,791
+Where are you?
+
+117
+00:22:37,000 --> 00:22:38,583
+Wait!
+
+118
+00:23:02,500 --> 00:23:11,250
+<i>I thought I was innocent,</i>
+<i>but I'm being punished.</i>
+
+119
+00:23:11,333 --> 00:23:24,458
+<i>I didn't start this, but</i>
+<i>I have to finish it somehow.</i>
+
+120
+00:23:30,833 --> 00:23:39,750
+<i>I can't say I didn't know about it,</i>
+<i>but I don't remember taking part in it.</i>
+
+121
+00:23:39,833 --> 00:23:46,250
+<i>I get the feeling my freedom cost me dearly,</i>
+
+122
+00:23:46,333 --> 00:23:53,416
+<i>but I don't remember selling my soul cheaply.</i>
+
+123
+00:23:53,500 --> 00:23:54,416
+<i>Hey, hey!</i>
+
+124
+00:23:54,500 --> 00:24:02,083
+<i>Until I die and say goodbye...</i>
+
+125
+00:24:02,166 --> 00:24:03,416
+<i>Hey, hey!</i>
+
+126
+00:24:03,500 --> 00:24:12,583
+<i>...no one will ever catch me.</i>
+
+127
+00:24:12,666 --> 00:24:19,125
+<i>You probably don't know the eternal outlaws...</i>
+
+128
+00:24:19,208 --> 00:24:24,583
+<i>...who wander the distant night.</i>
+

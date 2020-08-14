@@ -1,0 +1,826 @@
+﻿1
+00:02:40,375 --> 00:02:43,125
+What are you scared of?
+
+2
+00:02:43,208 --> 00:02:45,833
+Just try it for a little bit.
+
+3
+00:03:09,291 --> 00:03:11,416
+"Cyberia?
+
+4
+00:03:11,500 --> 00:03:15,083
+"Cyberia?
+I don't come here because I <i>want</i> to."
+
+5
+00:03:38,125 --> 00:03:41,208
+"10,000 yen?! What a rip-off!
+
+6
+00:03:41,291 --> 00:03:45,000
+"10,000 yen?! What a rip-off!
+The going price is only around <i>4,000</i> !"
+
+7
+00:03:48,000 --> 00:03:53,333
+"We call it Accela.
+
+8
+00:03:53,416 --> 00:03:55,708
+It's not exactly a drug,
+
+9
+00:03:55,791 --> 00:03:59,750
+but you have to jump through
+the same kind of hoops to get it."
+
+10
+00:04:52,375 --> 00:04:57,083
+"I feel... accelerated."
+
+11
+00:05:43,541 --> 00:05:47,750
+"Hurry up, come to me."
+
+12
+00:05:53,958 --> 00:05:56,125
+No, that's not it.
+
+13
+00:06:00,750 --> 00:06:02,416
+I don't have any mail...
+
+14
+00:06:05,750 --> 00:06:07,708
+I don't get it...
+
+15
+00:06:10,541 --> 00:06:12,416
+Oh.
+
+16
+00:06:14,166 --> 00:06:16,625
+I thought somebody was here.
+
+17
+00:06:18,083 --> 00:06:20,166
+Who?
+
+18
+00:06:20,250 --> 00:06:25,625
+Your imaginary friend.
+
+19
+00:06:27,875 --> 00:06:29,791
+Or something like that.
+
+20
+00:06:35,791 --> 00:06:38,125
+You're gonna be late again.
+
+21
+00:07:46,833 --> 00:07:48,041
+Lain!
+
+22
+00:07:52,000 --> 00:07:53,833
+Good morning.
+
+23
+00:07:53,916 --> 00:07:56,333
+G-Good morning.
+
+24
+00:07:56,416 --> 00:07:59,208
+See what I mean? It <i>couldn't</i> have been her.
+
+25
+00:07:59,291 --> 00:08:02,291
+You think so? But...
+
+26
+00:08:04,000 --> 00:08:05,583
+What?
+
+27
+00:08:08,083 --> 00:08:11,625
+Cut it out. I feel sorry for her.
+
+28
+00:08:13,041 --> 00:08:15,833
+It's nothing. Come on, let's go.
+
+29
+00:08:15,916 --> 00:08:16,666
+Okay.
+
+30
+00:08:16,750 --> 00:08:18,208
+But...
+
+31
+00:08:18,291 --> 00:08:20,166
+Oh, let it go.
+
+32
+00:08:23,708 --> 00:08:27,375
+Have you gotten any more mail?
+
+33
+00:08:27,458 --> 00:08:29,041
+Mail?
+
+34
+00:08:30,875 --> 00:08:32,708
+From Chisa.
+
+35
+00:08:32,791 --> 00:08:36,333
+Oh, <i>that.</i> No, I haven't gotten any more.
+
+36
+00:08:36,416 --> 00:08:39,041
+You got that prank mail, too, Lain?
+
+37
+00:08:39,125 --> 00:08:40,208
+What?
+
+38
+00:08:40,291 --> 00:08:41,875
+Really?
+
+39
+00:08:43,250 --> 00:08:46,583
+I was just curious.
+
+40
+00:08:46,666 --> 00:08:48,125
+Huh?
+
+41
+00:08:48,208 --> 00:08:51,416
+You know, maybe she
+<i>does</i> look a little like her...
+
+42
+00:08:51,958 --> 00:08:54,500
+Lain, what were you doing last night?
+
+43
+00:08:54,583 --> 00:08:55,291
+Huh?
+
+44
+00:08:55,375 --> 00:08:57,250
+Yeah, yeah!
+
+45
+00:08:57,333 --> 00:08:59,166
+Come on, I'm telling you it wasn't her!
+
+46
+00:08:59,250 --> 00:09:02,791
+I guess not. She doesn't look like her at all.
+
+47
+00:09:05,041 --> 00:09:06,833
+What?
+
+48
+00:09:06,916 --> 00:09:12,250
+There was a girl at Cyberia last
+night who looked <i>just</i> like you, Lain.
+
+49
+00:09:14,041 --> 00:09:15,625
+Cyberia?
+
+50
+00:09:15,708 --> 00:09:20,333
+We finally worked up the
+nerve to go there last night.
+
+51
+00:09:20,416 --> 00:09:22,875
+Come on, it wasn't such a big deal.
+
+52
+00:09:22,958 --> 00:09:25,166
+Oh, right, <i>you</i> were the
+one who was all nervous!
+
+53
+00:09:26,166 --> 00:09:30,875
+Oh. It's a club. Young people go there at night.
+
+54
+00:09:33,250 --> 00:09:36,958
+There was a girl there who
+looked a little like you, Lain.
+
+55
+00:09:37,916 --> 00:09:40,750
+Last night, I...
+
+56
+00:09:40,833 --> 00:09:43,833
+We know. It wasn't you.
+
+57
+00:09:43,916 --> 00:09:46,333
+We didn't get a good look at her,
+
+58
+00:09:46,416 --> 00:09:50,791
+but she had on these wild clothes,
+and chewed people out left and right.
+
+59
+00:09:50,875 --> 00:09:55,083
+Yeah, it was like she was your total opposite.
+
+60
+00:09:55,166 --> 00:09:58,666
+But she <i>did</i> look like her...
+
+61
+00:09:58,750 --> 00:10:02,625
+Hey, I know! Let's take her with us next time!
+
+62
+00:10:02,708 --> 00:10:04,125
+You want to make sure, huh?
+
+63
+00:10:04,208 --> 00:10:06,875
+Cut it out! You're just making fun of her.
+
+64
+00:10:06,958 --> 00:10:13,625
+I bet when a girl like Lain goes to
+a club, her personality does a 180!
+
+65
+00:10:13,708 --> 00:10:17,583
+Oh. Maybe Lain would liven up a bit.
+
+66
+00:10:17,666 --> 00:10:20,833
+Right! Let's go, Lain!
+
+67
+00:10:20,916 --> 00:10:22,833
+It might be fun.
+
+68
+00:10:22,916 --> 00:10:27,791
+You'd have more fun if you
+were a little more sociable, Lain.
+
+69
+00:10:27,875 --> 00:10:29,333
+Right, Lain?
+
+70
+00:10:32,291 --> 00:10:35,625
+Accela, a type of smart supplement,
+
+71
+00:10:35,708 --> 00:10:41,208
+uses nano-mechanisms to oscillate
+at a specific frequency within the body,
+
+72
+00:10:41,291 --> 00:10:44,750
+triggering the secretion of a specific hormone.
+
+73
+00:10:45,416 --> 00:10:50,416
+It is said that when secreted,
+this hormone affects the time-sense...
+
+74
+00:10:50,500 --> 00:10:55,500
+...of the human mind, making it seem
+as if one's awareness is accelerated.
+
+75
+00:10:56,333 --> 00:11:01,083
+Not only the consciousness, but the
+workings of the brain itself are altered,
+
+76
+00:11:01,166 --> 00:11:07,125
+multiplying the brain's operational
+capacity by two to twelve times.
+
+77
+00:11:07,208 --> 00:11:13,208
+The nano-mechanism itself is destroyed
+by digestive juices within 24 hours,
+
+78
+00:11:13,291 --> 00:11:15,875
+but it is unknown how long its effectiveness...
+
+79
+00:11:32,791 --> 00:11:36,666
+"Let's have fun at Cyberia tonight!
+--From Arisu"
+
+80
+00:11:49,125 --> 00:11:53,833
+"I'll pass on tonight."
+
+81
+00:11:57,916 --> 00:12:02,083
+"Everyone is connected."
+
+82
+00:13:36,291 --> 00:13:38,416
+Is this your place?
+
+83
+00:13:40,250 --> 00:13:43,333
+Great! I have a delivery for you.
+
+84
+00:13:43,416 --> 00:13:46,416
+I'll start unloading it.
+Could you get the gate for me?
+
+85
+00:14:00,000 --> 00:14:02,375
+Could you sign this, please?
+
+86
+00:14:05,916 --> 00:14:08,666
+This thing is <i>so</i> cool!
+
+87
+00:14:08,750 --> 00:14:09,500
+Huh?
+
+88
+00:14:09,583 --> 00:14:11,500
+I wish I had one of these...
+
+89
+00:14:11,583 --> 00:14:13,208
+Thanks.
+
+90
+00:14:13,291 --> 00:14:16,000
+All this is yours?
+
+91
+00:14:17,166 --> 00:14:19,125
+I'm not sure.
+
+92
+00:14:19,208 --> 00:14:21,833
+Then you don't know what this is?
+
+93
+00:14:24,208 --> 00:14:26,041
+It's a top of the line Navi!
+
+94
+00:14:26,125 --> 00:14:28,125
+Fully loaded, too!
+
+95
+00:14:28,208 --> 00:14:31,208
+With this kind of horsepower,
+you can move around freely...
+
+96
+00:14:31,291 --> 00:14:35,666
+...without any stress at all, even in the Wired.
+
+97
+00:14:35,750 --> 00:14:40,333
+I use a home-brew system, myself.
+It doesn't hold a candle to this.
+
+98
+00:14:40,416 --> 00:14:45,833
+No, it's not like that. I don't
+know anything about it, either.
+
+99
+00:14:47,291 --> 00:14:49,041
+You will soon enough.
+
+100
+00:14:49,125 --> 00:14:50,875
+Have a good one.
+
+101
+00:15:30,333 --> 00:15:33,166
+Your Navi came, right?
+
+102
+00:15:34,083 --> 00:15:37,666
+Get that mess cleaned up
+soon, all right? It's in the way.
+
+103
+00:15:38,791 --> 00:15:43,166
+I'll set it up for you after dinner.
+
+104
+00:15:43,250 --> 00:15:46,416
+This Navi's good enough that
+<i>I'd</i> want to take it for a spin.
+
+105
+00:15:46,500 --> 00:15:48,083
+Dad...
+
+106
+00:15:49,125 --> 00:15:53,416
+I want you to set it up now.
+
+107
+00:15:54,500 --> 00:15:58,250
+Hey, why are you in such a hurry?
+
+108
+00:16:01,083 --> 00:16:03,750
+Lain...
+
+109
+00:16:03,833 --> 00:16:05,416
+I'll do it.
+
+110
+00:16:08,625 --> 00:16:13,916
+You can't keep using
+that children's Navi forever.
+
+111
+00:16:14,000 --> 00:16:18,208
+For communication, you need a powerful system...
+
+112
+00:16:18,291 --> 00:16:23,750
+...that will mature alongside
+your relationships with people.
+
+113
+00:16:23,833 --> 00:16:25,791
+Understand, Lain?
+
+114
+00:16:37,083 --> 00:16:38,666
+Come here.
+
+115
+00:16:42,208 --> 00:16:45,000
+Register yourself as the machine's user.
+
+116
+00:16:51,500 --> 00:16:54,000
+Try talking to it.
+
+117
+00:16:54,083 --> 00:16:56,208
+Hello, Navi.
+
+118
+00:17:00,500 --> 00:17:03,583
+Now this Navi's yours, Lain.
+
+119
+00:17:03,666 --> 00:17:06,375
+You can show off to your friends now.
+
+120
+00:17:12,833 --> 00:17:14,166
+Oops.
+
+121
+00:17:14,250 --> 00:17:16,958
+Hey, Mika. Something wrong?
+
+122
+00:17:26,041 --> 00:17:28,166
+Navi, do I have mail?
+
+123
+00:17:28,250 --> 00:17:30,791
+Lain has no mail.
+
+124
+00:17:49,750 --> 00:17:53,125
+"Lain, where are you?
+Everyone's waiting! You've got to come!"
+
+125
+00:18:00,750 --> 00:18:05,541
+"Why won't you come?"
+
+126
+00:18:10,541 --> 00:18:13,625
+Okay, turn left at that corner!
+
+127
+00:18:13,708 --> 00:18:15,750
+Then go straight ahead.
+
+128
+00:18:17,291 --> 00:18:19,250
+See it?
+
+129
+00:18:19,333 --> 00:18:20,333
+Yeah.
+
+130
+00:18:20,416 --> 00:18:22,958
+We're in the basement! Got it?
+
+131
+00:18:33,083 --> 00:18:35,083
+Hey! You!
+
+132
+00:18:35,166 --> 00:18:37,041
+You're blocking the stairs.
+
+133
+00:18:37,916 --> 00:18:39,333
+Sorry.
+
+134
+00:18:39,416 --> 00:18:41,250
+If you do it <i>that</i> way...
+
+135
+00:18:41,333 --> 00:18:44,500
+...you'll get spotted by the
+Info-Guard Center right off the bat!
+
+136
+00:18:44,583 --> 00:18:47,083
+What's the big deal? I'd just be attacking it.
+
+137
+00:18:47,166 --> 00:18:50,333
+Hey, next time we go over
+to that game center, let's...
+
+138
+00:18:54,208 --> 00:18:56,750
+What took you so long, Lain?
+
+139
+00:18:56,833 --> 00:19:00,375
+You're usually in bed now, aren't you, Lain?
+
+140
+00:19:01,500 --> 00:19:06,791
+Lain, don't you have anything
+better to wear out at night?
+
+141
+00:19:09,416 --> 00:19:13,166
+We'll pick out something a little
+more grown-up for you next time, Lain.
+
+142
+00:19:13,250 --> 00:19:15,500
+You think she'd look good in grown-up clothes?
+
+143
+00:19:15,583 --> 00:19:16,916
+Reika!
+
+144
+00:19:17,000 --> 00:19:18,291
+Hey...
+
+145
+00:19:18,375 --> 00:19:19,458
+What?
+
+146
+00:19:19,541 --> 00:19:23,833
+I guess the girl we saw really wasn't Lain...
+
+147
+00:19:23,916 --> 00:19:26,291
+That's what I've been telling you!
+
+148
+00:19:26,375 --> 00:19:30,166
+Lain doesn't dress like that or talk like that.
+
+149
+00:19:30,250 --> 00:19:32,500
+She doesn't look like that, either.
+
+150
+00:19:32,583 --> 00:19:37,166
+Did she really look like me?
+
+151
+00:19:37,250 --> 00:19:41,666
+Yeah! I was <i>positive</i> it was you!
+
+152
+00:19:41,750 --> 00:19:43,333
+Oh.
+
+153
+00:19:49,583 --> 00:19:50,833
+What the--?!
+
+154
+00:19:51,500 --> 00:19:52,875
+He's got a gun!
+
+155
+00:19:56,666 --> 00:19:58,041
+Help me!
+
+156
+00:20:01,458 --> 00:20:03,208
+--Juri!
+--Juri!
+
+157
+00:20:33,541 --> 00:20:35,125
+Lain!
+
+158
+00:20:36,916 --> 00:20:39,375
+What's she doing?
+
+159
+00:20:39,458 --> 00:20:41,833
+--Reika, take care of Juri.
+--Arisu?
+
+160
+00:20:41,916 --> 00:20:43,500
+Arisu!
+
+161
+00:20:48,208 --> 00:20:50,458
+What're you looking at?
+
+162
+00:20:51,666 --> 00:20:54,916
+Lain, what're you doing?
+Let's get out of here! Hurry!
+
+163
+00:20:55,000 --> 00:20:56,583
+Lain!
+
+164
+00:20:57,625 --> 00:21:00,708
+Lain! Lain!
+
+165
+00:21:01,708 --> 00:21:03,708
+Go away!
+
+166
+00:21:12,750 --> 00:21:15,625
+Why are you making me do this?!
+
+167
+00:21:15,708 --> 00:21:19,250
+What right do you have?!
+
+168
+00:21:19,333 --> 00:21:22,708
+I just wanted to clear my head, that's all!
+
+169
+00:21:22,791 --> 00:21:25,666
+I don't know anything about it!
+Leave me out of it!
+
+170
+00:21:25,750 --> 00:21:28,458
+You're that scattered god's--
+
+171
+00:21:28,541 --> 00:21:31,291
+I don't want anything to do with it! Nothing!
+
+172
+00:21:31,375 --> 00:21:34,750
+The Wired can't be allowed
+to interfere with the real world!
+
+173
+00:21:34,833 --> 00:21:36,583
+I don't want anything to do with it!
+
+174
+00:21:36,666 --> 00:21:39,250
+Who the hell <i>are</i> you?!
+
+175
+00:21:39,333 --> 00:21:41,541
+L-Lain...
+
+176
+00:21:47,000 --> 00:21:48,791
+I don't want anything to do with it...
+Don't want anything to do with it...
+
+177
+00:21:48,875 --> 00:21:52,208
+Don't want... I don't want...
+Don't want anything to do with it...
+
+178
+00:21:52,291 --> 00:21:53,666
+Don't want anything to...
+
+179
+00:21:53,750 --> 00:21:55,750
+Don't want...
+
+180
+00:21:55,833 --> 00:21:57,291
+Don't want anything...
+
+181
+00:21:57,375 --> 00:21:58,958
+Don't want anything to do with it...
+
+182
+00:21:59,041 --> 00:22:01,666
+Don't want... Don't want
+anything to do with it...
+
+183
+00:22:01,750 --> 00:22:03,500
+I don't want--
+
+184
+00:22:03,583 --> 00:22:06,041
+No matter where you go,
+
+185
+00:22:06,125 --> 00:22:09,083
+everyone's connected.
+
+186
+00:22:59,791 --> 00:23:08,541
+<i>I thought I was innocent,</i>
+<i>but I'm being punished.</i>
+
+187
+00:23:08,625 --> 00:23:21,750
+<i>I didn't start this, but</i>
+<i>I have to finish it somehow.</i>
+
+188
+00:23:28,125 --> 00:23:37,041
+<i>I can't say I didn't know about it,</i>
+<i>but I don't remember taking part in it.</i>
+
+189
+00:23:37,125 --> 00:23:43,541
+<i>I get the feeling my freedom cost me dearly,</i>
+
+190
+00:23:43,625 --> 00:23:50,708
+<i>but I don't remember selling my soul cheaply.</i>
+
+191
+00:23:50,791 --> 00:23:51,708
+<i>Hey, hey!</i>
+
+192
+00:23:51,791 --> 00:23:59,375
+<i>Until I die and say goodbye...</i>
+
+193
+00:23:59,458 --> 00:24:00,708
+<i>Hey, hey!</i>
+
+194
+00:24:00,791 --> 00:24:09,875
+<i>...no one will ever catch me.</i>
+
+195
+00:24:09,958 --> 00:24:16,416
+<i>You probably don't know the eternal outlaws...</i>
+
+196
+00:24:16,500 --> 00:24:21,875
+<i>...who wander the distant night.</i>
+

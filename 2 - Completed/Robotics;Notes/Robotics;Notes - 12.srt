@@ -1,0 +1,1368 @@
+﻿1
+00:00:29,125 --> 00:00:31,541
+You little idiot! What
+the hell were you thinking?
+
+2
+00:00:31,625 --> 00:00:35,625
+Just take a look at what you've
+done! Go ahead and look at it!
+
+3
+00:00:36,958 --> 00:00:39,041
+So many doubts still.
+
+4
+00:00:42,125 --> 00:00:45,708
+Is this right? Do I really
+belong here with them?
+
+5
+00:02:17,250 --> 00:02:21,125
+At the start of September,
+the second school term began.
+
+6
+00:02:23,500 --> 00:02:27,208
+Forget about Kou Kimijima.
+Stop poking around.
+
+7
+00:02:27,291 --> 00:02:29,666
+What do you mean "forget
+about him?" Why should I?
+
+8
+00:02:29,750 --> 00:02:32,333
+Just do it. Do you understand?
+
+9
+00:02:37,208 --> 00:02:39,208
+Was that supposed
+to be a warning?
+
+10
+00:02:39,291 --> 00:02:41,541
+It just makes me
+even more curious.
+
+11
+00:02:42,375 --> 00:02:45,250
+But at the very least it
+does confirm that Misa knows
+
+12
+00:02:45,333 --> 00:02:47,083
+something about Kimijima.
+
+13
+00:02:50,458 --> 00:02:53,833
+Kimijima Report Number
+Four's flags are as follows.
+
+14
+00:02:54,583 --> 00:02:57,958
+"Flag one. Locate and read
+Kimijima Report Number Three."
+
+15
+00:02:58,041 --> 00:02:59,250
+You have done this.
+
+16
+00:03:00,708 --> 00:03:03,833
+"Two. Locate photographs
+of rocket launches taken from
+
+17
+00:03:03,916 --> 00:03:06,375
+the four specified
+points on Tanegashima.
+
+18
+00:03:06,458 --> 00:03:08,083
+Upload them to IRUO."
+
+19
+00:03:12,541 --> 00:03:15,208
+"Three. Find a
+matchlock gun, geotag it,
+
+20
+00:03:15,291 --> 00:03:17,500
+and test-fire at least once."
+
+21
+00:03:19,750 --> 00:03:22,958
+"Four. Go to the Robo
+Clinic in Tanegashima.
+
+22
+00:03:23,041 --> 00:03:25,875
+Find Gojiro and activate it."
+
+23
+00:03:34,083 --> 00:03:37,291
+Activate it? What is "Gojiro?"
+
+24
+00:03:38,875 --> 00:03:40,750
+Well, if it's
+at the Robo Clinic...
+
+25
+00:03:42,958 --> 00:03:46,958
+Attention! Today we
+start building GunBuild-2
+
+26
+00:03:47,041 --> 00:03:49,208
+and this is our workspace!
+
+27
+00:03:49,291 --> 00:03:54,083
+Huh? Here? You mean, they're
+letting us use this place?
+
+28
+00:03:54,166 --> 00:03:57,375
+Yes. I don't see any problem
+with letting your club make use
+
+29
+00:03:57,458 --> 00:04:00,791
+of this room as long
+as somebody supervises.
+
+30
+00:04:01,541 --> 00:04:03,958
+It would be a waste
+to let it stay empty like this.
+
+31
+00:04:04,041 --> 00:04:05,791
+There's even a crane here.
+
+32
+00:04:06,375 --> 00:04:08,375
+Which means that this time
+around, we can actually
+
+33
+00:04:08,458 --> 00:04:13,458
+build it standing up!
+Isn't it so exciting?
+
+34
+00:04:13,541 --> 00:04:17,166
+You do realize we haven't even
+decided on a drive system yet.
+
+35
+00:04:18,541 --> 00:04:20,791
+I wish there was a way we
+could talk to Doc about that.
+
+36
+00:04:20,875 --> 00:04:24,250
+His advice would be
+helpful. And the mono--
+
+37
+00:04:24,333 --> 00:04:26,375
+There are a lot of
+things he could help with.
+
+38
+00:04:26,458 --> 00:04:29,500
+You are never going
+to give up, are you?
+
+39
+00:04:29,583 --> 00:04:30,791
+When the final episode leaked,
+
+40
+00:04:30,875 --> 00:04:32,750
+it tarnished
+GUNVARREL'S reputation.
+
+41
+00:04:32,833 --> 00:04:34,791
+It was like everybody just
+forgot the true meaning of
+
+42
+00:04:34,875 --> 00:04:37,250
+the show. I think by
+creating GunBuild-2,
+
+43
+00:04:37,333 --> 00:04:40,000
+we can repair some
+of the damage it caused.
+
+44
+00:04:40,833 --> 00:04:42,333
+What's the matter, Jun?
+
+45
+00:04:46,666 --> 00:04:48,833
+Uh. One sec, I'm sorry.
+
+46
+00:04:48,916 --> 00:04:49,916
+Sure.
+
+47
+00:04:51,041 --> 00:04:54,125
+Hello? Oh, hi, Dad. Yeah.
+
+48
+00:04:54,208 --> 00:04:56,041
+I'm hanging out
+with some friends.
+
+49
+00:04:58,166 --> 00:04:59,583
+What?
+
+50
+00:05:24,166 --> 00:05:26,500
+Well, hello. Are you
+here to see a patient?
+
+51
+00:05:26,583 --> 00:05:31,833
+Huh? Oh, yes, I am. Mr. Fujita.
+This is his room, right?
+
+52
+00:05:31,916 --> 00:05:33,541
+I'm his granddaughter, you see.
+
+53
+00:05:34,500 --> 00:05:36,000
+Not here.
+
+54
+00:05:43,333 --> 00:05:50,166
+Get her. Get her
+out of here now.
+
+55
+00:05:58,208 --> 00:06:01,916
+Jun! Doc okay? How'd he look?
+
+56
+00:06:02,625 --> 00:06:04,916
+I-- I didn't get to see him.
+
+57
+00:06:05,000 --> 00:06:06,458
+What do you mean? Why not?
+
+58
+00:06:06,541 --> 00:06:08,625
+Yeah, are they not letting
+him have any visitors?
+
+59
+00:06:08,708 --> 00:06:10,708
+Oh n-no.
+
+60
+00:06:11,666 --> 00:06:14,958
+He just didn't wanna see me.
+
+61
+00:06:19,333 --> 00:06:22,791
+What? You mean you saw Doc?
+
+62
+00:06:22,875 --> 00:06:25,583
+Well, yeah. I paid him
+a get well visit yesterday.
+
+63
+00:06:25,666 --> 00:06:28,708
+What's the deal? He wouldn't
+see Jun the day before,
+
+64
+00:06:28,791 --> 00:06:30,291
+but he'll see you?
+
+65
+00:06:31,208 --> 00:06:33,208
+So how'd it look
+like he was doing?
+
+66
+00:06:33,291 --> 00:06:36,250
+Well, he seemed pretty
+weak, to be honest.
+
+67
+00:06:36,333 --> 00:06:39,166
+Not just physically,
+weak in spirit, too.
+
+68
+00:06:39,250 --> 00:06:40,666
+Wha-- How d'you mean?
+
+69
+00:06:41,291 --> 00:06:44,833
+I think I'll close the
+shop when I'm outta here.
+
+70
+00:06:44,916 --> 00:06:47,375
+Time to call it quits.
+
+71
+00:06:48,416 --> 00:06:50,000
+That's awful!
+
+72
+00:07:03,000 --> 00:07:06,416
+This is a surprise. Don't
+see you here too often.
+
+73
+00:07:07,958 --> 00:07:09,708
+You're not feeling down
+on yourself 'cause you're
+
+74
+00:07:09,791 --> 00:07:11,875
+too scared to visit
+the hospital, are you?
+
+75
+00:07:12,833 --> 00:07:14,833
+No, it isn't like that.
+
+76
+00:07:16,250 --> 00:07:20,000
+Grandpa Fujita and I were never
+really that close to begin with.
+
+77
+00:07:20,083 --> 00:07:22,500
+Hmm. Then--
+
+78
+00:07:22,583 --> 00:07:25,625
+Anyway, I think it
+might be time for me to
+
+79
+00:07:25,708 --> 00:07:28,041
+quit the Robot Research Club.
+
+80
+00:07:29,416 --> 00:07:32,625
+I was afraid you'd say
+that. Yeah, well, I guess
+
+81
+00:07:32,708 --> 00:07:36,875
+it's your call. For now,
+though, why don't we go inside?
+
+82
+00:07:39,625 --> 00:07:41,875
+Man, you can't keep
+a secret, can you?
+
+83
+00:07:41,958 --> 00:07:44,416
+Sorry, I couldn't help it.
+
+84
+00:07:44,500 --> 00:07:45,791
+You're not poking
+that nose of yours into
+
+85
+00:07:45,875 --> 00:07:48,041
+any more weird stuff, I hope.
+
+86
+00:07:48,125 --> 00:07:52,000
+Not me. Anyway, did you
+get the info I asked you for?
+
+87
+00:07:52,083 --> 00:07:54,958
+First, you should know that Doc
+used to be a NASDA engineer.
+
+88
+00:07:55,041 --> 00:07:58,041
+NASDA? You mean the
+agency that turned into JAXA?
+
+89
+00:07:58,125 --> 00:08:00,583
+That's correct. And
+that's not all, either.
+
+90
+00:08:00,666 --> 00:08:02,625
+When he opened the Robo
+Clinic eighteen years ago,
+
+91
+00:08:02,708 --> 00:08:04,500
+it was meant for little kids.
+
+92
+00:08:05,541 --> 00:08:07,166
+Doc would make robots
+and then line them up
+
+93
+00:08:07,250 --> 00:08:09,208
+in front of his shop.
+
+94
+00:08:09,291 --> 00:08:11,833
+I still remember it
+like it was yesterday.
+
+95
+00:08:16,083 --> 00:08:19,500
+Back then he was
+a very different man.
+
+96
+00:08:19,583 --> 00:08:23,750
+He always said robots were
+built to be people's friends.
+
+97
+00:08:25,708 --> 00:08:27,500
+That's almost hard to believe.
+
+98
+00:08:27,583 --> 00:08:30,041
+So what happened to those
+robots? Where are they?
+
+99
+00:08:30,125 --> 00:08:32,750
+Asleep, deep inside
+the Robo Clinic.
+
+100
+00:08:33,583 --> 00:08:34,875
+How come?
+
+101
+00:08:34,958 --> 00:08:37,500
+Because there was an accident.
+
+102
+00:08:40,583 --> 00:08:45,875
+Oh, um, I have to--
+Sorry, I have to go. Goodbye!
+
+103
+00:08:45,958 --> 00:08:47,833
+Jun, what's the matter?
+
+104
+00:08:49,541 --> 00:08:51,958
+Eleven years ago...
+
+105
+00:08:52,041 --> 00:08:55,583
+a robot toppled over and
+injured one of the children.
+
+106
+00:08:57,750 --> 00:09:02,083
+That child was Doc's
+granddaughter, Junna Daitoku.
+
+107
+00:09:08,041 --> 00:09:11,791
+Hello there! Nice to meet
+you! My name is Yoshiro!
+
+108
+00:09:11,875 --> 00:09:15,041
+I'm a friendly robot.
+Do you want to be friends?
+
+109
+00:09:15,125 --> 00:09:16,583
+Come on, friend.
+
+110
+00:09:16,666 --> 00:09:22,541
+Go away! You're not my friend!
+You're not my friend at all!
+
+111
+00:09:22,625 --> 00:09:25,458
+Stop talking to me!
+
+112
+00:09:26,708 --> 00:09:28,958
+You idiot! What the
+hell were you thinking?
+
+113
+00:09:29,041 --> 00:09:32,833
+Just look at what you've
+done! Go on and look at it!
+
+114
+00:09:36,375 --> 00:09:39,166
+So that's why
+Jun's afraid of robots.
+
+115
+00:09:41,583 --> 00:09:43,791
+What now? What d'we do?
+
+116
+00:09:50,583 --> 00:09:53,125
+I don't think
+this is a good idea.
+
+117
+00:09:53,208 --> 00:09:56,000
+We heard all about Doc's
+robots from back in the day.
+
+118
+00:09:56,083 --> 00:09:57,958
+We should restore them
+to their former glory!
+
+119
+00:09:58,041 --> 00:09:59,875
+That's sure to
+bring his spirits up!
+
+120
+00:09:59,958 --> 00:10:01,666
+Yeah, I don't know.
+
+121
+00:10:01,750 --> 00:10:03,458
+Doc's losing his will to fight.
+
+122
+00:10:03,541 --> 00:10:05,708
+You want him to
+get better, don't you?
+
+123
+00:10:05,791 --> 00:10:08,750
+Of course, but
+it's not that simple.
+
+124
+00:10:08,833 --> 00:10:10,666
+We get it, you're
+terrified of robots.
+
+125
+00:10:10,750 --> 00:10:13,291
+Is that the reason you
+want to quit the club, too?
+
+126
+00:10:13,375 --> 00:10:15,875
+What? She's quitting?
+You didn't tell me that!
+
+127
+00:10:15,958 --> 00:10:17,583
+That was a secret, Yashio!
+
+128
+00:10:17,666 --> 00:10:19,791
+Why do you want to quit, Jun?
+
+129
+00:10:21,500 --> 00:10:24,833
+I-I only joined on a
+whim in the first place.
+
+130
+00:10:24,916 --> 00:10:28,541
+It seemed like an okay
+replacement for the karate club.
+
+131
+00:10:28,625 --> 00:10:31,458
+Even though I was bad
+at karate, I kept doing it
+
+132
+00:10:31,541 --> 00:10:35,875
+because I liked it. But
+when it comes to robots--
+
+133
+00:10:35,958 --> 00:10:38,333
+They really
+scare you that much?
+
+134
+00:10:40,625 --> 00:10:42,083
+In that case.
+
+135
+00:10:42,875 --> 00:10:45,250
+I'm afraid I can't allow
+you to drop out of the club!
+
+136
+00:10:45,333 --> 00:10:46,458
+Huh?
+
+137
+00:10:47,875 --> 00:10:49,875
+I'm not going to let you
+go until you find something
+
+138
+00:10:49,958 --> 00:10:52,458
+you like about robots, and
+that's all there is to it!
+
+139
+00:10:53,541 --> 00:10:56,291
+Now, come on! I'm giving you
+an order, as your club leader!
+
+140
+00:10:56,375 --> 00:10:58,791
+Akiho, wait!
+
+141
+00:11:10,416 --> 00:11:12,666
+Think we'll still
+be able to turn 'em on?
+
+142
+00:11:18,541 --> 00:11:19,791
+Ah!
+
+143
+00:11:24,083 --> 00:11:25,291
+Uh-oh.
+
+144
+00:11:26,666 --> 00:11:28,500
+What is it?
+
+145
+00:11:28,583 --> 00:11:31,375
+The cords,
+they've all been cut.
+
+146
+00:11:34,708 --> 00:11:39,000
+So they didn't just die. Doc
+killed all these robots himself.
+
+147
+00:11:43,333 --> 00:11:45,625
+Uh-- Where'd Yashio go?
+
+148
+00:11:45,708 --> 00:11:48,541
+He's inside, working
+on the one called Gojiro.
+
+149
+00:11:50,958 --> 00:11:53,541
+He insists on being
+the one to fix him.
+
+150
+00:11:53,625 --> 00:11:56,083
+Hooray! Hooray! Go Brother!
+
+151
+00:11:57,625 --> 00:11:59,458
+I'm getting this one fixed up
+
+152
+00:11:59,541 --> 00:12:02,125
+but would you
+mind operating it, Jun?
+
+153
+00:12:02,208 --> 00:12:03,625
+Huh?
+
+154
+00:12:03,708 --> 00:12:05,458
+I don't know why, but I have
+a feeling this is something
+
+155
+00:12:05,541 --> 00:12:10,125
+only you can do.
+Say you will. Please.
+
+156
+00:12:14,875 --> 00:12:17,250
+There. It should
+be good to go.
+
+157
+00:12:18,458 --> 00:12:20,750
+You're finished
+already? Wow! Good job!
+
+158
+00:12:20,833 --> 00:12:23,583
+Now we just get some
+power going to it, and--
+
+159
+00:12:26,208 --> 00:12:27,416
+What's this?
+
+160
+00:12:32,000 --> 00:12:33,291
+Hey, this looks like--
+
+161
+00:12:33,375 --> 00:12:36,125
+Hello. Nice t-- --eet you.
+
+162
+00:12:36,208 --> 00:12:37,625
+What was that?
+
+163
+00:12:38,166 --> 00:12:42,500
+My name is Yoshiro.
+I'm a friendly robot.
+
+164
+00:12:42,583 --> 00:12:44,458
+Well, what d'ya think,
+Kai? I was able to
+
+165
+00:12:44,541 --> 00:12:46,541
+get it talking
+again. Nice, huh?
+
+166
+00:12:46,625 --> 00:12:48,541
+If you call that talking.
+
+167
+00:12:49,791 --> 00:12:51,625
+Come on, friend.
+Let's shake hands now.
+
+168
+00:12:51,708 --> 00:12:52,750
+What's up?
+
+169
+00:12:55,208 --> 00:12:57,708
+I'm a friendly robot.
+
+170
+00:12:59,708 --> 00:13:03,125
+Hello there! Nice to
+meet you! My name is Yoshiro!
+
+171
+00:13:03,208 --> 00:13:05,041
+It's the same one as before.
+
+172
+00:13:05,125 --> 00:13:06,000
+I'm a friendly robot.
+
+173
+00:13:06,083 --> 00:13:07,458
+Aki, shut the robot off!
+
+174
+00:13:07,541 --> 00:13:08,541
+Huh?
+
+175
+00:13:08,625 --> 00:13:11,083
+Come on, friend.
+Let's shake hands now.
+
+176
+00:13:11,166 --> 00:13:12,291
+Hurry! Do it!
+
+177
+00:13:12,375 --> 00:13:16,416
+You're not friendly!
+You're not my friend!
+
+178
+00:13:16,500 --> 00:13:18,375
+Wait, Jun! Come back!
+
+179
+00:13:28,791 --> 00:13:31,166
+I guess we knew that's
+where this was headed.
+
+180
+00:13:33,000 --> 00:13:35,875
+Alright. I gotta go.
+I got some stuff to do.
+
+181
+00:13:35,958 --> 00:13:38,875
+Huh? Leaving at
+a time like this?
+
+182
+00:13:38,958 --> 00:13:40,916
+But what do we do about Jun?
+
+183
+00:13:41,000 --> 00:13:42,541
+Well, the way we were
+approaching it before
+
+184
+00:13:42,625 --> 00:13:43,916
+wasn't helping at all.
+
+185
+00:13:44,000 --> 00:13:46,666
+"And if pushing doesn't
+work, try pulling instead."
+
+186
+00:13:46,750 --> 00:13:50,750
+Wait a sec. Isn't that
+an old proverb about love?
+
+187
+00:13:53,708 --> 00:13:56,333
+Crummy Girl, watch me!
+How's my punch?
+
+188
+00:13:56,416 --> 00:13:59,333
+Hey. Hey. Hey.
+
+189
+00:13:59,416 --> 00:14:01,791
+Now, now, I asked you not
+to call me that, didn't I?
+
+190
+00:14:01,875 --> 00:14:03,958
+My kick's way
+better than his punch!
+
+191
+00:14:04,666 --> 00:14:06,916
+Hey, will you make
+cookies for us again?
+
+192
+00:14:07,000 --> 00:14:08,916
+I'll bring some with
+me next time, okay?
+
+193
+00:14:09,000 --> 00:14:11,291
+Really? Yay!
+
+194
+00:14:15,458 --> 00:14:18,125
+You seemed, I dunno,
+different out there.
+
+195
+00:14:18,208 --> 00:14:20,875
+Yeah. I'm usually
+more nervous.
+
+196
+00:14:21,541 --> 00:14:23,625
+So you're really
+quitting the club?
+
+197
+00:14:24,916 --> 00:14:28,458
+Robots frighten me too
+much. I just can't do it.
+
+198
+00:14:28,541 --> 00:14:30,625
+And as far as Grandpa goes,
+
+199
+00:14:30,708 --> 00:14:34,666
+he'll cheer up faster
+without me around.
+
+200
+00:14:34,750 --> 00:14:37,083
+Actually, I think
+you're the one Doc needs.
+
+201
+00:14:37,166 --> 00:14:39,500
+You can encourage him
+like no one else can.
+
+202
+00:14:39,583 --> 00:14:42,083
+I'm sorry, but you're wrong.
+I've been avoiding him
+
+203
+00:14:42,166 --> 00:14:45,916
+ever since the accident.
+I'm sure he's still mad at me.
+
+204
+00:14:46,000 --> 00:14:48,708
+I'm afraid I'm not a
+very good granddaughter.
+
+205
+00:14:49,666 --> 00:14:53,000
+You know the robots in the shop?
+All of 'em had their cords cut.
+
+206
+00:14:53,083 --> 00:14:55,666
+Why do you think
+he would do that?
+
+207
+00:14:57,458 --> 00:15:00,083
+Here, I found this
+in the storeroom.
+
+208
+00:15:02,916 --> 00:15:05,625
+Think about it some
+more before you decide.
+
+209
+00:15:14,583 --> 00:15:16,708
+It's like I always say,
+
+210
+00:15:16,791 --> 00:15:20,041
+"robots are built to
+be people's friends."
+
+211
+00:15:21,416 --> 00:15:24,666
+Really? Then that means
+I'm their friend, too!
+
+212
+00:15:24,750 --> 00:15:26,000
+Yeah!
+
+213
+00:15:36,750 --> 00:15:38,750
+My video of the
+GunBuild-1 test?
+
+214
+00:15:38,833 --> 00:15:40,375
+If that's okay.
+
+215
+00:15:41,333 --> 00:15:42,750
+Here, all yours.
+
+216
+00:15:42,833 --> 00:15:45,291
+Oh great. Thank you.
+
+217
+00:15:54,041 --> 00:15:56,125
+How lame!
+
+218
+00:15:56,208 --> 00:15:57,458
+It's huge!
+
+219
+00:15:57,541 --> 00:15:59,291
+Yeah, huge and dumb-looking!
+
+220
+00:15:59,375 --> 00:16:02,250
+It's got weapons,
+right? Where are they?
+
+221
+00:16:02,333 --> 00:16:07,541
+Nobody's scared. They all
+seem to be having a good time.
+
+222
+00:16:08,291 --> 00:16:09,791
+Man, it's slow!
+
+223
+00:16:09,875 --> 00:16:12,500
+Can you even call that walking?
+
+224
+00:16:14,750 --> 00:16:16,750
+It's like I always say,
+
+225
+00:16:16,833 --> 00:16:20,583
+"robots are built to
+be people's friends."
+
+226
+00:16:26,750 --> 00:16:29,500
+Doc blamed himself
+for what happened.
+
+227
+00:16:29,583 --> 00:16:32,583
+He said he was being arrogant
+for thinking like he did.
+
+228
+00:16:32,666 --> 00:16:35,083
+That all robots
+were people's friends.
+
+229
+00:16:35,708 --> 00:16:37,625
+It's thinkin' you're always
+to blame when something
+
+230
+00:16:37,708 --> 00:16:40,875
+goes wrong that's
+arrogant, if ya ask me. Eh?
+
+231
+00:16:40,958 --> 00:16:43,125
+Just a tip from me to you.
+
+232
+00:16:50,583 --> 00:16:51,833
+Oh, you again.
+
+233
+00:16:51,916 --> 00:16:54,333
+We're worried about you,
+Doc. You're looking frail.
+
+234
+00:16:54,416 --> 00:16:56,541
+Could you come with us
+down to the Robo Clinic?
+
+235
+00:16:56,625 --> 00:16:58,750
+It shouldn't take very long.
+
+236
+00:16:58,833 --> 00:17:02,958
+I decided to shut that place
+down. Shoulda done it years ago.
+
+237
+00:17:03,041 --> 00:17:04,541
+Place was never worth it.
+
+238
+00:17:04,625 --> 00:17:07,041
+You shouldn't say things like
+that when you don't mean them!
+
+239
+00:17:07,125 --> 00:17:09,625
+You love the clinic,
+and you know it!
+
+240
+00:17:09,708 --> 00:17:12,333
+I understand what you're going
+through, but I love GUNVARREL,
+
+241
+00:17:12,416 --> 00:17:15,833
+so I'm gonna finish it,
+no matter what! Please, Doc!
+
+242
+00:17:15,916 --> 00:17:18,000
+It's over. I'm
+through with it.
+
+243
+00:17:18,083 --> 00:17:21,416
+I know you think that, but your
+robots are waiting for you.
+
+244
+00:17:22,291 --> 00:17:25,750
+What did you do?
+Don't tell me. You didn't!
+
+245
+00:17:25,833 --> 00:17:28,916
+It's exactly like it was right
+after its grand opening.
+
+246
+00:17:29,000 --> 00:17:32,333
+Idiots! How dare you!
+
+247
+00:17:32,416 --> 00:17:34,000
+Just come with us
+and see for yourself.
+
+248
+00:17:34,083 --> 00:17:36,083
+Then decide if we're idiots.
+
+249
+00:17:38,333 --> 00:17:40,541
+We got your doctor's
+permission to take you.
+
+250
+00:17:41,958 --> 00:17:43,500
+How 'bout it?
+
+251
+00:18:08,333 --> 00:18:12,041
+No, don't. Stop this now!
+
+252
+00:18:13,250 --> 00:18:18,458
+It'll hurt her again.
+She'll be so scared!
+
+253
+00:18:19,708 --> 00:18:24,375
+My fault, all my
+fault. Because of me.
+
+254
+00:18:24,458 --> 00:18:27,125
+Jun got hurt because of me.
+
+255
+00:18:50,916 --> 00:18:53,125
+Yoshiro?
+
+256
+00:18:53,208 --> 00:18:56,875
+Hello there! Nice to meet
+you! My name is Yoshiro!
+
+257
+00:18:56,958 --> 00:19:00,166
+I'm a friendly robot.
+Do you want to be friends?
+
+258
+00:19:00,250 --> 00:19:03,583
+Come on, friend.
+Let's shake hands now!
+
+259
+00:19:06,166 --> 00:19:08,958
+Please! Won't
+you shake my hand?
+
+260
+00:19:09,041 --> 00:19:10,916
+Please, Mr. Fujita!
+
+261
+00:19:12,125 --> 00:19:16,000
+How-- How did you know my name?
+
+262
+00:19:16,083 --> 00:19:20,500
+Because somebody taught it to
+him. Your granddaughter, Jun.
+
+263
+00:19:20,583 --> 00:19:23,041
+She taught Yoshiro
+how to say your name.
+
+264
+00:19:23,125 --> 00:19:26,083
+My granddaughter?
+
+265
+00:19:43,500 --> 00:19:48,375
+Let's be friends again.
+Okay, Grandpa Fujita?
+
+266
+00:19:48,458 --> 00:19:52,125
+Are you sure? Can
+you really forgive me?
+
+267
+00:19:52,208 --> 00:19:56,041
+I'm the one who should apologize
+for staying away for so long.
+
+268
+00:19:56,125 --> 00:19:59,375
+Sorry, Grandpa. I'm so sorry.
+
+269
+00:19:59,458 --> 00:20:01,833
+Honestly, they
+still scare me some.
+
+270
+00:20:01,916 --> 00:20:05,000
+But I can learn to like
+Yoshiro again, and all your
+
+271
+00:20:05,083 --> 00:20:09,875
+other little ones. You'll
+see, I promise I can do it.
+
+272
+00:20:09,958 --> 00:20:15,208
+I'll try hard and I'm sure
+we'll be friends but please,
+
+273
+00:20:15,291 --> 00:20:20,208
+you have to get better,
+Grandpa! You will, won't you?
+
+274
+00:20:25,958 --> 00:20:27,500
+Thank you.
+
+275
+00:20:39,875 --> 00:20:41,875
+Hooray!
+
+276
+00:20:49,750 --> 00:20:51,666
+Well, we should get going now.
+
+277
+00:20:51,750 --> 00:20:54,333
+Get better soon. But
+don't push yourself, okay?
+
+278
+00:20:54,416 --> 00:20:57,875
+I ain't so feeble I need
+you brats to worry about me.
+
+279
+00:20:57,958 --> 00:21:00,958
+In this case I'll take your
+grouchiness as a good sign.
+
+280
+00:21:01,041 --> 00:21:04,250
+Hey. You crazy kids
+still workin' on
+
+281
+00:21:04,333 --> 00:21:06,291
+that giant robot of yours?
+
+282
+00:21:06,375 --> 00:21:08,916
+Of course we are!
+We're determined as ever!
+
+283
+00:21:09,000 --> 00:21:12,000
+Lemme take a look at
+it when I get outta here.
+
+284
+00:21:12,083 --> 00:21:15,125
+I can tell ya if
+it rocks or not.
+
+285
+00:22:58,375 --> 00:23:00,875
+The construction of
+GunBuild-2 continues.
+
+286
+00:23:00,958 --> 00:23:02,791
+Meanwhile Kai
+and Frau head out
+
+287
+00:23:02,875 --> 00:23:05,125
+in search of another
+Kimijima Report.
+
+288
+00:23:05,208 --> 00:23:08,083
+Frau is also searching
+for clues about her mother.
+
+289
+00:23:08,166 --> 00:23:11,000
+Director Minami Furugori may
+have an important connection
+
+290
+00:23:11,083 --> 00:23:13,250
+to the final
+episode of GUNVARREL.
+
+291
+00:23:13,333 --> 00:23:15,583
+Kai and Frau
+uncover a new truth,
+
+292
+00:23:15,666 --> 00:23:19,208
+and a prophecy comes
+true, rocking the world.
+
+293
+00:23:20,250 --> 00:23:21,666
+Episode 13.
+
+294
+00:23:21,750 --> 00:23:23,541
+Let's hit it off everybody!
+
+295
+00:23:23,625 --> 00:23:25,208
+Later days!
+

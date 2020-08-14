@@ -1,0 +1,1452 @@
+﻿1
+00:00:12,958 --> 00:00:15,666
+Genki! Stay away!
+
+2
+00:00:20,916 --> 00:00:22,500
+I'll save you, Rozetta!
+
+3
+00:00:27,166 --> 00:00:30,750
+Well, Kona. What do you
+think? This scene is thrilling,
+
+4
+00:00:30,833 --> 00:00:34,250
+isn't it? I know it
+sounds kind of sappy,
+
+5
+00:00:34,333 --> 00:00:36,458
+but GUNVARREL's
+themes are timeless.
+
+6
+00:00:36,541 --> 00:00:38,416
+It's about love and courage.
+
+7
+00:00:43,416 --> 00:00:45,958
+Kona, can you hear me?
+
+8
+00:00:47,833 --> 00:00:50,416
+Thank goodness!
+You had me scared.
+
+9
+00:00:52,416 --> 00:00:53,666
+Yashio.
+
+10
+00:02:33,250 --> 00:02:35,875
+With prospects for power
+restoration to the metropolitan
+
+11
+00:02:35,958 --> 00:02:39,916
+area still uncertain,
+chaos continues downtown.
+
+12
+00:02:40,000 --> 00:02:42,333
+Meanwhile, there have been
+reports of service robots
+
+13
+00:02:42,416 --> 00:02:44,125
+becoming violent
+toward humans.
+
+14
+00:02:44,208 --> 00:02:47,625
+Man, robots becoming
+violent? That's a good one.
+
+15
+00:03:07,208 --> 00:03:09,125
+Here, have some.
+
+16
+00:03:09,208 --> 00:03:10,958
+T-- TY.
+
+17
+00:03:12,041 --> 00:03:14,500
+Were you seriously
+planning to kill yourself?
+
+18
+00:03:15,666 --> 00:03:18,083
+Well, the original plan
+was to slit my wrists.
+
+19
+00:03:18,166 --> 00:03:20,958
+But I was already so hungry
+and weak and exhausted.
+
+20
+00:03:21,041 --> 00:03:22,750
+I started to think
+I'd die right there
+
+21
+00:03:22,833 --> 00:03:25,291
+in the water whether
+I did it or not.
+
+22
+00:03:25,375 --> 00:03:27,250
+So, the whole "I took over
+some robots and made them
+
+23
+00:03:27,333 --> 00:03:29,750
+go berserk" thing. Wanna
+tell me about that?
+
+24
+00:03:29,833 --> 00:03:33,416
+No! I-- I didn't do
+it! Somebody set me up.
+
+25
+00:03:34,291 --> 00:03:35,625
+You okay?
+
+26
+00:03:37,250 --> 00:03:41,250
+Someone claiming to be me took
+over the robot OS on RI's server
+
+27
+00:03:41,333 --> 00:03:43,458
+and then decided to
+start bragging about it.
+
+28
+00:03:43,541 --> 00:03:48,791
+RI stands for-- These guys,
+huh? Roboratory Industry, Inc.
+
+29
+00:03:49,708 --> 00:03:51,041
+Yeah. They're
+ranked third in the
+
+30
+00:03:51,125 --> 00:03:54,416
+domestic service robot market.
+They use a cloud system,
+
+31
+00:03:54,500 --> 00:03:57,250
+which means that if their
+server is compromised all the
+
+32
+00:03:57,333 --> 00:04:00,125
+robots they've distributed
+will go out of control.
+
+33
+00:04:01,625 --> 00:04:04,708
+A-And, BTW, TIL that server
+can't be accessed from
+
+34
+00:04:04,791 --> 00:04:06,791
+anywhere outside
+the system anymore.
+
+35
+00:04:06,875 --> 00:04:08,500
+It's like a lock
+placed by the hacker as
+
+36
+00:04:08,583 --> 00:04:10,125
+a sort of insurance policy.
+
+37
+00:04:10,208 --> 00:04:11,500
+What do you mean?
+
+38
+00:04:11,583 --> 00:04:13,791
+I-- It'll make sense
+when you see it.
+
+39
+00:04:15,166 --> 00:04:17,125
+This is the RI server here.
+
+40
+00:04:17,208 --> 00:04:20,000
+If you try to enter
+the OS part, then.
+
+41
+00:04:23,875 --> 00:04:25,250
+That's KILL-BALLAD!
+
+42
+00:04:27,375 --> 00:04:30,250
+Yeah. Some bastard has
+blocked access to this part of
+
+43
+00:04:30,333 --> 00:04:33,416
+the server using KILL-BALLAD.
+S-- So in other words,
+
+44
+00:04:33,500 --> 00:04:36,250
+beating this CPU opponent
+in a KILL-BALLAD match...
+
+45
+00:04:36,333 --> 00:04:37,958
+...is the only way
+to stop the hacker
+
+46
+00:04:38,041 --> 00:04:40,500
+and get the robots
+back under control.
+
+47
+00:04:40,583 --> 00:04:45,000
+GUNVARREL's being defiled
+by this POS. How could they?
+
+48
+00:04:45,083 --> 00:04:47,666
+Not GUNVARREL.
+My mom's GUNVARREL.
+
+49
+00:04:47,750 --> 00:04:52,166
+All I have left. What do I do?
+
+50
+00:04:54,625 --> 00:04:56,708
+All we have to do
+is win one match?
+
+51
+00:04:59,916 --> 00:05:02,833
+I'll play their game
+and beat them at it!
+
+52
+00:05:16,416 --> 00:05:18,041
+Do you see something out there?
+
+53
+00:05:18,125 --> 00:05:20,750
+Fires in the Shinjuku area.
+
+54
+00:05:20,833 --> 00:05:23,541
+Initiating a robot uprising
+and plunging the world into
+
+55
+00:05:23,625 --> 00:05:26,916
+total chaos. That's the
+objective of Project Mars.
+
+56
+00:05:27,791 --> 00:05:30,666
+This is nothing more
+than a simple practice run.
+
+57
+00:05:32,083 --> 00:05:35,333
+Is the analysis of the final
+GUNVARREL episode complete?
+
+58
+00:05:36,208 --> 00:05:39,000
+The original source of the
+leak remains unknown to us
+
+59
+00:05:39,083 --> 00:05:41,250
+but a thorough
+analysis of the episode
+
+60
+00:05:41,333 --> 00:05:45,125
+revealed propaganda
+images and the melody.
+
+61
+00:05:46,458 --> 00:05:49,333
+I'm not surprised. There's
+no reason to be, really.
+
+62
+00:05:49,416 --> 00:05:51,125
+After all, Project
+Mars was already
+
+63
+00:05:51,208 --> 00:05:53,000
+in the works
+by twenty-fifteen.
+
+64
+00:05:53,083 --> 00:05:54,500
+Right.
+
+65
+00:05:54,583 --> 00:05:56,625
+However, while almost all
+of the show's production staff
+
+66
+00:05:56,708 --> 00:05:58,750
+remained in a brainwashed
+state at the time.
+
+67
+00:05:58,833 --> 00:06:01,916
+Minami Kogori's
+brainwashing came undone.
+
+68
+00:06:02,000 --> 00:06:03,666
+Even as her colleagues
+were about to kill her,
+
+69
+00:06:03,750 --> 00:06:06,083
+she managed to
+seal the film away.
+
+70
+00:06:06,791 --> 00:06:10,500
+Kou Kimijima's death occurred
+in two-thousand and-ten
+
+71
+00:06:10,583 --> 00:06:12,791
+and the film was
+made in twenty-fifteen.
+
+72
+00:06:12,875 --> 00:06:17,291
+So I guess that's that. There's
+no connection between them.
+
+73
+00:06:46,458 --> 00:06:50,125
+Argh! Stupid! Argh!
+
+74
+00:06:52,833 --> 00:06:55,250
+It's late. Don't you
+need to go home soon?
+
+75
+00:06:55,333 --> 00:06:57,166
+No, it's okay.
+I told my folks I was
+
+76
+00:06:57,250 --> 00:06:58,708
+spending the
+night at a friends.
+
+77
+00:06:58,791 --> 00:07:00,458
+Oh, yeah? That's tera-hot.
+
+78
+00:07:00,541 --> 00:07:03,291
+Your very first
+sleepover with glasses boy!
+
+79
+00:07:07,291 --> 00:07:09,291
+So, what's the news on Tokyo?
+
+80
+00:07:09,375 --> 00:07:11,083
+Has anything new
+been happening?
+
+81
+00:07:11,166 --> 00:07:14,166
+It appears that restoration
+has begun in some places.
+
+82
+00:07:14,250 --> 00:07:16,750
+The online user count is
+climbing again after dropping
+
+83
+00:07:16,833 --> 00:07:20,583
+due to the outages. Twipo
+posts are also rising in number.
+
+84
+00:07:20,666 --> 00:07:24,000
+We better hurry.
+The cops might show up.
+
+85
+00:07:24,083 --> 00:07:25,583
+Well, I hope they
+don't come too soon.
+
+86
+00:07:25,666 --> 00:07:28,000
+We still haven't tried
+everything in our arsenal yet.
+
+87
+00:07:28,083 --> 00:07:30,958
+Wait, what arsenal?
+What are you talking about?
+
+88
+00:07:31,041 --> 00:07:33,541
+I'm gonna use Slow-Motion.
+
+89
+00:07:33,625 --> 00:07:36,000
+But-- But you said you
+have no control over it,
+
+90
+00:07:36,083 --> 00:07:37,875
+that you can't
+use it on demand.
+
+91
+00:07:37,958 --> 00:07:41,375
+It should kick in if I push
+myself to my absolute limit.
+
+92
+00:07:41,458 --> 00:07:43,083
+I'm gonna go run around.
+
+93
+00:07:49,208 --> 00:07:51,708
+I don't understand. Why
+would you go to such lengths?
+
+94
+00:07:51,791 --> 00:07:56,208
+You said these attacks are
+excruciating. Is it for my sake?
+
+95
+00:07:56,291 --> 00:07:58,791
+No, I'm not doing it for you.
+
+96
+00:07:58,875 --> 00:08:01,541
+I just want to beat this
+damn cheater at his own game.
+
+97
+00:08:01,625 --> 00:08:04,208
+I'm ranked second in the
+world. My pride is on the line.
+
+98
+00:08:04,291 --> 00:08:06,500
+Wow, what a
+fighting game freak.
+
+99
+00:08:06,583 --> 00:08:07,791
+What you were
+supposed to say is,
+
+100
+00:08:07,875 --> 00:08:11,166
+"Of course I'm doing
+it for you!" WTF.
+
+101
+00:08:17,083 --> 00:08:19,166
+But, you know, whatever.
+
+102
+00:08:21,708 --> 00:08:23,625
+Cold!
+
+103
+00:08:24,291 --> 00:08:25,666
+How indecent!
+
+104
+00:08:25,750 --> 00:08:27,083
+Indecent, indeed.
+
+105
+00:08:27,166 --> 00:08:29,833
+I don't need an
+audience, thank you.
+
+106
+00:08:29,916 --> 00:08:31,791
+Please do not worry.
+Because we are indoors,
+
+107
+00:08:31,875 --> 00:08:35,000
+Gezi cannot see you in
+your current state of undress.
+
+108
+00:08:35,083 --> 00:08:37,958
+You can use your
+imagination, though!
+
+109
+00:08:47,166 --> 00:08:48,708
+R U OK, d00d?
+You look like you're about
+
+110
+00:08:48,791 --> 00:08:50,916
+two seconds away
+from keeling over.
+
+111
+00:08:51,000 --> 00:08:54,125
+I'm definitely not okay. I
+don't feel Slow-Motion kicking
+
+112
+00:08:54,208 --> 00:08:58,333
+in at all yet. What about you?
+Any new information? Any leads?
+
+113
+00:08:58,416 --> 00:09:03,375
+No, nothing. But I will figure
+out who's doing this. OWOA.
+
+114
+00:09:03,458 --> 00:09:05,500
+There is a surefire
+method for defeating even
+
+115
+00:09:05,583 --> 00:09:08,041
+the most iron-clad
+security systems.
+
+116
+00:09:08,125 --> 00:09:10,750
+Give details plz! Kthx!
+
+117
+00:09:10,833 --> 00:09:14,291
+Become close with the person who
+created said security system.
+
+118
+00:09:14,375 --> 00:09:17,083
+Then you simply ask them
+to give you the password.
+
+119
+00:09:18,666 --> 00:09:21,291
+That never
+occurred to me, TBH.
+
+120
+00:09:21,375 --> 00:09:24,083
+Huh? I'm sorry but what
+are you talking about?
+
+121
+00:09:24,166 --> 00:09:26,708
+I think I would know if
+he'd slept over at my house.
+
+122
+00:09:26,791 --> 00:09:28,333
+But where else
+would he have gone?
+
+123
+00:09:28,416 --> 00:09:29,958
+When I went over to
+see him this morning,
+
+124
+00:09:30,041 --> 00:09:32,416
+Kai's mom told me he'd stayed
+the night at a friend's place.
+
+125
+00:09:32,500 --> 00:09:35,041
+Well, I'm not his friend,
+so there you have it.
+
+126
+00:09:35,125 --> 00:09:37,625
+He's probably over
+at Furugori's place.
+
+127
+00:09:39,000 --> 00:09:40,875
+Didn't you think
+to check Twipo?
+
+128
+00:09:44,666 --> 00:09:47,541
+Impossible. I
+just can't beat it.
+
+129
+00:09:47,625 --> 00:09:49,041
+N-No way!
+
+130
+00:09:49,125 --> 00:09:50,666
+Awesome. What's wrong now?
+
+131
+00:09:50,750 --> 00:09:54,166
+The person who framed me as
+the hacker. I know who it is.
+
+132
+00:09:54,250 --> 00:09:57,041
+What-- What Gezi said about
+passwords got me thinking.
+
+133
+00:09:57,125 --> 00:10:00,208
+It is possible somebody could
+know my Twipo account info.
+
+134
+00:10:00,291 --> 00:10:02,125
+Especially if it's
+someone in my circle.
+
+135
+00:10:02,208 --> 00:10:05,083
+Are you talking about the group
+you developed KILL-BALLAD with?
+
+136
+00:10:05,166 --> 00:10:07,416
+Yeah. All the members
+checked in after the blackout
+
+137
+00:10:07,500 --> 00:10:10,166
+and robot malfunction to
+report that they were okay.
+
+138
+00:10:10,250 --> 00:10:12,291
+All of them
+except for Maguyan.
+
+139
+00:10:12,375 --> 00:10:14,375
+You try getting in
+touch with him yourself?
+
+140
+00:10:14,458 --> 00:10:16,333
+That's what I'm doing now.
+
+141
+00:10:20,375 --> 00:10:21,791
+He picked up.
+
+142
+00:10:23,500 --> 00:10:24,750
+Maguyan.
+
+143
+00:10:24,833 --> 00:10:28,333
+Yeah. Hey there, Frau.
+Thought I'd hear from you.
+
+144
+00:10:28,416 --> 00:10:31,166
+If you're calling me,
+I guess you've figured it out.
+
+145
+00:10:34,000 --> 00:10:37,541
+I don't understand.
+Why would you do this?
+
+146
+00:10:37,625 --> 00:10:40,666
+My wife and kid were
+taken hostage. I had to do
+
+147
+00:10:40,750 --> 00:10:44,166
+what they said. They threatened
+to kill them unless I did.
+
+148
+00:10:44,250 --> 00:10:47,041
+Do what who said?
+Who was threatening you?
+
+149
+00:10:47,125 --> 00:10:50,208
+I can't say. My family's
+lives will be in danger if
+
+150
+00:10:50,291 --> 00:10:54,875
+I talk about them. I've been
+blackmailed, yes, blackmailed,
+
+151
+00:10:54,958 --> 00:10:57,000
+and that's why
+I was helping them.
+
+152
+00:10:57,791 --> 00:11:00,541
+These guys who threatened you
+and kidnapped your family...
+
+153
+00:11:00,625 --> 00:11:03,416
+Why did they want to
+sabotage all those robots?
+
+154
+00:11:04,125 --> 00:11:05,791
+Apparently,
+their ultimate target
+
+155
+00:11:05,875 --> 00:11:08,750
+was Tokyo's ministry offices.
+
+156
+00:11:09,750 --> 00:11:11,875
+Did these people
+mention my mom?
+
+157
+00:11:11,958 --> 00:11:16,458
+Sorry, but that's really all
+I know. I think it is, anyway.
+
+158
+00:11:16,541 --> 00:11:18,916
+You liar! I know
+you know something!
+
+159
+00:11:19,000 --> 00:11:21,625
+Tell me what happened
+to my mom, you scum!
+
+160
+00:11:21,708 --> 00:11:26,250
+Tell me where she
+is! Please tell me.
+
+161
+00:11:28,541 --> 00:11:32,666
+Maguyan, there's one more
+thing I'm curious about.
+
+162
+00:11:35,208 --> 00:11:38,083
+You said that you
+have a wife and kid.
+
+163
+00:11:39,958 --> 00:11:42,833
+But at our offline meeting six
+months ago. You said that you
+
+164
+00:11:42,916 --> 00:11:45,708
+were still a virgin. You
+said that the only girls that
+
+165
+00:11:45,791 --> 00:11:48,708
+you ever liked
+were the 2D ones. So.
+
+166
+00:11:48,791 --> 00:11:50,708
+When did you get married?
+
+167
+00:11:50,791 --> 00:11:52,250
+When did you have a kid?
+
+168
+00:11:53,333 --> 00:11:57,666
+Oh I, uh, well.
+Yeah, I have a wife.
+
+169
+00:11:57,750 --> 00:11:59,916
+And my kid,
+her name is Haruka.
+
+170
+00:12:00,958 --> 00:12:05,416
+Wait, Haruka's the heroine's
+name in "Magical Girl M'lady."
+
+171
+00:12:05,500 --> 00:12:07,250
+Huh? I--
+
+172
+00:12:09,666 --> 00:12:10,833
+I just don't know.
+
+173
+00:12:10,916 --> 00:12:13,958
+He's really out of it.
+Wait, could this be--
+
+174
+00:12:14,041 --> 00:12:16,750
+Is he... brainwashed?
+
+175
+00:12:16,833 --> 00:12:20,250
+Uh anyways, that's what's
+going on. Real sorry, Frau.
+
+176
+00:12:20,333 --> 00:12:21,958
+Now that my part's
+over, I'm headed to
+
+177
+00:12:22,041 --> 00:12:23,500
+the Philippines, you see.
+
+178
+00:12:23,583 --> 00:12:26,791
+They say I'll be reunited with
+my family once I get there.
+
+179
+00:12:26,875 --> 00:12:28,875
+Sorry again. Goodbye.
+
+180
+00:12:35,333 --> 00:12:38,541
+I should've known better than
+to let myself trust anyone.
+
+181
+00:12:38,625 --> 00:12:41,250
+I should have acted like a real
+shut-in and avoided everyone
+
+182
+00:12:41,333 --> 00:12:43,166
+completely all the time.
+
+183
+00:12:44,583 --> 00:12:46,625
+Forever alone, that's me.
+
+184
+00:12:48,833 --> 00:12:50,375
+Yeah, beatin' yourself
+up like that's the
+
+185
+00:12:50,458 --> 00:12:52,541
+easy thing to
+do right now, huh?
+
+186
+00:12:52,625 --> 00:12:54,083
+What's your point?
+
+187
+00:12:54,166 --> 00:12:56,875
+Aki's not here, so I'll say
+it for her. You're a member of
+
+188
+00:12:56,958 --> 00:12:59,666
+the Robot Research Club
+now and, besides that,
+
+189
+00:12:59,750 --> 00:13:02,583
+you're our friend. Accept
+it. Do yourself a favor
+
+190
+00:13:02,666 --> 00:13:05,166
+and stop acting like
+you're all alone in the world.
+
+191
+00:13:05,250 --> 00:13:07,041
+Well, I--
+
+192
+00:13:07,125 --> 00:13:08,666
+Here, check it out.
+
+193
+00:13:11,708 --> 00:13:14,375
+I want to help. Is
+there anything I can do?
+
+194
+00:13:14,958 --> 00:13:17,416
+There's no doubt in my mind
+you're gonna get through this!
+
+195
+00:13:17,500 --> 00:13:21,250
+I'll even send you
+all my power! Power!
+
+196
+00:13:21,916 --> 00:13:24,375
+I'll pick up some food and
+bring it to you, so let me in
+
+197
+00:13:24,458 --> 00:13:26,541
+when I ring
+the bell, all right?
+
+198
+00:13:26,625 --> 00:13:30,416
+Let's skip the usual
+password nonsense, please.
+
+199
+00:13:37,208 --> 00:13:40,458
+Do you even know why I became
+a shut-in to begin with?
+
+200
+00:13:40,541 --> 00:13:43,458
+Uh. 'Cause you're
+not good with people?
+
+201
+00:13:45,166 --> 00:13:47,625
+The correct answer
+is to make KILL-BALLAD.
+
+202
+00:13:47,708 --> 00:13:49,000
+Oh.
+
+203
+00:13:49,083 --> 00:13:51,458
+My mom had just disappeared
+and GUNVARREL had ended
+
+204
+00:13:51,541 --> 00:13:54,375
+without a real ending.
+I was worried people would
+
+205
+00:13:54,458 --> 00:13:57,083
+lose interest in it altogether.
+
+206
+00:13:57,166 --> 00:13:59,500
+If everybody forgot
+about GUNVARREL,
+
+207
+00:13:59,583 --> 00:14:02,125
+my mom would end
+up forgotten, too.
+
+208
+00:14:06,041 --> 00:14:08,791
+So, I decided I would
+make a fighting game
+
+209
+00:14:08,875 --> 00:14:10,541
+based on GUNVARREL.
+
+210
+00:14:12,250 --> 00:14:14,708
+I even stopped going
+to school to work on it.
+
+211
+00:14:14,791 --> 00:14:18,791
+I did it for my mom.
+For GUNVARREL himself.
+
+212
+00:14:20,666 --> 00:14:23,916
+Do you... like KILL-BALLAD?
+
+213
+00:14:24,000 --> 00:14:27,833
+Yeah. Yeah, I think it's
+a really well-made game.
+
+214
+00:14:28,416 --> 00:14:29,750
+Thx.
+
+215
+00:14:29,833 --> 00:14:30,666
+Huh?
+
+216
+00:14:30,750 --> 00:14:31,500
+TY.
+
+217
+00:14:31,583 --> 00:14:32,666
+I'm sorry, what?
+
+218
+00:14:32,750 --> 00:14:34,041
+TVM.
+
+219
+00:14:34,125 --> 00:14:36,625
+Nope. Can't hear you.
+
+220
+00:14:36,708 --> 00:14:39,375
+Th-Thank you.
+
+221
+00:14:40,375 --> 00:14:41,208
+Hey!
+
+222
+00:14:45,791 --> 00:14:50,666
+I'm happy you like the game.
+And that you like me.
+
+223
+00:14:55,125 --> 00:14:57,833
+So, are you feeling
+turned on yet?
+
+224
+00:14:57,916 --> 00:15:01,666
+No, I guess I don't
+have any strength left.
+
+225
+00:15:01,750 --> 00:15:05,750
+Please, Yashio. Let's
+stay like this for a bit.
+
+226
+00:15:05,833 --> 00:15:08,625
+There are things
+I need to say.
+
+227
+00:15:08,708 --> 00:15:12,666
+GUNVARREL is important
+to me. More important than
+
+228
+00:15:12,750 --> 00:15:15,708
+you can imagine. It's what
+my mom left behind for me
+
+229
+00:15:15,791 --> 00:15:20,833
+and it's filled with memories of
+her. I couldn't bear to lose it.
+
+230
+00:15:22,041 --> 00:15:24,791
+Tell me, do you
+think GUNVARREL's star
+
+231
+00:15:24,875 --> 00:15:27,250
+will shine again someday?
+
+232
+00:15:27,333 --> 00:15:30,708
+I dunno but finishing GunBuild-2
+and entering it in the expo
+
+233
+00:15:30,791 --> 00:15:33,166
+is a good place to
+start, don't you think?
+
+234
+00:15:37,583 --> 00:15:40,958
+I'm glad I came
+here to this island.
+
+235
+00:15:41,041 --> 00:15:43,541
+If I didn't, I
+wouldn't have met you.
+
+236
+00:15:43,625 --> 00:15:47,416
+Please. You have to win this
+match. Somehow and it doesn't
+
+237
+00:15:47,500 --> 00:15:50,916
+have to be for me or
+my mom, either, okay?
+
+238
+00:15:57,375 --> 00:15:59,833
+Ms. Furugori! We'd
+like to talk to you about
+
+239
+00:15:59,916 --> 00:16:03,333
+the situation in
+Tokyo, Ms. Furugori!
+
+240
+00:16:03,416 --> 00:16:05,708
+The police. Not good!
+
+241
+00:16:05,791 --> 00:16:08,083
+Wh-What do we do now?
+
+242
+00:16:10,458 --> 00:16:11,750
+It's the others.
+
+243
+00:16:15,708 --> 00:16:17,958
+Ms. Furugori, open up, please!
+
+244
+00:16:18,041 --> 00:16:20,208
+We need to speak
+with you, ma'am!
+
+245
+00:16:20,291 --> 00:16:23,083
+Excuse me, are
+you with the police?
+
+246
+00:16:23,166 --> 00:16:24,666
+Do you need something?
+
+247
+00:16:24,750 --> 00:16:29,708
+Um, yes, sir. Please help us!
+There's some lunatic out there!
+
+248
+00:16:39,583 --> 00:16:40,458
+Let's go!
+
+249
+00:16:40,541 --> 00:16:42,000
+Right! What was that?
+
+250
+00:16:47,416 --> 00:16:50,333
+Hurry! We won't
+get another chance.
+
+251
+00:16:51,333 --> 00:16:52,958
+Are you sure, Yashio?
+
+252
+00:16:53,041 --> 00:16:54,750
+We're almost out of
+time. We gotta do this
+
+253
+00:16:54,833 --> 00:16:56,625
+before the cops get back.
+
+254
+00:17:06,875 --> 00:17:09,625
+Please! Work this time!
+
+255
+00:17:28,458 --> 00:17:30,208
+The enemy will use its
+cheat move as soon as
+
+256
+00:17:30,291 --> 00:17:33,375
+its gauge turns
+red. If I can just
+
+257
+00:17:33,458 --> 00:17:36,833
+activate Slow-Motion
+at that precise moment.
+
+258
+00:17:38,000 --> 00:17:39,666
+Are you okay?
+
+259
+00:17:39,750 --> 00:17:44,791
+Hangin' in there. When I tell
+you, set it to the max level!
+
+260
+00:18:09,750 --> 00:18:15,333
+Not yet. Hang on.
+Just a little longer!
+
+261
+00:18:18,916 --> 00:18:29,458
+Almost. Almost there.
+Come on. Almost! Almost!
+
+262
+00:18:31,583 --> 00:18:33,666
+Now. Do it now!
+
+263
+00:18:52,916 --> 00:18:54,375
+I see it!
+
+264
+00:19:17,875 --> 00:19:21,041
+Are you all right? You
+really pushed yourself.
+
+265
+00:19:21,916 --> 00:19:24,291
+But the robots, they're--?
+
+266
+00:19:24,375 --> 00:19:27,125
+I was able to input a
+command to shut them down.
+
+267
+00:19:27,208 --> 00:19:30,166
+That's... good.
+
+268
+00:19:34,458 --> 00:19:39,875
+Thank you, Yashio.
+You did it. GJ.
+
+269
+00:19:53,125 --> 00:19:55,833
+It's been one week since the
+Tokyo blackout. And scars from
+
+270
+00:19:55,916 --> 00:19:58,666
+this catastrophe can still
+be seen throughout the city.
+
+271
+00:19:58,750 --> 00:20:00,458
+But life is slowly
+returning to normal.
+
+272
+00:20:00,541 --> 00:20:01,916
+Kai!
+
+273
+00:20:03,541 --> 00:20:06,041
+Are you feeling better enough
+to come back to school today?
+
+274
+00:20:07,208 --> 00:20:09,625
+Yeah, seems like it.
+
+275
+00:20:12,416 --> 00:20:15,208
+In other news, the body of
+a Japanese man was found on
+
+276
+00:20:15,291 --> 00:20:18,333
+the outskirts of
+Manila in the Philippines.
+
+277
+00:20:18,875 --> 00:20:19,958
+According to the
+local authorities,
+
+278
+00:20:20,041 --> 00:20:21,791
+the man had been
+staying at a Manila hotel
+
+279
+00:20:21,875 --> 00:20:24,708
+the week preceding
+his body's discovery.
+
+280
+00:20:24,791 --> 00:20:27,125
+Found inside his hotel
+room was a body pillow
+
+281
+00:20:27,208 --> 00:20:28,541
+in the likeness
+of a character from
+
+282
+00:20:28,625 --> 00:20:32,000
+a popular Japanese anime
+"Magical Girl M'lady."
+
+283
+00:20:32,916 --> 00:20:35,916
+Frau was questioned by police
+regarding the robot malfunction
+
+284
+00:20:36,000 --> 00:20:38,125
+but she wasn't
+taken into custody.
+
+285
+00:20:40,958 --> 00:20:43,833
+Online, people still claim this
+was a terrorist plot carried out
+
+286
+00:20:43,916 --> 00:20:46,958
+by the Furugoris,
+both mother and daughter.
+
+287
+00:20:47,041 --> 00:20:49,416
+Those people can
+think whatever they want.
+
+288
+00:20:55,875 --> 00:20:57,041
+It's Kona!
+
+289
+00:20:57,625 --> 00:20:59,666
+You've decided to
+start attending class?
+
+290
+00:20:59,750 --> 00:21:02,208
+Not so much "attend
+class" as "help achieve
+
+291
+00:21:02,291 --> 00:21:04,916
+the Robot Research
+Club's ultimate goal."
+
+292
+00:21:07,458 --> 00:21:08,333
+Hey--!
+
+293
+00:21:09,041 --> 00:21:11,125
+Wha--?
+
+294
+00:21:11,833 --> 00:21:14,458
+I want GUNVARREL's star
+to shine again someday
+
+295
+00:21:14,541 --> 00:21:17,625
+and I've decided to do whatever
+I can to see that happen.
+
+296
+00:21:17,708 --> 00:21:20,416
+Uh. Well, in that case.
+
+297
+00:21:22,750 --> 00:21:24,791
+Welcome to Tanegashima High.
+
+298
+00:21:24,875 --> 00:21:27,416
+Why doesn't anybody
+tell me anything?
+
+299
+00:22:58,375 --> 00:23:00,666
+Following the disasterous
+malfunction incident,
+
+300
+00:23:00,750 --> 00:23:02,625
+it is announced
+that IRUO will undergo
+
+301
+00:23:02,708 --> 00:23:06,083
+large scale maintenance.
+Unfortunately for Kai,
+
+302
+00:23:06,166 --> 00:23:10,125
+this may mean the delusion
+of a very special friend, Airi.
+
+303
+00:23:10,208 --> 00:23:13,916
+But it is the Christmas
+season. Airi has only wish.
+
+304
+00:23:14,000 --> 00:23:18,000
+And for it to come true,
+there will have to be a miracle.
+
+305
+00:23:18,708 --> 00:23:20,166
+Epiosde 15.
+
+306
+00:23:20,250 --> 00:23:21,541
+Let's hit it off everybody!
+
+307
+00:23:21,625 --> 00:23:22,916
+Later days!
+

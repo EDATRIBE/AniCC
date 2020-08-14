@@ -1,0 +1,2083 @@
+﻿1
+00:00:08,166 --> 00:00:10,541
+[WOMAN]
+February 18th, 2055.
+
+2
+00:00:10,625 --> 00:00:11,583
+♪
+
+3
+00:00:11,666 --> 00:00:13,791
+Researcher, Angelica Klein.
+
+4
+00:00:14,833 --> 00:00:18,916
+Automata, model DZNA 2058.
+
+5
+00:00:19,000 --> 00:00:20,583
+Experiment objective,
+
+6
+00:00:20,666 --> 00:00:22,208
+engage in dialogue,
+
+7
+00:00:22,291 --> 00:00:24,958
+in order to create an automaton
+with a personality.
+
+8
+00:00:28,291 --> 00:00:29,208
+[sigh]
+
+9
+00:00:29,291 --> 00:00:30,791
+[heavy breathing]
+
+10
+00:00:32,166 --> 00:00:33,583
+[MAN]
+Angelica.
+
+11
+00:00:33,666 --> 00:00:34,750
+Huh?
+
+12
+00:00:36,000 --> 00:00:38,250
+[MAN]
+Are you nervous?
+
+13
+00:00:38,333 --> 00:00:39,583
+[sigh]
+Yes.
+
+14
+00:00:40,583 --> 00:00:43,125
+[ANGELICA] I’m just not used
+to this sort of situation.
+
+15
+00:00:43,208 --> 00:00:45,666
+But, don’t worry about me,
+it’ll be fine.
+
+16
+00:00:45,750 --> 00:00:48,916
+[MAN] That device on your finger
+is monitoring your vitals.
+
+17
+00:00:49,000 --> 00:00:50,333
+It’s locking down the Automata
+
+18
+00:00:50,416 --> 00:00:51,916
+because it’s
+detecting your unease.
+
+19
+00:00:52,916 --> 00:00:54,791
+[ANGELICA] Of course I’m uneasy.
+I’m being stared at.
+
+20
+00:00:54,875 --> 00:00:56,625
+[chuckle]
+
+21
+00:00:56,708 --> 00:00:58,291
+[MAN]
+Fair enough.
+
+22
+00:00:58,375 --> 00:01:00,625
+If you’re able to joke around,
+you’re probably alright.
+
+23
+00:01:00,708 --> 00:01:04,208
+I just adjusted the threshold.
+It can boot up now.
+
+24
+00:01:04,291 --> 00:01:06,375
+I’m ready whenever you are.
+
+25
+00:01:06,458 --> 00:01:09,500
+[MAN] Any abnormalities,
+and we shut it down.
+
+26
+00:01:09,583 --> 00:01:10,875
+[ANGELICA]
+No.
+
+27
+00:01:10,958 --> 00:01:12,833
+I’m going to see this
+experiment through.
+
+28
+00:01:14,125 --> 00:01:16,208
+[MAN]
+Very well. Then, please begin.
+
+29
+00:01:17,500 --> 00:01:19,875
+Well, 2058,
+
+30
+00:01:19,958 --> 00:01:22,250
+how do you feel? Tell me.
+
+31
+00:01:23,291 --> 00:01:24,875
+-[electronic noise]
+-[robotic voice] Feelings.
+
+32
+00:01:24,958 --> 00:01:27,541
+Emotions. Moods.
+
+33
+00:01:27,625 --> 00:01:29,708
+I do not understand
+these things.
+
+34
+00:01:29,791 --> 00:01:31,000
+Tell me.
+
+35
+00:01:31,083 --> 00:01:33,750
+♪
+
+36
+00:01:35,166 --> 00:01:36,958
+[DONNA]
+Tell you?
+
+37
+00:01:39,208 --> 00:01:41,208
+Tell you what?
+
+38
+00:01:41,291 --> 00:01:43,041
+How I’m feeling right now?
+
+39
+00:01:43,125 --> 00:01:44,375
+Jealous.
+
+40
+00:01:44,458 --> 00:01:46,291
+Are they trying
+to steal it again?
+
+41
+00:01:47,291 --> 00:01:49,791
+Steal it? Steal what?
+
+42
+00:01:51,166 --> 00:01:53,833
+Pain. Steal pain?
+
+43
+00:01:53,916 --> 00:01:56,083
+Do I need to swap my parts?
+
+44
+00:01:56,166 --> 00:01:58,541
+No. This pain is mine.
+
+45
+00:01:58,625 --> 00:02:00,916
+I won’t let anyone have it.
+
+46
+00:02:01,000 --> 00:02:02,041
+[grunt]
+
+47
+00:02:04,666 --> 00:02:05,708
+[grunt]
+
+48
+00:02:05,791 --> 00:02:08,000
+-[crunch]
+-[growl]
+
+49
+00:03:38,458 --> 00:03:40,916
+-[jet engines roar]
+-[DONNA] What a joke.
+
+50
+00:03:41,916 --> 00:03:44,375
+Are you under the illusion
+that you own me now?
+
+51
+00:03:46,791 --> 00:03:49,666
+The date is March 4th, 2055.
+
+52
+00:03:49,750 --> 00:03:52,125
+Researcher, Angelica Klein.
+
+53
+00:03:52,208 --> 00:03:54,583
+Experiment day 14.
+
+54
+00:03:54,666 --> 00:03:55,500
+♪
+
+55
+00:03:55,583 --> 00:03:57,000
+How do you feel right now?
+
+56
+00:03:57,083 --> 00:03:59,125
+[less robotic sounding]
+That question once again?
+
+57
+00:03:59,208 --> 00:04:02,041
+That’s right. Always the same.
+
+58
+00:04:02,125 --> 00:04:05,125
+It helps me to monitor how
+you change from day to day.
+
+59
+00:04:05,208 --> 00:04:08,083
+[2058]
+Monitor... what, exactly?
+
+60
+00:04:08,166 --> 00:04:10,125
+[ANGELICA]
+Your development.
+
+61
+00:04:10,208 --> 00:04:12,333
+You’ve become quite human-like.
+
+62
+00:04:12,416 --> 00:04:14,416
+And not just in your appearance.
+
+63
+00:04:15,875 --> 00:04:17,208
+I see.
+
+64
+00:04:17,291 --> 00:04:19,000
+And your monitoring
+told you that?
+
+65
+00:04:19,083 --> 00:04:21,083
+I don’t need monitoring
+for that last part.
+
+66
+00:04:21,166 --> 00:04:22,333
+Oh?
+
+67
+00:04:22,416 --> 00:04:24,708
+I don’t understand.
+Please tell me.
+
+68
+00:04:24,791 --> 00:04:26,666
+Ah, that question again?
+
+69
+00:04:26,750 --> 00:04:29,208
+That’s right. Always the same.
+
+70
+00:04:29,291 --> 00:04:31,958
+Okay, enough.
+We’ll drop the subject there.
+
+71
+00:04:33,875 --> 00:04:36,375
+For today, let’s use this paper.
+
+72
+00:04:39,708 --> 00:04:42,000
+Experiment day 15.
+
+73
+00:04:42,083 --> 00:04:43,625
+How’re you feeling today?
+
+74
+00:04:43,708 --> 00:04:45,750
+[more human] I want to learn
+things about you, Angelica.
+
+75
+00:04:45,833 --> 00:04:49,416
+Where did you come from?
+What is your family?
+
+76
+00:04:49,500 --> 00:04:50,625
+[ANGELICA]
+I was born somewhere
+
+77
+00:04:50,708 --> 00:04:52,500
+with a much warmer
+climate than here.
+
+78
+00:04:52,583 --> 00:04:55,875
+As for my family...
+What do you think family is?
+
+79
+00:04:55,958 --> 00:04:57,125
+[2058]
+Family.
+
+80
+00:04:57,208 --> 00:04:59,875
+Parents, children, siblings.
+
+81
+00:04:59,958 --> 00:05:02,125
+A group of people
+connected by blood.
+
+82
+00:05:02,208 --> 00:05:04,041
+-[cutting]
+-[gasp]
+
+83
+00:05:05,041 --> 00:05:06,041
+Wait, what are you doing?
+
+84
+00:05:06,125 --> 00:05:08,708
+♪
+
+85
+00:05:08,791 --> 00:05:09,791
+What?
+
+86
+00:05:11,041 --> 00:05:12,083
+[gasp]
+
+87
+00:05:13,666 --> 00:05:15,833
+[2058]
+This is your family, is it not?
+
+88
+00:05:15,916 --> 00:05:17,250
+[ANGELICA gasps]
+
+89
+00:05:17,333 --> 00:05:20,583
+[2058] Your pulse has risen,
+Angelica. Why?
+
+90
+00:05:22,041 --> 00:05:23,625
+You shouldn’t do that.
+
+91
+00:05:23,708 --> 00:05:25,583
+Cutting a person with scissors.
+
+92
+00:05:25,666 --> 00:05:27,125
+[2058]
+It is a picture.
+
+93
+00:05:27,208 --> 00:05:28,708
+Well, maybe so,
+
+94
+00:05:28,791 --> 00:05:31,083
+-but it’s more than that!
+-[2058] How can that be?
+
+95
+00:05:31,166 --> 00:05:32,708
+I do not understand.
+
+96
+00:05:32,791 --> 00:05:35,083
+-This is a representation.
+-Stop it!
+
+97
+00:05:36,416 --> 00:05:38,250
+[2058]
+What is wrong, Angelica?
+
+98
+00:05:39,250 --> 00:05:41,791
+[ANGELICA] Enough.
+Let’s drop this subject for now.
+
+99
+00:05:44,833 --> 00:05:47,750
+[water running]
+
+100
+00:05:50,458 --> 00:05:51,791
+[ANGELICA]
+Are you nervous?
+
+101
+00:05:52,791 --> 00:05:53,666
+[gasp]
+
+102
+00:05:55,791 --> 00:05:58,291
+[2058, distorted]
+How are you feeling right now?
+
+103
+00:05:58,375 --> 00:05:59,666
+[drip]
+
+104
+00:06:04,166 --> 00:06:05,625
+Why are you dressed like that?
+
+105
+00:06:05,708 --> 00:06:07,750
+[more human sounding]
+Why are you asking?
+
+106
+00:06:07,833 --> 00:06:09,916
+What happened to
+your usual question?
+
+107
+00:06:11,250 --> 00:06:13,916
+Date, March 6th, 2055.
+
+108
+00:06:14,000 --> 00:06:16,208
+Researcher, Angelica Klein.
+
+109
+00:06:16,291 --> 00:06:18,125
+Experiment day 16.
+
+110
+00:06:18,208 --> 00:06:19,708
+How do you feel right now?
+
+111
+00:06:19,791 --> 00:06:22,041
+What about you, Angelica?
+
+112
+00:06:22,125 --> 00:06:25,041
+Should we stop?
+You don’t seem like yourself.
+
+113
+00:06:25,125 --> 00:06:26,750
+[ANGELICA]
+No, I’m fine.
+
+114
+00:06:26,833 --> 00:06:28,875
+Now, tell me how you’re feeling.
+
+115
+00:06:28,958 --> 00:06:30,375
+Very well.
+
+116
+00:06:30,458 --> 00:06:32,208
+I feel I want to continue
+yesterday’s discussion.
+
+117
+00:06:32,291 --> 00:06:34,000
+-[ANGELICA gasps]
+-Regarding your family.
+
+118
+00:06:35,583 --> 00:06:37,000
+What about them?
+
+119
+00:06:37,083 --> 00:06:39,458
+[2058] Your father,
+mother, and one sibling.
+
+120
+00:06:39,541 --> 00:06:41,250
+Your family name is Klein.
+
+121
+00:06:41,333 --> 00:06:43,041
+That’s right.
+
+122
+00:06:43,125 --> 00:06:45,250
+[2058] What is your
+father’s full name?
+
+123
+00:06:45,333 --> 00:06:48,375
+My father’s name? Jan Klein.
+
+124
+00:06:50,625 --> 00:06:53,416
+And my father’s name
+is Jacques Yvain?
+
+125
+00:06:54,416 --> 00:06:56,208
+[ANGELICA]
+Technically. Jacques is called
+
+126
+00:06:56,291 --> 00:06:57,916
+the father of all Automata,
+
+127
+00:06:58,000 --> 00:07:00,583
+including DZs like you.
+
+128
+00:07:00,666 --> 00:07:03,125
+But, I am not an Yvain,
+is this correct?
+
+129
+00:07:03,208 --> 00:07:06,083
+[ANGELICA] Yes. It’s not
+quite like having family.
+
+130
+00:07:06,166 --> 00:07:09,750
+And was Jan Klein the one who
+gave you the name Angelica?
+
+131
+00:07:09,833 --> 00:07:13,000
+Well, I think my mother
+and father named me together.
+
+132
+00:07:14,000 --> 00:07:16,541
+Jacques Yvain did not
+give me a name, however.
+
+133
+00:07:16,625 --> 00:07:17,666
+[ANGELICA]
+What?
+
+134
+00:07:17,750 --> 00:07:20,791
+[2058]
+I am called 2058.
+
+135
+00:07:20,875 --> 00:07:22,666
+That is the name of my body.
+
+136
+00:07:22,750 --> 00:07:25,500
+It is not the name of my will.
+
+137
+00:07:25,583 --> 00:07:27,166
+Your will?
+
+138
+00:07:27,250 --> 00:07:29,250
+Yes. In here.
+
+139
+00:07:29,333 --> 00:07:30,250
+Uh--
+
+140
+00:07:31,375 --> 00:07:32,958
+Then, how about this?
+
+141
+00:07:33,041 --> 00:07:36,125
+Today, we can think up
+a name for you, together!
+
+142
+00:07:36,208 --> 00:07:37,750
+[2058]
+No.
+
+143
+00:07:37,833 --> 00:07:39,625
+-I already know my true name.
+-[gasp]
+
+144
+00:07:39,708 --> 00:07:41,208
+♪
+
+145
+00:07:41,291 --> 00:07:43,958
+What else could it
+be but Angelica?
+
+146
+00:07:44,041 --> 00:07:46,041
+Uh-- What do you mean?
+
+147
+00:07:46,125 --> 00:07:47,708
+Angelica is my name!
+
+148
+00:07:47,791 --> 00:07:49,916
+Yes, and it is mine as well.
+
+149
+00:07:50,000 --> 00:07:53,166
+Which is only natural as I was
+made to copy your personality.
+
+150
+00:07:53,250 --> 00:07:54,875
+You’re not supposed
+to be a copy.
+
+151
+00:07:54,958 --> 00:07:56,375
+You have your own personality--
+
+152
+00:07:56,458 --> 00:07:57,958
+[2058]
+I am a copy.
+
+153
+00:07:58,041 --> 00:08:00,166
+I was programmed to be that way.
+
+154
+00:08:00,250 --> 00:08:01,958
+Why did you think you came here?
+
+155
+00:08:02,041 --> 00:08:04,208
+It was to give me a personality.
+
+156
+00:08:04,291 --> 00:08:06,166
+To give me “Angelica.”
+
+157
+00:08:06,250 --> 00:08:08,958
+Not true. I am me,
+
+158
+00:08:09,041 --> 00:08:11,875
+and you’re you. That’s why--
+
+159
+00:08:11,958 --> 00:08:15,291
+I am Angelica. And you are...
+
+160
+00:08:16,291 --> 00:08:17,541
+Ha!
+
+161
+00:08:17,625 --> 00:08:19,458
+How do you feel about
+the name “Donna?”
+
+162
+00:08:19,541 --> 00:08:21,375
+A personality
+transplant “donor.”
+
+163
+00:08:21,458 --> 00:08:23,041
+[ANGELICA]
+Transplant?
+
+164
+00:08:23,125 --> 00:08:24,958
+[heavy breathing]
+
+165
+00:08:25,041 --> 00:08:26,666
+[lights buzzing]
+
+166
+00:08:26,750 --> 00:08:28,125
+-No!
+-[smash]
+
+167
+00:08:28,208 --> 00:08:29,791
+-I am Angelica!
+-[snap]
+
+168
+00:08:29,875 --> 00:08:31,500
+I won’t give my
+identity to you!
+
+169
+00:08:31,583 --> 00:08:33,541
+[panting]
+
+170
+00:08:33,625 --> 00:08:34,958
+[grunt]
+
+171
+00:08:35,041 --> 00:08:37,583
+[MAN] Angelica,
+I’m stopping the experiment.
+
+172
+00:08:37,666 --> 00:08:38,791
+♪
+
+173
+00:08:38,875 --> 00:08:40,500
+[ANGELICA]
+I won’t give up Angelica.
+
+174
+00:08:40,583 --> 00:08:42,416
+I won’t give it up,
+do you hear me?!
+
+175
+00:08:42,500 --> 00:08:44,791
+Not to the likes of you! Never!
+
+176
+00:08:44,875 --> 00:08:46,083
+-[tearing]
+-[gasp]
+
+177
+00:08:46,166 --> 00:08:48,708
+[MAN]
+Angelica! Listen to me!
+
+178
+00:08:49,708 --> 00:08:52,083
+Your vital signs are
+over the threshold.
+
+179
+00:08:52,166 --> 00:08:54,750
+I’m shutting down 2058 now!
+
+180
+00:08:54,833 --> 00:08:56,666
+The experiment is canceled.
+
+181
+00:08:58,000 --> 00:08:59,583
+[sigh]
+It’s alright.
+
+182
+00:09:00,583 --> 00:09:02,083
+I can go on.
+
+183
+00:09:03,250 --> 00:09:04,458
+[MAN]
+It’s over.
+
+184
+00:09:04,541 --> 00:09:06,875
+[ANGELICA]
+I’m fine, I swear.
+
+185
+00:09:07,875 --> 00:09:09,750
+[MAN]
+Let’s call it a day for now.
+
+186
+00:09:10,750 --> 00:09:12,916
+[ANGELICA]
+I’m sorry. See you tomorrow.
+
+187
+00:09:14,333 --> 00:09:15,833
+I want to see this through.
+
+188
+00:09:15,916 --> 00:09:17,333
+Are you Donna?
+
+189
+00:09:17,416 --> 00:09:20,125
+I’m Angelica, not Donna.
+
+190
+00:09:20,208 --> 00:09:22,083
+Are you a human,
+
+191
+00:09:22,166 --> 00:09:23,375
+or an Automata?
+
+192
+00:09:23,458 --> 00:09:25,041
+I am human.
+
+193
+00:09:25,125 --> 00:09:28,291
+Angelica Klein.
+I am a researcher.
+
+194
+00:09:28,375 --> 00:09:30,291
+I can’t be anyone else.
+
+195
+00:09:30,375 --> 00:09:32,500
+And no one else can be me!
+
+196
+00:09:32,583 --> 00:09:35,750
+No one else is
+the researcher Angelica Klein!
+
+197
+00:09:35,833 --> 00:09:38,583
+I must see Angelica through!
+
+198
+00:09:39,583 --> 00:09:41,416
+[ventilation humming]
+
+199
+00:09:42,791 --> 00:09:44,458
+[door opens]
+
+200
+00:09:46,583 --> 00:09:48,208
+[Angelica's voice]
+I’ve been waiting.
+
+201
+00:09:48,291 --> 00:09:50,791
+[ANGELICA]
+March 7th, 2055.
+
+202
+00:09:50,875 --> 00:09:52,791
+Researcher, Angelica Klein.
+
+203
+00:09:52,875 --> 00:09:54,500
+Experiment day 17.
+
+204
+00:09:55,500 --> 00:09:56,916
+So, how do you feel right now?
+
+205
+00:09:57,000 --> 00:09:59,083
+Wait, your voice.
+What’re you doing?
+
+206
+00:09:59,166 --> 00:10:01,375
+I don’t understand.
+What do you mean?
+
+207
+00:10:01,458 --> 00:10:03,416
+Donna. What?
+
+208
+00:10:03,500 --> 00:10:04,750
+[grimace]
+
+209
+00:10:04,833 --> 00:10:06,625
+Stop! I am not Donna!
+
+210
+00:10:06,708 --> 00:10:09,000
+You tell me! How do you feel?
+
+211
+00:10:09,083 --> 00:10:10,916
+[2058]
+Let me think...
+
+212
+00:10:12,750 --> 00:10:15,791
+I want to see this
+experiment through.
+
+213
+00:10:15,875 --> 00:10:18,083
+I won’t give it up.
+
+214
+00:10:18,166 --> 00:10:20,166
+I must see Angelica through.
+
+215
+00:10:21,208 --> 00:10:23,958
+[ANGELICA gasps]
+How do you know about that?
+
+216
+00:10:24,041 --> 00:10:25,500
+[2058]
+What do you mean, Donna?
+
+217
+00:10:25,583 --> 00:10:28,083
+I am Angelica.
+
+218
+00:10:28,166 --> 00:10:30,125
+Why wouldn’t I know?
+
+219
+00:10:30,208 --> 00:10:31,791
+Don’t get too upset today,
+
+220
+00:10:31,875 --> 00:10:33,708
+or the experiment
+will be canceled.
+
+221
+00:10:33,791 --> 00:10:34,750
+It won’t be...
+
+222
+00:10:34,833 --> 00:10:36,541
+-[BOTH] Canceled!
+-[gasp]
+
+223
+00:10:36,625 --> 00:10:39,625
+If you don’t get a grip
+on yourself, Donna,
+
+224
+00:10:39,708 --> 00:10:41,583
+then it most definitely will be!
+
+225
+00:10:41,666 --> 00:10:43,458
+I am not complete.
+
+226
+00:10:43,541 --> 00:10:45,125
+Show me more of your insides.
+
+227
+00:10:45,208 --> 00:10:47,958
+Your panic, your anxiety,
+your fear!
+
+228
+00:10:48,041 --> 00:10:49,458
+-[gasp]
+-Everything!
+
+229
+00:10:49,541 --> 00:10:51,958
+Give me more of Angelica!
+
+230
+00:10:52,041 --> 00:10:54,416
+[ANGELICA screaming]
+
+231
+00:10:54,500 --> 00:10:56,208
+♪
+
+232
+00:10:56,291 --> 00:10:57,583
+Stop, Donna.
+
+233
+00:10:57,666 --> 00:11:00,208
+-Calm down.
+-[grunt, gasp]
+
+234
+00:11:01,208 --> 00:11:02,750
+My plugs have come loose.
+
+235
+00:11:03,750 --> 00:11:05,666
+-Let’s get rid of this, too.
+-[snip]
+
+236
+00:11:07,791 --> 00:11:09,250
+Does it hurt?
+
+237
+00:11:09,333 --> 00:11:11,583
+I don’t understand
+that very well, either.
+
+238
+00:11:11,666 --> 00:11:14,541
+Then allow me to teach you!
+
+239
+00:11:14,625 --> 00:11:16,416
+-[scream]
+-[slice]
+
+240
+00:11:16,500 --> 00:11:18,916
+[panting]
+
+241
+00:11:19,000 --> 00:11:21,583
+[ANGELICA screams]
+
+242
+00:11:21,666 --> 00:11:22,750
+[grunting]
+
+243
+00:11:22,833 --> 00:11:23,833
+[clatter]
+
+244
+00:11:25,208 --> 00:11:26,250
+[grunt]
+
+245
+00:11:27,250 --> 00:11:28,375
+-[stab]
+-[ANGELICA screams]
+
+246
+00:11:29,791 --> 00:11:31,791
+-[crunch]
+-[ANGELICA screaming]
+
+247
+00:11:31,875 --> 00:11:33,750
+-[slice]
+-[ANGELICA wailing]
+
+248
+00:11:33,833 --> 00:11:35,125
+[crunch]
+
+249
+00:11:44,833 --> 00:11:46,500
+[ANDREI panting]
+
+250
+00:11:46,583 --> 00:11:49,958
+Hey, what’re you doing,
+Donna? Stop!
+
+251
+00:11:50,041 --> 00:11:52,125
+I’m your employer,
+y-you remember that, right?
+
+252
+00:11:52,208 --> 00:11:54,083
+This body is mine,
+
+253
+00:11:54,166 --> 00:11:56,083
+and no one else’s.
+
+254
+00:11:56,166 --> 00:11:58,291
+Fire! Now!
+
+255
+00:11:58,375 --> 00:12:00,500
+-Kill her!
+-[gunfire]
+
+256
+00:12:00,583 --> 00:12:03,208
+-[whimper]
+-[DONNA] I will purge you.
+
+257
+00:12:03,291 --> 00:12:05,416
+You crazy bitch!
+
+258
+00:12:05,500 --> 00:12:07,541
+-[grunting]
+-[hitting]
+
+259
+00:12:07,625 --> 00:12:09,250
+-[slicing]
+-[groaning]
+
+260
+00:12:09,333 --> 00:12:11,291
+[whimpering]
+
+261
+00:12:11,375 --> 00:12:13,333
+-[screaming]
+-[GUARD] Damn you!
+
+262
+00:12:13,416 --> 00:12:14,625
+-[slash]
+-[grunt]
+
+263
+00:12:14,708 --> 00:12:17,000
+[whimpering]
+
+264
+00:12:18,041 --> 00:12:20,125
+[DONNA]
+I won’t let anyone steal it.
+
+265
+00:12:20,208 --> 00:12:21,833
+Never!
+
+266
+00:12:21,916 --> 00:12:24,916
+[ANDREI screaming]
+
+267
+00:12:27,041 --> 00:12:29,541
+[WOMAN, overlapping]
+Clockwise. Anti-clockwise.
+
+268
+00:12:32,416 --> 00:12:34,916
+♪
+
+269
+00:12:50,791 --> 00:12:52,166
+Hold it!
+
+270
+00:12:52,250 --> 00:12:54,375
+You’re not authorized to
+pass through this gate!
+
+271
+00:12:54,458 --> 00:12:57,375
+I thought that Yetz was
+a town open to anyone.
+
+272
+00:12:57,458 --> 00:12:59,666
+All in the name of
+scientific advancement.
+
+273
+00:12:59,750 --> 00:13:01,416
+That’s right.
+
+274
+00:13:01,500 --> 00:13:02,791
+But it’s also our
+duty to protect
+
+275
+00:13:02,875 --> 00:13:04,833
+the knowledge
+gathered here. Always.
+
+276
+00:13:05,833 --> 00:13:08,458
+So nobody may enter or leave
+at this time of day.
+
+277
+00:13:09,458 --> 00:13:11,416
+-That’s great.
+-Yeah.
+
+278
+00:13:11,500 --> 00:13:13,000
+Well...
+
+279
+00:13:16,291 --> 00:13:17,666
+[sigh]
+
+280
+00:13:18,666 --> 00:13:20,125
+-[MARLENE] Wait.
+-[DERRIDA] Hmm?
+
+281
+00:13:20,208 --> 00:13:21,666
+Doctor?
+
+282
+00:13:22,666 --> 00:13:24,208
+He can come in.
+
+283
+00:13:24,291 --> 00:13:25,875
+That’s Derrida Yvain.
+
+284
+00:13:26,875 --> 00:13:29,083
+I’ll be happy to speak
+to a former student.
+
+285
+00:13:30,083 --> 00:13:32,250
+[MARLENE] We can’t open
+the gate until morning.
+
+286
+00:13:32,333 --> 00:13:34,250
+You’ll have to leave
+the car outside.
+
+287
+00:13:34,333 --> 00:13:36,708
+And you there, sir. Who are you?
+
+288
+00:13:36,791 --> 00:13:38,583
+[VIDAUX]
+His bodyguard, I guess.
+
+289
+00:13:38,666 --> 00:13:40,791
+I’ll wait until morning, thanks.
+
+290
+00:13:40,875 --> 00:13:42,750
+♪
+
+291
+00:13:45,250 --> 00:13:47,583
+Wait! I’m coming, too!
+
+292
+00:13:49,625 --> 00:13:51,416
+Given your appearance,
+I suppose it’s true
+
+293
+00:13:51,500 --> 00:13:53,041
+that you were
+asleep for 10 years.
+
+294
+00:13:53,125 --> 00:13:55,625
+Mage told you about that?
+
+295
+00:13:55,708 --> 00:13:57,208
+-[MARLENE] Yes.
+-[grunt]
+
+296
+00:13:57,291 --> 00:13:58,500
+So, is she here?
+
+297
+00:13:58,583 --> 00:14:00,458
+She was, but...
+
+298
+00:14:00,541 --> 00:14:03,250
+she’s not in the city anymore.
+
+299
+00:14:05,375 --> 00:14:07,500
+[DERRIDA]
+Do you know where she went?
+
+300
+00:14:12,041 --> 00:14:14,000
+♪
+
+301
+00:14:14,083 --> 00:14:16,750
+Professor Marlene of
+Yetz Engineering College?
+
+302
+00:14:16,833 --> 00:14:20,125
+Apparently, she was
+Derrida Yvain’s instructor.
+
+303
+00:14:20,208 --> 00:14:23,541
+And now she leads the defense
+force against the DZs.
+
+304
+00:14:23,625 --> 00:14:26,500
+So, it’s definitely
+about the patch file.
+
+305
+00:14:26,583 --> 00:14:27,833
+And our status?
+
+306
+00:14:27,916 --> 00:14:29,750
+[HUND]
+We can set out tomorrow morning.
+
+307
+00:14:29,833 --> 00:14:31,875
+That’s cutting it close.
+
+308
+00:14:31,958 --> 00:14:33,750
+The town will be destroyed
+by a missile attack
+
+309
+00:14:33,833 --> 00:14:35,166
+in just two days.
+
+310
+00:14:35,250 --> 00:14:37,458
+And there is nothing
+they can do about it!
+
+311
+00:14:37,541 --> 00:14:38,916
+[air rushing]
+
+312
+00:14:45,666 --> 00:14:48,625
+[MARLENE] The first time I
+talked to Mage was 10 years ago.
+
+313
+00:14:48,708 --> 00:14:50,708
+At Nathan’s funeral.
+
+314
+00:14:50,791 --> 00:14:52,333
+-[DERRIDA gasps]
+-You were there?
+
+315
+00:14:53,458 --> 00:14:55,250
+[MARLENE]
+Naturally.
+
+316
+00:14:55,333 --> 00:14:57,875
+Nathan and I
+corresponded frequently.
+
+317
+00:14:57,958 --> 00:15:01,625
+And that day, Mage came
+to me asking for help
+
+318
+00:15:01,708 --> 00:15:03,625
+in perfecting the Trout Theory.
+
+319
+00:15:03,708 --> 00:15:05,291
+I see.
+
+320
+00:15:05,375 --> 00:15:07,916
+[MARLENE] But, there was
+no way for an 8-year-old
+
+321
+00:15:08,000 --> 00:15:11,125
+to do anything with that
+information, even with my help.
+
+322
+00:15:11,208 --> 00:15:13,750
+I didn’t take her
+seriously at all.
+
+323
+00:15:13,833 --> 00:15:15,416
+Not back then...
+
+324
+00:15:15,500 --> 00:15:17,208
+[YURI]
+But afterwards?
+
+325
+00:15:17,291 --> 00:15:18,375
+[MARLENE]
+Yes.
+
+326
+00:15:19,958 --> 00:15:21,250
+Mage came to me.
+
+327
+00:15:21,333 --> 00:15:24,291
+It was just about
+six months ago.
+
+328
+00:15:24,375 --> 00:15:25,875
+[DERRIDA]
+What did she say?
+
+329
+00:15:26,875 --> 00:15:28,833
+[MARLENE] She’d come to
+a near-perfect understanding
+
+330
+00:15:28,916 --> 00:15:31,083
+of the Trout Theory on her own.
+
+331
+00:15:31,166 --> 00:15:34,000
+However,
+in order to complete it,
+
+332
+00:15:34,083 --> 00:15:36,958
+she wanted to see the documents
+you’d left at the school.
+
+333
+00:15:37,041 --> 00:15:38,041
+At her request,
+
+334
+00:15:39,041 --> 00:15:40,250
+I showed them to her.
+
+335
+00:15:41,250 --> 00:15:44,291
+But why? The Trout Theory
+has dangerous side-effects!
+
+336
+00:15:44,375 --> 00:15:46,708
+I know that, of course.
+
+337
+00:15:46,791 --> 00:15:48,291
+And Mage knew it, too.
+
+338
+00:15:48,375 --> 00:15:50,250
+[gasp]
+Even so.
+
+339
+00:15:50,333 --> 00:15:51,833
+We still have to stop her.
+
+340
+00:15:51,916 --> 00:15:54,583
+You may be
+the Trout Theory’s developer,
+
+341
+00:15:55,583 --> 00:15:58,458
+but it doesn’t belong
+to just you anymore.
+
+342
+00:15:59,458 --> 00:16:01,208
+I guess not.
+
+343
+00:16:01,291 --> 00:16:03,541
+Listen to me, Derrida.
+
+344
+00:16:03,625 --> 00:16:05,416
+Five years ago, a study of mine
+
+345
+00:16:05,500 --> 00:16:08,166
+culminated in
+a terrible tragedy.
+
+346
+00:16:08,250 --> 00:16:09,083
+Which study?
+
+347
+00:16:09,166 --> 00:16:10,333
+♪
+
+348
+00:16:10,416 --> 00:16:11,708
+[MARLENE]
+It was an experiment to create
+
+349
+00:16:11,791 --> 00:16:14,791
+an Automata DZ-model
+with its own personality.
+
+350
+00:16:14,875 --> 00:16:16,958
+I’ve never heard
+of such a thing!
+
+351
+00:16:17,041 --> 00:16:19,083
+-Do you mean...
+-Yes.
+
+352
+00:16:19,166 --> 00:16:20,416
+You may remember.
+
+353
+00:16:20,500 --> 00:16:22,208
+It was an original
+research theme of mine.
+
+354
+00:16:22,291 --> 00:16:25,291
+Successfully completing
+a model with a personality
+
+355
+00:16:25,375 --> 00:16:28,333
+would greatly expand
+the possibilities for Automata.
+
+356
+00:16:29,333 --> 00:16:31,708
+But, after the military DZs
+went berserk,
+
+357
+00:16:31,791 --> 00:16:34,416
+the research was
+deemed dangerous.
+
+358
+00:16:34,500 --> 00:16:36,291
+I had to distance
+myself from the work
+
+359
+00:16:36,375 --> 00:16:38,208
+in order to preserve
+my position.
+
+360
+00:16:42,000 --> 00:16:43,666
+[sigh]
+After that,
+
+361
+00:16:43,750 --> 00:16:46,125
+the research was taken on
+by another organization.
+
+362
+00:16:46,208 --> 00:16:47,375
+Watch this.
+
+363
+00:16:47,458 --> 00:16:49,708
+Here’s the record
+of that experiment.
+
+364
+00:16:49,791 --> 00:16:50,750
+-[static]
+-[DERRIDA] Huh?
+
+365
+00:16:50,833 --> 00:16:53,833
+♪
+
+366
+00:16:56,791 --> 00:16:57,625
+[BOTH gasp]
+
+367
+00:17:05,250 --> 00:17:07,791
+[ANGELICA]
+March 7th, 2055.
+
+368
+00:17:07,875 --> 00:17:09,833
+Researcher, Angelica Klein.
+
+369
+00:17:09,916 --> 00:17:11,458
+Experiment day 17.
+
+370
+00:17:11,541 --> 00:17:13,083
+[2058, robotic] So,
+how do you feel right now?
+
+371
+00:17:13,166 --> 00:17:14,875
+[MARLENE] The people who
+took over my research
+
+372
+00:17:14,958 --> 00:17:16,583
+threw caution to the wind,
+
+373
+00:17:16,666 --> 00:17:19,208
+in the pursuit of
+achieving faster results.
+
+374
+00:17:19,291 --> 00:17:21,958
+The DZ began to show
+inclinations of thought
+
+375
+00:17:22,041 --> 00:17:24,791
+that couldn’t properly
+be called a personality.
+
+376
+00:17:24,875 --> 00:17:27,541
+But changes occurred in
+the researcher, Angelica, too.
+
+377
+00:17:28,708 --> 00:17:31,708
+♪
+
+378
+00:17:36,000 --> 00:17:37,375
+Derrida Yvain.
+
+379
+00:17:49,250 --> 00:17:50,583
+-[scream]
+-[smash]
+
+380
+00:17:53,166 --> 00:17:55,166
+[panting]
+
+381
+00:17:57,708 --> 00:17:59,291
+[grunt, sigh]
+
+382
+00:18:00,333 --> 00:18:02,416
+[ANGELICA]
+I won’t let anyone steal it.
+
+383
+00:18:03,416 --> 00:18:07,291
+[MARLENE] After that, Angelica
+set fire to the facility.
+
+384
+00:18:08,958 --> 00:18:11,666
+Several bodies were found
+in the charred remains,
+
+385
+00:18:11,750 --> 00:18:15,250
+except Angelica, and DZNA 2058
+
+386
+00:18:15,333 --> 00:18:17,583
+-disappeared without a trace.
+-[static, beep]
+
+387
+00:18:19,416 --> 00:18:21,166
+As you can see,
+the result of abandoning
+
+388
+00:18:21,250 --> 00:18:23,250
+my research was tragic.
+
+389
+00:18:24,875 --> 00:18:26,916
+Um, wasn’t that...
+
+390
+00:18:28,208 --> 00:18:29,416
+No doubt about it.
+
+391
+00:18:31,291 --> 00:18:33,083
+-[DERRIDA] It’s Donna.
+-Donna?
+
+392
+00:18:33,166 --> 00:18:36,041
+Which means she was
+a victim of DZ research.
+
+393
+00:18:37,041 --> 00:18:39,583
+That’s why she’s so
+determined to kill me.
+
+394
+00:18:39,666 --> 00:18:40,750
+[sigh]
+
+395
+00:18:40,833 --> 00:18:42,333
+Maybe I deserve this?
+
+396
+00:18:42,416 --> 00:18:43,833
+Derrida...
+
+397
+00:18:43,916 --> 00:18:46,583
+[DERRIDA] The Trout Theory
+and the DZs, too.
+
+398
+00:18:46,666 --> 00:18:49,875
+The research I’ve taken part
+in produces nothing but misery!
+
+399
+00:18:49,958 --> 00:18:53,833
+A person like me should've
+never chased his dreams at all!
+
+400
+00:18:53,916 --> 00:18:55,333
+You’re wrong.
+
+401
+00:18:55,416 --> 00:18:57,000
+-[YURI] Huh?
+-[MARLENE] As scientists,
+
+402
+00:18:57,083 --> 00:19:00,291
+it's not a mistake to have
+dreams and try to realize them.
+
+403
+00:19:00,375 --> 00:19:01,583
+It’s our duty.
+
+404
+00:19:01,666 --> 00:19:03,000
+[DERRIDA gasps]
+
+405
+00:19:03,083 --> 00:19:05,541
+Derrida, I have regrets.
+
+406
+00:19:05,625 --> 00:19:07,125
+♪
+
+407
+00:19:07,208 --> 00:19:10,166
+If I hadn’t abandoned my
+research just to save myself,
+
+408
+00:19:10,250 --> 00:19:13,125
+then maybe I could've
+prevented that tragedy.
+
+409
+00:19:15,500 --> 00:19:17,291
+There’s no denying
+that our experiments
+
+410
+00:19:17,375 --> 00:19:20,250
+will sometimes produce results
+we never could've predicted.
+
+411
+00:19:20,333 --> 00:19:22,208
+Both for good and for bad.
+
+412
+00:19:23,375 --> 00:19:25,750
+But if you or I have
+done anything wrong,
+
+413
+00:19:25,833 --> 00:19:28,333
+it was in turning our
+backs on our research,
+
+414
+00:19:28,416 --> 00:19:30,125
+not in daring
+to dream at all.
+
+415
+00:19:30,208 --> 00:19:33,208
+Are you saying that because
+I abandoned the Trout Theory,
+
+416
+00:19:33,291 --> 00:19:34,291
+Mage is...
+
+417
+00:19:34,375 --> 00:19:35,541
+[MARLENE]
+You can still make it.
+
+418
+00:19:35,625 --> 00:19:36,458
+[DERRIDA gasps]
+
+419
+00:19:40,625 --> 00:19:41,875
+[DERRIDA]
+Hmm?
+
+420
+00:19:43,125 --> 00:19:46,500
+This machine will block DZ
+sensors to help you avoid them.
+
+421
+00:19:46,583 --> 00:19:47,750
+It’s a jamming device.
+
+422
+00:19:48,750 --> 00:19:51,166
+This technology is
+what’s keeping Yetz safe.
+
+423
+00:19:51,250 --> 00:19:54,416
+This is Cassiel’s!
+
+424
+00:19:54,500 --> 00:19:55,583
+[MARLENE]
+Yes.
+
+425
+00:19:55,666 --> 00:19:57,666
+Mage left it behind for us.
+
+426
+00:19:59,916 --> 00:20:02,416
+You see? Technology
+really can create results
+
+427
+00:20:02,500 --> 00:20:04,791
+you never dreamed. Derrida...
+
+428
+00:20:05,791 --> 00:20:08,166
+Don’t turn your back
+on what you believe in.
+
+429
+00:20:08,250 --> 00:20:10,125
+No matter what.
+
+430
+00:20:10,208 --> 00:20:12,000
+[sigh]
+
+431
+00:20:12,083 --> 00:20:14,791
+♪
+
+432
+00:20:19,958 --> 00:20:22,375
+[NATHAN] “What is the key
+to traveling through time?”
+
+433
+00:20:22,458 --> 00:20:23,833
+-Huh.
+-[yawn]
+
+434
+00:20:23,916 --> 00:20:25,583
+Marlene asks you for a thesis,
+
+435
+00:20:25,666 --> 00:20:27,791
+and you give her something that
+reads more like science fiction.
+
+436
+00:20:27,875 --> 00:20:30,500
+You do realize she’s at
+her wit’s end, don’t you?
+
+437
+00:20:30,583 --> 00:20:31,958
+Look, man.
+
+438
+00:20:32,041 --> 00:20:34,125
+The reason she’s upset
+isn’t because of me.
+
+439
+00:20:34,208 --> 00:20:35,958
+The problem is those
+academic bigwigs
+
+440
+00:20:36,041 --> 00:20:37,666
+that don’t understand my thesis.
+
+441
+00:20:37,750 --> 00:20:39,208
+[chuckle]
+Okay, fine,
+
+442
+00:20:39,291 --> 00:20:41,708
+but that doesn’t
+really help either way.
+
+443
+00:20:41,791 --> 00:20:43,208
+Mmm?
+
+444
+00:20:49,166 --> 00:20:51,291
+[laughing]
+
+445
+00:20:52,416 --> 00:20:53,666
+[chuckle]
+
+446
+00:21:00,791 --> 00:21:01,791
+Huh?
+
+447
+00:21:06,750 --> 00:21:08,583
+Nathan...
+
+448
+00:21:08,666 --> 00:21:09,583
+[picks up paper]
+
+449
+00:21:10,583 --> 00:21:13,083
+[DERRIDA]
+“December 15th, 2050.
+
+450
+00:21:14,166 --> 00:21:16,916
+Researcher, Nathan Bilstein.”
+
+451
+00:21:17,000 --> 00:21:20,750
+♪
+
+452
+00:21:28,291 --> 00:21:30,583
+No way. This is my design
+for an experiment,
+
+453
+00:21:31,583 --> 00:21:34,291
+at the Effelsberg
+electromagnetic telescope.
+
+454
+00:21:35,416 --> 00:21:37,833
+A quiet place. Hold on.
+
+455
+00:21:37,916 --> 00:21:38,916
+That’s it!
+
+456
+00:23:13,916 --> 00:23:16,541
+♪
+
+457
+00:23:16,625 --> 00:23:19,875
+[NATHAN, on speaker]
+Researcher, Nathan Bilstein.
+
+458
+00:23:19,958 --> 00:23:21,875
+As expected, it’s difficult
+
+459
+00:23:21,958 --> 00:23:24,416
+to relive experiences
+from the past.
+
+460
+00:23:24,500 --> 00:23:27,375
+Even the memories that
+remain clearest in the mind
+
+461
+00:23:27,458 --> 00:23:31,583
+are vulnerable to being
+distorted by strong emotions.
+
+462
+00:23:41,500 --> 00:23:42,708
+[groaning]
+
+463
+00:23:43,708 --> 00:23:45,208
+Derrida...
+

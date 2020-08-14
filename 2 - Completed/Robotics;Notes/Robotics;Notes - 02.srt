@@ -1,0 +1,1944 @@
+﻿1
+00:00:18,083 --> 00:00:19,916
+Whoa! How much?!
+
+2
+00:00:20,000 --> 00:00:21,208
+Man, those don't come cheap.
+
+3
+00:00:21,291 --> 00:00:23,375
+Even the less expensive models.
+
+4
+00:00:23,458 --> 00:00:24,958
+It'd cost a lot
+less just to get the parts
+
+5
+00:00:25,041 --> 00:00:26,833
+and assemble it myself,
+but with two weeks,
+
+6
+00:00:26,916 --> 00:00:28,000
+we don't have time for that.
+
+7
+00:00:28,916 --> 00:00:29,916
+Even with an advance on
+
+8
+00:00:30,000 --> 00:00:32,083
+my allowance,
+I can't afford these!
+
+9
+00:00:32,166 --> 00:00:34,875
+Well, then, I guess
+that only leaves one option.
+
+10
+00:00:34,958 --> 00:00:36,916
+Yeah? What's that?
+
+11
+00:00:37,000 --> 00:00:40,083
+Forget about
+entering ROBO-ONE altogether.
+
+12
+00:00:42,458 --> 00:00:43,291
+You jerk!
+
+13
+00:00:43,375 --> 00:00:44,541
+Come on!
+
+14
+00:00:44,625 --> 00:00:45,666
+Not while I'm eating!
+
+15
+00:00:45,750 --> 00:00:46,916
+How can you even think of
+
+16
+00:00:47,000 --> 00:00:48,583
+admitting defeat so quickly?!
+
+17
+00:00:48,666 --> 00:00:50,333
+We hafta fight
+for all we're worth!
+
+18
+00:00:50,416 --> 00:00:51,375
+What's the point?
+
+19
+00:00:51,458 --> 00:00:52,750
+The tournament's
+just two weeks away!
+
+20
+00:00:52,833 --> 00:00:53,875
+And besides, I don't see how
+
+21
+00:00:53,958 --> 00:00:55,166
+we're gonna take
+first place when
+
+22
+00:00:55,250 --> 00:00:57,250
+we don't even have
+a robot to enter.
+
+23
+00:00:57,333 --> 00:00:58,375
+That's it!
+
+24
+00:00:58,458 --> 00:00:59,791
+What is?
+
+25
+00:00:59,875 --> 00:01:01,958
+We do have a hobby
+robot to work with!
+
+26
+00:01:02,041 --> 00:01:02,666
+Where?
+
+27
+00:01:02,750 --> 00:01:03,958
+In the club room!
+
+28
+00:01:04,041 --> 00:01:06,041
+The Robot Research
+Club's "Honorary Chief"!
+
+29
+00:01:08,958 --> 00:01:11,208
+The Tanegashi Machine!
+
+30
+00:02:47,333 --> 00:02:49,458
+Come on! Work!
+
+31
+00:02:49,791 --> 00:02:51,875
+That thing's what,
+eight years old now?
+
+32
+00:02:51,958 --> 00:02:53,291
+Of course it isn't gonna work.
+
+33
+00:02:53,375 --> 00:02:56,708
+Genki's bravery gave
+GUNVARREL strength, remember?
+
+34
+00:02:56,791 --> 00:02:58,416
+You can do it! I know you can!
+
+35
+00:02:58,500 --> 00:02:59,750
+Work, GUNVARREL!
+
+36
+00:03:03,291 --> 00:03:06,708
+The most likely problem
+is that the battery's dead.
+
+37
+00:03:06,791 --> 00:03:08,291
+And we don't have a charger.
+
+38
+00:03:08,375 --> 00:03:09,625
+So buy a new one, right?
+
+39
+00:03:09,708 --> 00:03:11,750
+They probably cost a lot.
+
+40
+00:03:15,208 --> 00:03:17,250
+You sure you wanna
+dismantle it like that?
+
+41
+00:03:17,333 --> 00:03:19,833
+It's fine, I'm just
+taking out the screws.
+
+42
+00:03:20,291 --> 00:03:21,500
+Hey, would you do me a favor and
+
+43
+00:03:21,583 --> 00:03:23,333
+go find a servo
+test board for me
+
+44
+00:03:23,416 --> 00:03:24,458
+in the storeroom next door?
+
+45
+00:03:26,416 --> 00:03:27,416
+No problem.
+
+46
+00:03:27,500 --> 00:03:28,625
+Right after you
+beat me at KILL-BALLAD.
+
+47
+00:03:28,708 --> 00:03:31,500
+Come on, Kai.
+I'm not asking much.
+
+48
+00:03:31,583 --> 00:03:32,875
+Go see the storeroom
+and then tell me
+
+49
+00:03:32,958 --> 00:03:34,958
+if you're not asking much.
+
+50
+00:03:36,291 --> 00:03:37,083
+Lazy!
+
+51
+00:03:42,916 --> 00:03:45,791
+Okay, I'll take care
+of finding a test board.
+
+52
+00:03:45,875 --> 00:03:49,291
+And all you have to
+do is be the operator.
+
+53
+00:03:49,375 --> 00:03:50,791
+The operator, huh?
+
+54
+00:03:50,875 --> 00:03:53,208
+The one who's in charge of
+Tanegashi Machine's controls.
+
+55
+00:03:53,291 --> 00:03:55,416
+I just figure since you're
+always playing KILL-BALLAD,
+
+56
+00:03:55,500 --> 00:03:56,708
+you've gotta be
+way more used to
+
+57
+00:03:56,791 --> 00:03:58,000
+that kinda thing than me.
+
+58
+00:03:59,000 --> 00:04:00,916
+I'd rather play KB.
+
+59
+00:04:02,208 --> 00:04:03,583
+What if I rig up
+a cannon for it?
+
+60
+00:04:03,666 --> 00:04:06,791
+That'd be cool.
+Would you operate it then?
+
+61
+00:04:07,250 --> 00:04:08,708
+Why would you want
+to add a cannon?
+
+62
+00:04:08,791 --> 00:04:10,083
+Just for decoration.
+
+63
+00:04:10,166 --> 00:04:11,416
+A good appearance is vital
+
+64
+00:04:11,500 --> 00:04:13,583
+for maintaining
+positive club morale!
+
+65
+00:04:13,666 --> 00:04:15,500
+I'd love to give it
+super-special attacks
+
+66
+00:04:15,583 --> 00:04:17,958
+and the ability to transform!
+
+67
+00:04:19,708 --> 00:04:21,125
+Hey, Aki.
+
+68
+00:04:21,208 --> 00:04:22,375
+What's up?
+
+69
+00:04:22,458 --> 00:04:23,416
+What's more important?
+
+70
+00:04:23,500 --> 00:04:26,000
+The appearance or the results?
+
+71
+00:04:27,625 --> 00:04:29,041
+The results.
+
+72
+00:04:29,125 --> 00:04:30,125
+Yes. Good girl.
+
+73
+00:04:32,041 --> 00:04:34,583
+Okaaay! I get it already!
+
+74
+00:04:39,541 --> 00:04:41,541
+I think we can set
+all the little stuff aside,
+
+75
+00:04:41,625 --> 00:04:42,583
+at least for the moment.
+
+76
+00:04:43,041 --> 00:04:45,000
+The main issue
+is the power supply,
+
+77
+00:04:45,083 --> 00:04:47,375
+and we can't just switch
+to a different power source.
+
+78
+00:04:48,500 --> 00:04:49,708
+What're you gonna do?
+
+79
+00:04:49,791 --> 00:04:51,291
+That's simple!
+
+80
+00:04:56,166 --> 00:04:58,166
+I'm going to negotiate!
+
+81
+00:05:06,708 --> 00:05:09,333
+Hi! Is anybody home?!
+
+82
+00:05:09,416 --> 00:05:10,083
+Doc!
+
+83
+00:05:10,166 --> 00:05:10,833
+Hey!
+
+84
+00:05:13,083 --> 00:05:16,208
+The music! It's really loud!
+
+85
+00:05:18,208 --> 00:05:20,208
+Can you turn down the music?!
+
+86
+00:05:20,291 --> 00:05:22,208
+It's bad enough that
+you're old and deaf!
+
+87
+00:05:22,291 --> 00:05:23,500
+Do you have to--
+
+88
+00:05:27,500 --> 00:05:29,375
+Hey there, Doc.
+How're you doing?
+
+89
+00:05:29,458 --> 00:05:32,166
+I already gave you some parts
+the other day, little girlie.
+
+90
+00:05:32,250 --> 00:05:35,291
+I got nothin' else to
+sell ya. What about you, boy?
+
+91
+00:05:35,375 --> 00:05:36,791
+Too good to say hello?
+
+92
+00:05:37,166 --> 00:05:39,208
+Oh. It's good to see you again.
+
+93
+00:05:39,291 --> 00:05:41,250
+Anyway, we didn't
+come down here today
+
+94
+00:05:41,333 --> 00:05:45,833
+to get parts for GunBuild-1.
+We're here about this.
+
+95
+00:05:48,000 --> 00:05:50,250
+Oh? ROBO-ONE, again, huh?
+
+96
+00:05:50,333 --> 00:05:51,666
+I can tell ya right now,
+there's no way
+
+97
+00:05:51,750 --> 00:05:53,750
+to get a hold of
+somethin' this old anymore.
+
+98
+00:05:53,833 --> 00:05:55,041
+Oh, really?
+
+99
+00:05:55,125 --> 00:05:57,083
+You gotta go with a
+different manufacturer.
+
+100
+00:05:57,541 --> 00:05:59,708
+How's an Ogawada
+S-Plug sound to ya?
+
+101
+00:05:59,791 --> 00:06:02,541
+Well, uh, how much are those?
+
+102
+00:06:02,916 --> 00:06:04,291
+A little over eight thousand.
+
+103
+00:06:04,375 --> 00:06:07,000
+No deal! That's way too much!
+
+104
+00:06:07,083 --> 00:06:08,958
+That's knocking off
+shipping for you!
+
+105
+00:06:09,041 --> 00:06:10,208
+You and your damn club.
+
+106
+00:06:10,291 --> 00:06:13,541
+Hey, there's no reason
+to get nasty about it!
+
+107
+00:06:13,625 --> 00:06:15,125
+All right, little girlie.
+
+108
+00:06:15,208 --> 00:06:16,708
+Are there any
+other parts you need?
+
+109
+00:06:16,791 --> 00:06:17,875
+I'll think
+about lowering the price
+
+110
+00:06:17,958 --> 00:06:19,791
+<i>if</i> you make a big purchase.
+
+111
+00:06:19,875 --> 00:06:21,250
+Really, you will?!
+
+112
+00:06:21,333 --> 00:06:22,791
+In that case,
+I'd like a three hundred
+
+113
+00:06:22,875 --> 00:06:24,250
+and sixty-degree camera!
+
+114
+00:06:24,333 --> 00:06:27,958
+You idiot. A camera
+isn't even a good decoration.
+
+115
+00:06:28,041 --> 00:06:30,375
+"I'll be frank, here.
+I don't like it one bit."
+
+116
+00:06:30,458 --> 00:06:34,541
+Right. For ROBO-ONE,
+you'll want a gyro.
+
+117
+00:06:34,625 --> 00:06:36,000
+Including the other thing,
+
+118
+00:06:36,083 --> 00:06:37,666
+I can do twelve thousand.
+
+119
+00:06:38,875 --> 00:06:41,416
+Or maybe you could
+make it ten, instead?
+
+120
+00:06:41,500 --> 00:06:43,166
+This is pointless. Deal's off.
+
+121
+00:06:43,250 --> 00:06:45,333
+Please, I don't have any money!
+
+122
+00:06:45,416 --> 00:06:47,541
+I'm just a poor
+little high school student!
+
+123
+00:06:47,625 --> 00:06:49,291
+That's it! How 'bout
+a student discount?!
+
+124
+00:06:49,375 --> 00:06:50,791
+Forget about it!
+
+125
+00:06:50,875 --> 00:06:52,666
+I got a livin'
+to make here, ya know!
+
+126
+00:06:52,750 --> 00:06:54,291
+You don't like it,
+you can leave!
+
+127
+00:06:58,500 --> 00:07:00,125
+Well, do you have a plan B?
+
+128
+00:07:00,208 --> 00:07:01,708
+He made it pretty
+clear you won't be getting
+
+129
+00:07:01,791 --> 00:07:04,208
+any parts from him unless
+you can come up with the money.
+
+130
+00:07:05,458 --> 00:07:06,666
+What about you?
+
+131
+00:07:06,750 --> 00:07:08,666
+Maybe you can get an
+advance on your allowance.
+
+132
+00:07:09,291 --> 00:07:11,250
+No problem, just beat me at KB.
+
+133
+00:07:11,333 --> 00:07:13,583
+You can be a real
+pain sometimes, you know?
+
+134
+00:07:16,708 --> 00:07:18,208
+Preparing for ROBO-ONE?
+
+135
+00:07:18,291 --> 00:07:20,375
+Everyone at school's
+been talking about it.
+
+136
+00:07:20,458 --> 00:07:22,541
+About how slim
+your chances are.
+
+137
+00:07:22,625 --> 00:07:24,708
+Let 'em talk!
+It's worth the risk.
+
+138
+00:07:24,791 --> 00:07:27,083
+If we do win, we get
+a ton of money for the club!
+
+139
+00:07:27,166 --> 00:07:29,458
+That's sweet, but it's
+never going to happen.
+
+140
+00:07:29,541 --> 00:07:31,375
+The ROBO-ONE
+tournament is prestigious.
+
+141
+00:07:31,458 --> 00:07:32,500
+Third-rate amateurs entering
+
+142
+00:07:32,583 --> 00:07:34,708
+at the last
+minute is, well, rude.
+
+143
+00:07:35,458 --> 00:07:37,833
+This is the stuff
+that legends are made of!
+
+144
+00:07:37,916 --> 00:07:40,500
+It all began when I sought
+the help of Subaru Hidaka,
+
+145
+00:07:40,583 --> 00:07:42,416
+who took third place at
+ROBO-ONE in junior high--
+
+146
+00:07:42,500 --> 00:07:44,000
+I won't join your club.
+
+147
+00:07:44,791 --> 00:07:47,041
+Rejected once again!
+
+148
+00:07:47,125 --> 00:07:48,833
+Why are you
+doing this, Yashio?
+
+149
+00:07:48,916 --> 00:07:51,083
+You know her club is
+nothing but a waste of time.
+
+150
+00:07:51,166 --> 00:07:53,125
+Yeah, I guess you're
+right but the club room
+
+151
+00:07:53,208 --> 00:07:56,458
+is the perfect environment
+for playing KILL-BALLAD, so--
+
+152
+00:07:56,541 --> 00:07:58,250
+What?!
+That's why you're a member?
+
+153
+00:07:58,333 --> 00:08:00,833
+Interesting.
+I see that your reputation
+
+154
+00:08:00,916 --> 00:08:03,666
+as a pair of weirdos
+is well deserved, indeed.
+
+155
+00:08:03,750 --> 00:08:04,541
+Goodbye.
+
+156
+00:08:05,083 --> 00:08:06,541
+Hold on. You're leaving?
+
+157
+00:08:06,625 --> 00:08:08,333
+What did you
+come here for, anyway?
+
+158
+00:08:09,958 --> 00:08:12,666
+No reason. I was
+just passing by, that's all.
+
+159
+00:08:12,750 --> 00:08:15,583
+I hope you enjoy the final
+days of the Robot Research Club.
+
+160
+00:08:17,666 --> 00:08:18,666
+You jerk!
+
+161
+00:08:18,750 --> 00:08:20,791
+You can't just
+say that and drive off!
+
+162
+00:08:21,250 --> 00:08:24,291
+Well, jerk or not, he kinda
+does have a point, you know?
+
+163
+00:08:24,375 --> 00:08:25,541
+I mean, spin it
+however you want,
+
+164
+00:08:25,625 --> 00:08:27,166
+but there's
+no way we're gonna win.
+
+165
+00:08:27,250 --> 00:08:28,250
+How can you say that?
+
+166
+00:08:28,333 --> 00:08:30,125
+What'll happen to GunBuild-1?
+
+167
+00:08:30,208 --> 00:08:33,250
+There's no reason you can't
+keep working on it on your own.
+
+168
+00:08:38,541 --> 00:08:40,625
+That's true, I can,
+but I wanted it
+
+169
+00:08:40,708 --> 00:08:43,291
+to be something
+the club did, you know?
+
+170
+00:08:43,375 --> 00:08:45,416
+After all, it was my
+sister who founded this club
+
+171
+00:08:45,500 --> 00:08:47,833
+and began work on GunBuild-1
+in the first place.
+
+172
+00:08:49,041 --> 00:08:51,041
+It should be the
+club that finishes it.
+
+173
+00:08:51,125 --> 00:08:53,666
+We'll fight! We just have to!
+
+174
+00:08:53,750 --> 00:08:57,125
+Robots exist because
+of dreams, hopes, and passion!
+
+175
+00:08:58,916 --> 00:09:01,291
+Ah, man. What's her deal?
+
+176
+00:09:01,375 --> 00:09:03,250
+And she calls me
+a pain in the neck.
+
+177
+00:09:04,333 --> 00:09:07,166
+You will look out
+for Aki for me, won't you?
+
+178
+00:09:11,416 --> 00:09:12,958
+Thanks for coming in.
+
+179
+00:09:16,375 --> 00:09:18,083
+Oh, it's just you again.
+
+180
+00:09:20,000 --> 00:09:21,708
+I'd like a Passion Fruit Bun.
+
+181
+00:09:22,750 --> 00:09:24,166
+You got it.
+
+182
+00:09:30,375 --> 00:09:31,541
+All in one go.
+
+183
+00:09:31,625 --> 00:09:32,583
+I can do this!
+
+184
+00:09:34,125 --> 00:09:35,208
+Mercy!
+
+185
+00:09:35,291 --> 00:09:37,166
+The lukewarm dough
+conceals a sickly sweet
+
+186
+00:09:37,250 --> 00:09:39,916
+and sour filling that
+explodes after one bite
+
+187
+00:09:40,000 --> 00:09:42,166
+and violently
+assaults the mouth.
+
+188
+00:09:42,250 --> 00:09:44,583
+Passion fruit is
+delicious on its own,
+
+189
+00:09:44,666 --> 00:09:47,083
+but preparing it like this.
+
+190
+00:09:47,166 --> 00:09:48,916
+It's an invention of the devil,
+
+191
+00:09:49,000 --> 00:09:51,125
+from the very pits of hell!
+
+192
+00:09:57,750 --> 00:09:58,916
+There!
+
+193
+00:09:59,708 --> 00:10:00,833
+All right, then.
+
+194
+00:10:00,916 --> 00:10:03,291
+We have reached
+a Passion Accord agreement,
+
+195
+00:10:03,375 --> 00:10:04,666
+but can't you at
+least pretend like
+
+196
+00:10:04,750 --> 00:10:06,125
+you enjoy them
+a little bit?
+
+197
+00:10:06,500 --> 00:10:07,458
+No way.
+
+198
+00:10:07,541 --> 00:10:08,875
+Just keeping 'em
+down is hard enough.
+
+199
+00:10:08,958 --> 00:10:10,000
+Well, whatever.
+
+200
+00:10:10,375 --> 00:10:12,333
+The Accord
+still stands, anyway.
+
+201
+00:10:12,416 --> 00:10:14,791
+You can ask me one
+thing you want to know.
+
+202
+00:10:15,125 --> 00:10:17,291
+I wanna know more about Doc.
+
+203
+00:10:17,375 --> 00:10:19,750
+Doc? The crotchety
+old robot man?
+
+204
+00:10:19,833 --> 00:10:22,333
+Yeah, I was wondering
+if he has any weaknesses.
+
+205
+00:10:22,416 --> 00:10:25,291
+Something that'll make him lower
+his prices, no questions asked.
+
+206
+00:10:27,125 --> 00:10:28,583
+You're gonna
+blackmail the geezer
+
+207
+00:10:28,666 --> 00:10:31,625
+into giving you
+a discount? That's hilarious!
+
+208
+00:10:31,708 --> 00:10:34,166
+Sure, no problem,
+I'll see what I can find.
+
+209
+00:10:34,250 --> 00:10:37,375
+I appreciate it.
+Well, I'll see ya.
+
+210
+00:10:38,333 --> 00:10:39,875
+I've noticed the favors you ask
+
+211
+00:10:39,958 --> 00:10:42,791
+always have
+something to do with Aki.
+
+212
+00:10:43,333 --> 00:10:46,250
+I'm curious. What are you
+to that girl anyway?
+
+213
+00:10:46,333 --> 00:10:48,041
+Dunno. A replacement for
+
+214
+00:10:48,125 --> 00:10:51,875
+her big sister, Misa, maybe?
+Now that she's not around.
+
+215
+00:10:57,166 --> 00:11:00,375
+He's a good kid.
+Aki's lucky to have him.
+
+216
+00:11:00,458 --> 00:11:02,083
+So's Misa, for that matter.
+
+217
+00:11:23,541 --> 00:11:24,666
+Daitoku?
+
+218
+00:11:24,750 --> 00:11:26,458
+In the class
+next door. You know,
+
+219
+00:11:26,541 --> 00:11:28,833
+that quiet girl
+who's in the Karate club.
+
+220
+00:11:28,916 --> 00:11:32,125
+Wait, I'm confused.
+Isn't Doc's family name Fujita?
+
+221
+00:11:32,208 --> 00:11:33,583
+She may have a different name,
+
+222
+00:11:33,666 --> 00:11:35,875
+but apparently
+she's Doc's granddaughter.
+
+223
+00:11:35,958 --> 00:11:37,208
+Granddaughter, huh?
+
+224
+00:11:37,291 --> 00:11:40,666
+If she'll ask him for us,
+maybe we'll get lucky!
+
+225
+00:11:42,958 --> 00:11:45,833
+Normal people sit
+down to eat, you know.
+
+226
+00:11:47,666 --> 00:11:50,000
+Okay! You said she's
+in Class 1, right?
+
+227
+00:11:56,000 --> 00:11:58,208
+Thanks for the information.
+It should help.
+
+228
+00:11:58,291 --> 00:11:59,916
+Stop by if you need anything.
+
+229
+00:12:00,375 --> 00:12:03,708
+I have plenty of passion fruit
+buns just waiting to be eaten.
+
+230
+00:12:05,416 --> 00:12:06,500
+Oh, one more thing.
+
+231
+00:12:06,583 --> 00:12:09,333
+I know. I won't
+tell Aki about it.
+
+232
+00:12:09,416 --> 00:12:11,541
+All right. My work
+here is done.
+
+233
+00:12:12,791 --> 00:12:14,041
+Hey, Daitoku!
+
+234
+00:12:17,750 --> 00:12:19,791
+Huh? My grandfather?
+
+235
+00:12:19,875 --> 00:12:21,541
+I'm sorry to ask
+for something like this,
+
+236
+00:12:21,625 --> 00:12:23,416
+but I don't know
+what else to do.
+
+237
+00:12:23,500 --> 00:12:24,750
+Our club will get shut down
+
+238
+00:12:24,833 --> 00:12:27,291
+unless I can get all
+the parts we need from Doc!
+
+239
+00:12:27,375 --> 00:12:29,083
+Pretty please!
+
+240
+00:12:30,166 --> 00:12:32,583
+I'm sorry, but I can't.
+
+241
+00:12:32,666 --> 00:12:33,416
+Huh?
+
+242
+00:12:33,500 --> 00:12:35,250
+It's just that, well I mean,
+
+243
+00:12:35,333 --> 00:12:37,000
+I haven't even
+seen Grandpa Fujita
+
+244
+00:12:37,083 --> 00:12:40,166
+in years so, you know.
+It would be weird.
+
+245
+00:12:40,250 --> 00:12:42,291
+Oh, really? But--
+
+246
+00:12:46,458 --> 00:12:48,541
+I'm sorry. Oh,
+forget about it.
+
+247
+00:12:48,625 --> 00:12:50,750
+I was just hoping
+for a teensy little discount,
+
+248
+00:12:50,833 --> 00:12:52,291
+but it's no big deal.
+
+249
+00:12:52,375 --> 00:12:53,333
+I can't help.
+
+250
+00:12:56,625 --> 00:12:58,583
+Hey, you know,
+I've been trying to come up
+
+251
+00:12:58,666 --> 00:13:01,166
+with some special attack
+techniques for the club robot.
+
+252
+00:13:01,250 --> 00:13:03,541
+Do you know any
+good karate moves?
+
+253
+00:13:03,625 --> 00:13:05,416
+Something you use
+to level an opponent.
+
+254
+00:13:05,500 --> 00:13:08,250
+I dunno, maybe a move that
+you're especially good at doing?
+
+255
+00:13:08,333 --> 00:13:09,750
+A move I'm good at doing?
+
+256
+00:13:09,833 --> 00:13:10,791
+Yeah!
+
+257
+00:13:11,416 --> 00:13:13,375
+There are none. Sorry.
+
+258
+00:13:13,458 --> 00:13:15,833
+What? So not a single one, huh?
+
+259
+00:13:15,916 --> 00:13:19,375
+Well, what about a kata? You
+must be good at one of those.
+
+260
+00:13:19,458 --> 00:13:22,875
+Let me see. I'm okay at the
+"Suparinpei" kata, I guess.
+
+261
+00:13:22,958 --> 00:13:24,666
+Whoa! That sounds awesome!
+
+262
+00:13:24,750 --> 00:13:26,375
+How does it go?
+Will you tell me?
+
+263
+00:13:26,458 --> 00:13:27,750
+Oh, but it's
+probably more involved
+
+264
+00:13:27,833 --> 00:13:29,041
+than what you're looking for,
+
+265
+00:13:29,125 --> 00:13:31,458
+and I'm not really
+all that good at it, anyway.
+
+266
+00:13:31,541 --> 00:13:33,000
+If all you want
+is to knock someone down,
+
+267
+00:13:33,083 --> 00:13:34,333
+maybe a front kick?
+
+268
+00:13:34,416 --> 00:13:37,208
+A front kick?
+How does it work?
+
+269
+00:13:37,291 --> 00:13:39,708
+Oh, well, you go like this.
+
+270
+00:13:39,791 --> 00:13:44,833
+Oh! You raise your leg up
+like this, and then you just-
+
+271
+00:13:46,875 --> 00:13:47,958
+Hey, are you okay?
+
+272
+00:13:48,041 --> 00:13:51,708
+Ow ow ow ow ow.
+That's perfect!
+
+273
+00:13:51,791 --> 00:13:54,666
+A robot can totally
+do that! Here, watch me.
+
+274
+00:13:54,750 --> 00:13:55,875
+Like this, and this!
+
+275
+00:13:55,958 --> 00:13:59,000
+That's good, um,
+but I should tell you.
+
+276
+00:13:59,083 --> 00:14:00,416
+Your panties are showing!
+
+277
+00:14:00,500 --> 00:14:01,666
+Huh?
+
+278
+00:14:09,708 --> 00:14:10,666
+Here you go.
+
+279
+00:14:10,750 --> 00:14:13,000
+One battery,
+complete with charger.
+
+280
+00:14:13,083 --> 00:14:15,875
+Oooh! Sooooo shiny!
+
+281
+00:14:15,958 --> 00:14:18,333
+Hope yer happy!
+I rushed to get 'em for ya,
+
+282
+00:14:18,416 --> 00:14:20,708
+then I don't hear
+anything for a whole week!
+
+283
+00:14:21,625 --> 00:14:24,000
+That isn't
+my fault. I was busy.
+
+284
+00:14:24,083 --> 00:14:26,208
+My mom spent the whole
+week lecturing me.
+
+285
+00:14:27,583 --> 00:14:28,708
+The cash?
+
+286
+00:14:33,125 --> 00:14:34,750
+Hey. Hey, let go already!
+
+287
+00:14:34,833 --> 00:14:37,791
+Come on! You can knock
+off a little bit, can't you?
+
+288
+00:14:37,875 --> 00:14:39,208
+You little thief.
+
+289
+00:14:43,833 --> 00:14:45,291
+Take your goods.
+
+290
+00:14:45,750 --> 00:14:47,500
+You money-grubbing geezer!
+
+291
+00:14:47,583 --> 00:14:49,791
+Like I said before,
+I got a living to make.
+
+292
+00:14:49,875 --> 00:14:51,333
+I also ordered you a gyro
+
+293
+00:14:51,416 --> 00:14:53,708
+and some other parts
+I thought you'd need.
+
+294
+00:14:53,791 --> 00:14:55,083
+If you're really
+serious about winning,
+
+295
+00:14:55,166 --> 00:14:56,375
+you should take all of it.
+
+296
+00:14:57,625 --> 00:14:58,166
+Oh-ho!
+
+297
+00:14:59,625 --> 00:15:01,458
+That'll be 15,000 total.
+
+298
+00:15:03,083 --> 00:15:06,375
+Look, I can't pay you,
+but I'll do whatever you want!
+
+299
+00:15:06,458 --> 00:15:09,500
+That does exclude anything
+painful or perverted, though.
+
+300
+00:15:09,583 --> 00:15:11,750
+Like anyone would bother
+with an infant like you.
+
+301
+00:15:11,833 --> 00:15:13,833
+What are those,
+raisins on your chest?
+
+302
+00:15:13,916 --> 00:15:16,583
+Watch it, old man!
+I could sue you for that!
+
+303
+00:15:16,666 --> 00:15:19,500
+We'll pay you when we get
+the ROBO-ONE prize money.
+
+304
+00:15:20,500 --> 00:15:22,208
+Should be plenty
+for those parts.
+
+305
+00:15:22,291 --> 00:15:23,500
+Does that work for you?
+
+306
+00:15:24,500 --> 00:15:28,250
+Wow, Kai. I didn't
+think you knew how to be cool.
+
+307
+00:15:28,333 --> 00:15:30,750
+So, what do you say, Doc?
+Do we have a deal?
+
+308
+00:15:31,250 --> 00:15:33,750
+You kids have
+no respect these days.
+
+309
+00:15:35,375 --> 00:15:38,750
+Even so. You guys rock.
+
+310
+00:15:39,708 --> 00:15:42,416
+Aki started working
+like crazy after that.
+
+311
+00:15:42,500 --> 00:15:44,666
+Sometimes she'd do
+research on her own,
+
+312
+00:15:44,750 --> 00:15:46,583
+other times
+she'd ask Doc for help.
+
+313
+00:15:47,958 --> 00:15:50,833
+She spent every second
+assembling Tanegashi Machine,
+
+314
+00:15:50,916 --> 00:15:52,125
+barely even sleeping.
+
+315
+00:15:52,791 --> 00:15:55,750
+She worked so hard
+I started to worry.
+
+316
+00:16:08,541 --> 00:16:09,791
+'Kay, I'm here.
+
+317
+00:16:09,875 --> 00:16:10,958
+You're late.
+
+318
+00:16:11,041 --> 00:16:12,333
+You dragged me
+out of a warm bed
+
+319
+00:16:12,416 --> 00:16:16,333
+on a Sunday morning to
+help you. I'd say I'm early.
+
+320
+00:16:20,250 --> 00:16:21,791
+Is that the
+finished product, then?
+
+321
+00:16:21,875 --> 00:16:27,375
+Yep! Behold! The rebirth
+of Tanegashi Machine!
+
+322
+00:16:27,458 --> 00:16:30,583
+I call it
+Tanegashi Machine Advance!
+
+323
+00:16:30,666 --> 00:16:32,500
+Looks like you
+found all the screws.
+
+324
+00:16:32,583 --> 00:16:35,625
+That's the first thing
+you say? Yes, don't worry.
+
+325
+00:16:35,708 --> 00:16:38,666
+I got Doc to order the
+necessary replacements for me.
+
+326
+00:16:39,500 --> 00:16:41,708
+Ah, so some really
+did go missing, huh?
+
+327
+00:16:41,791 --> 00:16:44,250
+Look, all that matters
+now is that it's finished.
+
+328
+00:16:44,333 --> 00:16:47,625
+So, are you ready? It's time
+to test the competitor.
+
+329
+00:16:54,541 --> 00:16:55,958
+Now that is pretty cool.
+
+330
+00:16:56,041 --> 00:16:57,958
+Isn't it? I made it so
+that when it's turned on,
+
+331
+00:16:58,041 --> 00:17:00,791
+all its servo-motors
+reset to their home position.
+
+332
+00:17:00,875 --> 00:17:01,750
+Wow.
+
+333
+00:17:01,833 --> 00:17:03,083
+Okay! It's time to show off
+
+334
+00:17:03,166 --> 00:17:05,750
+what it's really
+capable of! There!
+
+335
+00:17:08,708 --> 00:17:12,625
+Well, no, that's not it.
+Let's see. Oh, urgh-
+
+336
+00:17:15,333 --> 00:17:16,375
+What's the problem?
+
+337
+00:17:19,166 --> 00:17:21,291
+Whoa. That's a lot
+of switches.
+
+338
+00:17:21,375 --> 00:17:23,375
+I didn't know
+it was so complicated.
+
+339
+00:17:23,458 --> 00:17:24,541
+Can you do this?
+
+340
+00:17:26,166 --> 00:17:28,416
+I hear it was too complicated
+for most people back then, too.
+
+341
+00:17:29,166 --> 00:17:31,041
+In fact, my sister
+was the only one
+
+342
+00:17:31,125 --> 00:17:33,250
+who ever
+managed to master it.
+
+343
+00:17:33,333 --> 00:17:36,500
+But once she had, she beat
+one opponent after another!
+
+344
+00:17:37,458 --> 00:17:39,000
+It was nearly
+impossible back then,
+
+345
+00:17:39,083 --> 00:17:41,916
+and now you're gonna try to
+get it down in just one week?
+
+346
+00:17:42,000 --> 00:17:43,250
+Well, yeah.
+
+347
+00:17:44,708 --> 00:17:48,000
+"I can see the enemy waiting.
+It's as clear as day!"
+
+348
+00:17:48,083 --> 00:17:49,708
+There's no way.
+
+349
+00:17:49,791 --> 00:17:51,333
+Why don't you help
+me instead of giving up
+
+350
+00:17:51,416 --> 00:17:53,166
+like a stupid, stupid coward!
+
+351
+00:17:55,375 --> 00:17:56,583
+Man down.
+
+352
+00:17:56,666 --> 00:17:59,083
+There! That's perfect.
+Now watch this!
+
+353
+00:18:04,041 --> 00:18:05,208
+Whoa.
+
+354
+00:18:05,291 --> 00:18:07,333
+Cool, huh? It's called
+
+355
+00:18:07,416 --> 00:18:10,166
+Killer Technique:
+Tanegashi Accel Impact!
+
+356
+00:18:10,250 --> 00:18:11,375
+You ripped that off.
+
+357
+00:18:13,041 --> 00:18:13,958
+It got brakes?
+
+358
+00:18:14,041 --> 00:18:16,333
+Sure doesn't.
+Go after it, Kai!
+
+359
+00:18:16,416 --> 00:18:17,750
+Huh?!
+
+360
+00:18:25,000 --> 00:18:27,125
+Aw, man. No use.
+
+361
+00:18:27,208 --> 00:18:29,750
+Maybe it's time
+to give in and call it a day.
+
+362
+00:18:31,833 --> 00:18:33,875
+Hey. I really think
+you should be the one
+
+363
+00:18:33,958 --> 00:18:35,583
+to operate it
+at the tournament.
+
+364
+00:18:35,666 --> 00:18:37,583
+Won't make any
+difference who operates it.
+
+365
+00:18:37,666 --> 00:18:39,458
+The thing's
+way too complicated.
+
+366
+00:18:39,541 --> 00:18:41,166
+But you've got quick fingers.
+
+367
+00:18:41,250 --> 00:18:43,125
+You're about
+as fast as my sister.
+
+368
+00:18:43,208 --> 00:18:45,083
+Just because I'm good
+at KILL-BALLAD, doesn't--
+
+369
+00:18:56,208 --> 00:18:57,583
+Wake up, Aki.
+
+370
+00:18:59,125 --> 00:19:00,500
+Oh, whoops. Sorry.
+
+371
+00:19:02,666 --> 00:19:04,291
+You feeling okay?
+
+372
+00:19:04,375 --> 00:19:07,125
+Yeah, I'm fine. Hey.
+
+373
+00:19:07,208 --> 00:19:09,291
+You aren't fine though,
+are you?
+
+374
+00:19:10,458 --> 00:19:12,958
+Sorry. It's happening.
+
+375
+00:19:15,625 --> 00:19:17,541
+What should we do?
+Wanna leave?
+
+376
+00:19:17,958 --> 00:19:20,875
+No. Here is okay.
+
+377
+00:19:25,166 --> 00:19:26,750
+The "Elephant-Mouse Syndrome."
+
+378
+00:19:29,375 --> 00:19:31,708
+It's like pressing
+fast-forward.
+
+379
+00:19:32,583 --> 00:19:34,791
+Whenever Aki has an attack,
+she experiences
+
+380
+00:19:34,875 --> 00:19:37,875
+five minutes worth of
+time in just one second.
+
+381
+00:19:40,416 --> 00:19:43,166
+It first started
+happening after the accident.
+
+382
+00:19:43,625 --> 00:19:44,916
+Nine years ago.
+
+383
+00:19:51,541 --> 00:19:54,375
+Kai. Kai.
+
+384
+00:19:56,583 --> 00:19:58,375
+Hey!
+
+385
+00:19:58,833 --> 00:19:59,750
+Is it over?
+
+386
+00:19:59,833 --> 00:20:00,958
+Yeah.
+
+387
+00:20:01,041 --> 00:20:02,625
+I'll call your mom
+and let her know.
+
+388
+00:20:02,708 --> 00:20:04,333
+This happens
+when you're exhausted.
+
+389
+00:20:04,416 --> 00:20:07,708
+You need to learn not to push
+yourself so hard... Got it?
+
+390
+00:20:08,125 --> 00:20:09,458
+Yeah, yeah.
+
+391
+00:20:09,541 --> 00:20:12,833
+You just had an attack,
+you don't get to be defensive.
+
+392
+00:20:13,625 --> 00:20:16,750
+So, Kai. What'd ya say?
+
+393
+00:20:16,833 --> 00:20:19,041
+Will you please
+take over as the operator?
+
+394
+00:20:21,583 --> 00:20:24,250
+Without me having
+to beat you at KB?
+
+395
+00:20:26,166 --> 00:20:28,208
+Man, you don't play fair.
+
+396
+00:20:29,291 --> 00:20:30,583
+Fine. I'll do it.
+
+397
+00:20:30,666 --> 00:20:32,375
+Huh? Really?!
+
+398
+00:20:32,458 --> 00:20:34,833
+Yeah, really. But only if
+you'll change the controller
+
+399
+00:20:34,916 --> 00:20:36,708
+to be more like KILL-BALLAD.
+
+400
+00:20:36,791 --> 00:20:39,583
+Is that possible?
+I don't see how.
+
+401
+00:20:40,500 --> 00:20:42,291
+I think we can do
+it. I know somebody
+
+402
+00:20:42,375 --> 00:20:43,916
+who might be able to help.
+
+403
+00:20:45,958 --> 00:20:47,500
+FRAUKOUJIRO?
+
+404
+00:20:47,583 --> 00:20:50,125
+He's the creator
+of KILL-BALLAD, remember?
+
+405
+00:20:50,208 --> 00:20:51,666
+Which means he
+should have access to
+
+406
+00:20:51,750 --> 00:20:53,708
+all of the game's
+programming code.
+
+407
+00:20:53,791 --> 00:20:56,750
+There's no harm in asking him
+about it, don't you think?
+
+408
+00:20:56,833 --> 00:20:58,958
+No, none at all!
+
+409
+00:20:59,041 --> 00:21:01,583
+All right!
+Now I'm really fired up!
+
+410
+00:21:01,666 --> 00:21:04,083
+Whoa. Take it easy.
+You're still exhausted.
+
+411
+00:21:04,166 --> 00:21:06,791
+I'm fine!
+We have no time to waste!
+
+412
+00:21:06,875 --> 00:21:08,750
+Contact him immediately!
+
+413
+00:21:08,833 --> 00:21:10,541
+Okay, okay.
+
+414
+00:22:57,708 --> 00:22:59,625
+Aki and Kai head
+to Tokyo to compete
+
+415
+00:22:59,708 --> 00:23:01,458
+in the ROBO-ONE tournament.
+
+416
+00:23:01,541 --> 00:23:03,333
+Their destination
+is a large arena
+
+417
+00:23:03,416 --> 00:23:04,750
+in the metropolis of Odaiba,
+
+418
+00:23:04,833 --> 00:23:07,041
+filled with fierce competitors
+from around the country.
+
+419
+00:23:07,125 --> 00:23:09,625
+Bearing the legacy of
+Misaki, a former champion,
+
+420
+00:23:09,708 --> 00:23:11,125
+the two enter
+the ring to represent
+
+421
+00:23:11,208 --> 00:23:12,875
+Chuo Tanegashima High School.
+
+422
+00:23:12,958 --> 00:23:16,208
+At stake is their right to
+continue the GunBuild-1 Project,
+
+423
+00:23:16,291 --> 00:23:17,750
+but when the Pleiades shine,
+
+424
+00:23:17,833 --> 00:23:19,541
+something inside Kai
+will be set off!
+
+425
+00:23:21,000 --> 00:23:22,666
+Episode 3!
+
+426
+00:23:22,750 --> 00:23:24,500
+Let's hit it off, everybody!
+
+427
+00:23:24,583 --> 00:23:25,625
+Later days!
+

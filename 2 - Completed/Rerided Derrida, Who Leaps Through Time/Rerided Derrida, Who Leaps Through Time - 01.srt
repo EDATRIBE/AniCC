@@ -1,0 +1,2041 @@
+﻿1
+00:00:09,375 --> 00:00:13,208
+[clock ticking]
+
+2
+00:00:13,291 --> 00:00:14,833
+[WOMAN]
+Mage?
+
+3
+00:00:16,208 --> 00:00:17,916
+[WOMAN]
+Mage?
+
+4
+00:00:19,125 --> 00:00:20,875
+[door opening]
+
+5
+00:00:35,500 --> 00:00:37,625
+[WOMAN]
+Did you have a bad dream?
+
+6
+00:00:41,333 --> 00:00:44,666
+I'm sorry, I...
+I didn't mean to doze off.
+
+7
+00:00:44,750 --> 00:00:46,083
+[WOMAN]
+It's all right.
+
+8
+00:00:46,166 --> 00:00:48,416
+But look, isn't it time
+for your appointment?
+
+9
+00:00:49,375 --> 00:00:51,291
+Yes, it sure is.
+
+10
+00:00:52,250 --> 00:00:55,083
+[WOMAN] You should hurry.
+He'll be waiting for you.
+
+11
+00:00:56,041 --> 00:00:57,958
+Oh, don't worry.
+
+12
+00:00:58,041 --> 00:01:00,041
+He always comes late, anyway!
+
+13
+00:01:07,291 --> 00:01:09,166
+[gasps]
+
+14
+00:01:13,833 --> 00:01:15,708
+[ticking]
+
+15
+00:01:15,791 --> 00:01:17,625
+[DERRIDA]
+I'm going home.
+
+16
+00:01:17,708 --> 00:01:20,791
+To the place and the time...
+
+17
+00:01:20,875 --> 00:01:23,583
+...that saw this disaster
+set into motion.
+
+18
+00:01:23,666 --> 00:01:26,250
+[ticking]
+
+19
+00:01:44,833 --> 00:01:46,333
+[MALE NEWSCASTER]
+With the issue still unresolved,
+
+20
+00:01:46,416 --> 00:01:48,125
+the government has
+declared another meeting
+
+21
+00:01:48,208 --> 00:01:51,125
+to be held tomorrow at the
+emergency operations center
+
+22
+00:01:51,208 --> 00:01:52,583
+to discuss whether, on the basis
+
+23
+00:01:52,666 --> 00:01:54,333
+of the countries'
+alliance agreement,
+
+24
+00:01:54,416 --> 00:01:57,083
+it should send
+emergency aid and relief.
+
+25
+00:01:59,041 --> 00:02:01,208
+[FEMALE ANNOUNCER]
+Welcome to a reinvented world.
+
+26
+00:02:01,291 --> 00:02:03,500
+--Serving--
+--[DERRIDA] Erase.
+
+27
+00:02:03,583 --> 00:02:05,333
+Status on my appointment
+with Jacques Yvain?
+
+28
+00:02:05,416 --> 00:02:07,166
+[FEMALE ANNOUNCER]
+No reply has been received.
+
+29
+00:02:07,250 --> 00:02:09,750
+[DERRIDA growls]
+Of course it hasn't.
+
+30
+00:02:18,166 --> 00:02:20,041
+[MAN A]
+Derrida! Morning.
+
+31
+00:02:20,125 --> 00:02:21,666
+Hey.
+
+32
+00:02:31,041 --> 00:02:32,875
+[DERRIDA]
+Morning, Nathan!
+
+33
+00:02:32,958 --> 00:02:35,208
+Remind me, what kind of
+flower does Mage like again?
+
+34
+00:02:35,291 --> 00:02:37,541
+Come on. Tuberoses.
+
+35
+00:02:37,625 --> 00:02:39,333
+[DERRIDA]
+Right, I knew that.
+
+36
+00:02:39,416 --> 00:02:43,416
+Anyway, when does her
+birthday party start tonight?
+
+37
+00:02:43,500 --> 00:02:45,375
+Derrida, today.
+
+38
+00:02:45,458 --> 00:02:48,250
+You're going to talk
+to your father, right?
+
+39
+00:02:49,916 --> 00:02:51,083
+[ANDREI]
+There's no way.
+
+40
+00:02:51,166 --> 00:02:52,958
+It's the truth, Andrei!
+
+41
+00:02:53,041 --> 00:02:54,791
+We found an incredibly
+dangerous bug
+
+42
+00:02:54,875 --> 00:02:57,000
+in the DZ's
+underlying programming.
+
+43
+00:02:57,083 --> 00:02:59,958
+Go back 10 minutes
+and delete the recording.
+
+44
+00:03:00,041 --> 00:03:01,833
+Now get out of here.
+
+45
+00:03:04,416 --> 00:03:06,500
+[ANDREI]
+We have a duty here at Rebuild.
+
+46
+00:03:06,583 --> 00:03:07,750
+In the seven years since
+
+47
+00:03:07,833 --> 00:03:09,458
+the first Automata
+went on the market,
+
+48
+00:03:09,541 --> 00:03:11,583
+human society has
+come to rely heavily
+
+49
+00:03:11,666 --> 00:03:14,916
+on the autonomous robots
+that our company provides.
+
+50
+00:03:15,000 --> 00:03:17,708
+And we've had almost
+zero recalls in that time.
+
+51
+00:03:17,791 --> 00:03:20,833
+The DZ is on a totally different
+level than previous models.
+
+52
+00:03:20,916 --> 00:03:22,583
+I'm sure you saw
+the simulation data
+
+53
+00:03:22,666 --> 00:03:24,708
+that we attached
+to our report, sir.
+
+54
+00:03:24,791 --> 00:03:26,208
+I don't recall.
+
+55
+00:03:26,291 --> 00:03:28,666
+I never bother reading reports
+with imprecise data.
+
+56
+00:03:28,750 --> 00:03:30,875
+Look. If enough DZs,
+like tens of thousands,
+
+57
+00:03:30,958 --> 00:03:33,041
+were given a joint
+mission simultaneously,
+
+58
+00:03:33,125 --> 00:03:34,625
+there's a chance
+that they'd go haywire
+
+59
+00:03:34,708 --> 00:03:38,333
+and become uncontrollable!
+We just can't ignore this!
+
+60
+00:03:38,416 --> 00:03:40,333
+[ANDREI]
+Tens of thousands of DZs
+
+61
+00:03:40,416 --> 00:03:42,791
+all getting the same order
+at the same time?
+
+62
+00:03:42,875 --> 00:03:45,166
+Don't you find that
+highly improbable?
+
+63
+00:03:45,250 --> 00:03:47,375
+[DERRIDA]
+Not in combat.
+
+64
+00:03:47,458 --> 00:03:48,916
+If they're intended
+for the front lines,
+
+65
+00:03:49,000 --> 00:03:50,000
+like I've heard they are, then--
+
+66
+00:03:50,083 --> 00:03:52,166
+[ANDREI]
+You shut your mouth right now!
+
+67
+00:03:52,250 --> 00:03:53,791
+We can fix this!
+
+68
+00:03:53,875 --> 00:03:56,000
+We're developing
+a corrected program!
+
+69
+00:03:56,083 --> 00:03:58,000
+If we can have them recalled,
+
+70
+00:03:58,083 --> 00:04:00,791
+and just get them patched,
+we can avoid any further--
+
+71
+00:04:00,875 --> 00:04:02,166
+Enough!
+
+72
+00:04:02,250 --> 00:04:04,625
+Do you even understand what
+you're suggesting here?
+
+73
+00:04:04,708 --> 00:04:06,208
+[ANDREI sighs]
+Derrida...
+
+74
+00:04:06,291 --> 00:04:10,000
+Everything we've been building
+culminates with the DZ.
+
+75
+00:04:10,083 --> 00:04:13,166
+Your father devoted half
+his life to this project.
+
+76
+00:04:13,250 --> 00:04:14,666
+But, maybe that's it.
+
+77
+00:04:14,750 --> 00:04:17,125
+Maybe you want to
+tarnish his legacy
+
+78
+00:04:17,208 --> 00:04:19,625
+by publicizing this minor flaw.
+
+79
+00:04:19,708 --> 00:04:21,541
+--[DERRIDA] That's not why...
+--[ANDREI] I've heard whispers
+
+80
+00:04:21,625 --> 00:04:23,375
+you're jealous of
+Jacques's accomplishments,
+
+81
+00:04:23,458 --> 00:04:25,833
+and you're plotting sabotage.
+
+82
+00:04:25,916 --> 00:04:27,541
+I didn't want to
+believe them, of course--
+
+83
+00:04:27,625 --> 00:04:29,708
+Please, sir. That isn't
+our goal here!
+
+84
+00:04:29,791 --> 00:04:32,250
+We're trying to eliminate
+a dangerous risk!
+
+85
+00:04:32,333 --> 00:04:35,333
+No! I won't allow a recall.
+
+86
+00:04:37,416 --> 00:04:38,458
+[growls]
+
+87
+00:04:38,541 --> 00:04:39,375
+[NATHAN]
+The executives don't understand
+
+88
+00:04:39,458 --> 00:04:41,250
+how serious this bug is.
+
+89
+00:04:41,333 --> 00:04:44,416
+We need to petition your father
+to halt production of the DZs
+
+90
+00:04:44,500 --> 00:04:46,333
+until the patch is complete.
+
+91
+00:04:46,416 --> 00:04:48,458
+It's the only way to
+mitigate this issue
+
+92
+00:04:48,541 --> 00:04:50,541
+before we have a real problem.
+
+93
+00:04:50,625 --> 00:04:52,041
+You know that!
+
+94
+00:04:52,125 --> 00:04:54,416
+[DERRIDA]
+Yes, I do.
+
+95
+00:04:54,500 --> 00:04:57,208
+I'll talk to him in person
+tomorrow, I promise.
+
+96
+00:04:57,291 --> 00:04:58,291
+Not now?
+
+97
+00:04:58,375 --> 00:05:00,541
+Hey, it's Mage's birthday today!
+
+98
+00:05:00,625 --> 00:05:02,000
+I can't be late to the party
+
+99
+00:05:02,083 --> 00:05:04,000
+because I'm waiting for
+confirmation on a meeting
+
+100
+00:05:04,083 --> 00:05:06,708
+I might not even get to have.
+
+101
+00:05:30,375 --> 00:05:31,333
+[MAGE]
+Coming!
+
+102
+00:05:31,416 --> 00:05:32,458
+[DERRIDA]
+Please miss!
+
+103
+00:05:32,541 --> 00:05:34,416
+I've been lost in
+the snow for hours!
+
+104
+00:05:34,500 --> 00:05:37,583
+Do you know where a sweet
+girl named Mage lives?
+
+105
+00:05:37,666 --> 00:05:39,625
+You made it! Come in!
+
+106
+00:05:39,708 --> 00:05:42,708
+[MAGE, DERRIDA laugh]
+
+107
+00:05:45,041 --> 00:05:47,333
+[MAGE giggles]
+
+108
+00:05:47,416 --> 00:05:50,625
+[MAGE] Isn't it wonderful?
+It all looks so delicious!
+
+109
+00:05:50,708 --> 00:05:52,958
+[DERRIDA] I see Mrs. Hudson
+got dressed up today, too.
+
+110
+00:05:53,041 --> 00:05:55,083
+She sure did 'cause
+it's my special day!
+
+111
+00:05:55,166 --> 00:05:56,458
+Be careful not to
+get in her way.
+
+112
+00:05:56,541 --> 00:05:58,250
+You'll spill something
+on your pretty dress.
+
+113
+00:05:58,333 --> 00:06:00,708
+[MAGE]
+It'll be fine, Dad!
+
+114
+00:06:00,791 --> 00:06:03,333
+Yeah, let her do
+what she wants, Dad.
+
+115
+00:06:03,416 --> 00:06:04,791
+And take a look
+at what I've got...
+
+116
+00:06:04,875 --> 00:06:06,416
+...for you.
+
+117
+00:06:07,625 --> 00:06:10,666
+[MAGE gasps]
+Tuberoses?!
+
+118
+00:06:10,750 --> 00:06:12,125
+How'd you get these?!
+
+119
+00:06:12,208 --> 00:06:14,041
+--Thank you!
+--[DERRIDA laughs]
+
+120
+00:06:14,125 --> 00:06:15,333
+[DERRIDA] I knew that
+they were your favorite,
+
+121
+00:06:15,416 --> 00:06:17,708
+and I definitely didn't
+ask your father at all.
+
+122
+00:06:17,791 --> 00:06:18,916
+Trust me on that.
+
+123
+00:06:19,000 --> 00:06:20,458
+And this one is from me.
+
+124
+00:06:20,541 --> 00:06:22,250
+[MAGE gasps]
+Can I open it now?
+
+125
+00:06:22,333 --> 00:06:24,333
+[NATHAN]
+Mmm.
+
+126
+00:06:24,416 --> 00:06:28,083
+[MAGE gasps]
+Pretty!
+
+127
+00:06:28,166 --> 00:06:30,000
+I love it! Thanks, Daddy!
+
+128
+00:06:30,083 --> 00:06:31,416
+[doorbell ringing]
+
+129
+00:06:31,500 --> 00:06:34,291
+Yuri's here! Finally!
+
+130
+00:06:36,291 --> 00:06:37,791
+Hello there, birthday girl!
+
+131
+00:06:37,875 --> 00:06:39,916
+--[camera snaps]
+--Say, "cheese!"
+
+132
+00:06:40,000 --> 00:06:43,250
+[MAGE] I told you! Warn me
+before you take my picture!
+
+133
+00:06:43,333 --> 00:06:45,208
+Come inside before
+the snow gets in!
+
+134
+00:06:45,291 --> 00:06:46,541
+Hurry, hurry!
+
+135
+00:06:53,250 --> 00:06:55,208
+[MAGE inhales, exhales]
+
+136
+00:06:55,291 --> 00:06:56,416
+--[YURI] Yay!
+--[DERRIDA] Happy birthday!
+
+137
+00:06:56,500 --> 00:06:58,666
+[NATHAN] Happy birthday!
+
+138
+00:06:58,750 --> 00:07:00,875
+Six, seven, eight.
+
+139
+00:07:00,958 --> 00:07:02,875
+No fair, you got ahead of me!
+
+140
+00:07:02,958 --> 00:07:05,250
+Aw! You'll catch up,
+don't worry.
+
+141
+00:07:05,333 --> 00:07:06,375
+[YURI]
+Yeah, but till then,
+
+142
+00:07:06,458 --> 00:07:08,291
+it'll be like you're
+my big sister!
+
+143
+00:07:08,375 --> 00:07:09,583
+Big sister?
+
+144
+00:07:09,666 --> 00:07:10,791
+Yeah!
+
+145
+00:07:10,875 --> 00:07:12,750
+All right, Big Sis,
+I've got a song for you!
+
+146
+00:07:12,833 --> 00:07:14,041
+Ready?
+
+147
+00:07:14,125 --> 00:07:15,291
+[NATHAN]
+Uh-huh.
+
+148
+00:07:15,375 --> 00:07:16,583
+What song?
+
+149
+00:07:16,666 --> 00:07:17,416
+Here's a hint!
+
+150
+00:07:17,500 --> 00:07:19,625
+It's one of your favorites!
+
+151
+00:07:20,333 --> 00:07:22,000
+[click]
+
+152
+00:07:25,750 --> 00:07:30,708
+[piano music]
+
+153
+00:07:36,875 --> 00:07:38,125
+[inhales]
+
+154
+00:07:38,208 --> 00:07:41,041
+[YURI and SINGER]
+♪ There is a colorful path ♪
+
+155
+00:07:41,125 --> 00:07:45,875
+♪ Which has happened ♪
+
+156
+00:07:45,958 --> 00:07:49,791
+♪ Vividness through
+all the motions ♪
+
+157
+00:07:49,875 --> 00:07:54,666
+♪ colors accentuate identity ♪
+
+158
+00:07:54,750 --> 00:07:59,583
+♪ Time goes by ♪
+
+159
+00:08:01,750 --> 00:08:03,666
+[clapping]
+
+160
+00:08:03,750 --> 00:08:05,708
+[laughs]
+
+161
+00:08:05,791 --> 00:08:07,625
+[MAGE gasps]
+
+162
+00:08:07,708 --> 00:08:10,166
+--[NEWSCASTER softly speaks]
+--[YURI] More please!
+
+163
+00:08:10,250 --> 00:08:11,916
+[MRS. HUDSON]
+Yes, miss.
+
+164
+00:08:12,000 --> 00:08:13,708
+[DERRIDA]
+Hm? Hold on.
+
+165
+00:08:13,791 --> 00:08:15,625
+We don't have
+a fish pie this year?
+
+166
+00:08:15,708 --> 00:08:18,875
+No. Couldn't get my hands
+on one, unfortunately.
+
+167
+00:08:18,958 --> 00:08:22,000
+[MAGE]
+It's because of... the war.
+
+168
+00:08:22,083 --> 00:08:26,000
+[NEWSCASTER] However, things now
+appear to be reversing course.
+
+169
+00:08:26,083 --> 00:08:27,458
+Late last night, the fighting
+
+170
+00:08:27,541 --> 00:08:30,416
+seemed to have
+escalated once more.
+
+171
+00:08:30,500 --> 00:08:32,000
+According to reports at the--
+
+172
+00:08:32,083 --> 00:08:33,083
+Erase!
+
+173
+00:08:33,166 --> 00:08:34,208
+That's enough.
+
+174
+00:08:34,291 --> 00:08:37,208
+No sad news allowed today.
+
+175
+00:08:37,291 --> 00:08:38,666
+[NATHAN]
+Hmm.
+
+176
+00:08:40,916 --> 00:08:42,541
+Just for a little longer.
+
+177
+00:08:42,625 --> 00:08:45,791
+Soon, everything will
+go back to normal.
+
+178
+00:08:45,875 --> 00:08:47,916
+I hope so.
+
+179
+00:08:48,000 --> 00:08:48,791
+[click]
+
+180
+00:08:48,875 --> 00:08:50,166
+[YURI]
+This is a stick-up!
+
+181
+00:08:50,250 --> 00:08:51,833
+Ah!
+
+182
+00:08:51,916 --> 00:08:52,416
+Huh?
+
+183
+00:08:52,500 --> 00:08:53,166
+Ha!
+
+184
+00:08:53,250 --> 00:08:53,791
+[YURI giggles]
+
+185
+00:08:53,875 --> 00:08:55,166
+I got you!
+
+186
+00:08:55,250 --> 00:08:57,125
+[DERRIDA]
+H-Hey! Get back here!
+
+187
+00:08:57,208 --> 00:08:58,625
+[BOTH laughing]
+
+188
+00:08:58,708 --> 00:09:00,958
+--[YURI] The perfect crime!
+--[DERRIDA] You little brat!
+
+189
+00:09:01,041 --> 00:09:03,208
+Your frowny face is
+so funny, Derrida!
+
+190
+00:09:03,291 --> 00:09:05,625
+Ah... You'll pay for that!
+
+191
+00:09:05,708 --> 00:09:07,625
+--[camera snaps]
+--[laughs]
+
+192
+00:09:18,833 --> 00:09:20,291
+[YURI]
+Well, see you at school!
+
+193
+00:09:20,375 --> 00:09:21,583
+It'll be a whole new year!
+
+194
+00:09:21,666 --> 00:09:23,375
+[MAGE]
+Wait, let me walk you home.
+
+195
+00:09:23,458 --> 00:09:26,166
+Big Sis, it's so cold,
+you don't have to!
+
+196
+00:09:26,250 --> 00:09:28,333
+No, it's okay. Huh?
+
+197
+00:09:28,416 --> 00:09:29,583
+[camera snaps]
+
+198
+00:09:30,541 --> 00:09:32,000
+[YURI giggles]
+Got you again!
+
+199
+00:09:32,083 --> 00:09:34,416
+[MRS. HUDSON]
+Shall we be on our way?
+
+200
+00:09:35,833 --> 00:09:36,708
+[NATHAN]
+Here you go.
+
+201
+00:09:36,791 --> 00:09:37,708
+This could've gotten me into
+
+202
+00:09:37,791 --> 00:09:39,625
+a lot of trouble
+back in the day.
+
+203
+00:09:39,708 --> 00:09:42,291
+One more use for Automata.
+
+204
+00:09:42,375 --> 00:09:44,375
+A toast, to our deus ex machina.
+
+205
+00:09:44,458 --> 00:09:46,666
+Let's not forget that
+it's Mage's birthday!
+
+206
+00:09:46,750 --> 00:09:48,541
+Fair enough.
+
+207
+00:09:48,625 --> 00:09:50,375
+To today, a special day.
+
+208
+00:09:50,458 --> 00:09:52,166
+[DERRIDA]
+A special day.
+
+209
+00:09:52,250 --> 00:09:55,500
+And then, tomorrow will
+be a special day, too.
+
+210
+00:09:55,583 --> 00:09:56,583
+Huh?
+
+211
+00:09:56,666 --> 00:09:57,833
+[NATHAN]
+Once we finish fixing that bug,
+
+212
+00:09:57,916 --> 00:09:59,958
+the DZs will be complete.
+
+213
+00:10:00,041 --> 00:10:02,958
+Your family dream
+will finally be realized.
+
+214
+00:10:03,041 --> 00:10:04,750
+You mean my father's dream.
+
+215
+00:10:04,833 --> 00:10:06,958
+I just made myself useful.
+
+216
+00:10:07,041 --> 00:10:09,166
+Tomorrow,
+when everything's settled,
+
+217
+00:10:09,250 --> 00:10:10,791
+let me take you guys
+out for a drink.
+
+218
+00:10:10,875 --> 00:10:12,541
+A drink with my old man?
+
+219
+00:10:12,625 --> 00:10:14,458
+Can't even imagine.
+
+220
+00:10:14,541 --> 00:10:15,833
+[NATHAN]
+Listen, Derrida.
+
+221
+00:10:15,916 --> 00:10:18,500
+When this is done, will you
+join me in my research?
+
+222
+00:10:18,583 --> 00:10:21,208
+Huh?
+
+223
+00:10:21,291 --> 00:10:22,958
+You mean the time jump?
+
+224
+00:10:23,041 --> 00:10:25,625
+[sighs] It's been a long road,
+but it's nearly complete.
+
+225
+00:10:25,708 --> 00:10:27,708
+If I can just work out
+the last few kinks--
+
+226
+00:10:27,791 --> 00:10:29,166
+[DERRIDA]
+That old joke again?
+
+227
+00:10:29,250 --> 00:10:32,041
+I have to hear it tonight,
+of all nights? Please.
+
+228
+00:10:33,000 --> 00:10:34,291
+[NATHAN]
+I'm serious!
+
+229
+00:10:34,375 --> 00:10:36,833
+Your theory inspired me
+in the first place!
+
+230
+00:10:36,916 --> 00:10:39,083
+[DERRIDA]
+More like my pipe dream.
+
+231
+00:10:39,166 --> 00:10:40,958
+It was always going
+to be impossible.
+
+232
+00:10:41,041 --> 00:10:42,416
+No, that isn't true!
+
+233
+00:10:42,500 --> 00:10:44,708
+Those stupid experiments
+were not harmless,
+
+234
+00:10:44,791 --> 00:10:46,625
+they cost me a part of
+my childhood memories
+
+235
+00:10:46,708 --> 00:10:48,083
+I can never get back.
+
+236
+00:10:48,166 --> 00:10:51,208
+Nathan, why are you so
+obsessed with time riding?
+
+237
+00:10:51,291 --> 00:10:53,500
+Because it's my mission
+as a scientist.
+
+238
+00:10:53,583 --> 00:10:55,250
+Getting labeled
+a fringe scientist
+
+239
+00:10:55,333 --> 00:10:57,083
+won't help you in the long run.
+
+240
+00:10:57,166 --> 00:10:59,208
+[NATHAN]
+You think it's fringe science?
+
+241
+00:10:59,291 --> 00:11:00,458
+[DERRIDA]
+What I think is that
+
+242
+00:11:00,541 --> 00:11:02,500
+you should focus on
+plausible subjects
+
+243
+00:11:02,583 --> 00:11:06,166
+and build a career before
+you go there. Be realistic.
+
+244
+00:11:06,250 --> 00:11:07,666
+Be realistic?!
+
+245
+00:11:07,750 --> 00:11:09,375
+Like those executives?!
+
+246
+00:11:09,458 --> 00:11:12,375
+Forget my work and just focus
+on how much money I can make?
+
+247
+00:11:13,541 --> 00:11:17,083
+[grunts]
+
+248
+00:11:17,166 --> 00:11:19,708
+--[NATHAN] I'm sorry.
+--[DERRIDA] It's okay.
+
+249
+00:11:19,791 --> 00:11:21,875
+The brandy was too strong,
+that's all.
+
+250
+00:11:21,958 --> 00:11:23,666
+I should get going anyway.
+
+251
+00:11:27,416 --> 00:11:30,375
+[sigh]
+Oh... Mage?
+
+252
+00:11:33,291 --> 00:11:35,958
+Hey, show me where you're
+gonna plant those tuberoses.
+
+253
+00:11:36,041 --> 00:11:38,750
+[chuckles]
+
+254
+00:11:38,833 --> 00:11:40,208
+[MAGE]
+This way!
+
+255
+00:11:40,291 --> 00:11:43,750
+When it warms up,
+I wanna plant 'em right here!
+
+256
+00:11:43,833 --> 00:11:46,041
+I can't wait to see how
+it'll look in the spring.
+
+257
+00:11:46,125 --> 00:11:47,208
+[MAGE]
+Hey, Derrida.
+
+258
+00:11:47,291 --> 00:11:48,375
+Huh?
+
+259
+00:11:52,333 --> 00:11:56,208
+Why won't you help my
+dad with his research?
+
+260
+00:11:57,750 --> 00:11:59,500
+With the time ride?
+
+261
+00:11:59,583 --> 00:12:02,750
+Humans jumping through time
+like that is just a fantasy.
+
+262
+00:12:02,833 --> 00:12:05,208
+It's not... possible.
+
+263
+00:12:05,958 --> 00:12:08,500
+[MAGE] What is the key to
+traveling through time?
+
+264
+00:12:08,583 --> 00:12:11,416
+To memories that
+can't be erased.
+
+265
+00:12:11,500 --> 00:12:13,333
+To special times and places.
+
+266
+00:12:13,416 --> 00:12:15,541
+Why do humans...
+
+267
+00:12:15,625 --> 00:12:17,250
+...long to return to moments
+
+268
+00:12:17,333 --> 00:12:20,375
+they've randomly
+designated as special?
+
+269
+00:12:20,458 --> 00:12:22,583
+Wait, Mage?
+
+270
+00:12:22,666 --> 00:12:24,166
+[DERRIDA chuckles]
+You're amazing.
+
+271
+00:12:24,250 --> 00:12:26,625
+Not really. I'm quoting
+your thesis, that's all.
+
+272
+00:12:27,583 --> 00:12:30,875
+Dad completely believes in
+the theory that you proposed.
+
+273
+00:12:30,958 --> 00:12:32,375
+And so do I.
+
+274
+00:12:32,458 --> 00:12:34,375
+[DERRIDA]
+Mage, you have to understand.
+
+275
+00:12:34,458 --> 00:12:36,708
+I was swept away
+by my fantasies.
+
+276
+00:12:38,000 --> 00:12:40,666
+Maybe I just wanted to
+prove that romantic idea
+
+277
+00:12:40,750 --> 00:12:42,833
+that the missing key
+to the impossible
+
+278
+00:12:42,916 --> 00:12:44,916
+is just wishing and hoping
+and praying harder
+
+279
+00:12:45,000 --> 00:12:47,250
+than anyone has before you.
+
+280
+00:12:47,333 --> 00:12:50,541
+It's a wonderful thought!
+You should prove it!
+
+281
+00:12:50,625 --> 00:12:52,666
+Like the first people
+to ever fly,
+
+282
+00:12:52,750 --> 00:12:56,166
+or the ones who first explored
+the depths of the ocean!
+
+283
+00:12:56,250 --> 00:12:58,958
+[DERRIDA] People have made
+all kinds of dreams come true.
+
+284
+00:12:59,041 --> 00:13:00,541
+[MAGE]
+Then so can you!
+
+285
+00:13:00,625 --> 00:13:03,625
+But after centuries of repeated
+study and experiments,
+
+286
+00:13:03,708 --> 00:13:05,250
+one thing is clear.
+
+287
+00:13:05,333 --> 00:13:06,833
+We can't time travel.
+
+288
+00:13:06,916 --> 00:13:09,541
+But there's still a chance that
+you could make the breakthrough!
+
+289
+00:13:09,625 --> 00:13:13,250
+Unrealized possibilities are
+no different than dreams,
+
+290
+00:13:13,333 --> 00:13:16,416
+and I've awakened
+from all of mine.
+
+291
+00:13:18,000 --> 00:13:20,958
+[DERRIDA] Hmph. I can't believe
+I'm talking to you about this.
+
+292
+00:13:22,666 --> 00:13:23,750
+Uh?
+
+293
+00:13:23,833 --> 00:13:25,958
+Sorry. Would you give
+this to your dad?
+
+294
+00:13:29,833 --> 00:13:33,083
+Please. Derrida. Work with him.
+
+295
+00:13:33,166 --> 00:13:35,041
+[DERRIDA]
+Yeah. I will soon.
+
+296
+00:13:35,125 --> 00:13:36,541
+Really?
+
+297
+00:13:36,625 --> 00:13:39,583
+Sure, but now I'm gonna get
+home before I freeze, okay?
+
+298
+00:13:39,666 --> 00:13:41,041
+[MAGE]
+Do you mean it, Derrida?
+
+299
+00:13:41,125 --> 00:13:43,166
+[DERRIDA]
+Good night, Mage.
+
+300
+00:13:43,250 --> 00:13:45,000
+Will you?!
+
+301
+00:13:46,708 --> 00:13:48,958
+If I wish hard enough?
+
+302
+00:13:58,000 --> 00:14:00,666
+[COMPUTER] Appointment with
+Jacques Yvain confirmed.
+
+303
+00:14:00,750 --> 00:14:02,458
+Meeting site designated.
+
+304
+00:14:02,541 --> 00:14:04,583
+Finally.
+
+305
+00:14:04,666 --> 00:14:05,875
+[DERRIDA]
+Dad?
+
+306
+00:14:05,958 --> 00:14:08,041
+[JACQUES]
+It's been a while, Derrida.
+
+307
+00:14:08,125 --> 00:14:09,833
+When did you identify the issue?
+
+308
+00:14:09,916 --> 00:14:11,291
+[DERRIDA]
+Four days ago.
+
+309
+00:14:11,375 --> 00:14:12,333
+[JACQUES]
+Impressive.
+
+310
+00:14:12,416 --> 00:14:15,541
+--Swift work.
+--Whatever.
+
+311
+00:14:15,625 --> 00:14:17,041
+Take this.
+
+312
+00:14:19,083 --> 00:14:20,833
+[DERRIDA] To keep the
+program from being located,
+
+313
+00:14:20,916 --> 00:14:23,708
+I split it up around the cloud,
+then Atmosed it.
+
+314
+00:14:23,791 --> 00:14:26,000
+Even on the off-chance
+that someone finds it,
+
+315
+00:14:26,083 --> 00:14:28,625
+it can't be accessed
+without that physical key.
+
+316
+00:14:28,708 --> 00:14:31,125
+I don't necessarily believe
+the rumors going around
+
+317
+00:14:31,208 --> 00:14:33,416
+about DZs being weaponized,
+
+318
+00:14:33,500 --> 00:14:34,750
+but I can't let it go
+
+319
+00:14:34,833 --> 00:14:37,083
+if there's a chance
+they could be dangerous.
+
+320
+00:14:37,166 --> 00:14:40,166
+Unfortunately, as their creator,
+I need your help.
+
+321
+00:14:40,250 --> 00:14:41,583
+Do you get what I'm saying?
+
+322
+00:14:41,666 --> 00:14:45,250
+Son. You should avoid getting
+any deeper into this.
+
+323
+00:14:45,333 --> 00:14:47,625
+Huh?
+
+324
+00:14:47,708 --> 00:14:51,833
+You... You let
+Andrei pay you off!
+
+325
+00:14:51,916 --> 00:14:53,458
+[JACQUES]
+That's not it, Derrida!
+
+326
+00:14:53,541 --> 00:14:55,000
+[DERRIDA]
+I've been so stupid!
+
+327
+00:14:55,083 --> 00:14:56,750
+I don't know why
+I thought you'd help me
+
+328
+00:14:56,833 --> 00:14:59,416
+when you've never really
+acknowledged me or my work!
+
+329
+00:14:59,500 --> 00:15:02,250
+You named them DZs.
+With a "D" for Derrida.
+
+330
+00:15:02,333 --> 00:15:05,666
+You gave your mechanized puppets
+the same initial as your son?
+
+331
+00:15:05,750 --> 00:15:08,625
+I see. That's all I ever was!
+
+332
+00:15:18,041 --> 00:15:20,916
+[beeping]
+
+333
+00:15:21,000 --> 00:15:23,000
+[DERRIDA]
+Nathan?
+
+334
+00:15:23,083 --> 00:15:25,458
+I did. It's done.
+
+335
+00:15:25,541 --> 00:15:26,791
+What?
+
+336
+00:15:26,875 --> 00:15:28,333
+Mage, no!
+
+337
+00:15:31,000 --> 00:15:33,333
+--[WOMAN A] Clockwise.
+--[WOMAN B] Anti-clockwise.
+
+338
+00:15:38,375 --> 00:15:40,833
+[NATHAN]
+It's nothing too serious.
+
+339
+00:15:40,916 --> 00:15:43,333
+She's in stable
+condition for now.
+
+340
+00:15:43,416 --> 00:15:45,541
+I'm sorry to have
+worried you, Derrida.
+
+341
+00:15:45,625 --> 00:15:48,333
+[DERRIDA] Well, what the
+hell happened to her?
+
+342
+00:15:48,416 --> 00:15:51,625
+[NATHAN]
+She was... doing an experiment.
+
+343
+00:15:51,708 --> 00:15:53,916
+All by herself, late at night.
+
+344
+00:15:54,000 --> 00:15:54,916
+I didn't know.
+
+345
+00:15:55,000 --> 00:15:56,333
+Like what?
+
+346
+00:15:56,416 --> 00:15:58,625
+[NATHAN sighs]
+The time jump.
+
+347
+00:15:58,708 --> 00:16:02,583
+No way. Can you tell me
+exactly what happened?
+
+348
+00:16:02,666 --> 00:16:04,500
+[NATHAN] I will.
+At the office, tomorrow.
+
+349
+00:16:04,583 --> 00:16:06,250
+[phone clicks]
+
+350
+00:16:08,166 --> 00:16:10,833
+[crashing]
+
+351
+00:16:10,916 --> 00:16:12,958
+--[gun clicks]
+--[JACQUES gasps]
+
+352
+00:16:13,041 --> 00:16:13,708
+[gunshot]
+
+353
+00:16:13,791 --> 00:16:18,166
+[phone rings]
+
+354
+00:16:18,250 --> 00:16:20,083
+[groans]
+
+355
+00:16:22,625 --> 00:16:23,791
+Yeah?
+
+356
+00:16:23,875 --> 00:16:26,083
+[NATHAN] Hurry! Get up
+and get ready to leave!
+
+357
+00:16:26,166 --> 00:16:27,125
+What, why?
+
+358
+00:16:27,208 --> 00:16:28,000
+[NATHAN]
+It's Andrei!
+
+359
+00:16:28,083 --> 00:16:30,083
+We need to get outta town. Now!
+
+360
+00:16:30,166 --> 00:16:31,375
+[gasps]
+
+361
+00:16:38,333 --> 00:16:40,041
+[panting]
+
+362
+00:16:49,750 --> 00:16:52,750
+[NATHAN] I got a tip off.
+We're not safe.
+
+363
+00:16:52,833 --> 00:16:54,958
+They said that Andrei
+wants both of us dead.
+
+364
+00:16:55,041 --> 00:16:55,708
+[gasps]
+
+365
+00:16:55,791 --> 00:16:57,291
+It's all been a ruse.
+
+366
+00:16:57,375 --> 00:16:58,541
+They've known about the bug,
+
+367
+00:16:58,625 --> 00:17:01,125
+and they've been
+intending to exploit it.
+
+368
+00:17:01,208 --> 00:17:02,416
+Remember the news?
+
+369
+00:17:02,500 --> 00:17:04,208
+The live footage
+from the war zone?
+
+370
+00:17:04,291 --> 00:17:06,708
+Those are militarized
+DZs out there.
+
+371
+00:17:06,791 --> 00:17:08,083
+[gasps]
+
+372
+00:17:08,166 --> 00:17:09,625
+[DERRIDA]
+You're kidding.
+
+373
+00:17:09,708 --> 00:17:11,833
+You mean they've already
+been deployed into combat?
+
+374
+00:17:11,916 --> 00:17:14,083
+[NATHAN] That's why
+he rejected the recall.
+
+375
+00:17:14,166 --> 00:17:17,333
+Publicizing the bug
+won't help now.
+
+376
+00:17:17,416 --> 00:17:20,791
+And he wants us gone,
+all the loose ends tied up.
+
+377
+00:17:20,875 --> 00:17:23,041
+[DERRIDA]
+Wha... What do we do?
+
+378
+00:17:23,125 --> 00:17:24,041
+[NATHAN]
+We get away.
+
+379
+00:17:24,125 --> 00:17:25,666
+As far away as possible.
+
+380
+00:17:25,750 --> 00:17:27,000
+[DERRIDA]
+Where's Mage?
+
+381
+00:17:27,083 --> 00:17:28,708
+I left her over at Yuri's
+house with her family.
+
+382
+00:17:28,791 --> 00:17:29,750
+Wha...?
+
+383
+00:17:29,833 --> 00:17:30,875
+She should be
+safe there, for now.
+
+384
+00:17:30,958 --> 00:17:32,083
+I see.
+
+385
+00:17:32,166 --> 00:17:33,333
+Where's our access key?
+
+386
+00:17:33,416 --> 00:17:34,875
+I gave it to Mage last night.
+
+387
+00:17:34,958 --> 00:17:35,958
+What?! Why?!
+
+388
+00:17:36,041 --> 00:17:37,541
+[DERRIDA]
+She didn't give it to you?
+
+389
+00:17:41,000 --> 00:17:43,208
+That means Mage is...?
+
+390
+00:17:58,083 --> 00:18:01,666
+[DERRIDA groans]
+
+391
+00:18:01,750 --> 00:18:03,666
+[DERRIDA]
+Nathan! Hey!
+
+392
+00:18:03,750 --> 00:18:05,250
+Huh?
+
+393
+00:18:06,916 --> 00:18:08,416
+[NATHAN groans]
+
+394
+00:18:08,500 --> 00:18:10,041
+[DERRIDA]
+Nathan!
+
+395
+00:18:11,583 --> 00:18:14,791
+[NATHAN]
+Derrida... Go, run!
+
+396
+00:18:14,875 --> 00:18:17,833
+[ANDREI] The creator of
+the Automata, Jacques Yvain,
+
+397
+00:18:17,916 --> 00:18:20,291
+was murdered by
+his own son, Derrida,
+
+398
+00:18:20,375 --> 00:18:22,125
+whose good friend,
+Nathan Bilstein,
+
+399
+00:18:22,208 --> 00:18:23,666
+acted as an accomplice.
+
+400
+00:18:23,750 --> 00:18:26,250
+Afterward, the two
+had a falling out.
+
+401
+00:18:26,333 --> 00:18:28,166
+Derrida killed Nathan,
+and then,
+
+402
+00:18:28,250 --> 00:18:30,708
+sick with guilt,
+he took his own life.
+
+403
+00:18:30,791 --> 00:18:32,166
+What? I...
+
+404
+00:18:32,250 --> 00:18:33,458
+That's going to be the story
+
+405
+00:18:33,541 --> 00:18:36,375
+on every major news network
+tomorrow morning.
+
+406
+00:18:36,458 --> 00:18:38,916
+You should have kept your mouth
+shut and ignored that bug
+
+407
+00:18:39,000 --> 00:18:40,708
+--when you found it.
+--You liar!
+
+408
+00:18:42,291 --> 00:18:48,708
+[NATHAN]
+Run! Take care of Mage!
+
+409
+00:18:48,791 --> 00:18:50,333
+Nathan!
+
+410
+00:18:55,291 --> 00:18:57,125
+[gasps]
+
+411
+00:18:57,208 --> 00:18:58,875
+[mechanical clicking]
+
+412
+00:19:03,583 --> 00:19:04,500
+[gasps]
+
+413
+00:19:04,583 --> 00:19:05,666
+[ANDREI]
+Fire!
+
+414
+00:19:12,875 --> 00:19:14,250
+[DERRIDA groans]
+
+415
+00:19:15,583 --> 00:19:17,583
+Nathan!
+
+416
+00:19:19,791 --> 00:19:22,000
+[grunts]
+
+417
+00:19:29,166 --> 00:19:30,833
+[ANDREI]
+He can't have gone far.
+
+418
+00:19:30,916 --> 00:19:32,250
+Find him and kill him!
+
+419
+00:19:32,333 --> 00:19:33,875
+[SUBORDINATES]
+Yes, sir!
+
+420
+00:19:35,250 --> 00:19:39,666
+[DERRIDA]
+Damn... I'm fading fast.
+
+421
+00:19:47,125 --> 00:19:50,500
+[gasp]
+Is that Mage?
+
+422
+00:19:50,583 --> 00:19:51,875
+No...
+
+423
+00:19:55,833 --> 00:19:57,666
+[gasps]
+
+424
+00:20:02,416 --> 00:20:07,375
+[DERRIDA grunts, yells]
+
+425
+00:20:12,041 --> 00:20:14,750
+[groans]
+
+426
+00:20:24,291 --> 00:20:27,791
+[DERRIDA]
+I'm sorry, Mage. I didn't know.
+
+427
+00:20:27,875 --> 00:20:29,916
+I put you in danger.
+
+428
+00:20:34,583 --> 00:20:36,916
+[DERRIDA]
+I'm so tired...
+
+429
+00:20:37,000 --> 00:20:40,958
+After I rest, I promise
+I'll come get you.
+
+430
+00:20:48,041 --> 00:20:51,333
+[grunts, sighs]
+
+431
+00:20:51,416 --> 00:20:52,791
+[gasps]
+
+432
+00:20:54,625 --> 00:20:57,333
+[COMPUTER]
+Cryostasis chamber activated.
+
+433
+00:20:57,416 --> 00:21:00,166
+Twenty seconds until
+freezing is complete.
+
+434
+00:21:00,250 --> 00:21:01,541
+[DERRIDA]
+Wait, what?
+
+435
+00:21:01,625 --> 00:21:05,833
+[COMPUTER] Freezing status.
+Fifteen seconds remain.
+
+436
+00:21:05,916 --> 00:21:08,333
+No assigned duration.
+
+437
+00:21:08,416 --> 00:21:11,125
+Activating with
+default settings.
+
+438
+00:21:11,208 --> 00:21:13,500
+Ten seconds remaining.
+
+439
+00:21:13,583 --> 00:21:14,625
+[DERRIDA]
+Stop!
+
+440
+00:21:14,708 --> 00:21:16,416
+[COMPUTER]
+Process complete in five...
+
+441
+00:21:16,500 --> 00:21:22,000
+...four... three...
+two... one...
+
+442
+00:21:25,708 --> 00:21:27,208
+[DERRIDA]
+Mage...
+
+443
+00:21:37,375 --> 00:21:40,083
+[creaking, buzzing]
+
+444
+00:21:40,166 --> 00:21:45,125
+[footsteps]
+
+445
+00:22:06,541 --> 00:22:11,500
+♪
+

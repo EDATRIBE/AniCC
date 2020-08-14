@@ -1,0 +1,1141 @@
+﻿1
+00:02:32,041 --> 00:02:34,916
+"A giant robot that only we
+can build!" I believe we have
+
+2
+00:02:35,000 --> 00:02:37,208
+succeeded in creating a
+robot that is faithful to
+
+3
+00:02:37,291 --> 00:02:39,375
+that idea and imbued
+with our passion.
+
+4
+00:02:39,458 --> 00:02:41,291
+Thanks to each of you!
+
+5
+00:02:41,375 --> 00:02:46,291
+Now for the big moment. Da da
+DA! The "Let's make a life-size
+
+6
+00:02:46,375 --> 00:02:48,625
+version of GUNVARREL"
+project, Mark 2.
+
+7
+00:02:48,708 --> 00:02:50,750
+Or just GunBuild-2, for short!
+
+8
+00:02:57,416 --> 00:03:00,500
+What's that stuff it's
+got stuck to its head?
+
+9
+00:03:00,583 --> 00:03:03,583
+It's a small but necessary
+symbol of my defiance.
+
+10
+00:03:03,666 --> 00:03:05,791
+A robot has
+no need for a face.
+
+11
+00:03:05,875 --> 00:03:07,875
+But its face is
+part of its identity!
+
+12
+00:03:07,958 --> 00:03:10,833
+I believe we've already been
+through all this numerous times.
+
+13
+00:03:10,916 --> 00:03:13,041
+Or have you developed a
+more convincing rebuttal to
+
+14
+00:03:13,125 --> 00:03:16,208
+my well-reasoned arguments?
+If so, I'd like to hear it.
+
+15
+00:03:18,125 --> 00:03:19,750
+You big jerk!
+
+16
+00:03:20,583 --> 00:03:22,833
+Hey! Stop, will ya?
+
+17
+00:03:22,916 --> 00:03:24,708
+You guys ready? Let's do this.
+
+18
+00:03:24,791 --> 00:03:27,416
+The start-up test?
+Now? What about Tennoji?
+
+19
+00:03:27,500 --> 00:03:28,708
+She's not here yet.
+
+20
+00:03:28,791 --> 00:03:30,583
+You know the rule
+about working on the robot.
+
+21
+00:03:30,666 --> 00:03:33,041
+We're not supposed to
+operate it without supervision.
+
+22
+00:03:33,125 --> 00:03:36,166
+We can still go over all
+the pre-launch information.
+
+23
+00:03:37,041 --> 00:03:41,875
+Okay. Yashio.
+You're the operator.
+
+24
+00:03:41,958 --> 00:03:44,250
+Daitoku. You're
+the sub-operator.
+
+25
+00:03:44,333 --> 00:03:45,833
+Yeah, that's right!
+
+26
+00:03:45,916 --> 00:03:48,666
+Furugori, you're the
+drive system supervisor.
+
+27
+00:03:48,750 --> 00:03:50,041
+NO U, thnx!
+
+28
+00:03:50,125 --> 00:03:52,125
+But. We discussed this!
+
+29
+00:03:52,208 --> 00:03:55,083
+D00d, IJK. Plz continue.
+
+30
+00:03:58,333 --> 00:04:02,000
+The most unique aspect
+of the Mark 2 is its...
+
+31
+00:04:03,666 --> 00:04:08,458
+monopole motors... which give
+the unit certain advantages.
+
+32
+00:04:08,541 --> 00:04:10,458
+Its maneuverability,
+for example,
+
+33
+00:04:10,541 --> 00:04:13,041
+far surpasses
+that of the Mark 1.
+
+34
+00:04:13,125 --> 00:04:16,958
+Operation is remote,
+using the KILL-BALLAD system.
+
+35
+00:04:18,541 --> 00:04:20,458
+The monopoles are amazing.
+
+36
+00:04:20,541 --> 00:04:22,958
+Although, I think we were all
+surprised when they started
+
+37
+00:04:23,041 --> 00:04:25,875
+falling from the
+sky every morning.
+
+38
+00:04:25,958 --> 00:04:28,250
+Now, we needed to use
+one additional piece of
+
+39
+00:04:28,333 --> 00:04:31,916
+equipment that was not
+found in the Mark 1. Namely.
+
+40
+00:04:32,625 --> 00:04:35,416
+A laser power transmitter!
+
+41
+00:04:35,500 --> 00:04:36,708
+Man, it's big.
+
+42
+00:04:36,791 --> 00:04:38,750
+Is that a canon?
+
+43
+00:04:38,833 --> 00:04:41,000
+It converts electricity
+into a laser beam
+
+44
+00:04:41,083 --> 00:04:43,000
+as a way to transmit power.
+
+45
+00:04:43,083 --> 00:04:46,375
+Kai, Jun, as operators,
+you're in charge of it.
+
+46
+00:04:46,458 --> 00:04:47,625
+Huh?
+
+47
+00:04:47,708 --> 00:04:50,791
+Be very careful.
+Don't point it at anyone.
+
+48
+00:04:50,875 --> 00:04:54,791
+Okay, but what would
+happen if it hit somebody?
+
+49
+00:04:54,875 --> 00:04:56,750
+Then they would die.
+
+50
+00:04:56,833 --> 00:04:59,625
+No. No! No, no,
+I don't wanna!
+
+51
+00:04:59,708 --> 00:05:02,916
+Yeah, same here. It's
+too dangerous. I'll pass.
+
+52
+00:05:03,541 --> 00:05:05,958
+Don't worry. It has
+a safeguard in place.
+
+53
+00:05:06,041 --> 00:05:09,125
+It will only discharge when
+aimed at the satellite dish.
+
+54
+00:05:09,208 --> 00:05:10,500
+It's plenty safe.
+
+55
+00:05:10,583 --> 00:05:12,625
+R-Really?
+
+56
+00:05:12,708 --> 00:05:15,291
+You're great at this sort
+of thing. You should be fine.
+
+57
+00:05:15,375 --> 00:05:17,875
+Actually, it's fighting
+games that are my specialty.
+
+58
+00:05:17,958 --> 00:05:20,458
+Shooting games are
+another thing entirely.
+
+59
+00:05:20,541 --> 00:05:21,916
+Hey, you guys!
+
+60
+00:05:22,000 --> 00:05:24,791
+Oh there you are, Nae! I'm
+glad you could make it out.
+
+61
+00:05:24,875 --> 00:05:26,791
+Sorry I'm late.
+I was in a meeting,
+
+62
+00:05:26,875 --> 00:05:28,125
+and it ran a little long.
+
+63
+00:05:28,208 --> 00:05:30,291
+A meeting? On Sunday morning?
+
+64
+00:05:30,375 --> 00:05:32,583
+Oh. Well, yes.
+
+65
+00:05:34,041 --> 00:05:38,250
+Okay, now. The start-up test!
+Are you guys ready to get going?
+
+66
+00:05:38,333 --> 00:05:41,500
+You can do it! Yeah!
+
+67
+00:05:44,208 --> 00:05:45,375
+Right!
+
+68
+00:06:14,208 --> 00:06:15,583
+Well? Now?
+
+69
+00:06:15,666 --> 00:06:17,083
+Yeah.
+
+70
+00:06:18,166 --> 00:06:19,083
+Fire!
+
+71
+00:06:24,958 --> 00:06:26,791
+Wow! Amazing!
+
+72
+00:06:28,000 --> 00:06:32,000
+The b-battery is
+ch-ch-charging, OK!
+
+73
+00:06:32,708 --> 00:06:35,333
+'Kay, Subaru! Set it down!
+
+74
+00:06:35,416 --> 00:06:37,083
+Alright, I'm on it!
+
+75
+00:06:52,791 --> 00:06:55,625
+We're all set up, Nae.
+We just need the final call.
+
+76
+00:06:55,708 --> 00:06:57,958
+What d'ya say?
+Are we ready to begin?
+
+77
+00:06:58,041 --> 00:07:01,416
+Yes! The start-up
+test is a-go!
+
+78
+00:07:01,500 --> 00:07:05,083
+Okay, powering up!
+Prepare for lift off!
+
+79
+00:07:13,875 --> 00:07:16,458
+S-Skeletal GUNVARREL
+has started up.
+
+80
+00:07:17,750 --> 00:07:20,375
+OS is f-f-functioning normally.
+
+81
+00:07:21,958 --> 00:07:24,083
+D-Deploying laser scanners!
+
+82
+00:07:26,750 --> 00:07:28,666
+Detaching crane cables!
+
+83
+00:07:44,458 --> 00:07:48,041
+This is it, Kai, time to
+take the historic first step.
+
+84
+00:07:49,375 --> 00:07:52,208
+'Kay. I'll just start
+off by moving it forward.
+
+85
+00:07:52,291 --> 00:07:53,666
+Roger that.
+
+86
+00:08:02,625 --> 00:08:05,416
+Okay, GUNVARREL.
+Let's do this!
+
+87
+00:08:38,458 --> 00:08:40,583
+Well? What d'you think?
+
+88
+00:08:40,666 --> 00:08:43,000
+It's amazing!
+
+89
+00:08:43,083 --> 00:08:45,625
+Wow! It's incredible!
+
+90
+00:08:45,708 --> 00:08:48,541
+You would never guess that this
+was made by high-schoolers!
+
+91
+00:08:48,625 --> 00:08:51,708
+I knew all along what
+you guys were capable of!
+
+92
+00:08:54,666 --> 00:08:56,083
+There is one thing.
+
+93
+00:08:56,833 --> 00:08:58,875
+What? What's wrong?
+
+94
+00:09:01,125 --> 00:09:03,666
+Unfortunately, it looks like
+the club, and the Mark 2,
+
+95
+00:09:03,750 --> 00:09:07,541
+will have to be completely
+moved out of here by next week.
+
+96
+00:09:07,625 --> 00:09:11,291
+Huh? Moved out?
+What do you mean?
+
+97
+00:09:11,375 --> 00:09:13,583
+You know that meeting
+I mentioned earlier?
+
+98
+00:09:13,666 --> 00:09:15,625
+Well, they've just scheduled
+the first rocket launch
+
+99
+00:09:15,708 --> 00:09:18,166
+from Tanegashima
+in five years.
+
+100
+00:09:18,250 --> 00:09:19,583
+Oh!
+
+101
+00:09:19,666 --> 00:09:21,000
+Really?
+
+102
+00:09:21,083 --> 00:09:23,416
+Really. So, for security
+reasons, we can't allow you to
+
+103
+00:09:23,500 --> 00:09:25,958
+continue using this
+as your workspace.
+
+104
+00:09:26,041 --> 00:09:29,166
+I know it's
+disappointing. I'm sorry!
+
+105
+00:09:41,958 --> 00:09:44,375
+Wow! So baby soft!
+
+106
+00:09:52,333 --> 00:09:54,333
+Since the twenty-fifteen
+Crash, our company has
+
+107
+00:09:54,416 --> 00:09:57,083
+taken extra precautions.
+Our powered suits are
+
+108
+00:09:57,166 --> 00:09:59,666
+fully protected from
+solar storm EM waves.
+
+109
+00:09:59,750 --> 00:10:01,541
+If the suits are so safe,
+what was the cause of
+
+110
+00:10:01,625 --> 00:10:03,833
+the wide spread
+malfunction last summer?
+
+111
+00:10:03,916 --> 00:10:06,875
+I can't comment on that
+while the trial is underway.
+
+112
+00:10:09,250 --> 00:10:11,541
+Sometimes I can't
+decide if I'm more amazed
+
+113
+00:10:11,625 --> 00:10:13,583
+or dismayed by the chief.
+
+114
+00:10:13,666 --> 00:10:16,208
+This is the promotional
+video she developed.
+
+115
+00:10:16,291 --> 00:10:18,291
+She'll submit it
+to the expo committee.
+
+116
+00:10:22,666 --> 00:10:24,500
+This should be good.
+
+117
+00:10:24,583 --> 00:10:27,708
+From Chuo-Tanegashima
+High's Robot Research Club.
+
+118
+00:10:27,791 --> 00:10:31,750
+Club leader Akiho Senomiya.
+I'm eighteen years old.
+
+119
+00:10:31,833 --> 00:10:34,500
+Why did I dream of
+building a giant robot?
+
+120
+00:10:34,583 --> 00:10:37,458
+Because giant robots
+are adored by everyone!
+
+121
+00:10:37,541 --> 00:10:40,000
+Because giant robots
+are children's heroes!
+
+122
+00:10:40,083 --> 00:10:43,625
+Because giant robots
+are defenders of justice!
+
+123
+00:10:43,708 --> 00:10:47,791
+Because I love giant robots!
+And I hope you do, too!
+
+124
+00:10:47,875 --> 00:10:50,375
+The attack on the Diet
+Building changed things.
+
+125
+00:10:50,458 --> 00:10:53,958
+GUNVARREL's image in particular
+was hurt and people have
+
+126
+00:10:54,041 --> 00:10:57,166
+started to become leery
+of robots in general.
+
+127
+00:11:01,291 --> 00:11:05,041
+Maybe some people are
+frightened. But not Aki.
+
+128
+00:11:13,166 --> 00:11:14,666
+Are you there, Gezi?
+
+129
+00:11:14,750 --> 00:11:16,166
+What is it, Yashio?
+
+130
+00:11:16,250 --> 00:11:18,833
+Give me the candidates
+for today's search.
+
+131
+00:11:18,916 --> 00:11:22,041
+Yes. The search for
+Kimijima Report Number Seven.
+
+132
+00:11:22,125 --> 00:11:24,375
+The candidates for
+today are as follows:
+
+133
+00:11:24,458 --> 00:11:26,375
+Homan Shrine.
+Kumano Beach.
+
+134
+00:11:26,458 --> 00:11:27,416
+A rocket launch.
+
+135
+00:11:27,500 --> 00:11:28,666
+Cape Kadokura.
+
+136
+00:11:32,166 --> 00:11:35,458
+Yeah! Alright!
+Go, Hot Dog, go!
+
+137
+00:11:38,166 --> 00:11:40,708
+Listen. Years from now,
+when you're all grown up,
+
+138
+00:11:40,791 --> 00:11:43,625
+I want you to be a man
+with the "right stuff."
+
+139
+00:11:45,708 --> 00:11:47,833
+That old thing?
+
+140
+00:11:47,916 --> 00:11:50,416
+It's just a
+giant piece of junk.
+
+141
+00:11:50,500 --> 00:11:52,166
+Forget about him.
+
+142
+00:11:52,250 --> 00:11:56,000
+Forget about Kou Kimijima.
+Stop poking around.
+
+143
+00:12:04,291 --> 00:12:08,166
+These are logs of Twipo
+posts made from Tanegashima.
+
+144
+00:12:08,250 --> 00:12:10,166
+Though it was quickly
+deleted, there was a post
+
+145
+00:12:10,250 --> 00:12:14,500
+referring to Kou Kimijima.
+It was posted by Junna Daitoku
+
+146
+00:12:14,583 --> 00:12:17,583
+and deleted at the
+behest of Kaito Yashio.
+
+147
+00:12:21,375 --> 00:12:24,041
+I gave you an order
+to investigate this boy.
+
+148
+00:12:24,125 --> 00:12:27,500
+Yet, somehow,
+you failed to find this?
+
+149
+00:12:28,666 --> 00:12:30,333
+My apologies, sir.
+
+150
+00:12:30,416 --> 00:12:32,708
+Apparently, he not only
+attends your alma mater,
+
+151
+00:12:32,791 --> 00:12:36,541
+but he's also good friends with
+your little sister. Interesting.
+
+152
+00:12:36,625 --> 00:12:38,333
+You think I'm protecting him?
+
+153
+00:12:38,416 --> 00:12:42,625
+If you'd like me to,
+I'll dispose of him myself.
+
+154
+00:12:45,791 --> 00:12:48,041
+No. There's no need.
+
+155
+00:12:52,416 --> 00:12:55,166
+Mr. Nagafukada
+certainly is late.
+
+156
+00:12:55,250 --> 00:12:57,166
+I w-want to go home.
+
+157
+00:12:57,250 --> 00:12:58,666
+Where's Yashio?
+
+158
+00:12:58,750 --> 00:13:01,208
+I went to his house to get
+him, but he was long gone.
+
+159
+00:13:01,291 --> 00:13:02,250
+Where could he hav--
+
+160
+00:13:06,291 --> 00:13:07,875
+Koujiro! Your skirt!
+
+161
+00:13:08,666 --> 00:13:11,000
+Subaru! Don't even
+think about looking!
+
+162
+00:13:11,083 --> 00:13:14,333
+M-My back is turned!
+What nonsense!
+
+163
+00:13:23,750 --> 00:13:25,708
+Are you really sure
+we should be doing this?
+
+164
+00:13:25,791 --> 00:13:28,791
+We'll only move it around
+a bit. It's important.
+
+165
+00:13:28,875 --> 00:13:31,416
+We don't have much time
+before the next screening.
+
+166
+00:13:52,416 --> 00:13:55,125
+Doesn't look like it's
+around here, either.
+
+167
+00:13:58,791 --> 00:14:02,208
+Huh? I found it.
+That's kinda weird.
+
+168
+00:14:02,291 --> 00:14:05,666
+It wasn't there a second
+ago. Well, it's here now.
+
+169
+00:14:06,125 --> 00:14:09,291
+Gezi. Are you sure that
+this is Report Number Seven?
+
+170
+00:14:09,375 --> 00:14:11,916
+Yes. Would you like
+me to download it?
+
+171
+00:14:13,125 --> 00:14:16,416
+I've come this far, right?
+I can't just turn back now.
+
+172
+00:14:16,500 --> 00:14:17,750
+Yes, Gezi. Download the--
+
+173
+00:14:17,833 --> 00:14:20,583
+Stop what you're
+doing, Kai. Now.
+
+174
+00:14:24,041 --> 00:14:25,833
+Mizuka, hey!
+
+175
+00:14:42,416 --> 00:14:45,041
+Come on, Mitchi.
+Where are you?
+
+176
+00:14:56,250 --> 00:14:57,250
+Uh. Hey guys, I think--
+
+177
+00:14:57,333 --> 00:14:58,375
+Hold on a sec.
+
+178
+00:14:59,625 --> 00:15:01,416
+What's the matter, Jun?
+Is there a problem?
+
+179
+00:15:01,500 --> 00:15:05,500
+Well, something seems off
+each time it takes a step.
+
+180
+00:15:05,583 --> 00:15:06,541
+Huh?
+
+181
+00:15:06,625 --> 00:15:08,083
+"Off," how?
+
+182
+00:15:08,166 --> 00:15:11,666
+It's like, when it moves its
+legs, they get stiff like this
+
+183
+00:15:11,750 --> 00:15:14,500
+for just a second
+before they set back down.
+
+184
+00:15:14,583 --> 00:15:17,083
+Could the motor gears have
+gotten stripped somehow?
+
+185
+00:15:17,166 --> 00:15:18,916
+What do you think?
+
+186
+00:15:20,750 --> 00:15:24,333
+Not sure, but I'll take
+a look. You run the laser.
+
+187
+00:15:28,500 --> 00:15:29,750
+Why are you here?
+
+188
+00:15:29,833 --> 00:15:31,375
+I told you, you shouldn't
+go sticking your nose
+
+189
+00:15:31,458 --> 00:15:32,916
+where it doesn't belong.
+
+190
+00:15:33,000 --> 00:15:35,458
+Now just do what I told you
+and forget about this already.
+
+191
+00:15:35,541 --> 00:15:37,250
+What're you talking about?
+
+192
+00:15:38,458 --> 00:15:41,500
+Wait a second. You mean
+the Kimijima reports?
+
+193
+00:15:43,916 --> 00:15:47,125
+Go home, Kai.
+Find a new hobby.
+
+194
+00:15:47,208 --> 00:15:49,791
+Or are you talking about
+Kou Kimijima himself?
+
+195
+00:15:49,875 --> 00:15:52,541
+Please, Mizuka. You
+know something, don't you?
+
+196
+00:15:52,625 --> 00:15:54,083
+Just let it go!
+
+197
+00:15:59,625 --> 00:16:02,083
+Th-That ringtone. What?
+
+198
+00:16:05,416 --> 00:16:07,916
+Okay, make it walk, please!
+
+199
+00:16:13,750 --> 00:16:15,041
+Yeah, you're right.
+
+200
+00:16:15,125 --> 00:16:16,958
+It does seem like it's
+teetering a little bit now.
+
+201
+00:16:17,041 --> 00:16:17,958
+But why?
+
+202
+00:16:18,041 --> 00:16:20,083
+Maybe it doesn't
+have enough power?
+
+203
+00:16:20,166 --> 00:16:22,083
+All systems show normal.
+
+204
+00:16:22,166 --> 00:16:24,750
+That's it! Keep it going!
+
+205
+00:16:49,666 --> 00:16:50,708
+Are you okay?
+
+206
+00:16:52,416 --> 00:16:53,666
+Look out!
+
+207
+00:17:10,125 --> 00:17:12,333
+"Kagome, Kagome!" But why now?
+
+208
+00:17:15,000 --> 00:17:16,625
+Who is this?
+
+209
+00:17:38,416 --> 00:17:40,000
+Mizuka, where are you going?
+
+210
+00:17:40,875 --> 00:17:47,500
+Huh? What the? I'm not-!
+What is this? What the hell?
+
+211
+00:17:49,333 --> 00:17:52,000
+Hey, come back!
+We're not done talking.
+
+212
+00:17:52,083 --> 00:17:56,208
+Kai! I really hate to ask,
+but, uh, could you gimme a hand?
+
+213
+00:17:56,291 --> 00:17:57,666
+Do wha?
+
+214
+00:17:58,875 --> 00:18:02,166
+Uh. It's my suit.
+Thing seems to be actin' up.
+
+215
+00:18:02,250 --> 00:18:04,750
+I can't get it to stop walking.
+
+216
+00:18:05,375 --> 00:18:07,708
+It's moving all by itself?
+
+217
+00:18:13,333 --> 00:18:14,708
+What's happening?
+
+218
+00:18:28,125 --> 00:18:30,000
+If the suits are so safe,
+then what was the cause
+
+219
+00:18:30,083 --> 00:18:32,541
+of the widespread
+malfunction last summer?
+
+220
+00:18:34,291 --> 00:18:36,041
+Oh god! No!
+
+221
+00:18:40,125 --> 00:18:41,125
+Mizuka!
+
+222
+00:18:44,000 --> 00:18:44,833
+Kai!
+
+223
+00:18:49,166 --> 00:18:51,083
+Crap! What the hell?!
+
+224
+00:18:55,125 --> 00:18:57,208
+Hurry, Mizuka! Shut it down!
+
+225
+00:18:57,291 --> 00:19:00,166
+I already tried that!
+It won't turn off!
+
+226
+00:19:02,125 --> 00:19:03,791
+Please, don't let
+go of me, Kai!
+
+227
+00:19:13,000 --> 00:19:15,833
+Mizuka! Are you okay?
+
+228
+00:19:15,916 --> 00:19:18,833
+Thank you, Kai.
+I really owe you one.
+
+229
+00:19:18,916 --> 00:19:21,916
+C'mon, quick.
+We need to get this off.
+
+230
+00:19:31,416 --> 00:19:32,583
+No, not again!
+
+231
+00:19:51,416 --> 00:19:53,333
+Kai. It's all right.
+
+232
+00:19:53,416 --> 00:19:55,166
+No, it's not all right!
+
+233
+00:20:04,833 --> 00:20:08,708
+You have to let go.
+It'll only take you with me.
+
+234
+00:20:10,500 --> 00:20:11,875
+Stop!
+
+235
+00:20:26,750 --> 00:20:28,000
+Mizuka!
+
+236
+00:20:28,916 --> 00:20:30,291
+Listen, Kai.
+
+237
+00:20:40,583 --> 00:20:44,041
+Please. If you
+ever get to see Misa.
+
+238
+00:20:44,125 --> 00:20:48,333
+Aki! Kai!
+I'm sorry! I'm sorry!
+
+239
+00:20:49,083 --> 00:20:54,750
+Tell her. Tell her thanks
+for giving me these legs.
+
+240
+00:22:58,416 --> 00:23:00,916
+Following the
+accident with Gunbuild 2,
+
+241
+00:23:01,000 --> 00:23:03,708
+the Robot Research
+Club is disbanded.
+
+242
+00:23:03,791 --> 00:23:07,708
+Powerless to act, Aki falls
+into a severe depression.
+
+243
+00:23:07,791 --> 00:23:11,250
+The club members drift
+away. Heartsick and weary,
+
+244
+00:23:11,333 --> 00:23:14,041
+Kai investigates the
+cause of Mizuka's death.
+
+245
+00:23:14,125 --> 00:23:18,083
+Unwilling to allow Aki to give
+up, he challenges her to battle.
+
+246
+00:23:19,166 --> 00:23:20,833
+Episode 17.
+
+247
+00:23:20,916 --> 00:23:22,208
+Let's hit it off everybody!
+
+248
+00:23:22,291 --> 00:23:23,750
+Later days! 
+

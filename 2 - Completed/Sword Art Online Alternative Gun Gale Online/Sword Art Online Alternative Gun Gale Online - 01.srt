@@ -1,0 +1,2121 @@
+﻿1
+00:00:06,973 --> 00:00:08,509
+Narrator: <i>If you</i>
+<i>died in a game,</i>
+
+2
+00:00:08,575 --> 00:00:10,944
+<i>you didn't die in real life.</i>
+
+3
+00:00:11,011 --> 00:00:13,313
+<i>That was before</i>
+<i>"Sword Art Online."</i>
+
+4
+00:00:13,379 --> 00:00:16,482
+<i>The incident claimed</i>
+<i>many lives, and, as a result,</i>
+
+5
+00:00:16,550 --> 00:00:19,553
+<i>almost ended the development</i>
+<i>of all VR games.</i>
+
+6
+00:00:19,620 --> 00:00:21,822
+<i>But when the admin package</i>
+<i>called "the Seed"</i>
+
+7
+00:00:21,888 --> 00:00:25,158
+<i>became available, guaranteeing</i>
+<i>the player's safety,</i>
+
+8
+00:00:25,225 --> 00:00:29,162
+<i>development not only continued,</i>
+<i>it skyrocketed.</i>
+
+9
+00:00:29,229 --> 00:00:31,397
+<i>One such game became popular,</i>
+
+10
+00:00:31,464 --> 00:00:33,499
+<i>thanks to its</i>
+<i>post‐apocalyptic environments</i>
+
+11
+00:00:33,567 --> 00:00:36,102
+<i>and player‐versus‐player duels,</i>
+
+12
+00:00:36,169 --> 00:00:38,739
+<i>where guns are used</i>
+<i>instead of swords</i>
+
+13
+00:00:38,805 --> 00:00:40,306
+<i>and the roar of gunfire</i>
+
+14
+00:00:40,373 --> 00:00:43,877
+<i>blows across the terrain</i>
+<i>like a hellish wind.</i>
+
+15
+00:00:43,944 --> 00:00:45,679
+<i>It's appropriately called...</i>
+
+16
+00:00:45,746 --> 00:00:48,114
+Announcer:
+<i>"Gun Gale Online" players,</i>
+
+17
+00:00:48,181 --> 00:00:50,684
+<i>please stand by</i>
+<i>for an announcement!</i>
+
+18
+00:00:53,787 --> 00:00:57,357
+<i>Today, at 1400 hours,</i>
+<i>we're hosting Squad Jam,</i>
+
+19
+00:00:57,423 --> 00:01:00,093
+<i>a battle royale tournament</i>
+<i>for teams!</i>
+
+20
+00:01:00,160 --> 00:01:02,663
+[players cheering]
+
+21
+00:01:02,729 --> 00:01:05,398
+Announcer: <i>Each team</i>
+<i>can have a max of six players,</i>
+
+22
+00:01:05,465 --> 00:01:07,701
+<i>and there are 23 teams</i>
+<i>gunning for first place,</i>
+
+23
+00:01:07,768 --> 00:01:10,303
+<i>so pick your fave,</i>
+<i>and cheer them on to victory!</i>
+
+24
+00:01:10,370 --> 00:01:13,206
+‐ It's good to see
+you're fired up about this.
+
+25
+00:01:13,273 --> 00:01:14,975
+‐ To be honest,
+if I got a ticket
+
+26
+00:01:15,041 --> 00:01:18,478
+to Elza Kanzaki's concert first,
+I wouldn't have signed up.
+
+27
+00:01:18,545 --> 00:01:20,380
+‐ That sucks
+you couldn't get a ticket.
+
+28
+00:01:20,446 --> 00:01:24,384
+‐ It's okay. I'm glad I'm here.
+
+29
+00:01:24,450 --> 00:01:27,788
+[thinking] <i>Let's do our best</i>
+<i>out there, P‐chan.</i>
+
+30
+00:01:27,854 --> 00:01:31,658
+Announcer: <i>Get ready!</i>
+<i>The Squad Jam's about to start!</i>
+
+31
+00:01:31,725 --> 00:01:34,127
+[players cheer]
+
+32
+00:01:34,194 --> 00:01:36,329
+["Ryusei" by Eir Aoi playing]
+
+33
+00:01:48,074 --> 00:01:50,210
+‐ [singing in Japanese]
+
+34
+00:02:22,342 --> 00:02:23,276
+<i>♪ ...safety ♪</i>
+
+35
+00:02:23,343 --> 00:02:25,278
+[singing in Japanese]
+
+36
+00:02:51,938 --> 00:02:54,407
+<i>♪ The darkest night ♪</i>
+
+37
+00:02:54,474 --> 00:02:56,610
+[singing in Japanese]
+
+38
+00:02:58,512 --> 00:03:02,683
+<i>♪ The darkest night ♪</i>
+
+39
+00:03:06,486 --> 00:03:09,756
+Announcer: <i>Squad Jam is on!</i>
+
+40
+00:03:09,823 --> 00:03:11,157
+[buzzer sounds]
+
+41
+00:03:11,224 --> 00:03:13,359
+[whooshing]
+
+42
+00:03:17,330 --> 00:03:18,765
+[girl sighs]
+
+43
+00:03:19,933 --> 00:03:23,336
+Whoa. They're starting us
+in a big forest.
+
+44
+00:03:23,403 --> 00:03:25,271
+‐ This isn't good.
+
+45
+00:03:25,338 --> 00:03:27,508
+‐ Why? Because the trees
+block your shots
+
+46
+00:03:27,574 --> 00:03:28,942
+and my outfit stands out?
+
+47
+00:03:29,009 --> 00:03:32,012
+‐ Yup. Wear this
+'til we get out of here.
+
+48
+00:03:32,078 --> 00:03:33,346
+‐ Uh...
+
+49
+00:03:33,413 --> 00:03:35,549
+‐ You can shoot through
+the poncho if you want.
+
+50
+00:03:35,616 --> 00:03:37,150
+‐ I'll get another one.
+‐ [device beeps]
+
+51
+00:03:37,217 --> 00:03:39,653
+Time to get oriented.
+
+52
+00:03:42,288 --> 00:03:44,257
+‐ Looks like
+we're the only ones here.
+
+53
+00:03:44,324 --> 00:03:46,359
+‐ No enemies
+within a klick of us.
+
+54
+00:03:46,426 --> 00:03:48,228
+We'll skip going north and east.
+
+55
+00:03:48,294 --> 00:03:50,864
+‐ So where to?
+
+56
+00:03:50,931 --> 00:03:52,232
+Have a preference?
+
+57
+00:03:52,298 --> 00:03:54,200
+‐ We should head due south.
+
+58
+00:03:54,267 --> 00:03:55,969
+That's the urban area.
+
+59
+00:03:57,437 --> 00:03:59,372
+Try to stay
+ten meters behind me.
+
+60
+00:03:59,439 --> 00:04:00,941
+‐ Roger that. Lead the way.
+
+61
+00:04:08,749 --> 00:04:11,918
+‐ [on radio] Stop. Get down.
+‐ [automatic gunfire]
+
+62
+00:04:11,985 --> 00:04:14,588
+<i>That's the sound</i>
+<i>of a 556 assault rifle.</i>
+
+63
+00:04:14,655 --> 00:04:18,191
+<i>And that's the sound</i>
+<i>of a submachine gun.</i>
+
+64
+00:04:18,258 --> 00:04:19,760
+‐ You can tell?
+‐ <i>Yeah.</i>
+
+65
+00:04:19,826 --> 00:04:22,395
+Two teams are
+after the same position.
+
+66
+00:04:22,462 --> 00:04:24,397
+They probably
+surprised each other.
+
+67
+00:04:24,464 --> 00:04:27,100
+<i>They're in the forest</i>
+<i>to the west of us.</i>
+
+68
+00:04:27,167 --> 00:04:28,234
+‐ They sound so close.
+
+69
+00:04:28,301 --> 00:04:29,870
+‐ <i>I got an idea.</i>
+
+70
+00:04:29,936 --> 00:04:32,072
+<i>LLENN, you take point.</i>
+
+71
+00:04:32,138 --> 00:04:33,807
+<i>Head in that direction.</i>
+
+72
+00:04:33,874 --> 00:04:35,776
+<i>I'll let you know</i>
+<i>if you go off course.</i>
+
+73
+00:04:35,842 --> 00:04:38,044
+‐ Sure. Roger that.
+
+74
+00:04:40,113 --> 00:04:43,517
+[groans] Please don't let me
+run into any enemies.
+
+75
+00:04:47,521 --> 00:04:49,890
+Hey, M,
+I can't hear any shooting.
+
+76
+00:04:49,956 --> 00:04:51,858
+Do you think they
+might be headed this way?
+
+77
+00:04:51,925 --> 00:04:53,860
+<i>‐ Don't stand there</i>
+<i>wondering about it.</i>
+
+78
+00:04:53,927 --> 00:04:55,529
+‐ [groans]
+‐ <i>Move.</i>
+
+79
+00:04:55,596 --> 00:04:57,998
+‐ The enemy could be anywhere,
+
+80
+00:04:58,064 --> 00:04:59,199
+behind a tree,
+
+81
+00:04:59,265 --> 00:05:01,735
+waiting to snipe at me.
+
+82
+00:05:01,802 --> 00:05:02,736
+[yelps]
+
+83
+00:05:02,803 --> 00:05:04,738
+[groaning]
+
+84
+00:05:06,472 --> 00:05:07,641
+That does it!
+
+85
+00:05:07,708 --> 00:05:09,576
+What the heck am I afraid of?!
+
+86
+00:05:09,643 --> 00:05:12,412
+Even if they kill me,
+P‐chan'll tear 'em up first.
+
+87
+00:05:21,722 --> 00:05:23,289
+[gasps]
+
+88
+00:05:23,356 --> 00:05:24,891
+M: <i>Stop!</i>
+
+89
+00:05:24,958 --> 00:05:25,959
+<i>Down.</i>
+
+90
+00:05:27,260 --> 00:05:28,294
+<i>Stay alert.</i>
+
+91
+00:05:28,361 --> 00:05:29,763
+<i>Eyes front!</i>
+
+92
+00:05:29,830 --> 00:05:30,764
+‐ [gasps]
+
+93
+00:05:30,831 --> 00:05:33,099
+‐ <i>I'm 300 meters behind you.</i>
+
+94
+00:05:33,166 --> 00:05:34,968
+<i>It's the nine‐minute mark.</i>
+
+95
+00:05:35,035 --> 00:05:36,269
+<i>When the sat‐scan finishes,</i>
+
+96
+00:05:36,336 --> 00:05:38,505
+<i>the enemy will only see</i>
+<i>your position.</i>
+
+97
+00:05:38,572 --> 00:05:40,240
+<i>That's why I'm hanging back.</i>
+
+98
+00:05:40,306 --> 00:05:43,744
+‐ Got it. Only the team leader's
+position is revealed.
+
+99
+00:05:43,810 --> 00:05:45,478
+‐ <i>Hmm. You're catching on.</i>
+
+100
+00:05:45,546 --> 00:05:47,113
+<i>If we're lucky</i>
+<i>and the enemy's close,</i>
+
+101
+00:05:47,180 --> 00:05:49,482
+<i>they'll attack you</i>
+<i>when the scan's done.</i>
+
+102
+00:05:49,550 --> 00:05:51,384
+‐ But then what do I do?
+
+103
+00:05:51,451 --> 00:05:52,819
+‐ <i>Start spraying bullets,</i>
+
+104
+00:05:52,886 --> 00:05:55,455
+<i>fall back, and use</i>
+<i>the trees for cover.</i>
+
+105
+00:05:55,522 --> 00:05:56,790
+<i>I'll circle around to the left</i>
+
+106
+00:05:56,857 --> 00:05:58,692
+<i>and pick off</i>
+<i>whoever's chasing you.</i>
+
+107
+00:05:58,759 --> 00:06:02,428
+‐ [thinking] <i>Great.</i>
+<i>I'm a decoy now? Awesome.</i>
+
+108
+00:06:02,495 --> 00:06:04,264
+<i>‐ Don't bother</i>
+<i>watching the scan.</i>
+
+109
+00:06:04,330 --> 00:06:05,498
+<i>Just stay alert.</i>
+
+110
+00:06:05,566 --> 00:06:07,167
+‐ Roger that. [gasps]
+
+111
+00:06:07,233 --> 00:06:10,403
+Uh, M, I spotted them.
+
+112
+00:06:10,470 --> 00:06:12,673
+<i>‐ Thirty seconds</i>
+<i>'til the scan starts.</i>
+
+113
+00:06:12,739 --> 00:06:14,541
+<i>Tell me what you see,</i>
+<i>and hurry.</i>
+
+114
+00:06:14,608 --> 00:06:15,842
+‐ [gasps] U‐Um...
+
+115
+00:06:15,909 --> 00:06:17,978
+they're on the other side
+of the highway,
+
+116
+00:06:18,044 --> 00:06:19,379
+i‐in the city.
+
+117
+00:06:19,445 --> 00:06:21,181
+They're about 200 meters away.
+
+118
+00:06:21,247 --> 00:06:23,083
+<i>‐ Calm down.</i>
+<i>How many are there?</i>
+
+119
+00:06:23,149 --> 00:06:24,150
+<i>What kind of guns?</i>
+
+120
+00:06:24,217 --> 00:06:25,719
+‐ I see five.
+
+121
+00:06:25,786 --> 00:06:27,588
+I can't tell
+what kind of guns they have,
+
+122
+00:06:27,654 --> 00:06:28,722
+but they're not small.
+
+123
+00:06:28,789 --> 00:06:31,357
+They're behind a blown‐up wall.
+
+124
+00:06:31,424 --> 00:06:33,293
+They're just standing around.
+
+125
+00:06:33,359 --> 00:06:34,561
+Wh‐What do I do?
+
+126
+00:06:34,628 --> 00:06:36,630
+Should I open fire on 'em,
+or what?
+
+127
+00:06:36,697 --> 00:06:38,832
+<i>‐ You can't hit them</i>
+<i>with a P90 from there,</i>
+
+128
+00:06:38,899 --> 00:06:41,067
+<i>so relax. The scan's up.</i>
+
+129
+00:06:41,134 --> 00:06:43,904
+‐ [thinking] <i>I can't believe</i>
+<i>I have to sit here and wait.</i>
+
+130
+00:06:43,970 --> 00:06:47,073
+<i>Should I wait,</i>
+<i>or should I attack?</i>
+
+131
+00:06:47,140 --> 00:06:48,241
+<i>‐ Got 'em.</i>
+
+132
+00:06:48,308 --> 00:06:49,910
+<i>There's one team on the border</i>
+
+133
+00:06:49,976 --> 00:06:51,612
+<i>between the city</i>
+<i>and the highway,</i>
+
+134
+00:06:51,678 --> 00:06:53,479
+<i>about 200 meters from you.</i>
+
+135
+00:06:53,547 --> 00:06:56,349
+‐ Should I start falling back?
+‐ <i>Not yet.</i>
+
+136
+00:06:56,416 --> 00:06:59,753
+<i>I doubt they'll attack you</i>
+<i>right away from that distance.</i>
+
+137
+00:06:59,820 --> 00:07:01,021
+‐ [sighs]
+
+138
+00:07:02,856 --> 00:07:04,558
+[gasps]
+
+139
+00:07:05,491 --> 00:07:07,093
+[squeals]
+
+140
+00:07:07,160 --> 00:07:09,830
+[on radio]
+<i>M! They're targeting me!</i>
+
+141
+00:07:12,032 --> 00:07:13,700
+[screams]
+
+142
+00:07:15,902 --> 00:07:18,572
+They got me pinned down
+over here, M!
+
+143
+00:07:18,639 --> 00:07:20,006
+Help! Do something!
+
+144
+00:07:20,073 --> 00:07:21,842
+<i>‐ You know what</i>
+<i>they're shooting?</i>
+
+145
+00:07:21,908 --> 00:07:25,145
+<i>General‐purpose machine guns,</i>
+<i>7.62 millimeter,</i>
+
+146
+00:07:25,211 --> 00:07:28,281
+<i>probably MAGs, judging</i>
+<i>by the sound of the rapid fire.</i>
+
+147
+00:07:28,348 --> 00:07:30,450
+<i>There's more than two of them.</i>
+
+148
+00:07:30,517 --> 00:07:32,452
+<i>If you listen,</i>
+<i>you can just make out</i>
+
+149
+00:07:32,519 --> 00:07:35,021
+<i>the hum of another gun</i>
+<i>firing even faster.</i>
+
+150
+00:07:35,088 --> 00:07:36,456
+<i>Sounds like a 556.</i>
+
+151
+00:07:38,458 --> 00:07:39,626
+<i>That's a Minimi.</i>
+
+152
+00:07:39,693 --> 00:07:41,261
+‐ Could you skip the lesson
+and help me?!
+
+153
+00:07:41,327 --> 00:07:43,463
+<i>‐ As long as you're</i>
+<i>behind that tree, you're safe,</i>
+
+154
+00:07:43,530 --> 00:07:44,464
+<i>so stay put.</i>
+
+155
+00:07:44,531 --> 00:07:46,600
+‐ Oh, my gosh!
+
+156
+00:07:47,501 --> 00:07:49,002
+[panting]
+
+157
+00:07:49,069 --> 00:07:50,003
+Damn it!
+
+158
+00:07:54,508 --> 00:07:56,409
+[automatic gunfire]
+
+159
+00:07:56,476 --> 00:07:58,344
+‐ It shouldn't
+be much longer now.
+
+160
+00:07:58,411 --> 00:08:00,947
+LLENN: <i>What shouldn't?</i>
+<i>What are you talking about?!</i>
+
+161
+00:08:01,014 --> 00:08:03,817
+‐ Nothing.
+Just stay where you are.
+
+162
+00:08:06,653 --> 00:08:10,724
+‐ We're a rapid‐fire nightmare,
+yo! Boo‐yah!
+
+163
+00:08:10,791 --> 00:08:13,293
+‐ We won't stop firing
+'til we run out of bullets!
+
+164
+00:08:13,359 --> 00:08:17,864
+‐ The Japan Machine Gun Lovers
+are here to get it on!
+
+165
+00:08:17,931 --> 00:08:19,866
+Whoo‐hoo!
+
+166
+00:08:21,968 --> 00:08:23,837
+‐ Uh...
+
+167
+00:08:23,904 --> 00:08:26,039
+‐ Yo, we got bogies on ou‐‐
+
+168
+00:08:28,775 --> 00:08:29,743
+‐ It's a sniper!
+
+169
+00:08:29,810 --> 00:08:31,612
+[gasps] They're behind‐‐
+
+170
+00:08:32,178 --> 00:08:33,346
+‐ Take cover!
+
+171
+00:08:33,413 --> 00:08:35,081
+‐ Oh, crap!
+
+172
+00:08:37,751 --> 00:08:39,586
+‐ [gasps] The shooting stopped.
+
+173
+00:08:39,653 --> 00:08:41,487
+M: <i>Another team</i>
+<i>snuck up behind them</i>
+
+174
+00:08:41,555 --> 00:08:43,123
+<i>and started picking them off.</i>
+
+175
+00:08:43,189 --> 00:08:44,725
+<i>Perfect timing.</i>
+
+176
+00:08:44,791 --> 00:08:47,360
+<i>I'm heading over to you now,</i>
+<i>so don't shoot me.</i>
+
+177
+00:08:47,427 --> 00:08:50,564
+‐ [sighs] That was too close.
+
+178
+00:08:50,631 --> 00:08:53,700
+I almost died
+without firing a single shot.
+
+179
+00:08:53,767 --> 00:08:55,902
+[bush rustling]
+
+180
+00:08:55,969 --> 00:08:56,903
+Hey, M.
+
+181
+00:08:57,804 --> 00:08:59,405
+‐ You can borrow my scope.
+
+182
+00:08:59,472 --> 00:09:03,243
+I didn't tell you before, but I
+saw that other team on the scan.
+
+183
+00:09:03,309 --> 00:09:06,312
+They were close enough that I
+figured they'd move on 'em.
+
+184
+00:09:06,379 --> 00:09:09,149
+‐ How come the machine gunners
+didn't notice them?
+
+185
+00:09:09,215 --> 00:09:11,284
+‐ Don't know. Maybe when
+they checked the scan,
+
+186
+00:09:11,351 --> 00:09:13,353
+they didn't realize
+they were as close as they were.
+
+187
+00:09:13,419 --> 00:09:17,390
+Or maybe they saw how close you
+were and didn't check their six.
+
+188
+00:09:17,457 --> 00:09:19,192
+Either way,
+those guys were sloppy.
+
+189
+00:09:19,259 --> 00:09:22,696
+‐ Wait! This whole time,
+you were using me as a decoy
+
+190
+00:09:22,763 --> 00:09:24,831
+to get
+the machine gunners killed?!
+
+191
+00:09:24,898 --> 00:09:25,666
+‐ Yup.
+
+192
+00:09:25,732 --> 00:09:27,634
+‐ Glad I could help out.
+
+193
+00:09:27,701 --> 00:09:30,236
+‐ Let's watch the action
+from here.
+
+194
+00:09:32,539 --> 00:09:34,407
+There were five machine gunners.
+
+195
+00:09:34,474 --> 00:09:36,376
+Three are dead. That leaves two.
+
+196
+00:09:36,442 --> 00:09:39,412
+‐ They're totally distracted
+by the sniper team.
+
+197
+00:09:39,479 --> 00:09:40,947
+Wanna take 'em out?
+
+198
+00:09:41,014 --> 00:09:42,182
+‐ No way.
+
+199
+00:09:42,248 --> 00:09:44,918
+We're gonna sit here
+nice and quiet for now.
+
+200
+00:09:44,985 --> 00:09:45,852
+‐ [groans]
+
+201
+00:09:45,919 --> 00:09:47,487
+‐ Movement to the left of them
+
+202
+00:09:47,554 --> 00:09:48,522
+on the wide street.
+
+203
+00:09:48,589 --> 00:09:50,924
+Behind that torn‐up bus.
+
+204
+00:09:52,258 --> 00:09:55,395
+You see how they're advancing?
+Nice and tactical.
+
+205
+00:09:55,461 --> 00:09:56,496
+‐ Just the four?
+
+206
+00:09:56,563 --> 00:09:58,164
+‐ No, that's not the whole team.
+
+207
+00:09:58,231 --> 00:09:59,600
+‐ How do you know?
+
+208
+00:09:59,666 --> 00:10:01,635
+‐ Where are the others?
+You see 'em?
+
+209
+00:10:01,702 --> 00:10:04,204
+‐ No, but they're out there.
+
+210
+00:10:04,270 --> 00:10:06,106
+Those four are taking
+the shortest route
+
+211
+00:10:06,172 --> 00:10:08,208
+to the machine gunners.
+They're using cover and moving
+
+212
+00:10:08,274 --> 00:10:09,943
+like they know
+where they're going.
+
+213
+00:10:10,010 --> 00:10:13,246
+That means there's probably
+two snipers up in a building
+
+214
+00:10:13,313 --> 00:10:14,915
+telling them which way to go.
+
+215
+00:10:14,981 --> 00:10:17,918
+They're the ones that took out
+the machine gunners.
+
+216
+00:10:17,984 --> 00:10:20,821
+Wherever they are,
+they had nice, clean shots.
+
+217
+00:10:20,887 --> 00:10:22,288
+‐ I don't see 'em.
+
+218
+00:10:22,355 --> 00:10:23,657
+‐ That's the point.
+
+219
+00:10:23,724 --> 00:10:25,358
+A sniper that reveals
+their position
+
+220
+00:10:25,425 --> 00:10:29,062
+by letting their barrel hang out
+in the open's a dead sniper.
+
+221
+00:10:29,129 --> 00:10:31,932
+I gotta hand it to 'em,
+splitting up a team of six
+
+222
+00:10:31,998 --> 00:10:34,801
+the way they're doing's
+a heck of a strategy.
+
+223
+00:10:34,868 --> 00:10:36,102
+Whoever they are,
+
+224
+00:10:36,169 --> 00:10:38,404
+they definitely know
+what they're doing.
+
+225
+00:10:38,471 --> 00:10:40,373
+Those two are goners for sure.
+
+226
+00:10:43,143 --> 00:10:44,177
+‐ Huh?
+‐ Eh?
+
+227
+00:10:44,244 --> 00:10:45,779
+‐ Run!
+
+228
+00:10:50,717 --> 00:10:51,885
+‐ [yelps]
+
+229
+00:10:57,624 --> 00:10:59,359
+‐ They're out in the open now.
+
+230
+00:10:59,425 --> 00:11:00,761
+You gonna shoot 'em, or what?
+
+231
+00:11:00,827 --> 00:11:02,128
+‐ Hell, no.
+
+232
+00:11:02,195 --> 00:11:04,030
+I could take one of 'em out,
+
+233
+00:11:04,097 --> 00:11:06,933
+but the others would scatter
+by the time I reset.
+
+234
+00:11:07,000 --> 00:11:08,769
+Better to let 'em go.
+
+235
+00:11:08,835 --> 00:11:10,436
+Besides, they won't
+bother with us.
+
+236
+00:11:10,504 --> 00:11:12,906
+They probably think
+we retreated into the forest.
+
+237
+00:11:12,973 --> 00:11:14,407
+‐ They're on the move now!
+
+238
+00:11:14,474 --> 00:11:15,876
+‐ Got snipers.
+‐ Where?
+
+239
+00:11:15,942 --> 00:11:19,079
+‐ The building with the arch,
+coming down the side.
+
+240
+00:11:21,915 --> 00:11:24,050
+‐ What the heck? No way.
+
+241
+00:11:24,117 --> 00:11:27,420
+‐ They're rappelling. Way faster
+than taking the stairs.
+
+242
+00:11:27,487 --> 00:11:30,256
+I didn't know you could get
+a skill like that here.
+
+243
+00:11:30,323 --> 00:11:31,257
+I want it.
+
+244
+00:11:31,324 --> 00:11:33,594
+‐ That's not
+just the "GGO" skill.
+
+245
+00:11:33,660 --> 00:11:35,929
+Trust me. I have it.
+
+246
+00:11:35,996 --> 00:11:37,598
+The version
+you can get in‐game
+
+247
+00:11:37,664 --> 00:11:41,001
+doesn't let you descend as fast
+as those guys are doing it.
+
+248
+00:11:41,067 --> 00:11:42,903
+‐ Then how?
+‐ Like I said,
+
+249
+00:11:42,969 --> 00:11:45,005
+they didn't pick up
+moves like that in here.
+
+250
+00:11:45,071 --> 00:11:47,307
+Those guys know
+how to rappel for real,
+
+251
+00:11:47,373 --> 00:11:49,009
+and they're good at it.
+
+252
+00:11:49,075 --> 00:11:51,712
+‐ Who are they?
+Mountain climbers, maybe?
+
+253
+00:11:51,778 --> 00:11:53,313
+‐ Not the way they handle guns.
+
+254
+00:11:53,379 --> 00:11:56,416
+‐ If you know what they do
+in the real world,
+
+255
+00:11:56,482 --> 00:12:00,854
+why don't you just come
+right out and tell me already?
+
+256
+00:12:00,921 --> 00:12:03,990
+‐ It's a guess, but seeing
+how they move as a unit,
+
+257
+00:12:04,057 --> 00:12:07,027
+have tactical skills,
+and rappel as fast as they do,
+
+258
+00:12:07,093 --> 00:12:11,097
+I have a feeling they all
+have serious combat training.
+
+259
+00:12:11,164 --> 00:12:11,898
+‐ For real?
+
+260
+00:12:11,965 --> 00:12:14,000
+‐ Those guys are pros.
+
+261
+00:12:14,067 --> 00:12:16,670
+Handling weapons
+is part of their job.
+
+262
+00:12:16,737 --> 00:12:19,305
+They might be cops or soldiers,
+
+263
+00:12:19,372 --> 00:12:22,743
+maybe even special forces.
+Take your pick.
+
+264
+00:12:22,809 --> 00:12:24,911
+‐ [gasping]
+
+265
+00:12:27,614 --> 00:12:31,284
+What?! Isn't that the same
+as cheating, then?!
+
+266
+00:12:31,351 --> 00:12:33,620
+They can't play if they're
+professional soldiers!
+
+267
+00:12:33,687 --> 00:12:36,523
+‐ Last time I checked the rules,
+they didn't say they couldn't.
+
+268
+00:12:36,590 --> 00:12:37,858
+‐ [groans]
+
+269
+00:12:37,924 --> 00:12:40,226
+‐ "GGO" is perfect
+for folks like them.
+
+270
+00:12:40,293 --> 00:12:42,996
+They can play it to train,
+and now with Squad Jam,
+
+271
+00:12:43,063 --> 00:12:45,098
+they can test their skills
+against others.
+
+272
+00:12:45,165 --> 00:12:47,601
+‐ So now what?
+If we don't take them out,
+
+273
+00:12:47,668 --> 00:12:50,236
+we can't get in the city,
+and we're stuck.
+
+274
+00:12:50,303 --> 00:12:52,706
+Can't we just charge in,
+guns blazing?
+
+275
+00:12:52,773 --> 00:12:55,509
+‐ Nope.
+‐ Can't we at least try it?!
+
+276
+00:12:55,576 --> 00:12:57,377
+Fine. Have it your way.
+
+277
+00:12:57,443 --> 00:13:00,013
+Okay, now what do we do?
+
+278
+00:13:00,080 --> 00:13:02,115
+‐ You consider yourself lucky?
+
+279
+00:13:02,182 --> 00:13:03,283
+‐ Excuse me?
+
+280
+00:13:03,349 --> 00:13:05,786
+‐ Up to this point,
+would you say your life's
+
+281
+00:13:05,852 --> 00:13:07,621
+been blessed with good luck?
+
+282
+00:13:07,688 --> 00:13:10,456
+‐ Hmm, never thought about it.
+
+283
+00:13:10,524 --> 00:13:12,526
+You know, yeah!
+
+284
+00:13:12,593 --> 00:13:14,460
+My life has been lucky.
+
+285
+00:13:14,528 --> 00:13:16,362
+I'm a lucky girl.
+
+286
+00:13:16,429 --> 00:13:17,397
+[thinking]
+<i>I think.</i>
+
+287
+00:13:18,699 --> 00:13:19,933
+‐ Good enough.
+
+288
+00:13:20,000 --> 00:13:22,002
+We're gonna bet
+on that luck of yours.
+
+289
+00:13:22,068 --> 00:13:24,571
+We'll wait here
+'til the next scan.
+
+290
+00:13:24,638 --> 00:13:26,773
+If luck's on our side,
+we'll make our move.
+
+291
+00:13:26,840 --> 00:13:27,974
+‐ What are you thinking?
+
+292
+00:13:28,041 --> 00:13:30,010
+‐ I'm betting
+the machine gunners
+
+293
+00:13:30,076 --> 00:13:33,747
+made so much noise it attracts
+the other teams to the area.
+
+294
+00:13:33,814 --> 00:13:35,448
+While the pro team's
+dealing with them,
+
+295
+00:13:35,516 --> 00:13:39,185
+we'll hop onto the highway and
+make a beeline to the end of it.
+
+296
+00:13:39,252 --> 00:13:41,054
+Then, we'll head
+into the residential area
+
+297
+00:13:41,121 --> 00:13:42,889
+and hide there
+'til the next scan.
+
+298
+00:13:42,956 --> 00:13:45,025
+‐ Sounds like a plan.
+
+299
+00:13:46,660 --> 00:13:49,229
+‐ If there's another team
+within three klicks of us,
+
+300
+00:13:49,295 --> 00:13:51,565
+there's a chance
+we'll run into them.
+
+301
+00:13:54,034 --> 00:13:55,468
+‐ Seven teams gone.
+
+302
+00:13:55,536 --> 00:13:57,370
+That leaves 16 in play.
+
+303
+00:13:57,437 --> 00:13:58,739
+[gasps] See that?
+
+304
+00:13:58,805 --> 00:14:01,441
+There's three teams closing
+on the pros and one straggler.
+
+305
+00:14:01,508 --> 00:14:06,079
+‐ Guess you were right
+about your luck. Good for us.
+
+306
+00:14:06,146 --> 00:14:08,915
+Bad for those
+other teams, though.
+
+307
+00:14:10,951 --> 00:14:13,019
+‐ Well?
+‐ Looks good.
+
+308
+00:14:13,086 --> 00:14:14,655
+We'll wait
+'til the fireworks start
+
+309
+00:14:14,721 --> 00:14:16,557
+and then get
+the hell out of here.
+
+310
+00:14:16,623 --> 00:14:17,558
+‐ [giggles]
+
+311
+00:14:18,491 --> 00:14:20,426
+[insects chirping]
+
+312
+00:14:21,828 --> 00:14:22,996
+‐ [automatic gunfire]
+‐ [gasps]
+
+313
+00:14:23,063 --> 00:14:25,498
+They found each other.
+
+314
+00:14:25,566 --> 00:14:27,868
+‐ Time to move! Go! Go!
+
+315
+00:14:32,706 --> 00:14:35,175
+‐ Is it okay I'm leaving you
+behind like this?
+
+316
+00:14:35,241 --> 00:14:38,111
+‐ [on radio] <i>If I need you</i>
+<i>to stop, I'll tell you.</i>
+
+317
+00:14:38,178 --> 00:14:41,147
+‐ [thinking] <i>Wait. Is he</i>
+<i>using me as a decoy again?</i>
+
+318
+00:14:41,214 --> 00:14:42,983
+<i>I'm supposed to be</i>
+<i>the team leader,</i>
+
+319
+00:14:43,049 --> 00:14:45,318
+<i>and he's treating me</i>
+<i>like a grunt.</i>
+
+320
+00:14:52,425 --> 00:14:54,327
+[shuffling]
+
+321
+00:14:54,394 --> 00:14:56,329
+‐ [grunting]
+
+322
+00:15:06,973 --> 00:15:09,275
+I can't believe
+I made it out alive.
+
+323
+00:15:09,342 --> 00:15:13,113
+Yo, dudes!
+Anyone still alive out there?
+
+324
+00:15:13,179 --> 00:15:15,181
+Man: Yeah! I'm still here.
+
+325
+00:15:15,248 --> 00:15:16,683
+‐ Where?! Come on out!
+
+326
+00:15:16,750 --> 00:15:20,486
+Where you at? Let's get
+the hell out of here already!
+
+327
+00:15:20,554 --> 00:15:23,790
+‐ I think there's been
+some confusion.
+
+328
+00:15:23,857 --> 00:15:26,960
+I'm on the other team, dude.
+
+329
+00:15:29,730 --> 00:15:32,032
+That was too easy.
+
+330
+00:15:32,098 --> 00:15:33,499
+What a jackass.
+
+331
+00:15:33,567 --> 00:15:36,002
+Should've checked his team stat
+before calling out.
+
+332
+00:15:36,069 --> 00:15:38,972
+Ah, looks like I'm
+the only one left on‐‐
+
+333
+00:15:42,342 --> 00:15:44,678
+‐ Like shooting fish
+in a barrel.
+
+334
+00:15:44,745 --> 00:15:47,247
+‐ Hanging back and letting
+these bozos off each other
+
+335
+00:15:47,313 --> 00:15:48,815
+is the only way to play!
+
+336
+00:15:48,882 --> 00:15:53,186
+‐ Best part about battle royales
+is killing fools like him.
+
+337
+00:15:53,920 --> 00:15:55,989
+‐ Aw, man!
+‐ Damn.
+
+338
+00:16:00,193 --> 00:16:02,963
+‐ [radio]
+<i>Bravo, Charlie, this is Delta.</i>
+
+339
+00:16:03,029 --> 00:16:04,731
+<i>Kitchen's clean.</i>
+
+340
+00:16:04,798 --> 00:16:05,966
+‐ Roger that, Delta.
+
+341
+00:16:06,032 --> 00:16:07,834
+We'll check
+the next scan from here.
+
+342
+00:16:07,901 --> 00:16:09,503
+Stand by, and stay sharp. Over.
+
+343
+00:16:09,570 --> 00:16:13,239
+‐ Yo, Chief, what do you want me
+to do about that pink chick
+
+344
+00:16:13,306 --> 00:16:16,242
+and Bigfoot hauling ass
+down the highway. Take 'em?
+
+345
+00:16:22,148 --> 00:16:25,051
+LLENN: Man, what a run!
+
+346
+00:16:25,118 --> 00:16:27,420
+‐ Surprised we
+didn't see anyone.
+
+347
+00:16:27,487 --> 00:16:28,622
+‐ Or get shot.
+
+348
+00:16:28,689 --> 00:16:30,056
+‐ Yeah.
+
+349
+00:16:30,123 --> 00:16:31,324
+‐ When's the next scan?
+
+350
+00:16:31,391 --> 00:16:34,360
+‐ It's coming up. Get ready.
+
+351
+00:16:38,264 --> 00:16:41,467
+‐ Eight teams were killed
+in the desert this time.
+
+352
+00:16:41,535 --> 00:16:43,770
+‐ Probably fighting
+for the central ruins there.
+
+353
+00:16:43,837 --> 00:16:45,606
+It's a prime spot.
+
+354
+00:16:48,008 --> 00:16:49,242
+‐ Amazing.
+
+355
+00:16:49,309 --> 00:16:51,878
+‐ You talking about
+the pro team's skill?
+
+356
+00:16:51,945 --> 00:16:53,814
+‐ And your predictions.
+
+357
+00:16:53,880 --> 00:16:56,016
+‐ Here we go. We're next.
+
+358
+00:16:58,418 --> 00:16:59,419
+‐ No one.
+
+359
+00:16:59,485 --> 00:17:00,721
+Thank goodness.
+
+360
+00:17:00,787 --> 00:17:02,422
+‐ And that does it for the scan.
+
+361
+00:17:02,488 --> 00:17:05,458
+It looks like 15 teams
+have been killed off so far.
+
+362
+00:17:05,526 --> 00:17:07,293
+That leaves eight, including us.
+
+363
+00:17:07,360 --> 00:17:09,395
+Luck's definitely
+on our side today.
+
+364
+00:17:09,462 --> 00:17:12,198
+‐ Which of the other teams do
+you think's gonna come after us?
+
+365
+00:17:12,265 --> 00:17:14,901
+‐ There's two in the forest
+that are close,
+
+366
+00:17:14,968 --> 00:17:16,269
+but we can ignore them.
+
+367
+00:17:16,336 --> 00:17:18,672
+Looks like they're having
+a bit of a standoff.
+
+368
+00:17:18,739 --> 00:17:21,174
+‐ If each one's waiting
+for the other to make a move,
+
+369
+00:17:21,241 --> 00:17:22,809
+they'll be there a long time.
+
+370
+00:17:22,876 --> 00:17:26,212
+‐ I have a feeling this team'll
+sneak up on them from behind.
+
+371
+00:17:26,279 --> 00:17:27,881
+That'll shake things up.
+
+372
+00:17:27,948 --> 00:17:29,650
+The team at the spaceship
+in the marsh
+
+373
+00:17:29,716 --> 00:17:32,118
+has the upper hand,
+tactically speaking.
+
+374
+00:17:32,185 --> 00:17:34,220
+If they're smart,
+they'll stay put.
+
+375
+00:17:34,287 --> 00:17:36,322
+‐ Hmm.
+‐ As for the team in the desert
+
+376
+00:17:36,389 --> 00:17:37,758
+and the one in the prairie,
+
+377
+00:17:37,824 --> 00:17:39,593
+I don't know what
+their next move's gonna be,
+
+378
+00:17:39,660 --> 00:17:42,362
+especially the one
+near the ruins.
+
+379
+00:17:42,428 --> 00:17:44,464
+It's weird
+they haven't entered them.
+
+380
+00:17:44,531 --> 00:17:46,266
+It's a good place to dig in.
+
+381
+00:17:46,332 --> 00:17:48,969
+‐ Mm‐hmm. I was just thinking
+the same thing.
+
+382
+00:17:49,035 --> 00:17:51,972
+‐ Let's not worry about them
+'til the next scan.
+
+383
+00:17:52,038 --> 00:17:54,374
+We got bigger fish to fry
+right here.
+
+384
+00:17:54,440 --> 00:17:56,376
+‐ Yeah you're right,
+the pro team.
+
+385
+00:17:56,442 --> 00:18:00,080
+‐ If they're not in this to win,
+but for combat experience,
+
+386
+00:18:00,146 --> 00:18:02,248
+they won't wait
+for others to come to them.
+
+387
+00:18:02,315 --> 00:18:04,918
+They'll go after
+the closest team, us.
+
+388
+00:18:04,985 --> 00:18:09,289
+‐ Well, now what're we gonna do?
+We can't beat pro soldiers.
+
+389
+00:18:09,355 --> 00:18:13,126
+‐ Well, if we play
+our cards right,
+
+390
+00:18:13,193 --> 00:18:14,995
+there's a good chance we can.
+
+391
+00:18:15,061 --> 00:18:15,996
+‐ Really?!
+
+392
+00:18:16,062 --> 00:18:17,764
+‐ Your size, speed and agility
+
+393
+00:18:17,831 --> 00:18:20,233
+might give us the advantage,
+if you're up for it.
+
+394
+00:18:20,300 --> 00:18:22,435
+‐ [laughs] Sure!
+I'm up for anything!
+
+395
+00:18:22,503 --> 00:18:24,538
+Come on!
+Tell me the plan already!
+
+396
+00:18:24,605 --> 00:18:25,539
+‐ All right.
+
+397
+00:18:25,606 --> 00:18:27,373
+You got it.
+
+398
+00:18:28,441 --> 00:18:30,176
+‐ If we're gonna beat
+the next scan,
+
+399
+00:18:30,243 --> 00:18:31,878
+we need to hustle.
+
+400
+00:18:31,945 --> 00:18:33,847
+New orders, people.
+
+401
+00:18:35,348 --> 00:18:37,317
+We got ten minutes
+to get our asses
+
+402
+00:18:37,383 --> 00:18:39,219
+to the residential district.
+
+403
+00:18:40,286 --> 00:18:41,855
+[radio] <i>Spotted a team of two</i>
+
+404
+00:18:41,922 --> 00:18:43,189
+<i>on the highway headed there,</i>
+
+405
+00:18:43,256 --> 00:18:46,026
+<i>a pink munchkin</i>
+<i>and some big guy,</i>
+
+406
+00:18:46,092 --> 00:18:48,294
+<i>types of weapons unknown.</i>
+
+407
+00:18:53,634 --> 00:18:55,502
+Scan in 40.
+
+408
+00:18:56,603 --> 00:18:58,404
+Everybody hold.
+
+409
+00:18:59,973 --> 00:19:01,307
+Stay alert.
+
+410
+00:19:01,374 --> 00:19:03,443
+[timer beeping]
+
+411
+00:19:06,647 --> 00:19:07,714
+Scan starting.
+
+412
+00:19:09,883 --> 00:19:10,817
+Huh.
+
+413
+00:19:13,620 --> 00:19:16,990
+Damn. They're close,
+due north, 80 meters!
+
+414
+00:19:17,057 --> 00:19:18,391
+‐ I don't see anyone.
+
+415
+00:19:18,458 --> 00:19:20,393
+‐ I got nothing
+on my end, either.
+
+416
+00:19:20,460 --> 00:19:24,765
+‐ Same here. No vehicles
+in the intersection.
+
+417
+00:19:24,831 --> 00:19:26,366
+‐ Move up.
+
+418
+00:19:26,432 --> 00:19:28,334
+Team: Roger that.
+
+419
+00:19:33,239 --> 00:19:34,941
+‐ <i>Scan doesn't show elevation.</i>
+
+420
+00:19:35,008 --> 00:19:38,044
+They could be hiding
+down a manhole in front of you.
+
+421
+00:19:38,111 --> 00:19:39,079
+Watch your six.
+
+422
+00:19:39,145 --> 00:19:40,847
+‐ We're there.
+
+423
+00:19:40,914 --> 00:19:43,817
+I'm looking, Chief.
+I don't see any manholes.
+
+424
+00:19:43,884 --> 00:19:48,021
+‐ Facing northwest on my end.
+No manholes here.
+
+425
+00:19:48,088 --> 00:19:49,322
+Zero movement, sir.
+
+426
+00:19:49,389 --> 00:19:51,124
+Clear to the northeast.
+
+427
+00:19:51,191 --> 00:19:52,726
+No enemies,
+no manholes, nothing.
+
+428
+00:19:52,793 --> 00:19:54,628
+‐ I'm clear to the north,
+too, Chief.
+
+429
+00:19:54,695 --> 00:19:55,962
+There's no enemies in sight.
+
+430
+00:19:57,397 --> 00:20:00,500
+<i>Yo, Chief,</i>
+<i>these scans ever make mistakes?</i>
+
+431
+00:20:00,567 --> 00:20:03,837
+‐ That's a negative.
+The scans are always solid.
+
+432
+00:20:03,904 --> 00:20:06,607
+Call out everything you guys
+see in the intersection.
+
+433
+00:20:06,673 --> 00:20:10,744
+‐ <i>Some cracks in the road,</i>
+<i>a rusty bike on the ground.</i>
+
+434
+00:20:10,811 --> 00:20:14,347
+<i>‐ I see a civvy car tire</i>
+<i>lying on its side,</i>
+
+435
+00:20:14,414 --> 00:20:16,683
+<i>two broken branches</i>
+<i>in the street,</i>
+
+436
+00:20:16,750 --> 00:20:19,586
+<i>a dirty suitcase, an empty can.</i>
+
+437
+00:20:19,653 --> 00:20:21,354
+<i>Scratch that. Three cans.</i>
+
+438
+00:20:21,421 --> 00:20:25,491
+<i>‐ I got a shopping cart</i>
+<i>over here, nothing in it.</i>
+
+439
+00:20:25,559 --> 00:20:27,460
+<i>No holes in the ground.</i>
+
+440
+00:20:27,528 --> 00:20:29,796
+<i>‐ There's nothing out here</i>
+<i>but us, Chief.</i>
+
+441
+00:20:29,863 --> 00:20:30,864
+‐ [groans]
+
+442
+00:20:33,333 --> 00:20:34,434
+Son of a‐‐
+
+443
+00:20:34,500 --> 00:20:36,469
+The suitcase! Light it up!
+
+444
+00:20:43,043 --> 00:20:45,779
+M: <i>Forty‐five degrees right,</i>
+<i>Seven meters ahead.</i>
+
+445
+00:20:51,752 --> 00:20:53,386
+‐ [yells]
+
+446
+00:20:54,988 --> 00:20:58,024
+M: <i>If you take someone down,</i>
+<i>use their corpse for a shield.</i>
+
+447
+00:20:58,091 --> 00:21:01,394
+<i>In Squad Jam, a dead body</i>
+<i>becomes an "Immortal Object,"</i>
+
+448
+00:21:01,461 --> 00:21:03,429
+<i>so you can use it for cover</i>
+<i>under fire.</i>
+
+449
+00:21:03,496 --> 00:21:05,599
+‐ Crap! She's so small!
+
+450
+00:21:12,272 --> 00:21:13,740
+‐ Little runt!
+
+451
+00:21:15,809 --> 00:21:17,544
+[gasps, growls]
+
+452
+00:21:23,416 --> 00:21:25,752
+[gasps] Aw, come on!
+
+453
+00:21:31,558 --> 00:21:34,761
+‐ We're done. No need to engage.
+
+454
+00:21:34,828 --> 00:21:36,930
+‐ It's probably for the better.
+
+455
+00:21:41,167 --> 00:21:44,437
+‐ That's not real‐world speed.
+It's the game.
+
+456
+00:21:44,505 --> 00:21:46,306
+It's no good to us.
+
+457
+00:21:46,372 --> 00:21:48,008
+Eh, training's over for today.
+
+458
+00:21:48,074 --> 00:21:50,343
+Pulling the plug.
+
+459
+00:21:59,119 --> 00:22:00,053
+‐ Awesome!
+
+460
+00:22:00,120 --> 00:22:01,321
+‐ Talk about fast.
+
+461
+00:22:01,387 --> 00:22:03,056
+‐ She took out all those pros.
+
+462
+00:22:03,123 --> 00:22:04,791
+‐ No wonder she's so famous.
+
+463
+00:22:04,858 --> 00:22:06,860
+‐ I still can't believe
+she did it.
+
+464
+00:22:06,927 --> 00:22:10,030
+‐ And we know who LLENN is
+in real life.
+
+465
+00:22:10,096 --> 00:22:12,699
+You rock, Karen!
+
+466
+00:22:12,766 --> 00:22:16,670
+‐ [chuckles] Come on, guys.
+You're embarrassing me.
+
+467
+00:22:16,737 --> 00:22:20,073
+["To see the future"
+by Tomori Kusunoki playing]
+
+468
+00:22:20,140 --> 00:22:22,075
+‐ [singing in Japanese]
+
+469
+00:23:11,658 --> 00:23:14,327
+♪ You say good night ♪
+
+470
+00:23:14,394 --> 00:23:16,530
+[singing in Japanese]
+
+471
+00:23:34,748 --> 00:23:36,550
+♪ To see the future ♪
+

@@ -1,0 +1,792 @@
+﻿1
+00:02:40,541 --> 00:02:43,458
+Do you want to be hurt, too?
+
+2
+00:02:43,541 --> 00:02:47,708
+Do you want your heart to feel
+like it's being scraped with a rasp?
+
+3
+00:02:47,791 --> 00:02:51,500
+If you do, don't look away, whatever you do.
+
+4
+00:03:08,708 --> 00:03:12,583
+Nobody knows if there is or not.
+
+5
+00:03:12,666 --> 00:03:18,583
+It doesn't matter to the
+user if God exists in the Wired.
+
+6
+00:03:18,666 --> 00:03:20,500
+Just a second, Lain.
+
+7
+00:03:20,583 --> 00:03:23,083
+Let me take out this guy first.
+
+8
+00:03:25,375 --> 00:03:30,625
+What's so fun about this?
+All you do is kill other players.
+
+9
+00:03:30,708 --> 00:03:35,791
+Nobody knows <i>what's</i> fun and <i>why</i> .
+
+10
+00:03:41,416 --> 00:03:45,583
+"Tachibana General Laboratories"
+was written on the door plate.
+
+11
+00:03:56,250 --> 00:04:00,375
+A company as big as Tachibana
+General Labs wouldn't do anything illegal.
+
+12
+00:04:00,458 --> 00:04:03,083
+I've heard some rumors, though...
+
+13
+00:04:03,166 --> 00:04:04,916
+Rumors?
+
+14
+00:04:05,000 --> 00:04:09,666
+Do you know how we're able to
+exchange information in the Wired like this?
+
+15
+00:04:09,750 --> 00:04:12,958
+Oh, so you're testing me, huh?
+
+16
+00:04:13,041 --> 00:04:15,625
+You're talking about the IP.
+
+17
+00:04:17,041 --> 00:04:18,875
+Sorry. You're right.
+
+18
+00:04:18,958 --> 00:04:22,750
+We aren't usually aware
+of the protocol's existence.
+
+19
+00:04:22,833 --> 00:04:29,666
+But the current 6th-gen protocol
+has reached its data throughput limit.
+
+20
+00:04:29,750 --> 00:04:33,375
+The 7th-gen protocol...
+
+21
+00:04:33,458 --> 00:04:36,416
+Yes. The 7th-gen protocol.
+
+22
+00:04:36,500 --> 00:04:39,750
+Big companies are the ones that're
+making it into the new infrastructure.
+
+23
+00:04:39,833 --> 00:04:45,666
+To control the protocol is to
+control the economy of the Wired.
+
+24
+00:04:45,750 --> 00:04:48,291
+I hear there's constant
+sabotage attempts going on.
+
+25
+00:04:48,375 --> 00:04:51,958
+And the party behind it is...
+
+26
+00:04:52,041 --> 00:04:54,583
+Tachibana General Labs.
+
+27
+00:05:16,125 --> 00:05:17,708
+Sis?
+
+28
+00:06:30,625 --> 00:06:34,041
+Mom? Dad?
+
+29
+00:06:34,125 --> 00:06:35,708
+I...
+
+30
+00:06:38,250 --> 00:06:43,958
+A while ago, somebody asked me something.
+
+31
+00:06:44,041 --> 00:06:49,708
+"Are you Lain Iwakura?
+Are your parents really your parents?"
+
+32
+00:06:50,791 --> 00:06:53,125
+Isn't that funny?
+
+33
+00:06:53,208 --> 00:06:56,625
+It's funny, isn't it?
+
+34
+00:06:56,708 --> 00:07:00,541
+People say the funniest things, huh?
+
+35
+00:07:00,625 --> 00:07:02,208
+Right?
+
+36
+00:07:45,208 --> 00:07:47,666
+--Good morning!
+--'Morning!
+
+37
+00:07:55,458 --> 00:07:57,083
+Arisu...
+
+38
+00:07:57,166 --> 00:07:58,750
+Good morning.
+
+39
+00:08:00,666 --> 00:08:04,041
+W-What's wrong?
+
+40
+00:08:07,458 --> 00:08:10,750
+I don't believe it, but...
+
+41
+00:08:11,875 --> 00:08:14,750
+W-What?
+
+42
+00:08:14,833 --> 00:08:17,291
+Lain... You didn't do it, right?
+
+43
+00:08:17,375 --> 00:08:21,000
+D-Didn't do what?
+
+44
+00:08:21,083 --> 00:08:23,583
+She's just playing innocent!
+
+45
+00:08:23,666 --> 00:08:25,791
+Reika! You don't know that!
+
+46
+00:08:25,875 --> 00:08:29,125
+Lain, seriously... It wasn't you?
+
+47
+00:08:29,208 --> 00:08:32,708
+What... are you talking about?
+
+48
+00:08:32,791 --> 00:08:36,375
+Lain, in the Wired, did you...
+
+49
+00:08:42,791 --> 00:08:46,750
+No, forget about it.
+It couldn't have been you, Lain.
+
+50
+00:08:48,708 --> 00:08:52,791
+I trust you. Okay?
+
+51
+00:08:52,875 --> 00:08:54,458
+Arisu...!
+
+52
+00:09:19,541 --> 00:09:21,291
+Arisu!
+
+53
+00:09:56,708 --> 00:10:00,791
+It's too dangerous.
+Avoid approving any more bills.
+
+54
+00:10:00,875 --> 00:10:05,583
+I can't believe it! How can such a
+nice guy be into such weird stuff?
+
+55
+00:10:05,666 --> 00:10:08,583
+There's an extremely serious bug in Protocol 6.
+
+56
+00:10:08,666 --> 00:10:11,750
+Damage caused by this may
+prove disastrous in the Wired...
+
+57
+00:10:11,833 --> 00:10:14,750
+Every night, a small, child-like person in a...
+
+58
+00:10:14,833 --> 00:10:17,000
+red and green striped
+sweater appears in her room...
+
+59
+00:10:17,083 --> 00:10:20,333
+When she was in high school,
+that pop singer hit someone...
+
+60
+00:10:20,416 --> 00:10:21,791
+...with her boyfriend's car and fled the scene!
+
+61
+00:10:21,875 --> 00:10:25,708
+It's gotta be true! I heard it firsthand!
+
+62
+00:10:26,750 --> 00:10:28,708
+That building's a famous haunted spot.
+
+63
+00:10:28,791 --> 00:10:30,333
+If you look at a terminal at night,
+
+64
+00:10:30,416 --> 00:10:32,708
+internal mail shows up,
+but there's nobody there!
+
+65
+00:10:32,791 --> 00:10:35,791
+The Knights don't exist! Some
+American students started it as a joke!
+
+66
+00:10:35,875 --> 00:10:39,291
+Shut up! Who cares about any of that?
+
+67
+00:10:39,375 --> 00:10:42,500
+Don't you find it interesting?
+
+68
+00:10:43,750 --> 00:10:45,333
+Who's there?
+
+69
+00:10:46,750 --> 00:10:50,166
+You're looking for me, aren't you?
+
+70
+00:10:50,250 --> 00:10:52,625
+So God makes His grand entrance, huh?
+
+71
+00:10:52,708 --> 00:10:54,958
+How do you define "God"?
+
+72
+00:10:55,041 --> 00:10:58,416
+If it's the creator of the world, that's not me.
+
+73
+00:10:58,500 --> 00:11:03,833
+The all-powerful ruler of the world?
+You give God too much credit.
+
+74
+00:11:03,916 --> 00:11:06,333
+Where are you?
+
+75
+00:11:06,416 --> 00:11:11,833
+But if you define God as one who
+exists everywhere in that other world...?
+
+76
+00:11:11,916 --> 00:11:16,458
+If that's what you mean, then yes.
+I suppose you could call me that.
+
+77
+00:11:16,541 --> 00:11:20,583
+I have only a slight influence on
+the workings of the world, however.
+
+78
+00:11:20,666 --> 00:11:22,375
+Who the hell <i>are</i> you?!
+
+79
+00:11:22,458 --> 00:11:24,250
+I am you.
+
+80
+00:11:24,333 --> 00:11:30,958
+You must have realized that another
+you has always existed here in the Wired.
+
+81
+00:11:32,666 --> 00:11:34,958
+You are merely a hologram of that other you.
+
+82
+00:11:35,041 --> 00:11:37,125
+You are just a body.
+
+83
+00:11:37,208 --> 00:11:41,958
+You... expect me to believe that?
+
+84
+00:11:42,041 --> 00:11:45,833
+That's impossible. It's crazy.
+
+85
+00:11:45,916 --> 00:11:48,791
+But you don't think that
+the you in the real world...
+
+86
+00:11:48,875 --> 00:11:53,333
+...is the same as the one
+standing here in the Wired, do you?
+
+87
+00:11:53,416 --> 00:11:57,458
+But I'm me...
+
+88
+00:12:27,041 --> 00:12:30,041
+"Lain is a Peeping Tom."
+
+89
+00:12:34,375 --> 00:12:38,291
+"Peeping Tom"
+
+90
+00:13:35,833 --> 00:13:37,750
+Arisu?
+
+91
+00:13:37,833 --> 00:13:39,625
+Arisu? Where are you?
+
+92
+00:13:39,708 --> 00:13:41,000
+"Don't worry about the rumors! Don't worry about it!"
+Arisu? Where are you?
+
+93
+00:13:41,083 --> 00:13:43,083
+Arisu?
+
+94
+00:13:43,166 --> 00:13:44,250
+Arisu!
+
+95
+00:13:44,333 --> 00:13:45,958
+Arisu! Where are you?
+
+96
+00:13:46,041 --> 00:13:47,625
+Arisu!
+
+97
+00:13:50,333 --> 00:13:54,166
+Arisu, where are you? Arisu!
+
+98
+00:13:55,750 --> 00:13:58,125
+What did I do?
+
+99
+00:13:58,208 --> 00:14:01,208
+What did I do in the Wired?
+
+100
+00:14:01,291 --> 00:14:05,541
+What's the other me doing?
+
+101
+00:14:15,291 --> 00:14:19,250
+"Don't worry about the rumors!
+Don't worry about it!"
+
+102
+00:15:10,041 --> 00:15:14,041
+Is it all right for you to
+do this with a teacher?
+
+103
+00:15:14,125 --> 00:15:16,291
+N-No, it's not...
+
+104
+00:15:16,375 --> 00:15:19,875
+Why do it, then?
+
+105
+00:15:19,958 --> 00:15:22,208
+Because... I want to.
+
+106
+00:15:47,125 --> 00:15:53,708
+"Hey, do you know who Arisu Mizuki likes?"
+
+107
+00:15:56,416 --> 00:16:00,625
+"Do you know who she's thinking
+of when she plays with herself?"
+
+108
+00:16:04,500 --> 00:16:09,041
+It <i>was</i> you who told everyone?
+The rumors were true?!
+
+109
+00:16:10,833 --> 00:16:13,041
+Lain!
+
+110
+00:16:13,125 --> 00:16:16,000
+You've been sitting there quietly,
+watching me all along?!
+
+111
+00:16:16,083 --> 00:16:21,375
+You saw what I didn't want anybody to know!
+When I didn't want anybody to see!
+
+112
+00:16:21,458 --> 00:16:22,916
+And when I...
+
+113
+00:16:24,333 --> 00:16:27,083
+Tell me it isn't true, Lain!
+
+114
+00:16:27,875 --> 00:16:30,250
+Lain!
+
+115
+00:16:30,333 --> 00:16:31,916
+You...
+
+116
+00:17:19,875 --> 00:17:21,708
+Who <i>are</i> you?
+
+117
+00:17:23,000 --> 00:17:25,625
+You're not me.
+
+118
+00:17:25,708 --> 00:17:28,416
+I'd never do what you do.
+
+119
+00:17:28,500 --> 00:17:30,041
+I...
+
+120
+00:17:30,125 --> 00:17:35,708
+Stop it! Why are you acting
+like the part of me that I hate?
+
+121
+00:17:44,208 --> 00:17:45,791
+You...
+
+122
+00:17:48,000 --> 00:17:51,458
+I'm committing suicide!
+
+123
+00:17:55,000 --> 00:17:58,166
+Why? Why are you warm?
+
+124
+00:17:58,250 --> 00:18:02,750
+Why do I have to feel your body heat?
+
+125
+00:18:02,833 --> 00:18:06,583
+Hey, I'm Lain, aren't I?
+
+126
+00:18:06,666 --> 00:18:07,791
+No!
+
+127
+00:18:07,875 --> 00:18:09,958
+You're wrong!
+
+128
+00:18:29,416 --> 00:18:32,500
+What <i>are</i> these things?
+
+129
+00:18:32,583 --> 00:18:34,333
+They're all you.
+
+130
+00:18:34,416 --> 00:18:38,041
+I said that you've always
+existed in the Wired, didn't I?
+
+131
+00:18:38,791 --> 00:18:40,541
+You're the same as me.
+
+132
+00:18:40,625 --> 00:18:42,708
+You're omnipresent in the Wired.
+
+133
+00:18:42,791 --> 00:18:49,666
+Wherever anyone is, wherever
+they go, you have always been there.
+
+134
+00:18:49,750 --> 00:18:53,250
+You've watched what they
+didn't want others to see.
+
+135
+00:18:53,333 --> 00:18:56,666
+You've told everyone about it, that's all.
+
+136
+00:18:56,750 --> 00:18:58,625
+It was the right thing to do.
+
+137
+00:18:58,708 --> 00:19:03,833
+The Wired's information
+should be shared, shouldn't it?
+
+138
+00:19:11,500 --> 00:19:16,000
+Everything you say is a lie.
+
+139
+00:19:16,083 --> 00:19:17,833
+Why is that?
+
+140
+00:19:17,916 --> 00:19:22,333
+Arisu and the others said that they
+saw me in the Wired when I wasn't there.
+
+141
+00:19:22,416 --> 00:19:25,500
+As long as I'm aware of myself...
+
+142
+00:19:25,583 --> 00:19:28,625
+...my true self is inside of me!
+
+143
+00:19:30,291 --> 00:19:34,125
+You're telling me that these dupes are   <i>me</i> ?
+
+144
+00:19:34,208 --> 00:19:36,875
+What a load of garbage!
+
+145
+00:19:39,291 --> 00:19:41,000
+I...
+
+146
+00:19:41,083 --> 00:19:44,750
+If I'm really what you say I am, then...
+
+147
+00:19:44,833 --> 00:19:48,291
+Then what, Lain?
+
+148
+00:19:48,375 --> 00:19:53,958
+Their memories of being seen by Lain...
+I could delete that information!
+
+149
+00:19:56,333 --> 00:19:59,291
+That's true. Give it a try.
+
+150
+00:19:59,375 --> 00:20:03,250
+You were born with that kind of power.
+
+151
+00:20:22,416 --> 00:20:25,291
+--Good morning!
+--'Morning!
+
+152
+00:20:33,625 --> 00:20:35,208
+Lain!
+
+153
+00:20:37,750 --> 00:20:39,916
+Hey, Lain!
+
+154
+00:20:42,541 --> 00:20:44,291
+They forgot?
+
+155
+00:20:47,375 --> 00:20:49,208
+They really forgot?
+
+156
+00:20:49,291 --> 00:20:52,333
+Lain!
+
+157
+00:20:53,875 --> 00:20:56,000
+They did!
+
+158
+00:20:56,083 --> 00:20:57,666
+Arisu!
+
+159
+00:21:00,958 --> 00:21:04,750
+W-What?
+
+160
+00:21:04,833 --> 00:21:07,541
+Arisu!
+
+161
+00:21:07,625 --> 00:21:10,458
+Hey, I wanna go to Cyberia today!
+
+162
+00:21:10,541 --> 00:21:12,458
+C'mon, let's go!
+
+163
+00:21:12,541 --> 00:21:13,541
+I second that!
+
+164
+00:21:13,625 --> 00:21:15,500
+Wow, this sure is unusual...
+
+165
+00:21:15,583 --> 00:21:18,541
+Sure. We can get changed at
+my place again and go from there.
+
+166
+00:21:18,625 --> 00:21:20,208
+Great!
+
+167
+00:21:24,875 --> 00:21:27,125
+Hey, what should I wear?
+
+168
+00:21:27,208 --> 00:21:31,125
+Stop it! <i>I'm</i> me!
+
+169
+00:21:37,375 --> 00:21:40,000
+I'm over here!
+
+170
+00:21:40,083 --> 00:21:42,958
+--Come on, hurry up!
+--Hey, wait for me!
+
+171
+00:21:46,583 --> 00:21:52,416
+That's right! Lain is Lain, and I'm    <i>me.</i>
+
+172
+00:22:13,458 --> 00:22:15,375
+Hello, Navi.
+
+173
+00:22:16,666 --> 00:22:19,416
+Hello, Lain.
+
+174
+00:22:26,208 --> 00:22:30,416
+I... I'm me, right?
+
+175
+00:22:30,500 --> 00:22:35,083
+There's no other me but <i>me,</i> right?
+
+176
+00:22:59,833 --> 00:23:08,583
+<i>I thought I was innocent,</i>
+<i>but I'm being punished.</i>
+
+177
+00:23:08,666 --> 00:23:21,791
+<i>I didn't start this, but</i>
+<i>I have to finish it somehow.</i>
+
+178
+00:23:28,166 --> 00:23:37,083
+<i>I can't say I didn't know about it,</i>
+<i>but I don't remember taking part in it.</i>
+
+179
+00:23:37,166 --> 00:23:43,583
+<i>I get the feeling my freedom cost me dearly,</i>
+
+180
+00:23:43,666 --> 00:23:50,750
+<i>but I don't remember selling my soul cheaply.</i>
+
+181
+00:23:50,833 --> 00:23:51,750
+<i>Hey, hey!</i>
+
+182
+00:23:51,833 --> 00:23:59,416
+<i>Until I die and say goodbye...</i>
+
+183
+00:23:59,500 --> 00:24:00,750
+<i>Hey, hey!</i>
+
+184
+00:24:00,833 --> 00:24:09,916
+<i>...no one will ever catch me.</i>
+
+185
+00:24:10,000 --> 00:24:16,458
+<i>You probably don't know the eternal outlaws...</i>
+
+186
+00:24:16,541 --> 00:24:21,916
+<i>...who wander the distant night.</i>
+
