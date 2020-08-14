@@ -1,0 +1,4394 @@
+﻿1
+00:00:50,958 --> 00:00:55,208
+Early 21st century: worldwide,
+the robotics industry undergoes
+
+2
+00:00:55,291 --> 00:00:57,500
+a period of rapid advancement.
+
+3
+00:00:57,583 --> 00:01:00,875
+By the year 2050, Japan
+has firmly established itself
+
+4
+00:01:00,958 --> 00:01:04,458
+as the leader in robotic
+technology and manufacture.
+
+5
+00:01:04,541 --> 00:01:07,791
+From consumer electronics
+to military-grade weaponry,
+
+6
+00:01:07,875 --> 00:01:10,500
+Japan dominates the market.
+
+7
+00:01:10,583 --> 00:01:13,541
+As the technology evolves to
+include robotic enhancements
+
+8
+00:01:13,625 --> 00:01:16,458
+to the human body, the blurring
+of the line between man
+
+9
+00:01:16,541 --> 00:01:20,041
+and machine triggers a sudden
+shift in world opinion.
+
+10
+00:01:20,125 --> 00:01:22,666
+The potential for creation
+of human-like androids
+
+11
+00:01:22,750 --> 00:01:24,708
+is seen as a threat.
+
+12
+00:01:24,791 --> 00:01:28,666
+In response, the U.N. passes
+an accord strictly prohibiting
+
+13
+00:01:28,750 --> 00:01:30,333
+android development.
+
+14
+00:01:30,416 --> 00:01:33,375
+Japan fiercely opposes the
+U.N. ruling, but despite
+
+15
+00:01:33,458 --> 00:01:37,375
+repeated challenges, the
+restrictions will not be eased.
+
+16
+00:01:37,458 --> 00:01:41,041
+In protest, Japan resorts to
+the extreme step of withdrawing
+
+17
+00:01:41,125 --> 00:01:44,458
+from the U.N., choosing
+instead to pursue a policy of
+
+18
+00:01:44,541 --> 00:01:47,666
+"high-tech national isolation".
+
+19
+00:01:47,750 --> 00:01:51,833
+2067: continued technological
+advancements make Japan's
+
+20
+00:01:51,916 --> 00:01:55,458
+goal of total national
+isolation a reality.
+
+21
+00:01:55,541 --> 00:01:58,375
+Japan's borders are sealed,
+and strict controls are placed
+
+22
+00:01:58,458 --> 00:02:01,041
+on all international
+communications.
+
+23
+00:02:01,125 --> 00:02:02,625
+The resulting
+information blackout
+
+24
+00:02:02,708 --> 00:02:05,916
+shrouds the entire country
+in a veil of secrecy.
+
+25
+00:02:07,041 --> 00:02:10,166
+In the ten years since that
+time, no outsider has been
+
+26
+00:02:10,250 --> 00:02:14,166
+allowed to see the
+true face of Japan...
+
+27
+00:02:50,083 --> 00:02:52,291
+All my holiday plans are ruined.
+
+28
+00:02:52,375 --> 00:02:54,791
+I take it your family has
+already left Washington
+
+29
+00:02:54,875 --> 00:02:55,708
+ahead of you?
+
+30
+00:02:55,791 --> 00:02:57,208
+Back to Denver, is it?
+
+31
+00:02:57,291 --> 00:03:00,208
+Don't these damn Japanese
+understand it's Christmas?
+
+32
+00:03:02,250 --> 00:03:05,333
+Dragging us all the way out
+here--it's outrageous.
+
+33
+00:03:05,416 --> 00:03:06,833
+Even so...
+
+34
+00:03:06,916 --> 00:03:08,333
+do we have a choice?
+
+35
+00:04:34,208 --> 00:04:36,416
+Do you have any idea
+what this is about?
+
+36
+00:04:36,500 --> 00:04:37,833
+Whatever it is,
+
+37
+00:04:37,916 --> 00:04:39,875
+this announcement of theirs
+must be something big.
+
+38
+00:04:39,958 --> 00:04:41,833
+The British, the French,
+Russians--
+
+39
+00:04:41,916 --> 00:04:43,583
+they've called everybody.
+
+40
+00:04:43,666 --> 00:04:44,791
+I heard that--
+
+41
+00:05:01,958 --> 00:05:02,833
+Vexille...
+
+42
+00:05:03,666 --> 00:05:04,708
+Vexille...!
+
+43
+00:05:08,250 --> 00:05:09,625
+Right, final stand-by...
+
+44
+00:05:09,708 --> 00:05:11,458
+We go live on my mark.
+
+45
+00:05:14,208 --> 00:05:16,416
+How'd we get stuck
+with this shit today?
+
+46
+00:05:17,375 --> 00:05:18,750
+What, you got
+somewhere better to be?
+
+47
+00:05:18,833 --> 00:05:21,083
+There'll be another
+Christmas next year.
+
+48
+00:05:21,166 --> 00:05:23,000
+Go in, do your job,
+and get out...
+
+49
+00:05:23,083 --> 00:05:25,291
+You'll be back in time
+for Mom's turkey.
+
+50
+00:05:45,875 --> 00:05:48,333
+Now, gentlemen...
+
+51
+00:05:48,416 --> 00:05:51,083
+The future of human evolution...
+
+52
+00:05:51,166 --> 00:05:55,125
+That is the issue
+before us this evening.
+
+53
+00:05:55,208 --> 00:05:57,250
+The international
+scientific community
+
+54
+00:05:57,333 --> 00:05:59,250
+has reached a consensus...
+
+55
+00:05:59,333 --> 00:06:01,708
+Nature has run its course...
+
+56
+00:06:01,791 --> 00:06:05,791
+It is left to man to
+determine his own fate.
+
+57
+00:06:05,875 --> 00:06:06,875
+As you know...
+
+58
+00:06:06,958 --> 00:06:09,958
+we at Daiwa have
+a vision for the future.
+
+59
+00:06:10,041 --> 00:06:12,208
+If we have your full
+support in this matter,
+
+60
+00:06:12,291 --> 00:06:13,250
+please,
+
+61
+00:06:13,333 --> 00:06:16,333
+show it now,
+by round of applause.
+
+62
+00:06:23,708 --> 00:06:25,500
+I didn't think so...
+
+63
+00:06:51,708 --> 00:06:54,333
+Our target is Saito
+with Daiwa Robotics.
+
+64
+00:06:55,833 --> 00:06:57,333
+We're working off a tip.
+
+65
+00:06:57,416 --> 00:07:01,500
+There's a chance it's a trap,
+so everyone stay on your toes.
+
+66
+00:07:03,958 --> 00:07:04,666
+You're kidding.
+
+67
+00:07:04,750 --> 00:07:05,916
+What's with the robots...?
+
+68
+00:07:06,000 --> 00:07:08,541
+I made it clear
+we didn't need mech support.
+
+69
+00:07:08,625 --> 00:07:09,625
+Don't ask me...
+
+70
+00:07:09,708 --> 00:07:12,041
+Guess the Chief wants us
+to test 'em out.
+
+71
+00:07:12,125 --> 00:07:14,166
+Look like the
+latest Daiwa models.
+
+72
+00:07:14,250 --> 00:07:15,041
+Yeah?
+
+73
+00:07:15,125 --> 00:07:16,250
+Well I still don't trust 'em.
+
+74
+00:07:17,625 --> 00:07:19,458
+I hate these damn machines.
+
+75
+00:09:39,375 --> 00:09:40,666
+S.W.O.R.D...?
+
+76
+00:09:43,583 --> 00:09:45,000
+Maria...
+
+77
+00:10:32,166 --> 00:10:32,625
+Move!
+
+78
+00:10:32,708 --> 00:10:33,875
+Out of the way!
+
+79
+00:12:53,375 --> 00:12:54,666
+Dammit!
+
+80
+00:13:07,875 --> 00:13:08,416
+Get...
+
+81
+00:13:08,500 --> 00:13:10,000
+rid of the bodies.
+
+82
+00:13:24,625 --> 00:13:26,041
+What's the meaning of this...!
+
+83
+00:13:26,125 --> 00:13:27,375
+Who gave the order
+for S.W.O.R.D.
+
+84
+00:13:27,458 --> 00:13:28,833
+to attack?!
+
+85
+00:13:28,916 --> 00:13:29,750
+Answer me...!
+
+86
+00:13:29,833 --> 00:13:30,583
+You...!
+
+87
+00:13:30,666 --> 00:13:31,750
+Don't you know who I am...?!
+
+88
+00:13:31,833 --> 00:13:33,791
+You're all making
+a terrible mistake!
+
+89
+00:13:33,875 --> 00:13:36,833
+I want names and serial
+numbers of everyone here!
+
+90
+00:13:44,666 --> 00:13:45,833
+Leon!
+
+91
+00:17:08,875 --> 00:17:12,541
+Well, it's a flagrant violation
+of international treaties...
+
+92
+00:17:12,625 --> 00:17:13,916
+Care to be more specific?
+
+93
+00:17:14,000 --> 00:17:15,250
+No need.
+
+94
+00:17:15,333 --> 00:17:19,000
+They ignored just about
+every one I can think of.
+
+95
+00:17:19,083 --> 00:17:21,708
+So what, you mean this
+whole thing's made of metal?
+
+96
+00:17:21,791 --> 00:17:22,708
+Essentially.
+
+97
+00:17:22,791 --> 00:17:24,666
+It's bio-metal.
+
+98
+00:17:24,750 --> 00:17:27,541
+Is there a chance his leg
+was the only robotic part?
+
+99
+00:17:27,625 --> 00:17:29,916
+We can hope that's the case.
+
+100
+00:17:30,000 --> 00:17:30,500
+What do you mean?
+
+101
+00:17:30,583 --> 00:17:31,916
+It has to be.
+
+102
+00:17:32,000 --> 00:17:33,791
+We confirmed his bio-signature
+during the raid, right?
+
+103
+00:17:33,875 --> 00:17:35,500
+We can't rule out the
+possibility that it was
+
+104
+00:17:35,583 --> 00:17:37,375
+artificially imprinted.
+
+105
+00:17:37,458 --> 00:17:39,750
+Wait--is that possible?
+
+106
+00:17:39,833 --> 00:17:42,125
+Not with our technology, no.
+
+107
+00:17:43,333 --> 00:17:44,833
+So...
+
+108
+00:17:44,916 --> 00:17:48,333
+if Japan really is manufacturing
+androids this far advanced...
+
+109
+00:17:48,416 --> 00:17:49,583
+Christ...
+
+110
+00:17:49,666 --> 00:17:51,208
+it's gotta be
+a bigger threat than nukes.
+
+111
+00:17:51,291 --> 00:17:52,958
+So, what--you think
+they're buildin' some kinda'
+
+112
+00:17:53,041 --> 00:17:54,166
+"android army"?
+
+113
+00:17:54,250 --> 00:17:55,625
+That's crazy!
+
+114
+00:17:57,583 --> 00:18:00,166
+In any case, issues
+of legality aside...
+
+115
+00:18:00,250 --> 00:18:03,083
+it's an amazing
+feat of technology.
+
+116
+00:18:03,166 --> 00:18:06,500
+I imagine it would take us
+years to reverse-engineer it.
+
+117
+00:18:07,916 --> 00:18:10,666
+It's like San Pedro
+all over again, huh?
+
+118
+00:18:21,166 --> 00:18:22,333
+Hey.
+
+119
+00:18:22,416 --> 00:18:23,791
+Zack!
+
+120
+00:18:45,916 --> 00:18:47,166
+Look out there.
+
+121
+00:18:47,250 --> 00:18:48,875
+Millions of people
+livin' in this city
+
+122
+00:18:48,958 --> 00:18:50,458
+and you'd hardly know it.
+
+123
+00:18:50,541 --> 00:18:53,500
+Only ones we ever talk to are
+the ones wearin' this badge...
+
+124
+00:18:53,583 --> 00:18:56,333
+Or to our damn
+computers, right?
+
+125
+00:18:56,416 --> 00:18:58,125
+It's the same everywhere.
+
+126
+00:18:58,208 --> 00:19:00,125
+It's the age we live in.
+
+127
+00:19:02,750 --> 00:19:04,291
+You heard from Irene?
+
+128
+00:19:09,458 --> 00:19:11,208
+Not since she left.
+
+129
+00:19:11,291 --> 00:19:12,916
+Sorry.
+
+130
+00:19:14,000 --> 00:19:14,791
+So...
+
+131
+00:19:14,875 --> 00:19:16,208
+what's up?
+
+132
+00:19:16,291 --> 00:19:19,083
+Leon never told you about
+San Pedro last month?
+
+133
+00:19:22,250 --> 00:19:24,166
+Really...
+
+134
+00:19:26,416 --> 00:19:28,500
+Is that where the tip for this
+last mission came from...?
+
+135
+00:19:28,583 --> 00:19:29,458
+San Pedro?
+
+136
+00:19:29,541 --> 00:19:31,125
+Yeah...
+
+137
+00:19:31,208 --> 00:19:33,125
+I didn't think it was a secret.
+
+138
+00:20:28,958 --> 00:20:32,166
+Is there really a reason
+for us to be on guard duty?
+
+139
+00:20:32,250 --> 00:20:33,666
+Over there...
+
+140
+00:20:33,750 --> 00:20:36,000
+New shipment of sentry robots.
+
+141
+00:20:36,083 --> 00:20:38,250
+What I mean is,
+who's gonna steal 'em?
+
+142
+00:20:38,333 --> 00:20:40,625
+Japan's sellin' these
+things to everybody.
+
+143
+00:20:40,708 --> 00:20:42,250
+They're the ones
+controlling the market...
+
+144
+00:20:42,333 --> 00:20:43,000
+Yeah...
+
+145
+00:20:43,083 --> 00:20:44,541
+n' they know it, too.
+
+146
+00:20:44,625 --> 00:20:47,083
+Not shy about throwin' their
+weight around, that's for sure.
+
+147
+00:20:48,708 --> 00:20:50,791
+It's gonna come back
+and bite 'em some day.
+
+148
+00:21:34,541 --> 00:21:37,666
+Warning: Cease pursuit
+and withdraw immediately.
+
+149
+00:21:37,750 --> 00:21:38,958
+You gotta be kidding.
+
+150
+00:21:39,041 --> 00:21:41,333
+I repeat: Cease
+pursuit immediately.
+
+151
+00:21:41,416 --> 00:21:43,125
+This is your final warning.
+
+152
+00:21:43,208 --> 00:21:44,083
+This is our turf.
+
+153
+00:21:44,166 --> 00:21:45,541
+Fuck off.
+
+154
+00:22:15,583 --> 00:22:16,625
+Zack!
+
+155
+00:23:24,958 --> 00:23:26,250
+Hey, careful with this guy!
+
+156
+00:23:27,666 --> 00:23:29,833
+S.W.O.R.D...
+
+157
+00:23:29,916 --> 00:23:32,583
+Twenty-fourth, December...
+
+158
+00:23:32,666 --> 00:23:34,750
+Mount Filar...
+
+159
+00:23:34,833 --> 00:23:35,916
+A meeting...
+
+160
+00:23:36,000 --> 00:23:37,458
+Beware...
+
+161
+00:23:37,541 --> 00:23:38,041
+Ma...
+
+162
+00:23:38,125 --> 00:23:40,291
+ri-a...
+
+163
+00:23:54,541 --> 00:23:57,291
+It was like the message was
+ meant specifically for Leon.
+
+164
+00:23:57,375 --> 00:23:59,958
+He didn't doubt it,
+not even for a second.
+
+165
+00:24:01,125 --> 00:24:02,375
+But the best part is...
+
+166
+00:24:02,458 --> 00:24:03,333
+This fugitive...?
+
+167
+00:24:03,416 --> 00:24:05,541
+Guess what he turned out to be.
+
+168
+00:24:06,791 --> 00:24:07,750
+An android.
+
+169
+00:24:07,833 --> 00:24:08,708
+Yeah.
+
+170
+00:24:08,791 --> 00:24:09,916
+Though just lookin',
+
+171
+00:24:10,000 --> 00:24:11,250
+damned if you could
+tell he wasn't human...
+
+172
+00:24:11,333 --> 00:24:12,708
+There any chance that he was?
+
+173
+00:24:12,791 --> 00:24:13,916
+No, none.
+
+174
+00:24:14,000 --> 00:24:16,916
+Not even a hint of
+a bio-signature.
+
+175
+00:24:17,000 --> 00:24:19,166
+But those eyes...
+
+176
+00:24:20,166 --> 00:24:22,208
+What about the autopsy?
+
+177
+00:24:22,291 --> 00:24:23,583
+What autopsy...?
+
+178
+00:24:23,666 --> 00:24:25,500
+They bagged that android
+and shipped it back to Japan
+
+179
+00:24:25,583 --> 00:24:26,708
+the very same day...
+
+180
+00:24:26,791 --> 00:24:28,333
+We couldn't even touch it.
+
+181
+00:24:29,333 --> 00:24:30,750
+"Political pressure"
+they said...
+
+182
+00:24:30,833 --> 00:24:33,083
+Though personally I think
+that's a load a' shit.
+
+183
+00:24:41,625 --> 00:24:43,250
+"Maria"...
+
+184
+00:24:43,333 --> 00:24:46,625
+For ten years, Japan has
+operated below the radar.
+
+185
+00:24:46,708 --> 00:24:48,833
+In recent months, however,
+we have observed a surge of
+
+186
+00:24:48,916 --> 00:24:51,458
+new activity, the
+suspicious nature of which
+
+187
+00:24:51,541 --> 00:24:53,750
+we can no longer ignore.
+
+188
+00:24:53,833 --> 00:24:56,166
+The purpose of the secret
+meeting on Mt. Filar is still
+
+189
+00:24:56,250 --> 00:24:57,875
+unknown.
+
+190
+00:24:57,958 --> 00:24:59,958
+By authority of the
+State Department...
+
+191
+00:25:00,041 --> 00:25:01,916
+our primary witness...
+
+192
+00:25:02,000 --> 00:25:04,041
+the politician we apprehended...
+
+193
+00:25:04,125 --> 00:25:06,291
+was granted complete immunity.
+
+194
+00:25:07,625 --> 00:25:09,125
+In addition...
+
+195
+00:25:09,208 --> 00:25:11,583
+we've received strong
+pressure from Japan...
+
+196
+00:25:11,666 --> 00:25:14,458
+for the return of
+Saito's confiscated leg.
+
+197
+00:25:15,875 --> 00:25:19,708
+Our initial analysis has
+yielded some troubling results.
+
+198
+00:25:19,791 --> 00:25:21,041
+We have determined the leg
+
+199
+00:25:21,125 --> 00:25:23,833
+to be of a pseudo-organic,
+metallic composition...
+
+200
+00:25:23,916 --> 00:25:25,291
+There is also some evidence
+
+201
+00:25:25,375 --> 00:25:28,875
+to suggest the bio-signature
+was affixed artificially.
+
+202
+00:25:28,958 --> 00:25:30,500
+Our conclusion...
+
+203
+00:25:30,583 --> 00:25:33,250
+there's a high probability
+that Saito is an android.
+
+204
+00:25:35,750 --> 00:25:37,875
+As you know, android
+development in disregard
+
+205
+00:25:37,958 --> 00:25:41,208
+of the U.N. accord is a
+serious international crime.
+
+206
+00:25:44,250 --> 00:25:46,541
+But until further
+evidence is obtained...
+
+207
+00:25:46,625 --> 00:25:48,166
+Our government feels...
+
+208
+00:25:48,250 --> 00:25:50,541
+discretion is of the
+utmost importance.
+
+209
+00:25:52,125 --> 00:25:53,625
+From the White House...
+
+210
+00:25:53,708 --> 00:25:55,125
+the official stance...
+
+211
+00:25:55,208 --> 00:25:57,625
+Any action that may even
+slightly harm relations
+
+212
+00:25:57,708 --> 00:25:59,750
+with Japan is forbidden.
+
+213
+00:26:00,791 --> 00:26:02,041
+However,
+
+214
+00:26:02,125 --> 00:26:04,791
+the risks of doing nothing
+are abundantly clear...
+
+215
+00:26:07,458 --> 00:26:09,166
+To maintain appearances...
+
+216
+00:26:09,250 --> 00:26:10,833
+As of now...
+
+217
+00:26:10,916 --> 00:26:13,833
+our actions are
+considered independent.
+
+218
+00:26:13,916 --> 00:26:16,791
+In the event we are discovered,
+the American government
+
+219
+00:26:16,875 --> 00:26:19,291
+will deny all prior knowledge.
+
+220
+00:26:21,125 --> 00:26:23,166
+Nevertheless...
+
+221
+00:26:23,250 --> 00:26:26,625
+it's for our nation's
+security that we must act...
+
+222
+00:26:26,708 --> 00:26:29,458
+perhaps, for the security
+of the entire world.
+
+223
+00:26:32,416 --> 00:26:34,125
+The mission before us:
+
+224
+00:26:37,000 --> 00:26:38,916
+Infiltrate Japan.
+
+225
+00:26:40,875 --> 00:26:44,583
+The time has come to lift the
+veil of secrecy and expose
+
+226
+00:26:44,666 --> 00:26:47,666
+the true face of
+Japan to the world...
+
+227
+00:26:47,750 --> 00:26:50,541
+I am counting on all
+of you to do your part.
+
+228
+00:26:58,500 --> 00:27:01,041
+These are our most
+recent images of Tokyo...
+
+229
+00:27:01,125 --> 00:27:04,166
+taken just over ten years ago.
+
+230
+00:27:04,250 --> 00:27:06,166
+Current conditions are unknown.
+
+231
+00:27:06,250 --> 00:27:08,708
+And all access to Japan
+has been cut off.
+
+232
+00:27:08,791 --> 00:27:11,291
+What we know, at the time
+these photos were taken,
+
+233
+00:27:11,375 --> 00:27:14,666
+Japan's largest corporation,
+Daiwa Robotics, was largely
+
+234
+00:27:14,750 --> 00:27:18,291
+in control of the country's
+economy and national politics.
+
+235
+00:27:18,375 --> 00:27:21,041
+Our guess is, they were the
+ones who began the initial push
+
+236
+00:27:21,125 --> 00:27:23,708
+toward the policy of
+"high tech isolationism",
+
+237
+00:27:23,791 --> 00:27:26,000
+which was ultimately realized
+through the construction of
+
+238
+00:27:26,083 --> 00:27:30,000
+an electromagnetic network,
+known by the acronym, "R.A.C.E."
+
+239
+00:27:30,083 --> 00:27:31,083
+The R.A.C.E. network
+
+240
+00:27:31,166 --> 00:27:33,000
+is comprised of
+two-hundred-and-seventy
+
+241
+00:27:33,083 --> 00:27:35,750
+dedicated, ocean-based
+antennas that surround
+
+242
+00:27:35,833 --> 00:27:37,708
+the entire nation.
+
+243
+00:27:37,791 --> 00:27:39,791
+The signal pattern these
+antennas produce serves to
+
+244
+00:27:39,875 --> 00:27:42,833
+filter all light and
+electromagnetic waves
+
+245
+00:27:42,916 --> 00:27:47,125
+entering Japan, and completely
+diffuses any outgoing signals.
+
+246
+00:27:47,208 --> 00:27:49,750
+This effectively makes
+communication with Japan through
+
+247
+00:27:49,833 --> 00:27:53,166
+non-official channels, as well
+as satellite surveillance,
+
+248
+00:27:53,250 --> 00:27:54,750
+impossible.
+
+249
+00:27:54,833 --> 00:27:57,333
+The primary objective of this
+mission will be to penetrate the
+
+250
+00:27:57,416 --> 00:28:00,833
+electromagnetic field, and
+transmit a special trace signal
+
+251
+00:28:00,916 --> 00:28:04,166
+from inside to analyze
+the diffusion pattern.
+
+252
+00:28:04,250 --> 00:28:07,000
+If successful, it will enable
+our spy satellites to take
+
+253
+00:28:07,083 --> 00:28:10,291
+direct images of Japan from
+their positions in orbit.
+
+254
+00:28:10,375 --> 00:28:13,166
+Upon arrival in Tokyo, the
+insertion team will only need
+
+255
+00:28:13,250 --> 00:28:15,708
+to transmit the signal
+for three minutes,
+
+256
+00:28:15,791 --> 00:28:18,208
+in order to supply us
+with the data we need.
+
+257
+00:28:18,291 --> 00:28:20,708
+The problem is
+the route of entry.
+
+258
+00:28:20,791 --> 00:28:22,833
+In addition to R.A.C.E.,
+a sensor wall,
+
+259
+00:28:22,916 --> 00:28:26,250
+capable of detecting even the
+latest micro-scouting devices,
+
+260
+00:28:26,333 --> 00:28:29,708
+guards all physical routes
+of entry by water and air.
+
+261
+00:28:29,791 --> 00:28:33,083
+Our only potential access point:
+a single, heavily secured
+
+262
+00:28:33,166 --> 00:28:34,916
+border gate, which
+allows shipping traffic
+
+263
+00:28:35,000 --> 00:28:36,166
+into the country...
+
+264
+00:28:56,875 --> 00:28:58,250
+As stated...
+
+265
+00:28:58,333 --> 00:29:01,041
+our first priority will be
+transmission of the signal.
+
+266
+00:29:01,125 --> 00:29:02,583
+Once successful...
+
+267
+00:29:02,666 --> 00:29:05,000
+we'll move on to our
+secondary objective.
+
+268
+00:29:05,083 --> 00:29:06,375
+Simply put:...
+
+269
+00:29:06,458 --> 00:29:09,458
+gather as much intelligence
+on Daiwa as possible.
+
+270
+00:29:09,541 --> 00:29:11,875
+Seventy-two hours
+after insertion...
+
+271
+00:29:11,958 --> 00:29:14,833
+the team will be extracted
+from a predetermined site.
+
+272
+00:29:34,416 --> 00:29:36,750
+Leading the team on
+this dangerous mission...
+
+273
+00:29:36,833 --> 00:29:38,791
+Commander Leon Fayden...
+
+274
+00:29:38,875 --> 00:29:41,666
+has graciously volunteered.
+
+275
+00:29:41,750 --> 00:29:44,958
+Ten years ago, the Commander was
+dispatched to Japan as part of
+
+276
+00:29:45,041 --> 00:29:47,708
+an anti-terrorist unit,
+in cooperation with the
+
+277
+00:29:47,791 --> 00:29:50,250
+Bureau of Public Security.
+
+278
+00:29:50,333 --> 00:29:52,250
+He was one of the last
+foreigners to remain after
+
+279
+00:29:52,333 --> 00:29:55,333
+the closure of the border,
+until such time as they
+
+280
+00:29:55,416 --> 00:29:57,833
+commanded his deportation.
+
+281
+00:30:05,958 --> 00:30:08,166
+Why didn't you tell me?
+
+282
+00:30:09,291 --> 00:30:10,041
+I'm sorry.
+
+283
+00:30:10,125 --> 00:30:11,708
+I didn't want you to worry.
+
+284
+00:30:11,791 --> 00:30:13,208
+Not about volunteering--...
+
+285
+00:30:13,291 --> 00:30:16,000
+that you were in Japan!
+
+286
+00:30:16,083 --> 00:30:17,500
+I don't know.
+
+287
+00:30:17,583 --> 00:30:19,458
+I never really had a chance.
+
+288
+00:30:19,541 --> 00:30:20,916
+That's the only reason?
+
+289
+00:30:23,083 --> 00:30:24,708
+That's all.
+
+290
+00:30:39,708 --> 00:30:41,250
+I'm sorry.
+
+291
+00:30:41,333 --> 00:30:43,791
+I didn't mean for you
+to get involved...
+
+292
+00:32:09,541 --> 00:32:10,333
+What happened?
+
+293
+00:32:10,416 --> 00:32:11,833
+Bring up the deck monitor!
+
+294
+00:32:13,333 --> 00:32:14,958
+The vessel is not under attack.
+
+295
+00:32:15,041 --> 00:32:16,833
+Zero damage to report...
+
+296
+00:32:16,916 --> 00:32:19,875
+There's been an explosion on an
+American freighter nearby...
+
+297
+00:32:19,958 --> 00:32:21,791
+We're looking into
+the cause now.
+
+298
+00:32:21,875 --> 00:32:22,791
+Understood...
+
+299
+00:32:22,875 --> 00:32:24,750
+Stay alert, just in case.
+
+300
+00:33:14,666 --> 00:33:16,333
+Freight inspections
+completed, sir.
+
+301
+00:33:16,416 --> 00:33:17,916
+All clear.
+
+302
+00:33:30,541 --> 00:33:31,791
+They've cleared
+the border gate.
+
+303
+00:33:31,875 --> 00:33:34,375
+Ten seconds to
+communications blackout.
+
+304
+00:34:38,791 --> 00:34:41,291
+Three minutes to
+analysis completion.
+
+305
+00:34:41,375 --> 00:34:43,666
+Three minutes to
+analysis completion.
+
+306
+00:34:43,750 --> 00:34:44,500
+Signal received...
+
+307
+00:34:44,583 --> 00:34:46,166
+Scanning now.
+
+308
+00:34:49,833 --> 00:34:50,791
+Okay...
+
+309
+00:34:50,875 --> 00:34:52,166
+Three minutes.
+
+310
+00:34:52,250 --> 00:34:54,125
+Analysis in progress...
+
+311
+00:34:55,125 --> 00:34:57,375
+Analysis in progress...
+
+312
+00:34:59,875 --> 00:35:01,125
+One minute down.
+
+313
+00:35:09,000 --> 00:35:11,000
+Two minutes, thirty seconds.
+
+314
+00:35:17,708 --> 00:35:20,166
+Analysis complete in 10 seconds.
+
+315
+00:35:20,250 --> 00:35:21,125
+9...
+
+316
+00:35:21,208 --> 00:35:22,125
+8...
+
+317
+00:35:22,208 --> 00:35:23,291
+7...
+
+318
+00:35:24,458 --> 00:35:25,958
+What happened?!
+
+319
+00:35:26,041 --> 00:35:26,625
+The signal...
+
+320
+00:35:26,708 --> 00:35:27,416
+We've lost it!
+
+321
+00:35:27,500 --> 00:35:28,583
+What about the analysis?
+
+322
+00:35:28,666 --> 00:35:29,250
+No good...
+
+323
+00:35:29,333 --> 00:35:30,541
+Insufficient data!
+
+324
+00:35:30,625 --> 00:35:31,791
+Scan again!
+
+325
+00:35:39,875 --> 00:35:41,458
+System Alert...
+
+326
+00:35:42,833 --> 00:35:44,583
+System Alert...
+
+327
+00:35:45,916 --> 00:35:47,541
+System Alert...
+
+328
+00:35:49,083 --> 00:35:50,625
+System Alert...
+
+329
+00:35:52,208 --> 00:35:54,000
+System Alert...
+
+330
+00:36:08,083 --> 00:36:09,333
+Vexille, this way!
+
+331
+00:36:40,333 --> 00:36:41,666
+Zack!
+
+332
+00:37:16,708 --> 00:37:19,041
+I congratulate your effort.
+
+333
+00:37:19,125 --> 00:37:21,500
+You're the first foreign
+visitors to set foot
+
+334
+00:37:21,583 --> 00:37:25,416
+on Japanese soil in ten years.
+
+335
+00:37:25,500 --> 00:37:28,875
+We have a warm welcome
+planned for you.
+
+336
+00:37:31,500 --> 00:37:32,541
+On my mark...
+
+337
+00:37:32,625 --> 00:37:34,791
+make a break for the water.
+
+338
+00:37:34,875 --> 00:37:35,625
+No way.
+
+339
+00:37:35,708 --> 00:37:36,416
+I'm not leaving you behind!
+
+340
+00:37:36,500 --> 00:37:37,666
+Dammit...
+
+341
+00:37:37,750 --> 00:37:39,958
+You've got the back-up
+transmitter, you'll go!
+
+342
+00:37:41,416 --> 00:37:42,291
+Don't worry.
+
+343
+00:37:42,375 --> 00:37:44,375
+We'll be right behind you.
+
+344
+00:38:51,041 --> 00:38:52,750
+Leon...
+
+345
+00:39:04,541 --> 00:39:05,166
+It's okay, miss.
+
+346
+00:39:05,250 --> 00:39:06,625
+It's just me...
+
+347
+00:39:08,416 --> 00:39:09,166
+You're safe here.
+
+348
+00:39:09,250 --> 00:39:11,041
+No one's going to hurt you.
+
+349
+00:39:14,208 --> 00:39:15,625
+Oh--don't worry...
+
+350
+00:39:15,708 --> 00:39:18,208
+Maria changed
+your clothes, not me.
+
+351
+00:39:18,291 --> 00:39:19,750
+Maria...?
+
+352
+00:39:24,166 --> 00:39:25,791
+No, don't go out there!
+
+353
+00:40:22,458 --> 00:40:25,000
+Keep quiet and
+do exactly as I say.
+
+354
+00:40:34,208 --> 00:40:35,375
+Maria!
+
+355
+00:40:38,000 --> 00:40:39,958
+You shouldn't go
+wandering around...
+
+356
+00:40:40,041 --> 00:40:42,041
+They're still combing
+the city, looking for you.
+
+357
+00:40:42,125 --> 00:40:43,791
+I'm sorry, Maria...
+
+358
+00:40:43,875 --> 00:40:45,708
+It was my fault.
+
+359
+00:40:49,333 --> 00:40:50,000
+To think S.W.O.R.D.
+
+360
+00:40:50,083 --> 00:40:51,541
+would come here...
+
+361
+00:40:58,208 --> 00:40:59,791
+You got so much...
+
+362
+00:41:02,625 --> 00:41:03,958
+The rest of my team?
+
+363
+00:41:06,125 --> 00:41:07,250
+Put this in cold water.
+
+364
+00:41:07,333 --> 00:41:09,416
+Yeah, sure.
+
+365
+00:41:09,500 --> 00:41:11,333
+Where are Leon and the others?
+
+366
+00:41:14,125 --> 00:41:14,791
+Leon Fayden.
+
+367
+00:41:14,875 --> 00:41:16,416
+What happened to him?!
+
+368
+00:41:18,125 --> 00:41:20,666
+There's been no word
+about your colleagues.
+
+369
+00:41:26,416 --> 00:41:27,958
+We're still looking.
+
+370
+00:41:46,125 --> 00:41:48,166
+This is the real thing...
+
+371
+00:41:48,250 --> 00:41:50,583
+We don't get that
+too often around here.
+
+372
+00:42:13,083 --> 00:42:15,916
+You were asleep for two days...
+
+373
+00:42:16,000 --> 00:42:17,750
+You should probably
+eat something.
+
+374
+00:42:26,250 --> 00:42:29,625
+Are you the one that sent
+the messenger to America...?
+
+375
+00:42:29,708 --> 00:42:31,625
+About the meeting?
+
+376
+00:42:39,500 --> 00:42:41,791
+One more thing...
+
+377
+00:42:41,875 --> 00:42:43,708
+Where are we?
+
+378
+00:42:46,958 --> 00:42:49,083
+Downtown Tokyo...
+
+379
+00:42:49,166 --> 00:42:51,375
+What's left of it, anyway.
+
+380
+00:42:55,583 --> 00:42:57,541
+Tokyo...
+
+381
+00:43:09,625 --> 00:43:10,625
+Captain...!
+
+382
+00:43:10,708 --> 00:43:11,750
+We're picking up
+a second transmission!
+
+383
+00:43:11,833 --> 00:43:13,875
+...minutes to
+analysis completion.
+
+384
+00:43:13,958 --> 00:43:14,750
+Three minutes to...
+
+385
+00:43:14,833 --> 00:43:15,666
+Is it from our people?
+
+386
+00:43:15,750 --> 00:43:16,708
+Affirmative...
+
+387
+00:43:16,791 --> 00:43:18,250
+the back-up transmitter.
+
+388
+00:43:18,333 --> 00:43:20,291
+The signal's coming
+in strong, sir.
+
+389
+00:43:21,416 --> 00:43:22,333
+Good...
+
+390
+00:43:22,416 --> 00:43:24,083
+Let's hope it
+stays that way...
+
+391
+00:43:32,541 --> 00:43:34,958
+Never used chopsticks
+before, huh, miss?
+
+392
+00:43:40,666 --> 00:43:42,166
+That's cheating.
+
+393
+00:43:56,333 --> 00:43:57,291
+Wow...
+
+394
+00:43:57,375 --> 00:43:59,083
+That's pretty neat...
+
+395
+00:43:59,166 --> 00:44:01,416
+Hey--where were
+you hiding that?
+
+396
+00:44:12,875 --> 00:44:13,500
+It's Saito.
+
+397
+00:44:13,583 --> 00:44:15,000
+He's on his way here.
+
+398
+00:44:38,833 --> 00:44:39,833
+Nice entrance...
+
+399
+00:44:39,916 --> 00:44:41,291
+Scary.
+
+400
+00:44:49,500 --> 00:44:50,083
+Whoops...
+
+401
+00:44:50,166 --> 00:44:51,333
+I take that back...
+
+402
+00:44:52,333 --> 00:44:55,500
+Sending five guys out
+for one little girl...?
+
+403
+00:44:55,583 --> 00:44:56,125
+Please...
+
+404
+00:44:56,208 --> 00:44:57,791
+That's just weak.
+
+405
+00:44:59,708 --> 00:45:00,666
+The S.W.O.R.D. woman...
+
+406
+00:45:00,750 --> 00:45:02,500
+Where is she?
+
+407
+00:45:09,666 --> 00:45:10,958
+Guess she's not
+under the table...
+
+408
+00:45:11,041 --> 00:45:12,833
+Wanna check the couch next?
+
+409
+00:45:13,875 --> 00:45:16,458
+The boss may choose
+to go easy on you...
+
+410
+00:45:19,458 --> 00:45:21,500
+Don't expect that from me.
+
+411
+00:45:23,125 --> 00:45:25,208
+I don't know what you and
+your little urchin friends
+
+412
+00:45:25,291 --> 00:45:28,250
+are planning,
+but whatever it is...
+
+413
+00:45:28,333 --> 00:45:30,958
+It's only a matter of time...
+
+414
+00:45:45,750 --> 00:45:47,750
+I'll be seeing you soon.
+
+415
+00:45:53,958 --> 00:45:55,291
+You're right...
+
+416
+00:45:58,166 --> 00:46:00,083
+It's only a matter of time.
+
+417
+00:46:31,083 --> 00:46:32,416
+They look serious today...
+
+418
+00:46:32,500 --> 00:46:34,125
+Bastards...
+
+419
+00:46:41,000 --> 00:46:42,375
+What is it?
+
+420
+00:46:45,666 --> 00:46:46,375
+Just this...
+
+421
+00:46:46,458 --> 00:46:48,166
+place...
+
+422
+00:46:52,375 --> 00:46:53,083
+Two for one!
+
+423
+00:46:53,166 --> 00:46:54,958
+Two for one!
+
+424
+00:46:55,041 --> 00:46:57,625
+I've never seen
+anything like it before...
+
+425
+00:47:01,083 --> 00:47:02,083
+I mean...
+
+426
+00:47:02,166 --> 00:47:04,000
+It's so full of life...
+
+427
+00:48:03,125 --> 00:48:04,125
+Shit.
+
+428
+00:48:57,250 --> 00:48:57,750
+Hey...!
+
+429
+00:48:57,833 --> 00:48:59,125
+This way!
+
+430
+00:49:01,333 --> 00:49:02,750
+Down here!
+
+431
+00:49:11,291 --> 00:49:12,625
+Analysis completion...
+
+432
+00:49:12,708 --> 00:49:14,500
+Captain...
+
+433
+00:49:14,583 --> 00:49:15,416
+Countdown complete.
+
+434
+00:49:15,500 --> 00:49:16,625
+We have it, sir.
+
+435
+00:49:16,708 --> 00:49:17,375
+Right...
+
+436
+00:49:17,458 --> 00:49:19,125
+You all know what to do.
+
+437
+00:49:22,500 --> 00:49:23,791
+Screens one and two:
+
+438
+00:49:23,875 --> 00:49:28,250
+I want visual from
+satellites JC17 and JD15.
+
+439
+00:49:29,291 --> 00:49:30,291
+Analysis program...
+
+440
+00:49:30,375 --> 00:49:31,541
+Initiated.
+
+441
+00:49:33,166 --> 00:49:34,750
+Analysis is in progress.
+
+442
+00:49:35,875 --> 00:49:37,541
+Analysis is in progress.
+
+443
+00:49:52,791 --> 00:49:54,291
+There's nothing there...
+
+444
+00:49:55,250 --> 00:49:57,250
+No mountains...
+
+445
+00:49:57,333 --> 00:49:59,583
+No rivers...
+
+446
+00:49:59,666 --> 00:50:01,833
+Cities...
+
+447
+00:50:02,750 --> 00:50:04,916
+What does it
+look like in Tokyo?
+
+448
+00:50:05,000 --> 00:50:06,208
+Show me!
+
+449
+00:50:17,750 --> 00:50:19,083
+That's it...?
+
+450
+00:50:19,166 --> 00:50:21,125
+That's all there is...?
+
+451
+00:50:27,875 --> 00:50:30,333
+Daiwa Robotics.
+
+452
+00:50:30,416 --> 00:50:31,416
+Sir...!
+
+453
+00:50:31,500 --> 00:50:33,333
+Lt. Commander Serra's
+bio-signature...
+
+454
+00:50:33,416 --> 00:50:34,875
+I've got her--she's in Tokyo!
+
+455
+00:50:34,958 --> 00:50:35,625
+What...?
+
+456
+00:50:35,708 --> 00:50:36,916
+Can we check her status?
+
+457
+00:50:37,000 --> 00:50:38,041
+Yes sir!
+
+458
+00:50:38,125 --> 00:50:39,500
+Satellites locking
+on to her position.
+
+459
+00:50:39,583 --> 00:50:41,083
+Stand by for visual.
+
+460
+00:50:41,166 --> 00:50:42,541
+Any other survivors?
+
+461
+00:50:42,625 --> 00:50:44,166
+None yet confirmed.
+
+462
+00:50:44,250 --> 00:50:46,041
+Captain, you need to see this.
+
+463
+00:50:46,125 --> 00:50:47,833
+Screen three.
+
+464
+00:50:47,916 --> 00:50:50,083
+The red point is
+Lt. Commander Serra...
+
+465
+00:50:50,166 --> 00:50:51,666
+She's being pursued?
+
+466
+00:50:51,750 --> 00:50:54,250
+JD14 is tracking
+her movements.
+
+467
+00:50:54,333 --> 00:50:54,958
+Captain--
+
+468
+00:50:55,041 --> 00:50:56,125
+What is it?
+
+469
+00:50:56,208 --> 00:50:58,208
+The bio-signature map, it--...
+
+470
+00:50:59,458 --> 00:51:01,250
+it's unfiltered, sir...
+
+471
+00:51:03,041 --> 00:51:05,500
+We're not reading any
+other bio-signatures...
+
+472
+00:51:05,583 --> 00:51:08,083
+Hers is the only one!
+
+473
+00:51:08,166 --> 00:51:09,916
+The only one...?
+
+474
+00:51:15,875 --> 00:51:18,000
+What in the hell is going on...?
+
+475
+00:51:19,583 --> 00:51:20,750
+Widen the scan.
+
+476
+00:51:20,833 --> 00:51:22,791
+Search the entire country!
+
+477
+00:51:40,208 --> 00:51:41,458
+Maria!
+
+478
+00:52:17,958 --> 00:52:19,500
+Oh my god...
+
+479
+00:52:30,166 --> 00:52:31,708
+We'll wait here
+for a few minutes,
+
+480
+00:52:31,791 --> 00:52:33,875
+make sure we're
+not being followed.
+
+481
+00:53:08,083 --> 00:53:09,916
+Some view, huh...?
+
+482
+00:53:10,000 --> 00:53:12,958
+They say everything outside
+the city's a wasteland.
+
+483
+00:53:13,041 --> 00:53:16,041
+Besides us, the only thing left
+is Daiwa's headquarters...
+
+484
+00:53:16,125 --> 00:53:17,708
+Out in the bay.
+
+485
+00:53:17,791 --> 00:53:18,250
+Here!
+
+486
+00:53:18,333 --> 00:53:19,333
+I'll show you.
+
+487
+00:53:20,458 --> 00:53:21,083
+See?
+
+488
+00:53:21,166 --> 00:53:21,750
+That island out there.
+
+489
+00:53:21,833 --> 00:53:23,083
+That's Daiwa.
+
+490
+00:53:30,375 --> 00:53:31,833
+They're the ones
+that did this...
+
+491
+00:53:31,916 --> 00:53:34,416
+It's their fault all
+the people are gone.
+
+492
+00:53:35,750 --> 00:53:39,750
+The Japanese race is
+all but extinct now...
+
+493
+00:53:39,833 --> 00:53:42,375
+But, you...
+
+494
+00:53:42,458 --> 00:53:44,375
+We're not really human.
+
+495
+00:53:44,458 --> 00:53:46,625
+Not anymore.
+
+496
+00:53:46,708 --> 00:53:48,250
+Not human...?
+
+497
+00:53:49,625 --> 00:53:50,958
+You could say that we're...
+
+498
+00:53:51,041 --> 00:53:53,208
+more like fragments of humanity.
+
+499
+00:53:59,708 --> 00:54:01,625
+Fragments...?
+
+500
+00:54:02,625 --> 00:54:04,000
+That's all we have.
+
+501
+00:54:04,083 --> 00:54:06,500
+And, pretty soon
+they'll be gone too.
+
+502
+00:54:08,041 --> 00:54:09,416
+You saw it...
+
+503
+00:54:09,500 --> 00:54:10,583
+the final change...
+
+504
+00:54:10,666 --> 00:54:12,708
+when the last
+traces disappear.
+
+505
+00:54:22,583 --> 00:54:25,625
+As it is, we're
+mostly machine now.
+
+506
+00:54:25,708 --> 00:54:28,333
+There's no red blood
+left in our veins.
+
+507
+00:54:40,166 --> 00:54:41,500
+So all those
+people down there...
+
+508
+00:54:41,583 --> 00:54:44,125
+none of them are human...?
+
+509
+00:54:45,291 --> 00:54:48,041
+But I don't think I've ever
+seen a place more alive.
+
+510
+00:54:50,500 --> 00:54:53,750
+They're all just trying to make
+the most of it while they can.
+
+511
+00:54:55,333 --> 00:54:57,041
+Like the way we
+still eat food...
+
+512
+00:54:57,125 --> 00:54:59,333
+even though we don't need to.
+
+513
+00:55:04,208 --> 00:55:06,958
+It was ten years ago, just
+after the government instituted
+
+514
+00:55:07,041 --> 00:55:09,375
+the whole isolation policy.
+
+515
+00:55:10,500 --> 00:55:13,041
+We began hearing reports
+of a mass epidemic...
+
+516
+00:55:13,125 --> 00:55:15,541
+Some unknown disease
+sweeping the country...
+
+517
+00:55:16,708 --> 00:55:18,541
+The details were
+vague at first.
+
+518
+00:55:18,625 --> 00:55:21,625
+Nothing on the cause, or
+transmission of the disease.
+
+519
+00:55:21,708 --> 00:55:23,750
+Only that it was
+highly contagious,
+
+520
+00:55:23,833 --> 00:55:26,875
+and in most cases, fatal.
+
+521
+00:55:26,958 --> 00:55:29,500
+Before the general public
+even had time to react,
+
+522
+00:55:29,583 --> 00:55:31,625
+the government declared a
+state of emergency and ordered
+
+523
+00:55:31,708 --> 00:55:34,041
+a mandatory vaccination program.
+
+524
+00:55:34,125 --> 00:55:37,000
+"For our protection",
+they said...
+
+525
+00:55:37,083 --> 00:55:38,708
+As it turns out...
+
+526
+00:55:38,791 --> 00:55:41,666
+that was the beginning
+of our nightmare.
+
+527
+00:55:43,166 --> 00:55:46,166
+The disease was a complete
+government fabrication...
+
+528
+00:55:46,250 --> 00:55:49,625
+And the supposed "vaccine" they
+were injecting into everyone...
+
+529
+00:55:49,708 --> 00:55:53,666
+In reality, it was a
+cyber-virus, developed by Daiwa.
+
+530
+00:55:57,041 --> 00:56:00,000
+The virus has a mutating effect
+on the cells of the body...
+
+531
+00:56:00,083 --> 00:56:02,291
+It alters their molecular
+structure and converts them
+
+532
+00:56:02,375 --> 00:56:04,083
+into bio-metal...
+
+533
+00:56:04,166 --> 00:56:08,125
+Essentially turning us into
+machines from the inside out.
+
+534
+00:56:09,666 --> 00:56:11,375
+There's no way to stop it...
+
+535
+00:56:11,458 --> 00:56:12,875
+And to make things worse...
+
+536
+00:56:12,958 --> 00:56:16,583
+the cyber-virus was still
+early in its experimental phase.
+
+537
+00:56:16,666 --> 00:56:18,208
+What do you mean?
+
+538
+00:56:18,291 --> 00:56:20,416
+Daiwa didn't even know
+if it would work.
+
+539
+00:56:20,500 --> 00:56:22,708
+It had never been
+tested on a large scale.
+
+540
+00:56:22,791 --> 00:56:25,916
+So they turned Japan into
+their own private laboratory.
+
+541
+00:56:28,000 --> 00:56:30,583
+When it does work, the virus
+gradually progresses through
+
+542
+00:56:30,666 --> 00:56:33,416
+the body until it finally
+reaches the brain...
+
+543
+00:56:33,500 --> 00:56:37,625
+At that point, we become perfect
+androids under Daiwa's control.
+
+544
+00:56:39,666 --> 00:56:43,125
+The speed of the process
+differs from person to person.
+
+545
+00:56:43,208 --> 00:56:46,041
+Those of us who have yet
+to be fully assimilated,
+
+546
+00:56:46,125 --> 00:56:50,125
+as best we can, we hold on to
+those fragments of our humanity
+
+547
+00:56:50,208 --> 00:56:51,958
+that still remain...
+
+548
+00:56:52,041 --> 00:56:53,416
+But even now,
+
+549
+00:56:53,500 --> 00:56:57,666
+we can feel them slipping
+further and further away...
+
+550
+00:56:57,750 --> 00:57:00,541
+Since the technology was still
+experimental, in the end
+
+551
+00:57:00,625 --> 00:57:03,708
+most of us will basically
+be reduced to scrap metal.
+
+552
+00:57:03,791 --> 00:57:05,166
+But it makes little difference.
+
+553
+00:57:05,250 --> 00:57:07,041
+At best, we're still
+mindless machines,
+
+554
+00:57:07,125 --> 00:57:09,291
+with our memories erased.
+
+555
+00:57:09,375 --> 00:57:11,125
+So either way...
+
+556
+00:57:11,208 --> 00:57:14,166
+we're all just
+Daiwa's guinea pigs...
+
+557
+00:57:14,250 --> 00:57:16,291
+trapped and waiting to die.
+
+558
+00:57:19,416 --> 00:57:21,875
+Do you know how long you have?
+
+559
+00:57:21,958 --> 00:57:23,500
+No...
+
+560
+00:57:23,583 --> 00:57:24,875
+What we do know is,
+
+561
+00:57:24,958 --> 00:57:28,083
+Daiwa won't stop when
+they're done with Japan...
+
+562
+00:57:28,166 --> 00:57:30,208
+They'll target America next.
+
+563
+00:57:32,708 --> 00:57:35,833
+They've already started planting
+androids in key positions...
+
+564
+00:57:39,208 --> 00:57:40,833
+That politician...!
+
+565
+00:57:44,833 --> 00:57:46,583
+Hey, that's Saga!
+
+566
+00:58:40,041 --> 00:58:41,416
+Go!
+
+567
+00:58:59,333 --> 00:59:01,375
+We call those things "Jags"...
+
+568
+00:59:01,458 --> 00:59:03,500
+They're a side-effect
+of the cyber-virus.
+
+569
+00:59:03,583 --> 00:59:06,708
+It's what happens when the
+mechanization process goes bad.
+
+570
+00:59:06,791 --> 00:59:08,541
+They pretty much try to
+assimilate any kind of metal
+
+571
+00:59:08,625 --> 00:59:09,875
+they can find...
+
+572
+00:59:15,958 --> 00:59:16,708
+Crazy, huh?
+
+573
+00:59:16,791 --> 00:59:18,500
+The wasteland's full of 'em.
+
+574
+00:59:19,791 --> 00:59:21,125
+But sometimes, if we're lucky,
+
+575
+00:59:21,208 --> 00:59:23,208
+they can throw up
+some really cool stuff.
+
+576
+01:00:20,916 --> 01:00:22,458
+We should get moving.
+
+577
+01:00:25,708 --> 01:00:26,625
+Come on.
+
+578
+01:00:26,708 --> 01:00:28,583
+We have a secret
+base underground.
+
+579
+01:00:46,833 --> 01:00:49,708
+I trust you've come bearing
+news on the S.W.O.R.D. woman?
+
+580
+01:00:53,291 --> 01:00:55,500
+She got away, sir.
+
+581
+01:00:55,583 --> 01:00:58,625
+You mean like the informant
+you let escape to America?
+
+582
+01:01:00,125 --> 01:01:02,958
+We think Maria's
+hiding her somewhere.
+
+583
+01:01:08,375 --> 01:01:09,916
+Leave them.
+
+584
+01:01:11,583 --> 01:01:13,500
+We also have reason
+to believe S.W.O.R.D.
+
+585
+01:01:13,583 --> 01:01:15,833
+has penetrated
+the R.A.C.E. net.
+
+586
+01:01:15,916 --> 01:01:17,333
+No matter...
+
+587
+01:01:17,416 --> 01:01:20,833
+By the time the Americans
+act, it will be too late.
+
+588
+01:01:23,208 --> 01:01:25,583
+Relax, Saito.
+
+589
+01:01:25,666 --> 01:01:30,083
+Our decade-long experiment
+is at last nearing completion.
+
+590
+01:01:30,166 --> 01:01:32,208
+Group G-32 Beta in the slums
+
+591
+01:01:32,291 --> 01:01:35,125
+is developing better
+than we anticipated...
+
+592
+01:01:35,208 --> 01:01:37,833
+They are perfect in every way.
+
+593
+01:01:41,666 --> 01:01:45,166
+Maria and her cohorts are
+a part of that group...
+
+594
+01:01:45,250 --> 01:01:47,875
+Left alone,
+they will join us in time.
+
+595
+01:01:47,958 --> 01:01:49,208
+But sir...
+
+596
+01:01:50,500 --> 01:01:52,458
+What do we have to fear...?
+
+597
+01:01:52,541 --> 01:01:55,250
+There's nothing anyone
+can do to stop us.
+
+598
+01:02:06,875 --> 01:02:09,208
+But just in case...
+
+599
+01:02:09,291 --> 01:02:12,125
+Summon that "Chairman" Itakura.
+
+600
+01:02:40,000 --> 01:02:41,708
+Here.
+
+601
+01:02:41,791 --> 01:02:43,875
+Fresh piece of scrap for ya'...
+
+602
+01:02:43,958 --> 01:02:45,083
+What do you think?
+
+603
+01:02:45,166 --> 01:02:46,375
+Can you get the parts
+you need outta that?
+
+604
+01:02:46,458 --> 01:02:47,041
+Perfect.
+
+605
+01:02:47,125 --> 01:02:48,416
+Thanks...
+
+606
+01:02:48,500 --> 01:02:50,541
+I'll make it work.
+
+607
+01:02:50,625 --> 01:02:52,166
+Where's Maria?
+
+608
+01:02:54,291 --> 01:02:55,708
+We've got a visitor...
+
+609
+01:02:56,708 --> 01:02:58,250
+Vexille, from S.W.O.R.D.
+
+610
+01:03:17,791 --> 01:03:18,208
+Taro...
+
+611
+01:03:18,291 --> 01:03:19,791
+Is it ready?
+
+612
+01:03:19,875 --> 01:03:21,250
+Ya' have'ta ask?
+
+613
+01:03:28,750 --> 01:03:30,208
+My suit!
+
+614
+01:03:30,291 --> 01:03:32,208
+I got it all fixed up,
+good as new...
+
+615
+01:03:32,291 --> 01:03:34,583
+Should be ready to go,
+whenever you are.
+
+616
+01:03:40,708 --> 01:03:42,250
+This what you're looking for?
+
+617
+01:03:47,250 --> 01:03:48,416
+I already sent the signal.
+
+618
+01:03:48,500 --> 01:03:49,166
+For how long?
+
+619
+01:03:49,250 --> 01:03:50,250
+Three minutes plus.
+
+620
+01:03:50,333 --> 01:03:51,916
+So they took out
+the R.A.C.E. net.
+
+621
+01:03:52,708 --> 01:03:54,041
+All Daiwa had to do
+was reconfigure
+
+622
+01:03:54,125 --> 01:03:55,583
+the diffusion pattern.
+
+623
+01:03:55,666 --> 01:03:56,875
+Dammit!
+
+624
+01:03:56,958 --> 01:03:58,041
+It doesn't matter...
+
+625
+01:03:58,125 --> 01:04:00,416
+Only needed to be down
+for a few minutes.
+
+626
+01:04:00,500 --> 01:04:02,625
+Should be enough
+to get S.W.O.R.D. movin'.
+
+627
+01:04:03,458 --> 01:04:04,458
+Oh...
+
+628
+01:04:04,541 --> 01:04:05,833
+another thing...
+
+629
+01:04:05,916 --> 01:04:07,958
+They're holding one of your
+teammates at Daiwa H.Q.
+
+630
+01:04:09,083 --> 01:04:10,250
+Leon?!
+
+631
+01:04:10,333 --> 01:04:10,833
+Yeah...
+
+632
+01:04:10,916 --> 01:04:11,375
+That's right.
+
+633
+01:04:11,458 --> 01:04:12,791
+Leon Fayden.
+
+634
+01:04:18,083 --> 01:04:19,500
+What have they
+done with him...?!
+
+635
+01:04:19,583 --> 01:04:20,083
+Is he hurt?!
+
+636
+01:04:20,166 --> 01:04:20,833
+Sorry...
+
+637
+01:04:20,916 --> 01:04:22,166
+That's all I know.
+
+638
+01:04:22,250 --> 01:04:23,125
+Taro...
+
+639
+01:04:23,208 --> 01:04:24,083
+What's your source?
+
+640
+01:04:24,166 --> 01:04:25,083
+Daiwa mainstream.
+
+641
+01:04:25,166 --> 01:04:26,208
+I pulled it myself...
+
+642
+01:04:26,291 --> 01:04:27,458
+It's legit.
+
+643
+01:04:28,458 --> 01:04:29,791
+It's just Leon...?
+
+644
+01:04:31,250 --> 01:04:32,500
+Yeah...
+
+645
+01:04:42,416 --> 01:04:43,708
+Scan complete, sir...
+
+646
+01:04:43,791 --> 01:04:44,875
+ It's come up empty...
+
+647
+01:04:44,958 --> 01:04:46,708
+Not a single bio-signature.
+
+648
+01:04:47,833 --> 01:04:49,333
+Correction!
+
+649
+01:04:49,416 --> 01:04:52,666
+I'm picking up one reading in
+addition to Lt. Commander Serra!
+
+650
+01:04:52,750 --> 01:04:54,125
+It's faint, but...
+
+651
+01:04:54,208 --> 01:04:56,041
+Wait--there's something else...
+
+652
+01:05:01,208 --> 01:05:02,541
+What's wrong?
+
+653
+01:05:02,625 --> 01:05:05,291
+A shift in the electromagnetic
+diffusion pattern, sir!
+
+654
+01:05:05,375 --> 01:05:06,166
+Damn!
+
+655
+01:05:06,250 --> 01:05:07,958
+Attempting to re-analyze!
+
+656
+01:05:18,166 --> 01:05:19,416
+That's it...
+
+657
+01:05:19,500 --> 01:05:22,916
+Prep Minerva to
+retrieve any survivors.
+
+658
+01:05:24,375 --> 01:05:25,416
+Captain Borg...
+
+659
+01:05:26,583 --> 01:05:28,125
+A call on the hotline.
+
+660
+01:05:29,333 --> 01:05:31,333
+The secretary of defense?
+
+661
+01:05:31,416 --> 01:05:33,875
+Tell him our
+72-hours isn't up yet.
+
+662
+01:05:33,958 --> 01:05:35,500
+It...
+
+663
+01:05:35,583 --> 01:05:37,375
+It's the president, sir.
+
+664
+01:05:49,916 --> 01:05:51,666
+Borg here.
+
+665
+01:05:51,750 --> 01:05:54,250
+Yes, Mr. President...
+
+666
+01:05:54,333 --> 01:05:55,875
+That's correct...
+
+667
+01:05:55,958 --> 01:05:57,333
+Seven agents.
+
+668
+01:06:00,166 --> 01:06:01,750
+Yes.
+
+669
+01:06:03,000 --> 01:06:04,708
+Understood, sir.
+
+670
+01:06:18,291 --> 01:06:20,791
+It's over...
+
+671
+01:06:20,875 --> 01:06:23,000
+Stand down.
+
+672
+01:06:57,500 --> 01:06:58,458
+Takashi.
+
+673
+01:06:59,500 --> 01:07:00,416
+Hey...
+
+674
+01:07:00,500 --> 01:07:02,250
+What's everyone
+getting ready for?
+
+675
+01:07:02,333 --> 01:07:04,166
+There's gonna be an earthquake.
+
+676
+01:07:04,250 --> 01:07:05,125
+What?
+
+677
+01:07:05,208 --> 01:07:06,458
+A quake...
+
+678
+01:07:06,541 --> 01:07:08,500
+This is it, our last big chance.
+
+679
+01:07:09,583 --> 01:07:12,125
+We're gonna go
+smash up Daiwa...
+
+680
+01:07:12,208 --> 01:07:14,416
+Maria says I get
+to help fight, too!
+
+681
+01:07:17,125 --> 01:07:18,250
+Here's the deal.
+
+682
+01:07:18,333 --> 01:07:19,708
+Daiwa's got these huge
+freight tunnels that
+
+683
+01:07:19,791 --> 01:07:20,958
+connect to the mainland...
+
+684
+01:07:21,041 --> 01:07:22,041
+Three of 'em.
+
+685
+01:07:24,500 --> 01:07:27,208
+The main line feeds
+directly into the city.
+
+686
+01:07:27,291 --> 01:07:29,166
+The other two open out
+to the wasteland.
+
+687
+01:07:29,250 --> 01:07:31,125
+So these tunnels aren't metal.
+
+688
+01:07:31,208 --> 01:07:31,958
+Ceramic?
+
+689
+01:07:32,041 --> 01:07:33,333
+Right...
+
+690
+01:07:33,416 --> 01:07:34,625
+Now, there's a mid-scale
+earthquake forecasted to hit
+
+691
+01:07:34,708 --> 01:07:37,000
+sometime within the
+next twenty-four hours...
+
+692
+01:07:37,083 --> 01:07:38,208
+which means the couplings
+
+693
+01:07:38,291 --> 01:07:40,833
+on these tunnels are
+already being released.
+
+694
+01:07:40,916 --> 01:07:42,208
+As a resistance measure.
+
+695
+01:07:42,291 --> 01:07:43,375
+Yep...
+
+696
+01:07:43,458 --> 01:07:45,916
+but turns out this
+also exposes a weakness.
+
+697
+01:07:46,000 --> 01:07:47,083
+With the couplings released,
+
+698
+01:07:47,166 --> 01:07:48,583
+the tunnel segments
+
+699
+01:07:48,666 --> 01:07:50,916
+are switched over to independent
+battery-powered operation.
+
+700
+01:07:51,000 --> 01:07:53,958
+And here's the key: so are
+the five security-gates...
+
+701
+01:07:54,041 --> 01:07:55,333
+There's an extended delay--
+
+702
+01:07:55,416 --> 01:07:57,875
+about 1.5 times
+longer than normal--
+
+703
+01:07:57,958 --> 01:08:00,041
+between the time the
+intruder alarm is tripped
+
+704
+01:08:00,125 --> 01:08:01,583
+and gate activation.
+
+705
+01:08:01,666 --> 01:08:02,875
+So what's our window...?
+
+706
+01:08:02,958 --> 01:08:04,500
+How long before total lockdown?
+
+707
+01:08:04,583 --> 01:08:05,208
+Eighteen seconds.
+
+708
+01:08:05,291 --> 01:08:06,208
+How far between gates?
+
+709
+01:08:06,291 --> 01:08:07,583
+About twenty-five
+hundred meters.
+
+710
+01:08:07,666 --> 01:08:09,250
+Even at the fighter
+suit's top speed...
+
+711
+01:08:09,333 --> 01:08:10,583
+that's cutting it close.
+
+712
+01:08:10,666 --> 01:08:12,791
+Yeah, it's not much better
+with our air buggies...
+
+713
+01:08:12,875 --> 01:08:14,375
+But it's our only shot.
+
+714
+01:08:15,166 --> 01:08:16,833
+And after you make it to Daiwa?
+
+715
+01:08:21,125 --> 01:08:22,750
+If we make it through...
+
+716
+01:08:22,833 --> 01:08:24,541
+We'll be pulling this wire.
+
+717
+01:08:28,875 --> 01:08:30,125
+The Jags.
+
+718
+01:08:35,291 --> 01:08:38,250
+We get 'em to Daiwa's front
+door, and they do the rest.
+
+719
+01:08:38,333 --> 01:08:40,416
+We just need a few Jags
+to take the bait...
+
+720
+01:08:40,500 --> 01:08:41,875
+Then we lead 'em
+down the tunnel...
+
+721
+01:08:41,958 --> 01:08:43,583
+and Daiwa's history.
+
+722
+01:08:44,375 --> 01:08:45,791
+Maria...!
+
+723
+01:08:45,875 --> 01:08:48,416
+Chairman Itakura's called
+an emergency council session.
+
+724
+01:09:02,791 --> 01:09:04,708
+Is that all you have to say?
+
+725
+01:09:04,791 --> 01:09:07,250
+It is.
+
+726
+01:09:07,333 --> 01:09:09,666
+I thought we'd been
+over all this before...
+
+727
+01:09:09,750 --> 01:09:12,541
+Those of you who choose to
+sit back and wait for the end...
+
+728
+01:09:12,625 --> 01:09:14,458
+We respect that decision.
+
+729
+01:09:17,208 --> 01:09:20,333
+But we both know what'll happen
+if Daiwa reaches America...
+
+730
+01:09:20,416 --> 01:09:22,166
+I choose to do something.
+
+731
+01:09:26,166 --> 01:09:26,875
+So...
+
+732
+01:09:26,958 --> 01:09:28,041
+if there's nothing else...
+
+733
+01:09:28,125 --> 01:09:30,208
+we're a little short on time.
+
+734
+01:09:33,541 --> 01:09:35,458
+And if you fail...?
+
+735
+01:09:39,875 --> 01:09:42,333
+Think about what you're
+doing--the repercussions...!
+
+736
+01:09:42,416 --> 01:09:45,625
+Daiwa could open the gates to
+the wasteland and wipe us out.
+
+737
+01:09:45,708 --> 01:09:48,375
+What, and destroy their
+"precious experiment"?
+
+738
+01:09:48,458 --> 01:09:49,333
+Now?
+
+739
+01:09:50,666 --> 01:09:52,833
+I doubt they'd be
+willing to do that.
+
+740
+01:09:58,708 --> 01:10:00,166
+Listen...
+
+741
+01:10:00,250 --> 01:10:03,708
+In the end, we're all trying
+to protect the same thing.
+
+742
+01:10:03,791 --> 01:10:06,041
+It's Daiwa we
+should be fighting.
+
+743
+01:10:09,333 --> 01:10:11,625
+That's what we intend to do...
+
+744
+01:10:11,708 --> 01:10:14,291
+until the moment
+we become scrap metal.
+
+745
+01:10:28,708 --> 01:10:29,875
+Chairman...?
+
+746
+01:10:29,958 --> 01:10:32,166
+If you want an
+outsider's opinion...
+
+747
+01:10:33,458 --> 01:10:34,708
+From what I've seen...
+
+748
+01:10:34,791 --> 01:10:36,583
+you're all fighting...
+
+749
+01:10:36,666 --> 01:10:37,916
+but most of you are fighting
+
+750
+01:10:38,000 --> 01:10:40,458
+to hold on to something
+that's already been lost.
+
+751
+01:10:44,791 --> 01:10:46,125
+And...
+
+752
+01:10:47,458 --> 01:10:49,166
+it seems to me, Maria and
+her friends are the ones
+
+753
+01:10:49,250 --> 01:10:51,583
+fighting for
+what's still left...
+
+754
+01:11:54,833 --> 01:11:57,750
+What do you mean, "All
+foreigners are being deported"?
+
+755
+01:11:57,833 --> 01:11:59,583
+It doesn't make any sense!
+
+756
+01:12:03,000 --> 01:12:04,125
+Leon...!
+
+757
+01:12:27,958 --> 01:12:28,916
+Maria...
+
+758
+01:12:29,000 --> 01:12:31,416
+Come to America with me.
+
+759
+01:12:34,833 --> 01:12:36,458
+Is there a problem...?
+
+760
+01:12:36,541 --> 01:12:38,583
+You need a valid
+departure permit.
+
+761
+01:12:38,666 --> 01:12:39,958
+I have one...
+
+762
+01:12:40,041 --> 01:12:42,208
+Lt. Commander Leon
+Fayden requested it.
+
+763
+01:12:42,291 --> 01:12:43,125
+No, ma'am...
+
+764
+01:12:43,208 --> 01:12:44,666
+I show no record of that.
+
+765
+01:12:44,750 --> 01:12:45,833
+So check again...
+
+766
+01:12:45,916 --> 01:12:47,166
+There's been a mistake.
+
+767
+01:12:47,250 --> 01:12:49,125
+I'm going to have to ask you
+to come with me...
+
+768
+01:12:49,208 --> 01:12:50,000
+Let's go...
+
+769
+01:12:50,083 --> 01:12:51,958
+Step out of the car, please.
+
+770
+01:12:52,041 --> 01:12:53,166
+Easy now.
+
+771
+01:12:53,250 --> 01:12:57,041
+I'm telling you--At
+least let me call him!
+
+772
+01:12:57,125 --> 01:12:59,708
+Communication with the airport
+is currently restricted.
+
+773
+01:13:01,625 --> 01:13:02,791
+I'm going with you.
+
+774
+01:13:04,625 --> 01:13:05,500
+Your mission...
+
+775
+01:13:05,583 --> 01:13:06,625
+I wanna help.
+
+776
+01:13:08,250 --> 01:13:08,791
+No.
+
+777
+01:13:08,875 --> 01:13:10,041
+It's our problem.
+
+778
+01:13:10,125 --> 01:13:12,208
+This is bigger than that now,
+and you know it.
+
+779
+01:13:13,666 --> 01:13:15,875
+You and your people
+had your chance already...
+
+780
+01:13:16,958 --> 01:13:18,833
+We never asked for your help.
+
+781
+01:13:20,625 --> 01:13:21,750
+What about Leon?
+
+782
+01:13:21,833 --> 01:13:23,833
+He volunteered to come
+here because of you!
+
+783
+01:13:31,791 --> 01:13:33,041
+Maria...
+
+784
+01:13:33,125 --> 01:13:35,291
+I'm begging, take me
+to Daiwa with you.
+
+785
+01:13:40,791 --> 01:13:41,875
+My decision is final.
+
+786
+01:13:41,958 --> 01:13:43,458
+It's nothing personal.
+
+787
+01:13:46,041 --> 01:13:48,291
+You want to help Leon
+as much as I do!
+
+788
+01:14:04,375 --> 01:14:05,625
+What's wrong...?
+
+789
+01:14:06,833 --> 01:14:08,000
+Hey!
+
+790
+01:14:08,083 --> 01:14:09,291
+Takashi...
+
+791
+01:14:09,375 --> 01:14:10,000
+It's alright.
+
+792
+01:14:10,083 --> 01:14:11,291
+Hang on.
+
+793
+01:14:12,416 --> 01:14:13,708
+Takashi!
+
+794
+01:14:15,791 --> 01:14:16,916
+No...
+
+795
+01:14:20,666 --> 01:14:21,875
+Fight it!
+
+796
+01:14:55,041 --> 01:14:56,833
+No...
+
+797
+01:14:56,916 --> 01:14:58,125
+Takashi...
+
+798
+01:15:02,375 --> 01:15:03,958
+Takashi...!!
+
+799
+01:15:07,791 --> 01:15:08,416
+How could you?!
+
+800
+01:15:08,500 --> 01:15:10,208
+You're inhuman!
+
+801
+01:15:38,250 --> 01:15:39,166
+Please...
+
+802
+01:15:39,250 --> 01:15:42,208
+Try to understand...
+
+803
+01:15:42,291 --> 01:15:44,416
+It had to be done...
+
+804
+01:15:44,500 --> 01:15:46,291
+Otherwise...
+
+805
+01:15:46,375 --> 01:15:49,000
+Daiwa would know our plans.
+
+806
+01:17:13,750 --> 01:17:15,291
+Vexille...
+
+807
+01:17:17,208 --> 01:17:19,875
+We need a replacement
+for Takashi.
+
+808
+01:17:36,041 --> 01:17:38,500
+Once we're in the tunnel,
+it's going to be tight.
+
+809
+01:17:38,583 --> 01:17:39,666
+Even at full throttle,
+
+810
+01:17:39,750 --> 01:17:41,958
+we'll barely have
+the speed to make it.
+
+811
+01:17:42,041 --> 01:17:45,208
+As much as you can, hold a
+straight line down the middle.
+
+812
+01:17:45,291 --> 01:17:48,541
+Touch the brakes, even for
+an instant, and you're done.
+
+813
+01:17:50,083 --> 01:17:52,500
+We'll be mounting
+a two-pronged assault.
+
+814
+01:17:52,583 --> 01:17:55,416
+Team Red will follow me
+to Tunnel One in the east.
+
+815
+01:17:55,500 --> 01:17:56,625
+Team Black will head west
+
+816
+01:17:56,708 --> 01:17:59,916
+with Saga to make
+a run at Tunnel Three.
+
+817
+01:18:00,000 --> 01:18:03,541
+This is the first time we've
+moved so many units all at once.
+
+818
+01:18:03,625 --> 01:18:05,166
+There's no way of
+knowing how many Jags
+
+819
+01:18:05,250 --> 01:18:07,458
+we'll pick up along the way.
+
+820
+01:18:07,541 --> 01:18:08,875
+Just remember...
+
+821
+01:18:08,958 --> 01:18:12,125
+no matter what happens,
+keep moving, don't give up...
+
+822
+01:18:12,208 --> 01:18:15,666
+Our plan will succeed if even
+one of us makes it through.
+
+823
+01:18:18,916 --> 01:18:20,083
+Daiwa...
+
+824
+01:18:20,166 --> 01:18:22,458
+They can rob us
+of our country,...
+
+825
+01:18:22,541 --> 01:18:24,708
+Take our bodies and our minds...
+
+826
+01:18:26,416 --> 01:18:29,416
+But right now,
+we're still human...
+
+827
+01:18:29,500 --> 01:18:32,083
+Let's show them
+they can't take our pride!
+
+828
+01:19:44,958 --> 01:19:46,125
+Maria...
+
+829
+01:19:46,208 --> 01:19:47,375
+those Jags are riding
+a little too close...
+
+830
+01:19:48,208 --> 01:19:49,166
+Murata.
+
+831
+01:19:50,125 --> 01:19:51,125
+Got it.
+
+832
+01:19:51,208 --> 01:19:52,416
+I'll fall back
+and take 'em off you.
+
+833
+01:20:14,708 --> 01:20:15,791
+Black to red!
+
+834
+01:20:15,875 --> 01:20:17,750
+Go ahead, Black.
+
+835
+01:20:17,833 --> 01:20:19,500
+We're comin' up
+on the tunnel now.
+
+836
+01:20:22,958 --> 01:20:24,166
+We're goin' in!
+
+837
+01:20:26,375 --> 01:20:27,458
+Good luck.
+
+838
+01:20:27,541 --> 01:20:28,708
+Murata, break off!
+
+839
+01:20:42,875 --> 01:20:45,250
+Murata...!!
+
+840
+01:21:08,833 --> 01:21:09,500
+Black here!
+
+841
+01:21:09,583 --> 01:21:10,583
+We're through the gate!
+
+842
+01:21:29,041 --> 01:21:30,333
+I got this one!
+
+843
+01:21:58,083 --> 01:21:59,708
+Second gate clear!
+
+844
+01:22:39,958 --> 01:22:41,208
+I'm past the third gate.
+
+845
+01:22:41,291 --> 01:22:42,083
+Just me.
+
+846
+01:22:42,166 --> 01:22:43,708
+Rest of my team didn't make it.
+
+847
+01:22:54,333 --> 01:22:54,916
+Maria!
+
+848
+01:22:55,000 --> 01:22:55,916
+The gate's clear!
+
+849
+01:22:56,000 --> 01:22:57,166
+I'll keep 'em off you!
+
+850
+01:22:57,250 --> 01:22:58,833
+Circle back and
+make another run!
+
+851
+01:22:59,958 --> 01:23:00,958
+On it.
+
+852
+01:23:14,166 --> 01:23:15,166
+The Jags are on the wire.
+
+853
+01:23:15,250 --> 01:23:16,791
+They already crashed the gates.
+
+854
+01:23:16,875 --> 01:23:18,333
+They're right on my ass!
+
+855
+01:23:51,000 --> 01:23:52,125
+Maria!
+
+856
+01:24:23,000 --> 01:24:24,291
+Vexille!
+
+857
+01:25:37,125 --> 01:25:38,291
+One left!
+
+858
+01:25:50,291 --> 01:25:51,208
+Maria!
+
+859
+01:27:20,791 --> 01:27:22,291
+No...
+
+860
+01:27:31,750 --> 01:27:33,583
+Now there's an entrance!
+
+861
+01:27:35,416 --> 01:27:37,541
+But it looks like you weren't
+expecting the tunnel to be
+
+862
+01:27:37,625 --> 01:27:40,375
+so far from the main facility.
+
+863
+01:27:43,083 --> 01:27:44,875
+That's too bad...
+
+864
+01:27:44,958 --> 01:27:48,208
+Jags aren't much
+in the way of jumpers.
+
+865
+01:27:51,375 --> 01:27:54,333
+Your "Chairman" Itakura
+told us everything.
+
+866
+01:28:55,875 --> 01:28:57,208
+Leon!
+
+867
+01:28:59,208 --> 01:29:01,875
+Nice to see you again, Maria.
+
+868
+01:29:09,041 --> 01:29:12,791
+We've come a long way
+since our old school days...
+
+869
+01:29:15,041 --> 01:29:17,625
+I still remember
+our last meeting...
+
+870
+01:29:17,708 --> 01:29:20,166
+In ten years,
+you haven't changed a bit...
+
+871
+01:29:20,250 --> 01:29:22,375
+Still as beautiful as ever.
+
+872
+01:29:22,458 --> 01:29:24,458
+And as dangerous...
+
+873
+01:29:24,541 --> 01:29:26,083
+Kisaragi...
+
+874
+01:29:32,750 --> 01:29:34,375
+Bureau of Public Security...!
+
+875
+01:29:34,458 --> 01:29:35,750
+This is an illegal facility!
+
+876
+01:29:35,833 --> 01:29:36,250
+You.
+
+877
+01:29:36,333 --> 01:29:36,875
+Don't move.
+
+878
+01:29:36,958 --> 01:29:38,208
+Hands in front.
+
+879
+01:29:43,541 --> 01:29:44,833
+Maria...
+
+880
+01:29:44,916 --> 01:29:47,333
+I warned you
+this day was coming.
+
+881
+01:29:59,500 --> 01:30:01,875
+Ah, the irony of fate...
+
+882
+01:30:01,958 --> 01:30:04,625
+To think you'd see
+this face one last time...
+
+883
+01:30:07,708 --> 01:30:08,250
+No!
+
+884
+01:30:08,333 --> 01:30:09,708
+Get away from him!
+
+885
+01:30:26,583 --> 01:30:28,541
+"Insufficient evidence?"
+
+886
+01:30:29,708 --> 01:30:31,166
+It seems we're too late.
+
+887
+01:30:31,250 --> 01:30:35,541
+Daiwa is already beyond the
+reach of public law enforcement.
+
+888
+01:30:35,625 --> 01:30:38,041
+Forget the number of
+treaties they've violated...
+
+889
+01:30:38,125 --> 01:30:40,750
+That research is a
+danger to the human race!
+
+890
+01:30:42,041 --> 01:30:43,958
+They were acquitted
+this morning.
+
+891
+01:30:51,208 --> 01:30:54,958
+This is the dawn of
+a new age in human evolution...
+
+892
+01:30:55,041 --> 01:30:57,333
+At long last,
+the time has come...
+
+893
+01:30:57,416 --> 01:31:00,625
+to realize our potential,
+to free our species from
+
+894
+01:31:00,708 --> 01:31:03,375
+the shackles placed
+upon it by nature.
+
+895
+01:31:03,458 --> 01:31:05,750
+You call this evolution...?
+
+896
+01:31:19,125 --> 01:31:20,458
+Don't you understand?
+
+897
+01:31:20,541 --> 01:31:23,750
+The bodies we now possess
+represent perfection.
+
+898
+01:31:23,833 --> 01:31:25,791
+We have harnessed the
+power of our intellect,
+
+899
+01:31:25,875 --> 01:31:28,291
+uninhibited by emotion.
+
+900
+01:31:28,375 --> 01:31:29,750
+We need neither food...
+
+901
+01:31:29,833 --> 01:31:31,125
+nor sleep...
+
+902
+01:31:32,166 --> 01:31:33,166
+and most of all...
+
+903
+01:31:33,250 --> 01:31:35,916
+immortality is now
+within our grasp.
+
+904
+01:31:38,791 --> 01:31:41,000
+Seriously, what's not to like?
+
+905
+01:31:44,291 --> 01:31:45,541
+Oh, Maria...
+
+906
+01:31:45,625 --> 01:31:48,041
+You'll see things
+my way soon enough.
+
+907
+01:31:52,083 --> 01:31:55,083
+Natural selection
+will run its course...
+
+908
+01:31:55,166 --> 01:31:57,375
+Only those most
+worthy will evolve...
+
+909
+01:31:57,458 --> 01:32:00,250
+and a new human race
+will be born...
+
+910
+01:32:00,333 --> 01:32:04,875
+Man--recreated in his own image.
+
+911
+01:32:04,958 --> 01:32:07,333
+This is the work of a god!
+
+912
+01:32:07,416 --> 01:32:10,166
+And that god is me!
+
+913
+01:32:14,458 --> 01:32:16,416
+He's insane...
+
+914
+01:32:23,958 --> 01:32:24,875
+Still...
+
+915
+01:32:24,958 --> 01:32:26,791
+there is much to be done...
+
+916
+01:32:26,875 --> 01:32:29,583
+and test subjects here
+are in short supply...
+
+917
+01:32:31,416 --> 01:32:35,333
+Fortunately for me,
+your country has plenty...
+
+918
+01:32:35,416 --> 01:32:36,583
+Like Leon.
+
+919
+01:32:36,666 --> 01:32:39,833
+An entire nation
+of ideal guinea pigs.
+
+920
+01:33:12,416 --> 01:33:15,125
+So you're a god, huh?
+
+921
+01:33:15,208 --> 01:33:17,791
+Well, you still
+bleed like a human!
+
+922
+01:33:25,291 --> 01:33:27,875
+And what would we have done
+if something happened to me...?
+
+923
+01:33:27,958 --> 01:33:30,083
+It would have been disastrous...
+
+924
+01:33:30,166 --> 01:33:31,375
+Listen...!
+
+925
+01:33:31,458 --> 01:33:33,333
+Once the experiment was
+a success and my safety
+
+926
+01:33:33,416 --> 01:33:35,875
+could be guaranteed, of course
+I was going to take part
+
+927
+01:33:35,958 --> 01:33:37,166
+in the evolution...!
+
+928
+01:33:37,250 --> 01:33:39,291
+All for one man's
+sick delusion...
+
+929
+01:33:39,375 --> 01:33:40,791
+Think of all we've accomplished!
+
+930
+01:33:40,875 --> 01:33:42,000
+All I've given you!
+
+931
+01:33:42,083 --> 01:33:43,083
+Eternal life!
+
+932
+01:33:43,166 --> 01:33:44,208
+It's thanks to me!
+
+933
+01:33:44,291 --> 01:33:46,208
+Thanks to my research!
+
+934
+01:33:46,291 --> 01:33:47,333
+You're perfect now!
+
+935
+01:33:47,416 --> 01:33:48,583
+Cured of human impulse!
+
+936
+01:33:48,666 --> 01:33:50,125
+This is beneath you!
+
+937
+01:33:53,000 --> 01:33:54,250
+Stop...
+
+938
+01:33:54,333 --> 01:33:55,583
+Saito...
+
+939
+01:33:55,666 --> 01:33:57,541
+This is a mistake...!
+
+940
+01:34:12,833 --> 01:34:14,208
+We have a breach
+in the outer wall.
+
+941
+01:34:14,291 --> 01:34:16,125
+The city gates are opening!
+
+942
+01:34:27,333 --> 01:34:28,333
+Sir...
+
+943
+01:34:28,416 --> 01:34:30,791
+you have the
+citizens' full support.
+
+944
+01:34:34,416 --> 01:34:35,666
+This is...
+
+945
+01:34:35,750 --> 01:34:37,416
+Chairman Itakura.
+
+946
+01:34:39,208 --> 01:34:40,291
+Today...
+
+947
+01:34:40,375 --> 01:34:42,208
+as you now know...
+
+948
+01:34:42,291 --> 01:34:45,708
+Many of our comrades were
+betrayed, by hesitation on
+
+949
+01:34:45,791 --> 01:34:48,958
+the part of myself
+and the council.
+
+950
+01:34:49,041 --> 01:34:51,875
+But because of your
+courageous decision,
+
+951
+01:34:51,958 --> 01:34:55,458
+we now have a chance to
+atone for those mistakes.
+
+952
+01:35:01,541 --> 01:35:02,958
+Thank you...
+
+953
+01:35:03,041 --> 01:35:04,208
+Everyone.
+
+954
+01:35:04,291 --> 01:35:06,125
+Chairman Itakura...
+
+955
+01:35:42,916 --> 01:35:45,333
+Cut the central tunnel
+from the main facility!
+
+956
+01:35:45,416 --> 01:35:47,958
+Sir, I show that we still
+have a carrier en route...
+
+957
+01:35:48,041 --> 01:35:49,750
+Should we wait for it to clear?
+
+958
+01:35:49,833 --> 01:35:52,041
+No, don't let it through...!
+
+959
+01:35:52,125 --> 01:35:53,416
+Detach the tunnel!
+
+960
+01:35:55,083 --> 01:35:57,333
+Do not let that carrier
+reach headquarters!
+
+961
+01:36:12,458 --> 01:36:13,875
+Too late.
+
+962
+01:36:20,875 --> 01:36:22,333
+Piece of junk.
+
+963
+01:36:33,541 --> 01:36:35,583
+This is just
+a temporary setback...
+
+964
+01:36:35,666 --> 01:36:38,916
+as long as I have my research
+the world will still be mine!
+
+965
+01:36:51,000 --> 01:36:54,166
+Be sure to say goodbye to the
+Jags for me when they get here.
+
+966
+01:37:46,000 --> 01:37:47,500
+I'll go after Kisaragi.
+
+967
+01:37:47,583 --> 01:37:48,958
+Take care of Leon.
+
+968
+01:37:49,041 --> 01:37:50,833
+No, Kisaragi's mine!
+
+969
+01:37:51,708 --> 01:37:53,541
+You can't run with that leg.
+
+970
+01:37:56,875 --> 01:37:58,250
+Keep him safe.
+
+971
+01:40:25,791 --> 01:40:27,208
+Maria...
+
+972
+01:40:28,625 --> 01:40:30,916
+Why didn't you come...?
+
+973
+01:40:31,000 --> 01:40:31,708
+The airport.
+
+974
+01:40:31,791 --> 01:40:33,125
+I waited...
+
+975
+01:40:54,208 --> 01:40:56,416
+You know, as much as
+I hate machines...
+
+976
+01:40:56,500 --> 01:40:59,000
+It's people like you,
+who really piss me off!
+
+977
+01:41:05,166 --> 01:41:06,500
+Vexille!
+
+978
+01:41:34,708 --> 01:41:35,875
+Vexille.
+
+979
+01:41:37,833 --> 01:41:39,125
+Where's Maria?
+
+980
+01:42:03,000 --> 01:42:04,208
+Stay back...!
+
+981
+01:42:04,291 --> 01:42:05,125
+Do you hear me...?!
+
+982
+01:42:05,208 --> 01:42:07,250
+Don't come any closer!
+
+983
+01:42:07,333 --> 01:42:09,000
+You metal bitch!
+
+984
+01:42:09,083 --> 01:42:10,500
+The Jags are coming!
+
+985
+01:42:10,583 --> 01:42:11,708
+Maria!
+
+986
+01:42:15,875 --> 01:42:16,208
+No!
+
+987
+01:42:16,291 --> 01:42:16,708
+Maria!
+
+988
+01:42:16,791 --> 01:42:18,166
+Run!
+
+989
+01:42:19,083 --> 01:42:20,583
+Now I've got you...
+
+990
+01:42:20,666 --> 01:42:22,750
+This time I'm not letting go.
+
+991
+01:42:53,291 --> 01:42:56,000
+Maria...
+
+992
+01:45:04,708 --> 01:45:06,125
+In the end...
+
+993
+01:45:06,208 --> 01:45:08,458
+the Jags came from all
+over Japan to get a piece
+
+994
+01:45:08,541 --> 01:45:11,000
+of Daiwa headquarters...
+
+995
+01:45:11,083 --> 01:45:13,833
+then, sank into the sea...
+
+996
+01:45:15,125 --> 01:45:18,000
+Maria and her people
+were wiped out...
+
+997
+01:45:18,083 --> 01:45:19,416
+But what they did...
+
+998
+01:45:19,500 --> 01:45:21,416
+their sacrifice...
+
+999
+01:45:21,500 --> 01:45:23,583
+it won't be forgotten.
+
+1000
+01:45:23,666 --> 01:45:28,708
+They will live on in our hearts,
+a shining example to the world.
+
+1001
+01:45:28,791 --> 01:45:31,083
+It was Maria who taught us...
+
+1002
+01:45:31,166 --> 01:45:35,041
+what we are is more than
+just flesh and blood...
+
+1003
+01:45:35,125 --> 01:45:38,291
+As long as we have our
+spirit, then nothing...
+
+1004
+01:45:38,375 --> 01:45:39,416
+no one...
+
+1005
+01:45:39,500 --> 01:45:41,958
+can ever take away
+our humanity...
+

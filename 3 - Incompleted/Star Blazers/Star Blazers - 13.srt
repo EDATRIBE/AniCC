@@ -1,0 +1,1894 @@
+﻿1
+00:01:46,916 --> 00:01:48,791
+[COMMS. 13A] Space-time
+fluctuation has increased
+
+2
+00:01:48,875 --> 00:01:51,708
+from zel 0-5-0 to zel 0-7-0.
+
+3
+00:01:51,791 --> 00:01:53,625
+ETA unchanged.
+
+4
+00:03:00,541 --> 00:03:03,041
+[COMMS. 13A] Seventh Squadron,
+proceed to dock five.
+
+5
+00:03:03,125 --> 00:03:07,041
+Sixth and Thirteenth Destroyer
+Groups, proceed to dock nine.
+
+6
+00:03:10,500 --> 00:03:12,750
+[COMMS. 13A] Port crew,
+begin anchoring procedures.
+
+7
+00:03:12,833 --> 00:03:15,791
+Mechanic team,
+stand by for further orders.
+
+8
+00:03:25,791 --> 00:03:27,958
+Official orders straight
+from Lord Desler.
+
+9
+00:03:28,041 --> 00:03:30,000
+Effective tam 12-0-8.
+
+10
+00:03:30,083 --> 00:03:32,500
+Domel, Commander of
+SMC Defense Forces.
+
+11
+00:03:32,583 --> 00:03:35,750
+Appointed Commander of Milky
+Way Theater Operations.
+
+12
+00:03:35,833 --> 00:03:37,750
+His predecessor,
+Major General Goer,
+
+13
+00:03:37,833 --> 00:03:40,500
+will serve as his
+second in command.
+
+14
+00:03:40,583 --> 00:03:42,541
+End of orders.
+
+15
+00:03:43,916 --> 00:03:45,166
+[GOER grunts]
+
+16
+00:03:47,708 --> 00:03:49,083
+[HEYDELN]
+General.
+
+17
+00:03:49,166 --> 00:03:50,750
+A message from Flaken.
+
+18
+00:03:50,833 --> 00:03:54,500
+"The great dance between the
+hunter and hunted, begins."
+
+19
+00:03:54,583 --> 00:03:57,541
+What does that mean,
+has something happened?
+
+20
+00:03:57,625 --> 00:04:00,458
+It seems The Hound has
+tracked down his prey.
+
+21
+00:04:33,375 --> 00:04:36,208
+[MORI] Two enemy torpedoes
+have struck a planetesimal.
+
+22
+00:04:36,291 --> 00:04:37,791
+Distance: three megameters.
+
+23
+00:04:37,875 --> 00:04:41,000
+No doubt it's another
+attempt to find us.
+
+24
+00:04:41,083 --> 00:04:43,083
+[SANADA] The interstellar medium
+around this protostar
+
+25
+00:04:43,166 --> 00:04:45,958
+is immense, with hundreds
+of places to hide.
+
+26
+00:04:46,041 --> 00:04:49,375
+As long as we don't move, it's
+going to be hard to find us.
+
+27
+00:04:49,458 --> 00:04:51,916
+It was an excellent
+tactical choice, Captain.
+
+28
+00:04:52,000 --> 00:04:54,583
+The question is, where did
+those torpedoes come from?
+
+29
+00:04:54,666 --> 00:04:55,958
+Anything on radar?
+
+30
+00:04:56,041 --> 00:04:59,125
+Negative. I tried to back-trace
+but nothing's there.
+
+31
+00:04:59,208 --> 00:05:00,958
+Must be some kinda
+stealth ship.
+
+32
+00:05:01,041 --> 00:05:03,583
+We've already spent four
+hours on this rock.
+
+33
+00:05:03,666 --> 00:05:05,208
+We can't hide here forever.
+
+34
+00:05:05,291 --> 00:05:06,333
+[MORI]
+Another incoming!
+
+35
+00:05:06,416 --> 00:05:07,458
+[NANBU]
+Huh?
+
+36
+00:05:09,000 --> 00:05:12,125
+[MORI] Explosion, ten o'clock,
+distance: 200 kilometers!
+
+37
+00:05:14,208 --> 00:05:19,791
+[sonar pings]
+
+38
+00:05:25,083 --> 00:05:28,041
+[KIEL] Close subspace vents and
+adjust course from 22 to 30.
+
+39
+00:05:28,125 --> 00:05:29,375
+Dimensional pressure normal.
+
+40
+00:05:29,458 --> 00:05:31,333
+Phase displacement
+in normal range.
+
+41
+00:05:31,416 --> 00:05:34,041
+We aren't detecting their
+ship's Wave Motion pattern.
+
+42
+00:05:34,125 --> 00:05:36,125
+I thought we'd have
+flushed them out by now.
+
+43
+00:05:36,208 --> 00:05:38,416
+With all the noise from
+that interstellar medium
+
+44
+00:05:38,500 --> 00:05:40,208
+we can't pinpoint
+their spatial wake
+
+45
+00:05:40,291 --> 00:05:42,333
+until they rev their engine.
+
+46
+00:05:42,416 --> 00:05:44,666
+Intelligent little vermin,
+aren't they?
+
+47
+00:05:44,750 --> 00:05:45,833
+[HEINI]
+Huh?
+
+48
+00:05:47,208 --> 00:05:49,916
+[FLAKEN] Good. Smarter
+prey means a better hunt.
+
+49
+00:05:50,000 --> 00:05:51,166
+Cheer up, Heini.
+
+50
+00:05:51,250 --> 00:05:54,625
+If we have to be at war,
+might as well enjoy it.
+
+51
+00:06:00,041 --> 00:06:02,166
+Small dimensional quakes?
+
+52
+00:06:02,250 --> 00:06:05,000
+Captain, this is only a theory,
+
+53
+00:06:05,083 --> 00:06:07,041
+but these readings from
+our sensors remind me
+
+54
+00:06:07,125 --> 00:06:08,958
+of that dimensional fault
+we were trapped in.
+
+55
+00:06:09,041 --> 00:06:11,375
+Maybe they have a ship that
+can tunnel into subspace
+
+56
+00:06:11,458 --> 00:06:13,125
+similar to how we tunneled out.
+
+57
+00:06:13,208 --> 00:06:13,875
+[OKITA groans]
+
+58
+00:06:13,958 --> 00:06:15,291
+Captain?
+
+59
+00:06:18,000 --> 00:06:19,291
+[thud]
+
+60
+00:06:19,375 --> 00:06:20,833
+[KODAI]
+Captain!
+
+61
+00:06:25,416 --> 00:06:27,458
+Doctor, what is this?
+
+62
+00:06:27,541 --> 00:06:30,958
+There's not much time.
+Go get the operation room ready.
+
+63
+00:06:31,041 --> 00:06:32,333
+[HARADA]
+Yes, sir.
+
+64
+00:06:36,416 --> 00:06:38,125
+[SANADA] As the XO,
+I'll be taking command of
+
+65
+00:06:38,208 --> 00:06:42,208
+the <i>Yamato</i> until Captain Okita
+is fit to return to duty.
+
+66
+00:06:42,291 --> 00:06:44,666
+We'll assume the enemy ship
+is capable of controlled
+
+67
+00:06:44,750 --> 00:06:46,458
+and sustained
+inter-dimensional travel
+
+68
+00:06:46,541 --> 00:06:48,083
+as a means of stealth assault.
+
+69
+00:06:48,166 --> 00:06:50,916
+Niimi and Mori, try to find
+a way to track them.
+
+70
+00:06:51,000 --> 00:06:52,416
+[NIIMI]
+Yes, sir.
+
+71
+00:06:54,125 --> 00:06:56,708
+[KODAI] A ship that can hide
+in other dimensions?
+
+72
+00:07:01,958 --> 00:07:04,000
+[GOER]
+Dimensional Submarine UX-01
+
+73
+00:07:04,083 --> 00:07:06,708
+is under our supreme
+lord's direct control.
+
+74
+00:07:06,791 --> 00:07:09,125
+I'm shocked his office gave
+you permission to bring it
+
+75
+00:07:09,208 --> 00:07:11,791
+all the way out to the
+galactic hinterlands.
+
+76
+00:07:11,875 --> 00:07:13,833
+[DOMEL] They didn't,
+because I didn't bother to ask.
+
+77
+00:07:13,916 --> 00:07:15,291
+You can't be serious!
+
+78
+00:07:15,375 --> 00:07:17,500
+[BERGER]
+Don't worry, Major General.
+
+79
+00:07:17,583 --> 00:07:18,500
+[GOER growls]
+
+80
+00:07:18,583 --> 00:07:19,833
+Lord Desler has
+official control,
+
+81
+00:07:19,916 --> 00:07:21,750
+but it's still the
+Admiral's vessel.
+
+82
+00:07:21,833 --> 00:07:22,750
+That's right.
+
+83
+00:07:22,833 --> 00:07:24,208
+If old man Ditz
+signed off on it,
+
+84
+00:07:24,291 --> 00:07:27,208
+there's nothing to worry about.
+
+85
+00:07:27,291 --> 00:07:29,166
+The real problem is
+that beast at the helm,
+
+86
+00:07:29,250 --> 00:07:30,458
+not the ship itself.
+
+87
+00:07:30,541 --> 00:07:31,958
+Yeah, no doubt about that.
+
+88
+00:07:32,041 --> 00:07:34,041
+Captain Flaken's a
+hard man to control.
+
+89
+00:07:34,125 --> 00:07:34,958
+[GOER growling]
+
+90
+00:07:35,041 --> 00:07:38,333
+[DOMEL]
+Keep this in mind, Goer.
+
+91
+00:07:38,416 --> 00:07:41,041
+We either adapt or die.
+
+92
+00:07:41,125 --> 00:07:42,083
+[GOER grunts]
+
+93
+00:07:42,166 --> 00:07:45,125
+Right. Zar... Belk.
+
+94
+00:07:45,208 --> 00:07:46,958
+[caws]
+
+95
+00:07:49,458 --> 00:07:51,500
+[MEDIC STAFF 13A]
+Blood pressure 120 over 75.
+
+96
+00:07:51,583 --> 00:07:52,708
+Pulse 60.
+
+97
+00:07:52,791 --> 00:07:54,041
+[DR. SADO]
+Hang in there.
+
+98
+00:07:54,125 --> 00:07:56,833
+I'm gonna take care
+of ya, Captain.
+
+99
+00:07:58,750 --> 00:08:00,708
+Begin the operation.
+
+100
+00:08:01,333 --> 00:08:03,416
+[MEDIC STAFF 13A]
+Activating medical drone.
+
+101
+00:08:03,500 --> 00:08:06,291
+[HARADA]
+Medical nanomachines on standby.
+
+102
+00:08:20,958 --> 00:08:22,375
+[HEINI]
+Anything?
+
+103
+00:08:24,125 --> 00:08:25,458
+[HEINI growls]
+
+104
+00:08:25,541 --> 00:08:27,291
+Now what, Captain?
+
+105
+00:08:27,375 --> 00:08:28,583
+Our prey is clever,
+
+106
+00:08:28,666 --> 00:08:31,000
+but they're also too
+frightened to take action.
+
+107
+00:08:31,083 --> 00:08:32,250
+[HEINI grunts]
+
+108
+00:08:32,333 --> 00:08:34,708
+[FLAKEN] They fear the
+hunter in the darkness.
+
+109
+00:08:34,791 --> 00:08:38,250
+They're waiting for us
+to make the next move.
+
+110
+00:08:38,333 --> 00:08:39,791
+Come on!
+
+111
+00:08:39,875 --> 00:08:43,125
+How long are we gonna sit
+here twiddling our thumbs?
+
+112
+00:08:43,208 --> 00:08:44,750
+This sucks!
+
+113
+00:08:45,708 --> 00:08:48,833
+Look, the officers know what
+they're doing, is that clear?
+
+114
+00:08:48,916 --> 00:08:51,333
+[YABU] But I heard that Captain
+Okita collapsed and had to be
+
+115
+00:08:51,416 --> 00:08:54,458
+carried off the bridge. What
+are we gonna do if he dies?
+
+116
+00:08:54,541 --> 00:08:55,333
+Yabu!
+
+117
+00:08:55,416 --> 00:08:57,000
+[gasps]
+
+118
+00:08:57,083 --> 00:08:59,291
+[YABU]
+Huh? Oh, hey Chief!
+
+119
+00:08:59,375 --> 00:09:01,125
+When did you get here?
+
+120
+00:09:01,208 --> 00:09:03,250
+You don't have to worry
+about that, Yabu.
+
+121
+00:09:03,333 --> 00:09:07,041
+The Captain will survive.
+He'll get us through this.
+
+122
+00:09:07,125 --> 00:09:08,000
+You hear me?
+
+123
+00:09:08,083 --> 00:09:09,583
+Yes, sir!
+
+124
+00:09:16,666 --> 00:09:17,750
+[DR. SADO]
+Sweat.
+
+125
+00:09:23,083 --> 00:09:24,375
+[SHIMA]
+Any sign of 'em?
+
+126
+00:09:24,458 --> 00:09:26,708
+No, but even if dimensional
+submersion is possible
+
+127
+00:09:26,791 --> 00:09:28,875
+there'd be a limit to how
+long they could stay there.
+
+128
+00:09:28,958 --> 00:09:30,833
+They're bound to
+surface eventually.
+
+129
+00:09:30,916 --> 00:09:32,833
+[SHIMA] So, we just have
+to keep waiting, huh?
+
+130
+00:09:32,916 --> 00:09:34,166
+Great.
+
+131
+00:09:34,250 --> 00:09:37,083
+[footsteps]
+
+132
+00:09:37,166 --> 00:09:38,375
+Uh?
+
+133
+00:09:38,458 --> 00:09:42,458
+I've never seen you
+this tense before, Kodai.
+
+134
+00:09:42,541 --> 00:09:45,083
+Waiting's hard for
+a soldier, isn't it?
+
+135
+00:09:45,166 --> 00:09:46,291
+Yeah.
+
+136
+00:09:48,000 --> 00:09:50,041
+[HEINI]
+Haven't we waited long enough?
+
+137
+00:09:50,125 --> 00:09:52,416
+For all we know, one of
+our torpedoes got lucky
+
+138
+00:09:52,500 --> 00:09:54,958
+and already blew them up, sir.
+
+139
+00:09:55,041 --> 00:09:56,166
+I agree with you.
+
+140
+00:09:56,250 --> 00:09:57,208
+[HEINI]
+Huh?
+
+141
+00:09:57,291 --> 00:09:58,500
+[FLAKEN]
+We have waited long enough.
+
+142
+00:09:58,583 --> 00:10:00,791
+No more hide and seek.
+
+143
+00:10:00,875 --> 00:10:04,500
+We're going to give
+something else a try.
+
+144
+00:10:04,583 --> 00:10:07,625
+[DR. SADO]
+Four hundred more cc's of blood.
+
+145
+00:10:07,708 --> 00:10:09,416
+And that's a wrap.
+
+146
+00:10:10,916 --> 00:10:12,583
+[sighs]
+
+147
+00:10:12,666 --> 00:10:13,750
+[KODAI]
+XO.
+
+148
+00:10:13,833 --> 00:10:15,791
+If you know more,
+then please tell us.
+
+149
+00:10:15,875 --> 00:10:17,291
+Kodai.
+
+150
+00:10:17,375 --> 00:10:20,083
+What's wrong with
+Captain Okita, sir?
+
+151
+00:10:20,166 --> 00:10:20,833
+[ping]
+
+152
+00:10:20,916 --> 00:10:22,250
+[MORI]
+Ship on radar!
+
+153
+00:10:22,333 --> 00:10:24,958
+Four o'clock, distance:
+23 megameters.
+
+154
+00:10:25,041 --> 00:10:27,958
+The wavelength they're emitting
+is specific to Gamilan ships.
+
+155
+00:10:28,041 --> 00:10:29,500
+That must be it!
+
+156
+00:10:29,583 --> 00:10:32,750
+[MORI] Sir. They appear
+to be leaving the system.
+
+157
+00:10:32,833 --> 00:10:34,000
+So, they're retreating?
+
+158
+00:10:34,083 --> 00:10:36,333
+They must've given up
+on trying to find us.
+
+159
+00:10:36,416 --> 00:10:37,833
+Hold on.
+
+160
+00:10:37,916 --> 00:10:40,375
+We shouldn't assume that.
+It's possible that's a decoy.
+
+161
+00:10:40,458 --> 00:10:42,250
+Are you basing that on evidence?
+
+162
+00:10:42,333 --> 00:10:44,291
+There's nothing I can point to.
+
+163
+00:10:44,375 --> 00:10:48,041
+I suppose you could
+just call it a hunch.
+
+164
+00:10:48,125 --> 00:10:51,166
+I see. It runs in
+the family, then.
+
+165
+00:10:51,250 --> 00:10:54,416
+I was just saying that I agree
+with you, Lieutenant Kodai.
+
+166
+00:10:54,500 --> 00:10:57,166
+Here's a thought. We could use
+the warp engine's subsystems
+
+167
+00:10:57,250 --> 00:11:00,958
+as a transducer to convert a
+signal beyond normal space.
+
+168
+00:11:01,041 --> 00:11:03,541
+We can use the dimensional fault
+data to set the parameters,
+
+169
+00:11:03,625 --> 00:11:05,291
+and see what bounces back.
+
+170
+00:11:05,375 --> 00:11:07,083
+It would be like firing
+a sonar ping
+
+171
+00:11:07,166 --> 00:11:09,541
+across the dimensional
+phase boundary.
+
+172
+00:11:09,625 --> 00:11:12,041
+Dimensional active
+sonar! Brilliant!
+
+173
+00:11:12,125 --> 00:11:13,208
+That would tell us if a ship
+
+174
+00:11:13,291 --> 00:11:15,041
+is still hiding in
+another dimension!
+
+175
+00:11:15,125 --> 00:11:17,041
+Yeah, but that's a
+double-edged sword.
+
+176
+00:11:17,125 --> 00:11:20,041
+Firing a ping from our ship
+would reveal our position, too.
+
+177
+00:11:20,125 --> 00:11:21,916
+If you allow your
+fear to paralyze you
+
+178
+00:11:22,000 --> 00:11:23,833
+then you'll never take action.
+
+179
+00:11:25,083 --> 00:11:26,875
+I suggest flying a
+Seagull to patrol
+
+180
+00:11:26,958 --> 00:11:29,125
+for hostiles instead, sir.
+
+181
+00:11:29,208 --> 00:11:31,750
+You mean with the new
+subspace sonar buoys?
+
+182
+00:11:31,833 --> 00:11:34,625
+Yes. That could basically
+work the same way, right?
+
+183
+00:11:34,708 --> 00:11:35,875
+They would show us
+
+184
+00:11:35,958 --> 00:11:37,666
+if something's hiding
+in another dimension.
+
+185
+00:11:37,750 --> 00:11:39,791
+Theoretically, yes.
+But trying to navigate
+
+186
+00:11:39,875 --> 00:11:41,666
+a Seagull through all this
+interstellar medium
+
+187
+00:11:41,750 --> 00:11:44,916
+would be far too dangerous.
+It's a death sentence!
+
+188
+00:11:45,000 --> 00:11:46,500
+Better than risking
+the whole crew!
+
+189
+00:11:46,583 --> 00:11:48,083
+It's a way to search
+without revealing
+
+190
+00:11:48,166 --> 00:11:49,416
+the <i>Yamato</i> 's position!
+
+191
+00:11:49,500 --> 00:11:51,500
+And which unlucky pilot
+are you going to send out
+
+192
+00:11:51,583 --> 00:11:53,208
+into that minefield, Kodai?
+
+193
+00:11:53,291 --> 00:11:54,458
+I'll fly it myself!
+
+194
+00:11:54,541 --> 00:11:55,458
+No, you won't.
+
+195
+00:11:55,541 --> 00:11:56,875
+[KODAI]
+What?
+
+196
+00:11:56,958 --> 00:11:59,291
+We've seen a ship leaving,
+this is only confirmation.
+
+197
+00:11:59,375 --> 00:12:00,708
+Niimi's correct.
+
+198
+00:12:00,791 --> 00:12:03,000
+It would be far too dangerous
+just to follow a hunch.
+
+199
+00:12:03,083 --> 00:12:03,750
+But XO!
+
+200
+00:12:03,833 --> 00:12:05,125
+[SANADA]
+That's final.
+
+201
+00:12:05,208 --> 00:12:07,833
+Niimi, prepare transduction
+for dimensional ping.
+
+202
+00:12:07,916 --> 00:12:08,708
+[NIIMI]
+Yes, sir.
+
+203
+00:12:08,791 --> 00:12:09,666
+[beeping]
+
+204
+00:12:09,750 --> 00:12:11,458
+[DR. SADO]
+Doctor Sado to CIC.
+
+205
+00:12:11,541 --> 00:12:12,625
+[CREW gasps]
+
+206
+00:12:12,708 --> 00:12:15,416
+[DR. SADO]
+The Captain's operation is over.
+
+207
+00:12:15,500 --> 00:12:16,708
+It's looking good.
+
+208
+00:12:16,791 --> 00:12:18,625
+[ALL sigh]
+
+209
+00:12:19,083 --> 00:12:21,166
+Can I make a suggestion, XO?
+
+210
+00:12:21,250 --> 00:12:23,166
+Send one of us to check
+on the Captain,
+
+211
+00:12:23,250 --> 00:12:25,083
+it might help with morale.
+
+212
+00:12:27,958 --> 00:12:29,625
+We can handle things here.
+
+213
+00:12:29,708 --> 00:12:30,708
+[KODAI]
+Uh?
+
+214
+00:12:44,875 --> 00:12:46,875
+[OKITA] You need the courage
+to disobey an order
+
+215
+00:12:46,958 --> 00:12:50,083
+you believe is wrong, especially
+when lives are at stake.
+
+216
+00:12:50,166 --> 00:12:53,500
+In war, it's the only way
+you can live with yourself
+
+217
+00:12:53,583 --> 00:12:55,875
+once the bloodshed is over.
+
+218
+00:12:59,375 --> 00:13:02,375
+You came to see him, huh?
+
+219
+00:13:02,458 --> 00:13:04,583
+[KODAI]
+Take good care of him, Doc.
+
+220
+00:13:14,625 --> 00:13:16,458
+Don't do anything stupid.
+
+221
+00:13:16,541 --> 00:13:18,750
+[NANBU] Inputting Wave
+Motion parameters.
+
+222
+00:13:18,833 --> 00:13:19,583
+[NIIMI]
+Parameters confirmed...
+
+223
+00:13:19,666 --> 00:13:20,875
+[KITANO]
+Kitano reporting.
+
+224
+00:13:20,958 --> 00:13:22,375
+It's about time!
+
+225
+00:13:22,458 --> 00:13:24,166
+[KITANO]
+Sorry, sir.
+
+226
+00:13:24,250 --> 00:13:26,291
+[ANALYZER]
+Charging is now complete.
+
+227
+00:13:26,375 --> 00:13:27,625
+Prepare to ping.
+
+228
+00:13:27,708 --> 00:13:30,541
+Subspace transducer
+is standing by, sir.
+
+229
+00:13:34,250 --> 00:13:36,458
+You're asking us to load
+up the buoys now, sir?
+
+230
+00:13:36,541 --> 00:13:37,583
+That's right.
+
+231
+00:13:37,666 --> 00:13:39,166
+I'll launch as soon
+as they're ready.
+
+232
+00:13:39,250 --> 00:13:40,750
+But they're ready
+right now, sir,
+
+233
+00:13:40,833 --> 00:13:42,291
+we already put them on board.
+
+234
+00:13:42,375 --> 00:13:43,541
+[gasps]
+
+235
+00:13:43,625 --> 00:13:46,625
+[ENOMOTO] A good sailor
+stays one step ahead.
+
+236
+00:13:46,708 --> 00:13:47,833
+[KODAI]
+Enomoto!
+
+237
+00:13:47,916 --> 00:13:50,083
+You remember that from
+training, don't ya?
+
+238
+00:13:50,166 --> 00:13:52,916
+All right clowns, let's go!
+We're launchin' the Seagull!
+
+239
+00:13:53,000 --> 00:13:55,208
+Uh! But don't we have to
+wait for the order, sir?
+
+240
+00:13:55,291 --> 00:13:57,708
+Yeah, we haven't
+received it yet.
+
+241
+00:13:57,791 --> 00:14:00,250
+[ENOMOTO]
+Let me worry about that.
+
+242
+00:14:00,333 --> 00:14:01,875
+So, let's get moving.
+
+243
+00:14:01,958 --> 00:14:04,375
+And to make sure our Chief of
+Tactical has what he needs,
+
+244
+00:14:04,458 --> 00:14:05,791
+you two are coming with us.
+
+245
+00:14:05,875 --> 00:14:07,291
+[IWATA, TOYAMA gasping]
+
+246
+00:14:08,041 --> 00:14:10,125
+[NANBU]
+Dimensional sonar ping ready.
+
+247
+00:14:10,208 --> 00:14:11,958
+Prepare to track the enemy.
+
+248
+00:14:12,041 --> 00:14:13,583
+Fire the sonar ping.
+
+249
+00:14:13,666 --> 00:14:14,458
+[KITANO]
+Firing!
+
+250
+00:14:14,541 --> 00:14:17,333
+[sonar ping]
+
+251
+00:14:20,666 --> 00:14:22,375
+And there she goes!
+
+252
+00:14:22,458 --> 00:14:25,333
+Ha! They fell for the decoy
+just like we hoped, sir.
+
+253
+00:14:25,416 --> 00:14:27,583
+If those fools really thought
+we were still here
+
+254
+00:14:27,666 --> 00:14:29,541
+they wouldn't have
+betrayed their position!
+
+255
+00:14:29,625 --> 00:14:32,458
+I take it we were able
+to back-trace that ping?
+
+256
+00:14:32,541 --> 00:14:33,458
+[MEZZE]
+Affirmative, sir.
+
+257
+00:14:33,541 --> 00:14:34,958
+[HEINI]
+Can we finally strike now?
+
+258
+00:14:35,041 --> 00:14:36,375
+Before I go mad?
+
+259
+00:14:36,458 --> 00:14:39,083
+Bring the vessel up to
+periscope depth and stand by.
+
+260
+00:14:39,166 --> 00:14:42,041
+[HEINI] You heard 'im,
+blow the dimensional tanks!
+
+261
+00:14:42,125 --> 00:14:44,208
+Let the real hunt begin.
+
+262
+00:14:56,041 --> 00:14:58,541
+We've got something, sir.
+It's a ship.
+
+263
+00:14:58,625 --> 00:15:01,041
+Looks like they're moving closer
+to the phase boundary.
+
+264
+00:15:01,125 --> 00:15:02,125
+[gasps]
+
+265
+00:15:02,208 --> 00:15:03,625
+[MORI]
+They must have traced our ping!
+
+266
+00:15:03,708 --> 00:15:06,166
+Start engine! Get us out of
+here as fast as possible!
+
+267
+00:15:06,250 --> 00:15:07,666
+Raise the anchor!
+
+268
+00:15:22,750 --> 00:15:24,541
+[FLAKEN]
+Look what I found.
+
+269
+00:15:24,625 --> 00:15:26,125
+Prepare to fire torpedoes.
+
+270
+00:15:26,208 --> 00:15:28,791
+Open torpedo tubes one and two!
+
+271
+00:15:36,875 --> 00:15:40,333
+[gasps] XO. A hangar door
+just opened on portside!
+
+272
+00:15:40,416 --> 00:15:41,458
+What?
+
+273
+00:15:43,875 --> 00:15:45,875
+[AIHARA] Seagull, you are
+not authorized to launch.
+
+274
+00:15:45,958 --> 00:15:47,291
+We told you, sir!
+
+275
+00:15:47,375 --> 00:15:48,625
+Seagull launching now.
+
+276
+00:15:48,708 --> 00:15:49,791
+[IWATA]
+Huh?!
+
+277
+00:15:56,250 --> 00:15:58,625
+Uh, sir? Are you disobeying
+them on purpose?
+
+278
+00:15:58,708 --> 00:16:00,791
+Quit your bellyaching
+and get to work!
+
+279
+00:16:00,875 --> 00:16:02,791
+--[TOYAMA] Yes, sir!
+--[IWATA] What?!
+
+280
+00:16:05,625 --> 00:16:07,708
+Torpedo parameters
+are set, Captain.
+
+281
+00:16:07,791 --> 00:16:10,916
+Fire torpedo tubes one and two.
+Let's see them escape from that.
+
+282
+00:16:11,000 --> 00:16:13,458
+[HEINI]
+Tubes one and two, fire!
+
+283
+00:16:19,416 --> 00:16:20,500
+[FLAKEN]
+Heh, heh.
+
+284
+00:16:24,083 --> 00:16:25,833
+<i>Yamato</i> to Seagull,
+please respond!
+
+285
+00:16:25,916 --> 00:16:26,750
+Who's on board?!
+
+286
+00:16:26,833 --> 00:16:27,416
+[ping]
+
+287
+00:16:27,500 --> 00:16:29,375
+[MORI gasps]
+
+288
+00:16:29,458 --> 00:16:31,958
+Two objects approaching
+the <i>Yamato</i> at high speed!
+
+289
+00:16:32,041 --> 00:16:33,583
+[ALL gasp]
+
+290
+00:16:33,666 --> 00:16:34,875
+Computing...
+
+291
+00:16:34,958 --> 00:16:36,666
+They're torpedoes, sir!
+
+292
+00:16:36,750 --> 00:16:37,833
+He was right.
+
+293
+00:16:37,916 --> 00:16:38,541
+Shima!
+
+294
+00:16:38,625 --> 00:16:40,416
+Taking evasive action!
+
+295
+00:16:46,125 --> 00:16:47,250
+[SHIMA grunts]
+
+296
+00:16:51,458 --> 00:16:53,333
+[MORI]
+Second torpedo approaching!
+
+297
+00:16:57,416 --> 00:16:58,958
+[COMBAT OFFICERS scream]
+
+298
+00:17:04,500 --> 00:17:05,666
+Not too shabby kid.
+
+299
+00:17:05,750 --> 00:17:08,083
+What can I say, I had
+one hell of a teacher.
+
+300
+00:17:08,166 --> 00:17:09,958
+Ah, don't make me blush.
+
+301
+00:17:10,041 --> 00:17:11,958
+Hey, what's wrong
+with the <i>Yamato</i> ?
+
+302
+00:17:17,750 --> 00:17:19,041
+[KITANO] Armor plating
+has been penetrated.
+
+303
+00:17:19,125 --> 00:17:20,541
+Effectiveness down to 18%.
+
+304
+00:17:20,625 --> 00:17:22,208
+[TOKUGAWA]
+Engine output dropping.
+
+305
+00:17:22,291 --> 00:17:23,708
+[SANADA]
+Seal deck ten!
+
+306
+00:17:23,791 --> 00:17:25,625
+[NANBU]
+That ping came back to bite us.
+
+307
+00:17:25,708 --> 00:17:27,833
+Send in damage control.
+
+308
+00:17:27,916 --> 00:17:30,041
+[KODAI]
+Seagull to <i>Yamato</i> . Do you copy?
+
+309
+00:17:30,125 --> 00:17:31,541
+That's Kodai!
+
+310
+00:17:31,625 --> 00:17:33,916
+[KODAI] Please be advised.
+We're about to drop the buoys.
+
+311
+00:17:34,000 --> 00:17:35,458
+They already found us!
+
+312
+00:17:35,541 --> 00:17:36,875
+What do you think you're doing?!
+
+313
+00:17:36,958 --> 00:17:38,250
+Ooh, scary.
+
+314
+00:17:38,333 --> 00:17:39,583
+All right, let's do this.
+
+315
+00:17:39,666 --> 00:17:41,000
+Drop the buoys now!
+
+316
+00:17:41,083 --> 00:17:43,208
+[BOTH]
+Aye-aye, lieutenant!
+
+317
+00:17:47,791 --> 00:17:49,583
+Dropping them now!
+
+318
+00:18:01,458 --> 00:18:03,625
+[FLAKEN]
+Our prey's hide is thick.
+
+319
+00:18:03,708 --> 00:18:05,208
+Tube Three. Tube Four.
+
+320
+00:18:05,291 --> 00:18:06,375
+Open fire!
+
+321
+00:18:11,583 --> 00:18:13,208
+[KODAI]
+Seagull to <i>Yamato</i> .
+
+322
+00:18:13,291 --> 00:18:14,541
+I'll use the buoys to send you
+
+323
+00:18:14,625 --> 00:18:16,541
+estimated emergence points
+for the torpedoes,
+
+324
+00:18:16,625 --> 00:18:18,041
+so you can shoot them down.
+
+325
+00:18:18,125 --> 00:18:18,833
+Listen to me!
+
+326
+00:18:18,916 --> 00:18:19,875
+Let's try it.
+
+327
+00:18:19,958 --> 00:18:21,375
+Prepare weapons to intercept.
+
+328
+00:18:21,458 --> 00:18:24,041
+Understood.
+Prepare to intercept!
+
+329
+00:18:24,125 --> 00:18:26,000
+[KITANO]
+Preparing now, sir!
+
+330
+00:18:34,625 --> 00:18:36,250
+[TOYAMA]
+Looks like it's working.
+
+331
+00:18:36,333 --> 00:18:37,625
+We found them!
+
+332
+00:18:37,708 --> 00:18:38,583
+[IWATA]
+Two torpedoes!
+
+333
+00:18:38,666 --> 00:18:40,125
+Transmit to the <i>Yamato</i> .
+
+334
+00:18:40,208 --> 00:18:41,291
+[IWATA]
+Roger!
+
+335
+00:18:46,250 --> 00:18:48,041
+Target coordinates received
+and entered, sir.
+
+336
+00:18:48,125 --> 00:18:49,291
+Intercept torpedoes.
+
+337
+00:18:49,375 --> 00:18:51,250
+Yes sir, firing now!
+
+338
+00:19:13,125 --> 00:19:15,708
+[FLAKEN grunts] They anticipated
+our firing angle?
+
+339
+00:19:15,791 --> 00:19:16,750
+[HEINI]
+But how?
+
+340
+00:19:16,833 --> 00:19:20,458
+--[ping]
+--[HEINI gasps] More sonar?
+
+341
+00:19:24,291 --> 00:19:26,500
+Tenacious little vermin,
+aren't they.
+
+342
+00:19:26,583 --> 00:19:27,916
+They may be able to see us,
+
+343
+00:19:28,000 --> 00:19:29,916
+but we're still in
+another dimension.
+
+344
+00:19:30,000 --> 00:19:32,291
+They won't be able
+to touch us here.
+
+345
+00:19:32,375 --> 00:19:33,500
+[gasps]
+
+346
+00:19:35,541 --> 00:19:37,833
+[FLAKEN]
+So that's their trick.
+
+347
+00:19:37,916 --> 00:19:38,833
+[IWATA]
+Whoa.
+
+348
+00:19:38,916 --> 00:19:40,416
+What is that thing?
+
+349
+00:19:40,500 --> 00:19:43,625
+Something else just emerged from
+the phase boundary, lieutenant!
+
+350
+00:19:43,708 --> 00:19:44,833
+Where is it?
+
+351
+00:19:44,916 --> 00:19:45,625
+[IWATA]
+Close!
+
+352
+00:19:45,708 --> 00:19:48,166
+Okay, got it. Turning now.
+
+353
+00:19:50,875 --> 00:19:53,291
+Tell me when you have a visual.
+
+354
+00:19:54,625 --> 00:19:57,291
+Ah-ha. Gotcha!
+
+355
+00:20:00,750 --> 00:20:01,791
+Heh.
+
+356
+00:20:01,875 --> 00:20:03,500
+[KODAI]
+Seagull to <i>Yamato</i> .
+
+357
+00:20:03,583 --> 00:20:05,583
+We've found an apparent
+enemy probe behind you,
+
+358
+00:20:05,666 --> 00:20:06,750
+at four o'clock.
+
+359
+00:20:06,833 --> 00:20:08,750
+Sending you the coordinates now.
+
+360
+00:20:08,833 --> 00:20:11,500
+If you can knock it out,
+you'll blind them.
+
+361
+00:20:11,583 --> 00:20:13,958
+Evidently recklessness
+runs in the family, as well.
+
+362
+00:20:14,041 --> 00:20:15,583
+[SANADA]
+Prepare to fire!
+
+363
+00:20:19,708 --> 00:20:21,416
+[KITANO]
+Inputting coordinates!
+
+364
+00:20:21,500 --> 00:20:22,625
+Locked on target!
+
+365
+00:20:22,708 --> 00:20:24,666
+All right, fire
+the shock cannons!
+
+366
+00:20:29,916 --> 00:20:32,458
+[gasps] They got us.
+
+367
+00:20:34,791 --> 00:20:36,166
+[KODAI]
+Approaching the <i>Yamato</i> .
+
+368
+00:20:36,250 --> 00:20:37,750
+Pre-landing check.
+
+369
+00:20:38,583 --> 00:20:40,583
+Preparing Seagull to dock.
+
+370
+00:20:41,416 --> 00:20:43,458
+Navigation, as soon as he's
+secure in the hangar,
+
+371
+00:20:43,541 --> 00:20:45,708
+get us out of here at
+maximum possible speed.
+
+372
+00:20:45,791 --> 00:20:47,041
+Once we're clear of this rubble
+
+373
+00:20:47,125 --> 00:20:49,166
+we're going to warp
+to lose them.
+
+374
+00:21:07,833 --> 00:21:09,375
+No sign of them on radar.
+
+375
+00:21:09,458 --> 00:21:12,208
+Then those slippery mongrels
+must have already jumped.
+
+376
+00:21:12,291 --> 00:21:13,500
+What's our next move, sir?
+
+377
+00:21:13,583 --> 00:21:15,708
+For now, we're going
+to let them go.
+
+378
+00:21:15,791 --> 00:21:17,625
+You sure, Captain?
+
+379
+00:21:17,708 --> 00:21:19,541
+Good hunters don't
+need to chase.
+
+380
+00:21:19,625 --> 00:21:22,291
+We'll pick up their
+scent again eventually.
+
+381
+00:21:30,083 --> 00:21:31,541
+[OKITA grunting]
+
+382
+00:21:31,625 --> 00:21:33,208
+Hey, Captain.
+
+383
+00:21:36,625 --> 00:21:38,625
+Hello, Kodai.
+
+384
+00:21:38,708 --> 00:21:41,541
+This is quite the
+welcoming party.
+
+385
+00:21:41,625 --> 00:21:43,166
+Is the ship all right?
+
+386
+00:21:43,250 --> 00:21:45,541
+It was close, but we made
+it through, Captain.
+
+387
+00:21:45,625 --> 00:21:48,166
+Thanks to the moxie of
+some of our young sailors.
+
+388
+00:21:48,250 --> 00:21:50,833
+You pushed the envelope a bit
+too far, if you ask me.
+
+389
+00:21:50,916 --> 00:21:51,708
+[HARADA, KODAI gasp]
+
+390
+00:21:51,791 --> 00:21:53,166
+But despite your disobedience,
+
+391
+00:21:53,250 --> 00:21:55,541
+Sanada's gonna let you
+off the hook this time.
+
+392
+00:21:55,625 --> 00:21:57,916
+Don't let that stern
+look of his fool ya.
+
+393
+00:21:58,000 --> 00:22:00,333
+He's not a bad guy.
+
+394
+00:22:00,416 --> 00:22:02,208
+Oh, I see.
+
+395
+00:22:03,458 --> 00:22:04,708
+[NIIMI]
+You didn't want him
+
+396
+00:22:04,791 --> 00:22:06,833
+to risk his life out there
+in the Seagull, did you?
+
+397
+00:22:06,916 --> 00:22:08,958
+That's why you didn't
+agree to his plan
+
+398
+00:22:09,041 --> 00:22:10,625
+even though he had a point.
+
+399
+00:22:10,708 --> 00:22:13,125
+But he believed he was doing
+the right thing, for all of us,
+
+400
+00:22:13,208 --> 00:22:14,708
+and acted anyway.
+
+401
+00:22:15,791 --> 00:22:19,083
+And what would he have done,
+if he were in command?
+
+402
+00:22:19,166 --> 00:22:21,708
+[gasps] Well, sir.
+
+403
+00:22:21,791 --> 00:22:23,250
+It's just a guess,
+
+404
+00:22:23,333 --> 00:22:26,500
+but I think he would've done
+the exact same thing.
+
+405
+00:22:28,750 --> 00:22:30,250
+[SANADA]
+I think you're right.
+
+406
+00:25:05,916 --> 00:25:08,666
+[OKITA] A siren's song lures
+ships to their doom,
+
+407
+00:25:08,750 --> 00:25:11,208
+and a mysterious prowler
+lurks in the shadows,
+
+408
+00:25:11,291 --> 00:25:15,208
+making mischief with
+her victims' memories.
+
+409
+00:25:15,291 --> 00:25:19,291
+The <i>Yamato</i> is shipwrecked, but
+what has happened to her crew?
+
+410
+00:25:19,375 --> 00:25:22,916
+Can Kodai and Mori make sense
+of the madness they see?
+
+411
+00:25:23,000 --> 00:25:26,041
+Next time:
+The Whisper of the Witch.
+
+412
+00:25:26,125 --> 00:25:32,083
+There are 310 left before the
+extinction of the human race.
+

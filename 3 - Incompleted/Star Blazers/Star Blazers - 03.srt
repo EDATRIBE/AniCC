@@ -1,0 +1,1611 @@
+﻿1
+00:01:37,416 --> 00:01:42,375
+♪
+
+2
+00:01:51,166 --> 00:01:54,708
+[OTA] Speed: 28,000,
+altitude: 2,400, Earth-relative.
+
+3
+00:01:54,791 --> 00:01:56,583
+Exiting Earth's
+atmosphere now.
+
+4
+00:01:56,666 --> 00:01:59,125
+Initializing Space Speed Two.
+
+5
+00:02:12,250 --> 00:02:14,541
+Do you really think
+saving the Earth is possible?
+
+6
+00:02:14,625 --> 00:02:16,708
+You getting cold feet,
+Tactical Officer?
+
+7
+00:02:16,791 --> 00:02:18,041
+I didn't say that.
+
+8
+00:02:18,125 --> 00:02:21,500
+Vessel off our starboard bow.
+She's a friendly.
+
+9
+00:02:35,458 --> 00:02:36,458
+[AIHARA] Message received:
+
+10
+00:02:36,541 --> 00:02:38,875
+"Safe travels.
+You're in our prayers."
+
+11
+00:02:54,958 --> 00:02:57,500
+[OKITA]
+Our journey's begun, crewmen.
+
+12
+00:02:57,583 --> 00:02:58,958
+We'll pass through lunar orbit,
+
+13
+00:02:59,041 --> 00:03:00,958
+and head for Mars
+at cruising speed.
+
+14
+00:03:01,041 --> 00:03:03,875
+Upon arrival, chief officers
+are to report immediately
+
+15
+00:03:03,958 --> 00:03:06,041
+to the central operations room.
+
+16
+00:03:06,125 --> 00:03:08,958
+There will be a full
+briefing on the warp test.
+
+17
+00:03:09,041 --> 00:03:10,541
+That is all.
+
+18
+00:03:12,958 --> 00:03:15,458
+[MALE SPY PILOT 3A] This is the
+impact observation team.
+
+19
+00:03:15,541 --> 00:03:17,708
+A Teron ship has left orbit.
+
+20
+00:03:17,791 --> 00:03:19,166
+[SHULTZ]
+Hmm.
+
+21
+00:03:19,250 --> 00:03:21,375
+Should we send the fleet
+to intercept, sir?
+
+22
+00:03:21,458 --> 00:03:23,916
+Not yet. First, we'll observe.
+
+23
+00:03:24,000 --> 00:03:25,916
+They're a technologically
+inferior race
+
+24
+00:03:26,000 --> 00:03:28,041
+who can't even
+leave their own star.
+
+25
+00:03:28,125 --> 00:03:30,666
+What do they plan to do
+with one ship?
+
+26
+00:03:31,625 --> 00:03:34,291
+I'd like to watch and find out.
+
+27
+00:03:39,833 --> 00:03:42,750
+Crewmen. As you know,
+the trip to Iscandar and back
+
+28
+00:03:42,833 --> 00:03:46,625
+would take 336,000 years
+traveling at light speed,
+
+29
+00:03:46,708 --> 00:03:50,583
+a feat our race up to now has
+not come close to achieving.
+
+30
+00:03:50,666 --> 00:03:52,666
+And yet to save the earth
+and our civilization,
+
+31
+00:03:52,750 --> 00:03:56,416
+we must complete that voyage
+within a single year.
+
+32
+00:03:56,500 --> 00:03:58,875
+Accomplishing this
+Herculean task requires us
+
+33
+00:03:58,958 --> 00:04:00,333
+to circumvent the light barrier,
+
+34
+00:04:00,416 --> 00:04:03,666
+using what the Iscandarians
+call warp navigation.
+
+35
+00:04:03,750 --> 00:04:05,916
+[SANADA] Warp navigation
+generates an artificial wormhole
+
+36
+00:04:06,000 --> 00:04:08,500
+around us, skipping our ship
+through folded space
+
+37
+00:04:08,583 --> 00:04:10,791
+at an effective speed
+far beyond light.
+
+38
+00:04:10,875 --> 00:04:13,166
+People speculated
+about this for ages,
+
+39
+00:04:13,250 --> 00:04:15,916
+now you're telling me
+we have the means to do this?
+
+40
+00:04:16,000 --> 00:04:18,000
+Theoretically, we can do it.
+
+41
+00:04:18,083 --> 00:04:20,500
+But if we botch the timing,
+we'll create a distortion
+
+42
+00:04:20,583 --> 00:04:22,125
+in the space-time continuum.
+
+43
+00:04:22,208 --> 00:04:23,458
+And it's possible
+that could trigger
+
+44
+00:04:23,541 --> 00:04:25,916
+a phase transition
+of the entire universe.
+
+45
+00:04:26,000 --> 00:04:27,541
+Meaning what, exactly?
+
+46
+00:04:27,625 --> 00:04:29,250
+It means we have to be
+very careful with
+
+47
+00:04:29,333 --> 00:04:31,208
+the Wave Motion Engine,
+or else the earth
+
+48
+00:04:31,291 --> 00:04:34,333
+and reality itself
+could be lost.
+
+49
+00:04:34,416 --> 00:04:36,708
+Are <i>you</i> getting cold
+feet now, officer?
+
+50
+00:04:36,791 --> 00:04:38,375
+I didn't say that.
+
+51
+00:04:38,458 --> 00:04:39,750
+[OKITA]
+That's not all.
+
+52
+00:04:39,833 --> 00:04:42,375
+I'm Lieutenant Niimi,
+Chief of Intelligence.
+
+53
+00:04:42,458 --> 00:04:43,875
+We've also completed a weapon,
+
+54
+00:04:43,958 --> 00:04:46,916
+which harnesses the power output
+of the Wave Motion Engine.
+
+55
+00:04:47,000 --> 00:04:48,708
+It takes up most of
+the Yamato's bow,
+
+56
+00:04:48,791 --> 00:04:50,375
+but we felt it was
+worth the load.
+
+57
+00:04:50,458 --> 00:04:52,000
+A weapon? What kind?
+
+58
+00:04:52,083 --> 00:04:55,500
+Oh, a Dimensional Wave
+Motion Explosion Emitter.
+
+59
+00:04:55,583 --> 00:04:59,000
+We call it the
+Wave Motion Gun for short.
+
+60
+00:04:59,083 --> 00:05:02,291
+The Wave Motion Gun?
+So how does it work?
+
+61
+00:05:02,375 --> 00:05:04,666
+It's complicated.
+Basically, it channels
+
+62
+00:05:04,750 --> 00:05:07,583
+the higher dimensions the Wave
+Motion Engine interacts with,
+
+63
+00:05:07,666 --> 00:05:09,541
+folding them down
+these conducting tubes.
+
+64
+00:05:09,625 --> 00:05:11,708
+Super gravity creates
+micro black holes,
+
+65
+00:05:11,791 --> 00:05:13,833
+which in turn release
+Hawking radiation.
+
+66
+00:05:13,916 --> 00:05:15,666
+Looks to me like you've
+turned the entire ship
+
+67
+00:05:15,750 --> 00:05:17,333
+into one gigantic cannon.
+
+68
+00:05:17,416 --> 00:05:19,416
+A flawed metaphor,
+but close enough.
+
+69
+00:05:19,500 --> 00:05:21,833
+Afraid you lost me
+at higher dimensions.
+
+70
+00:05:21,916 --> 00:05:23,416
+Captain, now that we're
+up and running,
+
+71
+00:05:23,500 --> 00:05:26,083
+when there's time we'll need
+to test fire the gun.
+
+72
+00:05:26,166 --> 00:05:27,375
+Now pay attention.
+
+73
+00:05:27,458 --> 00:05:29,416
+We'll use the low gravity
+interference zone
+
+74
+00:05:29,500 --> 00:05:31,375
+beyond Mars to test the warp.
+
+75
+00:05:31,458 --> 00:05:34,583
+The test will begin
+precisely at 0130.
+
+76
+00:05:34,666 --> 00:05:37,916
+I want everyone on board
+suited up, just in case.
+
+77
+00:05:38,000 --> 00:05:39,375
+Dismissed!
+
+78
+00:05:46,291 --> 00:05:51,000
+[MORI] Sasha. She's down there
+on Mars, isn't she?
+
+79
+00:05:51,083 --> 00:05:53,375
+She's all alone.
+
+80
+00:06:03,625 --> 00:06:06,875
+[KODAI] It wasn't in vain.
+I'll show you.
+
+81
+00:06:06,958 --> 00:06:09,708
+We will reach your home world.
+
+82
+00:06:09,791 --> 00:06:12,250
+You crossed this
+great expanse already.
+
+83
+00:06:12,333 --> 00:06:15,416
+168,000 light-years.
+
+84
+00:06:15,500 --> 00:06:17,666
+Our minds can't even
+comprehend that distance,
+
+85
+00:06:17,750 --> 00:06:20,416
+and you did it all by yourself.
+
+86
+00:06:20,500 --> 00:06:24,458
+With that journey, you gave us
+the courage and hope to survive.
+
+87
+00:06:24,541 --> 00:06:27,333
+We won't let that go to waste.
+
+88
+00:06:40,875 --> 00:06:43,250
+[KODAI] Tactical Division,
+all pre-test routines complete.
+
+89
+00:06:43,333 --> 00:06:44,541
+[YABU]
+What do you think, Chief?
+
+90
+00:06:44,625 --> 00:06:45,750
+Even with plans
+from that goddess,
+
+91
+00:06:45,833 --> 00:06:47,958
+you really think
+we can bend space-time?
+
+92
+00:06:48,041 --> 00:06:52,916
+No idea! But sometimes,
+all you can do is try.
+
+93
+00:06:53,000 --> 00:06:55,458
+Two minutes until warp test.
+
+94
+00:06:55,541 --> 00:06:57,791
+Confirm our post-warp
+coordinates, ensign.
+
+95
+00:06:57,875 --> 00:06:59,458
+Checked and confirmed.
+
+96
+00:06:59,541 --> 00:07:02,041
+[SHIMA]
+Point S8630, Uranus orbit.
+
+97
+00:07:02,125 --> 00:07:04,333
+Coordinate axis set.
+
+98
+00:07:04,416 --> 00:07:07,458
+Increasing speed
+from 12 to 33 space-knots.
+
+99
+00:07:07,541 --> 00:07:09,166
+[OKITATOKUGAWA]
+Increase engine output.
+
+100
+00:07:09,250 --> 00:07:12,541
+[TOKUGAWA]
+Raising output from 40 to 99.
+
+101
+00:07:12,625 --> 00:07:15,541
+Wave Motion Engine's
+internal pressure rising.
+
+102
+00:07:27,708 --> 00:07:29,375
+[OTA]
+Speed: 30 space-knots.
+
+103
+00:07:29,458 --> 00:07:31,666
+Thirty-two. Thirty-three!
+
+104
+00:07:35,458 --> 00:07:37,458
+[MORI]
+One minute until warp test.
+
+105
+00:07:37,541 --> 00:07:38,875
+[DR. SADO]
+Yay-eeeeh!
+
+106
+00:07:38,958 --> 00:07:41,666
+♪ Off the boat takes,
+with smoke in its wake, ♪
+
+107
+00:07:41,750 --> 00:07:44,666
+♪ and smoky wake makes,
+my croaky throat ache! ♪
+
+108
+00:07:44,750 --> 00:07:46,833
+Oooh. Uh! Ha-ha!
+
+109
+00:07:49,166 --> 00:07:51,500
+I get he's from a family
+of priests and all, but still.
+
+110
+00:07:51,583 --> 00:07:53,916
+Yeah, I know. The chanting
+always creeps me out.
+
+111
+00:07:54,000 --> 00:07:55,333
+[KATO]
+...together we petition,
+
+112
+00:07:55,416 --> 00:07:58,083
+and with reverent awe,
+this we respectfully declare.
+
+113
+00:07:58,875 --> 00:08:01,083
+[OTA]
+Speed: 36 space-knots!
+
+114
+00:08:01,166 --> 00:08:02,875
+[MORI]
+Commencing countdown.
+
+115
+00:08:02,958 --> 00:08:06,916
+Ten. Nine. Eight. Seven.
+
+116
+00:08:07,000 --> 00:08:13,000
+Six. Five. Four.
+Three. Two. One.
+
+117
+00:08:13,083 --> 00:08:14,458
+Warp!
+
+118
+00:08:41,291 --> 00:08:46,250
+♪
+
+119
+00:09:18,375 --> 00:09:19,958
+Yeah! Bull's-eye!
+
+120
+00:09:21,500 --> 00:09:23,000
+[BOTH gasp]
+
+121
+00:09:28,250 --> 00:09:29,625
+[KODAI]
+Where did we come out?
+
+122
+00:09:29,708 --> 00:09:31,708
+--Jupiter.
+--But why?
+
+123
+00:09:31,791 --> 00:09:32,666
+Hey, Shima!
+
+124
+00:09:32,750 --> 00:09:34,583
+Navigation. Can you explain?
+
+125
+00:09:34,666 --> 00:09:36,083
+I don't know
+what happened, sir.
+
+126
+00:09:36,166 --> 00:09:38,500
+The coordinates were right,
+but we came out early!
+
+127
+00:09:38,583 --> 00:09:41,250
+Sensors detected an unknown
+obstacle in our path.
+
+128
+00:09:41,333 --> 00:09:43,666
+The system may have
+overridden us to avoid it.
+
+129
+00:09:43,750 --> 00:09:46,250
+[OTA] The <i>Yamato</i> is caught
+in Jupiter's gravity!
+
+130
+00:09:46,333 --> 00:09:49,083
+We're too close!
+We can't even achieve orbit!
+
+131
+00:09:56,000 --> 00:09:57,083
+[SHIMA]
+I can't control the ship!
+
+132
+00:09:57,166 --> 00:09:58,541
+Stay calm, Lieutenant!
+
+133
+00:09:58,625 --> 00:10:00,625
+Engine room,
+what's going on down there?
+
+134
+00:10:00,708 --> 00:10:02,250
+[TOKUGAWA] Something's off
+with the main engine.
+
+135
+00:10:02,333 --> 00:10:04,041
+It's not transferring energy.
+
+136
+00:10:04,125 --> 00:10:06,541
+I'm going to try redirecting
+the sub-engines now!
+
+137
+00:10:06,625 --> 00:10:08,291
+Power is flowing
+to the sub-engines.
+
+138
+00:10:08,375 --> 00:10:09,583
+Stabilizer wings out!
+
+139
+00:10:09,666 --> 00:10:10,833
+We're falling, Shima!
+
+140
+00:10:10,916 --> 00:10:12,333
+Yeah, I know!
+
+141
+00:10:20,583 --> 00:10:21,833
+[MORI]
+Something on the radar!
+
+142
+00:10:21,916 --> 00:10:23,916
+It's 65 megameters ahead of us!
+
+143
+00:10:24,000 --> 00:10:26,750
+No way that's a ship.
+It looks way too big!
+
+144
+00:10:26,833 --> 00:10:28,833
+On screen and magnify!
+
+145
+00:10:31,500 --> 00:10:33,250
+[NANBUSANADA]
+Switching to infrared.
+
+146
+00:10:36,375 --> 00:10:38,375
+What is that?
+
+147
+00:10:50,916 --> 00:10:52,750
+[OTA] I don't know how to
+describe it, Captain.
+
+148
+00:10:52,833 --> 00:10:54,458
+It's like a floating continent!
+
+149
+00:10:54,541 --> 00:10:56,416
+It's nearly the same
+size as Australia!
+
+150
+00:10:56,500 --> 00:10:58,833
+Shima, I want you
+to attempt a soft landing
+
+151
+00:10:58,916 --> 00:11:00,208
+on that floating continent.
+
+152
+00:11:00,291 --> 00:11:01,666
+Yes, sir!
+
+153
+00:11:14,166 --> 00:11:15,708
+[SHIMA grunting]
+
+154
+00:11:15,791 --> 00:11:17,791
+You've got this, Shima!
+
+155
+00:11:35,541 --> 00:11:37,833
+--Fire the anchor!
+--[OTA] Firing!
+
+156
+00:11:50,750 --> 00:12:01,333
+[engines powering down]
+
+157
+00:12:01,416 --> 00:12:02,916
+[inhales, exhales]
+
+158
+00:12:03,000 --> 00:12:04,250
+[TOKUGAWA] Captain, we've
+tracked down the source
+
+159
+00:12:04,333 --> 00:12:05,958
+of our engine trouble.
+
+160
+00:12:06,041 --> 00:12:08,000
+The main coolant
+system's malfunctioning,
+
+161
+00:12:08,083 --> 00:12:09,166
+but we can fix that.
+
+162
+00:12:09,250 --> 00:12:11,958
+Understood.
+Begin repairs immediately.
+
+163
+00:12:12,041 --> 00:12:14,416
+Mr. Kodai. Assemble a team
+from the deck crew
+
+164
+00:12:14,500 --> 00:12:17,708
+and collect samples. I want
+to know what we landed on.
+
+165
+00:12:17,791 --> 00:12:18,750
+Yes, sir!
+
+166
+00:12:18,833 --> 00:12:21,000
+AU09. You're up.
+
+167
+00:12:21,083 --> 00:12:23,208
+[ANALYZER]
+Do not address me by my number.
+
+168
+00:12:23,291 --> 00:12:25,583
+I am a free-thinking individual.
+
+169
+00:12:25,666 --> 00:12:26,916
+[AIHARA, NANBU gasp]
+
+170
+00:12:27,000 --> 00:12:28,750
+Hold on,
+this thing is autonomous?
+
+171
+00:12:28,833 --> 00:12:33,083
+Yes, AU09 is the <i>Yamato</i> 's
+self-directing sub-computer.
+
+172
+00:12:33,166 --> 00:12:35,916
+[ANALYZER]
+Please, call me Analyzer.
+
+173
+00:12:39,125 --> 00:12:40,708
+[HILDE] Daddy, finish
+your assignment soon
+
+174
+00:12:40,791 --> 00:12:43,458
+and come back home.
+I can't wait to see you!
+
+175
+00:12:43,541 --> 00:12:44,958
+Mom's worried, as usual.
+
+176
+00:12:45,041 --> 00:12:47,291
+[GANZ]
+Commander Shultz.
+
+177
+00:12:47,375 --> 00:12:48,916
+What is it now, Ganz?
+
+178
+00:12:49,000 --> 00:12:51,250
+Sir. There's a message
+from Larleta
+
+179
+00:12:51,333 --> 00:12:52,666
+on the floating continent.
+
+180
+00:12:52,750 --> 00:12:54,625
+[SHULTZ] The one on Zupist,
+planet number five?
+
+181
+00:12:54,708 --> 00:12:56,875
+Yes. And if the message
+is to be believed,
+
+182
+00:12:56,958 --> 00:12:59,500
+that Teron ship we were
+watching just landed there.
+
+183
+00:12:59,583 --> 00:13:01,416
+Ridiculous.
+With their crude tech,
+
+184
+00:13:01,500 --> 00:13:03,666
+they're still crawling through
+the inner solar system.
+
+185
+00:13:03,750 --> 00:13:04,958
+There's more, sir.
+
+186
+00:13:05,041 --> 00:13:06,416
+It would appear that
+the sensors at the outpost
+
+187
+00:13:06,500 --> 00:13:08,333
+have picked up traces
+of a Geschtam Jump.
+
+188
+00:13:08,416 --> 00:13:10,125
+Impossible! Are you
+trying to tell me
+
+189
+00:13:10,208 --> 00:13:11,583
+that they actually jumped?
+
+190
+00:13:11,666 --> 00:13:13,541
+[GANZ] I'm just relaying
+the message, sir.
+
+191
+00:13:13,625 --> 00:13:17,458
+[SHULTZ] Mmm. And what about
+the floating continents fleet?
+
+192
+00:13:17,541 --> 00:13:18,916
+[GANZ]
+It's a resupply base.
+
+193
+00:13:19,000 --> 00:13:20,708
+There are only
+four ships at present.
+
+194
+00:13:20,791 --> 00:13:22,291
+[SHULTZ]
+That'll be plenty.
+
+195
+00:13:22,375 --> 00:13:24,750
+Order Deputy Commander
+Larleta to destroy them.
+
+196
+00:13:24,833 --> 00:13:26,208
+[GANZ]
+Yes, sir.
+
+197
+00:13:38,375 --> 00:13:39,875
+[LARLETA]
+Understood.
+
+198
+00:13:39,958 --> 00:13:43,083
+I shall dispatch the
+combat fleet immediately, sir.
+
+199
+00:13:43,166 --> 00:13:44,541
+[meows]
+
+200
+00:13:55,333 --> 00:13:58,625
+[LARLETA] Teron weapons are mere
+pinpricks for these vessels.
+
+201
+00:13:58,708 --> 00:14:01,458
+Four's overkill,
+but I like to indulge.
+
+202
+00:14:05,625 --> 00:14:07,291
+Can't believe we're out
+collecting plants.
+
+203
+00:14:07,375 --> 00:14:08,833
+It feels like elementary school.
+
+204
+00:14:08,916 --> 00:14:11,291
+[ENOMOTO]
+Stop whining.
+
+205
+00:14:11,375 --> 00:14:12,750
+[IWATA]
+Huh?
+
+206
+00:14:12,833 --> 00:14:14,333
+[ANALYZER] Temperature and
+pressure differ considerably
+
+207
+00:14:14,416 --> 00:14:17,083
+from native Jupiter environment.
+
+208
+00:14:17,166 --> 00:14:18,500
+Atmospheric composition:
+
+209
+00:14:18,583 --> 00:14:22,750
+Methane, 67%.
+Carbon dioxide, 21%.
+
+210
+00:14:22,833 --> 00:14:24,375
+Nitrogen, 6%.
+
+211
+00:14:24,458 --> 00:14:28,125
+Detecting traces of acetaldehyde
+and ethanol, as well.
+
+212
+00:14:28,208 --> 00:14:29,750
+Alcohol, huh?
+
+213
+00:14:29,833 --> 00:14:31,750
+I don't feel so good.
+
+214
+00:14:33,458 --> 00:14:36,208
+[DR. SADO]
+Warp sickness! What a drag!
+
+215
+00:14:36,291 --> 00:14:37,708
+Is that a thing?
+
+216
+00:14:37,791 --> 00:14:40,750
+Eh, I just coined it!
+Seems to resemble a hangover!
+
+217
+00:14:40,833 --> 00:14:43,000
+Want a little saké
+to dull the pain?
+
+218
+00:14:43,083 --> 00:14:44,875
+Nah. I'll pass.
+
+219
+00:14:44,958 --> 00:14:47,291
+[ANALYZER] DNA match with
+extraterrestrial species
+
+220
+00:14:47,375 --> 00:14:53,291
+of flora currently spreading
+on Earth surface: 99.98%.
+
+221
+00:14:53,375 --> 00:14:54,666
+[SANADA]
+After analyzing the samples,
+
+222
+00:14:54,750 --> 00:14:56,750
+our best guess is
+this environment was imported
+
+223
+00:14:56,833 --> 00:14:58,333
+from outside our solar system.
+
+224
+00:14:58,416 --> 00:15:00,125
+Seems the Gamilans
+moved this whole continent
+
+225
+00:15:00,208 --> 00:15:02,208
+to Jupiter to help them
+re-engineer the earth.
+
+226
+00:15:02,291 --> 00:15:05,000
+Like a huge supply nursery.
+
+227
+00:15:05,083 --> 00:15:07,000
+If that's true,
+then they're probably not far--
+
+228
+00:15:07,083 --> 00:15:09,083
+[MORI]
+I'm picking up ships!
+
+229
+00:15:09,166 --> 00:15:11,041
+Gamilan vessels!
+
+230
+00:15:16,958 --> 00:15:18,500
+All crew to your
+battle stations!
+
+231
+00:15:18,583 --> 00:15:20,125
+Prepare to fire main guns!
+
+232
+00:15:20,208 --> 00:15:21,583
+[SHIMA]
+Kodai, wait!
+
+233
+00:15:21,666 --> 00:15:23,041
+We won't be able to route
+energy to the weapon systems
+
+234
+00:15:23,125 --> 00:15:24,750
+until the main engine
+is repaired!
+
+235
+00:15:24,833 --> 00:15:26,375
+The Type-3 rounds
+are physical shells,
+
+236
+00:15:26,458 --> 00:15:28,041
+so we can fire them immediately!
+
+237
+00:15:28,125 --> 00:15:30,166
+But the Type-3 are
+only for short-range!
+
+238
+00:15:30,250 --> 00:15:31,916
+We can't let them
+get that close, sir.
+
+239
+00:15:32,000 --> 00:15:33,500
+We need the shock cannons!
+
+240
+00:15:33,583 --> 00:15:36,208
+[SANADA] Captain, we could use
+a bypass to launch a few shots
+
+241
+00:15:36,291 --> 00:15:39,083
+from the shock cannons
+while we wait.
+
+242
+00:15:39,166 --> 00:15:41,500
+[TOKUGAWA] The repairs will be
+done in five minutes.
+
+243
+00:15:41,583 --> 00:15:43,541
+If we can hold out,
+we'll have full strength!
+
+244
+00:15:43,625 --> 00:15:46,041
+We don't have any more
+time to wait for repairs.
+
+245
+00:15:46,125 --> 00:15:48,750
+Connect the bypass and
+route power to the main guns.
+
+246
+00:15:48,833 --> 00:15:51,833
+Load Type-3 artillery
+into the secondaries!
+
+247
+00:16:00,416 --> 00:16:01,916
+[NANBU]
+Energy transferred to primaries.
+
+248
+00:16:02,000 --> 00:16:03,625
+The shock cannons are ready!
+
+249
+00:16:03,708 --> 00:16:04,875
+Turrets one and two,
+
+250
+00:16:04,958 --> 00:16:07,250
+aim for the destroyers
+approaching port side!
+
+251
+00:16:07,333 --> 00:16:08,916
+Turret three,
+you take that heavy cruiser
+
+252
+00:16:09,000 --> 00:16:10,750
+circling from aft!
+
+253
+00:16:12,375 --> 00:16:13,916
+One through three,
+targets locked.
+
+254
+00:16:14,000 --> 00:16:15,750
+Auto-tracking enabled.
+
+255
+00:16:15,833 --> 00:16:17,500
+Open fire now!
+
+256
+00:16:40,833 --> 00:16:42,500
+[MORI] Torpedoes
+approaching from port!
+
+257
+00:16:42,583 --> 00:16:44,541
+AA defenses!
+
+258
+00:16:49,000 --> 00:16:50,250
+[OTA]
+All torpedoes downed!
+
+259
+00:16:50,333 --> 00:16:52,333
+[NANBU]
+Enemy ships within Type-3 range!
+
+260
+00:16:52,416 --> 00:16:54,625
+Secondary guns
+may fire when ready!
+
+261
+00:16:54,708 --> 00:16:56,083
+Fire!
+
+262
+00:17:05,708 --> 00:17:07,166
+Last destroyer retreating!
+
+263
+00:17:07,250 --> 00:17:08,666
+[TOKUGAWA]
+This is the engine room.
+
+264
+00:17:08,750 --> 00:17:10,583
+Repairs are complete, Captain.
+
+265
+00:17:10,666 --> 00:17:13,416
+Activate engine.
+Raise the anchor!
+
+266
+00:17:25,375 --> 00:17:28,000
+[OTA] We're approaching
+the continent's edge!
+
+267
+00:17:48,000 --> 00:17:51,708
+[OTA] Twenty-three megameters
+from floating continent, sir!
+
+268
+00:17:51,791 --> 00:17:55,708
+Kodai. Prepare to fire
+the Wave Motion Gun.
+
+269
+00:17:55,791 --> 00:17:57,916
+We'll use this opportunity
+to test our new weapon
+
+270
+00:17:58,000 --> 00:18:00,125
+on the enemy's base.
+
+271
+00:18:00,208 --> 00:18:02,291
+We aren't even sure
+how powerful that gun is.
+
+272
+00:18:02,375 --> 00:18:05,041
+Using it on a real target
+without knowing the effects?
+
+273
+00:18:05,125 --> 00:18:06,833
+I think it's too risky, Captain.
+
+274
+00:18:06,916 --> 00:18:09,541
+Everything's a risk--
+we're trying to survive.
+
+275
+00:18:09,625 --> 00:18:12,541
+If we don't test it now,
+we may not get another chance.
+
+276
+00:18:12,625 --> 00:18:15,125
+All crew, stand by
+to open fire.
+
+277
+00:18:15,208 --> 00:18:16,375
+Turn the ship around,
+
+278
+00:18:16,458 --> 00:18:18,541
+and point the bow
+at the floating continent.
+
+279
+00:18:23,541 --> 00:18:25,083
+[SANADA] Switching ship
+to emergency power
+
+280
+00:18:25,166 --> 00:18:27,458
+in preparation
+for energy redirect.
+
+281
+00:18:37,958 --> 00:18:39,083
+Chief of Navigation.
+
+282
+00:18:39,166 --> 00:18:41,333
+Transfer helm
+to Chief of Tactical.
+
+283
+00:18:41,416 --> 00:18:43,416
+Transferring to
+Chief of Tactical.
+
+284
+00:18:43,500 --> 00:18:45,500
+Chief of Tactical
+has the helm, sir.
+
+285
+00:18:45,583 --> 00:18:47,875
+Mori, you detecting
+any heat sources?
+
+286
+00:18:47,958 --> 00:18:49,333
+They're concentrated
+in the basin,
+
+287
+00:18:49,416 --> 00:18:50,708
+at the continent's center.
+
+288
+00:18:50,791 --> 00:18:53,458
+Fine. Then send
+the coordinates. Kodai?
+
+289
+00:18:53,541 --> 00:18:56,750
+On it, sir. Pointing bow at
+the center of the continent.
+
+290
+00:18:59,625 --> 00:19:01,708
+Open the circuit to
+the Wave Motion Gun.
+
+291
+00:19:01,791 --> 00:19:05,125
+Opening circuit now.
+Sealing the emergency vents.
+
+292
+00:19:05,208 --> 00:19:06,958
+Activating force injector.
+
+293
+00:19:07,041 --> 00:19:08,666
+Release trigger safety lock.
+
+294
+00:19:08,750 --> 00:19:10,166
+[KODAI]
+Safety lock released.
+
+295
+00:19:10,250 --> 00:19:12,125
+Confirming force
+injector active.
+
+296
+00:19:12,208 --> 00:19:14,333
+Releasing final safety.
+
+297
+00:19:16,750 --> 00:19:19,166
+I'm activating
+the targeting scope.
+
+298
+00:19:21,500 --> 00:19:24,250
+Tachyon particle pressure
+is rising in chamber.
+
+299
+00:19:24,333 --> 00:19:29,208
+Eighty-six, 97, 100, 120%.
+
+300
+00:19:29,291 --> 00:19:31,666
+Floating continent is
+23 megameters off the bow
+
+301
+00:19:31,750 --> 00:19:34,166
+and we're holding steady,
+with relative speed of 36.
+
+302
+00:19:34,250 --> 00:19:36,625
+Bow set. On firing axis.
+
+303
+00:19:38,333 --> 00:19:40,750
+Correcting for target errors,
+plus two degrees.
+
+304
+00:19:42,000 --> 00:19:45,041
+[rapid beeping]
+
+305
+00:19:45,125 --> 00:19:47,208
+Wave Motion Gun
+safeguards up.
+
+306
+00:19:47,291 --> 00:19:50,083
+Engage anti-shock
+and anti-flare defenses.
+
+307
+00:19:50,166 --> 00:20:00,166
+[rapid beeping]
+
+308
+00:20:03,833 --> 00:20:06,208
+[KODAI] Electronic cross-gauge
+display brightness 20.
+
+309
+00:20:06,291 --> 00:20:07,666
+Locking on to target.
+
+310
+00:20:07,750 --> 00:20:12,958
+[NANBU] Ten seconds to go.
+Nine. Eight. Seven. Six.
+
+311
+00:20:13,041 --> 00:20:18,083
+Five. Four. Three. Two. One.
+
+312
+00:20:18,166 --> 00:20:19,625
+Fire!
+
+313
+00:20:48,041 --> 00:20:50,250
+[LARLETA] What is this?
+What is that light?
+
+314
+00:20:50,333 --> 00:20:52,291
+What's happening? No!
+
+315
+00:21:26,625 --> 00:21:29,041
+This power, it's unbelievable.
+
+316
+00:21:29,125 --> 00:21:30,458
+This weapon is amazing!
+
+317
+00:21:30,541 --> 00:21:32,750
+Now we'll be able to fight
+the Gamilans toe-to-toe!
+
+318
+00:21:32,833 --> 00:21:34,791
+Heck, who knows, we may even
+have the advantage!
+
+319
+00:21:34,875 --> 00:21:36,875
+There's no denying its power,
+but let's not forget
+
+320
+00:21:36,958 --> 00:21:39,625
+we were only targeting
+the Gamilan base.
+
+321
+00:21:39,708 --> 00:21:41,833
+Yet the Wave Motion Gun
+completely obliterated
+
+322
+00:21:41,916 --> 00:21:44,166
+the whole continent.
+
+323
+00:21:44,250 --> 00:21:46,500
+Duly noted, XO.
+Our mission is not
+
+324
+00:21:46,583 --> 00:21:48,166
+to exterminate the enemy.
+
+325
+00:21:48,250 --> 00:21:49,833
+The <i>Yamato</i> 's weaponry
+should be used
+
+326
+00:21:49,916 --> 00:21:52,916
+solely for the purposes
+of self-defense.
+
+327
+00:22:07,708 --> 00:22:11,041
+[OKITA] A power that could
+destroy the universe itself.
+
+328
+00:22:11,125 --> 00:22:14,083
+Have we attained the
+forbidden fire of divinity?
+
+329
+00:22:14,166 --> 00:22:16,416
+Are we sailing
+towards Armageddon?
+
+330
+00:22:16,500 --> 00:22:18,833
+No, I won't think of that now.
+
+331
+00:22:18,916 --> 00:22:20,708
+If this is a trial
+of human character,
+
+332
+00:22:20,791 --> 00:22:22,750
+we won't build
+our case with words.
+
+333
+00:22:22,833 --> 00:22:25,083
+Our actions will
+speak for themselves.
+
+334
+00:22:25,166 --> 00:22:27,541
+May our course be true.
+
+335
+00:24:17,916 --> 00:24:20,083
+[OKITA] The horrific power
+of the Wave Motion Gun
+
+336
+00:24:20,166 --> 00:24:22,416
+has damaged the <i>Yamato</i> herself,
+
+337
+00:24:22,500 --> 00:24:25,541
+while a mysterious distress
+call divides the crew.
+
+338
+00:24:25,625 --> 00:24:28,875
+On this mission where one wrong
+choice could doom Earth,
+
+339
+00:24:28,958 --> 00:24:30,875
+how should the ship proceed?
+
+340
+00:24:30,958 --> 00:24:34,000
+Meanwhile, Lieutenant Kodai
+finds the traces of a hero
+
+341
+00:24:34,083 --> 00:24:36,708
+on a frozen satellite,
+and offers a requiem
+
+342
+00:24:36,791 --> 00:24:38,458
+in the vacuum of space.
+
+343
+00:24:38,541 --> 00:24:41,333
+Next time:
+"Gravestone on a Frozen Field."
+
+344
+00:24:41,416 --> 00:24:43,750
+There are 363 days left
+
+345
+00:24:43,833 --> 00:24:46,833
+until the extinction
+of the human race.
+

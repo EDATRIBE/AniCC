@@ -1,0 +1,1892 @@
+﻿1
+00:01:57,541 --> 00:02:03,375
+[BRIDGE OFFICER 11A
+speaking Gamilan]
+
+
+2
+00:02:03,458 --> 00:02:06,958
+[speaking Gamilan]
+
+
+3
+00:02:22,333 --> 00:02:24,333
+[BERGER speaking Gamilan]
+
+
+4
+00:03:05,958 --> 00:03:07,416
+[BERGER]
+This is Deputy Commander Berger,
+
+5
+00:03:07,500 --> 00:03:09,125
+leading the 7th Strike Group.
+
+6
+00:03:09,208 --> 00:03:13,666
+The enemy is 70% eliminated
+and in full retreat.
+
+7
+00:03:13,750 --> 00:03:16,250
+These Gatlantis are
+nothing to fear.
+
+8
+00:03:16,333 --> 00:03:17,708
+[DOMEL]
+Don't underestimate them.
+
+9
+00:03:17,791 --> 00:03:19,375
+Uh. Yes, sir.
+
+10
+00:03:19,458 --> 00:03:21,625
+The 7th Strike Group will
+pursue and destroy
+
+11
+00:03:21,708 --> 00:03:23,125
+all remaining hostiles.
+
+12
+00:03:23,208 --> 00:03:25,041
+[BERGER]
+Zar Belk!
+
+13
+00:03:25,125 --> 00:03:28,625
+Berger's getting too cocky,
+but it is a good victory.
+
+14
+00:03:28,708 --> 00:03:30,041
+Yes.
+
+15
+00:03:30,125 --> 00:03:32,750
+Those barbarians should be off
+our backs for a while.
+
+16
+00:03:32,833 --> 00:03:34,666
+[DOMEL]
+Heh. You've been enjoying
+
+17
+00:03:34,750 --> 00:03:35,833
+this fight, haven't you?
+
+18
+00:03:35,916 --> 00:03:37,166
+You're damn right!
+
+19
+00:03:37,250 --> 00:03:40,250
+[laughs]
+
+20
+00:03:40,333 --> 00:03:41,416
+[BRIDGE OFFICER 11A]
+General Domel,
+
+21
+00:03:41,500 --> 00:03:43,375
+incoming message from
+Imperial Command.
+
+22
+00:03:43,458 --> 00:03:44,541
+From Baleras?
+
+23
+00:03:44,625 --> 00:03:46,041
+Who is it?
+
+24
+00:03:46,125 --> 00:03:48,916
+Admiral Ditz sir, Supreme
+Commander of the Astrofleets.
+
+25
+00:03:50,958 --> 00:03:52,833
+You look well, Space Wolf.
+
+26
+00:03:52,916 --> 00:03:56,208
+[DOMEL] I'm pleased to see
+that you do as well, sir.
+
+27
+00:03:56,291 --> 00:03:57,791
+I have news.
+
+28
+00:03:57,875 --> 00:04:00,916
+You've been ordered to
+return to the home world.
+
+29
+00:04:01,000 --> 00:04:04,625
+You will be awarded the Desler
+Cross, Special First Class.
+
+30
+00:04:04,708 --> 00:04:06,083
+[BRIDGE OFFICERS gasp]
+
+31
+00:04:07,708 --> 00:04:08,791
+I'm honored, sir.
+
+32
+00:04:08,875 --> 00:04:11,375
+But this border's critical
+to our defenses.
+
+33
+00:04:11,458 --> 00:04:12,583
+As the commanding officer,
+
+34
+00:04:12,666 --> 00:04:15,250
+I cannot leave the front
+lines for mere pomp!
+
+35
+00:04:15,333 --> 00:04:16,583
+I understand.
+
+36
+00:04:16,666 --> 00:04:19,083
+You have no taste for
+political performance.
+
+37
+00:04:19,166 --> 00:04:21,166
+But our Supreme Lord
+is planning something
+
+38
+00:04:21,250 --> 00:04:23,166
+and it's not our place to doubt.
+
+39
+00:04:23,250 --> 00:04:26,625
+I've sent the 8th to the
+front as reinforcements.
+
+40
+00:04:26,708 --> 00:04:30,166
+And Gudell's Gross Space Armored
+Forces are on the way as well.
+
+41
+00:04:30,250 --> 00:04:32,166
+You can leave the rest to them.
+
+42
+00:04:34,625 --> 00:04:35,916
+Understood, sir.
+
+43
+00:04:36,000 --> 00:04:38,041
+[DITZ] Good. Then I'll
+see you at Baleras.
+
+44
+00:04:38,125 --> 00:04:40,083
+Zar Belk!
+
+45
+00:04:53,500 --> 00:04:57,750
+Good! You can suit back up,
+thanks for agreeing to this.
+
+46
+00:05:15,375 --> 00:05:17,583
+[OKITA]
+Their DNA looks like ours?
+
+47
+00:05:17,666 --> 00:05:19,166
+You're sure?
+
+48
+00:05:19,250 --> 00:05:21,875
+I know it's shocking, Captain,
+but other than the skin color,
+
+49
+00:05:21,958 --> 00:05:23,916
+she's essentially
+the same as us.
+
+50
+00:05:24,000 --> 00:05:25,125
+[OKITA]
+Hm...
+
+51
+00:05:25,208 --> 00:05:27,000
+Captain. It's safe to assume
+
+52
+00:05:27,083 --> 00:05:29,416
+she has information that
+would be useful to us.
+
+53
+00:05:29,500 --> 00:05:31,875
+She could be interrogated
+in a number of ways.
+
+54
+00:05:31,958 --> 00:05:34,583
+No. I think that we
+should let her go.
+
+55
+00:05:34,666 --> 00:05:36,291
+Her fighter plane
+has no warp drive,
+
+56
+00:05:36,375 --> 00:05:38,750
+which means interstellar flight
+would be impossible.
+
+57
+00:05:38,833 --> 00:05:41,416
+We would be condemning her
+to an almost certain death.
+
+58
+00:05:41,500 --> 00:05:43,708
+[gasps] But, sir!
+
+59
+00:05:43,791 --> 00:05:46,666
+We can't just keep her
+locked up like a prisoner.
+
+60
+00:05:46,750 --> 00:05:49,916
+Come on! She helped us
+escape that dimensional fault.
+
+61
+00:05:50,000 --> 00:05:53,916
+Sir, she's earned the right
+to be treated as an ally.
+
+62
+00:05:54,000 --> 00:05:54,958
+An ally?
+
+63
+00:05:55,041 --> 00:05:56,708
+Many if not most of
+our crewmembers
+
+64
+00:05:56,791 --> 00:05:59,375
+have lost loved ones
+in the Gamilan attacks.
+
+65
+00:05:59,458 --> 00:06:00,916
+How do you think they
+would feel about her
+
+66
+00:06:01,000 --> 00:06:03,125
+strolling through the ship?
+
+67
+00:06:03,208 --> 00:06:05,375
+I've lost family too, okay?
+
+68
+00:06:05,458 --> 00:06:06,625
+Like my brother.
+
+69
+00:06:06,708 --> 00:06:09,125
+Those monsters sent him
+to an icy grave.
+
+70
+00:06:09,208 --> 00:06:11,833
+I hate them. More than anyone.
+
+71
+00:06:11,916 --> 00:06:14,000
+And we need to keep her
+locked up to protect her
+
+72
+00:06:14,083 --> 00:06:16,041
+from feelings just like
+that, Lieutenant.
+
+73
+00:06:16,125 --> 00:06:18,375
+We don't want our crew
+seeking vengeance.
+
+74
+00:06:18,458 --> 00:06:20,625
+[KODAI gasps] None of us
+would ever stoop to that!
+
+75
+00:06:20,708 --> 00:06:22,333
+I know it for a fact!
+
+76
+00:06:22,416 --> 00:06:24,625
+[SANADA sighs]
+It's impossible to know that.
+
+77
+00:06:24,708 --> 00:06:26,458
+Your argument lacks all logic.
+
+78
+00:06:26,541 --> 00:06:30,041
+Yeah? Well that's still better
+than lacking in humanity, sir.
+
+79
+00:06:30,125 --> 00:06:32,208
+[OKITA]
+Enough. I've made my decision.
+
+80
+00:06:32,291 --> 00:06:35,291
+She'll remain in custody
+at least for the time being.
+
+81
+00:06:35,375 --> 00:06:37,583
+Kodai. I want you
+to question her.
+
+82
+00:06:37,666 --> 00:06:39,458
+Uh?
+
+83
+00:06:39,541 --> 00:06:41,583
+Hey. Did you hear the rumor?
+
+84
+00:06:41,666 --> 00:06:44,500
+What that Gamilan
+pilot lady told us?
+
+85
+00:06:44,583 --> 00:06:46,083
+[YAMAZAKI]
+No, enlighten me.
+
+86
+00:06:46,166 --> 00:06:49,291
+She said we attacked them
+first and started the war.
+
+87
+00:06:49,375 --> 00:06:50,625
+Nuts, right?
+
+88
+00:06:50,708 --> 00:06:52,875
+You survived the first contact,
+didn't you, Yama?
+
+89
+00:06:52,958 --> 00:06:55,250
+You would know
+better than anyone.
+
+90
+00:06:55,333 --> 00:06:56,416
+Yeah.
+
+91
+00:06:56,500 --> 00:06:58,708
+It's an unconscionable lie.
+
+92
+00:06:58,791 --> 00:07:00,416
+[TOKUGAWA]
+My goodness.
+
+93
+00:07:00,500 --> 00:07:04,625
+The whole ship's talking about
+what that Gamilan pilot said.
+
+94
+00:07:04,708 --> 00:07:06,875
+Yabu! I thought you
+were scheduled
+
+95
+00:07:06,958 --> 00:07:10,000
+for a counseling session
+with Lieutenant Niimi today?
+
+96
+00:07:10,083 --> 00:07:11,666
+[gasps] Yes, sir!
+
+97
+00:07:11,750 --> 00:07:13,708
+Thanks for reminding me!
+
+98
+00:07:13,791 --> 00:07:15,833
+[footsteps]
+
+99
+00:07:15,916 --> 00:07:17,291
+[TOKUGAWA sighs]
+
+100
+00:07:19,750 --> 00:07:21,166
+[TOKUGAWA]
+You look troubled.
+
+101
+00:07:21,250 --> 00:07:22,958
+Something on your mind?
+
+102
+00:07:23,958 --> 00:07:28,083
+♪♪♪
+
+103
+00:07:28,166 --> 00:07:31,791
+[VIDEO NARRATOR]
+The date is April 1, 2191!
+
+104
+00:07:31,875 --> 00:07:34,041
+A remote observation
+post on Uranus
+
+105
+00:07:34,125 --> 00:07:36,250
+captures shocking
+video of spaceships
+
+
+106
+00:07:36,333 --> 00:07:37,625
+from another civilization
+
+
+107
+00:07:37,708 --> 00:07:41,958
+entering our solar system
+for the first time.
+
+
+108
+00:07:42,041 --> 00:07:44,000
+The UN Cosmo Force immediately
+
+109
+00:07:44,083 --> 00:07:46,166
+gathers the brave
+inner planet fleet,
+
+110
+00:07:46,250 --> 00:07:49,291
+ordering the first defensive
+action against alien life forms
+
+111
+00:07:49,375 --> 00:07:51,625
+in the history of humankind.
+
+112
+00:07:54,041 --> 00:07:55,750
+[VIDEO NARRATOR] Twenty-seven
+Japanese battleships
+
+113
+00:07:55,833 --> 00:07:57,708
+participate in the
+harrowing operation,
+
+114
+00:07:57,791 --> 00:08:01,000
+led by their fleet commander,
+Vice-Admiral Juzo Okita,
+
+115
+00:08:01,083 --> 00:08:02,333
+famous for his heroics
+
+116
+00:08:02,416 --> 00:08:05,625
+during the Second
+Inner Planet War.
+
+117
+00:08:05,708 --> 00:08:08,416
+The first ship to encounter the
+mysterious enemy vessels
+
+118
+00:08:08,500 --> 00:08:12,291
+near Pluto is the Japanese
+cruiser <i>Murasame</i> .
+
+119
+00:08:13,041 --> 00:08:14,125
+[DAIGO]
+Don't worry.
+
+120
+00:08:14,208 --> 00:08:16,208
+Your old man isn't
+going there to fight.
+
+121
+00:08:16,291 --> 00:08:19,666
+I'm sure we can forge a
+friendship with this alien race.
+
+122
+00:08:19,750 --> 00:08:21,166
+You think so?
+
+123
+00:08:21,250 --> 00:08:24,208
+I do. Never lose hope, son.
+
+124
+00:08:25,041 --> 00:08:26,958
+[VIDEO NARRATOR] But
+without warning or provocation,
+
+125
+00:08:27,041 --> 00:08:31,625
+the aliens open fire on the
+Murasame, ripping it apart.
+
+126
+00:08:31,708 --> 00:08:34,166
+With the exception of
+one very fortunate man,
+
+127
+00:08:34,250 --> 00:08:38,208
+the entire crew of the Murasame,
+led by Captain Daigo Shima,
+
+128
+00:08:38,291 --> 00:08:41,208
+is killed, making them the
+first casualties in this
+
+129
+00:08:41,291 --> 00:08:43,250
+terrible war for survival.
+
+130
+00:08:44,333 --> 00:08:46,250
+[SHIMA]
+That's my father.
+
+131
+00:08:47,166 --> 00:08:48,500
+[SHIMA]
+They fired first.
+
+132
+00:08:48,583 --> 00:08:50,958
+Those shameless, sneaky cowards.
+
+133
+00:08:51,041 --> 00:08:53,375
+They decided our entire race
+should be exterminated
+
+134
+00:08:53,458 --> 00:08:55,875
+without ever giving us a chance.
+
+135
+00:08:55,958 --> 00:09:01,208
+The Gamilans may have faces like
+us, but inside they're demons!
+
+136
+00:09:01,291 --> 00:09:02,708
+Kodai believes in
+fair treatment,
+
+137
+00:09:02,791 --> 00:09:05,083
+but I know we feel the same way.
+
+138
+00:09:05,166 --> 00:09:07,833
+They're enemies we
+can never forgive.
+
+139
+00:09:07,916 --> 00:09:09,500
+[VIDEO NARRATOR]
+We must stand against a threat
+
+140
+00:09:09,583 --> 00:09:11,333
+greater than any
+have ever known!
+
+141
+00:09:11,416 --> 00:09:14,666
+Your father was a valiant
+man, Lieutenant Shima.
+
+142
+00:09:14,750 --> 00:09:17,208
+Don't ever doubt that.
+
+143
+00:09:19,333 --> 00:09:21,708
+[SHIMA]
+Thank you, Captain.
+
+144
+00:09:21,791 --> 00:09:23,208
+[VIDEO NARRATOR]
+Remember the countless fallen,
+
+145
+00:09:23,291 --> 00:09:24,875
+and their battle for justice!
+
+146
+00:09:24,958 --> 00:09:27,125
+We must never forgive
+these demonic invaders
+
+147
+00:09:27,208 --> 00:09:29,125
+from outer space!
+
+148
+00:09:29,875 --> 00:09:31,416
+My captain wants to
+know if you can answer
+
+149
+00:09:31,500 --> 00:09:33,375
+some questions for us.
+
+150
+00:09:33,458 --> 00:09:35,916
+[ITO]
+Heh. This should be amusing.
+
+151
+00:09:36,000 --> 00:09:37,958
+I can't wait to see
+how this goes.
+
+152
+00:09:38,041 --> 00:09:39,000
+[door opens]
+
+153
+00:09:39,083 --> 00:09:40,875
+[BOTH gasp]
+
+154
+00:09:40,958 --> 00:09:44,416
+Oh, hey. Your shift's not
+for another three hours.
+
+155
+00:09:48,708 --> 00:09:51,750
+For what it's worth, I'm sorry
+for how things went down.
+
+156
+00:09:51,833 --> 00:09:53,291
+Lower Storm Leader Ditz.
+
+157
+00:09:53,375 --> 00:09:56,500
+I.D. number 3817529.
+
+158
+00:09:56,583 --> 00:09:59,500
+It sounds like you're taking
+the same approach we would.
+
+159
+00:09:59,583 --> 00:10:01,916
+All of the old war films
+I used to watch as a kid
+
+160
+00:10:02,000 --> 00:10:04,500
+had prisoner scenes
+just like this.
+
+161
+00:10:04,583 --> 00:10:06,375
+Do you have films?
+
+162
+00:10:07,583 --> 00:10:10,833
+Does Gamilas have any laws
+about POW treatment?
+
+163
+00:10:10,916 --> 00:10:12,750
+We treat all who
+surrender to the Empire
+
+164
+00:10:12,833 --> 00:10:14,625
+with perfect fairness
+and civility.
+
+165
+00:10:14,708 --> 00:10:17,083
+Those who refuse to
+surrender, we annihilate.
+
+166
+00:10:17,166 --> 00:10:19,708
+So that's why you've been trying
+to destroy our planet, huh?
+
+167
+00:10:19,791 --> 00:10:23,208
+Because we dare to fight back?!
+
+168
+00:10:23,291 --> 00:10:24,375
+And yet...
+
+169
+00:10:24,458 --> 00:10:26,583
+...we did manage
+to work together.
+
+170
+00:10:26,666 --> 00:10:28,791
+That's gotta mean something.
+
+171
+00:10:28,875 --> 00:10:32,083
+[MELDA] It means we don't
+break our promises.
+
+172
+00:10:32,166 --> 00:10:33,333
+[KODAI]
+Neither do we.
+
+173
+00:10:33,416 --> 00:10:34,375
+[gasps]
+
+174
+00:10:35,958 --> 00:10:37,416
+Call me crazy,
+
+175
+00:10:37,500 --> 00:10:40,708
+but I'm getting this feeling
+that we can trust each other.
+
+176
+00:10:40,791 --> 00:10:42,875
+My XO would probably
+call that illogical,
+
+177
+00:10:42,958 --> 00:10:46,291
+but sometimes you
+gotta go with your gut.
+
+178
+00:10:46,375 --> 00:10:48,458
+[ITO]
+He calls that interrogation?
+
+179
+00:10:48,541 --> 00:10:51,708
+Looks to me like he's trying
+to establish trust, sir.
+
+180
+00:10:51,791 --> 00:10:54,458
+Well, all I'm saying is I hope
+he doesn't get any cozier
+
+181
+00:10:54,541 --> 00:10:55,625
+than he has to.
+
+182
+00:10:55,708 --> 00:10:56,833
+[HOSHINA]
+Huh?
+
+183
+00:10:56,916 --> 00:11:00,416
+Our Chief of Tactical
+is a man, after all.
+
+184
+00:11:01,708 --> 00:11:03,833
+[ITO] "Establishing trust"
+with an alien.
+
+185
+00:11:03,916 --> 00:11:06,125
+That's a naïve fantasy.
+
+186
+00:11:08,583 --> 00:11:10,958
+Once the <i>Yamato</i> gets out
+of the Milky Way galaxy,
+
+187
+00:11:11,041 --> 00:11:13,166
+we'll be navigating
+toward the planet Balun.
+
+188
+00:11:13,250 --> 00:11:16,625
+It's a halfway point between us
+and the Large Magellanic Cloud.
+
+189
+00:11:16,708 --> 00:11:19,291
+Sort of a lighthouse
+in space to show the way.
+
+190
+00:11:19,375 --> 00:11:20,625
+So, Lieutenant.
+
+191
+00:11:20,708 --> 00:11:22,625
+I've never heard of Balun
+before, did H.Q. name it
+
+192
+00:11:22,708 --> 00:11:24,250
+while drawing up
+the Yamato Plan?
+
+193
+00:11:24,333 --> 00:11:25,791
+No, it's not from us.
+
+194
+00:11:25,875 --> 00:11:28,791
+Apparently it was in the plans
+Yurisha gave us a year ago.
+
+195
+00:11:32,208 --> 00:11:33,375
+Yamazaki.
+
+196
+00:11:33,458 --> 00:11:35,000
+Lieutenant Shima.
+
+197
+00:11:35,791 --> 00:11:38,708
+Sorry, but may we have
+a word in private?
+
+198
+00:11:38,791 --> 00:11:41,250
+[gasps] Okay.
+
+199
+00:11:45,583 --> 00:11:48,791
+[panting]
+
+200
+00:11:48,875 --> 00:11:51,125
+[exhales]
+
+201
+00:11:52,708 --> 00:11:55,875
+[YAMAMOTO panting]
+
+202
+00:12:01,291 --> 00:12:03,666
+You're working hard.
+
+203
+00:12:03,750 --> 00:12:05,458
+Only way to get stronger.
+
+204
+00:12:05,541 --> 00:12:08,958
+True. But pushing yourself
+too hard can be bad, ya know?
+
+205
+00:12:09,041 --> 00:12:11,125
+What are you talking about?
+
+206
+00:12:12,166 --> 00:12:15,291
+No offense, but I think
+you're taking this situation
+
+207
+00:12:15,375 --> 00:12:17,250
+a little too personally.
+
+208
+00:12:24,333 --> 00:12:26,833
+Oh, I know what'll
+cheer you up.
+
+209
+00:12:29,041 --> 00:12:31,916
+So, what is it you
+wanted to talk about?
+
+210
+00:12:32,000 --> 00:12:33,375
+[YAMAZAKI]
+Look,
+
+211
+00:12:33,458 --> 00:12:36,375
+I was on board the ship your
+father captained that day.
+
+212
+00:12:36,458 --> 00:12:37,500
+[gasps]
+
+213
+00:12:37,583 --> 00:12:39,375
+Command issued a gag order.
+
+214
+00:12:39,458 --> 00:12:42,791
+I'm strictly forbidden to ever
+discuss what happened.
+
+215
+00:12:42,875 --> 00:12:46,000
+I've kept quiet
+all these years.
+
+216
+00:12:46,083 --> 00:12:47,250
+But no more.
+
+217
+00:12:47,333 --> 00:12:48,291
+[gasps]
+
+218
+00:12:49,916 --> 00:12:51,750
+[SERIZAWA]
+We dispatched a military envoy
+
+219
+00:12:51,833 --> 00:12:54,291
+and attempted peaceful contact.
+
+220
+00:12:54,375 --> 00:12:56,541
+But the aliens chose
+to ignore our overtures
+
+221
+00:12:56,625 --> 00:12:58,625
+and fired on us without warning.
+
+222
+00:12:58,708 --> 00:13:00,083
+The UN Space Defense Committee
+
+223
+00:13:00,166 --> 00:13:01,916
+had no choice but to
+take this aggression
+
+224
+00:13:02,000 --> 00:13:04,250
+as a clear act of war
+against planet Earth.
+
+225
+00:13:04,333 --> 00:13:06,500
+In response, we issued
+an emergency order
+
+226
+00:13:06,583 --> 00:13:08,583
+to defend our system...
+
+227
+00:13:09,583 --> 00:13:12,333
+[SERIZAWA]
+Open fire, Okita!
+
+228
+00:13:12,416 --> 00:13:15,250
+[OKITA] It's our first contact
+with an alien civilization.
+
+229
+00:13:15,333 --> 00:13:17,250
+We can't jump to conclusions!
+
+230
+00:13:17,333 --> 00:13:19,666
+[SERIZAWA] This is Central
+Command's decision!
+
+231
+00:13:19,750 --> 00:13:21,875
+If we don't act decisively
+it could be too late.
+
+232
+00:13:21,958 --> 00:13:23,291
+That's nonsense!
+
+233
+00:13:23,375 --> 00:13:25,291
+Incoming message
+from the Murasame.
+
+234
+00:13:25,375 --> 00:13:28,041
+"We have encountered alien
+vessels. Please advise."
+
+235
+00:13:28,125 --> 00:13:29,541
+We don't have time
+to debate this
+
+236
+00:13:29,625 --> 00:13:31,458
+and it's clear you won't obey.
+
+237
+00:13:31,541 --> 00:13:33,583
+By my authority as
+Military Director,
+
+238
+00:13:33,666 --> 00:13:35,291
+I hereby remove
+you from command!
+
+239
+00:13:35,375 --> 00:13:36,791
+[gasps]
+
+240
+00:13:36,875 --> 00:13:39,750
+[SERIZAWA] This is General
+Serizawa from Central Command.
+
+241
+00:13:39,833 --> 00:13:42,833
+The Murasame is instructed
+to immediately open fire
+
+242
+00:13:42,916 --> 00:13:44,666
+on the alien vessels.
+
+243
+00:13:44,750 --> 00:13:46,250
+But, sir! Admiral Okita--
+
+244
+00:13:46,333 --> 00:13:48,791
+[SERIZAWA]
+Has been removed from command.
+
+245
+00:13:48,875 --> 00:13:51,375
+You have your orders, Captain!
+
+246
+00:13:51,916 --> 00:13:54,208
+[YAMAZAKI]
+And so, we did as we were told.
+
+247
+00:13:54,291 --> 00:13:57,875
+We opened fire first
+on the Gamilan ships.
+
+248
+00:13:57,958 --> 00:13:59,291
+[SHIMA gasping]
+
+249
+00:14:03,333 --> 00:14:05,000
+[MURASAME CM 11A]
+Critical hit to deck four, sir!
+
+250
+00:14:05,083 --> 00:14:07,083
+[MURASAME CM 11B]
+Second main gun is down!
+
+251
+00:14:07,166 --> 00:14:09,458
+Main engine output
+reduced by 80%!
+
+252
+00:14:09,541 --> 00:14:11,791
+All crew, abandon ship!
+
+253
+00:14:11,875 --> 00:14:13,125
+You sure, Captain?
+
+254
+00:14:13,208 --> 00:14:16,375
+This ship is too far gone
+to survive. Go, Chief.
+
+255
+00:14:16,458 --> 00:14:18,541
+Admiral Owen,
+manage the evacuation.
+
+256
+00:14:18,625 --> 00:14:20,083
+But, Captain...
+
+257
+00:14:20,166 --> 00:14:23,458
+Forging a friendship with
+the aliens is possible.
+
+258
+00:14:23,541 --> 00:14:26,041
+I made that promise to my son.
+
+259
+00:14:26,125 --> 00:14:28,750
+Instead, we've chosen war.
+
+260
+00:14:28,833 --> 00:14:30,375
+Captain...
+
+261
+00:14:30,958 --> 00:14:34,541
+Go quickly!
+That's an order, Chief!
+
+262
+00:14:36,958 --> 00:14:38,958
+Yes, sir.
+
+263
+00:14:39,041 --> 00:14:42,333
+[alarm blaring]
+
+264
+00:14:45,666 --> 00:14:47,791
+Get to the lifeboats, hurry!
+
+265
+00:14:47,875 --> 00:14:49,583
+[MURASAME CM 11A groans]
+
+266
+00:14:51,625 --> 00:14:52,583
+[MURASAME VOICE]
+Emergency.
+
+267
+00:14:52,666 --> 00:14:54,583
+Sealing all bulkheads.
+
+268
+00:14:54,666 --> 00:14:57,000
+Captain!
+
+269
+00:15:03,875 --> 00:15:07,250
+[DAIGO]
+Daisuke, never lose hope.
+
+270
+00:15:20,250 --> 00:15:23,500
+[YAMAZAKI] I don't remember
+what happened next.
+
+271
+00:15:23,583 --> 00:15:25,333
+Or how I escaped.
+
+272
+00:15:25,416 --> 00:15:28,166
+I just... woke up.
+
+273
+00:15:32,666 --> 00:15:34,625
+[YAMAZAKI]
+The battle was already over,
+
+274
+00:15:34,708 --> 00:15:36,500
+with no sign of
+the fellow sailors
+
+275
+00:15:36,583 --> 00:15:38,791
+I thought had gotten
+out with me.
+
+276
+00:15:40,625 --> 00:15:43,458
+Liar! That can't be true!
+
+277
+00:15:51,875 --> 00:15:53,500
+[KODAI]
+Ah, there you are.
+
+278
+00:15:55,125 --> 00:15:56,958
+Did you learn anything?
+
+279
+00:15:57,041 --> 00:15:59,875
+Serving her empire with honor
+means everything to her.
+
+280
+00:15:59,958 --> 00:16:03,125
+She'll never give information
+that betrays that.
+
+281
+00:16:03,208 --> 00:16:05,208
+[OKITA] Those who close
+their eyes to the past
+
+282
+00:16:05,291 --> 00:16:07,875
+become blind to the future.
+
+283
+00:16:07,958 --> 00:16:12,000
+Perhaps she's already told
+us what we needed to hear.
+
+284
+00:16:12,083 --> 00:16:13,291
+What is this?
+
+285
+00:16:13,375 --> 00:16:14,708
+Does sullying my father's honor
+
+286
+00:16:14,791 --> 00:16:16,708
+give you some kind
+of twisted thrill?!
+
+287
+00:16:16,791 --> 00:16:19,250
+Your father was a man
+of utmost integrity.
+
+288
+00:16:19,333 --> 00:16:20,500
+He would want you to know.
+
+289
+00:16:20,583 --> 00:16:23,166
+I refuse to accept this!
+You're making it all up!
+
+290
+00:16:23,250 --> 00:16:25,083
+I know you are!
+
+291
+00:16:26,500 --> 00:16:28,125
+[door closes]
+
+292
+00:16:31,333 --> 00:16:33,833
+[MORI sighs]
+There!
+
+293
+00:16:33,916 --> 00:16:35,083
+Don't you feel better?
+
+294
+00:16:35,166 --> 00:16:38,291
+This was your plan
+for cheering me up?
+
+295
+00:16:38,375 --> 00:16:39,750
+[MORI]
+Well, sure!
+
+296
+00:16:39,833 --> 00:16:42,708
+After exercise, you stretch
+and have a nice, hot bath.
+
+297
+00:16:42,791 --> 00:16:44,750
+That's Relaxation 101!
+
+298
+00:16:44,833 --> 00:16:46,958
+It's surprising, that's all.
+
+299
+00:16:47,041 --> 00:16:48,125
+Huh?
+
+300
+00:16:48,208 --> 00:16:50,250
+[YAMAMOTO]
+Everyone says you're so guarded.
+
+301
+00:16:50,333 --> 00:16:53,541
+Basically, I didn't think
+Ice Queens took hot baths.
+
+302
+00:16:53,625 --> 00:16:56,833
+That name. I can't shake it.
+
+303
+00:16:56,916 --> 00:16:58,166
+[YAMAMOTO]
+Can I ask you something?
+
+304
+00:16:58,250 --> 00:16:59,083
+Huh?
+
+305
+00:16:59,166 --> 00:17:00,666
+[What'd you mean?
+
+306
+00:17:00,750 --> 00:17:03,875
+In the gym, when you said I was
+taking things too personally.
+
+307
+00:17:03,958 --> 00:17:05,750
+[sighs]
+
+308
+00:17:05,833 --> 00:17:07,375
+[YAMAMOTO]
+Are you scared to tell me?
+
+309
+00:17:07,458 --> 00:17:09,125
+A little.
+
+310
+00:17:09,208 --> 00:17:11,666
+I know your brother lost
+his life fighting Gamilans
+
+311
+00:17:11,750 --> 00:17:13,541
+and I don't want
+to minimize that.
+
+312
+00:17:13,625 --> 00:17:14,791
+But I still don't
+think it's fair
+
+313
+00:17:14,875 --> 00:17:18,041
+to direct all your anger at her.
+
+314
+00:17:18,125 --> 00:17:20,916
+You mean that pilot.
+
+315
+00:17:21,000 --> 00:17:23,125
+Why don't we wait until
+you lose family in this war
+
+316
+00:17:23,208 --> 00:17:26,375
+and then you can talk
+to me about what's fair.
+
+317
+00:17:26,458 --> 00:17:28,791
+[MORI]
+That may not be possible.
+
+318
+00:17:28,875 --> 00:17:30,125
+Huh?
+
+319
+00:17:30,208 --> 00:17:31,791
+[MORI]
+Truth is,
+
+320
+00:17:31,875 --> 00:17:35,375
+I don't have any memories
+beyond this last year.
+
+321
+00:17:35,458 --> 00:17:38,125
+There's a good chance my
+family's dead already,
+
+322
+00:17:38,208 --> 00:17:40,375
+I just can't remember
+who they were,
+
+323
+00:17:40,458 --> 00:17:41,791
+or what they meant to me.
+
+324
+00:17:41,875 --> 00:17:43,916
+It's all just empty space.
+
+325
+00:17:44,000 --> 00:17:47,125
+Then you're right, you can't
+possibly understand.
+
+326
+00:17:52,041 --> 00:17:54,416
+[door hisses]
+
+327
+00:17:54,500 --> 00:17:55,750
+[SANADA]
+Based on our analysis,
+
+328
+00:17:55,833 --> 00:17:58,750
+this system shows strong
+signs of enemy activity.
+
+329
+00:17:58,833 --> 00:18:00,833
+It's highly probable
+there's a Gamilan base
+
+330
+00:18:00,916 --> 00:18:03,125
+on one of these planets
+very close to our route.
+
+331
+00:18:03,208 --> 00:18:05,791
+We've already charted a detour
+to keep our distance.
+
+332
+00:18:05,875 --> 00:18:07,916
+[OKITA]
+No. We'll maintain our course.
+
+333
+00:18:08,000 --> 00:18:09,250
+[gasps]
+
+334
+00:18:09,333 --> 00:18:12,291
+It's the perfect place
+to drop off our passenger.
+
+335
+00:18:12,375 --> 00:18:14,750
+[door hisses]
+
+336
+00:18:14,833 --> 00:18:16,875
+Okay, time to change shifts.
+
+337
+00:18:16,958 --> 00:18:20,208
+[door hisses]
+
+338
+00:18:20,291 --> 00:18:21,833
+[SHIMA]
+I have to object!
+
+339
+00:18:21,916 --> 00:18:23,625
+What if she's been spying on us?
+
+340
+00:18:23,708 --> 00:18:24,541
+Shima...
+
+341
+00:18:24,625 --> 00:18:26,833
+My decision stands, Lieutenant.
+
+342
+00:18:26,916 --> 00:18:29,416
+How can you trust that demon
+when she lied to our faces,
+
+343
+00:18:29,500 --> 00:18:31,083
+and said we attacked them first?
+
+344
+00:18:31,166 --> 00:18:33,791
+Would you relax?
+This isn't like you.
+
+345
+00:18:33,875 --> 00:18:36,041
+They killed your brother
+like they killed my father!
+
+346
+00:18:36,125 --> 00:18:37,125
+Don't tell me you trust her
+
+347
+00:18:37,208 --> 00:18:39,041
+just because she helped
+us out one time!
+
+348
+00:18:39,125 --> 00:18:40,000
+[KODAI grunts]
+
+349
+00:18:40,083 --> 00:18:43,125
+[gasps] Do you?
+
+350
+00:18:43,208 --> 00:18:44,500
+[beeping]
+
+351
+00:18:44,583 --> 00:18:46,083
+[AIHARA]
+Bridge to Captain.
+
+352
+00:18:46,166 --> 00:18:48,541
+The Gamilan fighter plane
+has launched, sir!
+
+353
+00:18:48,625 --> 00:18:50,416
+--[SHIMA gasps]
+--And who's flying it?
+
+354
+00:18:50,500 --> 00:18:51,750
+[AIHARA]
+Melda Ditz.
+
+355
+00:18:51,833 --> 00:18:53,416
+How could she have escaped?
+
+356
+00:18:53,500 --> 00:18:56,333
+[AIHARA] Wait, did someone
+issue a pursuit order?
+
+357
+00:18:56,416 --> 00:18:58,500
+One of the Cosmo Falcons
+just launched, too!
+
+358
+00:18:58,583 --> 00:18:59,791
+Hold on, what?
+
+359
+00:19:05,250 --> 00:19:07,875
+[AIHARA]
+<i>Yamato</i> to Falcon. Do you copy?
+
+360
+00:19:09,583 --> 00:19:12,500
+I repeat. Falcon, do you copy?
+
+361
+00:19:12,583 --> 00:19:15,666
+All right, who's piloting that
+thing?! What is going on?
+
+362
+00:19:15,750 --> 00:19:16,500
+[KODAI]
+Come in!
+
+363
+00:19:16,583 --> 00:19:18,250
+Don't you ignore me!
+
+364
+00:19:26,666 --> 00:19:29,208
+[YAMAMOTO]
+Out here it's just you and me.
+
+365
+00:19:49,250 --> 00:19:50,291
+[S.I.D. VOICE 6A]
+Enemy locked on.
+
+366
+00:19:50,375 --> 00:19:51,416
+[YAMAMOTO gasps]
+
+367
+00:19:55,583 --> 00:19:57,125
+[S.I.D. VOICE 6A]
+Warning! Warning!
+
+368
+00:19:57,208 --> 00:19:58,208
+Engine failure.
+
+369
+00:19:58,291 --> 00:20:00,000
+Vessel cannot maintain
+functionality
+
+370
+00:20:00,083 --> 00:20:01,625
+in these conditions.
+
+371
+00:20:04,958 --> 00:20:06,375
+[S.I.D. VOICE 6A]
+Engine pressure rising.
+
+372
+00:20:06,458 --> 00:20:08,250
+Ten seconds until critical.
+
+373
+00:20:08,333 --> 00:20:10,041
+[MELDA]
+You need to eject! Now!
+
+374
+00:20:10,125 --> 00:20:11,666
+[YAMAMOTO growls]
+
+375
+00:20:35,291 --> 00:20:36,916
+[YAMAMOTO]
+Akio...
+
+376
+00:20:50,791 --> 00:20:53,208
+Oh, look who's awake.
+
+377
+00:20:53,291 --> 00:20:54,208
+[YAMAMOTO]
+Where am I?
+
+378
+00:20:54,291 --> 00:20:55,750
+Onboard the <i>Yamato</i> .
+
+379
+00:20:55,833 --> 00:20:58,208
+Melda brought you
+back in her ship.
+
+380
+00:20:58,291 --> 00:21:00,208
+[YAMAMOTO]
+Melda did?
+
+381
+00:21:00,291 --> 00:21:01,750
+You're kidding, right?
+
+382
+00:21:01,833 --> 00:21:05,375
+I'm not. And by the way,
+she'll be leaving us soon.
+
+383
+00:21:09,708 --> 00:21:12,000
+I'm sorry, Yuki.
+
+384
+00:21:12,083 --> 00:21:14,875
+Your punishment is six
+days in the brig.
+
+385
+00:21:14,958 --> 00:21:17,875
+I'd say I got off light.
+
+386
+00:21:17,958 --> 00:21:22,208
+But... I do think I'm
+feeling better now.
+
+387
+00:21:23,416 --> 00:21:25,250
+[KODAI]
+This is goodbye.
+
+388
+00:21:25,333 --> 00:21:27,750
+This food should
+last you four days.
+
+389
+00:21:31,750 --> 00:21:32,875
+So tell me,
+
+390
+00:21:32,958 --> 00:21:34,291
+when she crashed,
+
+391
+00:21:34,375 --> 00:21:37,291
+did you think I would abandon
+her and try to escape?
+
+392
+00:21:37,375 --> 00:21:39,375
+No, I thought we could
+trust in your honor.
+
+393
+00:21:39,458 --> 00:21:41,000
+And I was right.
+
+394
+00:21:41,083 --> 00:21:43,916
+I want her to know she showed
+real talent out there.
+
+395
+00:21:44,000 --> 00:21:44,916
+[KODAI gasps]
+
+396
+00:21:45,000 --> 00:21:46,458
+I'll trust you to
+pass that along.
+
+397
+00:21:46,541 --> 00:21:49,291
+[MAINTENANCE 9A] Gamilan fighter
+disembarking shortly.
+
+398
+00:21:49,375 --> 00:21:52,791
+You know, it keeps on surprising
+me how much we think alike.
+
+399
+00:22:16,166 --> 00:22:17,750
+Change course, Lieutenant.
+
+400
+00:22:17,833 --> 00:22:20,208
+Get us out of this sector.
+
+401
+00:22:20,291 --> 00:22:21,875
+Roger that.
+
+402
+00:25:05,291 --> 00:25:07,833
+[OKITA] Separated by the
+vast expanse of space,
+
+403
+00:25:07,916 --> 00:25:10,291
+two worlds are locked
+in a bitter war,
+
+404
+00:25:10,375 --> 00:25:12,291
+with two ideas of the "truth"
+
+405
+00:25:12,375 --> 00:25:14,833
+and what defines
+a righteous act.
+
+406
+00:25:15,916 --> 00:25:16,958
+[OKITA]
+Is there any hope
+
+407
+00:25:17,041 --> 00:25:18,833
+of reconciling these
+disparate truths,
+
+408
+00:25:18,916 --> 00:25:23,375
+as the <i>Yamato</i> pushes onward,
+across the galactic seas?
+
+409
+00:25:23,458 --> 00:25:27,041
+Next time: What Lies Beyond.
+
+410
+00:25:27,125 --> 00:25:29,250
+There are 318 days left
+
+411
+00:25:29,333 --> 00:25:32,250
+before the extinction
+of the human race.
+

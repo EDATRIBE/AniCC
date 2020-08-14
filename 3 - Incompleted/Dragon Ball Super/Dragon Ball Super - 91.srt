@@ -1,0 +1,2254 @@
+﻿1
+00:00:22,666 --> 00:00:27,416
+♪ Opening Song ♪
+
+2
+00:00:35,375 --> 00:00:37,833
+<i>Time has come,</i>
+<i>I'm ready to go</i>
+
+3
+00:00:37,916 --> 00:00:40,416
+<i>Venturing into the unknown</i>
+
+4
+00:00:40,500 --> 00:00:45,666
+<i>Fires inside me,</i>
+<i>must be unleashed</i>
+
+5
+00:00:45,750 --> 00:00:48,083
+<i>People talkin' nonsense all day</i>
+
+6
+00:00:48,166 --> 00:00:50,666
+<i>Chin pun kan,</i>
+<i>that's all they can say</i>
+
+7
+00:00:50,750 --> 00:00:56,500
+<i>I can't get no satisfaction</i>
+
+8
+00:00:56,583 --> 00:00:59,083
+<i>Challenges may come</i>
+
+9
+00:00:59,166 --> 00:01:01,041
+<i>Fighting's just begun</i>
+
+10
+00:01:01,125 --> 00:01:04,916
+<i>But there's no stopping me</i>
+<i>from spreading out my wings</i>
+
+11
+00:01:05,000 --> 00:01:06,583
+<i>(let's fly high)</i>
+
+12
+00:01:06,666 --> 00:01:09,208
+<i>Concentrate my power</i>
+
+13
+00:01:09,291 --> 00:01:11,208
+<i>In the final hour</i>
+
+14
+00:01:11,291 --> 00:01:16,666
+<i>In the end, I am gonna win!</i>
+
+15
+00:01:18,541 --> 00:01:20,958
+<i>Don't you know</i>
+<i>I'm unstoppable?</i>
+
+16
+00:01:21,041 --> 00:01:23,541
+<i>Don't even try,</i>
+<i>'cause you will fall</i>
+
+17
+00:01:23,625 --> 00:01:26,125
+<i>I got a strength,</i>
+<i>deep in my soul,</i>
+
+18
+00:01:26,208 --> 00:01:28,708
+<i>that gives me</i>
+<i>courage and control</i>
+
+19
+00:01:28,791 --> 00:01:31,291
+<i>I'll go beyond the limit break</i>
+
+20
+00:01:31,375 --> 00:01:33,833
+<i>The universe is mine to take</i>
+
+21
+00:01:33,916 --> 00:01:36,416
+<i>I have no fear,</i>
+<i>I think it's clear</i>
+
+22
+00:01:36,500 --> 00:01:38,916
+<i>Let's kick it up into high gear</i>
+
+23
+00:01:39,000 --> 00:01:41,541
+<i>Oh this is Dragon Ball Super</i>
+
+24
+00:01:41,625 --> 00:01:44,916
+<i>We've got the skills</i>
+<i>to blow Zeno away!</i>
+
+25
+00:01:47,708 --> 00:01:50,083
+[NARRATOR] Previously,
+on Dragon Ball Super,
+
+26
+00:01:50,166 --> 00:01:54,166
+Goku, Gohan, Piccolo,
+and Tien engaged
+
+27
+00:01:54,250 --> 00:01:56,625
+in a two-on-two battle royale
+
+28
+00:01:56,708 --> 00:01:59,625
+in order to prepare for
+the Tournament of Power,
+
+29
+00:01:59,708 --> 00:02:03,125
+and find out just how
+strong Gohan had become.
+
+30
+00:02:03,208 --> 00:02:05,625
+But the fight quickly
+became hazardous.
+
+31
+00:02:05,708 --> 00:02:07,666
+[TIEN]
+Now call off the fight, Gohan!
+
+32
+00:02:07,750 --> 00:02:09,416
+Same goes for you!
+
+33
+00:02:09,500 --> 00:02:11,583
+Yeah. Maybe he's right, Son.
+
+34
+00:02:11,666 --> 00:02:13,750
+[NARRATOR] It looked as
+though the sparring session
+
+35
+00:02:13,833 --> 00:02:15,791
+was over, until...
+
+36
+00:02:15,875 --> 00:02:17,291
+--[GOHAN] Dad, wait.
+--[GOKU] Hm?
+
+37
+00:02:17,375 --> 00:02:19,166
+I'm not done. Let's go again,
+
+38
+00:02:19,250 --> 00:02:21,750
+you and me, one-on-one.
+
+39
+00:02:21,833 --> 00:02:23,958
+[GOKU]
+You got it, Gohan.
+
+40
+00:02:24,041 --> 00:02:25,625
+Let's go!
+
+41
+00:02:27,208 --> 00:02:29,333
+[yells]
+
+42
+00:02:29,416 --> 00:02:32,166
+[BOTH grunt]
+
+43
+00:02:32,250 --> 00:02:36,458
+[NARRATOR] Gohan demonstrated
+a power that tested even Goku.
+
+44
+00:02:36,541 --> 00:02:40,000
+At last, the mighty
+Gohan had returned!
+
+45
+00:02:40,083 --> 00:02:40,833
+[GOHAN yells]
+
+46
+00:02:40,916 --> 00:02:43,750
+[GOHAN, GOKU yell]
+
+47
+00:02:47,375 --> 00:02:50,833
+Let's keep pushing
+each other, Son.
+
+48
+00:02:50,916 --> 00:02:52,875
+As far as we can.
+
+49
+00:02:56,666 --> 00:02:59,375
+[NARRATOR] "Which Universe
+Will Win Their Place?
+
+50
+00:02:59,458 --> 00:03:03,208
+The Mighty Warriors
+Gradually Assemble!"
+
+51
+00:03:07,708 --> 00:03:09,625
+[ZENOES]
+Rock, paper, scissors!
+
+52
+00:03:09,708 --> 00:03:10,875
+[ZENO grunts]
+
+53
+00:03:10,958 --> 00:03:13,291
+[FUTURE ZENO]
+Uh. Uh...
+
+54
+00:03:14,791 --> 00:03:17,541
+[ZENOES]
+Rock, paper, scissors!
+
+55
+00:03:19,958 --> 00:03:22,458
+I'm bored of this game
+now, aren't you?
+
+56
+00:03:22,541 --> 00:03:25,250
+Yes, it's no fun at all.
+
+57
+00:03:25,333 --> 00:03:27,291
+[ZENOES]
+Come here!
+
+58
+00:03:27,375 --> 00:03:30,458
+[GRAND MINISTER]
+Yes, sires? You beckoned?
+
+59
+00:03:30,541 --> 00:03:32,375
+[BOTH]
+This game is no fun now.
+
+60
+00:03:32,458 --> 00:03:34,541
+It is boring, and boring is bad.
+
+61
+00:03:34,625 --> 00:03:36,791
+Plus our hands and heads
+are starting to ache.
+
+62
+00:03:36,875 --> 00:03:38,000
+Tell us something fun
+
+63
+00:03:38,083 --> 00:03:39,958
+to distract us from
+how bored we are.
+
+64
+00:03:40,041 --> 00:03:41,625
+As you command, sires.
+
+65
+00:03:41,708 --> 00:03:44,375
+Please observe the latest news
+update from the Cosmos.
+
+66
+00:03:44,458 --> 00:03:46,875
+[BOTH]
+Ooh, what is it? What is it?
+
+67
+00:03:47,833 --> 00:03:49,208
+[GRAND MINISTER]
+Well, apparently,
+
+68
+00:03:49,291 --> 00:03:52,250
+your friend Goku's 7th
+Universe has now selected
+
+69
+00:03:52,333 --> 00:03:54,958
+all of the contestants for its
+Tournament of Power team.
+
+70
+00:03:55,041 --> 00:03:56,958
+I bet Goku picked
+a team that's great!
+
+71
+00:03:57,041 --> 00:03:58,916
+Yes, I can't wait to see it!
+
+72
+00:03:59,000 --> 00:04:01,875
+[ZENOES laugh]
+
+73
+00:04:02,916 --> 00:04:05,833
+[SUPREME KAI]
+Nicely done, Goku.
+
+74
+00:04:05,916 --> 00:04:09,458
+We finally have all of
+our competitors lined up.
+
+75
+00:04:14,541 --> 00:04:16,916
+Your recruitment skills are
+better than we thought.
+
+76
+00:04:17,000 --> 00:04:19,500
+I must admit, you did
+a decent job, Goku.
+
+77
+00:04:19,583 --> 00:04:21,583
+Aw, it was no
+big deal, honestly.
+
+78
+00:04:21,666 --> 00:04:22,750
+Hold on.
+
+79
+00:04:22,833 --> 00:04:24,750
+Does anybody know where
+Vegeta ran off to?
+
+80
+00:04:24,833 --> 00:04:27,250
+Well, he went to the
+Lookout so he could train
+
+81
+00:04:27,333 --> 00:04:28,625
+in the Hyperbolic Time Chamber.
+
+82
+00:04:28,708 --> 00:04:30,250
+So wait, he went
+to train on his own
+
+83
+00:04:30,333 --> 00:04:32,750
+without even telling me?
+Man, that's totally uncool.
+
+84
+00:04:32,833 --> 00:04:35,041
+[WHIS] Well, perhaps that's
+because you've been so busy
+
+85
+00:04:35,125 --> 00:04:36,333
+sparring with other fighters
+
+86
+00:04:36,416 --> 00:04:38,875
+that you left him to
+fend for himself.
+
+87
+00:04:42,291 --> 00:04:44,333
+[MR. POPO]
+Hold it!
+
+88
+00:04:44,416 --> 00:04:48,791
+If you destroy the room again,
+you're banned for life.
+
+89
+00:04:53,875 --> 00:04:55,666
+[VEGETA]
+Hmph.
+
+90
+00:04:56,500 --> 00:05:01,416
+He's definitely going to break
+it again, I just know it.
+
+91
+00:05:01,500 --> 00:05:04,291
+[VEGETA grunts] Only one
+warrior will defeat Kakarot
+
+92
+00:05:04,375 --> 00:05:06,833
+and be the last man standing
+in this tournament.
+
+93
+00:05:06,916 --> 00:05:11,791
+The whole Cosmos will know
+the glory of Prince Vegeta!
+
+94
+00:05:12,500 --> 00:05:17,250
+[GOKU] Hm... So how should I
+use this time we've got left?
+
+95
+00:05:17,333 --> 00:05:19,916
+Well, I'm happy to draw out your
+untapped abilities so you can
+
+96
+00:05:20,000 --> 00:05:22,125
+break through whatever
+limitations you still have,
+
+97
+00:05:22,208 --> 00:05:23,125
+if that floats your boat.
+
+98
+00:05:23,208 --> 00:05:24,458
+Whoa, you can do that?!
+
+99
+00:05:24,541 --> 00:05:26,750
+That sounds like a
+tremendous idea.
+
+100
+00:05:26,833 --> 00:05:29,333
+Forgive me for throwing
+cold water on your proposal,
+
+101
+00:05:29,416 --> 00:05:30,791
+but the process of drawing out
+
+102
+00:05:30,875 --> 00:05:33,666
+someone's latent abilities
+would take at least 25 hours
+
+103
+00:05:33,750 --> 00:05:35,166
+to perform, and we don't have
+
+104
+00:05:35,250 --> 00:05:37,500
+that much time before
+the tournament begins.
+
+105
+00:05:37,583 --> 00:05:40,291
+Oh, yeah. Darn it.
+I guess you're right.
+
+106
+00:05:40,375 --> 00:05:41,875
+[GOKU]
+What?!
+
+107
+00:05:41,958 --> 00:05:44,708
+Aw man, and I was
+gettin' all excited, too!
+
+108
+00:05:44,791 --> 00:05:46,750
+That's quite the
+wasted opportunity.
+
+109
+00:05:46,833 --> 00:05:48,666
+You can say that again.
+
+110
+00:05:48,750 --> 00:05:49,541
+[growls]
+
+111
+00:05:49,625 --> 00:05:50,958
+[GOKU]
+Hey, Whis.
+
+112
+00:05:51,041 --> 00:05:52,750
+I hate to ask you for another
+favor, but do you think
+
+113
+00:05:52,833 --> 00:05:54,708
+you could you spar with me
+until it's time to go?
+
+114
+00:05:54,791 --> 00:05:57,166
+[WHIS]
+Certainly, I don't mind at all.
+
+115
+00:05:57,250 --> 00:05:58,625
+[GOKU]
+Awesome! Thanks.
+
+116
+00:05:58,708 --> 00:06:01,083
+I know it'll help.
+
+117
+00:06:01,166 --> 00:06:02,291
+Well, let's go.
+
+118
+00:06:02,375 --> 00:06:05,000
+Right now, every second counts!
+
+119
+00:06:07,791 --> 00:06:10,208
+Goku is really on
+top of things, huh?
+
+120
+00:06:10,291 --> 00:06:13,083
+So what are we waiting for?
+Let's start the tournament now.
+
+121
+00:06:13,166 --> 00:06:15,833
+Yes, yes, we should
+just start it right now!
+
+122
+00:06:15,916 --> 00:06:17,083
+Your majesties.
+
+123
+00:06:17,166 --> 00:06:19,500
+I know how eager you
+are to start, however,
+
+124
+00:06:19,583 --> 00:06:22,375
+we must honor the already
+agreed-upon schedule.
+
+125
+00:06:22,458 --> 00:06:25,583
+In contrast to Goku's success,
+there are several universes
+
+126
+00:06:25,666 --> 00:06:28,541
+that appear to be having some
+trouble putting teams together.
+
+127
+00:06:28,625 --> 00:06:30,208
+[ZENOES]
+Is that true?
+
+128
+00:06:30,291 --> 00:06:31,750
+Indeed.
+
+129
+00:06:31,833 --> 00:06:34,125
+[RO growls]
+
+130
+00:06:39,875 --> 00:06:43,500
+[CIVILIANS screaming]
+
+131
+00:06:43,583 --> 00:06:45,166
+That's right, you better run!
+
+132
+00:06:45,250 --> 00:06:48,541
+And leave all your precious
+belongin's behind for us!
+
+133
+00:06:50,750 --> 00:06:54,125
+I am the king of this world now,
+and nothin' can stop me!
+
+134
+00:06:54,208 --> 00:06:56,083
+Yee-haw!
+
+135
+00:06:58,166 --> 00:06:59,958
+[MOJIITO]
+What is the meaning of this?
+
+136
+00:07:00,041 --> 00:07:01,875
+I'm afraid it's kind
+of our fault, sir.
+
+137
+00:07:01,958 --> 00:07:04,375
+As soon as we told them about
+the possible Armageddon,
+
+138
+00:07:04,458 --> 00:07:05,541
+they started rioting.
+
+139
+00:07:05,625 --> 00:07:06,875
+Guess they don't
+have faith in us,
+
+140
+00:07:06,958 --> 00:07:09,291
+because they're planning
+to abandon this universe
+
+141
+00:07:09,375 --> 00:07:11,291
+and flee to another one.
+
+142
+00:07:11,375 --> 00:07:13,583
+Forget about them, how
+many fighters have you
+
+143
+00:07:13,666 --> 00:07:14,833
+recruited for the tournament?
+
+144
+00:07:14,916 --> 00:07:16,833
+Uh... let's see,
+including the three of us,
+
+145
+00:07:16,916 --> 00:07:18,791
+we're up to a total of three.
+
+146
+00:07:18,875 --> 00:07:22,250
+[ALL] Uh. We are so
+unbelievably sorry, sir.
+
+147
+00:07:22,333 --> 00:07:24,625
+[SIDRA growls]
+
+148
+00:07:24,708 --> 00:07:27,166
+And now Hakai!
+
+149
+00:07:29,708 --> 00:07:33,541
+[screams]
+
+150
+00:07:36,125 --> 00:07:38,250
+All right, let's try our
+luck on a different world.
+
+151
+00:07:38,333 --> 00:07:40,791
+This one's a lost cause.
+
+152
+00:07:42,625 --> 00:07:44,166
+It would appear
+that everybody there
+
+153
+00:07:44,250 --> 00:07:46,208
+is thinking only about
+themselves now.
+
+154
+00:07:46,291 --> 00:07:48,458
+The unbridled panic
+and chaos on display
+
+155
+00:07:48,541 --> 00:07:50,250
+is positively disgraceful.
+
+156
+00:07:50,333 --> 00:07:52,458
+[ZENO] I'm curious,
+which universe do you think
+
+157
+00:07:52,541 --> 00:07:53,916
+is going to win the tournament?
+
+158
+00:07:54,000 --> 00:07:55,375
+You know what?
+
+159
+00:07:55,458 --> 00:07:57,750
+I think Goku's universe is
+going to win the tournament.
+
+160
+00:07:57,833 --> 00:07:59,125
+But you know what else?
+
+161
+00:07:59,208 --> 00:08:01,666
+The 6th Universe is decent,
+too, so they could win.
+
+162
+00:08:01,750 --> 00:08:03,666
+[GRAND MINISTER]
+Astute observations, sires.
+
+163
+00:08:03,750 --> 00:08:06,833
+As those two twin universes
+are linked counterparts,
+
+164
+00:08:06,916 --> 00:08:10,000
+their respective strengths
+appear to be evenly balanced.
+
+165
+00:08:10,083 --> 00:08:12,041
+[ZENOES]
+Really?
+
+166
+00:08:26,833 --> 00:08:27,958
+[grunts]
+
+167
+00:08:28,625 --> 00:08:31,666
+[footsteps]
+
+168
+00:08:31,750 --> 00:08:32,875
+[FROST grunts]
+
+169
+00:08:32,958 --> 00:08:33,833
+[footsteps]
+
+170
+00:08:33,916 --> 00:08:35,291
+[gasps]
+
+171
+00:08:39,750 --> 00:08:41,708
+Long time no see, huh?
+
+172
+00:08:41,791 --> 00:08:43,916
+Hit? How did you...?
+
+173
+00:08:51,583 --> 00:08:53,208
+Control yourself.
+
+174
+00:08:53,291 --> 00:08:55,041
+I'm here on an assignment.
+
+175
+00:08:55,125 --> 00:08:57,833
+[FROST whimpers]
+What is it?
+
+176
+00:08:57,916 --> 00:09:00,208
+Did you come to assassinate me?
+
+177
+00:09:03,250 --> 00:09:04,958
+[FROST]
+All right, if you must.
+
+178
+00:09:05,041 --> 00:09:08,291
+Please, just get it over with.
+I'm not going to struggle.
+
+179
+00:09:08,375 --> 00:09:12,125
+I have no grand delusions
+that I could ever stop you.
+
+180
+00:09:19,708 --> 00:09:20,875
+[FROST]
+And I make it a rule
+
+181
+00:09:20,958 --> 00:09:24,000
+not to waste time
+fighting the inevitable.
+
+182
+00:09:24,083 --> 00:09:25,041
+[FROST grunts]
+
+183
+00:09:25,125 --> 00:09:27,416
+[screams]
+
+184
+00:09:29,291 --> 00:09:32,333
+[FROST screams]
+I won't let you take me out!
+
+185
+00:09:33,833 --> 00:09:35,041
+[gasps]
+
+186
+00:09:36,416 --> 00:09:37,291
+[HIT grunts]
+
+187
+00:09:37,375 --> 00:09:38,625
+[gasps]
+
+188
+00:09:41,375 --> 00:09:44,291
+[FROST]
+Oh, come on.
+
+189
+00:09:45,416 --> 00:09:46,916
+[FROST]
+Huh?
+
+190
+00:09:47,000 --> 00:09:50,458
+For a moment there, Frost, you
+fought like you really meant it.
+
+191
+00:09:50,541 --> 00:09:53,125
+You've improved mightily.
+
+192
+00:09:53,208 --> 00:09:58,083
+It appears living life on the
+lam has sharpened your skills.
+
+193
+00:09:58,166 --> 00:10:01,750
+But I don't understand, why
+are you showing me such mercy?
+
+194
+00:10:01,833 --> 00:10:03,708
+I'm here at Champa's request.
+
+195
+00:10:03,791 --> 00:10:05,791
+To pass along an invitation.
+
+196
+00:10:05,875 --> 00:10:07,291
+[FROST]
+Hm?
+
+197
+00:10:07,375 --> 00:10:10,291
+[HIT] The Omni-King is holding
+a martial arts tournament,
+
+198
+00:10:10,375 --> 00:10:13,750
+and you were personally selected
+to be one of the ten warriors
+
+199
+00:10:13,833 --> 00:10:17,291
+who will represent
+the 6th Universe there.
+
+200
+00:10:17,375 --> 00:10:18,625
+We could really use somebody
+
+201
+00:10:18,708 --> 00:10:21,416
+with survival instincts
+as keen as yours.
+
+202
+00:10:21,500 --> 00:10:24,708
+Or at least that's what
+Lord Champa said.
+
+203
+00:10:24,791 --> 00:10:27,166
+[FROST exhales]
+I see.
+
+204
+00:10:27,250 --> 00:10:29,333
+All right, come with me.
+
+205
+00:10:29,416 --> 00:10:31,291
+If you refuse, then
+I'll have no choice but
+
+206
+00:10:31,375 --> 00:10:32,791
+to kill you right here.
+
+207
+00:10:32,875 --> 00:10:35,500
+Oh, don't be preposterous.
+I wouldn't dream of refusing.
+
+208
+00:10:35,583 --> 00:10:37,666
+In fact, I will
+gladly take part.
+
+209
+00:10:37,750 --> 00:10:39,791
+After all, this is
+an opportunity for me
+
+210
+00:10:39,875 --> 00:10:41,333
+to restore my honor.
+
+211
+00:10:41,416 --> 00:10:43,291
+[chuckles]
+
+212
+00:10:43,375 --> 00:10:46,375
+Only thing is, you can't use
+your little poison needles.
+
+213
+00:10:46,458 --> 00:10:50,416
+Violate the rules, and you'll
+be eliminated on the spot.
+
+214
+00:10:50,500 --> 00:10:52,916
+Eliminated, huh?
+
+215
+00:10:54,958 --> 00:10:56,291
+Now let's go.
+
+216
+00:10:56,375 --> 00:10:57,375
+[FROST]
+Gladly.
+
+217
+00:10:57,458 --> 00:10:59,041
+And if it comes down to it,
+
+218
+00:10:59,125 --> 00:11:02,333
+I'll risk my life for
+the sake of my universe.
+
+219
+00:11:02,416 --> 00:11:03,583
+[HIT]
+We'll see.
+
+220
+00:11:03,666 --> 00:11:05,333
+Just be sure to remove
+the poison needles
+
+221
+00:11:05,416 --> 00:11:07,541
+from your heels, too.
+
+222
+00:11:07,625 --> 00:11:09,916
+You don't miss anything, do you?
+
+223
+00:11:10,000 --> 00:11:11,916
+[chuckles]
+
+224
+00:11:23,041 --> 00:11:25,041
+Try the Capsule
+Corporation's latest--
+
+225
+00:11:25,125 --> 00:11:27,291
+I love you more than
+the day I first met--
+
+226
+00:11:27,375 --> 00:11:29,208
+...for our top
+story tonight--
+
+227
+00:11:29,291 --> 00:11:30,791
+[sighs]
+
+228
+00:11:30,875 --> 00:11:32,791
+What's taking them so long?
+
+229
+00:11:32,875 --> 00:11:35,375
+Oh, they're probably just
+saving the best for last.
+
+230
+00:11:35,458 --> 00:11:36,250
+Yeah.
+
+231
+00:11:36,333 --> 00:11:37,708
+--[knocking]
+--[ROSHI] Hey!
+
+232
+00:11:37,791 --> 00:11:39,166
+[BOTH]
+Huh?
+
+233
+00:11:39,250 --> 00:11:41,541
+Hey, Yamcha, get your butt
+up to the roof, right away!
+
+234
+00:11:41,625 --> 00:11:44,166
+There's something
+important I gotta ask ya.
+
+235
+00:11:44,250 --> 00:11:47,166
+Hurry up, old geezer.
+You're gettin' heavy! C'mon!
+
+236
+00:11:47,250 --> 00:11:48,916
+It's Master Roshi. I knew it!
+
+237
+00:11:49,000 --> 00:11:51,041
+My invitation to the
+tournament's finally here,
+
+238
+00:11:51,125 --> 00:11:52,666
+and in suitably
+dramatic fashion!
+
+239
+00:11:52,750 --> 00:11:55,791
+I knew your patience would be
+rewarded eventually, old pal!
+
+240
+00:11:55,875 --> 00:11:57,416
+[BOTH laugh]
+
+241
+00:11:57,500 --> 00:11:59,583
+[YAMCHA]
+What? You want Puar?
+
+242
+00:11:59,666 --> 00:12:01,083
+[BOTH gasping]
+
+243
+00:12:01,166 --> 00:12:02,291
+Yup, that's right.
+
+244
+00:12:02,375 --> 00:12:04,125
+I need Puar to transform himself
+
+245
+00:12:04,208 --> 00:12:06,125
+into a beautiful,
+spunky girl for me.
+
+246
+00:12:06,208 --> 00:12:08,583
+Okay, and why in the world
+would you need that?
+
+247
+00:12:08,666 --> 00:12:11,208
+You sweet, simple boy.
+
+248
+00:12:12,458 --> 00:12:15,541
+[ROSHI] As great as I am,
+I still have one weakness.
+
+249
+00:12:15,625 --> 00:12:18,083
+And now I wish to
+overcome that flaw.
+
+250
+00:12:18,166 --> 00:12:20,166
+The insatiable
+thirst that consumes
+
+251
+00:12:20,250 --> 00:12:21,916
+my overly amorous heart.
+
+252
+00:12:22,000 --> 00:12:23,583
+[gasping]
+
+253
+00:12:23,666 --> 00:12:24,666
+[YAMCHA laughs]
+
+254
+00:12:24,750 --> 00:12:26,666
+[YAMCHA]
+Pretty sure that's not possible.
+
+255
+00:12:26,750 --> 00:12:29,916
+If you need a shape-shifter,
+ask Oolong!
+
+256
+00:12:30,000 --> 00:12:32,083
+Well, for some reason,
+he refused.
+
+257
+00:12:32,166 --> 00:12:34,125
+One time I was trying
+to get back at Bulma
+
+258
+00:12:34,208 --> 00:12:35,833
+and may have taken things
+a little too far.
+
+259
+00:12:35,916 --> 00:12:37,375
+I don't wanna get into details,
+
+260
+00:12:37,458 --> 00:12:39,750
+but the whole thing left
+me mildly traumatized.
+
+261
+00:12:39,833 --> 00:12:42,375
+I want to be nice,
+Yamcha, but also, ew.
+
+262
+00:12:42,458 --> 00:12:44,750
+Gee, Puar, I'm sorry, but it
+sounds like Master Roshi
+
+263
+00:12:44,833 --> 00:12:46,708
+could really use your
+help right now.
+
+264
+00:12:46,791 --> 00:12:48,208
+I think you should do it.
+
+265
+00:12:48,291 --> 00:12:52,791
+[whines]
+
+266
+00:12:52,875 --> 00:12:55,000
+[ROSHI laughs]
+
+267
+00:12:55,083 --> 00:12:58,625
+[PUAR] Please! Keep your
+hands to yourself!
+
+268
+00:12:58,708 --> 00:13:01,666
+[ROSHI screams]
+Guess I'm not cured yet.
+
+269
+00:13:01,750 --> 00:13:02,750
+Let's try again.
+
+270
+00:13:02,833 --> 00:13:04,375
+[PUAR]
+Hey! Watch it, would ya!
+
+271
+00:13:04,458 --> 00:13:06,458
+That is not okay!
+
+272
+00:13:06,541 --> 00:13:09,041
+--[ROSHI laughs]
+--[PUAR whines]
+
+273
+00:13:09,125 --> 00:13:10,500
+[OOLONG sighs]
+
+274
+00:13:10,583 --> 00:13:12,750
+[ROSHI] Look, I'm trying,
+toots, but I can't help it!
+
+275
+00:13:12,833 --> 00:13:14,625
+[ROSHI screams]
+
+276
+00:13:14,708 --> 00:13:15,666
+[ROSHI groans]
+
+277
+00:13:15,750 --> 00:13:16,500
+[ROSHI chuckles]
+
+278
+00:13:16,583 --> 00:13:17,833
+I'm sorry! It's no use!
+
+279
+00:13:17,916 --> 00:13:20,625
+My grabby little hands
+have a mind of their own!
+
+280
+00:13:20,708 --> 00:13:23,375
+[PUAR] Does this really
+qualify as training?!
+
+281
+00:13:23,458 --> 00:13:24,916
+[PUAR yelps]
+
+282
+00:13:25,000 --> 00:13:28,208
+Is it cool if I jet? This is
+resurfacing a lotta memories.
+
+283
+00:13:28,291 --> 00:13:30,541
+--Uh, wait, before you go...
+--[OOLONG grunts]
+
+284
+00:13:30,625 --> 00:13:32,708
+At some point, they are gonna
+ask me to join the team
+
+285
+00:13:32,791 --> 00:13:33,916
+for the tournament, right?
+
+286
+00:13:34,000 --> 00:13:35,375
+I mean, surely they
+have to want me there?
+
+287
+00:13:35,458 --> 00:13:38,000
+Uh, yeah, I'm sure they'll
+get around to it.
+
+288
+00:13:38,083 --> 00:13:38,916
+Eventually.
+
+289
+00:13:39,000 --> 00:13:39,791
+[YAMCHA]
+Wha...?
+
+290
+00:13:39,875 --> 00:13:41,875
+[GOKU yells]
+
+291
+00:13:43,041 --> 00:13:49,833
+[GOKU grunting]
+
+292
+00:13:51,541 --> 00:13:52,958
+[WHIS]
+Interesting.
+
+293
+00:13:53,041 --> 00:13:55,250
+You keep leaving your
+side open to an attack.
+
+294
+00:13:55,333 --> 00:13:57,041
+[GOKU grunts]
+
+295
+00:14:00,291 --> 00:14:02,750
+Hey, wait!
+I recognize this move!
+
+296
+00:14:03,958 --> 00:14:05,708
+That won't work on me!
+
+297
+00:14:05,791 --> 00:14:07,000
+[WHIS groans]
+
+298
+00:14:07,083 --> 00:14:08,250
+[GOKU grunts]
+
+299
+00:14:11,166 --> 00:14:14,083
+[WHIS] My goodness,
+is nothing beneath you?
+
+300
+00:14:14,166 --> 00:14:16,541
+[GOKU laughs]
+Sorry about that, Whis.
+
+301
+00:14:16,625 --> 00:14:18,041
+You asked for it!
+
+302
+00:14:18,125 --> 00:14:20,875
+You reminded me of that guy,
+Top, and it set me on fire!
+
+303
+00:14:20,958 --> 00:14:24,666
+[GOKU yells]
+
+304
+00:14:24,750 --> 00:14:27,916
+Okay, now I say we start
+fighting for real!
+
+305
+00:14:31,958 --> 00:14:34,458
+[BAR PATRONS chatter]
+
+306
+00:14:38,333 --> 00:14:40,166
+[TOP]
+Hmm...
+
+307
+00:14:48,500 --> 00:14:51,500
+[DISPO]
+Why isn't the general here yet?
+
+308
+00:14:53,250 --> 00:14:55,375
+[TOP]
+Hmm... I don't know.
+
+309
+00:14:55,458 --> 00:14:58,375
+I called him,
+but still no response.
+
+310
+00:14:58,458 --> 00:15:01,333
+Casserale, come in.
+
+311
+00:15:01,416 --> 00:15:02,791
+[alarm blares]
+
+312
+00:15:02,875 --> 00:15:04,125
+[TOP]
+This is Top.
+
+313
+00:15:04,208 --> 00:15:07,958
+Once again, I'm issuing an
+emergency return order.
+
+314
+00:15:08,041 --> 00:15:10,250
+Casserale, come in.
+
+315
+00:15:11,083 --> 00:15:12,625
+[SPACE CAT 91A whimpers]
+
+316
+00:15:12,708 --> 00:15:13,708
+[CASSERALE grunts]
+
+317
+00:15:14,958 --> 00:15:17,875
+[TOP sighs]
+Casserale! Come in!
+
+318
+00:15:17,958 --> 00:15:20,041
+I'm on an important
+mission, sir.
+
+319
+00:15:20,125 --> 00:15:21,500
+I can't leave till it's done!
+
+320
+00:15:21,583 --> 00:15:23,208
+This is an emergency!
+
+321
+00:15:23,291 --> 00:15:25,416
+The fate of the universe
+is at stake here!
+
+322
+00:15:25,500 --> 00:15:28,541
+I know, but if I can't even save
+the life right in front of me,
+
+323
+00:15:28,625 --> 00:15:32,333
+then how am I supposed to
+save the entire universe?
+
+324
+00:15:32,416 --> 00:15:34,333
+Bah! He hung up on us!
+
+325
+00:15:34,416 --> 00:15:36,000
+I'm sure he couldn't help it.
+
+326
+00:15:36,083 --> 00:15:38,375
+Whatever he's doing,
+it must be important.
+
+327
+00:15:38,458 --> 00:15:39,875
+[CASSERALE grunting]
+
+328
+00:15:39,958 --> 00:15:41,416
+[growls]
+
+329
+00:15:41,500 --> 00:15:45,166
+Obviously, I could just leap
+up there and grab her, but...
+
+330
+00:15:45,250 --> 00:15:48,500
+If I startle her and she
+touches that power line--
+
+331
+00:15:48,583 --> 00:15:50,708
+I can't take that risk!
+
+332
+00:15:52,666 --> 00:15:54,250
+[GRAND MINISTER]
+The fighters from the 11th.
+
+333
+00:15:54,333 --> 00:15:57,041
+One of whom battled against
+Goku in the Zeno Expo,
+
+334
+00:15:57,125 --> 00:15:59,541
+could also potentially
+win the tournament.
+
+335
+00:15:59,625 --> 00:16:02,666
+Top and his compatriots
+are incredibly strong warriors,
+
+336
+00:16:02,750 --> 00:16:04,250
+not to mention, on
+a personal level,
+
+337
+00:16:04,333 --> 00:16:05,875
+they're of
+outstanding character.
+
+338
+00:16:05,958 --> 00:16:07,500
+Oh, that's right, I forgot.
+
+339
+00:16:07,583 --> 00:16:10,458
+Yes, then the 11th team
+might be the winners instead.
+
+340
+00:16:10,541 --> 00:16:12,208
+[GRAND MINISTER]
+On the other hand,
+
+341
+00:16:12,291 --> 00:16:15,041
+the 11th Universe's counterpart,
+the 2nd Universe,
+
+342
+00:16:15,125 --> 00:16:17,083
+could also be a
+formidable contender.
+
+343
+00:16:17,166 --> 00:16:20,083
+It's a most exotic and
+fascinating locale, sires.
+
+344
+00:16:20,166 --> 00:16:21,125
+[music plays]
+
+345
+00:16:21,208 --> 00:16:22,291
+[CROWD chattering]
+
+346
+00:16:22,375 --> 00:16:24,125
+[BRIANNE]
+Attention, ladies and gentlemen!
+
+347
+00:16:24,208 --> 00:16:26,625
+I'm gonna try my
+darnedest to be chosen
+
+348
+00:16:26,708 --> 00:16:29,125
+as one of the 2nd
+Universe's Idol Warriors!
+
+349
+00:16:29,208 --> 00:16:30,375
+Don't even start.
+
+350
+00:16:30,458 --> 00:16:32,208
+[BOTH]
+Huh?
+
+351
+00:16:32,291 --> 00:16:33,500
+Did you get lost on the way
+
+352
+00:16:33,583 --> 00:16:35,541
+to the pop idol auditions,
+miss thang?
+
+353
+00:16:35,625 --> 00:16:38,500
+'Cause these are tryouts for a
+martial arts tournament, sugar.
+
+354
+00:16:38,583 --> 00:16:42,333
+This ain't your scene, girl,
+so keep on walking, m'kay!
+
+355
+00:16:42,416 --> 00:16:45,291
+Oh, I'm sorry,
+were you talking to me?
+
+356
+00:16:45,375 --> 00:16:47,916
+For future reference,
+I'm Brianne de Chateau.
+
+357
+00:16:48,000 --> 00:16:49,916
+[BOTH gasp]
+
+358
+00:16:50,000 --> 00:16:52,041
+And as you'll see...
+
+359
+00:16:53,041 --> 00:16:56,291
+...I'm stronger than the
+both of you put together.
+
+360
+00:16:56,375 --> 00:16:57,750
+[BRIANNE laughs]
+
+361
+00:16:57,833 --> 00:16:59,625
+[BRIANNE]
+Formation!
+
+362
+00:17:01,833 --> 00:17:04,458
+Brianne! Brianne!
+
+363
+00:17:04,541 --> 00:17:06,041
+Bri-Brianne!
+
+364
+00:17:06,125 --> 00:17:11,083
+♪♪♪
+
+365
+00:17:24,791 --> 00:17:26,708
+[RIBRIANNE]
+Happiness to one and all!
+
+366
+00:17:26,791 --> 00:17:28,875
+I send you my love!
+
+367
+00:17:28,958 --> 00:17:32,000
+Ribrianne! [laughs]
+
+368
+00:17:32,083 --> 00:17:36,291
+My transformation
+is complete!
+
+369
+00:17:36,375 --> 00:17:38,000
+Now, brace yourselves!
+
+370
+00:17:38,083 --> 00:17:40,166
+It's time for your punishment!
+
+371
+00:17:40,250 --> 00:17:43,916
+Prepare to receive
+my feelings for you!
+
+372
+00:17:48,708 --> 00:17:50,666
+[RIBRIANNE]
+Pretty...
+
+373
+00:17:50,750 --> 00:17:52,333
+...Cannon.
+
+374
+00:17:54,791 --> 00:17:57,416
+[BOTH gasping]
+
+375
+00:18:03,125 --> 00:18:06,166
+All you good boys and girls,
+don't try this at home, 'kay!
+
+376
+00:18:06,250 --> 00:18:07,833
+[RIBRIANNE laughs]
+
+377
+00:18:09,041 --> 00:18:10,583
+[ZENOES]
+'Kay!
+
+378
+00:18:10,666 --> 00:18:12,625
+Uh? Heh.
+
+379
+00:18:12,708 --> 00:18:14,791
+She's a good reminder
+that we should keep an eye
+
+380
+00:18:14,875 --> 00:18:16,750
+on the strong women
+of each universe, too.
+
+381
+00:18:16,833 --> 00:18:18,250
+Ooh, that's a great point!
+
+382
+00:18:18,333 --> 00:18:20,375
+I'm feeling even
+more excited now!
+
+383
+00:18:20,458 --> 00:18:22,875
+And moving on to
+Universe Number 10...
+
+384
+00:18:22,958 --> 00:18:25,708
+It appears they have assembled
+a full team, as well.
+
+385
+00:18:25,791 --> 00:18:27,833
+And by the looks of it, they
+seem to be doing something
+
+386
+00:18:27,916 --> 00:18:31,458
+most amusing in order to foster
+unity among their team members.
+
+387
+00:18:31,541 --> 00:18:33,583
+[music plays]
+
+388
+00:18:33,666 --> 00:18:35,208
+[GOWASU]
+Hmm...
+
+389
+00:18:37,916 --> 00:18:40,875
+Yay! Woo-hoo!
+
+390
+00:18:40,958 --> 00:18:43,583
+How's it look?!
+Everyone in sync?
+
+391
+00:18:43,666 --> 00:18:45,458
+[GOWASU]
+Looks fantastic!
+
+392
+00:18:45,541 --> 00:18:49,375
+I bet this "We Dancing" video
+featuring our mighty warriors
+
+393
+00:18:49,458 --> 00:18:53,625
+breaking it down will get us
+billions of views on GodTube.
+
+394
+00:18:53,708 --> 00:18:56,250
+[KUSU laughing]
+
+395
+00:18:56,333 --> 00:18:58,291
+[ZENOES laughing]
+
+396
+00:18:58,375 --> 00:19:00,291
+Wow, this dance
+is so much fun!
+
+397
+00:19:00,375 --> 00:19:02,708
+I can't wait for the
+tournament to begin now!
+
+398
+00:19:02,791 --> 00:19:04,791
+[GRAND MINISTER]
+Yes, I thought you'd like that.
+
+399
+00:19:04,875 --> 00:19:06,291
+Oh, dear.
+
+400
+00:19:06,375 --> 00:19:08,791
+It appears there's a problem
+brewing in Goku's universe.
+
+401
+00:19:08,875 --> 00:19:10,625
+Huh? What is it? What is it?
+
+402
+00:19:10,708 --> 00:19:13,875
+Oh, no, did something
+happen to Goku?
+
+403
+00:19:15,750 --> 00:19:17,375
+[sighs]
+
+404
+00:19:17,458 --> 00:19:20,208
+[laughs] Man, I worked
+up a good sweat!
+
+405
+00:19:20,291 --> 00:19:22,500
+Thanks, Whis, you really
+put me through my paces.
+
+406
+00:19:22,583 --> 00:19:24,500
+You're quite welcome.
+It was my pleasure.
+
+407
+00:19:24,583 --> 00:19:26,333
+Nothing like a
+well-earned treat
+
+408
+00:19:26,416 --> 00:19:28,166
+after a grueling
+workout, am I right?
+
+409
+00:19:28,250 --> 00:19:31,166
+Oh? Did you work out while
+we were training, sir?
+
+410
+00:19:35,250 --> 00:19:37,291
+As far as our general
+strategy goes,
+
+411
+00:19:37,375 --> 00:19:38,708
+I think we should hunker down
+
+412
+00:19:38,791 --> 00:19:40,833
+in the center so we're not
+forced out of the ring.
+
+413
+00:19:40,916 --> 00:19:42,250
+That makes sense,
+
+414
+00:19:42,333 --> 00:19:44,583
+but I fear all the other teams
+will have the same idea.
+
+415
+00:19:44,666 --> 00:19:47,583
+Thus the center will likely be
+the most intensive battle zone.
+
+416
+00:19:47,666 --> 00:19:50,000
+Yeah, I guess you're right.
+
+417
+00:19:56,708 --> 00:19:58,833
+[BULLA breathes]
+
+418
+00:19:58,916 --> 00:20:00,541
+[BULMA laughs]
+
+419
+00:20:00,625 --> 00:20:03,583
+[phone vibrates]
+
+420
+00:20:03,666 --> 00:20:06,250
+[BULMA]
+Wonder what he wants...
+
+421
+00:20:06,333 --> 00:20:08,166
+Hey, what's goin' on?
+
+422
+00:20:09,833 --> 00:20:12,291
+"The Tournament of Power"?
+Never heard of it, but yeah,
+
+423
+00:20:12,375 --> 00:20:15,041
+Goku sure loves those
+competitions doesn't he?
+
+424
+00:20:15,125 --> 00:20:16,500
+Uh-huh. Yeah.
+
+425
+00:20:16,583 --> 00:20:19,416
+All right. Don't worry,
+I heard ya, loud and clear.
+
+426
+00:20:19,500 --> 00:20:21,750
+Yeah, I'll go tell
+everyone right now.
+
+427
+00:20:23,250 --> 00:20:26,458
+Uh, hey, everybody, I just got
+off the phone with Mr. Satan.
+
+428
+00:20:26,541 --> 00:20:29,583
+What is it, Bulma?
+Is there something wrong?
+
+429
+00:20:29,666 --> 00:20:31,041
+He said that Buu won't be able
+
+430
+00:20:31,125 --> 00:20:33,083
+to enter your Tournament
+thingy after all.
+
+431
+00:20:33,166 --> 00:20:34,333
+Uh!
+
+432
+00:20:34,416 --> 00:20:36,625
+Apparently he fell asleep
+and won't wake up.
+
+433
+00:20:36,708 --> 00:20:37,833
+[gasping]
+
+434
+00:20:37,916 --> 00:20:39,208
+From what Mister Satan said,
+
+435
+00:20:39,291 --> 00:20:41,208
+it sounds like he's
+hibernating or something
+
+436
+00:20:41,291 --> 00:20:43,875
+and could be in a deep sleep
+for another two months.
+
+437
+00:20:43,958 --> 00:20:44,958
+Now what?
+
+438
+00:20:45,041 --> 00:20:47,041
+This puts us in a
+tricky spot, Dad.
+
+439
+00:20:47,125 --> 00:20:49,916
+I'll go over to Buu's place
+and see what I can do.
+
+440
+00:20:50,000 --> 00:20:51,291
+Well, it's worth a shot.
+
+441
+00:20:51,375 --> 00:20:52,583
+Wait, I'll come with you.
+
+442
+00:20:52,666 --> 00:20:54,750
+I'll make sure that
+pink puffball wakes up,
+
+443
+00:20:54,833 --> 00:20:56,458
+even if I have to
+knock him senseless.
+
+444
+00:20:56,541 --> 00:20:57,375
+Hey, Whis.
+
+445
+00:20:57,458 --> 00:20:58,958
+Am I remembering it wrong,
+
+446
+00:20:59,041 --> 00:21:01,750
+or did that lazy slob fall
+asleep and leave us down
+
+447
+00:21:01,833 --> 00:21:04,583
+a man at that little tournament
+we had with Champa?
+
+448
+00:21:04,666 --> 00:21:07,291
+Yes. It was just as you've
+described it, my lord.
+
+449
+00:21:07,375 --> 00:21:09,125
+How dare he embarrass me again
+
+450
+00:21:09,208 --> 00:21:11,875
+by pulling that same
+nonsense a second time!
+
+451
+00:21:11,958 --> 00:21:14,250
+I will not let him
+get away with that!
+
+452
+00:21:14,333 --> 00:21:17,166
+Besides, that ill-mannered
+glutton's been on my bad side
+
+453
+00:21:17,250 --> 00:21:18,750
+ever since "the
+pudding incident"!
+
+454
+00:21:18,833 --> 00:21:21,875
+Oh my, you're still holding a
+grudge against him over that?
+
+455
+00:21:21,958 --> 00:21:24,833
+[BEERUS]
+Let's go! Now, Goku!
+
+456
+00:21:26,916 --> 00:21:29,000
+[BULMA]
+He... already left.
+
+457
+00:21:29,083 --> 00:21:30,208
+[BEERUS grunts]
+
+458
+00:21:34,416 --> 00:21:36,000
+[NARRATOR]
+The 7th Universe team
+
+459
+00:21:36,083 --> 00:21:39,500
+now finds itself in a
+perilous situation.
+
+460
+00:21:39,583 --> 00:21:43,833
+Will Buu's sleeping habits leave
+them down a member?
+
+461
+00:21:43,916 --> 00:21:47,458
+Time is running out, with only
+four hours and ten minutes
+
+462
+00:21:47,541 --> 00:21:50,125
+to go until the
+tournament begins.
+
+463
+00:21:50,208 --> 00:21:54,958
+Think quickly, Goku.
+What are you going to do?
+
+464
+00:21:57,083 --> 00:21:59,250
+<i>Boogie Back!</i>
+
+465
+00:22:06,833 --> 00:22:10,375
+<i>Wish we had better timing</i>
+
+466
+00:22:10,458 --> 00:22:14,208
+<i>To explore this attraction</i>
+
+467
+00:22:14,291 --> 00:22:17,583
+<i>Put on a smile, it's showtime</i>
+
+468
+00:22:17,666 --> 00:22:21,250
+<i>And I'm just playing a part</i>
+
+469
+00:22:21,333 --> 00:22:25,291
+<i>Let's get lost in the rhythm,</i>
+<i>dancing dancing heart</i>
+
+470
+00:22:25,375 --> 00:22:28,416
+<i>Head over heels</i>
+<i>I'm falling falling down</i>
+
+471
+00:22:28,500 --> 00:22:29,500
+<i>(Boogie Back!)</i>
+
+472
+00:22:29,583 --> 00:22:32,125
+<i>My heartbeat</i>
+<i>keeps growing faster</i>
+
+473
+00:22:32,208 --> 00:22:35,875
+<i>Every step that I take</i>
+<i>brings me back to you</i>
+
+474
+00:22:35,958 --> 00:22:36,875
+<i>(Boogie Back!)</i>
+
+475
+00:22:36,958 --> 00:22:39,541
+<i>Give me happy ever after</i>
+
+476
+00:22:39,625 --> 00:22:44,375
+<i>Let the dream</i>
+<i>of our love come true</i>
+
+477
+00:22:44,458 --> 00:22:46,250
+<i>Boogie Back!</i>
+
+478
+00:22:46,333 --> 00:22:48,083
+<i>Boogie Back!</i>
+
+479
+00:22:51,875 --> 00:22:53,708
+<i>Boogie Back!</i>
+
+480
+00:22:53,791 --> 00:22:55,666
+<i>Boogie Back!</i>
+
+481
+00:23:00,500 --> 00:23:02,166
+[GOKU]
+Hey, it's me, Goku!
+
+482
+00:23:02,250 --> 00:23:03,750
+If history's taught me anything,
+
+483
+00:23:03,833 --> 00:23:05,791
+it's that nothing
+can wake up Buu.
+
+484
+00:23:05,875 --> 00:23:07,583
+And without him,
+we don't stand a chance
+
+485
+00:23:07,666 --> 00:23:09,791
+in the Tournament of Power.
+
+486
+00:23:09,875 --> 00:23:13,666
+Oh no, now Krillin and 18
+are backin' out, too?
+
+487
+00:23:13,750 --> 00:23:15,125
+Well, that's no good!
+
+488
+00:23:15,208 --> 00:23:18,500
+At this rate, our universe
+will be wiped out for sure!
+
+489
+00:23:18,583 --> 00:23:20,791
+Next time, on Dragon Ball Super:
+
+490
+00:23:20,875 --> 00:23:24,416
+"A State of Emergency!
+Failure to Reach Ten Members!"
+
+491
+00:23:24,500 --> 00:23:26,791
+Make sure you
+don't miss it, okay?
+

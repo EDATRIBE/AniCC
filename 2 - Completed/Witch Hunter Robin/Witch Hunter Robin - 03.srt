@@ -1,0 +1,1431 @@
+﻿1
+00:00:28,666 --> 00:00:31,916
+[MAN panting]
+
+2
+00:00:35,583 --> 00:00:36,750
+[panting]
+
+3
+00:00:36,833 --> 00:00:40,000
+[footsteps]
+
+4
+00:00:42,708 --> 00:00:43,833
+[gasps]
+
+5
+00:00:49,333 --> 00:00:52,875
+[MAN yelps]
+
+6
+00:00:52,958 --> 00:00:57,916
+[MAN grunting]
+
+7
+00:01:12,625 --> 00:01:17,208
+[phone rings]
+
+8
+00:01:17,291 --> 00:01:19,208
+[ROBIN]
+Hello?
+
+9
+00:01:19,291 --> 00:01:20,541
+Michael...
+
+10
+00:01:21,833 --> 00:01:23,708
+[ROBIN]
+A strange corpse?
+
+11
+00:01:23,791 --> 00:01:25,708
+[MICHAEL]
+It's 4:20 right now.
+
+12
+00:01:25,791 --> 00:01:28,250
+Be at the office by five, okay?
+
+13
+00:03:09,541 --> 00:03:11,583
+[COP A] All right,
+I just got confirmation
+
+14
+00:03:11,666 --> 00:03:14,041
+from our commander.
+We can't touch this case.
+
+15
+00:03:14,125 --> 00:03:15,416
+[COP B]
+How come?
+
+16
+00:03:15,500 --> 00:03:18,541
+[COP A] It's officially been
+turned over to the STNJ.
+
+17
+00:03:18,625 --> 00:03:20,791
+[COP B]
+Is it that strange a corpse?
+
+18
+00:03:20,875 --> 00:03:23,333
+[COP A] Apparently, it's all
+shriveled up like a mummy.
+
+19
+00:03:23,416 --> 00:03:24,875
+[COP B]
+I see.
+
+20
+00:03:24,958 --> 00:03:26,958
+What are those guys
+doin' in there?
+
+21
+00:03:28,958 --> 00:03:31,541
+[SAKAKI] The guys from
+the Factory sure are late.
+
+22
+00:03:31,625 --> 00:03:33,333
+We're never gonna be able
+to figure anything out
+
+23
+00:03:33,416 --> 00:03:37,125
+just standin' around lookin' at
+a mummified corpse like this.
+
+24
+00:03:37,208 --> 00:03:40,250
+Robin! Don't mess up the
+crime scene, all right?
+
+25
+00:03:42,916 --> 00:03:44,541
+[KARASUMA]
+Amon...
+
+26
+00:03:44,625 --> 00:03:46,833
+I talked to the police and
+look what they gave me.
+
+27
+00:03:46,916 --> 00:03:50,208
+They picked up this
+licence near the corpse.
+
+28
+00:03:50,291 --> 00:03:53,541
+Haruo Katayama, 22 years old.
+
+29
+00:03:53,625 --> 00:03:56,250
+Old-lookin' corpse
+for a 22-year-old.
+
+30
+00:03:56,333 --> 00:03:59,000
+Do you think this
+is the same guy?
+
+31
+00:03:59,083 --> 00:04:01,291
+[AMON] We'll have to wait
+for the Factory to tell us.
+
+32
+00:04:03,583 --> 00:04:05,208
+[SAKAKI]
+Hey!
+
+33
+00:04:05,291 --> 00:04:06,750
+I told you,
+don't touch anything!
+
+34
+00:04:06,833 --> 00:04:08,625
+[ROBIN]
+Something's here.
+
+35
+00:04:19,916 --> 00:04:22,208
+[ROBIN]
+An insect.
+
+36
+00:04:22,291 --> 00:04:24,416
+[SAKAKI] I'm sure Dojima
+is ditchin' again.
+
+37
+00:04:24,500 --> 00:04:26,291
+I'll bet she's still not here.
+
+38
+00:04:29,041 --> 00:04:30,791
+Oh, there she is.
+
+39
+00:04:30,875 --> 00:04:32,791
+She's goofin' off again!
+
+40
+00:04:34,833 --> 00:04:38,375
+[SAKAKI] Jeez, what are they
+up to? This is stupid.
+
+41
+00:04:47,250 --> 00:04:48,166
+[ROBIN]
+What is it?
+
+42
+00:04:48,250 --> 00:04:49,625
+Well, it looks
+as though somebody
+
+43
+00:04:49,708 --> 00:04:52,291
+is trying to hack their way
+into the STN computer.
+
+44
+00:04:52,375 --> 00:04:53,500
+It's all right.
+
+45
+00:04:53,583 --> 00:04:55,500
+My security firewall
+is just about perfect.
+
+46
+00:04:55,583 --> 00:04:57,166
+There's nobody that could
+break through it.
+
+47
+00:04:57,250 --> 00:04:58,416
+But if they do,
+
+48
+00:04:58,500 --> 00:05:00,000
+he's got a collar
+around his neck for life,
+
+49
+00:05:00,083 --> 00:05:01,666
+like you-know-who.
+
+50
+00:05:03,708 --> 00:05:06,333
+It's always the same, isn't it?
+
+51
+00:05:06,416 --> 00:05:09,125
+Uh, Hattori, what happened to
+those files you were getting?
+
+52
+00:05:09,208 --> 00:05:10,833
+Um y-yes, those files.
+
+53
+00:05:10,916 --> 00:05:14,458
+I was just, uh...
+They're right over, uh...
+
+54
+00:05:14,541 --> 00:05:16,333
+[AMON]
+What are you doing?
+
+55
+00:05:16,416 --> 00:05:18,625
+Michael, let's go.
+There's a meeting.
+
+56
+00:05:27,791 --> 00:05:29,958
+He's such a pain.
+
+57
+00:05:33,458 --> 00:05:35,125
+[KARASUMA] Mummified corpses,
+similar to the one
+
+58
+00:05:35,208 --> 00:05:36,291
+we found, have been reported
+
+59
+00:05:36,375 --> 00:05:38,333
+in two other places
+in the region.
+
+60
+00:05:38,416 --> 00:05:40,166
+The victims are
+a 33-year-old male
+
+61
+00:05:40,250 --> 00:05:41,875
+and a 28-year-old female.
+
+62
+00:05:41,958 --> 00:05:44,041
+Furthermore, DNA testing
+has confirmed that
+
+63
+00:05:44,125 --> 00:05:46,041
+the body from this morning
+is that of the person
+
+64
+00:05:46,125 --> 00:05:48,125
+pictured on the
+license we found.
+
+65
+00:05:48,208 --> 00:05:50,041
+Their powers hadn't
+yet awakened,
+
+66
+00:05:50,125 --> 00:05:52,583
+but all of the victims
+were descendants of witches
+
+67
+00:05:52,666 --> 00:05:54,541
+that are registered
+in our database.
+
+68
+00:05:54,625 --> 00:05:56,208
+They were all witches?
+
+69
+00:05:56,291 --> 00:05:57,416
+[AMON]
+Michael.
+
+70
+00:05:58,750 --> 00:06:01,750
+In an old file left by
+the forerunner of STNJ,
+
+71
+00:06:01,833 --> 00:06:04,791
+I found several similar
+mummified body incidents.
+
+72
+00:06:04,875 --> 00:06:07,333
+Hundred and twenty years ago
+in Europe, 80 years ago
+
+73
+00:06:07,416 --> 00:06:10,708
+in Japan, and 40 years
+ago in the USA.
+
+74
+00:06:10,791 --> 00:06:13,958
+All the victims were witches
+or decendents of witches.
+
+75
+00:06:14,041 --> 00:06:15,125
+Back then, it was
+determined that
+
+76
+00:06:15,208 --> 00:06:17,500
+it was caused by a
+certain kind of witch,
+
+77
+00:06:17,583 --> 00:06:21,041
+and in the case 80 years ago,
+they even found a suspect.
+
+78
+00:06:21,125 --> 00:06:22,958
+There was a suspect?
+
+79
+00:06:24,500 --> 00:06:26,625
+[DOJIMA] Hey, he's a
+pretty good looking guy.
+
+80
+00:06:26,708 --> 00:06:29,083
+Kazuma Kurata.
+He was 30 years old.
+
+81
+00:06:29,166 --> 00:06:31,000
+Kurata went missing
+when his boat vanished
+
+82
+00:06:31,083 --> 00:06:34,083
+during a violent storm at sea,
+so the case was never solved.
+
+83
+00:06:34,166 --> 00:06:35,416
+What about the body?
+
+84
+00:06:35,500 --> 00:06:37,041
+[MICHAEL]
+It was never found.
+
+85
+00:06:37,125 --> 00:06:38,625
+It's 80 years ago, right?
+
+86
+00:06:38,708 --> 00:06:41,416
+Even if he survived, I'm sure
+he must be dead by now.
+
+87
+00:06:41,500 --> 00:06:42,583
+[SAKAKI]
+Wait a minute.
+
+88
+00:06:42,666 --> 00:06:44,208
+With all the past cases,
+why would a witch
+
+89
+00:06:44,291 --> 00:06:47,416
+mummify another witch?
+I just don't get it.
+
+90
+00:06:47,500 --> 00:06:48,833
+[AMON]
+In any case...
+
+91
+00:06:48,916 --> 00:06:51,833
+It looks like we'll need
+to investigate him again.
+
+92
+00:06:51,916 --> 00:06:53,791
+It might be another witch.
+
+93
+00:06:53,875 --> 00:06:56,875
+But it could also be the actions
+of one of his descendants.
+
+94
+00:07:06,875 --> 00:07:08,291
+[ATTENDANT]
+Mrs. Kurata?
+
+95
+00:07:08,375 --> 00:07:10,333
+There are some people here
+who wanna talk to you
+
+96
+00:07:10,416 --> 00:07:12,541
+about the late Mr. Kazuma.
+
+97
+00:07:12,625 --> 00:07:14,791
+Mrs. Kurata!
+
+98
+00:07:14,875 --> 00:07:16,208
+[OLD WOMAN]
+Kazuma?
+
+99
+00:07:16,291 --> 00:07:18,458
+She gets like this sometimes.
+
+100
+00:07:18,541 --> 00:07:21,458
+Just let me know when you're
+finished and ready to leave.
+
+101
+00:07:24,250 --> 00:07:25,958
+[DOJIMA]
+Sorry to trouble you.
+
+102
+00:07:27,416 --> 00:07:29,375
+[DOJIMA]
+Bow politely, now.
+
+103
+00:07:30,500 --> 00:07:33,000
+[OLD WOMAN]
+That man will never die.
+
+104
+00:07:33,083 --> 00:07:34,500
+I know he's still young.
+
+105
+00:07:34,583 --> 00:07:37,208
+I married him and lived with
+him for many, many years.
+
+106
+00:07:37,291 --> 00:07:40,000
+But he remained just like
+he was when we first met.
+
+107
+00:07:40,083 --> 00:07:42,791
+He never seemed
+to grow a day older.
+
+108
+00:07:42,875 --> 00:07:44,250
+It wasn't the same for me.
+
+109
+00:07:44,333 --> 00:07:47,666
+I kept aging and turned
+into an old woman.
+
+110
+00:07:49,333 --> 00:07:51,625
+[OLD WOMAN]
+You never change, do you?
+
+111
+00:07:51,708 --> 00:07:55,041
+You're just like mountains
+around the lake.
+
+112
+00:07:57,916 --> 00:08:00,375
+[DOJIMA]
+This was such a waste of time!
+
+113
+00:08:00,458 --> 00:08:02,625
+Yeah, we drove all this
+way just to find out
+
+114
+00:08:02,708 --> 00:08:05,250
+that Grandma was
+totally out of it.
+
+115
+00:08:05,333 --> 00:08:07,500
+Huh?!
+
+116
+00:08:07,583 --> 00:08:08,750
+Right! I got it.
+
+117
+00:08:08,833 --> 00:08:10,750
+I'll head over there right away.
+
+118
+00:08:12,208 --> 00:08:14,250
+Looks like they
+found another mummy.
+
+119
+00:08:22,791 --> 00:08:25,583
+Sakaki, go check the
+hotel's security cameras.
+
+120
+00:08:25,666 --> 00:08:27,916
+You got it.
+
+121
+00:08:28,000 --> 00:08:29,166
+[KARASUMA]
+Hm?
+
+122
+00:08:31,666 --> 00:08:33,250
+[AMON]
+Another insect.
+
+123
+00:08:44,708 --> 00:08:46,500
+[DOJIMA]
+Miho!
+
+124
+00:08:46,583 --> 00:08:48,083
+[KARASUMA]
+Well, you two are late.
+
+125
+00:08:49,666 --> 00:08:51,416
+Oh, and guess who
+we just discovered
+
+126
+00:08:51,500 --> 00:08:53,541
+on the security camera video.
+
+127
+00:08:55,625 --> 00:08:59,208
+[DOJIMA] Kurata?! You mean
+Kurata isn't dead?!
+
+128
+00:08:59,291 --> 00:09:00,625
+[SAKAKI]
+This is impossible!
+
+129
+00:09:00,708 --> 00:09:01,750
+Even if he was alive,
+
+130
+00:09:01,833 --> 00:09:04,083
+he would be 110
+years old by now!
+
+131
+00:09:04,166 --> 00:09:05,333
+[KARASUMA]
+No matter how you look at him,
+
+132
+00:09:05,416 --> 00:09:07,500
+this guy looks like
+he's in his 30s.
+
+133
+00:09:07,583 --> 00:09:09,708
+[ROBIN] Dojima, maybe
+what that old woman
+
+134
+00:09:09,791 --> 00:09:10,916
+told us was true.
+
+135
+00:09:11,000 --> 00:09:12,166
+[AMON]
+What?
+
+136
+00:09:12,250 --> 00:09:13,791
+[ROBIN] She said that
+Kurata was always young,
+
+137
+00:09:13,875 --> 00:09:15,000
+that he never aged.
+
+138
+00:09:15,083 --> 00:09:16,166
+Never aged?
+
+139
+00:09:16,250 --> 00:09:17,291
+[SAKAKI]
+No way!
+
+140
+00:09:17,375 --> 00:09:19,333
+How could somethin'
+like that happen?
+
+141
+00:09:19,416 --> 00:09:20,958
+According to a hotel employee
+
+142
+00:09:21,041 --> 00:09:22,583
+who saw the guy
+walking down the hall,
+
+143
+00:09:22,666 --> 00:09:25,166
+there was a tattoo of something
+like a bug on his hand.
+
+144
+00:09:25,250 --> 00:09:28,208
+Wait a minute, I saw a
+tattoo on Kurata's hand.
+
+145
+00:09:29,708 --> 00:09:32,208
+That's right,
+a tattoo of a scarab.
+
+146
+00:09:34,041 --> 00:09:36,500
+[DOJIMA] Look at that.
+Even the tattoo is the same!
+
+147
+00:09:36,583 --> 00:09:39,250
+[SAKAKI] All right, let's assume
+that this guy is Kurata.
+
+148
+00:09:39,333 --> 00:09:41,958
+Why does he keep
+goin' after witches?
+
+149
+00:09:42,041 --> 00:09:45,166
+He does it so he
+can live forever.
+
+150
+00:09:46,833 --> 00:09:48,875
+[ROBIN] If Kurata is
+a witch whose powers
+
+151
+00:09:48,958 --> 00:09:51,750
+are to absorb the life
+energy of other witches,
+
+152
+00:09:51,833 --> 00:09:55,333
+then the cases in Europe
+and Japan 120 years ago,
+
+153
+00:09:55,416 --> 00:09:57,583
+and 40 years ago
+in the United States,
+
+154
+00:09:57,666 --> 00:10:00,708
+and the two we have now
+are perhaps all connected.
+
+155
+00:10:00,791 --> 00:10:01,916
+It's obvious!
+
+156
+00:10:02,000 --> 00:10:04,000
+This guy has a need
+to absorb life energies
+
+157
+00:10:04,083 --> 00:10:06,291
+from other witches
+about every 40 years!
+
+158
+00:10:06,375 --> 00:10:08,791
+Kinda' like a vampire,
+but for witches.
+
+159
+00:10:08,875 --> 00:10:12,375
+Michael, that hacker you had.
+When did he start?
+
+160
+00:10:12,458 --> 00:10:14,791
+I don't know. Yesterday I think.
+
+161
+00:10:14,875 --> 00:10:16,166
+Why do you ask?
+
+162
+00:10:16,250 --> 00:10:18,958
+In the STNJ computer,
+there is a giant database
+
+163
+00:10:19,041 --> 00:10:21,833
+containing a list of witches
+and all of their descendants.
+
+164
+00:10:21,916 --> 00:10:23,708
+If Robin's hypothesis
+is correct,
+
+165
+00:10:23,791 --> 00:10:25,875
+Kurata might very well
+be in desperate need
+
+166
+00:10:25,958 --> 00:10:27,375
+of that list right now.
+
+167
+00:10:27,458 --> 00:10:30,000
+Then Kurata was responsible
+for the hacking?
+
+168
+00:10:30,083 --> 00:10:31,708
+[AMON] Michael, if there's
+another attempt to get in,
+
+169
+00:10:31,791 --> 00:10:32,791
+don't interfere.
+
+170
+00:10:32,875 --> 00:10:34,041
+Give him the info
+he's looking for.
+
+171
+00:10:34,125 --> 00:10:35,375
+Huh?
+
+172
+00:10:35,458 --> 00:10:37,375
+I'll have a surprise for him.
+
+173
+00:11:05,500 --> 00:11:07,958
+[footsteps]
+
+174
+00:11:10,250 --> 00:11:11,458
+Robin.
+
+175
+00:11:12,583 --> 00:11:15,250
+I brought some donuts.
+
+176
+00:11:15,333 --> 00:11:17,125
+I'll go make some coffee.
+
+177
+00:11:28,291 --> 00:11:30,750
+Is this what's on
+Kurata's tattoo?
+
+178
+00:11:30,833 --> 00:11:32,208
+[MICHAEL]
+It's a scarab.
+
+179
+00:11:32,291 --> 00:11:33,708
+Yes, I know.
+
+180
+00:11:33,791 --> 00:11:34,875
+A beetle that was thought of
+
+181
+00:11:34,958 --> 00:11:37,791
+as a holy creature
+in ancient Egypt.
+
+182
+00:11:37,875 --> 00:11:39,583
+There are reports that
+sometimes witches
+
+183
+00:11:39,666 --> 00:11:41,041
+will use some sort of a symbol
+
+184
+00:11:41,125 --> 00:11:42,875
+in order to utilize
+their powers.
+
+185
+00:11:42,958 --> 00:11:46,541
+I assume the scarab is the
+symbol used by our culprit.
+
+186
+00:12:01,500 --> 00:12:03,500
+[ROBIN]
+Can I ask you something?
+
+187
+00:12:04,583 --> 00:12:06,958
+[ROBIN] What's the meaning
+of the "collar"?
+
+188
+00:12:08,166 --> 00:12:11,166
+[ROBIN] You know, what
+Dojima was talking about.
+
+189
+00:12:11,250 --> 00:12:13,958
+[MICHAEL]
+Oh. What did Miss Dojima say?
+
+190
+00:12:14,041 --> 00:12:16,250
+[ROBIN] She just said
+I should ask you about it.
+
+191
+00:12:16,333 --> 00:12:17,583
+[MICHAEL]
+I see.
+
+192
+00:12:17,666 --> 00:12:19,208
+[chiming, beeping]
+
+193
+00:12:19,291 --> 00:12:20,833
+[MICHAEL]
+Hold it, we got somethin'!
+
+194
+00:12:22,250 --> 00:12:23,666
+[ROBIN]
+Is it him?
+
+195
+00:12:25,000 --> 00:12:26,833
+Prob'ly
+
+196
+00:12:26,916 --> 00:12:28,541
+It's very primitive hacking,
+
+197
+00:12:28,625 --> 00:12:30,833
+but I guess I'll let
+the guy in as planned.
+
+198
+00:13:09,541 --> 00:13:10,958
+Target confirmed.
+
+199
+00:13:26,750 --> 00:13:27,958
+[AMON]
+Kurata!
+
+200
+00:13:34,750 --> 00:13:36,416
+[KURATA chuckles]
+
+201
+00:13:36,500 --> 00:13:39,333
+[KURATA laughs]
+
+202
+00:13:46,083 --> 00:13:48,000
+[yelps]
+
+203
+00:13:48,083 --> 00:13:49,250
+[yelps]
+
+204
+00:13:55,875 --> 00:13:57,208
+Water pipes!
+
+205
+00:14:00,833 --> 00:14:03,208
+[AMON]
+Karasuma, shoot the water pipes!
+
+206
+00:14:37,083 --> 00:14:38,250
+Damnit!
+
+207
+00:15:09,791 --> 00:15:12,541
+You're kidding. You just
+let him get away?
+
+208
+00:15:12,625 --> 00:15:13,750
+[SAKAKI]
+You got no right to talk.
+
+209
+00:15:13,833 --> 00:15:15,833
+You ditched us again.
+
+210
+00:15:15,916 --> 00:15:19,208
+[DOJIMA] So, how come
+the Craft didn't hit him?
+
+211
+00:15:20,583 --> 00:15:22,125
+[DOJIMA]
+Hm?
+
+212
+00:15:26,208 --> 00:15:27,208
+[AMON]
+What do you think?
+
+213
+00:15:27,291 --> 00:15:28,416
+Huh?
+
+214
+00:15:28,500 --> 00:15:31,416
+About Robin's powers.
+
+215
+00:15:31,500 --> 00:15:34,125
+Is she just out of control?
+
+216
+00:15:34,208 --> 00:15:35,750
+Or is she...
+
+217
+00:15:35,833 --> 00:15:37,666
+This is rather unusual for you.
+
+218
+00:15:37,750 --> 00:15:39,750
+You're not one to be
+concerned about other people.
+
+219
+00:15:39,833 --> 00:15:42,708
+[phone rings]
+
+220
+00:15:42,791 --> 00:15:44,750
+[MICHAEL] I'm sorry but
+I have some bad news.
+
+221
+00:15:44,833 --> 00:15:47,541
+The hacker from this morning
+was just found dead.
+
+222
+00:15:47,625 --> 00:15:50,375
+[MICHAEL] I'm pretty sure it
+must've been Kurata's doing.
+
+223
+00:15:50,458 --> 00:15:52,375
+[AMON]
+I gotcha.
+
+224
+00:15:52,458 --> 00:15:53,750
+Well, that's it.
+
+225
+00:15:53,833 --> 00:15:56,375
+So, I guess we're back
+to square one, then, huh?
+
+226
+00:15:56,458 --> 00:15:57,500
+[AMON]
+Yeah.
+
+227
+00:16:16,708 --> 00:16:17,750
+I'm sorry.
+
+228
+00:16:17,833 --> 00:16:19,416
+I didn't order this.
+
+229
+00:16:19,500 --> 00:16:22,125
+Japanese miso soup can
+help to warm your soul.
+
+230
+00:16:22,208 --> 00:16:24,750
+Go ahead. It's on the house.
+
+231
+00:16:24,833 --> 00:16:26,083
+[ROBIN]
+Thank you.
+
+232
+00:16:30,166 --> 00:16:31,458
+[gasps]
+
+233
+00:16:31,541 --> 00:16:33,250
+[KOBARI chuckles]
+
+234
+00:16:41,125 --> 00:16:45,916
+[phone rings]
+
+235
+00:16:46,000 --> 00:16:48,041
+[DOJIMA]
+Robin, we've got an emergency!
+
+236
+00:16:55,333 --> 00:16:57,416
+[DOJIMA]
+It happened early this morning.
+
+237
+00:17:10,833 --> 00:17:12,416
+[DOJIMA]
+Can I see it?
+
+238
+00:17:13,541 --> 00:17:16,208
+It says "the tenth of
+June at the lake shore."
+
+239
+00:17:16,291 --> 00:17:17,875
+[ROBIN]
+What's the name of the lake?
+
+240
+00:17:17,958 --> 00:17:21,000
+I don't know.
+There's no way to tell.
+
+241
+00:17:21,083 --> 00:17:23,541
+Hey, wait a sec. This photo...
+
+242
+00:17:24,916 --> 00:17:28,708
+Maybe Michael can determine
+the location using his database.
+
+243
+00:17:28,791 --> 00:17:30,166
+[gasps]
+
+244
+00:18:07,166 --> 00:18:10,041
+[tires screech]
+
+245
+00:18:13,458 --> 00:18:16,750
+[footsteps]
+
+246
+00:18:27,041 --> 00:18:28,416
+[AMON]
+Hmph.
+
+247
+00:18:45,458 --> 00:18:46,583
+[SAKAKI grunts]
+
+248
+00:18:55,916 --> 00:18:57,875
+[grunts] Kurata!
+
+249
+00:18:57,958 --> 00:19:00,041
+Your... Your face!
+
+250
+00:19:03,041 --> 00:19:04,375
+[SAKAKI yelps]
+
+251
+00:19:12,208 --> 00:19:14,541
+[grunts, yells]
+
+252
+00:19:20,208 --> 00:19:22,166
+Hold it, Kurata! Don't move!
+
+253
+00:19:22,250 --> 00:19:23,625
+Damn all of you!
+
+254
+00:19:24,916 --> 00:19:28,958
+[yells]
+
+255
+00:19:38,333 --> 00:19:39,416
+Robin!
+
+256
+00:19:54,375 --> 00:19:56,458
+[KURATA yelps]
+
+257
+00:19:56,541 --> 00:20:00,458
+[KURATA screams]
+
+258
+00:20:06,166 --> 00:20:07,458
+Are you all right?
+
+259
+00:20:07,541 --> 00:20:09,333
+Yeah, I think so.
+
+260
+00:20:14,250 --> 00:20:15,500
+Amon!
+
+261
+00:20:40,083 --> 00:20:41,083
+[ROBIN]
+Thank you.
+
+262
+00:20:41,166 --> 00:20:42,416
+Huh?
+
+263
+00:20:43,458 --> 00:20:45,041
+We got him because
+you determined
+
+264
+00:20:45,125 --> 00:20:47,458
+which lake it was, Michael.
+
+265
+00:20:50,541 --> 00:20:53,583
+Look, I brought you some donuts.
+
+266
+00:20:53,666 --> 00:20:55,666
+I'll go make some coffee.
+
+267
+00:21:08,333 --> 00:21:10,125
+[MICHAEL]
+I was a hacker once.
+
+268
+00:21:10,208 --> 00:21:11,583
+[gasps]
+
+269
+00:21:11,666 --> 00:21:14,083
+But I wasn't what
+you call a cracker.
+
+270
+00:21:14,166 --> 00:21:16,791
+I just liked to sneak through
+high-end security systems
+
+271
+00:21:16,875 --> 00:21:19,583
+to reach terminals that
+seemed impossible to reach.
+
+272
+00:21:19,666 --> 00:21:22,208
+I would never
+attack the systems.
+
+273
+00:21:22,291 --> 00:21:25,666
+I would just leave a small
+trace so I could get back in.
+
+274
+00:21:25,750 --> 00:21:27,708
+That way I could
+play around later.
+
+275
+00:21:27,791 --> 00:21:29,375
+That was it.
+
+276
+00:21:29,458 --> 00:21:31,666
+Every computer system
+all around the world
+
+277
+00:21:31,750 --> 00:21:33,666
+became my playground.
+
+278
+00:21:33,750 --> 00:21:36,000
+But then, one day,
+I wound up inside a system
+
+279
+00:21:36,083 --> 00:21:37,791
+that was too much
+for me to handle.
+
+280
+00:21:37,875 --> 00:21:39,125
+And I got trapped.
+
+281
+00:21:39,208 --> 00:21:41,000
+The STN.
+
+282
+00:21:41,083 --> 00:21:42,708
+It was amazing.
+
+283
+00:21:42,791 --> 00:21:45,875
+I... just couldn't believe
+what I was dealing with.
+
+284
+00:21:45,958 --> 00:21:48,375
+I couldn't get myself
+out of the system,
+
+285
+00:21:48,458 --> 00:21:50,416
+even though I tried to logout.
+
+286
+00:21:50,500 --> 00:21:52,500
+I didn't realize
+they were tracing me.
+
+287
+00:21:52,583 --> 00:21:55,833
+Soon after that, a bunch of guys
+came and raided my apartment.
+
+288
+00:21:55,916 --> 00:21:57,750
+I thought I was history.
+
+289
+00:21:57,833 --> 00:22:00,916
+In fact, they were actually
+gonna kill me right then.
+
+290
+00:22:01,000 --> 00:22:02,791
+But our boss stopped them.
+
+291
+00:22:02,875 --> 00:22:05,000
+You mean Zaizen.
+
+292
+00:22:05,083 --> 00:22:07,250
+[MICHAEL] In exchange
+for sparing me my life,
+
+293
+00:22:07,333 --> 00:22:11,375
+I swore that, from that day on,
+I would work for him.
+
+294
+00:22:11,458 --> 00:22:13,625
+Our boss has a collar on me.
+
+295
+00:22:13,708 --> 00:22:15,041
+So I'm stuck here.
+
+296
+00:22:15,125 --> 00:22:17,333
+I can't go anywhere
+without his permission.
+
+297
+00:22:17,416 --> 00:22:18,708
+[gasps]
+
+298
+00:22:21,833 --> 00:22:25,250
+[phone rings]
+
+299
+00:22:25,333 --> 00:22:27,125
+[MICHAEL]
+Hello?
+
+300
+00:22:27,208 --> 00:22:28,250
+No way!
+
+301
+00:22:28,333 --> 00:22:29,333
+[ROBIN]
+What's wrong?
+
+302
+00:22:29,416 --> 00:22:31,958
+Kurata just died
+over at the Factory.
+
+303
+00:22:32,041 --> 00:22:33,375
+[gasps]
+
+304
+00:22:38,958 --> 00:22:41,958
+[MICHAEL] His corpse turned
+into something like sand.
+
+305
+00:24:18,083 --> 00:24:21,250
+[NARRATOR] Three hundred
+and twenty years have passed
+
+306
+00:24:21,333 --> 00:24:23,916
+since the coven
+sank in the dark.
+
+307
+00:24:24,000 --> 00:24:26,250
+Beauty in disguise.
+
+308
+00:24:26,333 --> 00:24:31,791
+Death torn apart.
+Pride and intolerance.
+
+309
+00:24:31,875 --> 00:24:34,333
+Rigorously kept her own world.
+
+310
+00:24:34,416 --> 00:24:37,125
+Her frozen heart
+needs to be thawed.
+

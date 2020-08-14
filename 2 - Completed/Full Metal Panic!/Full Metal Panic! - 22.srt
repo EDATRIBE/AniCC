@@ -1,0 +1,1542 @@
+﻿1
+00:02:02,583 --> 00:02:04,416
+[DANA A.I.]
+Welcome Captain Gauron.
+
+2
+00:02:04,500 --> 00:02:06,250
+Please give me your order.
+
+3
+00:02:06,333 --> 00:02:08,916
+[GAURON] Thank you, Dana,
+don't mind if I do.
+
+4
+00:02:09,000 --> 00:02:12,500
+How about we start with
+an evacuation drill?
+
+5
+00:02:12,583 --> 00:02:15,833
+Sound the alarm for a fire
+at a reactor accident.
+
+6
+00:02:15,916 --> 00:02:18,250
+Gather everyone in the hangar.
+
+7
+00:02:18,333 --> 00:02:19,833
+[DANA A.I.]
+Aye, sir.
+
+8
+00:02:23,833 --> 00:02:25,541
+[CAPTAIN SAILOR]
+You hear an alarm?
+
+9
+00:02:25,625 --> 00:02:29,916
+[OFFICER] Yes. Bearing is 1-5-8,
+just  under the thermal layer.
+
+10
+00:02:30,000 --> 00:02:31,666
+Lemme hear.
+
+11
+00:02:31,750 --> 00:02:33,250
+Huh?
+
+12
+00:02:33,333 --> 00:02:36,041
+[OFFICER] I can't detect
+any propulsion signature,
+
+13
+00:02:36,125 --> 00:02:37,666
+but it's moving.
+
+14
+00:02:37,750 --> 00:02:40,208
+And it's going at a
+pretty good clip, too.
+
+15
+00:02:40,291 --> 00:02:45,541
+No sound of the engine screw,
+and a very high speed.
+
+16
+00:02:45,625 --> 00:02:47,500
+[TAKENAKA]
+It's that Toy Box.
+
+17
+00:02:47,583 --> 00:02:52,333
+Huh? Oh, it's "Toy Box", is
+it? How can you be so dam--
+
+18
+00:02:52,416 --> 00:02:53,666
+What?
+
+19
+00:02:53,750 --> 00:02:55,125
+Nevermind.
+
+20
+00:02:55,208 --> 00:02:59,250
+Anyway, this means it's finally
+showing its true colors.
+
+21
+00:03:00,625 --> 00:03:04,125
+All right! We're gonna
+ambush Toy Box.
+
+22
+00:03:04,208 --> 00:03:08,250
+Forward one-third power.
+Surfacing to depth 180.
+
+23
+00:03:08,333 --> 00:03:09,541
+Aye, sir.
+
+24
+00:03:09,625 --> 00:03:13,500
+Forward one-third power.
+Surface to depth 180.
+
+25
+00:03:24,083 --> 00:03:29,041
+[alarm blaring]
+
+26
+00:03:32,083 --> 00:03:33,458
+What d'ya think?
+
+27
+00:03:33,541 --> 00:03:36,541
+Not enough information to
+make an assessment just yet.
+
+28
+00:03:36,625 --> 00:03:38,000
+You think it's Gauron?
+
+29
+00:03:38,083 --> 00:03:39,875
+[alarm continues]
+
+30
+00:03:39,958 --> 00:03:42,083
+I need to get some weapons.
+
+31
+00:03:44,541 --> 00:03:46,083
+[PERSONNEL 1] Did you hear
+anything about a drill?
+
+32
+00:03:46,166 --> 00:03:49,250
+[PERSONNEL 2]
+No. Any idea what's going on?
+
+33
+00:03:49,333 --> 00:03:53,041
+Don't you think... this is
+just a little strange?
+
+34
+00:03:55,625 --> 00:03:58,291
+[GAURON] The front half of this
+submarine houses the hangar
+
+35
+00:03:58,375 --> 00:04:03,125
+where they are: the torpedoes,
+the missile launching system,
+
+36
+00:04:03,208 --> 00:04:05,708
+and the weapons
+and ammunition room.
+
+37
+00:04:05,791 --> 00:04:10,083
+On the other hand, the rear
+half has the engine room,
+
+38
+00:04:10,166 --> 00:04:15,000
+the reactor, living
+quarters, the cafeteria,
+
+39
+00:04:15,083 --> 00:04:18,791
+and this central command center.
+
+40
+00:04:18,875 --> 00:04:22,541
+My little digital sweetheart,
+Miss Dana, has locked all
+
+41
+00:04:22,625 --> 00:04:24,958
+the bulkheads in the
+middle at my command.
+
+42
+00:04:25,041 --> 00:04:28,375
+Opening the bulkheads from
+the hangar side is gonna be,
+
+43
+00:04:28,458 --> 00:04:31,666
+well, impossible.
+
+44
+00:04:31,750 --> 00:04:35,750
+Which means we won't be getting
+any visits from a rescue party.
+
+45
+00:04:35,833 --> 00:04:37,291
+Good plan, huh?
+
+46
+00:04:37,375 --> 00:04:38,875
+I have to disagree.
+
+47
+00:04:38,958 --> 00:04:41,333
+All of the AS's are
+stored in the hangar.
+
+48
+00:04:41,416 --> 00:04:42,958
+I'm sure they could
+simply make a hole
+
+49
+00:04:43,041 --> 00:04:45,208
+with a monomolecular cutter.
+
+50
+00:04:45,291 --> 00:04:47,750
+Yes, that's why
+I'm considering this.
+
+51
+00:04:47,833 --> 00:04:48,791
+[snaps]
+
+52
+00:04:48,875 --> 00:04:50,000
+Miss Dana.
+
+53
+00:04:50,083 --> 00:04:51,666
+[DANA A.I.]
+Yes, Captain?
+
+54
+00:04:51,750 --> 00:04:54,458
+I want you to adjust
+the air supply setting
+
+55
+00:04:54,541 --> 00:04:59,125
+in the front half...
+Maximum oxygen concentration.
+
+56
+00:04:59,208 --> 00:05:01,000
+Wait, if you do that--
+
+57
+00:05:01,083 --> 00:05:04,500
+It just takes one
+spark, and Boom.
+
+58
+00:05:04,583 --> 00:05:06,166
+Of course, you could imagine,
+
+59
+00:05:06,250 --> 00:05:08,750
+critical thinking
+is not a priority
+
+60
+00:05:08,833 --> 00:05:12,708
+when you're high on oxygen.
+The physics may escape them.
+
+61
+00:05:14,041 --> 00:05:15,958
+Call it off.
+
+62
+00:05:16,041 --> 00:05:17,958
+Don't give me orders.
+
+63
+00:05:18,041 --> 00:05:21,000
+Let's not forget who's
+captain on this boat.
+
+64
+00:05:21,083 --> 00:05:26,083
+[laughs]
+
+65
+00:05:34,583 --> 00:05:36,541
+It's top brass
+from the Pentagon;
+
+66
+00:05:36,625 --> 00:05:38,250
+some group I've never heard of.
+
+67
+00:05:38,333 --> 00:05:40,958
+I sure do wonder what they're
+gonna be talking about.
+
+68
+00:05:41,500 --> 00:05:42,958
+[BUNKER HILL CAPTAIN]
+Leave them alone.
+
+69
+00:05:43,041 --> 00:05:45,583
+We're just letting
+them use our space.
+
+70
+00:05:45,666 --> 00:05:48,333
+And I have no desire
+to get involved.
+
+71
+00:05:48,416 --> 00:05:52,000
+Captain, sir. We were able to
+capture our nuclear submarine.
+
+72
+00:05:52,083 --> 00:05:56,375
+We've got it at a bearing
+of 2-3-0, distance 500.
+
+73
+00:05:56,458 --> 00:05:58,166
+It's the Pasadena, sir.
+
+74
+00:05:58,250 --> 00:06:01,416
+Pasadena? Sailor's boat.
+
+75
+00:06:01,500 --> 00:06:05,250
+Can't stand that guy.
+Leave him alone.
+
+76
+00:06:05,333 --> 00:06:08,166
+Is that all you're gonna say?
+
+77
+00:06:08,250 --> 00:06:10,458
+[BUNKER HILL CAPTAIN] That's the
+trick to retiring in the Navy
+
+78
+00:06:10,541 --> 00:06:12,583
+without any trouble.
+
+79
+00:06:12,666 --> 00:06:14,750
+We'll reach the point
+in 20 minutes, sir.
+
+80
+00:06:14,833 --> 00:06:16,708
+[CAPTAIN SAILOR]
+Now we're gettin' somewhere!
+
+81
+00:06:16,791 --> 00:06:17,958
+Start the masker!
+
+82
+00:06:18,041 --> 00:06:20,708
+[TAKANAKA]
+Aye, sir. Start masker!
+
+83
+00:06:25,625 --> 00:06:27,291
+[murmuring]
+
+84
+00:06:27,375 --> 00:06:28,625
+[sighs]
+
+85
+00:06:28,708 --> 00:06:30,291
+What's the matter?
+
+86
+00:06:30,375 --> 00:06:33,458
+Nothing. Just getting old.
+
+87
+00:06:33,541 --> 00:06:35,125
+No, you're not.
+
+88
+00:06:35,208 --> 00:06:36,458
+[SAILOR 1]
+Y-You feel that?
+
+89
+00:06:36,541 --> 00:06:38,875
+[SAILOR 2] Yeah... my ears...
+They're ringing...
+
+90
+00:06:38,958 --> 00:06:41,791
+[murmuring continues]
+
+91
+00:06:45,708 --> 00:06:46,708
+[gasps]
+
+92
+00:06:50,166 --> 00:06:51,416
+Commander!
+
+93
+00:06:51,500 --> 00:06:53,875
+The room's oxygen
+content is shooting up!
+
+94
+00:06:53,958 --> 00:06:55,750
+I can't open the doors!
+
+95
+00:06:55,833 --> 00:06:57,416
+What could be wrong?
+
+96
+00:06:57,500 --> 00:07:00,041
+Contact the command center!
+
+97
+00:07:00,125 --> 00:07:01,708
+We can't!
+
+98
+00:07:01,791 --> 00:07:04,125
+All the communications on
+the submarine are blacked out.
+
+99
+00:07:04,208 --> 00:07:05,791
+Oh, no...
+
+100
+00:07:07,333 --> 00:07:11,000
+[TELETHA] I need to do
+something... But what?
+
+101
+00:07:13,958 --> 00:07:16,166
+[TELETHA] 
+Miss Kaname.
+
+102
+00:07:16,250 --> 00:07:20,541
+Please listen carefully to
+what I'm going to tell you.
+
+103
+00:07:20,625 --> 00:07:22,916
+[KANAME]
+Resonance...
+
+104
+00:07:23,000 --> 00:07:25,791
+[TELETHA] Dana recognizes
+Gauron as Captain.
+
+105
+00:07:25,875 --> 00:07:29,625
+We can't cancel the registration
+through the usual procedures.
+
+106
+00:07:29,708 --> 00:07:33,708
+Because of this, we must take
+control of Dana directly.
+
+107
+00:07:36,375 --> 00:07:37,666
+[gasps]
+
+108
+00:07:37,750 --> 00:07:40,333
+[yawns]
+
+109
+00:07:44,250 --> 00:07:48,000
+[TELETHA]
+It's a key to my safe.
+
+110
+00:07:48,083 --> 00:07:50,208
+In there, you'll
+find another key.
+
+111
+00:07:50,291 --> 00:07:51,333
+[gasps]
+
+112
+00:07:52,875 --> 00:07:54,500
+[TELETHA]
+The universal key.
+
+113
+00:07:54,583 --> 00:07:56,750
+[KANAME] 
+Universal key?
+
+114
+00:07:56,833 --> 00:08:00,000
+[TELETHA] After that, look in
+the central computer room
+
+115
+00:08:00,083 --> 00:08:04,291
+on the third deck for Lady
+Chapel, the heart of Dana.
+
+116
+00:08:08,833 --> 00:08:10,000
+[TELETHA]
+Once you're in,
+
+117
+00:08:10,083 --> 00:08:13,416
+I want you to resonate
+with me one more time.
+
+118
+00:08:13,500 --> 00:08:17,250
+Wait a minute, Lady Chapel,
+what is that?
+
+119
+00:08:17,333 --> 00:08:21,500
+[TELETHA] I'm a terrible
+athlete. You're the only one.
+
+120
+00:08:21,583 --> 00:08:22,666
+But it'll be...
+
+121
+00:08:22,750 --> 00:08:24,500
+Impossi-- [gasps]
+
+122
+00:08:27,791 --> 00:08:29,291
+[GAURON]
+Hmm?
+
+123
+00:08:29,375 --> 00:08:34,791
+It bothers me... when people
+shout for no reason.
+
+124
+00:08:34,875 --> 00:08:37,041
+Hmm?
+
+125
+00:08:37,125 --> 00:08:43,041
+So... What is it you're hiding
+there behind your back?
+
+126
+00:08:43,125 --> 00:08:45,583
+Show and tell.
+
+127
+00:08:46,875 --> 00:08:48,791
+[KANAME]
+Help me.
+
+128
+00:08:50,125 --> 00:08:51,583
+Miss Kaname, go!
+
+129
+00:08:51,666 --> 00:08:52,958
+Huh?
+
+130
+00:08:53,041 --> 00:08:53,916
+[yells]
+
+131
+00:08:54,000 --> 00:08:55,541
+[grunts]
+
+132
+00:08:56,375 --> 00:08:57,291
+[gasps]
+
+133
+00:08:57,833 --> 00:08:59,291
+Run for it!
+
+134
+00:09:01,291 --> 00:09:02,250
+[GUEN]
+Huh?
+
+135
+00:09:03,375 --> 00:09:04,750
+Hold it!
+
+136
+00:09:04,833 --> 00:09:06,166
+Ah!
+
+137
+00:09:06,916 --> 00:09:08,916
+Stop right there!
+
+138
+00:09:09,000 --> 00:09:10,750
+[screams]
+
+139
+00:09:10,833 --> 00:09:11,666
+What the...?
+
+140
+00:09:11,750 --> 00:09:15,416
+You little shit! I'll kill you!
+
+141
+00:09:15,500 --> 00:09:16,583
+Did you hear that?
+
+142
+00:09:16,666 --> 00:09:18,958
+Gunshots, wasn't it?
+
+143
+00:09:19,041 --> 00:09:21,291
+[SOUSUKE]
+It came from the command center.
+
+144
+00:09:21,375 --> 00:09:23,875
+[clicking]
+
+145
+00:09:23,958 --> 00:09:25,541
+[gasps]
+
+146
+00:09:27,000 --> 00:09:30,708
+Very well played, little miss.
+
+147
+00:09:30,791 --> 00:09:32,208
+[TELETHA]
+Ah!
+
+148
+00:09:38,250 --> 00:09:40,625
+[KALININ] Here are all
+the items to confirm.
+
+149
+00:09:42,875 --> 00:09:47,375
+By the way, what seas is
+Toy Box currently patrolling?
+
+150
+00:09:47,458 --> 00:09:50,458
+I don't understand the
+meaning of your question.
+
+151
+00:09:50,541 --> 00:09:52,375
+Don't insult my intelligence.
+
+152
+00:09:52,458 --> 00:09:53,958
+We know you have
+in your possession
+
+153
+00:09:54,041 --> 00:09:56,750
+a submarine with
+frightening potential.
+
+154
+00:09:56,833 --> 00:10:00,916
+I'm sorry, but my superiors
+do not keep me informed
+
+155
+00:10:01,000 --> 00:10:03,416
+with details on these matters.
+
+156
+00:10:05,916 --> 00:10:11,250
+Oh well. But I'd like to
+advise you, Lt. Commander...
+
+157
+00:10:11,333 --> 00:10:14,416
+...to remember who the
+police of the world are.
+
+158
+00:10:16,166 --> 00:10:18,375
+There are some who'd say
+the theory of globalism
+
+159
+00:10:18,458 --> 00:10:22,041
+is nothing more than
+words on paper.
+
+160
+00:10:22,125 --> 00:10:24,833
+If your homeland
+collapses, my friend,
+
+161
+00:10:24,916 --> 00:10:29,916
+that theory suddenly starts
+to look much more realistic.
+
+162
+00:10:30,000 --> 00:10:32,875
+Shall we adjourn to
+the bridge now?
+
+163
+00:10:32,958 --> 00:10:37,583
+These small rooms
+make me uncomfortable.
+
+164
+00:10:37,666 --> 00:10:38,791
+I agree.
+
+165
+00:10:42,625 --> 00:10:43,958
+[gasps]
+
+166
+00:10:44,041 --> 00:10:48,083
+[GAURON] Miss Ex-Captain.
+You've made me very angry.
+
+167
+00:10:48,166 --> 00:10:51,916
+But, I won't kill you just yet.
+
+168
+00:10:52,000 --> 00:10:56,708
+I've come up with an
+alternate penalty.
+
+169
+00:10:56,791 --> 00:11:00,208
+Dana, bring this boat up
+to periscope depth.
+
+170
+00:11:00,291 --> 00:11:05,125
+Speed is five knots. Use ESM and
+look for ships on the surface.
+
+171
+00:11:05,208 --> 00:11:07,291
+[DANA A.I.]
+Aye, sir.
+
+172
+00:11:07,375 --> 00:11:10,458
+W-Wait! What're you doing?
+
+173
+00:11:10,541 --> 00:11:14,916
+You'll find out soon.
+Yes. Very soon.
+
+174
+00:11:21,000 --> 00:11:21,875
+What's wrong?
+
+175
+00:11:21,958 --> 00:11:23,625
+[gasps] Sir!
+
+176
+00:11:27,583 --> 00:11:29,750
+It would appear that
+our nuclear submarine
+
+177
+00:11:29,833 --> 00:11:33,541
+is in hot pursuit of something,
+but we can't contact it.
+
+178
+00:11:33,625 --> 00:11:34,833
+Something?
+
+179
+00:11:34,916 --> 00:11:38,708
+[OFFICER] Uh... We cannot
+confirm the target.
+
+180
+00:11:38,791 --> 00:11:41,500
+You can't confirm it?
+
+181
+00:11:41,583 --> 00:11:45,000
+Hmph. Who is that
+submarine's captain?
+
+182
+00:11:45,083 --> 00:11:47,375
+Commander Sailor.
+
+183
+00:11:47,458 --> 00:11:49,375
+Hmph.
+
+184
+00:11:49,458 --> 00:11:51,958
+Captain Ahab Sailor, huh?
+
+185
+00:11:52,041 --> 00:11:56,166
+Him and his interminable
+quest for that target.
+
+186
+00:11:56,250 --> 00:11:59,791
+Show me the CIC data from
+now on as is necessary.
+
+187
+00:11:59,875 --> 00:12:01,708
+Aye, sir.
+
+188
+00:12:03,500 --> 00:12:05,916
+Our nuclear submarine
+seems to be catching
+
+189
+00:12:06,000 --> 00:12:08,125
+the tail of this Toy Box.
+
+190
+00:12:08,208 --> 00:12:11,458
+I hope that nothing
+happens for your sake.
+
+191
+00:12:19,958 --> 00:12:25,666
+[KANAME panting]
+
+192
+00:12:25,750 --> 00:12:28,041
+Did I lose him?
+
+193
+00:12:28,125 --> 00:12:31,791
+This jacket was expensive, too.
+
+194
+00:12:35,916 --> 00:12:37,833
+[KANAME grunts]
+
+195
+00:12:41,375 --> 00:12:44,125
+[door creaks]
+
+196
+00:12:48,875 --> 00:12:52,083
+[DANA A.I.] Ship found
+on surface, bearing 3-2-3.
+
+197
+00:12:52,166 --> 00:12:56,500
+Confirmed as Echo-1,
+American Navy Aegis cruiser.
+
+198
+00:12:56,583 --> 00:12:58,958
+Estimated distance: Seven miles.
+
+199
+00:12:59,041 --> 00:13:02,625
+Good. Get ready to
+launch harpoon missiles.
+
+200
+00:13:02,708 --> 00:13:06,416
+Numbers one and two.
+The target is Echo-1.
+
+201
+00:13:06,500 --> 00:13:08,625
+Launch mode is BOL.
+
+202
+00:13:08,708 --> 00:13:09,791
+[DANA A.I.]
+Aye, sir.
+
+203
+00:13:09,875 --> 00:13:12,625
+Stop it! They have
+nothing to do with us!
+
+204
+00:13:13,875 --> 00:13:17,125
+[DANA A.I.] Echo-1 targeted.
+Data input complete.
+
+205
+00:13:17,208 --> 00:13:19,625
+Opening launch tube doors.
+
+206
+00:13:21,500 --> 00:13:23,125
+No, don't do it, Dana!
+
+207
+00:13:23,208 --> 00:13:24,458
+[DANA A.I.]
+Opening complete.
+
+208
+00:13:24,541 --> 00:13:25,791
+[whimpers]
+
+209
+00:13:25,875 --> 00:13:27,416
+Ah!
+
+210
+00:13:32,000 --> 00:13:34,041
+Number one and number two.
+
+211
+00:13:34,125 --> 00:13:35,375
+Please, stop!
+
+212
+00:13:35,458 --> 00:13:36,875
+Launch them.
+
+213
+00:14:09,666 --> 00:14:11,583
+Which one?
+
+214
+00:14:12,916 --> 00:14:14,000
+[gasps]
+
+215
+00:14:18,708 --> 00:14:20,208
+This is it...
+
+216
+00:14:26,041 --> 00:14:27,791
+[KANAME]
+Huh...?
+
+217
+00:14:42,291 --> 00:14:43,625
+[gasps]
+
+218
+00:14:57,208 --> 00:14:59,375
+[KANAME]
+What am I doing?
+
+219
+00:15:01,500 --> 00:15:03,208
+I have to go.
+
+220
+00:15:03,291 --> 00:15:05,375
+Lady Chapel...
+
+221
+00:15:08,416 --> 00:15:10,625
+But where...
+where is that place.
+
+222
+00:15:10,708 --> 00:15:11,750
+[DANIGAN]
+Looks like I found you.
+
+223
+00:15:11,833 --> 00:15:12,958
+[gasps]
+
+224
+00:15:15,666 --> 00:15:17,458
+[alarm sounds]
+
+225
+00:15:17,541 --> 00:15:19,833
+Captain! Heat sources
+are closing in on us!
+
+226
+00:15:19,916 --> 00:15:23,458
+Two harpoon missiles.
+They've locked onto our ship.
+
+227
+00:15:23,541 --> 00:15:26,583
+Bearing 1-3-2. Distance 8,000!
+
+228
+00:15:26,666 --> 00:15:27,791
+What the--?!
+
+229
+00:15:27,875 --> 00:15:28,958
+Evasive maneuvers!
+
+230
+00:15:29,041 --> 00:15:31,833
+Dispense chaff!
+And take the helm to port!
+
+231
+00:15:31,916 --> 00:15:33,458
+We won't make it!
+
+232
+00:15:44,875 --> 00:15:47,166
+[MEN yelling]
+
+233
+00:15:50,208 --> 00:15:51,458
+[gasps]
+
+234
+00:15:51,541 --> 00:15:54,166
+Captain! We've just
+confirmed a harpoon impact!
+
+235
+00:15:54,250 --> 00:15:56,041
+[gasps] What do ya mean?!
+
+236
+00:15:56,125 --> 00:15:59,833
+2-5-2, distance 2,000!
+
+237
+00:15:59,916 --> 00:16:03,625
+It's our cruiser, sir!
+Somebody shot it!
+
+238
+00:16:03,708 --> 00:16:05,791
+Toy Box, you son of a bitch!
+
+239
+00:16:05,875 --> 00:16:07,875
+Go to a depth of 250!
+
+240
+00:16:07,958 --> 00:16:10,375
+Prepare the MK-48 torpedoes!
+
+241
+00:16:10,458 --> 00:16:12,333
+Three and four,
+ready for launch!
+
+242
+00:16:14,625 --> 00:16:17,083
+[GAURON] Are you telling
+me it didn't sink?
+
+243
+00:16:17,166 --> 00:16:20,583
+[DANA A.I.] Target is unable
+to sail under its own power,
+
+244
+00:16:20,666 --> 00:16:22,916
+but appears to
+still be floating.
+
+245
+00:16:23,000 --> 00:16:25,541
+So you kept the
+warheads turned off?
+
+246
+00:16:25,625 --> 00:16:28,000
+Yes. That was my
+decision as captain.
+
+247
+00:16:28,083 --> 00:16:30,833
+Don't you mean former captain?!
+
+248
+00:16:32,166 --> 00:16:33,500
+[BUNKER HILL CAPTAIN]
+It didn't explode?
+
+249
+00:16:33,583 --> 00:16:35,125
+Report on our condition!
+
+250
+00:16:35,208 --> 00:16:37,375
+[DEPUTY OFFICER] Portside deck
+and hangar have taken damage.
+
+251
+00:16:37,458 --> 00:16:39,583
+All helicopters on
+board were destroyed.
+
+252
+00:16:39,666 --> 00:16:41,708
+We're currently working
+on fire control.
+
+253
+00:16:41,791 --> 00:16:45,583
+The explosions were probably
+ignited by the helicopters.
+
+254
+00:16:45,666 --> 00:16:48,000
+So what does this mean...?
+
+255
+00:16:48,791 --> 00:16:50,833
+Huh?
+
+256
+00:16:50,916 --> 00:16:53,375
+[JENKINS]
+I need an explanation. Now.
+
+257
+00:16:53,458 --> 00:16:58,500
+If this... submarine you call
+"Toy Box" really does exist...
+
+258
+00:16:58,583 --> 00:16:59,583
+[JENKINS groans]
+
+259
+00:16:59,666 --> 00:17:01,000
+[KALININ]
+...it's hard to believe it
+
+260
+00:17:01,083 --> 00:17:04,500
+would attack the American
+Navy for no reason at all.
+
+261
+00:17:04,583 --> 00:17:09,041
+Maybe. But we were attacked.
+
+262
+00:17:09,125 --> 00:17:11,791
+And yet, the missile
+failed to explode.
+
+263
+00:17:11,875 --> 00:17:15,375
+I think it would be wise
+to take this into account.
+
+264
+00:17:15,458 --> 00:17:16,791
+[JENKINS]
+Why is that?
+
+265
+00:17:16,875 --> 00:17:18,666
+[KALININ]
+If they had been serious,
+
+266
+00:17:18,750 --> 00:17:22,208
+this ship would have been
+blown to pieces by now.
+
+267
+00:17:22,291 --> 00:17:25,875
+And they would have already
+followed up on the last attack.
+
+268
+00:17:25,958 --> 00:17:28,625
+Isn't it a bit strange to you?
+
+269
+00:17:28,708 --> 00:17:30,000
+No, not really.
+
+270
+00:17:30,083 --> 00:17:32,750
+Captain, a severe
+storm is brewing!
+
+271
+00:17:34,083 --> 00:17:36,583
+[BUNKER HILL CAPTAIN]
+Ugh... Why now?
+
+272
+00:17:40,750 --> 00:17:43,416
+[KURZ]
+Shit. Who did this?
+
+273
+00:17:43,500 --> 00:17:44,458
+[clanging]
+
+274
+00:17:44,541 --> 00:17:45,083
+[BOTH gasp]
+
+275
+00:17:45,166 --> 00:17:46,958
+In the cafeteria!
+
+276
+00:17:54,541 --> 00:17:56,666
+[GUEN whistles]
+
+277
+00:17:56,750 --> 00:17:58,166
+Sagara. You know,
+
+278
+00:17:58,250 --> 00:18:01,750
+your girlfriend's waiting for
+you over in the cafeteria?
+
+279
+00:18:01,833 --> 00:18:04,625
+Too bad I'm not gonna
+let you go see her.
+
+280
+00:18:05,416 --> 00:18:11,208
+[KANAME panting]
+
+281
+00:18:11,291 --> 00:18:12,500
+[DANIGAN]
+What's wrong?
+
+282
+00:18:12,583 --> 00:18:14,833
+Aren't you gonna run away?
+
+283
+00:18:20,958 --> 00:18:23,416
+Dammit! Guen, you
+son-of-a-bitch!
+
+284
+00:18:23,500 --> 00:18:26,041
+I don't think McAllen
+would betray us.
+
+285
+00:18:26,125 --> 00:18:27,583
+But who could it be?
+
+286
+00:18:27,666 --> 00:18:30,583
+Is that new-comer Danigan
+the one in the cafeteria?
+
+287
+00:18:30,666 --> 00:18:31,833
+[KURZ]
+Sousuke!
+
+288
+00:18:32,250 --> 00:18:34,625
+Let me take care of
+this stupid punk.
+
+289
+00:18:34,708 --> 00:18:38,041
+I'll create a diversion
+so you can run through.
+
+290
+00:18:38,125 --> 00:18:38,708
+But I--
+
+291
+00:18:38,791 --> 00:18:39,958
+No arguments!
+
+292
+00:18:40,041 --> 00:18:42,458
+Kaname's in danger,
+so you should go!
+
+293
+00:18:42,541 --> 00:18:45,250
+Give her a real apology.
+
+294
+00:18:45,333 --> 00:18:46,916
+Now!
+
+295
+00:18:47,833 --> 00:18:48,833
+[grunts]
+
+296
+00:18:50,416 --> 00:18:51,541
+[grunts]
+
+297
+00:18:57,291 --> 00:18:59,791
+What's the matter?!
+Keep running!
+
+298
+00:19:03,541 --> 00:19:05,333
+Stay back!
+
+299
+00:19:05,416 --> 00:19:06,458
+[SOUSUKE]
+Kaname!
+
+300
+00:19:06,541 --> 00:19:07,750
+[DANIGAN]
+Huh?
+
+301
+00:19:09,083 --> 00:19:10,083
+Dammit!
+
+302
+00:19:10,166 --> 00:19:11,791
+Ah! Sousuke!
+
+303
+00:19:11,875 --> 00:19:13,125
+Kaname!
+
+304
+00:19:20,083 --> 00:19:21,125
+[grunts]
+
+305
+00:19:23,083 --> 00:19:25,291
+[groans]
+
+306
+00:19:26,333 --> 00:19:27,291
+Sagara!
+
+307
+00:19:29,583 --> 00:19:31,750
+[groaning]
+
+308
+00:19:31,833 --> 00:19:34,458
+Go to hell, Sagara!
+
+309
+00:19:34,541 --> 00:19:38,416
+[gunshots]
+
+310
+00:19:41,833 --> 00:19:42,916
+[thud]
+
+311
+00:19:44,250 --> 00:19:46,208
+[gasps] Kaname!
+
+312
+00:19:49,041 --> 00:19:50,750
+[SOUSUKE] 
+Are you okay?
+
+313
+00:19:50,833 --> 00:19:52,458
+Does it hurt anywhere?
+
+314
+00:19:53,916 --> 00:19:54,875
+[gasps]
+
+315
+00:20:01,916 --> 00:20:03,291
+All over...
+
+316
+00:20:03,375 --> 00:20:07,458
+I'm not... I won't
+burden you, anymore.
+
+317
+00:20:07,541 --> 00:20:09,833
+I'll be all right on my own.
+
+318
+00:20:09,916 --> 00:20:14,166
+Even just now, I wasn't
+scared or frightened at all!
+
+319
+00:20:15,708 --> 00:20:19,208
+Kaname... I'm sorry.
+
+320
+00:20:19,291 --> 00:20:21,833
+You're not a burden.
+
+321
+00:20:21,916 --> 00:20:26,208
+Did you forget? You helped
+me countless times.
+
+322
+00:20:26,291 --> 00:20:29,416
+If I didn't have you,
+I would be dead by now.
+
+323
+00:20:33,833 --> 00:20:38,541
+[SOUSUKE] I mean it. I'm here
+because you've been here for me.
+
+324
+00:20:38,625 --> 00:20:42,333
+So please, don't tell me you'll
+be all right on your own.
+
+325
+00:20:44,375 --> 00:20:46,750
+Okay, we'll stick
+together for now.
+
+326
+00:20:46,833 --> 00:20:48,083
+[sniffs]
+
+327
+00:20:48,166 --> 00:20:49,375
+[gasps]
+
+328
+00:20:49,458 --> 00:20:51,500
+Sousuke, you've been injured!
+
+329
+00:20:51,583 --> 00:20:54,083
+I'm okay, it's not
+a problem for me.
+
+330
+00:20:54,166 --> 00:20:55,375
+Are you sure?
+
+331
+00:20:55,458 --> 00:20:57,000
+Yes, I'm sure.
+
+332
+00:20:59,458 --> 00:21:01,000
+[SOUSUKE]
+Can you stand?
+
+333
+00:21:11,166 --> 00:21:13,083
+[mechanical howling]
+
+334
+00:21:15,125 --> 00:21:16,166
+[gasps]
+
+335
+00:21:16,250 --> 00:21:18,125
+Sounds like an attacker's sonar!
+
+336
+00:21:18,208 --> 00:21:19,666
+Huh?
+
+337
+00:22:59,250 --> 00:23:01,666
+[KANAME] I won't let him
+do whatever he wants.
+
+338
+00:23:01,750 --> 00:23:04,125
+The nuclear reactor is my heart.
+
+339
+00:23:04,208 --> 00:23:07,333
+The two pairs of
+hydroplanes are my wings.
+
+340
+00:23:07,416 --> 00:23:09,750
+Next Full Metal Panic,
+Episode 23:
+
+341
+00:23:09,833 --> 00:23:11,708
+"Field of Giants."
+
+342
+00:23:11,791 --> 00:23:14,708
+Sousuke, the rest is up to you!
+

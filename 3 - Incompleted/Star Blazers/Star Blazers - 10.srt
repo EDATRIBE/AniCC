@@ -1,0 +1,1830 @@
+﻿1
+00:01:51,625 --> 00:01:52,916
+You would demote me?
+
+2
+00:01:53,000 --> 00:01:54,708
+But why do I deserve that?
+
+3
+00:01:54,791 --> 00:01:56,416
+You have brought
+shame on Lord Desler
+
+4
+00:01:56,500 --> 00:01:58,375
+and his great campaign
+in the hinterlands.
+
+5
+00:01:58,458 --> 00:02:01,875
+You seem to be incapable of
+dealing with the <i>Yamato</i> problem.
+
+6
+00:02:01,958 --> 00:02:04,708
+And since I recommended you to
+command that galactic theater,
+
+7
+00:02:04,791 --> 00:02:06,625
+that puts me in
+jeopardy, as well.
+
+8
+00:02:06,708 --> 00:02:08,708
+You have nothing
+to worry about, sir!
+
+9
+00:02:08,791 --> 00:02:11,291
+I can take care of
+one measly Teron vessel!
+
+10
+00:02:11,375 --> 00:02:13,791
+Perhaps you've spent too long
+commanding off-worlders,
+
+11
+00:02:13,875 --> 00:02:17,041
+but we true Gamilans
+do not tolerate failure.
+
+12
+00:02:17,125 --> 00:02:19,041
+And I won't tolerate
+it from you.
+
+13
+00:02:19,125 --> 00:02:20,458
+Sir! Yes, sir!
+
+14
+00:02:20,541 --> 00:02:23,916
+I shall await the
+good news, Goer.
+
+15
+00:02:24,000 --> 00:02:25,708
+[GOER]
+Zar Belk!
+
+16
+00:02:28,083 --> 00:02:29,250
+Commander.
+
+17
+00:02:29,333 --> 00:02:31,000
+There's still no sign of
+that ship that vanished.
+
+18
+00:02:31,083 --> 00:02:32,375
+It's been several days now!
+
+19
+00:02:32,458 --> 00:02:33,750
+So?
+
+20
+00:02:33,833 --> 00:02:35,500
+But that ship was carrying
+an Information Officer
+
+21
+00:02:35,583 --> 00:02:37,083
+from the Imperial Guard, sir!
+
+22
+00:02:37,166 --> 00:02:39,250
+The only ship that matters
+right now is the <i>Yamato</i> !
+
+23
+00:02:39,333 --> 00:02:42,416
+We have to find those
+Terons and crush them!
+
+24
+00:02:43,166 --> 00:02:45,000
+[MONK]
+Their predicted trajectory.
+
+25
+00:02:45,083 --> 00:02:47,625
+They should be within the
+seven-korm sector by now.
+
+26
+00:02:47,708 --> 00:02:49,333
+[GOER]
+I'm assuming command!
+
+27
+00:02:49,416 --> 00:02:51,166
+Launch the fleet, now!
+
+28
+00:02:59,833 --> 00:03:02,000
+[FIGHTER SQUAD B]
+Ha! Full house strikes again!
+
+29
+00:03:02,083 --> 00:03:03,958
+[SAWAMURA]
+Man, you're on a tear!
+
+30
+00:03:19,708 --> 00:03:22,083
+Well, be careful,
+Bro, and good luck.
+
+31
+00:03:25,625 --> 00:03:28,375
+[NIIMI] Attention: Ship now
+entering warp navigation.
+
+32
+00:03:28,458 --> 00:03:30,500
+All crew, prepare
+for warp procedures.
+
+33
+00:03:30,583 --> 00:03:31,916
+I've gotten used to this.
+
+34
+00:03:32,000 --> 00:03:35,125
+Yeah what can we
+say, we're a bunch of old pros.
+
+35
+00:03:46,416 --> 00:03:48,333
+[SHIMA]
+Coordinates entered.
+
+36
+00:03:48,416 --> 00:03:51,916
+Galactic longitude is 274.76.
+
+37
+00:03:52,000 --> 00:03:55,791
+Galactic latitude
+is minus 12.73.
+
+38
+00:03:55,875 --> 00:03:59,208
+Distance: 63.7 parsecs, confirm.
+
+39
+00:03:59,291 --> 00:03:59,916
+Confirmed.
+
+40
+00:04:00,000 --> 00:04:01,625
+Coordinate axis fixed.
+
+41
+00:04:01,708 --> 00:04:04,583
+[TOKUGAWA] Wave Motion Engine
+chamber pressure rising.
+
+42
+00:04:04,666 --> 00:04:07,375
+Critical pressure
+has now been achieved.
+
+43
+00:04:07,458 --> 00:04:12,541
+Five. Four. Three. Two. One.
+
+44
+00:04:12,625 --> 00:04:13,875
+And warp!
+
+45
+00:04:13,958 --> 00:04:15,875
+Aye-aye!
+
+46
+00:04:29,541 --> 00:04:31,541
+What is this?
+
+47
+00:04:31,625 --> 00:04:33,416
+Yeah, it's not
+usually like this.
+
+48
+00:04:33,500 --> 00:04:35,333
+What's going on, ensign?
+
+49
+00:04:35,416 --> 00:04:38,708
+The ship doesn't seem to
+be coming out of warp, sir.
+
+50
+00:04:38,791 --> 00:04:40,041
+I see.
+
+51
+00:04:40,125 --> 00:04:41,791
+We're currently inhabiting
+the single nanosecond
+
+52
+00:04:41,875 --> 00:04:44,916
+of space time the ship passes
+through during warp travel.
+
+53
+00:04:45,000 --> 00:04:48,125
+This has never
+happened before, has it?
+
+54
+00:04:49,500 --> 00:04:51,750
+[OKITA]
+Could it be the auto-nav?
+
+55
+00:04:54,416 --> 00:04:57,208
+Lieutenant, go check the
+automatic navigation room.
+
+56
+00:04:57,291 --> 00:04:59,458
+Sir.
+
+57
+00:04:59,541 --> 00:05:01,166
+Attention all crew,
+this is the XO.
+
+58
+00:05:01,250 --> 00:05:02,083
+Look, you guys.
+
+59
+00:05:02,166 --> 00:05:03,375
+If you're having blurry vision,
+
+60
+00:05:03,458 --> 00:05:05,416
+then you've probably
+got a case of the jitters.
+
+61
+00:05:05,500 --> 00:05:07,291
+[SHINOHARA]
+I don't think so, pal.
+
+62
+00:05:08,291 --> 00:05:10,333
+That's odd, what's
+happening to me?
+
+63
+00:05:10,416 --> 00:05:11,916
+[gasps]
+
+64
+00:05:15,375 --> 00:05:16,625
+[MISAKI]
+Huh?
+
+65
+00:05:21,208 --> 00:05:23,750
+[MISAKI sighs]
+
+66
+00:05:26,125 --> 00:05:28,333
+[groans]
+
+67
+00:05:45,708 --> 00:05:46,958
+[MORI]
+Misaki?
+
+68
+00:05:47,041 --> 00:05:48,708
+Can you hear me?
+
+69
+00:05:50,041 --> 00:05:51,125
+[gasps]
+
+70
+00:05:51,208 --> 00:05:52,333
+Are you okay?
+
+71
+00:05:52,416 --> 00:05:54,250
+Uh, yeah.
+
+72
+00:06:01,958 --> 00:06:02,916
+Where'd we come out?
+
+73
+00:06:03,000 --> 00:06:04,416
+And how?
+
+74
+00:06:06,333 --> 00:06:08,750
+Inspect systems for damage.
+
+75
+00:06:08,833 --> 00:06:10,833
+Radar and scanner online,
+but they're blank.
+
+76
+00:06:10,916 --> 00:06:13,416
+Long-range transmission
+seems to be working, too.
+
+77
+00:06:13,500 --> 00:06:16,291
+But we most likely can't
+communicate very far.
+
+78
+00:06:16,375 --> 00:06:18,208
+Those signals won't
+resonate beyond this space
+
+79
+00:06:18,291 --> 00:06:20,583
+to reach the outside.
+
+80
+00:06:20,666 --> 00:06:21,625
+Captain.
+
+81
+00:06:21,708 --> 00:06:22,916
+I think the most
+likely explanation
+
+82
+00:06:23,000 --> 00:06:25,791
+is we've fallen into
+a dimensional fault.
+
+83
+00:06:25,875 --> 00:06:27,750
+You mean where
+dimensions intersect.
+
+84
+00:06:27,833 --> 00:06:30,166
+A gap space
+created between them.
+
+85
+00:06:30,250 --> 00:06:31,750
+[TOKUGAWA]
+Engine room to bridge.
+
+86
+00:06:31,833 --> 00:06:33,583
+I don't know what's causing
+it or where it's going.
+
+87
+00:06:33,666 --> 00:06:36,625
+But the Wave Motion Engine
+is leaking energy, Captain.
+
+88
+00:06:36,708 --> 00:06:38,333
+Then shut her down.
+
+89
+00:06:46,125 --> 00:06:49,416
+[OKITA] This fault seems to be
+causing an inverse reaction.
+
+90
+00:06:49,500 --> 00:06:51,375
+Normally, energy flows
+from other dimensions
+
+91
+00:06:51,458 --> 00:06:55,000
+into the Wave Motion Engine
+for a nearly infinite supply.
+
+92
+00:06:55,083 --> 00:06:58,416
+But here, energy is leaking
+from the engine to the outside.
+
+93
+00:06:58,500 --> 00:06:59,500
+[ANALYZER]
+Warning.
+
+94
+00:06:59,583 --> 00:07:01,500
+Multiple unidentified
+objects ahead.
+
+95
+00:07:01,583 --> 00:07:02,833
+[gasps]
+
+96
+00:07:02,916 --> 00:07:04,708
+What the hell?
+
+97
+00:07:09,458 --> 00:07:11,916
+This place is
+like a ship graveyard.
+
+98
+00:07:12,000 --> 00:07:13,833
+[SANADA]
+They probably couldn't escape.
+
+99
+00:07:13,916 --> 00:07:17,625
+Doomed to wander this
+dimensional fault for eternity.
+
+100
+00:07:17,708 --> 00:07:20,416
+It's like a
+Sargasso Sea in space.
+
+101
+00:07:23,041 --> 00:07:24,416
+Nothing unusual, sir.
+
+102
+00:07:24,500 --> 00:07:25,791
+[SANADA]
+Understood.
+
+103
+00:07:25,875 --> 00:07:27,833
+[ANALYZER] Gamilan ship
+detected at eleven o'clock.
+
+104
+00:07:27,916 --> 00:07:30,166
+Identified as L-Class cruiser.
+
+105
+00:07:34,666 --> 00:07:36,083
+It's online!
+
+106
+00:07:36,166 --> 00:07:38,166
+The Gamilan vessel appears
+to be armed and on high alert!
+
+107
+00:07:38,250 --> 00:07:39,625
+It looks like they're alone.
+
+108
+00:07:39,708 --> 00:07:41,333
+Should we attack?
+
+109
+00:07:42,208 --> 00:07:44,708
+We clearly have the
+advantage in firepower!
+
+110
+00:07:44,791 --> 00:07:46,583
+If two lions chest-deep
+in quicksand
+
+111
+00:07:46,666 --> 00:07:49,166
+choose to fight each other
+instead of trying to escape,
+
+112
+00:07:49,250 --> 00:07:51,125
+both will sink and perish.
+
+113
+00:07:51,208 --> 00:07:53,041
+I'm betting the
+Gamilans understand that
+
+114
+00:07:53,125 --> 00:07:54,833
+just as well as we do.
+
+115
+00:07:54,916 --> 00:07:57,666
+Captain, we're being
+hailed by the enemy ship.
+
+116
+00:07:57,750 --> 00:07:59,583
+Let's open a channel.
+
+117
+00:07:59,666 --> 00:08:01,958
+[AIHARA]
+Alpha Two, stand by in catapult.
+
+118
+00:08:07,250 --> 00:08:09,166
+Cosmo Zero now
+ready for takeoff.
+
+119
+00:08:09,250 --> 00:08:10,583
+Fighter spotted, sir.
+
+120
+00:08:10,666 --> 00:08:12,541
+They've launched it.
+
+121
+00:08:15,458 --> 00:08:17,583
+Launch the Cosmo Zero.
+
+122
+00:08:26,916 --> 00:08:28,458
+[AIHARA]
+<i>Yamato</i> to Alpha Two.
+
+123
+00:08:28,541 --> 00:08:29,791
+You are instructed to escort
+
+124
+00:08:29,875 --> 00:08:32,208
+the Gamilan plane
+safely to Hangar Three.
+
+125
+00:08:32,291 --> 00:08:34,875
+I don't buy this "envoy"
+business, it's a trap.
+
+126
+00:08:34,958 --> 00:08:36,791
+They claim they know how
+to get out of this place,
+
+127
+00:08:36,875 --> 00:08:38,750
+so it's a risk we have to take.
+
+128
+00:08:38,833 --> 00:08:40,291
+Yeah, but it doesn't
+make any sense.
+
+129
+00:08:40,375 --> 00:08:43,000
+If they know how to escape,
+then why are they still here?
+
+130
+00:08:43,083 --> 00:08:45,208
+We're gonna
+find out soon enough.
+
+131
+00:09:15,791 --> 00:09:16,958
+[MAINTENANCE]
+Pressurize Hangar Three.
+
+132
+00:09:17,041 --> 00:09:18,750
+Stay on your toes, everyone
+
+133
+00:09:20,458 --> 00:09:21,666
+[IWATA]
+Pressure rising.
+
+134
+00:09:21,750 --> 00:09:24,208
+Oxygen in hangar now
+approaching normal levels.
+
+135
+00:09:27,291 --> 00:09:28,958
+[MORI]
+So that's a Gamilan?
+
+136
+00:09:29,041 --> 00:09:31,208
+[AIHARA] Man, what do
+you think they look like?
+
+137
+00:09:31,291 --> 00:09:33,125
+[NANBU] They're trying to
+exterminate the human race!
+
+138
+00:09:33,208 --> 00:09:36,166
+They're prob'ly fanged,
+bug-eyed monsters!
+
+139
+00:09:36,250 --> 00:09:37,625
+Hey, look!
+
+140
+00:09:44,958 --> 00:09:46,125
+[NANBU]
+What?
+
+141
+00:09:46,208 --> 00:09:47,500
+But, that's impossible!
+
+142
+00:09:47,583 --> 00:09:48,500
+No way.
+
+143
+00:09:48,583 --> 00:09:50,291
+They look just like humans!
+
+144
+00:09:50,375 --> 00:09:52,791
+They're humanoid;
+we can certainly say that much.
+
+145
+00:09:52,875 --> 00:09:53,708
+Crazy.
+
+146
+00:09:53,791 --> 00:09:56,083
+[OTA]
+That's a female, right?
+
+147
+00:09:56,166 --> 00:09:58,791
+Her skin. It's blue.
+
+148
+00:10:05,000 --> 00:10:09,375
+[ANALYZER speaking Gamilan]
+
+
+149
+00:10:09,458 --> 00:10:11,833
+[speaking Gamilan]
+
+
+150
+00:10:11,916 --> 00:10:13,125
+There's no need for it.
+
+151
+00:10:13,208 --> 00:10:15,458
+I can translate your
+language with this device.
+
+152
+00:10:15,541 --> 00:10:17,958
+Now to start, I want
+to confirm something.
+
+153
+00:10:18,041 --> 00:10:19,916
+Is this a Teron vessel?
+
+154
+00:10:20,000 --> 00:10:21,250
+Teron?
+
+155
+00:10:21,333 --> 00:10:23,583
+You call her the
+<i>Yamato</i> , yes or no?
+
+156
+00:10:23,666 --> 00:10:25,208
+[KODAI]
+Huh?
+
+157
+00:10:28,750 --> 00:10:30,250
+[BRIDGE OFFICER A] Lower
+Storm Leader Ditz is docked
+
+158
+00:10:30,333 --> 00:10:31,625
+with the <i>Yamato</i> .
+
+159
+00:10:31,708 --> 00:10:33,666
+[NERGE]
+If that is the <i>Yamato</i> .
+
+160
+00:10:33,750 --> 00:10:35,250
+It would be quite
+a fortunate break
+
+161
+00:10:35,333 --> 00:10:38,583
+for a ship full of second-class
+Gamilans like yourself, Captain.
+
+162
+00:10:38,666 --> 00:10:40,666
+You fell into this.
+
+163
+00:10:40,750 --> 00:10:44,125
+But Director-General Gimleh
+will be pleased, nonetheless.
+
+164
+00:10:44,208 --> 00:10:46,166
+Imperial Guard.
+
+165
+00:10:47,083 --> 00:10:48,166
+[MELDA]
+I'm a Gamilan pilot
+
+166
+00:10:48,250 --> 00:10:51,166
+of the 707th
+Galactic Theater Air Corps.
+
+167
+00:10:51,250 --> 00:10:52,916
+Name is Melda Ditz.
+
+168
+00:10:53,000 --> 00:10:54,458
+Lower Storm Leader.
+
+169
+00:10:54,541 --> 00:10:56,000
+Lieutenant Susumu Kodai.
+
+170
+00:10:56,083 --> 00:10:57,791
+Chief of Tactical.
+
+171
+00:11:00,500 --> 00:11:02,666
+You may be interested to
+know that within the empire
+
+172
+00:11:02,750 --> 00:11:04,833
+there are other humanoid
+species like your own
+
+173
+00:11:04,916 --> 00:11:06,333
+without blue skin.
+
+174
+00:11:06,416 --> 00:11:07,375
+You don't say.
+
+175
+00:11:07,458 --> 00:11:09,000
+They are inferior races
+from planets
+
+176
+00:11:09,083 --> 00:11:11,625
+we've colonized or
+systems we've absorbed.
+
+177
+00:11:11,708 --> 00:11:14,208
+We call them
+second-class Gamilans.
+
+178
+00:11:14,291 --> 00:11:16,625
+You always start
+negotiations with insults?
+
+179
+00:11:16,708 --> 00:11:18,083
+Well do your people
+always start them
+
+180
+00:11:18,166 --> 00:11:20,375
+by bringing a
+weapon to the table?
+
+181
+00:11:20,458 --> 00:11:21,541
+[gasps]
+
+182
+00:11:21,625 --> 00:11:23,291
+But, of course,
+I shouldn't be surprised,
+
+183
+00:11:23,375 --> 00:11:26,000
+considering you Terons love war
+so much you attacked us
+
+184
+00:11:26,083 --> 00:11:27,916
+without a formal declaration.
+
+185
+00:11:28,000 --> 00:11:30,000
+Don't feed us lies,
+you started this!
+
+186
+00:11:30,083 --> 00:11:32,125
+For generations my
+family's served the empire
+
+187
+00:11:32,208 --> 00:11:33,750
+with honor and integrity.
+
+188
+00:11:33,833 --> 00:11:36,291
+And I swear on that honor
+I'm speaking the truth.
+
+189
+00:11:36,375 --> 00:11:37,625
+Nonsense!
+
+190
+00:11:37,708 --> 00:11:40,791
+They attacked us first,
+how can they dispute that?
+
+191
+00:11:43,041 --> 00:11:46,958
+What's he doing?
+
+192
+00:11:47,041 --> 00:11:49,458
+Now, what's your proposal?
+
+193
+00:11:53,125 --> 00:11:55,041
+[OKITA]
+The Wave Motion Gun?
+
+194
+00:11:55,125 --> 00:11:56,291
+Yeah.
+
+195
+00:11:56,375 --> 00:11:58,333
+Interesting and quite
+possible, theoretically.
+
+196
+00:11:58,416 --> 00:11:59,916
+As the name implies,
+
+197
+00:12:00,000 --> 00:12:03,250
+the gun creates Dimensional Wave
+Motion along its line of fire.
+
+198
+00:12:03,333 --> 00:12:04,708
+If we aim the bow
+at the phase boundary
+
+199
+00:12:04,791 --> 00:12:06,750
+of this dimensional
+fault and fire it.
+
+200
+00:12:06,833 --> 00:12:08,166
+The resulting wave
+of interference
+
+201
+00:12:08,250 --> 00:12:10,916
+should open a hole
+we can pass through.
+
+202
+00:12:11,000 --> 00:12:13,916
+But how do they know what
+the Wave Motion Gun can do?
+
+203
+00:12:14,000 --> 00:12:15,666
+They were probably
+watching when we broke through
+
+204
+00:12:15,750 --> 00:12:18,291
+that stellar prominence
+from Gleise 581.
+
+205
+00:12:18,375 --> 00:12:20,583
+But the Wave Motion Engine
+can't recharge here,
+
+206
+00:12:20,666 --> 00:12:23,250
+and the gun would deplete
+most of our remaining energy.
+
+207
+00:12:23,333 --> 00:12:25,958
+So, your little plan would
+knock the <i>Yamato</i> off-line!
+
+208
+00:12:26,041 --> 00:12:27,666
+And that's where <i>we</i> come in.
+
+209
+00:12:27,750 --> 00:12:28,791
+Use your gun and we promise
+
+210
+00:12:28,875 --> 00:12:31,625
+to use our ship
+to tow yours to safety.
+
+211
+00:12:31,708 --> 00:12:32,791
+We need your help to create
+
+212
+00:12:32,875 --> 00:12:34,875
+a passageway out of this
+dimensional fault.
+
+213
+00:12:34,958 --> 00:12:38,166
+And you need our help to get
+out once that passage is open.
+
+214
+00:12:38,250 --> 00:12:41,166
+Unless we work together both
+ships will be lost.
+
+215
+00:12:41,250 --> 00:12:42,583
+[SHIMA]
+How can we trust them?
+
+216
+00:12:42,666 --> 00:12:44,583
+After we fire the gun
+there's nothing to stop them
+
+217
+00:12:44,666 --> 00:12:46,583
+from leaving us here to die!
+
+218
+00:12:46,666 --> 00:12:48,125
+Why wouldn't they betray us?
+
+219
+00:12:48,208 --> 00:12:51,083
+These are the same demons
+who blame us for the war.
+
+220
+00:12:53,750 --> 00:12:54,708
+While we stand around talking,
+
+221
+00:12:54,791 --> 00:12:56,875
+the engine continues
+to leak energy.
+
+222
+00:12:56,958 --> 00:12:58,916
+So, whatever we do
+we need to decide quickly,
+
+223
+00:12:59,000 --> 00:13:01,708
+or the Wave Motion Gun
+won't even be an option.
+
+224
+00:13:01,791 --> 00:13:02,666
+I agree, Chief.
+
+225
+00:13:02,750 --> 00:13:04,750
+We don't have time to hesitate.
+
+226
+00:13:04,833 --> 00:13:06,583
+Okay. So what do we do now?
+
+227
+00:13:06,666 --> 00:13:09,041
+I mean is there
+anything we can do?
+
+228
+00:13:09,125 --> 00:13:10,541
+There is.
+
+229
+00:13:14,375 --> 00:13:17,333
+We can choose to
+believe the Gamilans.
+
+230
+00:13:23,833 --> 00:13:25,083
+We've all decided.
+
+231
+00:13:25,166 --> 00:13:27,291
+That we're going
+to agree to your plan.
+
+232
+00:13:27,375 --> 00:13:29,500
+I'm glad to hear it.
+
+233
+00:13:29,583 --> 00:13:31,291
+Thank you, Terons.
+
+234
+00:13:33,666 --> 00:13:37,708
+[LANG] This is Captain
+Vars Lang, of the EX-178.
+
+235
+00:13:37,791 --> 00:13:40,500
+This is the <i>Yamato</i> 's
+Captain, Juzo Okita.
+
+236
+00:13:40,583 --> 00:13:43,916
+Captain Lang, I want to
+thank you for your proposal.
+
+237
+00:13:44,000 --> 00:13:46,416
+[LANG] Just like you, we've
+been trapped in this space,
+
+238
+00:13:46,500 --> 00:13:48,708
+with no means to escape.
+
+239
+00:13:48,791 --> 00:13:52,791
+I thank you as well,
+for agreeing to our plan.
+
+240
+00:13:52,875 --> 00:13:55,375
+Lower Storm Leader Ditz
+will remain on your vessel
+
+241
+00:13:55,458 --> 00:13:57,291
+until we've both
+made it to safety,
+
+242
+00:13:57,375 --> 00:14:00,625
+serving as a point of contact
+and a gesture of goodwill.
+
+243
+00:14:00,708 --> 00:14:02,166
+[NERGE]
+Hmph!
+
+244
+00:14:02,250 --> 00:14:04,708
+I guess it never hurts
+to have a hostage.
+
+245
+00:14:04,791 --> 00:14:08,666
+[LANG] But once we return to
+normal space, our truce ends.
+
+246
+00:14:08,750 --> 00:14:10,416
+I understand.
+
+247
+00:14:10,500 --> 00:14:13,333
+[LANG] I look forward
+to our battle, Captain.
+
+248
+00:14:14,416 --> 00:14:16,208
+They've ended
+the transmission, sir.
+
+249
+00:14:16,291 --> 00:14:17,583
+Once it's done,
+
+250
+00:14:17,666 --> 00:14:18,958
+we'll be too drained to
+even use our Shock Cannons.
+
+251
+00:14:19,041 --> 00:14:20,833
+I'm well aware.
+
+252
+00:14:20,916 --> 00:14:23,791
+This is a promise from
+one soldier to another.
+
+253
+00:14:23,875 --> 00:14:26,583
+[NERGE] So Admiral Ditz's
+daughter stays with them?
+
+254
+00:14:26,666 --> 00:14:30,291
+A clever way to
+buy their trust. Heh!
+
+255
+00:14:34,666 --> 00:14:36,833
+[MELDA]
+That's a beautiful stone.
+
+256
+00:14:36,916 --> 00:14:39,166
+Not nearly as precious
+as noble blue, of course,
+
+257
+00:14:39,250 --> 00:14:41,791
+but red is still a lovely color.
+
+258
+00:14:41,875 --> 00:14:44,208
+[YAMAMOTO]
+Red is the color of my home.
+
+259
+00:14:44,291 --> 00:14:46,708
+And my color, too.
+
+260
+00:14:46,791 --> 00:14:50,083
+It seems to be quite
+important to you.
+
+261
+00:14:50,166 --> 00:14:52,458
+It's the same as Kodai's gun.
+
+262
+00:14:52,541 --> 00:14:54,291
+And what does that mean?
+
+263
+00:14:54,375 --> 00:14:57,583
+[YAMAMOTO] Both are mementos
+our loved ones left behind.
+
+264
+00:14:59,083 --> 00:15:00,041
+They're gone.
+
+265
+00:15:00,125 --> 00:15:02,291
+Because you murdered them.
+
+266
+00:15:20,583 --> 00:15:22,916
+Gamilan ship firing tow beams.
+
+267
+00:15:34,041 --> 00:15:36,333
+Switch to emergency power.
+
+268
+00:15:37,375 --> 00:15:38,958
+It looks like it's begun.
+
+269
+00:15:39,041 --> 00:15:40,916
+Prepare to fire Wave Motion Gun!
+
+270
+00:15:41,000 --> 00:15:42,541
+Safety lock released, Captain.
+
+271
+00:15:42,625 --> 00:15:45,000
+Activating the force injector.
+
+272
+00:15:45,083 --> 00:15:46,875
+Releasing final safety.
+
+273
+00:15:46,958 --> 00:15:49,708
+[NANBU] Tachyon particle
+pressure rising in chamber.
+
+274
+00:15:52,083 --> 00:15:53,000
+Path is clear.
+
+275
+00:15:53,083 --> 00:15:54,750
+Gamilan ship out of firing line.
+
+276
+00:15:54,833 --> 00:15:57,500
+Engage anti-shock
+and anti-flare defenses.
+
+277
+00:16:05,750 --> 00:16:07,916
+Activating the targeting scope.
+
+278
+00:16:08,000 --> 00:16:10,250
+Electronic cross-gauge,
+brightness twenty.
+
+279
+00:16:10,333 --> 00:16:12,166
+Five seconds 'til go.
+
+280
+00:16:12,250 --> 00:16:16,125
+Four. Three. Two. One.
+
+281
+00:16:16,208 --> 00:16:17,333
+And fire.
+
+282
+00:16:17,416 --> 00:16:19,041
+Fire!
+
+283
+00:16:31,666 --> 00:16:33,791
+It's working, there's a passage!
+
+284
+00:16:33,875 --> 00:16:35,708
+[SHIMA]
+But now we're dead in the water.
+
+285
+00:16:35,791 --> 00:16:38,958
+Will those demons
+really save us?
+
+286
+00:16:39,041 --> 00:16:41,125
+[BRIDGE OFFICER C] Phase
+boundary fissure confirmed.
+
+287
+00:16:41,208 --> 00:16:42,666
+It's an exit.
+
+288
+00:16:42,750 --> 00:16:45,416
+Continue towing operation
+through the passage.
+
+289
+00:16:45,500 --> 00:16:48,166
+Let me know as soon
+as we're both out.
+
+290
+00:16:48,250 --> 00:16:51,125
+Gamilan ship moving into
+breech, beams holding.
+
+291
+00:16:53,125 --> 00:16:53,916
+Captain Lang.
+
+292
+00:16:54,000 --> 00:16:55,291
+This is the perfect chance!
+
+293
+00:16:55,375 --> 00:16:56,625
+I'm in command of this ship.
+
+294
+00:16:56,708 --> 00:16:59,333
+You're along for the ride.
+
+295
+00:17:00,250 --> 00:17:02,500
+Hail our Lord Supreme!
+
+296
+00:17:08,333 --> 00:17:10,041
+[EX-178 VOICE]
+Tow beam output normalized.
+
+297
+00:17:10,125 --> 00:17:12,083
+Performance optimal.
+
+298
+00:17:13,583 --> 00:17:15,333
+Tow beams receding,
+they cut us loose!
+
+299
+00:17:15,416 --> 00:17:16,416
+[KODAI]
+Huh?
+
+300
+00:17:16,500 --> 00:17:17,791
+The Gamilan ship
+is transmitting a signal
+
+301
+00:17:17,875 --> 00:17:20,333
+through the opening
+and out to normal space, sir!
+
+302
+00:17:20,416 --> 00:17:22,416
+It's encrypted,
+I can't decipher!
+
+303
+00:17:22,500 --> 00:17:25,375
+Just like I thought,
+they are gonna leave us here!
+
+304
+00:17:29,458 --> 00:17:32,041
+That's what we get
+for trusting them.
+
+305
+00:17:33,875 --> 00:17:34,916
+[MELDA]
+That can't be!
+
+306
+00:17:35,000 --> 00:17:36,541
+[YAMAMOTO]
+I knew it.
+
+307
+00:17:39,125 --> 00:17:41,666
+You were just
+the sacrificial lamb.
+
+308
+00:17:42,083 --> 00:17:43,625
+[LANG]
+What is this?
+
+309
+00:17:43,708 --> 00:17:45,083
+[TOW BEAM CONTROLLER]
+Captain, he made me!
+
+310
+00:17:45,166 --> 00:17:46,625
+You severed the tow beams
+
+311
+00:17:46,708 --> 00:17:49,166
+and alerted Commander Goer
+we found the <i>Yamato</i> .
+
+312
+00:17:49,250 --> 00:17:52,375
+I'm going to report this
+treason to Imperial Command.
+
+313
+00:17:52,458 --> 00:17:54,125
+You accuse me of treason?
+
+314
+00:17:54,208 --> 00:17:55,458
+You're the traitor, Captain.
+
+315
+00:17:55,541 --> 00:17:56,666
+They're Terons!
+
+316
+00:17:56,750 --> 00:17:58,541
+They're our sworn enemy!
+
+317
+00:17:59,750 --> 00:18:02,416
+[YAMAMOTO]
+You were playing us all along.
+
+318
+00:18:07,833 --> 00:18:09,541
+If you think I'm
+the enemy, shoot.
+
+319
+00:18:09,625 --> 00:18:11,166
+Don't hesitate.
+
+320
+00:18:22,250 --> 00:18:24,583
+Gamilan tow beams have
+been redeployed, sir.
+
+321
+00:18:24,666 --> 00:18:25,250
+Huh?
+
+322
+00:18:25,333 --> 00:18:26,333
+I don't understand.
+
+323
+00:18:26,416 --> 00:18:27,416
+Stay on alert.
+
+324
+00:18:27,500 --> 00:18:30,375
+Right now our
+only focus is escape.
+
+325
+00:18:45,416 --> 00:18:48,083
+Three minutes to reentry
+into normal space.
+
+326
+00:18:51,916 --> 00:18:54,833
+This passageway is
+becoming unstable, sir.
+
+327
+00:18:56,333 --> 00:18:58,750
+Maintaining distance
+to Gamilan ship.
+
+328
+00:18:58,833 --> 00:19:00,500
+One more minute.
+
+329
+00:19:01,208 --> 00:19:02,958
+[BRIDGE OFFICER C]
+Detecting phase fluctuation.
+
+330
+00:19:03,041 --> 00:19:05,041
+Accelerating to 12 gat.
+
+331
+00:19:15,583 --> 00:19:18,166
+You're a pilot, aren't you?
+
+332
+00:19:23,958 --> 00:19:25,625
+We don't need a little pistol,
+
+333
+00:19:25,708 --> 00:19:27,833
+we'll settle this
+in our cockpits.
+
+334
+00:19:32,625 --> 00:19:34,041
+[SHIMA]
+Tow beams released.
+
+335
+00:19:34,125 --> 00:19:35,375
+[MORI]
+Coordinates confirmed.
+
+336
+00:19:35,458 --> 00:19:37,583
+Ship has returned
+to normal space.
+
+337
+00:19:37,666 --> 00:19:38,666
+Yeah!
+
+338
+00:19:38,750 --> 00:19:40,375
+Looks like we
+threaded another needle.
+
+339
+00:19:40,458 --> 00:19:42,208
+Yeah, guess we're safe for now.
+
+340
+00:19:42,291 --> 00:19:43,875
+Oh, man.
+
+341
+00:19:48,916 --> 00:19:50,458
+[LANG]
+All crew to battle stations.
+
+342
+00:19:50,541 --> 00:19:52,750
+Order Ditz to return.
+
+343
+00:19:53,416 --> 00:19:55,166
+All right, <i>Yamato</i> .
+
+344
+00:19:55,250 --> 00:19:56,791
+You should make a good foe.
+
+345
+00:19:56,875 --> 00:19:59,000
+[BRIDGE OFFICER C]
+Detecting Geschtam Jumps!
+
+346
+00:20:01,791 --> 00:20:02,791
+Gamilan vessels!
+
+347
+00:20:02,875 --> 00:20:04,166
+Warping in off port bow!
+
+348
+00:20:04,250 --> 00:20:05,583
+So, it was a trap.
+
+349
+00:20:05,666 --> 00:20:07,333
+You're in our
+line of fire, Captain.
+
+350
+00:20:07,416 --> 00:20:09,041
+And I won't risk
+my glorious victory
+
+351
+00:20:09,125 --> 00:20:12,583
+just to spare
+your crew of inferiors.
+
+352
+00:20:12,666 --> 00:20:14,083
+But Commander Goer!
+
+353
+00:20:14,166 --> 00:20:18,916
+Admiral Ditz's daughter is
+still on board that Teron ship!
+
+354
+00:20:19,000 --> 00:20:20,916
+Sir.
+
+355
+00:20:21,000 --> 00:20:23,416
+I don't care. Fire!
+
+356
+00:20:24,958 --> 00:20:26,083
+[BRIDGE OFFICER C]
+Our ships are firing!
+
+357
+00:20:26,166 --> 00:20:27,833
+Evasive maneuver!
+
+358
+00:20:32,875 --> 00:20:35,666
+[OTA]
+EX-178 has been destroyed!
+
+359
+00:20:38,791 --> 00:20:41,083
+[BRIDGE OFFICER E]
+Confirmed destruction of EX-178.
+
+360
+00:20:41,166 --> 00:20:43,500
+[GOER] We'll report the <i>Yamato</i>
+shot down our missing ship
+
+361
+00:20:43,583 --> 00:20:45,625
+with the Admiral's
+daughter on board.
+
+362
+00:20:45,708 --> 00:20:46,541
+That clear?
+
+363
+00:20:46,625 --> 00:20:47,125
+Yes, sir.
+
+364
+00:20:47,208 --> 00:20:48,500
+Now then!
+
+365
+00:20:48,583 --> 00:20:51,500
+All ships, open fire
+on that <i>Yamato</i> pest!
+
+366
+00:21:03,666 --> 00:21:05,333
+[OTA]
+Hit to portside armor plating!
+
+367
+00:21:05,416 --> 00:21:06,708
+[SANADA]
+Damage control, get down there!
+
+368
+00:21:06,791 --> 00:21:08,750
+Permission to attack, sir!
+
+369
+00:21:08,833 --> 00:21:10,833
+Turn the ship to their flank.
+
+370
+00:21:10,916 --> 00:21:11,791
+We're running, sir?
+
+371
+00:21:11,875 --> 00:21:13,541
+Just trust me.
+
+372
+00:21:19,833 --> 00:21:21,041
+Don't let them escape!
+
+373
+00:21:21,125 --> 00:21:22,916
+Hunt them down!
+
+374
+00:21:30,208 --> 00:21:32,583
+[MORI] The enemy fleet is being
+sucked into the breech!
+
+375
+00:21:32,666 --> 00:21:34,125
+[BRIDGE OFFICER E]
+Dimensional quake!
+
+376
+00:21:34,208 --> 00:21:36,541
+Looks like there's a dimensional
+fault at the epicenter, sir!
+
+377
+00:21:36,625 --> 00:21:37,875
+Get us out of here!
+
+378
+00:21:37,958 --> 00:21:40,166
+Execute emergency Geschtam Jump!
+
+379
+00:21:40,250 --> 00:21:41,708
+Sir!
+
+380
+00:21:41,791 --> 00:21:43,375
+We're the flagship, we can't
+leave until we've issued orders!
+
+381
+00:21:43,458 --> 00:21:45,666
+Do you think I want to die here?
+
+382
+00:21:50,666 --> 00:21:52,625
+Enemy threat neutralized.
+
+383
+00:21:52,708 --> 00:21:54,541
+The phase boundary
+we distorted tried to collapse
+
+384
+00:21:54,625 --> 00:21:56,000
+to its original position,
+
+385
+00:21:56,083 --> 00:21:59,750
+leading the fault to temporarily
+expand and suck them in.
+
+386
+00:22:16,083 --> 00:22:18,833
+Yes. Yes, understood, sir.
+
+387
+00:22:20,083 --> 00:22:22,958
+We just encountered
+a Gamilan fleet.
+
+388
+00:22:23,041 --> 00:22:24,125
+Your ship.
+
+389
+00:22:24,208 --> 00:22:26,250
+It's gone.
+
+390
+00:24:18,416 --> 00:24:20,250
+[OKITA]
+Every heart harbors secrets.
+
+391
+00:24:20,333 --> 00:24:23,250
+Feelings we're unwilling or
+unready to share.
+
+392
+00:24:23,333 --> 00:24:24,416
+Facing the nightmares
+
+393
+00:24:24,500 --> 00:24:26,833
+and mistakes of our
+pasts takes courage,
+
+394
+00:24:26,916 --> 00:24:29,208
+but it's crucial before we
+can turn toward the future,
+
+395
+00:24:29,291 --> 00:24:30,750
+and blaze ahead.
+
+396
+00:24:30,833 --> 00:24:33,125
+The <i>Yamato</i> must blaze
+toward that future now,
+
+397
+00:24:33,208 --> 00:24:36,375
+on a trail too long
+to comprehend.
+
+398
+00:24:36,458 --> 00:24:39,375
+Next time: "A World I Once Saw."
+
+399
+00:24:39,458 --> 00:24:41,458
+There are 323 days left
+
+400
+00:24:41,541 --> 00:24:44,250
+before the extinction
+of the human race.
+

@@ -1,0 +1,1932 @@
+﻿1
+00:00:11,958 --> 00:00:13,083
+[SOUSUKE]
+You can see the whole school
+
+2
+00:00:13,166 --> 00:00:15,291
+from the top of this building.
+
+3
+00:00:15,375 --> 00:00:19,791
+Right. Sounds good.
+So about that AS of yours.
+
+4
+00:00:19,875 --> 00:00:22,375
+How long can it keep jamming?
+
+5
+00:00:22,458 --> 00:00:24,500
+[SOUSUKE]
+For up to two minutes.
+
+6
+00:00:24,583 --> 00:00:27,125
+And it has to be still
+to keep the signal up.
+
+7
+00:00:27,208 --> 00:00:30,041
+[KANAME] But if the signal
+covers the whole school...
+
+8
+00:00:30,125 --> 00:00:31,416
+[SOUSUKE]
+Yes.
+
+9
+00:00:31,500 --> 00:00:33,666
+That should stop them from
+detonating the bombs.
+
+10
+00:00:33,750 --> 00:00:37,541
+[KANAME] Yeah. So we need
+to evacuate everyone,
+
+11
+00:00:37,625 --> 00:00:40,583
+and save Kyoko, in the
+span of two minutes.
+
+12
+00:00:40,666 --> 00:00:43,166
+[SOUSUKE] How do we determine
+what frequency to jam?
+
+13
+00:00:43,250 --> 00:00:45,125
+[KANAME]
+I'll write an algorithm for it.
+
+14
+00:00:45,208 --> 00:00:46,916
+[SOUSUKE]
+In the Arbalest's programming?
+
+15
+00:00:47,000 --> 00:00:48,375
+You can do that?
+
+16
+00:00:48,458 --> 00:00:52,083
+[KANAME] It's written
+in BAda, right? I can do it.
+
+17
+00:00:52,166 --> 00:00:54,000
+[SOUSUKE]
+How long do you need?
+
+18
+00:00:54,083 --> 00:00:55,500
+[KANAME]
+One hour.
+
+19
+00:00:55,583 --> 00:00:57,250
+[SOUSUKE]
+I'll buy us some time.
+
+20
+00:01:01,041 --> 00:01:02,916
+[sirens blaring]
+
+21
+00:01:03,000 --> 00:01:05,500
+[phone buzzes]
+
+22
+00:01:05,583 --> 00:01:07,625
+We're setting up
+a trace right now.
+
+23
+00:01:08,875 --> 00:01:10,708
+[KURAMA] Have you
+made a decision yet?
+
+24
+00:01:10,791 --> 00:01:12,791
+[SOUSUKE]
+I can't agree to your terms.
+
+25
+00:01:12,875 --> 00:01:14,250
+[KURAMA]
+You can't, huh?
+
+26
+00:01:14,333 --> 00:01:16,958
+So you don't mind if
+we kill your friends?
+
+27
+00:01:17,041 --> 00:01:18,916
+If you want to murder
+a bunch of schoolchildren,
+
+28
+00:01:19,000 --> 00:01:20,458
+that's none of my concern.
+
+29
+00:01:20,541 --> 00:01:21,916
+[KANAME]
+Wha--
+
+30
+00:01:22,000 --> 00:01:23,583
+[KURAMA] I could kill a few
+now to see if that's true.
+
+31
+00:01:23,666 --> 00:01:27,083
+Do what you want. But I've
+been ordered to kill the girl
+
+32
+00:01:27,166 --> 00:01:29,500
+before letting her
+fall into your hands.
+
+33
+00:01:29,583 --> 00:01:32,166
+Heh. All right, so what
+are your demands?
+
+34
+00:01:32,250 --> 00:01:34,000
+[SOUSUKE]
+My safety guaranteed.
+
+35
+00:01:34,083 --> 00:01:35,416
+You don't get it, do you?
+
+36
+00:01:35,500 --> 00:01:38,125
+I think I'll just set off
+my first bomb right now.
+
+37
+00:01:38,208 --> 00:01:40,041
+[SOUSUKE]
+Then negotiations have failed.
+
+38
+00:01:40,125 --> 00:01:40,750
+[phone clicks]
+
+39
+00:01:40,833 --> 00:01:43,000
+[KANAME gasps]
+Hey!
+
+40
+00:01:43,083 --> 00:01:44,375
+Everything's fine.
+
+41
+00:01:44,458 --> 00:01:45,291
+But you--
+
+42
+00:01:45,375 --> 00:01:47,208
+--[phone buzzes]
+--[KANAME gasps]
+
+43
+00:01:47,291 --> 00:01:49,458
+[KURAMA sighs] What matters
+to me is that I can
+
+44
+00:01:49,541 --> 00:01:50,750
+secure the girl.
+
+45
+00:01:50,833 --> 00:01:52,208
+I'm aware.
+
+46
+00:01:52,291 --> 00:01:55,291
+[KURAMA] That AS of yours
+is a threat, though.
+
+47
+00:01:55,375 --> 00:01:56,541
+For us to deal,
+
+48
+00:01:56,625 --> 00:01:58,833
+I need you to prove that
+it's been neutralized.
+
+49
+00:01:58,916 --> 00:02:00,875
+[SOUSUKE] Then at eleven
+hundred hours I'll have it moved
+
+50
+00:02:00,958 --> 00:02:03,875
+to the abandoned factory in
+Sengawa's second district.
+
+51
+00:02:03,958 --> 00:02:06,083
+It'll be on standby, hatch open.
+
+52
+00:02:06,166 --> 00:02:07,583
+[KURAMA]
+We'll be watching.
+
+53
+00:02:07,666 --> 00:02:09,291
+[SOUSUKE]
+Of course.
+
+54
+00:02:09,375 --> 00:02:11,833
+Next, I'll send the girl to
+Sengawa Station alone.
+
+55
+00:02:11,916 --> 00:02:13,500
+While you're picking her up,
+
+56
+00:02:13,583 --> 00:02:15,333
+I'll disappear,
+and you won't follow.
+
+57
+00:02:15,416 --> 00:02:16,500
+[KANAME gasps]
+
+58
+00:02:27,958 --> 00:02:31,625
+[KURAMA] Fine. But if things
+don't go exactly to plan,
+
+59
+00:02:31,708 --> 00:02:34,291
+I'll blow up the school
+and everyone in it.
+
+60
+00:02:34,375 --> 00:02:38,958
+As I've already informed you,
+that doesn't amount to a threat.
+
+61
+00:02:39,041 --> 00:02:41,208
+Al. Cancel stealth mode.
+
+62
+00:02:41,291 --> 00:02:42,250
+[AL]
+Roger.
+
+63
+00:02:42,333 --> 00:02:44,458
+[KANAME]
+Wait. What're you thinking?
+
+64
+00:02:44,541 --> 00:02:46,250
+[SOUSUKE] It's not safe here.
+We're leaving.
+
+65
+00:02:46,333 --> 00:02:47,958
+That isn't what I meant.
+
+66
+00:02:48,041 --> 00:02:50,333
+Why'd you basically
+just offer to surrender?
+
+67
+00:02:50,416 --> 00:02:53,291
+[SOUSUKE]
+Tactical deception. I lied.
+
+68
+00:02:53,375 --> 00:02:55,125
+It should buy us time.
+
+69
+00:02:56,166 --> 00:02:59,666
+[KURAMA chcukles]
+The punk's got some balls.
+
+70
+00:03:14,791 --> 00:03:22,166
+[phone buzzes]
+
+71
+00:03:22,250 --> 00:03:24,875
+[SOUSUKE] It's Sagara.
+I need a favor.
+
+72
+00:03:30,458 --> 00:03:31,791
+[KANAME]
+I'm finished.
+
+73
+00:03:33,291 --> 00:03:35,916
+Right, it's time for
+me to get moving, then.
+
+74
+00:03:37,125 --> 00:03:39,291
+And me? What now?
+
+75
+00:03:39,375 --> 00:03:42,541
+[SOUSUKE] Take cover somewhere.
+I'll find you once it's done.
+
+76
+00:03:42,625 --> 00:03:45,041
+C'mon, there has to be some
+way I can help you out.
+
+77
+00:03:45,125 --> 00:03:46,416
+[SOUSUKE]
+You've done plenty already.
+
+78
+00:03:46,500 --> 00:03:48,416
+[KANAME sighs]
+
+79
+00:03:48,500 --> 00:03:52,750
+[SOUSUKE] If I don't
+come back... read this.
+
+80
+00:03:52,833 --> 00:03:55,541
+You'll find contacts and
+a Mithril safehouse.
+
+81
+00:03:55,625 --> 00:03:58,041
+But why wouldn't you
+be able to make it?
+
+82
+00:03:59,541 --> 00:04:01,541
+[SOUSUKE]
+You know what I mean.
+
+83
+00:04:01,625 --> 00:04:03,250
+But Sousuke...
+
+84
+00:04:13,791 --> 00:04:15,333
+[KANAME gasps]
+
+85
+00:04:15,416 --> 00:04:16,958
+I'll see you soon.
+
+86
+00:04:26,750 --> 00:04:28,500
+Take care of yourself.
+
+87
+00:04:44,875 --> 00:04:47,583
+[SOUSUKE]
+Al. Stay on alert, mode four.
+
+88
+00:04:47,666 --> 00:04:50,500
+[AL]
+Roger... Sergeant?
+
+89
+00:04:50,583 --> 00:04:52,125
+[SOUSUKE grunts]
+What is it?
+
+90
+00:04:52,208 --> 00:04:55,500
+[AL] I'd like to request that
+you refrain from leaving me.
+
+91
+00:04:55,583 --> 00:04:57,291
+Why would you ask that?
+
+92
+00:04:59,541 --> 00:05:01,208
+[AL]
+Because I've had a premonition.
+
+93
+00:05:01,291 --> 00:05:02,583
+[SOUSUKE]
+Of what?
+
+94
+00:05:02,666 --> 00:05:05,250
+[AL] I feel that you and
+I will soon part ways.
+
+95
+00:05:05,333 --> 00:05:07,125
+[SOUSUKE gasps]
+
+96
+00:05:16,500 --> 00:05:19,166
+Just remain on alert,
+like I instructed.
+
+97
+00:05:22,000 --> 00:05:23,833
+[HENCHMAN B grunts]
+
+98
+00:05:23,916 --> 00:05:26,958
+Thirty minutes to go. Should we
+send men to the station?
+
+99
+00:05:27,041 --> 00:05:29,833
+There's no point.
+The girl won't be there.
+
+100
+00:05:29,916 --> 00:05:31,375
+So then.
+
+101
+00:05:31,458 --> 00:05:35,166
+He's planning something. When he
+pulls the trigger, so do I.
+
+102
+00:05:36,291 --> 00:05:41,375
+[KANAME] Don't get in the way.
+Just stay here... and be quiet.
+
+103
+00:05:44,291 --> 00:05:48,375
+[KANAME]
+Did I just see...?
+
+104
+00:05:48,458 --> 00:05:53,416
+[KANAME grunts]
+
+105
+00:05:54,333 --> 00:05:56,416
+[bell rings]
+
+106
+00:05:56,500 --> 00:05:58,375
+[HAYASHIMIZU]
+This is the student council.
+
+107
+00:05:58,458 --> 00:06:00,791
+A serious accident has just
+occurred on the fourth floor
+
+108
+00:06:00,875 --> 00:06:02,500
+of the north building.
+
+109
+00:06:02,583 --> 00:06:04,958
+It was, of course,
+caused by Sagara.
+
+110
+00:06:05,041 --> 00:06:05,833
+[STUDENTS groan]
+
+111
+00:06:05,916 --> 00:06:07,166
+Due to this accident,
+
+112
+00:06:07,250 --> 00:06:09,666
+some poison gas may have
+leaked into the air vents.
+
+113
+00:06:09,750 --> 00:06:12,541
+Students and staff are
+to evacuate at once.
+
+114
+00:06:12,625 --> 00:06:15,041
+Poison gas? There's no way.
+
+115
+00:06:15,125 --> 00:06:18,541
+[KURAMA sighs]
+Well, that's the end of that.
+
+116
+00:06:18,625 --> 00:06:20,416
+[KURAMA gasps]
+
+117
+00:06:20,500 --> 00:06:22,666
+[HENCHMAN A gasps]
+
+118
+00:06:22,750 --> 00:06:25,583
+[KURAMA] It's not working.
+What's going on here?
+
+119
+00:06:25,666 --> 00:06:28,125
+We've been hit by a
+powerful jamming signal.
+
+120
+00:06:28,208 --> 00:06:30,458
+Let me see what the source is.
+
+121
+00:06:30,541 --> 00:06:31,208
+[HENCHMAN A gasps]
+
+122
+00:06:31,291 --> 00:06:32,375
+[KURAMA grunts]
+
+123
+00:06:33,833 --> 00:06:34,916
+Run for it!
+
+124
+00:06:35,000 --> 00:06:37,375
+That damn Sagara's
+gone and done it again!
+
+125
+00:06:37,458 --> 00:06:39,208
+[MALE STUDENT C]
+We're all gonna die!
+
+126
+00:06:39,291 --> 00:06:41,875
+As quick as expected.
+
+127
+00:06:41,958 --> 00:06:43,625
+[HENCHMAN A]
+We're still being jammed, sir!
+
+128
+00:06:43,708 --> 00:06:45,166
+It's coming from--
+
+129
+00:06:45,250 --> 00:06:47,041
+[KURAMA grunts]
+
+130
+00:06:47,125 --> 00:06:51,333
+[gasps]
+That mech. How'd it get there?
+
+131
+00:06:51,416 --> 00:06:53,875
+Contact all units and have
+them attack the Arm Slave
+
+132
+00:06:53,958 --> 00:06:56,208
+at point delta.
+What are you waiting for?
+
+133
+00:06:56,291 --> 00:06:57,708
+Does that include the Venoms?
+
+134
+00:06:57,791 --> 00:07:01,541
+Of course it does.
+Call back all three!
+
+135
+00:07:01,625 --> 00:07:05,208
+[AL] Warning:. Enemy infantry
+detected at close range.
+
+136
+00:07:05,291 --> 00:07:08,041
+Twelve in total.
+I am taking fire.
+
+137
+00:07:08,125 --> 00:07:10,625
+[SOUSUKE] How much longer
+can you jam the signal?
+
+138
+00:07:10,708 --> 00:07:12,708
+[AL]
+Ninety seconds remaining.
+
+139
+00:07:14,708 --> 00:07:15,750
+[SOUSUKE]
+Kyoko!
+
+140
+00:07:15,833 --> 00:07:17,666
+[KYOKO whimpers]
+
+141
+00:07:17,750 --> 00:07:20,208
+[SOUSUKE grunts]
+I'll get you out.
+
+142
+00:07:20,291 --> 00:07:22,583
+These strange men
+came out of nowhere.
+
+143
+00:07:22,666 --> 00:07:25,208
+What about Kaname?
+Where is she?
+
+144
+00:07:25,291 --> 00:07:27,458
+She's fine. No need to worry.
+
+145
+00:07:27,541 --> 00:07:30,125
+--[explosions]
+--[BOTH grunt]
+
+146
+00:07:30,208 --> 00:07:31,333
+[KYOKO]
+What's going on?
+
+147
+00:07:31,416 --> 00:07:32,333
+Doesn't matter.
+
+148
+00:07:32,416 --> 00:07:34,041
+[KYOKO]
+You sure?
+
+149
+00:07:34,125 --> 00:07:38,041
+I'll bypass the detonator.
+Don't move.
+
+150
+00:07:38,125 --> 00:07:41,291
+[AL] Jamming signal will
+fail within 20 seconds.
+
+151
+00:07:44,416 --> 00:07:48,250
+[SOUSUKE] I know I have to cut
+one of these cables, but...
+
+152
+00:07:48,333 --> 00:07:49,083
+...which one?
+
+153
+00:07:49,166 --> 00:07:51,458
+[AL]
+Ten seconds left.
+
+154
+00:07:51,541 --> 00:07:52,583
+Eight.
+
+155
+00:07:52,666 --> 00:07:53,833
+Seven.
+
+156
+00:07:53,916 --> 00:07:55,291
+Six.
+
+157
+00:07:59,333 --> 00:08:02,333
+[AL] Jamming suspended.
+Changing position.
+
+158
+00:08:07,750 --> 00:08:09,250
+What is all this?
+
+159
+00:08:09,333 --> 00:08:10,833
+[SOUSUKE]
+Don't move yet.
+
+160
+00:08:10,916 --> 00:08:13,291
+Please, just tell me
+what's happening.
+
+161
+00:08:13,375 --> 00:08:15,041
+I don't want to die out
+here without knowing
+
+162
+00:08:15,125 --> 00:08:16,375
+what any of this was about.
+
+163
+00:08:16,458 --> 00:08:19,333
+How'd you find me?
+What are you?
+
+164
+00:08:20,458 --> 00:08:23,166
+[KURAMA]
+He's a hitman.
+
+165
+00:08:23,250 --> 00:08:26,875
+No sudden movements.
+You got that, Sagara?
+
+166
+00:08:26,958 --> 00:08:28,458
+This girl your friend?
+
+167
+00:08:28,541 --> 00:08:30,875
+Then surely, you've told her how
+you're not actually a student.
+
+168
+00:08:30,958 --> 00:08:32,375
+Stop this.
+
+169
+00:08:32,458 --> 00:08:34,416
+See, an employer of his forged
+his paperwork so he could
+
+170
+00:08:34,500 --> 00:08:38,708
+infiltrate this school.
+All for Kaname Chidori.
+
+171
+00:08:38,791 --> 00:08:40,041
+That's not true, is it?
+
+172
+00:08:40,125 --> 00:08:43,333
+[SOUSUKE grunts]
+It wasn't just--
+
+173
+00:08:43,416 --> 00:08:47,291
+[TEACHER] Miss Tokiwa?
+Are you up here? Please answer!
+
+174
+00:08:47,375 --> 00:08:49,708
+We have to evacuate the school.
+Please come out...
+
+175
+00:08:49,791 --> 00:08:51,750
+Must be a teacher.
+
+176
+00:08:51,833 --> 00:08:53,083
+[Teacher]
+What are you doing?
+
+177
+00:08:53,166 --> 00:08:55,375
+Look. You're not authorized
+to be on school gr--
+
+178
+00:08:56,750 --> 00:09:00,000
+[KURAMA]
+Where is Kaname Chidori hiding?
+
+179
+00:09:00,083 --> 00:09:02,166
+Don't worry Miss Tokiwa,
+you'll be okay.
+
+180
+00:09:02,250 --> 00:09:04,041
+I'll talk some sense
+into these guys.
+
+181
+00:09:04,125 --> 00:09:05,458
+I won't let anyone hurt you!
+
+182
+00:09:05,541 --> 00:09:07,958
+[KYOKO gasps]
+Who're you?
+
+183
+00:09:08,041 --> 00:09:08,833
+Wait...
+
+184
+00:09:08,916 --> 00:09:09,541
+[TEACHER chuckles]
+
+185
+00:09:09,625 --> 00:09:12,791
+[HENCHMEN, KURAMA grunt]
+
+186
+00:09:12,875 --> 00:09:14,041
+[SOUSUKE]
+Close your eyes, Kyoko!
+
+187
+00:09:14,125 --> 00:09:19,083
+[ALL grunting]
+
+188
+00:09:31,750 --> 00:09:33,750
+Damn.
+
+189
+00:09:33,833 --> 00:09:35,291
+[sighs]
+
+190
+00:09:35,375 --> 00:09:38,500
+So you're Wraith.
+Wasn't expecting a woman.
+
+191
+00:09:38,583 --> 00:09:39,958
+Where have you been
+this whole time?
+
+192
+00:09:40,041 --> 00:09:42,750
+[WRAITH sighs]
+Was gonna ask you that.
+
+193
+00:09:44,583 --> 00:09:47,083
+I've been trying to
+track you down.
+
+194
+00:09:47,166 --> 00:09:48,291
+Huh...
+
+195
+00:09:48,375 --> 00:09:49,333
+[headset beeps]
+
+196
+00:09:49,416 --> 00:09:51,666
+[AL]
+Three enemy AS's approaching.
+
+197
+00:09:51,750 --> 00:09:53,875
+Should I prepare to intercept?
+
+198
+00:09:53,958 --> 00:09:54,791
+[SOUSUKE]
+Pick me up.
+
+199
+00:09:54,875 --> 00:09:56,666
+[AL]
+Roger.
+
+200
+00:09:56,750 --> 00:09:59,208
+[WRAITH]
+What do you plan to do now?
+
+201
+00:09:59,291 --> 00:10:00,625
+I'll fight them.
+
+202
+00:10:08,625 --> 00:10:10,958
+[KYOKO whimpers]
+
+203
+00:10:11,041 --> 00:10:12,125
+[SOUSUKE]
+Kyoko.
+
+204
+00:10:14,625 --> 00:10:17,791
+[SOUSUKE]
+I really did have fun here.
+
+205
+00:10:17,875 --> 00:10:19,083
+Thank you.
+
+206
+00:10:23,875 --> 00:10:25,583
+--[radar beeps]
+--[AL] Missiles detected.
+
+207
+00:10:25,666 --> 00:10:29,583
+Impact in two, one...
+
+208
+00:10:29,666 --> 00:10:32,208
+[STUDENTS scream]
+
+209
+00:10:38,291 --> 00:10:41,958
+[SOUSUKE grunts]
+Damn it!
+
+210
+00:10:42,041 --> 00:10:43,708
+[WRAITH]
+Sergeant! Sergeant Sagara!
+
+211
+00:10:43,791 --> 00:10:45,125
+[SOUSUKE]
+Huh?
+
+212
+00:10:45,208 --> 00:10:46,458
+[gasps]
+
+213
+00:10:46,541 --> 00:10:50,583
+[KYOKO groans]
+
+214
+00:10:50,666 --> 00:10:54,875
+I'll try to keep her stable.
+Hurry up and go!
+
+215
+00:10:54,958 --> 00:10:56,833
+Sergeant. What're you doing?
+
+216
+00:10:56,916 --> 00:10:58,541
+The enemy's coming!
+
+217
+00:11:00,041 --> 00:11:05,875
+[breathes heavily]
+
+218
+00:11:05,958 --> 00:11:07,375
+[grunts]
+
+219
+00:11:36,583 --> 00:11:39,125
+[pants]
+
+220
+00:11:54,541 --> 00:11:56,333
+[CROWD gasps]
+
+221
+00:11:56,416 --> 00:12:00,708
+[KANAME pants]
+
+222
+00:12:00,791 --> 00:12:01,875
+[radio beeps]
+
+223
+00:12:01,958 --> 00:12:03,458
+[KURAMA]
+What do you want?
+
+224
+00:12:03,541 --> 00:12:06,291
+[LEONARD] Seems you're
+having a tough time.
+
+225
+00:12:06,375 --> 00:12:10,208
+[KURAMA] Nice of you to notice.
+We didn't find the girl, either.
+
+226
+00:12:10,291 --> 00:12:12,166
+I'm about to give up.
+
+227
+00:12:12,250 --> 00:12:14,333
+[LEONARD]
+No need for that.
+
+228
+00:12:14,416 --> 00:12:17,416
+Take Sagara hostage,
+and she will appear.
+
+229
+00:12:17,500 --> 00:12:18,583
+[KURAMA]
+Hm...
+
+230
+00:12:19,416 --> 00:12:20,541
+[KURAMA grunts]
+
+231
+00:12:25,583 --> 00:12:29,125
+[KURAMA grunts]
+
+232
+00:12:30,875 --> 00:12:33,458
+[KURAMA grunts]
+That's not happening.
+
+233
+00:12:33,541 --> 00:12:37,875
+He's crushing my Vipers.
+The bastard's on a rampage.
+
+234
+00:12:37,958 --> 00:12:40,333
+[LEONARD] Keep him
+occupied as best you can.
+
+235
+00:12:40,416 --> 00:12:42,125
+I'll be there shortly.
+
+236
+00:12:43,958 --> 00:12:46,666
+[SABINA] Is it really necessary
+that you go yourself?
+
+237
+00:12:46,750 --> 00:12:50,166
+Every now and again, I do
+need to get some exercise.
+
+238
+00:12:50,250 --> 00:12:52,791
+Well, be careful. I'd hate
+to see you get injured.
+
+239
+00:12:52,875 --> 00:12:56,583
+[LEONARD] Thank you, Sabina.
+I doubt I'll be gone long.
+
+240
+00:13:17,875 --> 00:13:21,500
+[SOUSUKE]
+That should be... all three.
+
+241
+00:13:21,583 --> 00:13:22,541
+Huh?
+
+242
+00:13:24,625 --> 00:13:25,791
+[SOUSUKE gasps]
+
+243
+00:13:25,875 --> 00:13:26,916
+[computer beeps]
+
+244
+00:13:27,000 --> 00:13:28,291
+[gasps]
+
+245
+00:13:28,375 --> 00:13:32,375
+[AL] Transport plane detected.
+Affiliation unknown.
+
+246
+00:13:32,458 --> 00:13:36,333
+[SOUSUKE] It looked like...
+something dropped.
+
+247
+00:13:36,416 --> 00:13:37,958
+[AL]
+Enemy unit at Six 'o clock.
+
+248
+00:13:38,041 --> 00:13:39,208
+[SOUSUKE grunts]
+
+249
+00:13:58,375 --> 00:14:00,375
+[CROWD shouts]
+
+250
+00:14:02,375 --> 00:14:05,625
+[AL] Its strength and mobility
+surpass that of the Codarl type.
+
+251
+00:14:05,708 --> 00:14:10,083
+We are outclassed. I recommend
+immediate withdrawal.
+
+252
+00:14:10,166 --> 00:14:11,333
+[SOUSUKE grunts]
+
+253
+00:14:11,416 --> 00:14:12,458
+[LEONARD]
+Greetings, Sagara.
+
+254
+00:14:12,541 --> 00:14:14,250
+[SOUSUKE gasps]
+So it's him.
+
+255
+00:14:14,333 --> 00:14:16,291
+[LEONARD]
+This is your last chance.
+
+256
+00:14:16,375 --> 00:14:19,666
+Can I persuade you to let
+me take Miss Chidori?
+
+257
+00:14:19,750 --> 00:14:22,916
+I think you know my answer.
+
+258
+00:14:23,000 --> 00:14:25,625
+Yes, I suppose I do.
+
+259
+00:14:27,833 --> 00:14:29,333
+[LEONARD]
+Tell me...
+
+260
+00:14:29,416 --> 00:14:33,375
+In refusing to acknowledge the
+hopelessness of your position,
+
+261
+00:14:33,458 --> 00:14:35,041
+do you think you look cool?
+
+262
+00:14:35,125 --> 00:14:37,833
+Huh? What are you getting at?
+
+263
+00:14:37,916 --> 00:14:39,208
+[LEONARD]
+Nothing really.
+
+264
+00:14:39,291 --> 00:14:43,500
+It's just something I...
+hate about you!
+
+265
+00:14:52,375 --> 00:14:54,916
+[SOUSUKE grunts]
+Huh?
+
+266
+00:14:56,666 --> 00:15:01,625
+[KANAME pants]
+
+267
+00:15:03,291 --> 00:15:05,041
+Kyoko. No.
+
+268
+00:15:05,125 --> 00:15:07,500
+[WRAITH] Hm? You're supposed
+to be hiding!
+
+269
+00:15:07,583 --> 00:15:12,916
+[KANAME pants] Kyoko,
+you're hurt. Kyoko? Kyoko!
+
+270
+00:15:13,000 --> 00:15:15,791
+You have to stay back.
+I'm treating her wound.
+
+271
+00:15:15,875 --> 00:15:17,458
+Will she make it?
+
+272
+00:15:17,541 --> 00:15:18,916
+I can't say for sure.
+
+273
+00:15:19,000 --> 00:15:23,958
+[KANAME gasps]
+No... She can't...
+
+274
+00:15:24,041 --> 00:15:26,750
+I'm so sorry Kyoko.
+
+275
+00:15:26,833 --> 00:15:28,041
+It's my fault.
+
+276
+00:15:29,500 --> 00:15:30,625
+[gasps]
+
+277
+00:15:30,708 --> 00:15:33,125
+You have seen how
+this plays out.
+
+278
+00:15:33,208 --> 00:15:35,083
+[KANAME gasps]
+Don't do this!
+
+279
+00:15:36,333 --> 00:15:38,958
+[LEONARD]
+You get it, don't you?
+
+280
+00:15:39,041 --> 00:15:40,541
+[KANAME]
+No, don't kill him!
+
+281
+00:15:42,500 --> 00:15:45,125
+[LEONARD]
+I'm in a foul mood.
+
+282
+00:15:45,208 --> 00:15:48,166
+[KANAME]
+I'm begging you, please!
+
+283
+00:15:48,250 --> 00:15:49,416
+[SOUSUKE grunts]
+
+284
+00:15:49,500 --> 00:15:53,208
+[LEONARD] No one can stop this.
+Except for you.
+
+285
+00:15:53,291 --> 00:15:55,375
+[KANAME]
+I'll even love you.
+
+286
+00:15:58,125 --> 00:16:00,583
+That determination
+and selflessness.
+
+287
+00:16:00,666 --> 00:16:02,916
+That heroic strength.
+
+288
+00:16:03,000 --> 00:16:05,125
+[KANAME]
+I'll try hard. I will.
+
+289
+00:16:05,208 --> 00:16:09,333
+[LEONARD] Why? Why does
+she waste it on him?
+
+290
+00:16:11,500 --> 00:16:13,875
+[AL] Condensors are
+critically damaged.
+
+291
+00:16:13,958 --> 00:16:15,583
+Generator is disabled.
+
+292
+00:16:15,666 --> 00:16:21,166
+I advise you to abandon--
+mech--and escape.
+
+293
+00:16:21,250 --> 00:16:23,458
+Thanks for everything.
+
+294
+00:16:23,541 --> 00:16:25,958
+Al. Your discharge...
+
+295
+00:16:29,000 --> 00:16:30,666
+...is approved!
+
+296
+00:16:34,541 --> 00:16:37,125
+[KANAME]
+Stop it right now!
+
+297
+00:16:41,625 --> 00:16:43,041
+[SOUSUKE]
+Chidori!
+
+298
+00:16:43,125 --> 00:16:45,500
+Let him live, and I'll go!
+
+299
+00:16:45,583 --> 00:16:48,166
+[LEONARD]
+Go with whom?
+
+300
+00:16:48,250 --> 00:16:51,583
+[KANAME] With you.
+I'll go wherever you want!
+
+301
+00:16:51,666 --> 00:16:56,000
+Huh?! Chidori,
+don't do this! Chidori!
+
+302
+00:16:56,083 --> 00:17:01,250
+[LEONARD] The lady made
+her choice. You lose, Sagara!
+
+303
+00:17:01,333 --> 00:17:06,500
+[SOUSUKE]
+Chidori. Come back. Chidori!
+
+304
+00:17:06,583 --> 00:17:09,125
+[KANAME]
+I have no choice!
+
+305
+00:17:09,208 --> 00:17:11,458
+Goodbye.
+
+306
+00:17:11,541 --> 00:17:17,916
+I swear to you. I give you
+my word. I'll bring you back!
+
+307
+00:17:18,000 --> 00:17:21,333
+I promise you I'll find a way!
+
+308
+00:17:21,416 --> 00:17:23,833
+You belong here, and no
+matter what I have to do,
+
+309
+00:17:23,916 --> 00:17:28,041
+I'll bring you back! Chidori!
+
+310
+00:17:38,708 --> 00:17:43,666
+[SOUSUKE groans]
+
+311
+00:17:49,833 --> 00:17:52,208
+Go on! Defend the
+captain with your life!
+
+312
+00:17:52,291 --> 00:17:53,625
+Wait! No. Don't-
+
+313
+00:17:53,708 --> 00:17:55,666
+[YANG]
+Don't stop! Hurry!
+
+314
+00:17:59,166 --> 00:17:59,791
+[TESSA gasps]
+
+315
+00:17:59,875 --> 00:18:02,583
+[MALE SOLDIER A groans]
+
+316
+00:18:02,666 --> 00:18:03,541
+[YANG shouts]
+
+317
+00:18:03,625 --> 00:18:06,041
+[TESSA grunts]
+
+318
+00:18:06,125 --> 00:18:08,000
+You're hit. No! Yang!
+
+319
+00:18:08,083 --> 00:18:11,291
+[YANG grunts] You have
+to run. Just leave me!
+
+320
+00:18:11,375 --> 00:18:12,750
+I won't!
+
+321
+00:18:14,625 --> 00:18:15,833
+[MALE SOLDIER B]
+This is Alpha Six.
+
+322
+00:18:15,916 --> 00:18:17,750
+We've secured the
+enemy commander.
+
+323
+00:18:17,833 --> 00:18:21,958
+[MALE SOLDIER C]
+Stand up. Get out of the way!
+
+324
+00:18:23,833 --> 00:18:24,791
+Stop it!
+
+325
+00:18:24,875 --> 00:18:26,500
+--[gunshots]
+--[MALE SOLDIERS grunt]
+
+326
+00:18:32,166 --> 00:18:36,583
+What a pain. These creeps are
+showing up all over the place.
+
+327
+00:18:36,666 --> 00:18:38,208
+Melissa!
+
+328
+00:18:39,458 --> 00:18:40,958
+[MAO]
+What's our situation?
+
+329
+00:18:41,041 --> 00:18:42,958
+[TESSA]
+This base will fall soon.
+
+330
+00:18:43,041 --> 00:18:45,208
+I ordered a withdrawal
+to the Danaan.
+
+331
+00:18:45,291 --> 00:18:47,625
+But I don't know
+how many made it.
+
+332
+00:18:47,708 --> 00:18:50,875
+Lieutenant Commander
+Kalinin stayed behind.
+
+333
+00:18:50,958 --> 00:18:52,500
+[MAO]
+I see.
+
+334
+00:18:52,583 --> 00:18:54,958
+[TESSA] We haven't heard
+from Captain Clouseau,
+
+335
+00:18:55,041 --> 00:18:59,541
+or Sergeant Weber.
+I fear that they... well...
+
+336
+00:18:59,625 --> 00:19:03,291
+Damn it all. I'll make those
+Amalgam bastards pay for this.
+
+337
+00:19:03,375 --> 00:19:05,000
+[TESSA]
+I intend to, as well.
+
+338
+00:19:05,083 --> 00:19:06,125
+[MAO gasps]
+
+339
+00:19:08,875 --> 00:19:12,041
+[MAO chuckles]
+Now that's the spirit.
+
+340
+00:19:12,125 --> 00:19:14,916
+That's why I love ya, Tessa.
+
+341
+00:19:15,000 --> 00:19:17,375
+[TESSA chuckles]
+Same to you, Mao!
+
+342
+00:19:18,625 --> 00:19:21,958
+[MARDUKAS] We've been waiting
+for you, Madame Captain.
+
+343
+00:19:22,041 --> 00:19:24,958
+The Tuatha de Danaan,
+ruler of the seven seas,
+
+344
+00:19:25,041 --> 00:19:26,958
+and mightiest ship
+in human history,
+
+345
+00:19:27,041 --> 00:19:29,000
+is ready to depart at any time.
+
+346
+00:19:29,083 --> 00:19:31,583
+We wait for your command.
+
+347
+00:19:31,666 --> 00:19:35,833
+Commander Mardukas. Mao?
+
+348
+00:19:35,916 --> 00:19:38,416
+I am astounded,
+that even now,
+
+349
+00:19:38,500 --> 00:19:40,583
+you still act with
+such discipline.
+
+350
+00:19:40,666 --> 00:19:42,291
+[MARDUKAS]
+Of course, ma'am.
+
+351
+00:19:42,375 --> 00:19:45,791
+It's in battle that
+discipline is needed most.
+
+352
+00:19:48,750 --> 00:19:50,791
+All hands, board the ship.
+
+353
+00:19:50,875 --> 00:19:52,833
+[DANA]
+Performing final assessment.
+
+354
+00:19:52,916 --> 00:19:56,625
+Group A: complete.
+Group B: complete.
+
+355
+00:19:56,708 --> 00:19:59,166
+Group C: Conditionally complete.
+
+356
+00:19:59,250 --> 00:20:01,500
+Awaiting acknowledgement
+from XO.
+
+357
+00:20:01,583 --> 00:20:03,666
+[MARDUKAS] She'll make
+it for now, Captain.
+
+358
+00:20:03,750 --> 00:20:07,083
+[TESSA] Very well. Set out.
+One third ahead!
+
+359
+00:20:07,166 --> 00:20:10,333
+[MARDUKAS] Aye, Madame Captain.
+Set out. One third ahead!
+
+360
+00:20:10,416 --> 00:20:12,666
+[MALE PROPULSION OFFICER A]
+Setting out. One third ahead.
+
+361
+00:20:18,500 --> 00:20:21,250
+[TESSA] Good. Now open
+all torpedo tubes.
+
+362
+00:20:21,333 --> 00:20:24,500
+[MARDUKAS] Aye, Madame Captain.
+Open all torpedo tubes.
+
+363
+00:20:24,583 --> 00:20:26,708
+[FEMALE CONTROL OFFICER A]
+Opening all torpedo tubes.
+
+364
+00:20:28,625 --> 00:20:29,875
+[MALE RADAR OFFICER A]
+Contact!
+
+365
+00:20:29,958 --> 00:20:33,458
+Whatever this is, it's huge.
+And it's dead ahead.
+
+366
+00:20:33,541 --> 00:20:34,666
+[TESSA]
+That's fine.
+
+367
+00:20:37,583 --> 00:20:40,833
+Launch all of our torpedos.
+And take us to full speed.
+
+368
+00:20:40,916 --> 00:20:42,750
+[MARDUKAS gasps, grunts]
+
+369
+00:20:46,375 --> 00:20:48,250
+Aye aye, Madame Captain.
+
+370
+00:20:48,333 --> 00:20:51,791
+Launch every torpedo as we
+accelerate to full speed!
+
+371
+00:21:07,750 --> 00:21:10,291
+All hands, brace
+yourselves for impact!
+
+372
+00:21:17,791 --> 00:21:21,750
+Do not falter. Push ahead,
+no matter what!
+
+373
+00:21:49,333 --> 00:21:51,041
+[CREW grunts]
+
+374
+00:21:51,125 --> 00:21:53,041
+Who fired those shots?
+
+375
+00:21:57,458 --> 00:22:00,416
+[KURZ chuckles] Mind if
+we hitch a ride, captain?
+
+376
+00:22:00,500 --> 00:22:02,833
+That was a close one,
+even for us.
+
+377
+00:22:02,916 --> 00:22:05,583
+Sergeant Weber!
+Captain Clouseau!
+
+378
+00:22:09,458 --> 00:22:11,041
+[MARDUKAS]
+Those soldiers of ours.
+
+379
+00:22:11,125 --> 00:22:13,250
+They truly are tenacious.
+
+380
+00:22:13,333 --> 00:22:15,708
+And that's our
+greatest advantage.
+
+381
+00:22:15,791 --> 00:22:19,875
+Open hatch 13 immediately.
+Once we've safely recovered
+
+382
+00:22:19,958 --> 00:22:22,958
+Urzu One and Six, we'll break
+through the enemy's net.
+
+383
+00:22:23,041 --> 00:22:26,083
+[MARDUKAS] Aye aye, ma'am.
+Prepare to dive!
+
+384
+00:22:28,875 --> 00:22:31,750
+[ERI] Class, I know this
+is a terrible situation,
+
+385
+00:22:31,833 --> 00:22:35,250
+but we all need to be strong.
+I'm told that it's going to be
+
+386
+00:22:35,333 --> 00:22:37,916
+a while before the
+school's fully repaired.
+
+387
+00:22:38,000 --> 00:22:41,416
+I now things won't seem very
+normal during that time.
+
+388
+00:22:41,500 --> 00:22:46,000
+But I'm going to do my best,
+and I encourage you--
+
+389
+00:22:46,083 --> 00:22:47,458
+Mister Sagara.
+
+390
+00:22:50,208 --> 00:22:52,500
+[SOUSUKE] I don't know what
+you've already been told,
+
+391
+00:22:52,583 --> 00:22:56,958
+but it was me inside
+of that white AS.
+
+392
+00:22:57,041 --> 00:22:59,708
+I am employed, by a
+certain mercenary force,
+
+393
+00:22:59,791 --> 00:23:02,708
+as an active duty AS pilot.
+
+394
+00:23:02,791 --> 00:23:06,333
+I apologize...
+for keeping that secret.
+
+395
+00:23:07,666 --> 00:23:09,500
+[ONO-D]
+I don't want your apology!
+
+396
+00:23:09,583 --> 00:23:12,208
+Why don't you give it to the
+girl you sent to the hospital?
+
+397
+00:23:12,291 --> 00:23:14,416
+Kyoko's still in there,
+did you know that?
+
+398
+00:23:14,500 --> 00:23:15,791
+[SHINJI]
+Ono-D, cut it out!
+
+399
+00:23:15,875 --> 00:23:18,958
+It's screwed up.
+She didn't do anything!
+
+400
+00:23:19,041 --> 00:23:22,541
+Damn you. She would be fine
+if it weren't for you!
+
+401
+00:23:22,625 --> 00:23:23,750
+[SOUSUKE gasps]
+
+402
+00:23:23,833 --> 00:23:27,375
+It should've been you!
+It was your fight!
+
+403
+00:23:27,458 --> 00:23:31,166
+Don't just stand there!
+Say something!
+
+404
+00:23:31,250 --> 00:23:33,708
+[ALL gasp]
+
+405
+00:23:35,875 --> 00:23:37,916
+[ONO-D]
+We were friends, weren't we?
+
+406
+00:23:38,000 --> 00:23:40,875
+So say something.
+Say something.
+
+407
+00:23:42,375 --> 00:23:46,125
+[ONO-D] Tell us. Why?
+Why'd you come here?
+
+408
+00:23:46,208 --> 00:23:47,458
+[SOUSUKE]
+I came here to say--
+
+409
+00:23:47,541 --> 00:23:48,541
+What?
+
+410
+00:23:49,791 --> 00:23:53,125
+[SOUSUKE]
+That I'm going to find Chidori.
+
+411
+00:23:53,208 --> 00:23:56,375
+And bring her back here
+where she belongs.
+
+412
+00:23:56,458 --> 00:24:00,750
+I give you my word.
+I will bring her home.
+
+413
+00:24:00,833 --> 00:24:05,833
+So when she comes back,
+please be ready to welcome her.
+
+414
+00:24:05,916 --> 00:24:09,333
+Thank you. That's all
+I have to say.
+
+415
+00:24:16,375 --> 00:24:19,250
+[SOUSUKE] Next time:.
+"Welcome to the Jungle."
+

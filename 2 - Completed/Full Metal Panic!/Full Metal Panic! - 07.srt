@@ -1,0 +1,1518 @@
+﻿1
+00:01:58,125 --> 00:02:00,875
+[PILOT 1] Twelve o'clock!
+Enemy AS 1 approaching!
+
+2
+00:02:00,958 --> 00:02:01,708
+M9?
+
+3
+00:02:01,791 --> 00:02:03,166
+[PILOT 2]
+I can't confirm!
+
+4
+00:02:11,500 --> 00:02:14,666
+[PILOT 1] Don't stand
+by yourself! Surround it!
+
+5
+00:02:14,750 --> 00:02:15,791
+[PILOT 2]
+I can't lock on!
+
+6
+00:02:15,875 --> 00:02:17,083
+[PILOT 3]
+Right! Go right!
+
+7
+00:02:17,166 --> 00:02:18,583
+[PILOT 1] Calm down,
+there's only one of 'em!
+
+8
+00:02:18,666 --> 00:02:20,500
+He's over there!
+
+9
+00:02:29,833 --> 00:02:31,291
+[panting]
+
+10
+00:02:37,250 --> 00:02:40,583
+[screaming]
+
+11
+00:02:51,541 --> 00:02:52,958
+Sousuke, no!
+
+12
+00:02:56,125 --> 00:02:56,708
+That's it.
+
+13
+00:02:56,791 --> 00:02:57,958
+[SOUSUKE gasps]
+
+14
+00:03:12,333 --> 00:03:14,125
+It's that silver AS...
+
+15
+00:03:16,791 --> 00:03:17,875
+[KANAME gasps]
+
+16
+00:03:24,666 --> 00:03:26,208
+[GAURON chuckles]
+
+17
+00:03:26,291 --> 00:03:29,791
+You're a nimble one, eh?
+
+18
+00:03:29,875 --> 00:03:31,625
+[GAURON]
+Kashim!
+
+19
+00:03:47,041 --> 00:03:49,000
+[KANAME]
+So, who's leading the fight?
+
+20
+00:03:49,083 --> 00:03:51,458
+[KURZ] If it was a regular
+battle, they should be even.
+
+21
+00:03:51,541 --> 00:03:53,666
+But that silver AS
+is somethin' else.
+
+22
+00:03:53,750 --> 00:03:58,000
+It's got some kind of mysterious
+hidden trick going for it.
+
+23
+00:03:58,083 --> 00:03:59,833
+It bounced my cannon ball
+right back at me
+
+24
+00:03:59,916 --> 00:04:01,583
+and toasted my M9.
+
+25
+00:04:01,666 --> 00:04:03,833
+I wonder what magic he's using.
+
+26
+00:04:03,916 --> 00:04:05,000
+Magic, huh?
+
+27
+00:04:05,083 --> 00:04:07,291
+No, I'm afraid it isn't that.
+
+28
+00:04:07,375 --> 00:04:11,208
+This guy isn't using magic,
+but rather, technology.
+
+29
+00:04:11,291 --> 00:04:12,541
+The enemy has it,
+
+30
+00:04:12,625 --> 00:04:14,833
+and it's an integral part
+of his mecha's defenses.
+
+31
+00:04:14,916 --> 00:04:17,125
+K-Kaname...? What do you--
+
+32
+00:04:17,208 --> 00:04:18,666
+He'll lose.
+
+33
+00:04:18,750 --> 00:04:20,875
+Sousuke is going to lose.
+
+34
+00:04:20,958 --> 00:04:23,250
+If it keeps going this way...
+
+35
+00:04:28,458 --> 00:04:29,416
+[GAURON gasps]
+
+36
+00:04:32,916 --> 00:04:34,791
+[SOUSUKE yells]
+
+37
+00:04:46,916 --> 00:04:48,041
+[SOUSUKE growls]
+
+38
+00:04:53,875 --> 00:04:55,000
+What in the--?!
+
+39
+00:05:06,875 --> 00:05:09,375
+[GAURON chuckles]
+
+40
+00:05:09,458 --> 00:05:11,833
+[KURZ]
+OF course, that's what it was!
+
+41
+00:05:11,916 --> 00:05:13,416
+It wasn't a fougade
+
+42
+00:05:13,500 --> 00:05:16,208
+and no reactive armor for the
+shell to bounce off of either.
+
+43
+00:05:16,291 --> 00:05:19,333
+He's just got himself
+an invisible wall.
+
+44
+00:05:19,416 --> 00:05:21,583
+[KANAME]
+Oh my god...
+
+45
+00:05:26,916 --> 00:05:28,375
+[SOUSUKE gasps]
+
+46
+00:05:32,666 --> 00:05:34,041
+How...?
+
+47
+00:05:38,625 --> 00:05:41,833
+What, no damage?! You mean
+even after that impact?
+
+48
+00:05:41,916 --> 00:05:44,791
+What's that?
+What was that noise, Al?
+
+49
+00:05:44,875 --> 00:05:47,333
+[AL A.I.] Executing main
+system boot-up wizard.
+
+50
+00:05:47,416 --> 00:05:49,666
+Twenty seconds and counting
+before system release.
+
+51
+00:05:49,750 --> 00:05:52,833
+Hold on... what are
+you doing, Al? Al!
+
+52
+00:05:57,166 --> 00:06:01,166
+[GAURON] A dud? Huh,
+I guess I should reload.
+
+53
+00:06:02,666 --> 00:06:04,833
+[AL A.I.] Lamda Driver
+initialization complete.
+
+54
+00:06:04,916 --> 00:06:07,375
+A Lamda Driver?
+What on Earth is that?
+
+55
+00:06:07,458 --> 00:06:08,958
+[AL A.I.]
+I don't know. Continue--
+
+56
+00:06:09,041 --> 00:06:10,791
+Give me an answer, Al!
+
+57
+00:06:10,875 --> 00:06:12,375
+[AL A.I.]
+I don't know.
+
+58
+00:06:22,416 --> 00:06:23,750
+[KURZ]
+What the heck is goin' on?
+
+59
+00:06:23,833 --> 00:06:26,625
+My mecha got completely
+shattered by that guy!
+
+60
+00:06:26,708 --> 00:06:29,916
+[KANAME]
+Somehow I... I understand.
+
+61
+00:06:30,000 --> 00:06:33,041
+[KURZ]
+Kaname? Are you okay? Hey!
+
+62
+00:06:33,125 --> 00:06:35,291
+I'm not feeling too well.
+
+63
+00:06:37,166 --> 00:06:39,458
+He doesn't know how
+to use it consciously,
+
+64
+00:06:39,541 --> 00:06:42,958
+it was just a strong defensive
+impulse on his part...
+
+65
+00:06:43,041 --> 00:06:46,541
+Stop! Pull yourself
+together, Kaname!
+
+66
+00:06:47,708 --> 00:06:51,000
+[KANAME]
+A clue... I'll give him a--
+
+67
+00:06:51,083 --> 00:06:53,833
+[KURZ]
+A clue? What kind of a clue?
+
+68
+00:06:53,916 --> 00:06:56,625
+[KANAME] I'm the one
+who's always being saved...
+
+69
+00:06:56,708 --> 00:06:59,125
+This time I'm doing the saving.
+
+70
+00:06:59,208 --> 00:07:02,666
+Artificial contrast
+interference...
+
+71
+00:07:02,750 --> 00:07:04,291
+[KANAME screams]
+
+72
+00:07:05,291 --> 00:07:06,041
+No!
+
+73
+00:07:06,125 --> 00:07:06,958
+Kaname!
+
+74
+00:07:07,041 --> 00:07:09,166
+[KANAME grunts]
+
+75
+00:07:09,250 --> 00:07:13,166
+I'm... not gonna... do it!
+
+76
+00:07:13,250 --> 00:07:15,208
+[KANAME grunts]
+
+77
+00:07:15,291 --> 00:07:16,791
+[KURZ]
+Are you... okay?
+
+78
+00:07:16,875 --> 00:07:20,500
+I need you to give me...
+your radio.
+
+79
+00:07:20,583 --> 00:07:21,666
+[KURZ]
+Huh?
+
+80
+00:07:21,750 --> 00:07:25,041
+C'mon, I need to let
+him know! Hurry up!
+
+81
+00:07:25,125 --> 00:07:26,708
+[GAURON laughs]
+
+82
+00:07:26,791 --> 00:07:30,083
+[GAURON] Very good.
+But can you do it again?
+
+83
+00:07:33,625 --> 00:07:34,875
+[KANAME]
+Sousuke, can you hear me?
+
+84
+00:07:34,958 --> 00:07:36,083
+Is that Chidori?!
+
+85
+00:07:36,166 --> 00:07:38,291
+Listen up! Your enemy
+has loaded his mecha
+
+86
+00:07:38,375 --> 00:07:40,666
+with special and
+dangerous equipment!
+
+87
+00:07:40,750 --> 00:07:44,000
+It's a... It's a machine that
+has the ability to transform
+
+88
+00:07:44,083 --> 00:07:47,916
+the pilot's aggressive impulses
+into actual, physical power!
+
+89
+00:07:48,000 --> 00:07:49,541
+Uh, but, Ch-Chidori...
+
+90
+00:07:49,625 --> 00:07:51,125
+[KANAME]
+Listen to me!
+
+91
+00:07:51,208 --> 00:07:56,125
+I... I don't exactly know the
+reason, but your AS also has it!
+
+92
+00:07:56,208 --> 00:08:00,041
+The Lamda Driver! That's why
+you were safe from his attack!
+
+93
+00:08:00,125 --> 00:08:02,208
+What is the Lamda Driver?
+
+94
+00:08:02,291 --> 00:08:04,583
+You were thinking about
+protecting your body,
+
+95
+00:08:04,666 --> 00:08:05,750
+isn't that right?
+
+96
+00:08:05,833 --> 00:08:08,333
+The device simply
+reacted to your mind.
+
+97
+00:08:08,416 --> 00:08:12,041
+The images in your mind
+take real, physical shape!
+
+98
+00:08:12,125 --> 00:08:15,916
+Images taking real, physical
+shape? But that's impossible!
+
+99
+00:08:19,125 --> 00:08:20,083
+[SOUSKE gasps]
+
+100
+00:08:27,666 --> 00:08:28,666
+[GAURON gasps]
+
+101
+00:08:32,375 --> 00:08:33,791
+What is this thing?
+
+102
+00:08:33,875 --> 00:08:37,208
+The enemy tried to use his power
+to smash you into pieces.
+
+103
+00:08:37,291 --> 00:08:39,041
+But you didn't let him do it.
+
+104
+00:08:39,125 --> 00:08:41,333
+You can also amplify
+your counter attack
+
+105
+00:08:41,416 --> 00:08:42,500
+and all you have to do
+
+106
+00:08:42,583 --> 00:08:45,458
+is focus your hope
+to beat your opponent!
+
+107
+00:08:45,541 --> 00:08:47,750
+Put your whole spirit in!
+
+108
+00:08:47,833 --> 00:08:50,041
+For one single moment!
+
+109
+00:08:56,541 --> 00:08:58,375
+[GAURON laughs]
+
+110
+00:08:58,458 --> 00:09:00,500
+Now it all makes sense, Kashim!
+
+111
+00:09:00,583 --> 00:09:03,416
+Your people have been
+protecting the Whispered!
+
+112
+00:09:03,500 --> 00:09:05,583
+No wonder you have one of these!
+
+113
+00:09:05,666 --> 00:09:08,375
+[KANAME] What are you doing?!
+Use your spirit!
+
+114
+00:09:08,458 --> 00:09:11,750
+I'm trying, but I can't get
+a power field to materialize!
+
+115
+00:09:11,833 --> 00:09:12,791
+Like this?!
+
+116
+00:09:12,875 --> 00:09:14,500
+[GAURON grunts]
+
+117
+00:09:23,083 --> 00:09:26,291
+Just how long do you plan
+to keep up this little dance?
+
+118
+00:09:26,375 --> 00:09:27,333
+Huh?
+
+119
+00:09:29,583 --> 00:09:31,625
+[GARUON] There's not much point;
+I get the impression
+
+120
+00:09:31,708 --> 00:09:34,125
+you don't know how
+to use that device.
+
+121
+00:09:34,208 --> 00:09:35,583
+[SOUSKE growls]
+
+122
+00:09:35,666 --> 00:09:38,333
+[GAURON]
+It's time we put an end to this.
+
+123
+00:09:38,416 --> 00:09:41,708
+[KANAME] Sousuke, you have to
+remember to concentrate, okay?
+
+124
+00:09:41,791 --> 00:09:43,041
+Take a deep breath.
+
+125
+00:09:43,125 --> 00:09:45,708
+When you exhale, put your
+spirit into the shell.
+
+126
+00:09:45,791 --> 00:09:47,250
+That's what you say...
+
+127
+00:09:47,333 --> 00:09:48,833
+[KANAME]
+Then think of this!
+
+128
+00:09:48,916 --> 00:09:52,416
+If you lose, the bad guys are
+gonna rip off all my clothes,
+
+129
+00:09:52,500 --> 00:09:55,583
+play around with my body,
+and kill me when they're done!
+
+130
+00:09:55,666 --> 00:09:57,958
+Imagine that happening to me!
+
+131
+00:10:01,125 --> 00:10:03,166
+[KANAME]
+You hate it, right?
+
+132
+00:10:03,250 --> 00:10:04,666
+[SOUSUKE]
+Right.
+
+133
+00:10:04,750 --> 00:10:06,416
+[KANAME]
+Does it make you mad?
+
+134
+00:10:06,500 --> 00:10:08,208
+[SOUSUKE]
+I guess so.
+
+135
+00:10:08,291 --> 00:10:11,291
+[KANAME] He's trying to
+do these things to me.
+
+136
+00:10:11,375 --> 00:10:14,375
+You can't let him
+do that, can you?
+
+137
+00:10:14,458 --> 00:10:15,750
+[SOUSUKE]
+No!
+
+138
+00:10:15,833 --> 00:10:19,291
+[KANAME]
+Then point the gun at him!
+
+139
+00:10:19,375 --> 00:10:21,875
+Well, well, desperate, are we?
+
+140
+00:10:21,958 --> 00:10:24,375
+I'm so disappointed.
+
+141
+00:10:25,750 --> 00:10:29,000
+You'll be fine.
+Close your eyes, Sousuke.
+
+142
+00:10:29,083 --> 00:10:32,708
+Trust me.
+Imagine it in your mind.
+
+143
+00:10:32,791 --> 00:10:35,833
+In a few seconds,
+you will strike.
+
+144
+00:10:35,916 --> 00:10:38,208
+Don't tell him to close his eyes
+in front of the enemy--!
+
+145
+00:10:38,291 --> 00:10:40,750
+Now you should
+take a deep breath...
+
+146
+00:10:42,458 --> 00:10:45,333
+[GAURON]
+Have fun in hell!
+
+147
+00:10:45,416 --> 00:10:47,625
+[KANAME]
+...hold the image...
+
+148
+00:10:47,708 --> 00:10:49,166
+...and now!
+
+149
+00:10:58,125 --> 00:11:00,416
+...And now!
+
+150
+00:11:00,500 --> 00:11:01,625
+[SOUSUKE grunts]
+
+151
+00:11:57,500 --> 00:12:00,583
+[KANAME]
+Sousuke, are you all right?
+
+152
+00:12:03,041 --> 00:12:04,791
+[SOUSUKE]
+Affirmative.
+
+153
+00:12:10,458 --> 00:12:13,333
+Do you think we could
+have a more suitable vehicle
+
+154
+00:12:13,416 --> 00:12:14,833
+for transporting the injured?
+
+155
+00:12:14,916 --> 00:12:16,791
+[SOUSUKE] Stop complaining
+about everything!
+
+156
+00:12:16,875 --> 00:12:18,625
+How are you feeling, Chidori?
+
+157
+00:12:18,708 --> 00:12:20,208
+Great! Much better, thanks!
+
+158
+00:12:20,291 --> 00:12:23,083
+But I'm not really sure what
+I was talking about back there.
+
+159
+00:12:23,166 --> 00:12:24,166
+Huh?
+
+160
+00:12:32,416 --> 00:12:33,166
+Chidori!
+
+161
+00:12:33,250 --> 00:12:34,041
+[KANAME]
+Huh?!
+
+162
+00:12:34,125 --> 00:12:36,166
+[KANAME screams]
+
+163
+00:12:43,083 --> 00:12:45,875
+[screaming continues]
+
+164
+00:12:46,916 --> 00:12:48,750
+Are you okay there, Chidori?
+
+165
+00:12:51,250 --> 00:12:53,000
+Wait 'til she wakes up.
+
+166
+00:12:53,083 --> 00:12:55,000
+[SOUSUKE groans]
+
+167
+00:13:02,916 --> 00:13:04,416
+[KURZ]
+Look, Kaname, the ocean!
+
+168
+00:13:04,500 --> 00:13:05,833
+[KANAME gasps]
+
+169
+00:13:08,666 --> 00:13:10,458
+[KURZ] As well as a whole
+bunch of those savages
+
+170
+00:13:10,541 --> 00:13:12,375
+to see us off...
+
+171
+00:13:18,166 --> 00:13:20,875
+[MAI]
+Urzu 7, run straight ahead.
+
+172
+00:13:22,791 --> 00:13:25,291
+Sousuke! You've only
+got one chance!
+
+173
+00:13:25,375 --> 00:13:28,583
+You gotta jump, there,
+from the tip of the cape!
+
+174
+00:13:43,708 --> 00:13:46,791
+[MELISSA] Retrieved Urzu 7.
+Placing it in hatch number 4.
+
+175
+00:13:46,875 --> 00:13:48,791
+Urzu 7 in place.
+
+176
+00:13:48,875 --> 00:13:52,250
+[OPERATOR] Closing hatch
+number 4. Two more seconds.
+
+177
+00:13:52,333 --> 00:13:53,500
+Hatch 4 closed.
+
+178
+00:13:53,583 --> 00:13:56,791
+Hard to starboard,
+full-speed bearing 2-0-5.
+
+179
+00:13:56,875 --> 00:13:58,500
+Aye, aye, ma'am.
+
+180
+00:13:58,583 --> 00:14:03,458
+Hard to starboard! Set a course
+for 2-0-5, maximum speed!
+
+181
+00:14:18,291 --> 00:14:21,208
+[KALININ]
+Took a bit of a beating, I see.
+
+182
+00:14:21,291 --> 00:14:23,625
+What happened to Gauron?
+
+183
+00:14:23,708 --> 00:14:26,416
+[SOUSUKE] He died.
+There's no mistake this time.
+
+184
+00:14:26,500 --> 00:14:29,041
+[KALININ] Is that right?
+I wish I'd been able to be there
+
+185
+00:14:29,125 --> 00:14:31,875
+to witness it with my own eyes.
+
+186
+00:14:31,958 --> 00:14:35,125
+Is there something
+you wanted to tell me?
+
+187
+00:14:35,208 --> 00:14:40,666
+Uh, yes, sir.
+The Lamda Driver... what is it?
+
+188
+00:14:40,750 --> 00:14:43,583
+I'm well versed in my basic
+physics, Lt. Commander,
+
+189
+00:14:43,666 --> 00:14:45,708
+but I've never heard of a
+device that could generate
+
+190
+00:14:45,791 --> 00:14:47,541
+so much power.
+
+191
+00:14:49,416 --> 00:14:52,250
+[KALININ] Your generation may
+find this hard to believe,
+
+192
+00:14:52,333 --> 00:14:56,541
+but current weapons technology
+isn't at all normal.
+
+193
+00:14:56,625 --> 00:15:02,083
+That Lamda Driver, the ECS, the
+submarine's propulsion system.
+
+194
+00:15:02,166 --> 00:15:04,458
+All of them are over-developed.
+
+195
+00:15:04,541 --> 00:15:06,000
+Have you ever thought
+how unnatural it is
+
+196
+00:15:06,083 --> 00:15:08,416
+for robots ripped from the
+pages of science fiction
+
+197
+00:15:08,500 --> 00:15:12,083
+to be so widely used
+on the battlefield?
+
+198
+00:15:12,166 --> 00:15:16,125
+Well, today...
+was the first time I did.
+
+199
+00:15:16,208 --> 00:15:18,875
+[KALININ] That question has
+bothered me for a long time.
+
+200
+00:15:18,958 --> 00:15:22,833
+I thought these things couldn't
+exist, but they are real.
+
+201
+00:15:22,916 --> 00:15:26,041
+Modern weapons like the AS are
+supported by a system known as
+
+202
+00:15:26,125 --> 00:15:28,375
+Black Technology.
+
+203
+00:15:28,458 --> 00:15:32,666
+Who invented it, or better yet,
+where did it come from?
+
+204
+00:15:32,750 --> 00:15:34,583
+Do you understand me, Sgt.?
+
+205
+00:15:34,666 --> 00:15:37,458
+Are you talking about someone
+like Miss Kaname Chidori, sir?
+
+206
+00:15:37,541 --> 00:15:38,791
+These so-called Whispered?
+
+207
+00:15:38,875 --> 00:15:41,041
+I couldn't say
+a word either way,
+
+208
+00:15:41,125 --> 00:15:44,208
+but you should
+keep it in your mind.
+
+209
+00:15:44,291 --> 00:15:45,458
+Sir...
+
+210
+00:15:45,541 --> 00:15:47,916
+And while we're on
+the topic of Miss Chidori,
+
+211
+00:15:48,000 --> 00:15:51,250
+our Information Bureau is
+circulating a false report.
+
+212
+00:15:51,333 --> 00:15:54,000
+It states that Guaron's group
+studied Kaname Chidori
+
+213
+00:15:54,083 --> 00:15:57,916
+and discovered she wasn't
+one of the Whispered after all.
+
+214
+00:15:58,000 --> 00:16:01,000
+She should be safe for a while.
+
+215
+00:16:02,375 --> 00:16:05,750
+But even with those measures,
+we still need some insurance.
+
+216
+00:16:05,833 --> 00:16:07,625
+Insurance?
+
+217
+00:16:13,333 --> 00:16:15,083
+Have you woken up?
+
+218
+00:16:15,166 --> 00:16:16,458
+[KANAME]
+Uh...
+
+219
+00:16:16,541 --> 00:16:20,833
+Sousuke is safe.
+You needn't worry about him.
+
+220
+00:16:20,916 --> 00:16:23,500
+[KANAME]
+Where am I, and who are you?
+
+221
+00:16:23,583 --> 00:16:25,208
+[MELISSA]
+You're in a hospital in Tokyo
+
+222
+00:16:25,291 --> 00:16:26,541
+where you've been sleeping
+
+223
+00:16:26,625 --> 00:16:29,791
+for the past 2 days.
+Your strength has improved.
+
+224
+00:16:29,875 --> 00:16:32,875
+As for me, I'm one of
+Sousuke's fellow soldiers.
+
+225
+00:16:32,958 --> 00:16:34,541
+You're Sousuke's friend?
+
+226
+00:16:34,625 --> 00:16:37,041
+[MELISSA] I don't have
+much time, so I'll be brief.
+
+227
+00:16:37,125 --> 00:16:39,375
+Listen, Kaname. At the base,
+they gave you a shot
+
+228
+00:16:39,458 --> 00:16:41,916
+of some drug which made
+you lose consciousness,
+
+229
+00:16:42,000 --> 00:16:44,416
+and the next thing you knew,
+you were in the hospital.
+
+230
+00:16:44,500 --> 00:16:45,958
+And you don't remember anything
+
+231
+00:16:46,041 --> 00:16:49,916
+that happened between then,
+okay? Please forget everything.
+
+232
+00:16:50,000 --> 00:16:52,500
+Wait a minute.
+So who are you people?
+
+233
+00:16:52,583 --> 00:16:56,083
+[MELISSA] We're Mithril. We wipe
+out terrorist organizations
+
+234
+00:16:56,166 --> 00:16:58,166
+and destroy drug factories.
+
+235
+00:16:58,250 --> 00:17:00,708
+An army of justice
+protecting the world.
+
+236
+00:17:00,791 --> 00:17:02,625
+Something along those lines.
+
+237
+00:17:02,708 --> 00:17:03,916
+[KANAME]
+Mithril...
+
+238
+00:17:04,000 --> 00:17:05,583
+[MELISSA] There should be
+some people in Japan
+
+239
+00:17:05,666 --> 00:17:07,500
+who have heard the name.
+
+240
+00:17:07,583 --> 00:17:10,958
+But if you don't want
+any trouble, and this is key,
+
+241
+00:17:11,041 --> 00:17:14,416
+you should insist that
+you don't remember anything.
+
+242
+00:17:16,125 --> 00:17:19,041
+[MELISSA] And... I really
+need to thank you.
+
+243
+00:17:19,125 --> 00:17:20,333
+What do you mean?
+
+244
+00:17:20,416 --> 00:17:23,291
+For helping two of my men
+return home safely.
+
+245
+00:17:23,375 --> 00:17:24,708
+You saved their lives.
+
+246
+00:17:24,791 --> 00:17:27,041
+I... I didn't really
+do anything...
+
+247
+00:17:27,125 --> 00:17:29,791
+If you hadn't been there,
+Sousuke and Kurtz wouldn't have
+
+248
+00:17:29,875 --> 00:17:31,000
+made it out alive.
+
+249
+00:17:31,083 --> 00:17:32,875
+I mean, maybe we have
+our roles mixed up,
+
+250
+00:17:32,958 --> 00:17:34,416
+because it seems that
+out of all of us,
+
+251
+00:17:34,500 --> 00:17:36,208
+you might be the strongest.
+
+252
+00:17:36,291 --> 00:17:39,416
+Oh, stop it.
+Now I'm embarrassed.
+
+253
+00:17:39,500 --> 00:17:41,041
+[KANAME giggles]
+
+254
+00:17:48,041 --> 00:17:49,375
+Well, I better go.
+
+255
+00:17:49,458 --> 00:17:52,375
+Ah... Please wait!
+
+256
+00:17:52,458 --> 00:17:54,250
+How is he?
+
+257
+00:17:55,500 --> 00:17:57,125
+How is Sousuke?
+
+258
+00:17:57,208 --> 00:18:00,333
+[MELISSA] Sousuke? He's been
+assigned to another mission.
+
+259
+00:18:00,416 --> 00:18:02,458
+Did he... leave a message?
+
+260
+00:18:02,541 --> 00:18:05,416
+You mean to you? Um...
+
+261
+00:18:05,500 --> 00:18:07,625
+Not that I'm aware of.
+
+262
+00:18:09,041 --> 00:18:12,125
+Oh... Thank you...
+
+263
+00:18:17,500 --> 00:18:19,041
+[MELISSA]
+Take care.
+
+264
+00:18:45,333 --> 00:18:46,875
+[KANAME sobs]
+
+265
+00:18:46,958 --> 00:18:47,666
+[door clicks]
+
+266
+00:18:47,750 --> 00:18:49,208
+Huh?
+
+267
+00:18:49,291 --> 00:18:50,833
+Kyoko...
+
+268
+00:18:50,916 --> 00:18:53,458
+Kaname!
+
+269
+00:18:53,541 --> 00:18:57,333
+I'm so glad you're back safe
+and sound! I was so worried!
+
+270
+00:18:57,416 --> 00:18:58,916
+Yeah, those guys?
+
+271
+00:18:59,000 --> 00:19:01,708
+They sort of just tossed us off
+the plane at Fukuoka airport.
+
+272
+00:19:01,791 --> 00:19:05,083
+After that, the rescuers took
+off and no one's seen 'em since.
+
+273
+00:19:05,166 --> 00:19:08,291
+They really didn't seem to
+be related to the UN at all.
+
+274
+00:19:08,375 --> 00:19:11,583
+So we didn't know where you
+had gone to or anything...!
+
+275
+00:19:11,666 --> 00:19:13,125
+[KYOKO whines]
+
+276
+00:19:13,208 --> 00:19:15,541
+But I guess the hospital
+contacted someone at the school
+
+277
+00:19:15,625 --> 00:19:19,333
+not too long and said that you
+were staying here as a patient.
+
+278
+00:19:19,416 --> 00:19:21,541
+I'm so sorry, Miss Chidori!
+
+279
+00:19:21,625 --> 00:19:23,750
+They should've taken
+me away instead!
+
+280
+00:19:23,833 --> 00:19:25,083
+Please say you'll forgive me!
+
+281
+00:19:25,166 --> 00:19:26,625
+[TEACHER &amp; KYOKO sob]
+
+282
+00:19:26,708 --> 00:19:29,833
+Hey, take it easy, you guys!
+I'm, like, injured and stuff.
+
+283
+00:19:29,916 --> 00:19:31,208
+Know what I mean?
+
+284
+00:19:31,291 --> 00:19:32,583
+[SOUSUKE] That's right.
+You only have minor bruises,
+
+285
+00:19:32,666 --> 00:19:34,125
+but you should get some rest.
+
+286
+00:19:34,208 --> 00:19:36,125
+Uh-huh! So be nice to me!
+
+287
+00:19:36,208 --> 00:19:38,916
+[SOUSUKE] We should all be
+thankful for that rescue unit.
+
+288
+00:19:39,000 --> 00:19:42,250
+Yeah, I agree! Even though
+our trip was totally ruined.
+
+289
+00:19:42,333 --> 00:19:45,208
+Just as long as you're
+still alive, it's not a problem.
+
+290
+00:19:45,291 --> 00:19:48,166
+Yes, yes, as long as
+we're alive, it's not a--
+
+291
+00:19:48,250 --> 00:19:49,583
+Huh...?
+
+292
+00:19:54,833 --> 00:19:57,083
+S... Oh, Sousuke!
+
+293
+00:19:57,166 --> 00:19:58,541
+Yes, Miss Chidori?
+
+294
+00:19:58,625 --> 00:20:01,000
+[KANAME]
+Ah, how come you're here?
+
+295
+00:20:01,083 --> 00:20:04,083
+I'm not sure how to
+answer that question.
+
+296
+00:20:04,166 --> 00:20:05,833
+Go ahead, it's okay!
+
+297
+00:20:05,916 --> 00:20:07,708
+I came to see how
+you were doing.
+
+298
+00:20:07,791 --> 00:20:11,583
+Oh, and here's a
+present for you. See?
+
+299
+00:20:11,666 --> 00:20:13,541
+But... what for?
+
+300
+00:20:13,625 --> 00:20:16,083
+I'm your... insurance.
+
+301
+00:20:16,166 --> 00:20:18,833
+I'll be here for a while.
+
+302
+00:20:22,833 --> 00:20:24,583
+[KANAME sobs]
+
+303
+00:20:24,666 --> 00:20:26,916
+Sousuke!
+
+304
+00:20:29,500 --> 00:20:32,083
+[KANAME]
+Let's go, Sousuke!
+
+305
+00:20:35,541 --> 00:20:39,916
+[STUDENTS gasping]
+
+306
+00:20:40,000 --> 00:20:41,958
+I used a smoke bomb for cover!
+
+307
+00:20:42,041 --> 00:20:43,083
+You did what?!
+
+308
+00:20:43,166 --> 00:20:45,000
+You told me I
+should be creative!
+
+309
+00:20:45,083 --> 00:20:48,125
+I made sure visibility was
+zero so no one saw our faces.
+
+310
+00:20:48,208 --> 00:20:49,250
+And now we have copy paper
+
+311
+00:20:49,333 --> 00:20:51,083
+without anyone
+suspecting a thing!
+
+312
+00:20:51,166 --> 00:20:52,041
+[SOUSUKE yells]
+
+313
+00:20:52,125 --> 00:20:53,958
+[KANAME]
+You moron!
+
+314
+00:20:55,083 --> 00:20:56,375
+Kaname, that hurt.
+
+315
+00:20:56,458 --> 00:20:59,666
+[KANAME] Shut up, you
+melancholy military maniac!
+
+316
+00:20:59,750 --> 00:21:01,750
+All these papers
+are sopping wet!
+
+317
+00:21:01,833 --> 00:21:04,041
+How are we supposed
+to use them now, dummy?!
+
+318
+00:21:04,125 --> 00:21:05,791
+[SOUSUKE] We might be
+able to dry them out.
+
+319
+00:21:05,875 --> 00:21:06,708
+[KANAME growls]
+
+320
+00:21:06,791 --> 00:21:08,541
+[KANAME]
+Don't give me excuses!
+
+321
+00:21:08,625 --> 00:21:11,208
+You must've left your
+brain in Siberia!
+
+322
+00:21:11,291 --> 00:21:13,875
+I don't care if you are
+a skilled AS pilot,
+
+323
+00:21:13,958 --> 00:21:14,708
+when I tell you to...
+
+324
+00:21:14,791 --> 00:21:19,375
+[incoherent yelling]
+
+325
+00:22:58,875 --> 00:23:01,208
+[KANAME]
+Sousuke got asked out on a date?
+
+326
+00:23:01,291 --> 00:23:03,208
+Well, it's none of my business.
+
+327
+00:23:03,291 --> 00:23:05,791
+He should be able
+to go where he wants.
+
+328
+00:23:05,875 --> 00:23:09,916
+Next Full Metal Panic,
+episode 8: "Part Time Steady."
+
+329
+00:23:10,000 --> 00:23:10,833
+[KANAME gasps]
+
+330
+00:23:10,916 --> 00:23:11,791
+[KANAME]
+He's gonna kiss her?!
+
+331
+00:23:11,875 --> 00:23:12,750
+[SOUSUKE]
+It's not a problem.
+
+332
+00:23:12,833 --> 00:23:15,208
+[KANAME]
+Oh, yes it is!
+

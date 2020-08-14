@@ -1,0 +1,2310 @@
+﻿1
+00:00:23,291 --> 00:00:25,375
+[ARTEMIS] Are you sure
+you're well enough to travel?
+
+2
+00:00:25,458 --> 00:00:26,708
+[PRIAPUS]
+Artemis is right.
+
+3
+00:00:26,791 --> 00:00:28,708
+Viv did say you were
+welcome to rest there
+
+4
+00:00:28,791 --> 00:00:30,500
+for a few more days,
+if it please you.
+
+5
+00:00:30,583 --> 00:00:33,541
+True, but it's Edwina's
+house, n'est pas?
+
+6
+00:00:33,625 --> 00:00:35,250
+[EZEKIEL] Let us be clear
+about one thing!
+
+7
+00:00:35,333 --> 00:00:37,875
+You cannot use your magic with
+such wild abandon any longer!
+
+8
+00:00:37,958 --> 00:00:39,416
+[PRIAPUS]
+Nobody is going to hurt her.
+
+9
+00:00:39,500 --> 00:00:40,833
+That includes you, y'know!
+
+10
+00:00:40,916 --> 00:00:42,375
+[EZEKIEL] If she hadn't
+flouted the will of Heaven
+
+11
+00:00:42,458 --> 00:00:44,000
+this whole time,
+it wouldn't be an issue!
+
+12
+00:00:44,083 --> 00:00:45,125
+[PRIAPUS]
+It only became one
+
+13
+00:00:45,208 --> 00:00:46,583
+when you went tattling
+to your master!
+
+14
+00:00:46,666 --> 00:00:47,583
+[MARIA]
+Hey! Both of you!
+
+15
+00:00:47,666 --> 00:00:49,666
+That's quite enough of that.
+
+16
+00:00:54,750 --> 00:00:55,708
+Huh?
+
+17
+00:02:31,875 --> 00:02:33,041
+[FEMALE CLANS FOLK]
+A skirmish broke out
+
+18
+00:02:33,125 --> 00:02:35,500
+and the child took a
+stray arrow to her hand.
+
+19
+00:02:35,583 --> 00:02:38,000
+So we came to have
+a witch tend it.
+
+20
+00:02:38,083 --> 00:02:40,208
+You came so far for a poultice.
+
+21
+00:02:40,291 --> 00:02:42,291
+I thought that your clan
+hailed from the north?
+
+22
+00:02:42,375 --> 00:02:43,458
+[FEMALE CLANS FOLK]
+'Tis true.
+
+23
+00:02:43,541 --> 00:02:45,041
+[MARIA]
+What of those witches?
+
+24
+00:02:45,125 --> 00:02:47,458
+The Duke of Buckingham's
+cavalry charged through,
+
+25
+00:02:47,541 --> 00:02:50,083
+making a ruin of our
+lands and our homes.
+
+26
+00:02:50,166 --> 00:02:52,916
+The witches scattered
+in the chaos.
+
+27
+00:02:53,000 --> 00:02:55,791
+Okay. That should do it.
+You were very brave.
+
+28
+00:02:55,875 --> 00:02:57,125
+[CLANS FOLK CHILD A giggles]
+
+29
+00:02:57,208 --> 00:02:58,541
+Within the last month,
+
+30
+00:02:58,625 --> 00:03:01,458
+we heard of Falaise and
+Rouen fortifying their walls.
+
+31
+00:03:01,541 --> 00:03:04,083
+The fighting is not
+like to abate anon.
+
+32
+00:03:04,166 --> 00:03:05,708
+They're nothing
+if not persistent.
+
+33
+00:03:05,791 --> 00:03:08,625
+These humans are willing
+to wage war forever.
+
+34
+00:03:08,708 --> 00:03:12,416
+I think these woodlands will
+remain peaceful for a time yet.
+
+35
+00:03:12,500 --> 00:03:14,791
+Why not stay, and
+take your rest here?
+
+36
+00:03:14,875 --> 00:03:16,416
+[MALE CLANS FOLK 8 grunts]
+
+37
+00:03:16,500 --> 00:03:18,208
+The offer is a kind one.
+
+38
+00:03:18,291 --> 00:03:21,291
+Would that we could stay,
+but we must journey back again.
+
+39
+00:03:21,375 --> 00:03:23,000
+[MALE CLANS FOLK A]
+Humans often forget about us,
+
+40
+00:03:23,083 --> 00:03:25,416
+and our powers do
+wane as of late,
+
+41
+00:03:25,500 --> 00:03:28,375
+but battered or not,
+that land is still our home.
+
+42
+00:03:28,458 --> 00:03:31,541
+Yes. I suppose so.
+
+43
+00:03:31,625 --> 00:03:33,625
+The wound will close
+up in a day or so.
+
+44
+00:03:33,708 --> 00:03:35,541
+[CLANS FOLK CHILD]
+Thanks a lot, Maria!
+
+45
+00:03:35,625 --> 00:03:38,250
+[MALE CLANS FOLK A]
+Well, 'tis time to journey on.
+
+46
+00:03:38,333 --> 00:03:39,750
+Good luck to you!
+
+47
+00:03:41,833 --> 00:03:43,125
+No matter who fights who
+
+48
+00:03:43,208 --> 00:03:45,625
+over what foolish
+title or bit of land,
+
+49
+00:03:45,708 --> 00:03:49,291
+it is still the weak who suffer
+the most for their warring.
+
+50
+00:03:49,375 --> 00:03:50,541
+What do you mean?
+
+51
+00:03:50,625 --> 00:03:52,250
+[MARIA] The innocents
+caught in these battles
+
+52
+00:03:52,333 --> 00:03:54,000
+are always told the same thing.
+
+53
+00:03:54,083 --> 00:03:55,791
+"God is grieving for your loss."
+
+54
+00:03:55,875 --> 00:03:58,416
+As though this madness
+is all their fault.
+
+55
+00:03:58,500 --> 00:04:00,416
+What sort of hypocrisy is that?
+
+56
+00:04:00,500 --> 00:04:03,333
+Well, it clearly wasn't
+us who taught them that!
+
+57
+00:04:03,416 --> 00:04:05,041
+[MARIA]
+That may be so, but still.
+
+58
+00:04:05,125 --> 00:04:06,583
+Ah, forgot to tell you.
+
+59
+00:04:06,666 --> 00:04:09,125
+A young girl came by
+while you were away.
+
+60
+00:04:09,208 --> 00:04:10,583
+Huh?
+
+61
+00:04:10,666 --> 00:04:14,041
+[ANN]
+Maria! Maria! Please!
+
+62
+00:04:14,125 --> 00:04:17,791
+I need more medicine!
+Grandmother's sick!
+
+63
+00:04:17,875 --> 00:04:19,916
+[ARTEMIS] I fear something
+has happened to Martha.
+
+64
+00:04:20,000 --> 00:04:22,500
+Priapus! Go the village
+and check on her!
+
+65
+00:04:22,583 --> 00:04:24,125
+[PRIAPUS]
+Right!
+
+66
+00:04:28,625 --> 00:04:30,000
+[GUILLAUME]
+So, the witch was wounded,
+
+67
+00:04:30,083 --> 00:04:32,208
+but still she draws
+breath, you say?
+
+68
+00:04:32,291 --> 00:04:33,666
+[JOSEPH]
+Yes.
+
+69
+00:04:33,750 --> 00:04:36,750
+My lord, she needs time to
+rest and recover her vigor.
+
+70
+00:04:36,833 --> 00:04:39,500
+It would not be prudent to
+rely on her interventions.
+
+71
+00:04:39,583 --> 00:04:41,708
+Ah, no loss.
+
+72
+00:04:41,791 --> 00:04:42,208
+Boy!
+
+73
+00:04:42,291 --> 00:04:43,250
+Yes.
+
+74
+00:04:43,333 --> 00:04:45,333
+Deliver this to
+Galfa without delay.
+
+75
+00:04:45,416 --> 00:04:46,916
+Uh! Galfa, my lord?
+
+76
+00:04:47,000 --> 00:04:49,500
+[GUILLAUME]
+Aye. Your worldly friend.
+
+77
+00:04:49,583 --> 00:04:51,416
+If he wants to command
+the Red Arm Brothers,
+
+78
+00:04:51,500 --> 00:04:53,500
+he shall have need of it.
+
+79
+00:04:53,583 --> 00:04:56,791
+[FEMALE VILLAGERS chatter]
+
+80
+00:05:00,083 --> 00:05:02,041
+[DENIS] We owe you more
+than we could e'er repay,
+
+81
+00:05:02,125 --> 00:05:03,291
+Reverend Brother.
+
+82
+00:05:03,375 --> 00:05:05,291
+Even yesterday she could
+barely lift her head.
+
+83
+00:05:05,375 --> 00:05:06,625
+[GILBERT]
+Not at all.
+
+84
+00:05:06,708 --> 00:05:09,250
+'Twas God Above through
+Brother Bernard's medicine
+
+85
+00:05:09,333 --> 00:05:11,583
+that healed her.
+
+86
+00:05:11,666 --> 00:05:12,958
+[GILBERT]
+Rejoice, good sir.
+
+87
+00:05:13,041 --> 00:05:14,625
+It is fortunate that
+your mother remains
+
+88
+00:05:14,708 --> 00:05:17,291
+a devoted servant
+of the Lord God.
+
+89
+00:05:17,375 --> 00:05:18,833
+Being of his flock,
+
+90
+00:05:18,916 --> 00:05:22,166
+Brother Bernard himself greatly
+desires to attend upon her.
+
+91
+00:05:22,250 --> 00:05:24,666
+Huh? Ah, yes!
+Yes, of course!
+
+92
+00:05:24,750 --> 00:05:25,958
+[ANN sighs]
+
+93
+00:05:26,041 --> 00:05:27,541
+[PRIAPUS]
+Ann. Ann.
+
+94
+00:05:27,625 --> 00:05:28,416
+[ANN]
+Uh?
+
+95
+00:05:28,500 --> 00:05:30,500
+Shhh.
+
+96
+00:05:30,583 --> 00:05:33,375
+[PRIAPUS] Good. It sounds
+like Martha's on the mend.
+
+97
+00:05:33,458 --> 00:05:34,583
+[ANN]
+Yeah.
+
+98
+00:05:34,666 --> 00:05:36,541
+The monk brought Grandmother
+special medicine
+
+99
+00:05:36,625 --> 00:05:38,250
+so she could breathe again.
+
+100
+00:05:38,333 --> 00:05:39,375
+But then...
+
+101
+00:05:39,458 --> 00:05:41,208
+What's wrong?
+
+102
+00:05:41,291 --> 00:05:43,166
+Well, the monk...
+
+103
+00:05:43,250 --> 00:05:45,666
+He and Papa were
+talking about things.
+
+104
+00:05:45,750 --> 00:05:48,791
+And he found out about
+Maria's medicine.
+
+105
+00:05:48,875 --> 00:05:51,166
+And he said that
+Maria's medicine
+
+106
+00:05:51,250 --> 00:05:53,333
+was what made her so
+sick in the first place.
+
+107
+00:05:53,416 --> 00:05:54,916
+[gasps]
+
+108
+00:05:55,000 --> 00:05:56,625
+[ANN] He said an evil witch was
+poisoning her the whole time.
+
+109
+00:05:56,708 --> 00:05:57,791
+He said that?
+
+110
+00:05:57,875 --> 00:05:59,041
+Tell me the truth!
+
+111
+00:05:59,125 --> 00:06:00,916
+Maria wouldn't
+do that, would she?
+
+112
+00:06:01,000 --> 00:06:03,500
+[PRIAPUS]
+Of course not!
+
+113
+00:06:03,583 --> 00:06:05,791
+[ANN] So, the monk was
+lying to him, is that it?
+
+114
+00:06:05,875 --> 00:06:06,791
+Yes, he was!
+
+115
+00:06:06,875 --> 00:06:10,166
+Why? Why would he
+lie about Maria?
+
+116
+00:06:10,250 --> 00:06:14,458
+[PRIAPUS gasps]
+I don't know.
+
+117
+00:06:14,541 --> 00:06:21,708
+[MERCENARIES, VILLAGERS chatter]
+
+118
+00:06:21,791 --> 00:06:25,083
+It's quiet n'est pas?
+
+119
+00:06:25,166 --> 00:06:27,041
+Beg pardon, but is Galfa about?
+
+120
+00:06:27,125 --> 00:06:29,083
+Huh? Oh, the Captain.
+
+121
+00:06:29,166 --> 00:06:30,125
+[JOSEPH]
+Captain?
+
+122
+00:06:30,208 --> 00:06:32,500
+There. In the
+well-appointed tent.
+
+123
+00:06:32,583 --> 00:06:35,000
+Many thanks, good sir.
+
+124
+00:06:35,083 --> 00:06:36,958
+[MERCENARY B]
+Hey! You there?
+
+125
+00:06:37,041 --> 00:06:40,083
+What is it? I'm already
+beset with errands.
+
+126
+00:06:40,166 --> 00:06:41,375
+The quartermaster--
+
+127
+00:06:41,458 --> 00:06:43,500
+[MERCENARY B]
+
+128
+00:06:43,583 --> 00:06:44,833
+[MERCENARY B]
+You're just gonna kneel down
+
+129
+00:06:44,916 --> 00:06:47,958
+and lick the boots of
+that scum Galfa now, huh?
+
+130
+00:06:48,041 --> 00:06:49,291
+[MERCENARY A]
+Please! I'm sorry!
+
+131
+00:06:49,375 --> 00:06:51,083
+Let me up!
+I meant no offense!
+
+132
+00:06:51,166 --> 00:06:52,750
+[MERCENARY B grunts]
+
+133
+00:06:57,833 --> 00:06:59,958
+Eyes on my face, Joseph.
+
+134
+00:07:00,041 --> 00:07:01,125
+Forgive me
+
+135
+00:07:01,208 --> 00:07:02,625
+Let the kid look at it.
+
+136
+00:07:02,708 --> 00:07:04,666
+Your arm is quite
+a fearsome sight.
+
+137
+00:07:04,750 --> 00:07:06,291
+Shut your mouth!
+
+138
+00:07:06,375 --> 00:07:08,000
+Ah, could be worse.
+
+139
+00:07:08,083 --> 00:07:11,333
+I mean, one less arm beats
+hell outta one less head.
+
+140
+00:07:11,416 --> 00:07:12,125
+[JOSEPH]
+I bring a gift.
+
+141
+00:07:12,208 --> 00:07:13,416
+[GALFA]
+Huh?
+
+142
+00:07:13,500 --> 00:07:15,125
+[JOSEPH]
+From milord, Le Comte.
+
+143
+00:07:15,208 --> 00:07:18,166
+[GALFA] Stay a moment.
+I've a question needs answering.
+
+144
+00:07:18,250 --> 00:07:20,083
+What is it?
+
+145
+00:07:20,166 --> 00:07:22,916
+[GALFA] Why did that witch
+appear on the battlefield again?
+
+146
+00:07:23,000 --> 00:07:23,625
+[gasps]
+
+147
+00:07:23,708 --> 00:07:24,916
+[GALFA]
+Joseph.
+
+148
+00:07:25,000 --> 00:07:26,583
+It was on you to talk
+her outta doing that.
+
+149
+00:07:26,666 --> 00:07:29,000
+I-I'm so sorry.
+
+150
+00:07:30,208 --> 00:07:31,250
+[GALFA]
+So what happened?
+
+151
+00:07:31,333 --> 00:07:33,375
+She use her magic
+on you or something?
+
+152
+00:07:33,458 --> 00:07:36,250
+No. Nothing like that at all.
+
+153
+00:07:36,333 --> 00:07:37,750
+I swear on my oath.
+
+154
+00:07:37,833 --> 00:07:40,208
+Lady Maria was only seeking
+to end the fighting
+
+155
+00:07:40,291 --> 00:07:41,541
+as best she knew how.
+
+156
+00:07:41,625 --> 00:07:44,166
+[GALFA] Heh, heh. And all
+that for the small cost
+
+157
+00:07:44,250 --> 00:07:46,833
+of losing a battle
+we were bound to win.
+
+158
+00:07:46,916 --> 00:07:51,375
+Leaving behind my shield arm
+and the bastards killing Yvain.
+
+159
+00:07:51,458 --> 00:07:52,833
+[gasps]
+
+160
+00:07:52,916 --> 00:07:54,333
+[GALFA]
+And now, I'm stuck here.
+
+161
+00:07:54,416 --> 00:07:57,458
+Captaining the Brothers in
+a war raging twice as strong.
+
+162
+00:07:57,541 --> 00:07:58,291
+[LOLOTTE]
+Hmph.
+
+163
+00:07:58,375 --> 00:08:00,166
+[JOSEPH]
+Truly. I am sorry.
+
+164
+00:08:00,250 --> 00:08:03,458
+[GALFA] That's rich. Coming from
+the boy without a scratch.
+
+165
+00:08:03,541 --> 00:08:04,708
+I know.
+
+166
+00:08:04,791 --> 00:08:08,000
+[GALFA] Heh. Tell me,
+where is the witch now?
+
+167
+00:08:09,541 --> 00:08:12,000
+Priapus should have
+been back by now!
+
+168
+00:08:12,083 --> 00:08:13,375
+Back? What about his front?
+
+169
+00:08:13,458 --> 00:08:14,250
+[MARIA growls]
+
+170
+00:08:14,333 --> 00:08:15,666
+Try not to worry.
+
+171
+00:08:15,750 --> 00:08:18,250
+He'd return at once if Martha
+had great need of you.
+
+172
+00:08:18,333 --> 00:08:20,541
+Well maybe, but it would
+be better to know--!
+
+173
+00:08:20,625 --> 00:08:22,791
+[grunts]
+
+174
+00:08:22,875 --> 00:08:24,416
+Damn if the Britons
+haven't rallied
+
+175
+00:08:24,500 --> 00:08:26,416
+in the wake of our ambush.
+
+176
+00:08:26,500 --> 00:08:27,916
+More blood will be spilt.
+
+177
+00:08:28,000 --> 00:08:29,166
+[gasps]
+
+178
+00:08:29,250 --> 00:08:32,416
+[GALFA] You see, rumors
+fly about my camp, boy.
+
+179
+00:08:32,500 --> 00:08:34,000
+Rumors?
+
+180
+00:08:34,083 --> 00:08:38,083
+[GALFA] Everywhere I turn, each
+whisper is of Maria the witch.
+
+181
+00:08:38,166 --> 00:08:39,250
+The cause of our defeat.
+
+182
+00:08:39,333 --> 00:08:40,500
+[JOSEPH]
+But, Galfa!
+
+183
+00:08:40,583 --> 00:08:42,166
+[GALFA] What? You gonna
+convince 'em she ain't?
+
+184
+00:08:42,250 --> 00:08:44,333
+Go tell the witch
+to keep to her wood.
+
+185
+00:08:44,416 --> 00:08:48,458
+If she's smart, she'll lay low
+till this anger burns down.
+
+186
+00:08:50,416 --> 00:08:51,791
+[LOLOTTE]
+Aw, look at you.
+
+187
+00:08:51,875 --> 00:08:54,666
+Taking that poor little
+chick under your wing.
+
+188
+00:08:54,750 --> 00:08:57,791
+Under my wing?
+You think I... like him?
+
+189
+00:08:57,875 --> 00:08:58,750
+Yeah.
+
+190
+00:08:58,833 --> 00:09:00,000
+[GALFA]
+Why d'ya say that?
+
+191
+00:09:00,083 --> 00:09:01,416
+Don't you gimme that look!
+
+192
+00:09:01,500 --> 00:09:02,916
+[GALFA]
+Heh.
+
+193
+00:09:03,000 --> 00:09:04,625
+[LOLOTTE] No matter, then.
+Just keep the troupe in coin.
+
+194
+00:09:04,708 --> 00:09:06,291
+Captain Galfa.
+
+195
+00:09:06,375 --> 00:09:08,833
+Filthy lucre makes
+the world go 'round.
+
+196
+00:09:08,916 --> 00:09:12,416
+[GALFA scoffs]
+Stop acting like my wife.
+
+197
+00:09:12,500 --> 00:09:14,083
+[PRIAPUS]
+Joseph!
+
+198
+00:09:14,166 --> 00:09:15,500
+[JOSEPH gasps]
+
+199
+00:09:15,583 --> 00:09:17,625
+[PRIAPUS] Thank goodness.
+I've been looking for you.
+
+200
+00:09:19,041 --> 00:09:21,791
+Please, come! We need
+you at Maria's right away!
+
+201
+00:09:21,875 --> 00:09:22,833
+What?
+
+202
+00:09:22,916 --> 00:09:24,833
+You need to help
+us keep her calm.
+
+203
+00:09:24,916 --> 00:09:27,708
+I hurry homeward with news
+she won't want to hear.
+
+204
+00:09:27,791 --> 00:09:30,458
+Ah. Then I know well
+your trepidation.
+
+205
+00:09:30,541 --> 00:09:31,833
+Truly, Joseph?
+
+206
+00:09:31,916 --> 00:09:35,166
+Yes. I was on my
+way out to see her.
+
+207
+00:09:40,541 --> 00:09:47,208
+[labored breathing]
+
+208
+00:09:48,333 --> 00:09:49,500
+They think what?!
+
+209
+00:09:49,583 --> 00:09:52,083
+How dare they accuse me
+of such villainy?
+
+210
+00:09:52,166 --> 00:09:54,583
+For years I've cared for
+Martha and that village!
+
+211
+00:09:54,666 --> 00:09:55,625
+[PRIAPUS]
+I-I know, but--
+
+212
+00:09:55,708 --> 00:09:57,166
+[MARIA]
+Me, poison Martha?
+
+213
+00:09:57,250 --> 00:09:58,541
+The words curdle upon my tongue!
+
+214
+00:09:58,625 --> 00:10:00,500
+Master. Patience! Please!
+
+215
+00:10:00,583 --> 00:10:03,791
+Those herbs they malign
+have been keeping her alive!
+
+216
+00:10:03,875 --> 00:10:05,333
+Oh, damn those liars!
+
+217
+00:10:05,416 --> 00:10:06,625
+They're lucky
+I'm such a pacifist,
+
+218
+00:10:06,708 --> 00:10:07,875
+or there would be hell to pay!
+
+219
+00:10:07,958 --> 00:10:10,416
+Maria stop!
+I share in your pain.
+
+220
+00:10:10,500 --> 00:10:11,541
+[MARIA]
+Huh?
+
+221
+00:10:11,625 --> 00:10:13,166
+[JOSEPH]
+But you must be at ease.
+
+222
+00:10:13,250 --> 00:10:15,250
+But they're lying!
+I would never poison--!
+
+223
+00:10:15,333 --> 00:10:17,375
+We know, and I'm sure
+that Ann does, too.
+
+224
+00:10:17,458 --> 00:10:20,916
+However, what that monk
+said is frightening her.
+
+225
+00:10:21,291 --> 00:10:24,416
+[MARIA grunts]
+Understood.
+
+226
+00:10:24,500 --> 00:10:25,625
+Where are you going?
+
+227
+00:10:25,708 --> 00:10:26,666
+To the village.
+
+228
+00:10:26,750 --> 00:10:29,250
+Really?
+
+229
+00:10:29,333 --> 00:10:31,333
+By now, I'm sure the village
+wants nothing to do
+
+230
+00:10:31,416 --> 00:10:32,791
+with the heretic Maria.
+
+231
+00:10:32,875 --> 00:10:35,541
+You barging in will only make
+things worse for Martha.
+
+232
+00:10:35,625 --> 00:10:37,500
+[MARIA]
+Make them worse? How?
+
+233
+00:10:37,583 --> 00:10:40,000
+[JOSEPH]
+Unfortunately, Artemis is right.
+
+234
+00:10:41,125 --> 00:10:43,208
+And it's not only that village.
+
+235
+00:10:43,291 --> 00:10:45,333
+Misunderstanding is
+quick to take wing.
+
+236
+00:10:45,416 --> 00:10:46,708
+[MARIA gasps]
+
+237
+00:10:46,791 --> 00:10:48,083
+[JOSEPH] While I don't
+believe they would harm you,
+
+238
+00:10:48,166 --> 00:10:50,333
+it may be best if
+you stayed silent.
+
+239
+00:10:50,416 --> 00:10:51,541
+Just for a time.
+
+240
+00:10:51,625 --> 00:10:53,541
+[MARIA]
+Tell me why?
+
+241
+00:10:53,625 --> 00:10:55,625
+Why do they all just
+assume the worst?
+
+242
+00:10:55,708 --> 00:10:57,000
+All I've ever wanted was--!
+
+243
+00:10:57,083 --> 00:11:01,000
+I'll tell you what
+they would say!
+
+244
+00:11:01,083 --> 00:11:04,916
+In their eyes
+you are a heretic.
+
+245
+00:11:05,000 --> 00:11:06,166
+Heretic?
+
+246
+00:11:06,250 --> 00:11:08,458
+I halt their wars,
+and heal their afflicted.
+
+247
+00:11:08,541 --> 00:11:10,458
+And for that, I get only hate?
+
+248
+00:11:10,541 --> 00:11:11,958
+That's crazy!
+
+249
+00:11:12,041 --> 00:11:15,000
+All that you give them
+are the things that
+
+250
+00:11:15,083 --> 00:11:18,208
+no mortal should be
+able to grant another.
+
+251
+00:11:18,291 --> 00:11:21,291
+Some of them do think this.
+You have been denied before.
+
+252
+00:11:21,375 --> 00:11:22,375
+[MARIA gasps]
+
+253
+00:11:25,500 --> 00:11:26,416
+Hey!
+
+254
+00:11:26,500 --> 00:11:28,291
+So you know,
+about that village.
+
+255
+00:11:28,375 --> 00:11:29,500
+Um, well I--
+
+256
+00:11:29,583 --> 00:11:31,541
+No matter how you
+may wish for it,
+
+257
+00:11:31,625 --> 00:11:33,791
+the truth cannot be changed.
+
+258
+00:11:33,875 --> 00:11:35,791
+You are naught but
+a heretic to them.
+
+259
+00:11:35,875 --> 00:11:37,541
+[MARIA sighs]
+
+260
+00:11:37,625 --> 00:11:40,000
+The people there
+don't understand you.
+
+261
+00:11:40,083 --> 00:11:41,916
+They will always throw stones.
+
+262
+00:11:42,000 --> 00:11:44,875
+They're scared. The Church
+keeps them that way.
+
+263
+00:11:44,958 --> 00:11:46,875
+That's why...
+
+264
+00:11:46,958 --> 00:11:47,708
+[MARIA gasps]
+
+265
+00:11:47,791 --> 00:11:48,958
+[EZEKIEL]
+That's why...
+
+266
+00:11:49,041 --> 00:11:51,458
+time after time they
+will turn against you!
+
+267
+00:11:51,541 --> 00:11:53,208
+They've been raised to fear you!
+
+268
+00:11:53,291 --> 00:11:56,125
+It doesn't matter
+what you do for them!
+
+269
+00:11:56,208 --> 00:11:57,708
+You're no better!
+
+270
+00:11:57,791 --> 00:11:59,791
+You know what Heaven
+demands of you!
+
+271
+00:11:59,875 --> 00:12:02,583
+We could all be
+on the same side!
+
+272
+00:12:02,666 --> 00:12:05,416
+But you're so stubborn!
+
+273
+00:12:05,500 --> 00:12:07,083
+I don't want you
+to end up alone!
+
+274
+00:12:07,166 --> 00:12:09,875
+I can't help it!
+
+275
+00:12:09,958 --> 00:12:11,500
+It's who I am.
+
+276
+00:12:11,583 --> 00:12:16,291
+[EZEKIEL sobs]
+
+277
+00:12:18,333 --> 00:12:20,000
+[JOSEPH]
+I must return to Le Comte.
+
+278
+00:12:20,083 --> 00:12:21,250
+[MARIA]
+Right.
+
+279
+00:12:21,333 --> 00:12:22,708
+Milady.
+
+280
+00:12:23,583 --> 00:12:26,250
+I've seen the good
+you do firsthand.
+
+281
+00:12:26,333 --> 00:12:28,208
+Far more than the
+Church has seen.
+
+282
+00:12:28,291 --> 00:12:30,500
+I know what you do is right.
+
+283
+00:12:30,583 --> 00:12:32,375
+Even if the world
+condemns you,
+
+284
+00:12:32,458 --> 00:12:34,250
+I have never
+doubted you, milady,
+
+285
+00:12:34,333 --> 00:12:35,375
+and I never will.
+
+286
+00:12:35,458 --> 00:12:36,958
+[gasps]
+
+287
+00:12:37,041 --> 00:12:40,500
+Trust in the path you've chosen,
+never stray from it.
+
+288
+00:12:40,583 --> 00:12:43,291
+Though foes may dog your steps.
+
+289
+00:12:43,375 --> 00:12:45,958
+I am here.
+I will always be.
+
+290
+00:12:46,041 --> 00:12:47,125
+[gasps]
+
+291
+00:12:47,208 --> 00:12:50,541
+[JOSEPH]
+I will never abandon you.
+
+292
+00:12:50,625 --> 00:12:52,541
+'Til next time.
+
+293
+00:13:01,875 --> 00:13:02,750
+Thank you.
+
+294
+00:13:02,833 --> 00:13:04,416
+I, uh...
+
+295
+00:13:04,500 --> 00:13:06,708
+L-Lady Maria?
+
+296
+00:13:06,791 --> 00:13:09,625
+[gasps]
+
+297
+00:13:23,833 --> 00:13:24,708
+[MERCENARY B growls]
+
+298
+00:13:24,791 --> 00:13:27,708
+Galfa, I know you slew Yvain!
+
+299
+00:13:27,791 --> 00:13:30,625
+[LOLOTTE]
+Did you really, Galfa?
+
+300
+00:13:30,708 --> 00:13:31,916
+Guess he didn't do it.
+
+301
+00:13:32,000 --> 00:13:34,333
+[MERCENARY B]
+Tch. I thought as much.
+
+302
+00:13:34,416 --> 00:13:37,583
+Look like I'll be feedin' two
+traitors to my zweihander!
+
+303
+00:13:37,666 --> 00:13:38,958
+You got greedy.
+
+304
+00:13:39,041 --> 00:13:41,500
+And I see you for
+exactly what you are.
+
+305
+00:13:41,583 --> 00:13:42,500
+A serpent.
+
+306
+00:13:42,583 --> 00:13:43,916
+That so?
+
+307
+00:13:44,000 --> 00:13:47,458
+Trouble with serpents is
+they can't hold onto anything.
+
+308
+00:13:47,541 --> 00:13:49,041
+Kind of like you.
+
+309
+00:13:49,125 --> 00:13:52,166
+If there's one thing I cannot
+abide, it's a Judas at the helm!
+
+310
+00:13:52,250 --> 00:13:54,500
+[LOLOTTE] Aahh!
+Have you lost your mind?
+
+311
+00:13:54,583 --> 00:13:56,041
+You'd kill you own captain?
+
+312
+00:13:56,125 --> 00:13:57,208
+[MERCENARY B]
+Why the hell not?
+
+313
+00:13:57,291 --> 00:13:59,083
+It's no worse than
+what he did to Yvain!
+
+314
+00:13:59,166 --> 00:14:02,833
+You'd cut me down just to lord
+over a bunch of sell-swords?
+
+315
+00:14:02,916 --> 00:14:04,375
+If you think you're
+man enough for it,
+
+316
+00:14:04,458 --> 00:14:07,625
+come over here and put that
+sword through my heart.
+
+317
+00:14:07,708 --> 00:14:09,125
+Lolotte. Open it.
+
+318
+00:14:09,208 --> 00:14:10,375
+[LOLOTTE grunts]
+
+319
+00:14:10,458 --> 00:14:11,750
+Fool woman.
+
+320
+00:14:11,833 --> 00:14:15,125
+You'll never ready
+a firearm in time.
+
+321
+00:14:15,208 --> 00:14:17,916
+[gasps]
+What the--?
+
+322
+00:14:18,000 --> 00:14:19,875
+Galfa, what the
+devil is that thing?
+
+323
+00:14:19,958 --> 00:14:23,208
+Now, you can go
+crawling back to camp,
+
+324
+00:14:23,291 --> 00:14:26,333
+or I can leave your bloodied
+corpse out here for the animals.
+
+325
+00:14:26,416 --> 00:14:28,541
+[MERCENARY B chuckles]
+I could never serve you!
+
+326
+00:14:28,625 --> 00:14:30,291
+[GALFA]
+Thought so.
+
+327
+00:14:30,375 --> 00:14:33,541
+Fine, I'll climb over you, too.
+
+328
+00:14:36,166 --> 00:14:39,375
+[ARTEMIS] I put Ezekiel to
+bed when she stopped crying.
+
+329
+00:14:39,458 --> 00:14:41,500
+[MARIA]
+Thanks. Where's Priapus?
+
+330
+00:14:41,583 --> 00:14:43,833
+I think he left to check
+the rumors in town.
+
+331
+00:14:43,916 --> 00:14:45,208
+[MARIA]
+Ah.
+
+332
+00:14:45,291 --> 00:14:47,208
+So, tell me, are you
+still a maid?
+
+333
+00:14:47,291 --> 00:14:49,916
+What?! Who just says that?
+
+334
+00:14:50,000 --> 00:14:52,500
+Well, you took your sweet
+time bidding him adieu.
+
+335
+00:14:52,583 --> 00:14:53,916
+I thought you had
+your way with him.
+
+336
+00:14:54,000 --> 00:14:55,583
+We did no such thing!
+
+337
+00:14:55,666 --> 00:14:58,083
+No, I guess not.
+If you'd done the deed,
+
+338
+00:14:58,166 --> 00:15:01,000
+you'd be standing differently
+right now, Master.
+
+339
+00:15:01,083 --> 00:15:02,166
+You're a bad owl!
+
+340
+00:15:02,250 --> 00:15:05,458
+[ARTEMIS laughs]
+It's odd, huh?
+
+341
+00:15:05,541 --> 00:15:07,291
+For a long time
+this place was quiet,
+
+342
+00:15:07,375 --> 00:15:09,916
+with only the two
+of us living here.
+
+343
+00:15:10,000 --> 00:15:12,541
+And now there's some sort of
+excitement almost every day.
+
+344
+00:15:12,625 --> 00:15:13,208
+You know?
+
+345
+00:15:13,291 --> 00:15:15,333
+Yeah, you're right.
+
+346
+00:15:15,416 --> 00:15:19,083
+[ARTEMIS] Listen.
+Ezekiel, Joseph, Priapus, me.
+
+347
+00:15:19,166 --> 00:15:21,625
+We all want the best for you.
+
+348
+00:15:21,708 --> 00:15:24,583
+You just stay at home and put
+your focus into getting better.
+
+349
+00:15:24,666 --> 00:15:26,791
+I'll go out, and do what I do.
+
+350
+00:15:26,875 --> 00:15:28,000
+[MARIA chuckles]
+
+351
+00:15:28,083 --> 00:15:29,541
+[ARTEMIS]
+And while I'm at it,
+
+352
+00:15:29,625 --> 00:15:32,666
+I'll painfully do what I do
+to those who speak ill of you.
+
+353
+00:15:32,750 --> 00:15:34,083
+Artemis!
+
+354
+00:15:35,833 --> 00:15:37,375
+[ARTEMIS]
+Huh? This smoke!
+
+355
+00:15:37,458 --> 00:15:39,250
+[MARIA]
+What do you want, Cernunnos?
+
+356
+00:15:39,333 --> 00:15:40,875
+Wait. You know it?
+
+357
+00:15:40,958 --> 00:15:43,041
+[CERNUNNOS]
+Witch Maria, you bore witness
+
+358
+00:15:43,125 --> 00:15:44,583
+to the northern clan.
+
+359
+00:15:44,666 --> 00:15:46,500
+I did. You know them?
+
+360
+00:15:46,583 --> 00:15:48,500
+[CERNUNNOS]
+In time long past.
+
+361
+00:15:48,583 --> 00:15:51,125
+They are but shadows
+of their ancestors.
+
+362
+00:15:51,208 --> 00:15:53,458
+Faded in their weakness.
+
+363
+00:15:53,541 --> 00:15:55,666
+Well, you look a
+bit faded yourself.
+
+364
+00:15:55,750 --> 00:15:58,083
+[CERNUNNOS] Your familiar
+speaks the truth.
+
+365
+00:15:58,166 --> 00:16:00,416
+Goodness. Aren't we honest?
+
+366
+00:16:00,500 --> 00:16:02,375
+[CERNUNNOS]
+A hollow existence is the fate
+
+367
+00:16:02,458 --> 00:16:06,541
+that befalls all of our kind.
+It doth rest upon me.
+
+368
+00:16:06,625 --> 00:16:11,291
+Doth rest upon that northern
+clan and thee, witch.
+
+369
+00:16:11,375 --> 00:16:12,416
+Speak for yourself!
+
+370
+00:16:12,500 --> 00:16:13,541
+[CERNUNNOS]
+The fateful hour is nigh.
+
+371
+00:16:13,625 --> 00:16:14,875
+[MARIA gasps]
+
+372
+00:16:14,958 --> 00:16:16,500
+[CERNUNNOS] The people
+will carve your kindnesses
+
+373
+00:16:16,583 --> 00:16:19,833
+out of their memories and
+turn their backs upon thee.
+
+374
+00:16:19,916 --> 00:16:21,541
+They will forget
+all that we were
+
+375
+00:16:21,625 --> 00:16:27,000
+with surprising ease, sorceress.
+And they more the fools for it.
+
+376
+00:16:27,083 --> 00:16:28,083
+But...
+
+377
+00:16:28,166 --> 00:16:29,583
+Why even come here?
+
+378
+00:16:29,666 --> 00:16:31,333
+Away with you, beast!
+
+379
+00:16:31,416 --> 00:16:34,500
+[CERNUNNOS] Witch Maria,
+why rush to their aid?
+
+380
+00:16:34,583 --> 00:16:38,125
+Why intervene in humankind's
+futile struggles?
+
+381
+00:16:38,208 --> 00:16:40,833
+[MARIA gasps]
+
+382
+00:16:40,916 --> 00:16:43,583
+[CERNUNNOS] Become one
+with us, swear unto us--
+
+383
+00:16:43,666 --> 00:16:45,458
+Get you gone!
+
+384
+00:16:54,750 --> 00:17:01,125
+[LOLOTTE grunts]
+Come now. Off with ya!
+
+385
+00:17:01,208 --> 00:17:02,666
+That's a lovely toy, Galfa!
+
+386
+00:17:02,750 --> 00:17:05,166
+[GALFA]
+Heh. Indeed.
+
+387
+00:17:05,250 --> 00:17:08,500
+I can certainly get up to
+some trouble with this.
+
+388
+00:17:14,000 --> 00:17:16,875
+Ah. So this is the place.
+
+389
+00:17:16,958 --> 00:17:17,958
+[GILBERT]
+Yes.
+
+390
+00:17:18,041 --> 00:17:19,416
+They say that the
+Archangel Michael
+
+391
+00:17:19,500 --> 00:17:22,041
+descended upon this very spot.
+
+392
+00:17:22,125 --> 00:17:24,541
+If only we could
+have borne witness.
+
+393
+00:17:24,625 --> 00:17:26,291
+Blessed be mine eyes.
+
+394
+00:17:26,375 --> 00:17:29,500
+Yes. Would that we had.
+
+395
+00:17:29,583 --> 00:17:32,458
+The honored Brother Bernard
+has at last come among us.
+
+396
+00:17:32,541 --> 00:17:34,833
+You do us a great honor, sirrah.
+
+397
+00:17:34,916 --> 00:17:36,416
+[BERNARD]
+I am but a humble servant.
+
+398
+00:17:36,500 --> 00:17:40,083
+It is at the name of Jesus
+that every knee shall bend
+
+399
+00:17:40,166 --> 00:17:41,708
+[VALKYRIE A]
+See how the Church of the World
+
+400
+00:17:41,791 --> 00:17:44,500
+gluts itself upon empty words.
+
+401
+00:17:47,625 --> 00:17:49,166
+Martha, can you hear me?
+
+402
+00:17:49,250 --> 00:17:50,541
+[MARTHA]
+Yes.
+
+403
+00:17:50,625 --> 00:17:53,166
+I feel I am growing better
+with each passing hour.
+
+404
+00:17:53,250 --> 00:17:54,833
+[BERNARD]
+These are glad tidings.
+
+405
+00:17:54,916 --> 00:17:59,125
+Thanks to your medicine, Brother
+Bernard, I am still alive.
+
+406
+00:17:59,208 --> 00:18:02,625
+Martha, I can take no credit.
+It was the will of God.
+
+407
+00:18:02,708 --> 00:18:03,416
+[ANN whimpers]
+
+408
+00:18:03,500 --> 00:18:04,666
+Know you this.
+
+409
+00:18:04,750 --> 00:18:06,708
+I've never seen anyone
+regain their strength
+
+410
+00:18:06,791 --> 00:18:08,416
+with speed such as this.
+
+411
+00:18:08,500 --> 00:18:11,375
+Your recovery may indeed
+count as a miracle.
+
+412
+00:18:11,458 --> 00:18:12,458
+[BONNE, DENIS gasp]
+
+413
+00:18:12,541 --> 00:18:14,583
+Could it be so?
+
+414
+00:18:14,666 --> 00:18:18,166
+The Lord Above has granted
+me more time in this life?
+
+415
+00:18:18,250 --> 00:18:20,666
+[BERNARD]
+I am told all is not well.
+
+416
+00:18:20,750 --> 00:18:22,583
+You have been treated
+with false medicines
+
+417
+00:18:22,666 --> 00:18:24,208
+at the hands of a witch.
+
+418
+00:18:24,291 --> 00:18:25,083
+[ANN gasps]
+
+419
+00:18:25,166 --> 00:18:27,291
+[MARTHA gasps]
+But, she...
+
+420
+00:18:27,375 --> 00:18:29,458
+[BERNARD] Witches are
+the most cunning of liars.
+
+421
+00:18:29,541 --> 00:18:31,375
+They worm their way
+into your heart,
+
+422
+00:18:31,458 --> 00:18:34,291
+but their promises
+are naught but dust.
+
+423
+00:18:34,375 --> 00:18:38,083
+Will you sever ties to her,
+this creature of inequity?
+
+424
+00:18:38,166 --> 00:18:40,708
+Will you renounce her in
+word and in deed evermore?
+
+425
+00:18:40,791 --> 00:18:42,458
+[MARTHA gasps]
+Evermore?
+
+426
+00:18:42,541 --> 00:18:43,500
+[ANN gasps]
+
+427
+00:18:45,541 --> 00:18:50,000
+To tender with a witch is
+unbefitting the children of God.
+
+428
+00:18:50,083 --> 00:18:51,833
+[MARTHA sighs]
+
+429
+00:18:51,916 --> 00:18:54,875
+[BERNARD]
+Even now. God is merciful.
+
+430
+00:18:54,958 --> 00:18:58,500
+Martha, will you confess
+your sin before the Almighty?
+
+431
+00:18:58,583 --> 00:19:00,500
+For the sake of your family.
+
+432
+00:19:04,666 --> 00:19:07,083
+[MARTHA]
+I shall confess.
+
+433
+00:19:08,208 --> 00:19:09,458
+[BERNARD]
+Begin.
+
+434
+00:19:12,708 --> 00:19:16,541
+God above, I confess
+my sins to thee.
+
+435
+00:19:16,625 --> 00:19:20,041
+I have sinned against you
+and your church on Earth.
+
+436
+00:19:20,125 --> 00:19:22,708
+I have fraternized with a witch.
+
+437
+00:19:22,791 --> 00:19:25,583
+Was it the witch
+Maria, my child?
+
+438
+00:19:25,666 --> 00:19:27,541
+I pledge to thee.
+
+439
+00:19:27,625 --> 00:19:30,500
+The Witch Maria shall
+never have my heart.
+
+440
+00:19:30,583 --> 00:19:32,125
+This I pray.
+
+441
+00:19:32,208 --> 00:19:34,291
+[ANN]
+Grandmother?
+
+442
+00:19:34,375 --> 00:19:36,041
+[BERNARD]
+Ego te absolvo.
+
+443
+00:19:36,125 --> 00:19:39,750
+Your sins have been forgiven.
+
+444
+00:19:39,833 --> 00:19:40,666
+Amen.
+
+445
+00:19:40,750 --> 00:19:43,666
+[bells ringing]
+
+446
+00:19:43,750 --> 00:19:44,916
+[BERNARD]
+Mark me!
+
+447
+00:19:45,000 --> 00:19:47,666
+The insidious presence
+of the witch named Maria
+
+448
+00:19:47,750 --> 00:19:50,625
+sows naught but
+confusion and death.
+
+449
+00:19:50,708 --> 00:19:54,083
+Perhaps you wonder why
+she would treat us ill.
+
+450
+00:19:54,166 --> 00:19:58,291
+She is a witch and sworn to
+deliver chaos in her wake.
+
+451
+00:19:58,375 --> 00:20:02,166
+In her words, she brings
+peace to our war-torn homeland.
+
+452
+00:20:02,250 --> 00:20:04,625
+But by quelling war,
+she lengthens it,
+
+453
+00:20:04,708 --> 00:20:06,791
+and makes herself indispensible.
+
+454
+00:20:06,875 --> 00:20:10,208
+She profits by the discord
+she claims to loathe.
+
+455
+00:20:10,291 --> 00:20:11,875
+The witch is clever, you see.
+
+456
+00:20:11,958 --> 00:20:14,875
+She clings to our dream
+of peace, like a leech.
+
+457
+00:20:14,958 --> 00:20:18,708
+We shall achieve it with the
+unyielding strength of our faith
+
+458
+00:20:18,791 --> 00:20:21,458
+and labor drawn out
+of our own hands.
+
+459
+00:20:21,541 --> 00:20:23,666
+We need no witches to aid us.
+
+460
+00:20:23,750 --> 00:20:25,375
+They must be forgotten.
+
+461
+00:20:25,458 --> 00:20:28,333
+All witches must
+fade from our memory.
+
+462
+00:20:28,416 --> 00:20:30,791
+Put your trust in
+God's Holy Church.
+
+463
+00:20:30,875 --> 00:20:32,375
+Let the witches,
+
+464
+00:20:32,458 --> 00:20:37,000
+who stand opposed to order and
+light never again see the sun.
+
+465
+00:20:37,083 --> 00:20:41,000
+Children our Brother Gilbert
+here, blessed be he,
+
+466
+00:20:41,083 --> 00:20:43,875
+has been named a magistrate
+of the Inquisition.
+
+467
+00:20:43,958 --> 00:20:45,458
+[gasps]
+
+468
+00:20:45,541 --> 00:20:47,791
+[BERNARD] May the power of his
+pure faith return this village,
+
+469
+00:20:47,875 --> 00:20:51,625
+and its people, to the glory
+of our Holy Father.
+
+470
+00:20:51,708 --> 00:20:55,916
+Let all of us walk in
+the light of Christ our Lord.
+
+471
+00:20:56,000 --> 00:20:57,541
+Amen.
+
+472
+00:21:04,166 --> 00:21:05,625
+[BERNARD]
+Bonne chance to you, Gilbert.
+
+473
+00:21:05,708 --> 00:21:07,458
+[GILBERT]
+Ah, but Brother.
+
+474
+00:21:07,541 --> 00:21:10,416
+I do not deserve this,
+flawed as I am.
+
+475
+00:21:10,500 --> 00:21:12,958
+Purity of purpose
+has brought you here.
+
+476
+00:21:13,041 --> 00:21:14,458
+Trust in it.
+
+477
+00:21:14,541 --> 00:21:16,583
+I shall do all I can.
+
+478
+00:21:30,625 --> 00:21:34,541
+Once her purity is lost,
+so too, then, is her magic.
+
+479
+00:21:34,625 --> 00:21:36,333
+You told me yourself, Galfa.
+
+480
+00:21:36,416 --> 00:21:38,791
+It matters not the
+how or the wherefore.
+
+481
+00:21:38,875 --> 00:21:42,541
+With her virginity sundered,
+she can harry us no longer.
+
+482
+00:21:42,625 --> 00:21:45,166
+Are you really telling
+me to do this?
+
+483
+00:21:45,250 --> 00:21:47,875
+[BERNARD] It would make
+a fitting revenge.
+
+484
+00:21:47,958 --> 00:21:50,583
+For all that she's
+taken from you.
+
+485
+00:21:50,666 --> 00:21:53,708
+Brother, you're the Devil.
+
+486
+00:21:53,791 --> 00:21:56,791
+[BERNARD] The Devil
+resideth in each of us.
+
+487
+00:21:56,875 --> 00:22:00,083
+Only the Lord can
+keep him at bay.
+
+488
+00:22:00,166 --> 00:22:02,416
+I have prepared
+a special incense.
+
+489
+00:22:02,500 --> 00:22:04,250
+I'll leave the
+particulars to you.
+
+490
+00:22:04,333 --> 00:22:07,875
+Of course. I am not
+versed in such things.
+
+491
+00:22:10,625 --> 00:22:12,083
+[MARIA]
+When did it start?
+
+492
+00:22:12,166 --> 00:22:15,791
+How did I become so dedicated
+to stopping battle?
+
+493
+00:22:19,333 --> 00:22:21,666
+[MARIA]
+What am I trying to achieve?
+
+494
+00:23:53,541 --> 00:23:55,875
+[BERNARD] Is irrationality
+the reason we need faith?
+
+495
+00:23:55,958 --> 00:23:57,875
+But Aristotle said
+affirmation and negation
+
+496
+00:23:57,958 --> 00:23:59,291
+cannot both be true at once.
+
+497
+00:23:59,375 --> 00:24:01,708
+Ergo. Ergo. No, wait!
+
+498
+00:24:01,791 --> 00:24:04,125
+Is consideration of the
+unchanging as a premise
+
+499
+00:24:04,208 --> 00:24:06,083
+wrong from the onset?
+

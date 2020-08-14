@@ -1,0 +1,1123 @@
+﻿1
+00:02:23,375 --> 00:02:28,291
+[beeping]
+
+2
+00:02:28,375 --> 00:02:29,333
+[ARBALEST A.I.]
+Warning.
+
+3
+00:02:29,416 --> 00:02:32,000
+Heat source closing
+in from behind.
+
+4
+00:03:13,500 --> 00:03:15,583
+Execute ABHS.
+
+5
+00:03:15,666 --> 00:03:16,750
+[CODAR AI]
+On which band?
+
+6
+00:03:16,833 --> 00:03:18,958
+Probably microwave.
+
+7
+00:03:19,041 --> 00:03:20,708
+[CODAR AI]
+Hunting for frequency.
+
+8
+00:03:20,791 --> 00:03:22,041
+Please wait one minute.
+
+9
+00:03:22,125 --> 00:03:24,375
+Moron. Do it in 30 seconds.
+
+10
+00:03:24,458 --> 00:03:26,541
+All units halt.
+
+11
+00:03:44,041 --> 00:03:46,291
+[CODAR AI]
+ABHS hunting mode complete.
+
+12
+00:03:46,375 --> 00:03:47,958
+Communication now possible.
+
+13
+00:03:48,041 --> 00:03:49,583
+Hello, Kashim.
+
+14
+00:03:49,666 --> 00:03:51,083
+It's Gauron.
+
+15
+00:03:51,166 --> 00:03:53,916
+[GAURON] I don't appreciate you
+interrupting my business.
+
+16
+00:03:54,000 --> 00:03:57,208
+Why not show some
+courtesy and die?
+
+17
+00:03:57,291 --> 00:03:58,416
+Fire!
+
+18
+00:04:00,500 --> 00:04:03,125
+Zaied, please take
+over from here.
+
+19
+00:04:03,208 --> 00:04:04,875
+[ZAIED]
+Leave it to me.
+
+20
+00:04:06,791 --> 00:04:08,125
+[GAURON] How do you
+feel about torturing
+
+21
+00:04:08,208 --> 00:04:10,583
+your old friend to death?
+
+22
+00:04:10,666 --> 00:04:13,208
+[ZAIED] I don't feel
+anything. It's my duty.
+
+23
+00:04:13,291 --> 00:04:16,458
+[GAURON] Hmm. You make
+it sound so boring.
+
+24
+00:04:19,333 --> 00:04:22,125
+[SOUSUKE] The angle of
+the slope is 20-23 degrees.
+
+25
+00:04:22,208 --> 00:04:24,708
+Thirteen or 15 seconds
+to the valley floor.
+
+26
+00:04:24,791 --> 00:04:26,333
+If we can force
+close-quarters combat
+
+27
+00:04:26,416 --> 00:04:28,125
+under the cover of the dust...
+
+28
+00:04:28,208 --> 00:04:30,000
+AI, the enemy found
+our frequency.
+
+29
+00:04:30,083 --> 00:04:32,291
+Scramble and forward
+the data to all machines.
+
+30
+00:04:32,375 --> 00:04:35,000
+[ARBALEST A.I.]
+Roger. Forwarding data.
+
+31
+00:04:50,416 --> 00:04:52,041
+Kashim.
+
+32
+00:04:52,125 --> 00:04:54,166
+[SOUSUKE] Another attack
+from behind in this terrain?
+
+33
+00:04:54,250 --> 00:04:55,666
+Who's giving orders?
+
+34
+00:04:55,750 --> 00:04:59,250
+[ARBALEST A.I.] Enabling data
+link. Unable to transmit.
+
+35
+00:04:59,333 --> 00:05:01,083
+Please try it again.
+
+36
+00:05:03,791 --> 00:05:06,083
+[ARBALEST A.I.] Tuner and fixed
+band mode are out of order.
+
+37
+00:05:06,166 --> 00:05:08,208
+Unable to communicate.
+
+38
+00:05:09,083 --> 00:05:11,291
+[ZAIED] Kashim, when they
+can attack you from behind,
+
+39
+00:05:11,375 --> 00:05:14,333
+that's when you die.
+Remember that.
+
+40
+00:05:25,708 --> 00:05:26,916
+[GRAY]
+Sergeant Sagara's communications
+
+41
+00:05:27,000 --> 00:05:27,916
+have been cut off.
+
+42
+00:05:28,000 --> 00:05:29,166
+Are you serious?
+
+43
+00:05:29,250 --> 00:05:31,375
+What about the
+information read-outs?
+
+44
+00:05:31,458 --> 00:05:33,291
+[GRAY]
+I haven't received any.
+
+45
+00:05:33,375 --> 00:05:35,291
+[ANDY] Then he must have been
+outsmarted by the enemy
+
+46
+00:05:35,375 --> 00:05:38,500
+and got attacked.
+I'm dead sure of it.
+
+47
+00:05:38,583 --> 00:05:39,708
+[gasps]
+
+48
+00:05:39,791 --> 00:05:41,291
+[BATIST] It's not something
+I wanna believe,
+
+49
+00:05:41,375 --> 00:05:43,666
+but sometimes God
+likes to shuffle in
+
+50
+00:05:43,750 --> 00:05:46,333
+and deal a card
+called despair...
+
+51
+00:05:46,416 --> 00:05:48,041
+Especially on the battlefield.
+
+52
+00:05:48,125 --> 00:05:50,000
+[GRAY]
+Batist...
+
+53
+00:05:50,083 --> 00:05:53,375
+Listen, Gray. You said you
+fought in Eastern Europe.
+
+54
+00:05:53,458 --> 00:05:57,291
+You must have witnessed this
+moment dozens of times.
+
+55
+00:05:57,375 --> 00:06:01,500
+The moment when God
+calls someone's number.
+
+56
+00:06:04,666 --> 00:06:08,250
+[grunts]
+
+57
+00:06:08,333 --> 00:06:10,166
+[BATIST] I'm not saying I need
+a rosewood coffin,
+
+58
+00:06:10,250 --> 00:06:15,666
+but do you think you can find
+something suitable for me?
+
+59
+00:06:15,750 --> 00:06:18,583
+[SAVAGE 1] Shit! The sand
+filter's reaching its limit.
+
+60
+00:06:18,666 --> 00:06:20,416
+The leg joints
+aren't functioning!
+
+61
+00:06:20,500 --> 00:06:21,750
+Stop kicking up the dust!
+
+62
+00:06:21,833 --> 00:06:23,250
+[SAVAGE 2]
+Don't panic! Number 3,
+
+63
+00:06:23,333 --> 00:06:25,500
+use Passive Thermograph
+to find the heat source.
+
+64
+00:06:25,583 --> 00:06:27,750
+[SAVAGE 3]
+Got it! Target at 5 o'clock!
+
+65
+00:06:27,833 --> 00:06:28,833
+Dist--
+
+66
+00:06:32,958 --> 00:06:34,458
+[SAVAGE 1]
+He's aiming for the sand filter!
+
+67
+00:06:34,541 --> 00:06:38,000
+Defense! Once the filter is
+damaged, we can't do anything!
+
+68
+00:06:38,083 --> 00:06:39,500
+[SAVAGE 1 screams]
+
+69
+00:06:45,375 --> 00:06:46,791
+[SAVAGE 2]
+Where? Where is he?
+
+70
+00:06:46,875 --> 00:06:49,041
+[SAVAGE 1] Search for the heat
+source! Protect the fil--
+
+71
+00:06:49,125 --> 00:06:50,541
+Just calm down!
+
+72
+00:06:50,625 --> 00:06:52,791
+I'll handle all the data and
+forward it to each machine.
+
+73
+00:06:52,875 --> 00:06:55,333
+So everyone switch to
+CIC synchro-mode.
+
+74
+00:06:55,416 --> 00:06:58,333
+Surround it. We only
+have one machine to fight.
+
+75
+00:06:59,791 --> 00:07:01,500
+Somebody out there
+is firing on us
+
+76
+00:07:01,583 --> 00:07:04,250
+with a Gatling cannon, AI.
+Use enemy search mode
+
+77
+00:07:04,333 --> 00:07:06,250
+to pinpoint the noise
+from the motor.
+
+78
+00:07:06,333 --> 00:07:07,833
+[ARBALEST A.I.]
+One minute, please.
+
+79
+00:07:07,916 --> 00:07:09,708
+No, do it in 30 seconds!
+
+80
+00:07:10,875 --> 00:07:12,125
+[ZAIED]
+It won't be so easy when
+
+81
+00:07:12,208 --> 00:07:14,666
+you're in close-quarters
+combat with another AS.
+
+82
+00:07:14,750 --> 00:07:17,916
+The monomolecular cutter or
+Gatling cannon is your best bet.
+
+83
+00:07:19,958 --> 00:07:22,333
+[SOUSUKE] It would have been
+impossible to surprise me from
+
+84
+00:07:22,416 --> 00:07:24,875
+behind if he didn't know
+the terrain around here.
+
+85
+00:07:24,958 --> 00:07:27,500
+And that Gatling cannon...
+
+86
+00:07:29,166 --> 00:07:30,375
+[gasps]
+
+87
+00:07:35,083 --> 00:07:38,500
+[ANDY] Five minutes have gone by
+since we lost communication.
+
+88
+00:07:38,583 --> 00:07:41,541
+What should we do,
+Gray? Withdraw?
+
+89
+00:07:41,625 --> 00:07:43,000
+[JACKSON]
+Yeah, what if he's...
+
+90
+00:07:43,083 --> 00:07:45,791
+Well, you know...
+like Batist said.
+
+91
+00:07:45,875 --> 00:07:48,791
+[GRAY] What if he's alive?
+What if he's still fighting?
+
+92
+00:07:48,875 --> 00:07:51,208
+Withdrawing would mean
+abandoning him.
+
+93
+00:07:53,791 --> 00:07:56,458
+I could never do something
+like that to him.
+
+94
+00:07:56,541 --> 00:07:58,541
+And furthermore, we haven't
+carried out the mission
+
+95
+00:07:58,625 --> 00:08:00,916
+that was assigned to us.
+
+96
+00:08:01,000 --> 00:08:02,333
+[gasps]
+
+97
+00:08:07,708 --> 00:08:08,958
+Oh god, it's Gauron.
+
+98
+00:08:09,041 --> 00:08:10,958
+Damn! How come the
+surveillance system
+
+99
+00:08:11,041 --> 00:08:12,541
+didn't pick his ass up?
+
+100
+00:08:12,625 --> 00:08:17,541
+You fool. Did you think I'd slip
+and get caught in your slow net?
+
+101
+00:08:17,625 --> 00:08:19,250
+[GRAY]
+AI, execute trap!
+
+102
+00:08:19,333 --> 00:08:21,458
+[AI]
+Roger. Executing.
+
+103
+00:08:22,708 --> 00:08:24,041
+[gasps]
+
+104
+00:08:25,000 --> 00:08:26,416
+[ANDY]
+No way! He broke through.
+
+105
+00:08:26,500 --> 00:08:27,625
+[JACKSON]
+Oh, shit.
+
+106
+00:08:27,708 --> 00:08:29,375
+[GRAY] Andy, stay in
+defensive formation.
+
+107
+00:08:29,458 --> 00:08:31,125
+Get the enemy's data first!
+
+108
+00:08:31,208 --> 00:08:33,583
+Here, partner. Let me show you.
+
+109
+00:08:33,666 --> 00:08:36,041
+I'm gonna carry out my mission.
+
+110
+00:08:37,958 --> 00:08:38,750
+[gasps]
+
+111
+00:08:38,833 --> 00:08:40,833
+He got Andy!
+
+112
+00:08:42,708 --> 00:08:43,875
+[GRAY]
+Jackson, secure the trailer,
+
+113
+00:08:43,958 --> 00:08:45,083
+and for god's sakes, cover me!
+
+114
+00:08:45,166 --> 00:08:47,750
+[JACKSON]
+Roger! Go to hell, you bastard!
+
+115
+00:09:04,291 --> 00:09:06,208
+[ARBALEST A.I.]
+Enemy's equipment identified.
+
+116
+00:09:06,291 --> 00:09:10,875
+Anti-AS Gatling cannon.
+AK-87. Fully automatic.
+
+117
+00:09:10,958 --> 00:09:12,958
+520 rounds per second.
+
+118
+00:09:13,041 --> 00:09:15,125
+Equipped with large
+reserve magazine.
+
+119
+00:09:15,208 --> 00:09:17,250
+Reserve magazine?
+
+120
+00:09:19,833 --> 00:09:21,208
+[ZAIED]
+Kashim...
+
+121
+00:09:21,291 --> 00:09:24,208
+it is the cautious soldier
+who survives until the end.
+
+122
+00:09:24,291 --> 00:09:25,958
+Even in a heated battle,
+
+123
+00:09:26,041 --> 00:09:28,875
+make sure to save some bullets
+in a reserve magazine.
+
+124
+00:09:28,958 --> 00:09:31,750
+You'll stand a better
+chance of winning.
+
+125
+00:09:31,833 --> 00:09:35,958
+It can't be... Zaied.
+
+126
+00:09:51,916 --> 00:09:54,083
+AI, I wanna talk to that AS.
+
+127
+00:09:54,166 --> 00:09:56,166
+Search for the frequency.
+
+128
+00:09:56,250 --> 00:09:58,333
+[ARBALEST A.I.]
+Searching.
+
+129
+00:09:58,416 --> 00:10:02,416
+Error. The frequency
+cannot be identified.
+
+130
+00:10:02,500 --> 00:10:04,708
+Allied communications restored.
+
+131
+00:10:04,791 --> 00:10:05,708
+Now receiving.
+
+132
+00:10:05,791 --> 00:10:06,791
+Connect me.
+
+133
+00:10:06,875 --> 00:10:08,125
+[GRAY]
+Sergeant Sagara, do you read me?
+
+134
+00:10:08,208 --> 00:10:09,208
+Are you okay?
+
+135
+00:10:09,291 --> 00:10:10,833
+[GRAY]
+We're being attacked by Gauron!
+
+136
+00:10:10,916 --> 00:10:12,666
+You're what?
+
+137
+00:10:14,916 --> 00:10:17,291
+[GRAY] We still have
+the nuclear warhead.
+
+138
+00:10:17,375 --> 00:10:18,708
+Andy was killed.
+
+139
+00:10:18,791 --> 00:10:19,583
+[gasps]
+
+140
+00:10:19,666 --> 00:10:22,125
+What's the status on your end?
+
+141
+00:10:22,208 --> 00:10:23,625
+Gray, what happened?
+
+142
+00:10:23,708 --> 00:10:25,416
+[ARBALEST A.I.]
+Communication has terminated.
+
+143
+00:10:25,500 --> 00:10:27,166
+I'll be right there.
+
+144
+00:10:40,916 --> 00:10:42,333
+Get out of my way!
+
+145
+00:10:54,041 --> 00:10:59,333
+Someone steals merchandise from
+a businessman, he gets angry.
+
+146
+00:10:59,416 --> 00:11:00,875
+You agree?
+
+147
+00:11:05,625 --> 00:11:07,416
+It's time to shut you up!
+
+148
+00:11:15,833 --> 00:11:17,041
+What the...?
+
+149
+00:11:20,166 --> 00:11:23,041
+[GAURON]
+So long, lousy thief.
+
+150
+00:11:33,250 --> 00:11:34,500
+Dammit, I can still fight!
+
+151
+00:11:34,583 --> 00:11:38,833
+Close the freaking hatch,
+you piece of shit!
+
+152
+00:11:40,000 --> 00:11:42,166
+Batist, what are you...?
+
+153
+00:11:42,250 --> 00:11:44,625
+As long as you can curse
+up a storm like that,
+
+154
+00:11:44,708 --> 00:11:49,041
+you can fight... Listen,
+I'm gonna give you support.
+
+155
+00:11:49,125 --> 00:11:51,750
+But you can't let them
+get their hands on the warhead.
+
+156
+00:11:51,833 --> 00:11:53,666
+But how are you gonna...?
+
+157
+00:11:55,000 --> 00:11:57,208
+I'm real sorry...
+
+158
+00:11:57,291 --> 00:12:02,750
+I still owe ya $300. Please
+leave it that way for now.
+
+159
+00:12:10,750 --> 00:12:12,458
+[ZAIED laughing]
+Take that!
+
+160
+00:12:12,541 --> 00:12:15,083
+[SOUSUKE laughing]
+Oh yeah?
+
+161
+00:12:15,166 --> 00:12:16,458
+--[ZAIED] Oh, ya got me!
+--You missed!
+
+162
+00:12:16,541 --> 00:12:18,041
+[ZAIED] Well it's a good
+thing you're not against me
+
+163
+00:12:18,125 --> 00:12:20,791
+in a real battle. Otherwise
+I'd take you down right now!
+
+164
+00:12:20,875 --> 00:12:22,041
+[ZAIED]
+Forgive me, Kashim.
+
+165
+00:12:22,125 --> 00:12:24,583
+I wanted to be on
+the winning team.
+
+166
+00:12:27,833 --> 00:12:29,375
+[ZAIED]
+You haven't changed.
+
+167
+00:12:29,458 --> 00:12:31,791
+Your attacks are as
+effective as ever.
+
+168
+00:12:35,250 --> 00:12:37,208
+[ARBALEST A.I.]
+Communications system restored.
+
+169
+00:12:37,291 --> 00:12:38,791
+Then connect me.
+
+170
+00:12:38,875 --> 00:12:40,416
+[GRAY]
+Batist, what are you doing?!
+
+171
+00:12:40,500 --> 00:12:43,166
+[BATIST]
+I'm going to kill that Gauron.
+
+172
+00:12:43,250 --> 00:12:46,708
+[GRAY] You're injured!
+What are you talking about?
+
+173
+00:12:52,000 --> 00:12:53,208
+[BATIST]
+Do you wanna know why
+
+174
+00:12:53,291 --> 00:12:55,958
+God deals us such
+a terrible card?
+
+175
+00:12:58,625 --> 00:13:00,625
+It's simply because...
+
+176
+00:13:00,708 --> 00:13:03,333
+...he went to all this trouble
+to create these idiots
+
+177
+00:13:03,416 --> 00:13:07,708
+called humans, and he's
+regretted it ever since.
+
+178
+00:13:09,416 --> 00:13:11,583
+Listen, Gray.
+
+179
+00:13:11,666 --> 00:13:15,166
+If you survive,
+please tell Sagara...
+
+180
+00:13:15,250 --> 00:13:19,166
+that he'll make a good
+soldier when he grows up.
+
+181
+00:13:19,250 --> 00:13:20,125
+[GRAY]
+Batist!
+
+182
+00:13:20,208 --> 00:13:22,208
+[BATIST]
+SDM, stand by!
+
+183
+00:13:22,291 --> 00:13:25,250
+[AI] Warning, once the
+self-destruct mode has been set,
+
+184
+00:13:25,333 --> 00:13:27,875
+it cannot be cancelled.
+Do you accept?
+
+185
+00:13:27,958 --> 00:13:30,000
+I accept! Start the sequence!
+
+186
+00:13:30,083 --> 00:13:32,541
+[AI] This is the final
+confirmation. Do you accept?
+
+187
+00:13:32,625 --> 00:13:34,458
+Yes I accept. Hurry it up!
+
+188
+00:13:34,541 --> 00:13:37,666
+[AI] Roger. Please set a time to
+schedule the execution.
+
+189
+00:13:37,750 --> 00:13:39,083
+In ten seconds.
+
+190
+00:13:39,166 --> 00:13:42,208
+[AI]
+Roger. Ten seconds starting now.
+
+191
+00:13:42,291 --> 00:13:44,166
+ADM will be executed in ten,
+
+192
+00:13:44,250 --> 00:13:47,541
+passengers should
+evacuate immediately.
+
+193
+00:13:47,625 --> 00:13:49,500
+Counting down. Six.
+
+194
+00:13:49,583 --> 00:13:51,916
+Don't do it. Stop it, Batist.
+
+195
+00:13:52,000 --> 00:13:55,375
+[AI]
+Three. Two. One.
+
+196
+00:14:03,000 --> 00:14:06,208
+[screams]
+
+197
+00:14:10,125 --> 00:14:12,958
+Batist, damn you!
+
+198
+00:14:14,583 --> 00:14:16,500
+What, going somewhere?
+
+199
+00:14:19,458 --> 00:14:21,333
+[gasps]
+
+200
+00:14:35,500 --> 00:14:39,250
+Well, well, well. Since I
+don't see you giving up,
+
+201
+00:14:39,333 --> 00:14:42,000
+I guess we'll have to fight
+to the bitter end.
+
+202
+00:14:42,083 --> 00:14:43,666
+Won't we?
+
+203
+00:14:47,541 --> 00:14:49,166
+[GRAY]
+Batist! Jackson!
+
+204
+00:14:49,250 --> 00:14:51,875
+[ARBALEST A.I.] No response
+from Jackson's machine.
+
+205
+00:15:38,250 --> 00:15:42,625
+[gasping]
+
+206
+00:15:50,958 --> 00:15:52,916
+[GRAY gasps]
+
+207
+00:16:06,416 --> 00:16:08,875
+It really isn't anybody's fault.
+
+208
+00:16:08,958 --> 00:16:11,875
+These things often happen
+on the battlefield,
+
+209
+00:16:11,958 --> 00:16:17,958
+but you can understand
+that... Right, Kashim?
+
+210
+00:16:19,916 --> 00:16:21,666
+[GRAY]
+Don't worry about me.
+
+211
+00:16:21,750 --> 00:16:26,583
+There's no need. Your mission
+is to make it home, Sousuke.
+
+212
+00:16:31,625 --> 00:16:32,750
+[SOUSUKE gasps]
+
+213
+00:16:36,000 --> 00:16:38,666
+Zaied!
+
+214
+00:16:49,458 --> 00:16:52,083
+K-Kashim...
+
+215
+00:17:00,000 --> 00:17:03,208
+[panting]
+
+216
+00:17:03,291 --> 00:17:06,291
+Miss Gray, I'm coming.
+
+217
+00:17:39,000 --> 00:17:42,125
+All right, Gauron,
+where are you?!
+
+218
+00:17:42,208 --> 00:17:46,083
+[GAURON] If you want it, why
+don't you just come and get it?
+
+219
+00:17:46,166 --> 00:17:49,875
+[SOUSUKE] Because, I'd
+rather kill you first!
+
+220
+00:17:49,958 --> 00:17:53,833
+Huh, wasn't quite as easy as
+catching a sparrow, was it?
+
+221
+00:17:53,916 --> 00:17:56,333
+But please, amuse me.
+
+222
+00:17:56,416 --> 00:17:58,041
+[ARBALEST A.I.]
+Heat source rapidly approaching
+
+223
+00:17:58,125 --> 00:17:59,583
+at 5 o'clock.
+
+224
+00:18:01,333 --> 00:18:04,541
+AI, now listen to me!
+Start the Lambda Driver!
+
+225
+00:18:04,625 --> 00:18:06,750
+[ARBALEST A.I.]
+Roger.
+
+226
+00:18:06,833 --> 00:18:08,708
+Show me how it's done!
+
+227
+00:18:20,458 --> 00:18:22,000
+Goodbye, Gauron!
+
+228
+00:18:22,083 --> 00:18:26,375
+[growls, yells]
+
+229
+00:18:49,125 --> 00:18:55,750
+[SOUSUKE panting]
+
+230
+00:19:00,791 --> 00:19:02,583
+Zaied... but...
+
+231
+00:19:02,666 --> 00:19:04,208
+[ARBALEST A.I.]
+Performing thermal scan.
+
+232
+00:19:04,291 --> 00:19:07,875
+Reserve magazine contains
+unused bullets.
+
+233
+00:19:07,958 --> 00:19:12,125
+Like I told you... the soldier
+who wins is the one who
+
+234
+00:19:12,208 --> 00:19:16,333
+saves a few rounds and keeps
+them in a reserve magazine.
+
+235
+00:21:06,000 --> 00:21:12,416
+Why don't you...
+say something... Sousuke?
+
+236
+00:21:17,083 --> 00:21:18,833
+[SOUSUKE]
+No problem.
+
+237
+00:22:59,041 --> 00:23:01,125
+[KANAME] Whoa! All of a sudden,
+he said we should take
+
+238
+00:23:01,208 --> 00:23:04,125
+a summer vacation, just the
+two of us. Of course I want
+
+239
+00:23:04,208 --> 00:23:06,125
+some nice memories,
+but I need some time
+
+240
+00:23:06,208 --> 00:23:07,916
+before my heart
+is ready for that.
+
+241
+00:23:08,000 --> 00:23:10,250
+[SOUSUKE] Next Full Metal Panic:
+"Deep Sea Party."
+
+242
+00:23:10,333 --> 00:23:12,791
+Kaname, have you ever
+parachuted before?
+
+243
+00:23:12,875 --> 00:23:14,666
+[KANAME]
+Huh?
+

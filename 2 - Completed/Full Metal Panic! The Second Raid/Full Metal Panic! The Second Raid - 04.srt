@@ -1,0 +1,1868 @@
+﻿1
+00:01:59,858 --> 00:02:00,817
+Yeah, that's right.
+
+2
+00:02:00,900 --> 00:02:02,442
+Something's rotten down here.
+
+3
+00:02:02,525 --> 00:02:05,067
+Once we're done looking
+around, let's bug out quick.
+
+4
+00:02:05,150 --> 00:02:06,358
+There you go.
+
+5
+00:02:06,442 --> 00:02:08,108
+You're going to be
+all right in no time, miss.
+
+6
+00:02:09,650 --> 00:02:13,233
+There isn't anybody inside the
+enemy AS unit I just destroyed.
+
+7
+00:02:13,317 --> 00:02:15,775
+Was it controlled
+remotely or something?
+
+8
+00:02:15,858 --> 00:02:17,442
+What the hell is going on?
+
+9
+00:02:33,525 --> 00:02:35,900
+It seems we've managed
+to walk into a trap.
+
+10
+00:02:47,233 --> 00:02:49,608
+He said they walked into a trap
+
+11
+00:02:49,692 --> 00:02:51,900
+Bring up the ADM
+data on the monitor.
+
+12
+00:02:51,983 --> 00:02:53,233
+Yes, Captain.
+
+13
+00:02:57,692 --> 00:02:59,317
+They're spread out all over.
+
+14
+00:02:59,400 --> 00:03:02,108
+Literally too busy
+fighting to call in.
+
+15
+00:03:02,192 --> 00:03:04,192
+They have spotty communications.
+
+16
+00:03:04,275 --> 00:03:06,817
+So their data links aren't
+going to work well either.
+
+17
+00:03:06,900 --> 00:03:08,150
+It's looking bad.
+
+18
+00:03:08,233 --> 00:03:10,233
+At this rate,
+Melissa and the others will...
+
+19
+00:03:32,858 --> 00:03:34,442
+Stop struggling, please.
+
+20
+00:03:34,525 --> 00:03:35,650
+A kid?
+
+21
+00:03:35,733 --> 00:03:38,483
+Resisting will only
+make this more painful.
+
+22
+00:03:48,567 --> 00:03:49,692
+No way!
+
+23
+00:03:54,983 --> 00:03:56,233
+There's not enough room!
+
+24
+00:04:08,192 --> 00:04:09,400
+Is it HIM?
+
+25
+00:04:09,483 --> 00:04:10,983
+There's no way it could be.
+
+26
+00:04:12,067 --> 00:04:13,525
+I thought he was...
+
+27
+00:04:15,067 --> 00:04:16,317
+dead.
+
+28
+00:04:16,400 --> 00:04:18,192
+Hold still, now!
+
+29
+00:04:18,275 --> 00:04:19,442
+Or my bullets...
+
+30
+00:04:19,525 --> 00:04:21,275
+just might miss you!
+
+31
+00:04:29,025 --> 00:04:30,275
+DAMN!
+
+32
+00:04:34,067 --> 00:04:35,400
+It can't be him.
+
+33
+00:04:42,858 --> 00:04:44,233
+Did I get him?
+
+34
+00:04:50,858 --> 00:04:52,817
+So it has a Lambda Driver.
+
+35
+00:04:54,400 --> 00:04:56,275
+That was a close one!
+
+36
+00:04:56,358 --> 00:04:59,150
+Barely missed me by the hair
+of my chinny-chin-chin,
+
+37
+00:04:59,233 --> 00:05:00,358
+didn'tcha?
+
+38
+00:05:01,025 --> 00:05:01,942
+Hey it's me.
+
+39
+00:05:02,025 --> 00:05:04,442
+Any changes in the
+enemy situation?
+
+40
+00:05:04,525 --> 00:05:05,400
+Negative.
+
+41
+00:05:05,483 --> 00:05:06,817
+They're still confused.
+
+42
+00:05:06,900 --> 00:05:07,608
+Perfect!
+
+43
+00:05:07,692 --> 00:05:09,108
+Continue the interference.
+
+44
+00:05:10,358 --> 00:05:12,067
+WE'LL KILL THEM ALL!
+
+45
+00:05:16,900 --> 00:05:18,942
+All units this is Urzu 7...
+
+46
+00:05:19,025 --> 00:05:21,733
+I am engaging an enemy
+AS at oh-two-eleven.
+
+47
+00:05:21,817 --> 00:05:23,775
+The enemy unit is a Venom type.
+
+48
+00:05:24,525 --> 00:05:26,858
+I will try drawing him
+to oh-one-twelve.
+
+49
+00:05:26,942 --> 00:05:28,192
+Are there any available units
+
+50
+00:05:28,275 --> 00:05:30,775
+that can come in from the
+East to help box him in?
+
+51
+00:05:30,858 --> 00:05:32,400
+HQ to Urzu 7.
+
+52
+00:05:32,483 --> 00:05:33,983
+Your coordinates are incorrect.
+
+53
+00:05:34,067 --> 00:05:34,983
+Please confirm.
+
+54
+00:05:35,067 --> 00:05:37,108
+Current position
+is oh-two-eleven.
+
+55
+00:05:37,192 --> 00:05:38,483
+Hurry and send response...
+
+56
+00:05:38,567 --> 00:05:40,483
+Give me accurate
+coordinates, Urzu 7!
+
+57
+00:05:40,567 --> 00:05:42,275
+This is Urzu 7 to HQ.
+
+58
+00:05:42,358 --> 00:05:43,400
+Do you read me?
+
+59
+00:05:43,483 --> 00:05:45,608
+Trying to proceed
+to oh-one-twelve...
+
+60
+00:05:45,692 --> 00:05:47,192
+Repeat, trying...
+
+61
+00:05:47,275 --> 00:05:48,608
+Do you read me, Urzu 7?
+
+62
+00:05:48,692 --> 00:05:49,858
+This is Urzu 6.
+
+63
+00:05:49,942 --> 00:05:52,150
+I am currently
+engaging an enemy AS.
+
+64
+00:05:52,233 --> 00:05:53,900
+It's a combat Shadow type.
+
+65
+00:05:53,983 --> 00:05:56,150
+I'm gonna try to divert him
+to oh-three-fifteen
+
+66
+00:05:56,233 --> 00:05:58,192
+and crush his ass.
+
+67
+00:05:58,275 --> 00:06:01,025
+Urzu 6, can you confirm
+Urzu 7 at oh-two-sixteen?
+
+68
+00:06:01,108 --> 00:06:02,275
+Urzu 6?
+
+69
+00:06:02,358 --> 00:06:04,817
+What the hell is wrong
+with the com devices?
+
+70
+00:06:05,692 --> 00:06:07,942
+It means the plan is working.
+
+71
+00:06:08,025 --> 00:06:11,483
+If you guys recover now,
+it'll be bad for my business.
+
+72
+00:06:11,567 --> 00:06:13,733
+And we can't have that, can we?
+
+73
+00:06:13,817 --> 00:06:15,108
+Wha...?
+
+74
+00:06:15,192 --> 00:06:17,317
+A complaint from the boss.
+
+75
+00:06:20,567 --> 00:06:21,567
+Ogma 1 here.
+
+76
+00:06:21,650 --> 00:06:22,775
+This is the Captain.
+
+77
+00:06:22,858 --> 00:06:24,775
+The local data link
+is completely disrupted.
+
+78
+00:06:24,858 --> 00:06:26,608
+Explain this!
+
+79
+00:06:26,692 --> 00:06:29,025
+I believe it's due to the
+complex structure of the tunnel,
+
+80
+00:06:29,108 --> 00:06:30,400
+Captain.
+
+81
+00:06:30,483 --> 00:06:32,983
+Leakage and fires are
+producing unexpected amounts
+
+82
+00:06:33,067 --> 00:06:34,067
+of interference...
+
+83
+00:06:34,150 --> 00:06:36,233
+Make improving it
+your top priority.
+
+84
+00:06:36,317 --> 00:06:37,442
+Yes, ma'am.
+
+85
+00:06:39,275 --> 00:06:41,692
+ADM data is unreliable now.
+
+86
+00:06:41,775 --> 00:06:43,817
+I'm changing the
+battle control method.
+
+87
+00:06:44,817 --> 00:06:45,650
+To manual?
+
+88
+00:06:45,733 --> 00:06:47,983
+Correct, with voice and paper.
+
+89
+00:06:51,650 --> 00:06:54,817
+I have to grasp the situation
+as quickly as possible.
+
+90
+00:06:54,900 --> 00:06:56,442
+Or they'll all die.
+
+91
+00:07:16,483 --> 00:07:18,025
+I told you.
+
+92
+00:07:18,108 --> 00:07:20,358
+It'll only hurt you more.
+
+93
+00:07:22,817 --> 00:07:24,275
+Just a child...
+
+94
+00:07:24,358 --> 00:07:29,150
+But she seems devoid of
+all emotion, except...
+
+95
+00:07:29,233 --> 00:07:31,400
+total despair.
+
+96
+00:07:33,358 --> 00:07:33,983
+Mao!
+
+97
+00:07:34,067 --> 00:07:35,067
+Fire!
+
+98
+00:07:56,233 --> 00:07:57,108
+She got away.
+
+99
+00:07:57,192 --> 00:07:58,192
+Should we go after her?
+
+100
+00:07:58,275 --> 00:07:59,442
+No.
+
+101
+00:07:59,525 --> 00:08:01,067
+Our first priority is
+to get the hostages out,
+
+102
+00:08:01,150 --> 00:08:02,775
+and make sure they're
+not booby-trapped.
+
+103
+00:08:02,858 --> 00:08:04,192
+Who the hell was that girl?
+
+104
+00:08:04,275 --> 00:08:05,608
+A "sleeping terrorist."
+
+105
+00:08:05,692 --> 00:08:08,150
+She was planted with
+the rest of the hostages.
+
+106
+00:08:08,233 --> 00:08:09,733
+But what purpose
+does that serve?
+
+107
+00:08:09,817 --> 00:08:11,108
+Who knows?
+
+108
+00:08:11,192 --> 00:08:12,942
+After all, she could've
+easily killed us all by now
+
+109
+00:08:13,025 --> 00:08:15,025
+with just a couple
+of one-pound bombs.
+
+110
+00:08:15,108 --> 00:08:17,275
+So she was planning on
+doing something else...
+
+111
+00:08:17,358 --> 00:08:19,483
+They may have been testing us.
+
+112
+00:08:19,567 --> 00:08:22,983
+It feels like we're just a bunch
+of flies caught in a spider web.
+
+113
+00:08:30,900 --> 00:08:32,067
+Damn!
+
+114
+00:08:32,983 --> 00:08:34,150
+And the bodies?
+
+115
+00:08:34,233 --> 00:08:36,025
+Looks like we're gonna
+have to leave them here.
+
+116
+00:08:36,108 --> 00:08:37,150
+Understood.
+
+117
+00:08:37,233 --> 00:08:40,275
+This is Urzu 2 to all units.
+
+118
+00:08:40,358 --> 00:08:43,483
+Team Ruby has suffered
+casualties in an enemy attack.
+
+119
+00:08:43,567 --> 00:08:44,983
+Three fatalities.
+
+120
+00:08:45,067 --> 00:08:47,275
+Urzu 2 and Team Topaz
+are moving the hostages
+
+121
+00:08:47,358 --> 00:08:49,067
+to oh-two-sixteen.
+
+122
+00:09:05,150 --> 00:09:07,483
+Three fatalities?
+
+123
+00:09:07,567 --> 00:09:09,400
+Transmitting to protocol...
+
+124
+00:09:09,483 --> 00:09:11,733
+Performing cryptanalysis...
+
+125
+00:09:23,150 --> 00:09:26,858
+At this rate,
+I'll be number four!
+
+126
+00:09:26,942 --> 00:09:29,900
+I'm engaging three units
+at oh-two-sixteen.
+
+127
+00:09:29,983 --> 00:09:31,358
+I need you to
+direct me out of here
+
+128
+00:09:31,442 --> 00:09:33,400
+before they get ahead of me!
+
+129
+00:09:33,483 --> 00:09:37,275
+Urzu 6, keep moving ahead and
+move to oh-three-sixteen,
+
+130
+00:09:37,358 --> 00:09:39,233
+there shouldn't be
+any enemies there.
+
+131
+00:09:39,317 --> 00:09:41,400
+That's where I came from!
+
+132
+00:09:41,483 --> 00:09:44,025
+Understood, then proceed
+to oh-one-fourteen.
+
+133
+00:09:44,108 --> 00:09:44,900
+Roger.
+
+134
+00:09:44,983 --> 00:09:46,942
+I'm counting on you, Commander!
+
+135
+00:09:47,025 --> 00:09:49,317
+Urzu 2 to headquarters.
+
+136
+00:09:49,400 --> 00:09:52,108
+Current position
+is oh-two-fifteen.
+
+137
+00:09:52,192 --> 00:09:54,983
+I'm about to lead the hostages
+toward oh-three-fourteen.
+
+138
+00:09:55,067 --> 00:09:56,817
+There shouldn't be any
+enemies there, right?
+
+139
+00:09:56,900 --> 00:09:57,942
+Affirmative.
+
+140
+00:09:58,025 --> 00:09:59,025
+But be cautious.
+
+141
+00:09:59,108 --> 00:10:00,108
+There are...
+
+142
+00:10:01,775 --> 00:10:02,650
+Oh, shit!
+
+143
+00:10:02,733 --> 00:10:04,317
+Fall back!
+
+144
+00:10:04,400 --> 00:10:05,650
+Urzu 2 to Headquarters.
+
+145
+00:10:05,733 --> 00:10:06,942
+I can't escort a damn thing
+
+146
+00:10:07,025 --> 00:10:09,108
+with the enemies always
+one step ahead of us!
+
+147
+00:10:09,192 --> 00:10:10,942
+I'll send them with Team Topaz.
+
+148
+00:10:11,025 --> 00:10:12,942
+Requesting coordinates!
+
+149
+00:10:13,025 --> 00:10:14,150
+Urzu 2, did the enemies
+
+150
+00:10:14,233 --> 00:10:16,525
+come from the direction
+of oh-three-fifteen?
+
+151
+00:10:16,608 --> 00:10:17,733
+Affirmative.
+
+152
+00:10:17,817 --> 00:10:18,942
+Understood.
+
+153
+00:10:19,025 --> 00:10:20,608
+Slowly fall back in
+the opposite direction.
+
+154
+00:10:20,692 --> 00:10:22,483
+Urzu 2, Roger.
+
+155
+00:10:22,567 --> 00:10:23,483
+Something's wrong.
+
+156
+00:10:23,567 --> 00:10:25,067
+It doesn't make sense.
+
+157
+00:10:25,150 --> 00:10:25,983
+Ma'am?
+
+158
+00:10:26,067 --> 00:10:27,567
+The enemy anticipates...
+
+159
+00:10:27,650 --> 00:10:29,733
+every single move we're making.
+
+160
+00:10:29,817 --> 00:10:30,567
+But...
+
+161
+00:10:30,650 --> 00:10:32,067
+it should be impossible for
+
+162
+00:10:32,150 --> 00:10:34,733
+the enemy to intercept our
+communications, shouldn't it?
+
+163
+00:10:34,817 --> 00:10:37,275
+Technologically speaking, yes.
+
+164
+00:10:37,358 --> 00:10:38,900
+HQ, do you read me?
+
+165
+00:10:38,983 --> 00:10:40,983
+I gotta pull a Houdini here,
+or they're gonna smoke me!
+
+166
+00:10:41,067 --> 00:10:41,858
+All right...
+
+167
+00:10:41,942 --> 00:10:43,650
+How, then?
+
+168
+00:10:43,733 --> 00:10:44,817
+You heard that, right?
+
+169
+00:10:44,900 --> 00:10:47,275
+Urzu 2 gave up on
+leading the hostages.
+
+170
+00:10:47,358 --> 00:10:49,692
+They say they'll
+slowly fall back.
+
+171
+00:10:49,775 --> 00:10:51,400
+And another thing...
+
+172
+00:10:51,483 --> 00:10:55,483
+Urzu 7 reported he's
+moving to oh-three-twelve.
+
+173
+00:10:56,983 --> 00:10:58,650
+Urzu 7, huh?
+
+174
+00:10:58,733 --> 00:11:01,483
+That machine's name
+is "Arbalest," right?
+
+175
+00:11:03,442 --> 00:11:06,442
+Quit your fighting -
+and just come to daddy!
+
+176
+00:11:19,025 --> 00:11:20,775
+What do I do with them now?
+
+177
+00:11:20,858 --> 00:11:23,983
+I messed around with them
+a little, just like you asked.
+
+178
+00:11:24,067 --> 00:11:26,858
+I can go ahead and kill
+all of them, if you want.
+
+179
+00:11:26,942 --> 00:11:28,108
+Leave 'em alone.
+
+180
+00:11:28,192 --> 00:11:30,817
+More importantly, how
+were those Mithril guys?
+
+181
+00:11:30,900 --> 00:11:31,775
+I guess...
+
+182
+00:11:31,858 --> 00:11:33,150
+their skills are fairly good,
+
+183
+00:11:33,233 --> 00:11:36,067
+but they're way
+too soft to survive.
+
+184
+00:11:36,150 --> 00:11:37,775
+How many did you kill?
+
+185
+00:11:37,858 --> 00:11:39,358
+Only three men.
+
+186
+00:11:39,442 --> 00:11:42,608
+One diehard woman soldier got
+away before I could finish her.
+
+187
+00:11:42,692 --> 00:11:44,108
+Oh?
+
+188
+00:11:44,192 --> 00:11:45,817
+Can I just go home now?
+
+189
+00:11:45,900 --> 00:11:47,608
+I've got blood all over me...
+
+190
+00:11:48,733 --> 00:11:50,942
+...and I could
+really use a shower.
+
+191
+00:12:12,192 --> 00:12:13,150
+Urzu 7 here.
+
+192
+00:12:13,233 --> 00:12:14,900
+Enemy units just passed me.
+
+193
+00:12:14,983 --> 00:12:16,525
+Current position
+is oh-three-twelve,
+
+194
+00:12:16,608 --> 00:12:18,858
+and I'm en route
+to assist Urzu 2.
+
+195
+00:12:27,108 --> 00:12:29,442
+Cancel that--I've been
+spotted by enemy units!
+
+196
+00:12:29,525 --> 00:12:31,275
+I don't get it--
+how do they know?
+
+197
+00:12:31,358 --> 00:12:32,483
+This is Urzu 6.
+
+198
+00:12:32,567 --> 00:12:33,942
+Another ambush!
+
+199
+00:12:34,025 --> 00:12:36,358
+There's no way
+I can take much more...
+
+200
+00:12:36,442 --> 00:12:37,608
+Urzu 9 to HQ.
+
+201
+00:12:37,692 --> 00:12:40,108
+The enemy is blocking
+our escape route, too!
+
+202
+00:12:41,358 --> 00:12:43,317
+We're all gonna die
+if this keeps up!
+
+203
+00:12:44,358 --> 00:12:45,650
+What the hell's going on?!
+
+204
+00:12:45,733 --> 00:12:46,942
+Don't waste your time!
+
+205
+00:12:47,025 --> 00:12:48,650
+Running is useless!
+
+206
+00:12:48,733 --> 00:12:51,525
+We put in a lot of overtime
+getting ready for this day,
+
+207
+00:12:51,608 --> 00:12:52,817
+Mithril!
+
+208
+00:12:54,525 --> 00:12:55,817
+There's no doubt.
+
+209
+00:12:55,900 --> 00:12:57,983
+We have an information leak.
+
+210
+00:12:58,067 --> 00:12:59,233
+I agree.
+
+211
+00:12:59,317 --> 00:13:00,275
+Well then...
+
+212
+00:13:00,358 --> 00:13:01,858
+what are we
+going to do about it?
+
+213
+00:13:01,942 --> 00:13:04,358
+If we can't direct them, they
+won't be able to fight, move,
+
+214
+00:13:04,442 --> 00:13:05,942
+OR communicate effectively.
+
+215
+00:13:06,025 --> 00:13:07,400
+I'm aware of that.
+
+216
+00:13:09,025 --> 00:13:12,608
+In this case, we must abandon
+"command and control" protocol.
+
+217
+00:13:12,692 --> 00:13:14,817
+Abandon it?
+
+218
+00:13:14,900 --> 00:13:16,608
+You can't possibly mean
+
+219
+00:13:16,692 --> 00:13:18,942
+we're simply going
+to leave it all up to them?
+
+220
+00:13:19,025 --> 00:13:21,108
+No, we're turning
+the tables on them.
+
+221
+00:13:21,192 --> 00:13:23,650
+Commander, do you remember
+the conversation we had
+
+222
+00:13:23,733 --> 00:13:25,108
+during the briefing?
+
+223
+00:13:25,192 --> 00:13:25,983
+Yes, ma'am.
+
+224
+00:13:26,067 --> 00:13:27,900
+I hope everyone remembers it...
+
+225
+00:13:29,025 --> 00:13:30,483
+This'll be a gamble.
+
+226
+00:13:33,192 --> 00:13:34,192
+Dammit!
+
+227
+00:13:34,275 --> 00:13:35,817
+Where the hell
+are we supposed to go?
+
+228
+00:13:35,900 --> 00:13:38,983
+Headquarters ordered us
+to go right, but...
+
+229
+00:13:39,067 --> 00:13:40,650
+Headquarters to all units.
+
+230
+00:13:40,733 --> 00:13:43,067
+This is a top priority order.
+
+231
+00:13:43,150 --> 00:13:46,358
+Does everyone remember Tony's
+joke during the briefing?
+
+232
+00:13:47,942 --> 00:13:48,942
+Tony's joke?
+
+233
+00:13:49,025 --> 00:13:50,525
+Exactly, when I told you
+that we should
+
+234
+00:13:50,608 --> 00:13:53,025
+"save the lecture for later."
+We'll be using that method.
+
+235
+00:13:53,108 --> 00:13:54,317
+Lecture?
+
+236
+00:13:54,400 --> 00:13:55,733
+You mean...
+
+237
+00:13:55,817 --> 00:13:58,275
+Yeah it's just like
+the Cretans' paradox.
+
+238
+00:13:58,358 --> 00:13:59,317
+What is that?
+
+239
+00:13:59,400 --> 00:14:00,983
+It's the paradox
+when a Cretan says,
+
+240
+00:14:01,067 --> 00:14:02,692
+"All Cretans are liars."
+
+241
+00:14:02,775 --> 00:14:04,275
+That's what he's saying...
+
+242
+00:14:04,358 --> 00:14:08,025
+Okay, let's just use our
+heads and stay focused.
+
+243
+00:14:08,108 --> 00:14:09,775
+What does that mean?
+
+244
+00:14:13,400 --> 00:14:16,025
+Don't worry--doesn't matter.
+
+245
+00:14:16,108 --> 00:14:17,692
+I'm still tuned
+into their chatter,
+
+246
+00:14:17,775 --> 00:14:20,400
+so then I guess they're
+still shit outta luck.
+
+247
+00:14:22,858 --> 00:14:24,650
+Now then, tell Urzu 9...
+
+248
+00:14:24,733 --> 00:14:27,733
+to move carefully to the
+left at that T intersection.
+
+249
+00:14:27,817 --> 00:14:28,400
+Move right.
+
+250
+00:14:28,483 --> 00:14:29,108
+And hurry.
+
+251
+00:14:29,192 --> 00:14:29,733
+Got it?
+
+252
+00:14:29,817 --> 00:14:31,192
+Urzu 9, copy that.
+
+253
+00:14:32,233 --> 00:14:32,650
+We're moving.
+
+254
+00:14:32,733 --> 00:14:33,692
+Let's go.
+
+255
+00:14:34,983 --> 00:14:35,608
+H-Hey!
+
+256
+00:14:35,692 --> 00:14:36,400
+That's the wrong...
+
+257
+00:14:36,483 --> 00:14:37,317
+Don't worry.
+
+258
+00:14:37,400 --> 00:14:38,483
+This is it.
+
+259
+00:14:38,567 --> 00:14:40,483
+Have Urzu 2 move
+to oh-one-twelve,
+
+260
+00:14:40,567 --> 00:14:42,108
+to draw out the enemy.
+
+261
+00:14:42,192 --> 00:14:44,692
+Urzu 2, go to
+oh-one-one-oh.
+
+262
+00:14:44,775 --> 00:14:46,358
+Engage all enemies!
+
+263
+00:14:46,442 --> 00:14:48,400
+Roger, I'm on the way, sir!
+
+264
+00:14:52,358 --> 00:14:53,942
+Have Urzu 6 hold his position,
+
+265
+00:14:54,025 --> 00:14:56,817
+and fend off as many
+enemies as possible.
+
+266
+00:14:56,900 --> 00:14:59,317
+Avoid all further
+engagements, Urzu 6...
+
+267
+00:14:59,400 --> 00:15:00,692
+Disengage.
+
+268
+00:15:03,358 --> 00:15:04,900
+Urzu 6, Roger!
+
+269
+00:15:08,692 --> 00:15:11,275
+Urzu 9 needs to get
+further down that tunnel.
+
+270
+00:15:11,358 --> 00:15:13,400
+Urzu 9, stop your advance.
+
+271
+00:15:13,483 --> 00:15:14,358
+Hurry!
+
+272
+00:15:14,442 --> 00:15:15,775
+Keep those feet moving!
+
+273
+00:15:15,858 --> 00:15:16,775
+Roger!
+
+274
+00:15:16,858 --> 00:15:19,025
+Urzu 2, moving to
+oh-three-twelve.
+
+275
+00:15:19,108 --> 00:15:22,900
+Urzu 6, stand fast and
+avoid contact with the enemy.
+
+276
+00:15:22,983 --> 00:15:24,108
+Got it.
+
+277
+00:15:24,192 --> 00:15:26,358
+Create a diversion,
+and lure the enemy...
+
+278
+00:15:27,733 --> 00:15:28,900
+Aw, crap...!
+
+279
+00:15:28,983 --> 00:15:31,942
+Urzu 9, advance forward
+toward oh-three.
+
+280
+00:15:32,025 --> 00:15:32,858
+Roger.
+
+281
+00:15:34,192 --> 00:15:37,317
+Urzu 7, double back
+and avoid Route 2.
+
+282
+00:15:37,400 --> 00:15:39,858
+Then proceed to
+Point oh-four-fifteen.
+
+283
+00:15:39,942 --> 00:15:41,858
+Urzu 7, Roger.
+
+284
+00:15:41,942 --> 00:15:44,400
+Madam Captain,
+the enemy is targeting...
+
+285
+00:15:44,483 --> 00:15:45,192
+Yes.
+
+286
+00:15:45,275 --> 00:15:46,692
+The Arbalest.
+
+287
+00:15:52,733 --> 00:15:53,567
+Yui Fang?
+
+288
+00:15:53,650 --> 00:15:54,442
+What?
+
+289
+00:15:54,525 --> 00:15:55,983
+I am a little busy right now...
+
+290
+00:15:56,067 --> 00:15:58,108
+That small fry
+still giving you trouble?
+
+291
+00:15:58,192 --> 00:16:00,275
+It's time for us
+to finish our shopping!
+
+292
+00:16:00,358 --> 00:16:02,608
+Waste him and bring back
+what you came for!
+
+293
+00:16:15,275 --> 00:16:16,358
+This is 103.
+
+294
+00:16:16,442 --> 00:16:18,317
+I'm standing by
+at the given point.
+
+295
+00:16:18,400 --> 00:16:21,192
+And I still haven't made
+contact with the enemy yet!
+
+296
+00:16:21,275 --> 00:16:22,275
+Same story here.
+
+297
+00:16:22,358 --> 00:16:22,983
+No one's coming.
+
+298
+00:16:23,067 --> 00:16:24,233
+What's going on?
+
+299
+00:16:24,317 --> 00:16:26,817
+Stop your whining, goddammit!
+
+300
+00:16:26,900 --> 00:16:28,358
+Just do as you're ordered.
+
+301
+00:16:28,442 --> 00:16:31,858
+We're reading every one of their
+moves, so just stay calm...
+
+302
+00:16:31,942 --> 00:16:34,942
+and wait patiently for
+your prey to show up!
+
+303
+00:16:35,025 --> 00:16:37,900
+Urzu 6, escape to
+the northeast from there.
+
+304
+00:16:37,983 --> 00:16:40,317
+You have permission to
+engage the enemy at will.
+
+305
+00:16:40,400 --> 00:16:42,650
+Urzu 6, roger.
+
+306
+00:16:42,733 --> 00:16:44,650
+Urzu 2, hold your position.
+
+307
+00:16:44,733 --> 00:16:46,733
+You are forbidden to move
+toward oh-four-oh-five!
+
+308
+00:16:46,817 --> 00:16:48,108
+Okay, what's going on...
+
+309
+00:16:48,192 --> 00:16:49,567
+Urzu 2, Roger.
+
+310
+00:16:49,650 --> 00:16:50,942
+Urzu 9, have you...
+
+311
+00:16:51,025 --> 00:16:53,233
+It just doesn't make any sense.
+
+312
+00:16:53,317 --> 00:16:54,150
+Have they...
+
+313
+00:16:54,233 --> 00:16:55,692
+figured out what we're doing?
+
+314
+00:16:55,775 --> 00:16:59,525
+Giving contrary orders
+'cause they're on to us?
+
+315
+00:16:59,608 --> 00:17:00,692
+Impossible.
+
+316
+00:17:00,775 --> 00:17:02,942
+There's no way they
+could pull that off.
+
+317
+00:17:20,483 --> 00:17:22,025
+Something's wrong.
+
+318
+00:17:33,192 --> 00:17:37,317
+Yes!
+
+319
+00:17:37,400 --> 00:17:37,817
+Yes!
+
+320
+00:17:37,900 --> 00:17:38,775
+YES!
+
+321
+00:17:38,858 --> 00:17:40,108
+I'm getting closer!
+
+322
+00:17:40,192 --> 00:17:42,233
+The only thing in front
+of me is one Arbalest
+
+323
+00:17:42,317 --> 00:17:43,983
+on the verge of overheating!
+
+324
+00:17:44,067 --> 00:17:46,900
+I'm gonna run you down
+and crush your little ass!
+
+325
+00:17:46,983 --> 00:17:50,275
+You're trapped like a rat, boy!
+
+326
+00:17:52,650 --> 00:17:53,358
+It's time...
+
+327
+00:17:53,442 --> 00:17:54,942
+to finish this.
+
+328
+00:18:03,400 --> 00:18:03,983
+Hey!
+
+329
+00:18:04,067 --> 00:18:05,525
+Where's my Arbalest?
+
+330
+00:18:09,192 --> 00:18:09,650
+Oh...
+
+331
+00:18:09,733 --> 00:18:10,608
+shit
+
+332
+00:18:10,692 --> 00:18:12,317
+Our prey is
+caught in the net!
+
+333
+00:18:12,400 --> 00:18:13,483
+Impressive, Mao!
+
+334
+00:18:13,567 --> 00:18:14,733
+Just like magic!
+
+335
+00:18:15,692 --> 00:18:17,108
+Headquarters to all units.
+
+336
+00:18:17,192 --> 00:18:18,108
+Listen up.
+
+337
+00:18:18,192 --> 00:18:20,442
+Our Cretan history
+lesson is over.
+
+338
+00:18:20,525 --> 00:18:22,942
+Fire at will and
+destroy the enemy!
+
+339
+00:18:24,192 --> 00:18:25,233
+Roger that!
+
+340
+00:18:26,733 --> 00:18:26,983
+No!
+
+341
+00:18:27,067 --> 00:18:27,317
+No!
+
+342
+00:18:27,400 --> 00:18:28,150
+NO!
+
+343
+00:18:28,233 --> 00:18:29,108
+What the...
+
+344
+00:18:29,192 --> 00:18:30,567
+hell is THIS?
+
+345
+00:18:30,650 --> 00:18:32,567
+I was the rat?
+
+346
+00:18:33,442 --> 00:18:35,567
+Shit, our bullets
+aren't even scratching it!
+
+347
+00:18:35,650 --> 00:18:37,233
+Is that the Lambda Driver?
+
+348
+00:18:37,317 --> 00:18:38,317
+Looks like it.
+
+349
+00:18:38,400 --> 00:18:40,192
+Sousuke, can you take him?
+
+350
+00:18:40,983 --> 00:18:42,067
+Roger!
+
+351
+00:18:59,233 --> 00:18:59,733
+Weak!
+
+352
+00:18:59,817 --> 00:19:00,483
+Weak...!
+
+353
+00:19:00,567 --> 00:19:01,192
+You're...
+
+354
+00:19:01,275 --> 00:19:04,067
+so weak, aren't you?!
+
+355
+00:19:05,358 --> 00:19:07,067
+You still can't make it work?!
+
+356
+00:19:07,150 --> 00:19:08,233
+I don't understand this!
+
+357
+00:19:08,317 --> 00:19:10,233
+It won't operate
+the way I want it to!
+
+358
+00:19:10,317 --> 00:19:12,025
+Thought you outsmarted me, huh?
+
+359
+00:19:12,108 --> 00:19:13,317
+But NO!!!
+
+360
+00:19:13,400 --> 00:19:15,275
+Man that's disappointing.
+
+361
+00:19:15,358 --> 00:19:16,442
+If that's all it can do,
+
+362
+00:19:16,525 --> 00:19:18,858
+then why should I
+even bother taking it?
+
+363
+00:19:18,942 --> 00:19:21,733
+I'll just kill all of you
+off right here!
+
+364
+00:19:26,817 --> 00:19:27,442
+Damn!
+
+365
+00:19:27,525 --> 00:19:29,233
+Guess I spoke too soon.
+
+366
+00:19:29,317 --> 00:19:30,525
+Take that!
+
+367
+00:19:33,942 --> 00:19:35,358
+WHAT?
+
+368
+00:19:40,150 --> 00:19:40,942
+DAMMIT!
+
+369
+00:19:41,025 --> 00:19:42,900
+You ARE NOT gonna make me cry!
+
+370
+00:19:42,983 --> 00:19:45,192
+I don't HAVE feelings,
+so you CAN'T HURT 'EM!
+
+371
+00:19:45,275 --> 00:19:47,317
+And you REMEMBER that!
+
+372
+00:19:48,150 --> 00:19:50,692
+All units hold your fire
+and bug out of here!
+
+373
+00:19:51,567 --> 00:19:53,483
+I repeat, disengage!
+
+374
+00:19:54,358 --> 00:19:56,275
+Explosion at
+oh-four-oh-five.
+
+375
+00:19:56,358 --> 00:19:58,275
+Large-scale flooding
+is occurring.
+
+376
+00:19:58,358 --> 00:19:59,942
+Most communications are down.
+
+377
+00:20:00,025 --> 00:20:02,400
+We can't contact our teams!
+
+378
+00:20:02,483 --> 00:20:03,275
+Captain?
+
+379
+00:20:03,358 --> 00:20:04,358
+It's all right.
+
+380
+00:20:04,442 --> 00:20:07,108
+M9s are designed
+to be amphibious.
+
+381
+00:20:07,192 --> 00:20:09,317
+Flooding was a possibility.
+
+382
+00:20:09,400 --> 00:20:10,317
+This is Urzu 8.
+
+383
+00:20:10,400 --> 00:20:11,942
+Headquarters, do you read me?
+
+384
+00:20:12,025 --> 00:20:15,192
+We're in Bruno's room
+right now, but we were too late.
+
+385
+00:20:15,275 --> 00:20:16,275
+It's empty, ma'am.
+
+386
+00:20:16,358 --> 00:20:18,233
+I'd say it was probably him.
+
+387
+00:20:26,608 --> 00:20:28,525
+Looks like we
+made it out somehow.
+
+388
+00:20:28,608 --> 00:20:30,400
+You still alive, Kurz?
+
+389
+00:20:30,483 --> 00:20:33,317
+Yeah, but I'm not enjoying it.
+
+390
+00:20:36,483 --> 00:20:37,650
+And you, Sousuke?
+
+391
+00:20:37,733 --> 00:20:38,733
+Not a problem.
+
+392
+00:20:39,775 --> 00:20:41,775
+So there's a traitor in Mithril?
+
+393
+00:20:43,400 --> 00:20:44,858
+Yeah.
+
+394
+00:20:44,942 --> 00:20:47,275
+Remember the guy who brought
+us the repeaters this morning?
+
+395
+00:20:47,358 --> 00:20:49,817
+That guy from
+Intelligence, Bruno.
+
+396
+00:20:49,900 --> 00:20:51,442
+Seems like it was him.
+
+397
+00:20:51,525 --> 00:20:52,775
+Dammit!
+
+398
+00:20:52,858 --> 00:20:55,150
+We got into some pretty
+hot water because of him.
+
+399
+00:20:55,233 --> 00:20:56,483
+We need to pay
+
+400
+00:20:56,567 --> 00:20:59,108
+that bastard back good for
+everything he did to us.
+
+401
+00:20:59,192 --> 00:21:00,442
+Oh, yeah...
+
+402
+00:21:01,608 --> 00:21:03,192
+Urzu 2 to headquarters.
+
+403
+00:21:03,275 --> 00:21:05,067
+Everyone in the AS team is safe.
+
+404
+00:21:05,150 --> 00:21:06,983
+We're en route to
+the rendezvous point.
+
+405
+00:21:07,067 --> 00:21:08,067
+Thank goodness.
+
+406
+00:21:08,150 --> 00:21:09,900
+I'll send a helicopter down.
+
+407
+00:21:09,983 --> 00:21:12,442
+You saved our lives, Tessa.
+
+408
+00:21:12,525 --> 00:21:14,567
+I'm grateful, Captain.
+
+409
+00:21:14,650 --> 00:21:15,608
+Thank you.
+
+410
+00:21:15,692 --> 00:21:17,442
+Stay alert until
+you're out of there.
+
+411
+00:21:29,192 --> 00:21:30,900
+Useless piece of junk.
+
+412
+00:21:39,108 --> 00:21:42,983
+Our job to capture the
+Arbalest resulted in failure.
+
+413
+00:21:43,067 --> 00:21:46,275
+Yeah, all we accomplished
+was ruining a tunnel...
+
+414
+00:21:46,358 --> 00:21:48,108
+...and the ceasefire agreement.
+
+415
+00:21:48,192 --> 00:21:50,983
+You know I hate that man
+more every single day.
+
+416
+00:21:51,067 --> 00:21:54,025
+I don't think I'll ever
+learn to trust that bastard.
+
+417
+00:21:54,108 --> 00:21:55,900
+Everything will be all right.
+
+418
+00:21:55,983 --> 00:21:58,608
+Let's just do as
+Sensei told us to.
+
+419
+00:21:58,692 --> 00:22:01,525
+We just have to be
+patient until then.
+
+420
+00:22:01,608 --> 00:22:03,067
+Big Sister...
+
+421
+00:22:03,150 --> 00:22:05,400
+Uh--huh?
+
+422
+00:22:05,483 --> 00:22:07,442
+It's so cold up here.
+
+423
+00:22:07,525 --> 00:22:08,608
+Yeah, you're right.
+
+424
+00:22:08,692 --> 00:22:10,817
+Let's just go home.
+
+425
+00:23:47,775 --> 00:23:50,608
+The traitor has hidden himself
+within a powerful mafia.
+
+426
+00:23:50,692 --> 00:23:53,775
+The wind off of the
+Mediterranean, an unspoken rule,
+
+427
+00:23:53,858 --> 00:23:57,150
+an unexpected riot, and
+a jet-black assailant.
+
+428
+00:23:57,233 --> 00:23:59,692
+Next time:
+"Beautiful Sicily."
+
+429
+00:23:59,775 --> 00:24:01,983
+Even if you try running
+to the ends of the Earth,
+
+430
+00:24:02,067 --> 00:24:04,025
+I WILL chase you down.
+
