@@ -1,0 +1,1675 @@
+﻿1
+00:00:18,268 --> 00:00:19,561
+What's that?
+
+2
+00:00:19,603 --> 00:00:21,063
+[KAIKOKU]
+Stay back!
+
+3
+00:00:25,526 --> 00:00:28,654
+[KAIKOKU]
+Is that... a mermaid?
+
+4
+00:00:34,368 --> 00:00:35,702
+[KAIKOKU]
+Nope.
+
+5
+00:00:35,744 --> 00:00:37,454
+[SAKURA]
+It's a goldfish.
+
+6
+00:02:14,301 --> 00:02:17,554
+[SAKURA] It's huge!
+Wonder if it's a mutant.
+
+7
+00:02:17,596 --> 00:02:21,183
+Huh? Check out that mark
+next to the dorsal fin!
+
+8
+00:02:21,224 --> 00:02:23,935
+It almost looks like
+a person's face!
+
+9
+00:02:23,977 --> 00:02:26,396
+All right, let's head back.
+
+10
+00:02:26,438 --> 00:02:28,523
+[SAKURA]
+Hey, you should watch your step.
+
+11
+00:02:28,565 --> 00:02:30,901
+That part gets pretty deep!
+
+12
+00:02:30,942 --> 00:02:32,653
+Let me lead.
+
+13
+00:02:34,363 --> 00:02:35,822
+You know the way?
+
+14
+00:02:35,864 --> 00:02:38,659
+I come here all
+the time in secret.
+
+15
+00:02:40,369 --> 00:02:42,996
+[KAIKOKU] Now I know why her
+brother worries about her.
+
+16
+00:02:47,959 --> 00:02:48,752
+[KAIKOKU grunts]
+
+17
+00:02:48,794 --> 00:02:50,295
+[crash, splashing]
+
+18
+00:02:50,337 --> 00:02:51,380
+Uh...?
+
+19
+00:02:53,674 --> 00:02:57,344
+[SAKURA]
+Mister? Where'd you go?
+
+20
+00:03:04,893 --> 00:03:08,146
+Welcome back, Hiro.
+Did you find Sakura?
+
+21
+00:03:08,188 --> 00:03:10,107
+[CHIHIRO whimpers]
+
+22
+00:03:10,148 --> 00:03:12,109
+She's really gone.
+
+23
+00:03:12,150 --> 00:03:16,363
+I checked her room, the shower,
+and even the mushroom spot!
+
+24
+00:03:16,405 --> 00:03:18,156
+She's not anywhere!
+
+25
+00:03:18,198 --> 00:03:21,702
+Well, I'm sure she's out
+on one of her excursions.
+
+26
+00:03:21,743 --> 00:03:24,121
+Huh? Where's the guy?
+
+27
+00:03:24,162 --> 00:03:27,666
+[NANAMI] If you mean Onigasaki,
+I sent him to the waterway.
+
+28
+00:03:27,708 --> 00:03:29,084
+[CHIHIRO]
+You're so stupid!
+
+29
+00:03:29,126 --> 00:03:30,711
+Hey, don't knock me over!
+
+30
+00:03:30,752 --> 00:03:34,131
+What if he ends up being
+alone with poor Sakura?
+
+31
+00:03:34,172 --> 00:03:35,173
+[NANAMI]
+It'd be for the best.
+
+32
+00:03:35,215 --> 00:03:37,592
+That way they could
+walk home together.
+
+33
+00:03:37,634 --> 00:03:39,219
+[CHIHIRO]
+Walk home together?!
+
+34
+00:03:39,261 --> 00:03:42,764
+Don't say stuff like that,
+Nanami! I gotta go find her!
+
+35
+00:03:42,806 --> 00:03:44,558
+[NANAMI]
+Not so fast!
+
+36
+00:03:48,979 --> 00:03:51,022
+I'm coming with you.
+
+37
+00:04:04,703 --> 00:04:07,998
+[ANYA] So, what's this
+about a lasagna rhythm?
+
+38
+00:04:08,039 --> 00:04:10,000
+It's the "Luhn algorithm."
+
+39
+00:04:10,041 --> 00:04:11,543
+Huh?
+
+40
+00:04:11,585 --> 00:04:13,670
+[YUZU] A common example
+is the sequence of numbers
+
+41
+00:04:13,712 --> 00:04:17,299
+on a credit card. At first
+glance, they may seem random,
+
+42
+00:04:17,340 --> 00:04:20,385
+but they actually adhere
+to a strict set of rules.
+
+43
+00:04:20,427 --> 00:04:22,846
+In fact, I'll use a
+five‐by‐ten puzzle
+
+44
+00:04:22,888 --> 00:04:24,931
+to help you understand it.
+
+45
+00:04:24,973 --> 00:04:26,975
+The only numbers that
+conform to the algorithm
+
+46
+00:04:27,017 --> 00:04:28,894
+are found in the
+very first row‐‐
+
+47
+00:04:28,935 --> 00:04:32,230
+10, 20, 30, and so forth.
+
+48
+00:04:32,272 --> 00:04:34,357
+After the first row,
+the numbers are random,
+
+49
+00:04:34,399 --> 00:04:35,776
+but they're never
+greater than the number
+
+50
+00:04:35,817 --> 00:04:37,652
+in the next column over.
+
+51
+00:04:37,694 --> 00:04:40,739
+In other words, whether a piece
+conforms to the algorithm
+
+52
+00:04:40,781 --> 00:04:44,284
+or not indicates whether
+it's horizontal or vertical.
+
+53
+00:04:44,326 --> 00:04:46,536
+The important takeaway
+here is that five‐by‐ten
+
+54
+00:04:46,578 --> 00:04:49,831
+is the number of row
+and column pieces.
+
+55
+00:04:49,873 --> 00:04:52,876
+Therefore, if we split up the
+puzzle into vertical sections,
+
+56
+00:04:52,918 --> 00:04:55,170
+we can suss out the piece
+that doesn't belong.
+
+57
+00:04:55,212 --> 00:04:58,423
+Only one of the columns
+will have an extra piece.
+
+58
+00:04:58,465 --> 00:05:00,634
+And once we assemble
+the ones in that column,
+
+59
+00:05:00,675 --> 00:05:03,011
+then, whatever piece remains...
+
+60
+00:05:03,053 --> 00:05:05,680
+Should have the right
+passcode on it!
+
+61
+00:05:16,525 --> 00:05:19,236
+[KAIKOKU]
+Can't breathe!
+
+62
+00:05:20,862 --> 00:05:22,113
+[SAKURA grunts]
+
+63
+00:05:30,872 --> 00:05:33,208
+[BOTH coughing]
+
+64
+00:05:33,250 --> 00:05:34,918
+'Kay, let's go this way!
+
+65
+00:05:34,960 --> 00:05:36,086
+[gasps]
+
+66
+00:05:41,007 --> 00:05:42,092
+[roars]
+
+67
+00:05:42,133 --> 00:05:43,468
+Get down!
+
+68
+00:06:00,318 --> 00:06:02,028
+[NANAMI]
+How nostalgic.
+
+69
+00:06:02,070 --> 00:06:04,322
+You're still alive, huh?
+
+70
+00:06:04,364 --> 00:06:05,991
+[SAKURA]
+You know this fish?
+
+71
+00:06:06,032 --> 00:06:08,869
+[NANAMI] Yes. One of
+the tests four years ago
+
+72
+00:06:08,910 --> 00:06:11,997
+was something called
+"goldfish scooping."
+
+73
+00:06:12,038 --> 00:06:15,792
+And this resilient fellow
+here was the target.
+
+74
+00:06:15,834 --> 00:06:16,668
+But I have to say,
+
+75
+00:06:16,710 --> 00:06:19,671
+he was much more adorable
+back in the day.
+
+76
+00:06:19,713 --> 00:06:20,589
+[firecrackers popping]
+
+77
+00:06:20,630 --> 00:06:22,424
+[SAKURA gasping]
+
+78
+00:06:25,552 --> 00:06:26,887
+[NANAMI]
+Now then, let's return.
+
+79
+00:06:26,928 --> 00:06:29,055
+Warn us before you do that!
+
+80
+00:06:36,897 --> 00:06:39,232
+Uh‐oh, it's still following us.
+
+81
+00:06:39,274 --> 00:06:41,359
+Ah yes, it's probably
+thinking about
+
+82
+00:06:41,401 --> 00:06:43,528
+what a delicious little
+snack you'd make.
+
+83
+00:06:43,570 --> 00:06:44,988
+[SAKURA]
+Uh...
+
+84
+00:06:45,030 --> 00:06:47,699
+Please don't say
+stuff like that!
+
+85
+00:06:53,038 --> 00:06:55,999
+Are you sure you'll
+be okay by yourself?
+
+86
+00:06:56,041 --> 00:06:59,794
+Positive. We're done splitting
+the puzzle into sections,
+
+87
+00:06:59,836 --> 00:07:02,130
+all that's left is to solve it.
+
+88
+00:07:02,172 --> 00:07:03,590
+It's nothing personal,
+
+89
+00:07:03,632 --> 00:07:06,343
+I just work better solo.
+
+90
+00:07:06,384 --> 00:07:08,887
+Then again, if you're
+that worried,
+
+91
+00:07:08,929 --> 00:07:13,099
+you can leave Karirin
+behind as my body pillow.
+
+92
+00:07:13,141 --> 00:07:14,601
+I don't know about that‐‐
+
+93
+00:07:14,643 --> 00:07:15,477
+[grunts]
+
+94
+00:07:15,518 --> 00:07:18,146
+[AKATSUKI]
+I... mean...
+
+95
+00:07:18,188 --> 00:07:21,232
+...her... back... hand...
+
+96
+00:07:21,274 --> 00:07:22,317
+...can be real tough!
+
+97
+00:07:22,359 --> 00:07:24,152
+[YUZU]
+I get the point.
+
+98
+00:07:26,279 --> 00:07:28,698
+In the unlikely case I fail,
+
+99
+00:07:28,740 --> 00:07:32,744
+Anboy's idea can be
+our last‐ditch effort.
+
+100
+00:07:32,786 --> 00:07:36,081
+Akki and MakiMaki
+haven't slept yet, right?
+
+101
+00:07:36,122 --> 00:07:38,041
+You should all go
+rest till I'm done.
+
+102
+00:07:38,083 --> 00:07:40,418
+But you haven't
+slept yet, either!
+
+103
+00:07:40,460 --> 00:07:41,544
+Huh?
+
+104
+00:07:43,254 --> 00:07:47,759
+We'll do that.
+Give it your best.
+
+105
+00:07:47,801 --> 00:07:50,136
+[laughs]
+
+106
+00:07:50,178 --> 00:07:53,264
+[ZAKURO]
+Roromori...
+
+107
+00:07:53,306 --> 00:07:56,226
+Never mind. Good luck.
+
+108
+00:08:00,897 --> 00:08:02,941
+[NANAMI] It looks awfully
+humanlike when it's swimming,
+
+109
+00:08:02,983 --> 00:08:06,152
+doesn't it? That's why
+Niki called it a mermaid.
+
+110
+00:08:06,194 --> 00:08:07,153
+[KAIKOKU]
+Niki?
+
+111
+00:08:07,195 --> 00:08:08,780
+Oh, right, you don't know.
+
+112
+00:08:08,822 --> 00:08:10,448
+He was my former partner.
+
+113
+00:08:10,490 --> 00:08:13,451
+We were the ones who
+dug that tunnel.
+
+114
+00:08:13,493 --> 00:08:15,328
+Uh‐huh.
+
+115
+00:08:16,997 --> 00:08:19,582
+And you should be
+ashamed, Sakura.
+
+116
+00:08:19,624 --> 00:08:20,417
+How rude!
+
+117
+00:08:20,458 --> 00:08:22,669
+Dragging Onigasaki
+into your antics.
+
+118
+00:08:22,711 --> 00:08:24,587
+[gasps]
+
+119
+00:08:24,629 --> 00:08:27,841
+It's all right to have some
+fun, but don't be so wild!
+
+120
+00:08:27,882 --> 00:08:33,013
+[SAKURA] Uh, sorry.
+I'll remember that. But...
+
+121
+00:08:34,764 --> 00:08:36,725
+[KAIKOKU]
+Well, go on.
+
+122
+00:08:36,766 --> 00:08:39,102
+You have something
+to give him, right?
+
+123
+00:08:39,144 --> 00:08:42,856
+Um. Yeah, but we don't have
+to do this right now.
+
+124
+00:08:42,897 --> 00:08:43,898
+[SAKURA gasps]
+
+125
+00:08:43,940 --> 00:08:47,902
+[SAKURA]
+Uh... For you.
+
+126
+00:08:47,944 --> 00:08:52,365
+I knew that you really
+wanted those parts.
+
+127
+00:08:52,407 --> 00:08:56,953
+Oh. Yes. I sure did.
+
+128
+00:08:56,995 --> 00:08:57,871
+[KAIKOKU]
+Mm‐hm!
+
+129
+00:08:57,912 --> 00:09:00,081
+[NANAMI]
+Thanks a lot, Sakura.
+
+130
+00:09:00,123 --> 00:09:02,500
+But stop doing things like that.
+
+131
+00:09:02,542 --> 00:09:06,087
+I would be crushed if something
+were to happen to you.
+
+132
+00:09:06,129 --> 00:09:10,341
+I get it! Sure! I'll watch out!
+
+133
+00:09:10,383 --> 00:09:11,676
+Be strong.
+
+134
+00:09:11,718 --> 00:09:13,261
+What's with you?
+
+135
+00:09:19,517 --> 00:09:21,644
+[YUZU]
+Oh...
+
+136
+00:09:21,686 --> 00:09:24,647
+I'm so tired, Karirin.
+
+137
+00:09:24,689 --> 00:09:27,901
+Uh. You'll be okay.
+
+138
+00:09:27,942 --> 00:09:31,196
+[YUZU] Ugh, all I wanna
+do is dive into bed.
+
+139
+00:09:31,237 --> 00:09:33,531
+Or better yet, dive into Akki.
+
+140
+00:09:33,573 --> 00:09:35,283
+Yeah, I'm sure you do.
+
+141
+00:09:35,325 --> 00:09:38,495
+I mean, that doesn't
+really make sense, but hey.
+
+142
+00:09:39,829 --> 00:09:44,459
+[KARIN] You're almost done.
+So, hang in there.
+
+143
+00:09:44,501 --> 00:09:46,044
+Right.
+
+144
+00:09:48,713 --> 00:09:50,548
+Hey, what is this? Roleplay?
+
+145
+00:09:50,590 --> 00:09:52,634
+[KARIN]
+Do you want me to stay or not?
+
+146
+00:09:52,675 --> 00:09:54,094
+A‐choo!
+
+147
+00:09:54,302 --> 00:09:57,013
+My, what an adorable
+little sneeze you have!
+
+148
+00:09:57,055 --> 00:09:58,890
+I'm freezing.
+
+149
+00:09:58,932 --> 00:10:00,266
+Sorry about that.
+
+150
+00:10:00,308 --> 00:10:03,394
+I'm sure the shower
+will be free soon.
+
+151
+00:10:12,320 --> 00:10:13,655
+Uh.
+
+152
+00:10:17,534 --> 00:10:19,494
+[KARIN]
+What can I do to help you out?
+
+153
+00:10:19,536 --> 00:10:20,745
+Nothing.
+
+154
+00:10:20,787 --> 00:10:21,913
+[KARIN grunts]
+
+155
+00:10:22,789 --> 00:10:26,751
+But still, I want you here.
+
+156
+00:10:30,046 --> 00:10:32,882
+[KAIKOKU] I wonder if I
+should go back there soon.
+
+157
+00:10:32,924 --> 00:10:35,135
+[NANAMI]
+To the White Room?
+
+158
+00:10:35,176 --> 00:10:37,554
+I wouldn't worry about that.
+
+159
+00:10:37,595 --> 00:10:40,974
+Paka doesn't concern
+himself with the dropouts.
+
+160
+00:10:42,308 --> 00:10:44,102
+[SAKURA]
+Lots of sugar, please!
+
+161
+00:10:44,144 --> 00:10:45,770
+[CHIHIRO]
+I want milk in mine.
+
+162
+00:10:45,854 --> 00:10:47,397
+[NANAMI]
+Coming up.
+
+163
+00:10:49,649 --> 00:10:50,942
+That's true, nothing happened
+
+164
+00:10:50,984 --> 00:10:53,236
+when Hiro and I escaped
+the White Room, either.
+
+165
+00:10:53,278 --> 00:10:56,281
+Guess maybe the surveillance
+cameras didn't see us.
+
+166
+00:10:57,740 --> 00:11:02,287
+[KAIKOKU] But what if this
+is what he wants?
+
+167
+00:11:02,328 --> 00:11:04,998
+It's possible he already knows
+about the escape route,
+
+168
+00:11:05,039 --> 00:11:07,333
+and he's using me as
+bait so he can catch
+
+169
+00:11:07,375 --> 00:11:10,336
+all of the dropouts at once.
+
+170
+00:11:10,378 --> 00:11:12,297
+[NANAMI]
+That could be it.
+
+171
+00:11:12,338 --> 00:11:15,216
+In which case, we'll be
+forced to put up a fight.
+
+172
+00:11:15,258 --> 00:11:17,969
+And if that happens,
+we'll need your strength.
+
+173
+00:11:18,011 --> 00:11:21,890
+Onigasaki. What do you say
+to joining our cause?
+
+174
+00:11:23,975 --> 00:11:25,018
+[KAIKOKU]
+No thanks.
+
+175
+00:11:25,059 --> 00:11:25,894
+[NANAMI gasps]
+
+176
+00:11:25,935 --> 00:11:27,437
+[grunts]
+
+177
+00:11:27,520 --> 00:11:31,691
+Hate to say it, but sneaking
+around isn't really my style.
+
+178
+00:11:31,733 --> 00:11:36,112
+I'd rather fly solo
+and do my own thing.
+
+179
+00:11:36,154 --> 00:11:37,530
+I understand.
+
+180
+00:11:37,572 --> 00:11:38,781
+Either way, though,
+
+181
+00:11:38,823 --> 00:11:42,952
+we should still meet up
+and trade intel sometimes.
+
+182
+00:11:42,994 --> 00:11:44,871
+[sneezes]
+
+183
+00:11:44,913 --> 00:11:48,625
+[NANAMI] Goodness, your
+face is looking flushed.
+
+184
+00:11:48,666 --> 00:11:53,922
+[YUZU coughing]
+
+185
+00:11:53,963 --> 00:11:57,217
+Crap, I fell asleep.
+
+186
+00:11:57,258 --> 00:11:59,552
+[YUZU coughing]
+
+187
+00:11:59,594 --> 00:12:01,512
+[KARIN]
+Yuzu!
+
+188
+00:12:01,554 --> 00:12:05,892
+Sorry. I threw up.
+I'm just anemic.
+
+189
+00:12:06,726 --> 00:12:08,853
+[KARIN] Hang on‐‐
+I'll go get somebody!
+
+190
+00:12:08,895 --> 00:12:10,104
+[YUZU]
+No.
+
+191
+00:12:10,146 --> 00:12:12,815
+[KARIN] Don't argue
+with me, you need help!
+
+192
+00:12:20,198 --> 00:12:22,867
+Karirin was crying.
+
+193
+00:12:22,909 --> 00:12:25,536
+I have to get back to work soon.
+
+194
+00:12:25,578 --> 00:12:28,206
+I need... touch.
+
+195
+00:12:28,248 --> 00:12:30,541
+I'm so lonely.
+
+196
+00:12:51,521 --> 00:12:53,648
+Oh, Sis, it's you.
+
+197
+00:13:15,295 --> 00:13:18,756
+[PAKA]
+I'll help you this once.
+
+198
+00:13:18,798 --> 00:13:20,967
+You owe me.
+
+199
+00:13:24,637 --> 00:13:30,768
+[PAKA] Next time, don't forget
+who your master is... Recorder.
+
+200
+00:13:38,318 --> 00:13:40,528
+[SAKURA]
+Your temperature's high.
+
+201
+00:13:40,570 --> 00:13:43,406
+Wow, all this just because
+of a little water?
+
+202
+00:13:43,448 --> 00:13:44,449
+You're so delicate.
+
+203
+00:13:44,490 --> 00:13:46,951
+[KAIKOKU grumbles]
+
+204
+00:13:46,993 --> 00:13:49,996
+Uh! Well, to be fair,
+I'm sure you're exhausted
+
+205
+00:13:50,038 --> 00:13:52,081
+from being in an
+unfamiliar place!
+
+206
+00:13:52,123 --> 00:13:53,374
+Uh?
+
+207
+00:13:53,416 --> 00:13:55,543
+Hey, what're those?
+
+208
+00:13:55,585 --> 00:13:57,670
+Oh, yeah.
+
+209
+00:13:57,712 --> 00:14:00,423
+Omejima gave these
+to me earlier.
+
+210
+00:14:02,091 --> 00:14:06,346
+[KAIKOKU] Man. Four whole
+years and he still has them.
+
+211
+00:14:06,387 --> 00:14:09,182
+Nanami refuses to give
+up on his partner.
+
+212
+00:14:09,223 --> 00:14:11,267
+No matter what.
+
+213
+00:14:11,309 --> 00:14:14,062
+I guess he believes he'll
+come back and save him,
+
+214
+00:14:14,103 --> 00:14:15,938
+but who knows?
+
+215
+00:14:17,190 --> 00:14:19,275
+So what do you plan to do?
+
+216
+00:14:19,317 --> 00:14:20,109
+Huh?
+
+217
+00:14:20,151 --> 00:14:23,363
+If you come with me,
+you can see your brother.
+
+218
+00:14:23,404 --> 00:14:25,281
+[SAKURA gasping]
+
+219
+00:14:32,330 --> 00:14:34,582
+[DOOR 10A]
+Correct passcode confirmed.
+
+220
+00:14:34,624 --> 00:14:38,836
+Access to special section
+B‐13 is now available.
+
+221
+00:14:43,007 --> 00:14:44,217
+[SAKURA]
+I don't think Hiro
+
+222
+00:14:44,258 --> 00:14:46,469
+would want to leave
+Nanami behind.
+
+223
+00:14:46,511 --> 00:14:47,470
+[KAIKOKU]
+Hmm...
+
+224
+00:14:47,512 --> 00:14:50,598
+[SAKURA] He was the same
+way when I dropped out.
+
+225
+00:14:50,640 --> 00:14:52,683
+He got himself
+banished on purpose
+
+226
+00:14:52,725 --> 00:14:56,479
+because he thought I would
+be scared to go by myself.
+
+227
+00:14:56,521 --> 00:15:02,151
+Zakuro's my family, so of course
+I want to see him, but...
+
+228
+00:15:02,193 --> 00:15:04,737
+The three of us are
+a family now, too.
+
+229
+00:15:04,779 --> 00:15:07,073
+I can't abandon them.
+
+230
+00:15:13,704 --> 00:15:15,623
+Listen, we've got a situation!
+
+231
+00:15:15,665 --> 00:15:18,251
+Dunno how, but people
+are calling for you!
+
+232
+00:15:18,292 --> 00:15:20,044
+They're outside the White Room!
+
+233
+00:15:20,086 --> 00:15:21,212
+[gasps]
+
+234
+00:15:23,506 --> 00:15:26,509
+[ZAKURO]
+Onigasaki! Open up!
+
+235
+00:15:27,593 --> 00:15:30,513
+Kaikoku, are you okay in there?
+
+236
+00:15:30,555 --> 00:15:31,764
+[ZAKURO]
+Answer us!
+
+237
+00:15:31,806 --> 00:15:33,099
+I don't hear him.
+
+238
+00:15:33,141 --> 00:15:35,184
+[HIMIKO]
+Oh no, what if he fainted?
+
+239
+00:15:35,226 --> 00:15:37,979
+[ANYA] What a pain in the ass.
+Kick the door in!
+
+240
+00:15:38,020 --> 00:15:41,065
+[ZAKURO] All right.
+We'll give it ten more seconds.
+
+241
+00:15:41,107 --> 00:15:44,068
+[NANAMI] Oh, dear. Who knew
+these kids were so direct?
+
+242
+00:15:44,110 --> 00:15:46,571
+Hurry and bring him back, Hiro!
+
+243
+00:15:48,614 --> 00:15:50,908
+I have to think of a
+way to buy some time.
+
+244
+00:15:50,950 --> 00:15:52,410
+Wait, I know!
+
+245
+00:15:52,452 --> 00:15:55,830
+Look! There's a piece of
+paper under the door!
+
+246
+00:15:55,872 --> 00:15:56,914
+[ZAKURO]
+"Occupied"?
+
+247
+00:15:56,956 --> 00:15:57,748
+[AKATSUKI]
+What?
+
+248
+00:15:57,790 --> 00:15:59,083
+How do we know
+that's really him?
+
+249
+00:15:59,125 --> 00:16:01,210
+The writing's all
+cute and bubbly!
+
+250
+00:16:01,252 --> 00:16:03,546
+[ZAKURO] Hold on, there's
+another one coming.
+
+251
+00:16:03,588 --> 00:16:04,964
+It is fake!
+
+252
+00:16:05,006 --> 00:16:06,549
+[AKATSUKI]
+Kaikoku!
+
+253
+00:16:06,591 --> 00:16:10,052
+[NANAMI] I think I just
+made things worse!
+
+254
+00:16:10,094 --> 00:16:12,138
+Shh!
+
+255
+00:16:14,432 --> 00:16:18,269
+[AKATSUKI] Kaikoku. I have
+something important to tell you.
+
+256
+00:16:18,311 --> 00:16:22,315
+After you left, we played
+a game to bring you back.
+
+257
+00:16:24,150 --> 00:16:27,445
+Please don't worry. You'll
+be out of there soon, so‐‐!
+
+258
+00:16:30,573 --> 00:16:31,991
+[ZAKURO]
+Listen.
+
+259
+00:16:34,243 --> 00:16:37,914
+[ZAKURO] Roromori's resting
+in the infirmary right now.
+
+260
+00:16:37,955 --> 00:16:39,665
+Roro?
+
+261
+00:16:40,458 --> 00:16:42,668
+[ZAKURO] She worked so
+hard to solve the puzzle
+
+262
+00:16:42,710 --> 00:16:44,504
+that she collapsed.
+
+263
+00:16:51,302 --> 00:16:53,095
+[ZAKURO]
+So, come out!
+
+264
+00:16:53,137 --> 00:16:55,097
+We're waiting for you!
+
+265
+00:16:57,391 --> 00:16:59,310
+[SAKURA cries]
+
+266
+00:16:59,352 --> 00:17:01,270
+[ZAKURO]
+Hey, Onigasaki!
+
+267
+00:17:01,312 --> 00:17:03,105
+Say something, already!
+
+268
+00:17:03,147 --> 00:17:06,692
+Open the door!
+Why aren't you answering?
+
+269
+00:17:06,734 --> 00:17:08,861
+We need you on
+the team, hurry!
+
+270
+00:17:08,903 --> 00:17:11,280
+[SAKURA cries]
+
+271
+00:17:16,953 --> 00:17:19,497
+Don't let Zakuro find out.
+
+272
+00:17:19,539 --> 00:17:22,625
+He can be emotional.
+
+273
+00:17:30,800 --> 00:17:32,677
+We'll see you.
+
+274
+00:17:39,183 --> 00:17:41,352
+There you are!
+
+275
+00:17:41,394 --> 00:17:42,395
+[KAIKOKU]
+Yeah, sorry.
+
+276
+00:17:42,436 --> 00:17:43,854
+I didn't mean to make you wait‐‐
+
+277
+00:17:43,896 --> 00:17:44,730
+Uh!
+
+278
+00:17:44,772 --> 00:17:46,232
+What was that for?
+
+279
+00:17:46,274 --> 00:17:49,193
+It's punishment
+for being stupid.
+
+280
+00:17:50,319 --> 00:17:53,030
+Not sure what you're
+getting at, but okay.
+
+281
+00:17:53,072 --> 00:17:56,534
+Ah! Sorry, sorry, don't mind me!
+
+282
+00:17:56,576 --> 00:17:58,160
+[MAKINO exhales]
+
+283
+00:17:58,202 --> 00:18:00,246
+Why are you breathing on me?
+
+284
+00:18:00,288 --> 00:18:02,123
+It's a welcome‐back ritual!
+
+285
+00:18:02,164 --> 00:18:05,876
+[AKATSUKI, HIMIKO humming]
+
+286
+00:18:12,300 --> 00:18:14,594
+[ZAKURO]
+You learned your lesson, right?
+
+287
+00:18:14,635 --> 00:18:17,221
+Don't pull a stunt
+like that again.
+
+288
+00:18:29,317 --> 00:18:31,902
+Hey, give me your
+hand for a sec.
+
+289
+00:18:31,944 --> 00:18:33,279
+[ZAKURO]
+Why?
+
+290
+00:18:33,321 --> 00:18:34,530
+[KAIKOKU]
+Just do it.
+
+291
+00:18:34,572 --> 00:18:37,575
+[ZAKURO]
+Uh!
+
+292
+00:18:37,617 --> 00:18:40,036
+Onigasaki?
+
+293
+00:18:40,077 --> 00:18:42,955
+I'm happy you're safe.
+
+294
+00:18:42,997 --> 00:18:47,084
+[ZAKURO]
+Huh? Oh, uh, thanks.
+
+295
+00:18:52,757 --> 00:18:54,675
+[KAIKOKU]
+Sorry, Sakura.
+
+296
+00:18:54,717 --> 00:18:57,094
+I don't think your
+message got through.
+
+297
+00:18:59,972 --> 00:19:02,975
+[knocking]
+
+298
+00:19:03,017 --> 00:19:05,227
+[door slides]
+
+299
+00:19:06,479 --> 00:19:09,899
+So, you're back. Good.
+
+300
+00:19:09,940 --> 00:19:11,734
+Yeah, sure am.
+
+301
+00:19:14,654 --> 00:19:16,197
+[KAIKOKU]
+How do you feel?
+
+302
+00:19:16,238 --> 00:19:18,407
+As you can see,
+I'm right as rain!
+
+303
+00:19:18,449 --> 00:19:24,121
+Although, my diligent nurse
+is refusing to discharge me.
+
+304
+00:19:24,163 --> 00:19:28,459
+I should be back
+in the game tomorrow.
+
+305
+00:19:28,501 --> 00:19:31,462
+[KAIKOKU]
+I talked to Iride and Oshigiri.
+
+306
+00:19:31,504 --> 00:19:33,964
+You pushed yourself
+way too hard.
+
+307
+00:19:34,006 --> 00:19:35,007
+It's all right.
+
+308
+00:19:35,049 --> 00:19:38,427
+What happened to you
+was partly my fault.
+
+309
+00:19:42,556 --> 00:19:44,767
+You have questions
+for me, don't you?
+
+310
+00:19:44,809 --> 00:19:46,477
+I'm all ears.
+
+311
+00:19:49,146 --> 00:19:50,981
+[KAIKOKU] I found some
+questionable documents
+
+312
+00:19:51,023 --> 00:19:52,566
+in your room.
+
+313
+00:19:52,608 --> 00:19:55,611
+They were full of information
+about the rest of us.
+
+314
+00:19:59,365 --> 00:20:01,784
+So, someone did disturb them.
+
+315
+00:20:01,826 --> 00:20:04,704
+I noticed my photos of Akki
+were tilted differently,
+
+316
+00:20:04,745 --> 00:20:08,457
+and I had a suspicion
+that you were responsible.
+
+317
+00:20:13,879 --> 00:20:17,341
+Those reports. They're recent.
+
+318
+00:20:17,383 --> 00:20:18,551
+Does that mean my grandpa‐‐?
+
+319
+00:20:18,592 --> 00:20:20,386
+Yes, it's true.
+
+320
+00:20:22,638 --> 00:20:24,807
+Sorry I stayed quiet.
+
+321
+00:20:24,849 --> 00:20:29,270
+You see, I am this
+game's record keeper.
+
+322
+00:20:29,311 --> 00:20:31,731
+I work for Mr. Alpaca.
+
+323
+00:20:34,442 --> 00:20:38,237
+My job is to monitor
+the game from the inside.
+
+324
+00:20:38,279 --> 00:20:42,158
+I give him information, though
+he doesn't tell me much at all.
+
+325
+00:20:42,199 --> 00:20:44,702
+Facts about everyone's
+participation,
+
+326
+00:20:44,744 --> 00:20:48,289
+the thoughts and feelings I
+observe, progress, results,
+
+327
+00:20:48,330 --> 00:20:53,210
+things I learned through my own
+involvement with the game.
+
+328
+00:20:53,252 --> 00:20:57,298
+I took this role on out
+of pure curiosity.
+
+329
+00:20:57,339 --> 00:21:00,968
+As you already know, I've got
+quite an obsession with Akki.
+
+330
+00:21:01,010 --> 00:21:03,387
+I was eager to do anything
+that would give me a chance
+
+331
+00:21:03,429 --> 00:21:06,098
+to learn more about him.
+
+332
+00:21:06,140 --> 00:21:08,768
+I was happy, but...
+
+333
+00:21:09,894 --> 00:21:12,480
+Should I have been, really?
+
+334
+00:21:12,521 --> 00:21:16,484
+I didn't want the game to
+continue without you or anyone.
+
+335
+00:21:16,525 --> 00:21:19,403
+It's understandable that
+you don't trust me.
+
+336
+00:21:21,530 --> 00:21:24,575
+[YUZU] I'm aware that my
+behavior is suspect, but...
+
+337
+00:21:24,617 --> 00:21:28,579
+...I'm not sure how long
+I can play the clown.
+
+338
+00:21:31,916 --> 00:21:37,046
+[YUZU] You choose what to do,
+with me and the files.
+
+339
+00:21:37,087 --> 00:21:40,007
+[exhales]
+
+340
+00:21:40,049 --> 00:21:42,259
+[KAIKOKU] I'm not good at
+dealing with this stuff.
+
+341
+00:21:42,301 --> 00:21:43,469
+[YUZU]
+Uh?
+
+342
+00:21:43,511 --> 00:21:45,971
+My only question
+
+343
+00:21:46,013 --> 00:21:49,099
+is whether I should consider
+you a friend or a foe.
+
+344
+00:21:49,141 --> 00:21:50,893
+Nothing more.
+
+345
+00:21:50,935 --> 00:21:53,979
+If it's the former, we can
+get back to gossiping.
+
+346
+00:21:54,021 --> 00:21:55,731
+If it's the latter,
+I'll make you pay
+
+347
+00:21:55,773 --> 00:21:58,692
+for what you did and
+then we can gossip.
+
+348
+00:21:58,734 --> 00:22:01,362
+[YUZU]
+Heh.
+
+349
+00:22:01,403 --> 00:22:04,240
+You sure love chit‐chat,
+don't you, Kai?
+
+350
+00:22:04,281 --> 00:22:07,201
+Yeah. You're the only
+one I can talk with,
+
+351
+00:22:07,243 --> 00:22:09,829
+and I can't lose that.
+
+352
+00:22:09,870 --> 00:22:11,622
+Which is why...
+
+353
+00:22:11,664 --> 00:22:13,791
+I'm requesting a truce.
+
+354
+00:22:13,833 --> 00:22:16,794
+If you decide you agree,
+let me know.
+
+355
+00:22:25,845 --> 00:22:27,221
+[YUZU]
+Right.
+
+356
+00:23:20,357 --> 00:23:24,570
+[ZAKURO]
+Onigasaki! There you are!
+
+357
+00:23:24,612 --> 00:23:26,363
+I thought I told you
+not to wander off
+
+358
+00:23:26,405 --> 00:23:28,073
+by yourself without telling me!
+
+359
+00:23:28,115 --> 00:23:31,327
+Wow, you're not very
+emotionally stable, are you?
+
+360
+00:23:31,368 --> 00:23:33,579
+[ZAKURO] I'll show you
+emotionally stable!
+
+361
+00:23:33,621 --> 00:23:35,748
+My mistake.
+
+362
+00:23:35,789 --> 00:23:37,583
+Bye, Roro. Feel better.
+
+363
+00:23:37,625 --> 00:23:41,503
+[ZAKURO] Hey, don't push me!
+I'll fight you if I have to!
+
+364
+00:23:41,545 --> 00:23:44,173
+[YUZU]
+Thanks. I will.
+
+365
+00:23:44,214 --> 00:23:45,925
+Tomorrow, then.
+

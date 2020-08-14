@@ -1,0 +1,1869 @@
+﻿1
+00:01:55,250 --> 00:02:00,208
+[roar]
+
+2
+00:02:02,916 --> 00:02:04,541
+[SPARK gasps]
+
+3
+00:02:07,416 --> 00:02:12,375
+[MONSTERS growling]
+
+4
+00:02:14,500 --> 00:02:19,458
+[MAN grunts]
+
+5
+00:02:28,500 --> 00:02:33,666
+[NARSE] I have a question!
+What is thy name?
+
+6
+00:02:33,750 --> 00:02:36,500
+[SPARK]
+My name... is Spark!
+
+7
+00:02:38,208 --> 00:02:39,708
+I am a knight of Flaim!
+
+8
+00:02:39,791 --> 00:02:41,916
+I am Spark!
+
+9
+00:02:49,916 --> 00:02:51,833
+[SPARK groans]
+
+10
+00:02:51,916 --> 00:02:55,041
+Ugh... Wha? A dream?
+
+11
+00:02:57,333 --> 00:03:02,083
+Heh. Yeah right...
+A knight of Flaim.
+
+12
+00:03:02,166 --> 00:03:06,083
+[bells toll]
+
+13
+00:03:06,166 --> 00:03:07,416
+[SPARK]
+A knight...
+
+14
+00:03:07,500 --> 00:03:09,333
+[gasps]
+A knight?!
+
+15
+00:03:09,416 --> 00:03:11,458
+Oh, no!
+
+16
+00:03:15,541 --> 00:03:17,208
+[SPARK panting]
+Oh, excuse me!
+
+17
+00:03:17,291 --> 00:03:18,375
+I'm in a hurry, I'm sorry.
+
+18
+00:03:18,458 --> 00:03:20,541
+--[CROWD gasp]
+--Very sorry. I'm sorry!
+
+19
+00:03:20,625 --> 00:03:21,666
+[SPARK]
+Excuse me. I'm so sorry.
+
+20
+00:03:21,750 --> 00:03:22,541
+[MAAR]
+Huh?
+
+21
+00:03:22,625 --> 00:03:24,333
+[MAAR yelps]
+
+22
+00:03:24,416 --> 00:03:25,625
+[groans]
+
+23
+00:03:25,708 --> 00:03:26,666
+Hey!
+
+24
+00:03:26,750 --> 00:03:28,750
+What's the big idea, Spark?!
+
+25
+00:03:28,833 --> 00:03:30,333
+Sorry, Maar,
+but they're announcing
+
+26
+00:03:30,416 --> 00:03:32,166
+the candidates for
+knighthood today!
+
+27
+00:03:32,250 --> 00:03:33,375
+Gotta run!
+
+28
+00:03:33,458 --> 00:03:38,250
+Oh... Huh, knighthood, huh?
+
+29
+00:03:38,333 --> 00:03:39,500
+[SPARK]
+This is the year!
+
+30
+00:03:39,583 --> 00:03:41,125
+I just know it's gonna
+be all right, this time.
+
+31
+00:03:41,208 --> 00:03:42,333
+I just know it!
+
+32
+00:03:42,416 --> 00:03:44,333
+I'm gonna be a knight!
+
+33
+00:03:44,416 --> 00:03:49,375
+[MEN murmuring]
+
+34
+00:03:51,125 --> 00:03:53,666
+Settle down, everybody.
+
+35
+00:03:56,375 --> 00:03:58,416
+The names that
+appear on this list
+
+36
+00:03:58,500 --> 00:04:00,750
+will be given the
+title of "knight"
+
+37
+00:04:00,833 --> 00:04:03,625
+in the service of
+King Kashue of Flaim!
+
+38
+00:04:03,708 --> 00:04:06,458
+[ALL cheer]
+
+39
+00:04:08,833 --> 00:04:10,208
+[SPARK]
+Huh?
+
+40
+00:04:11,791 --> 00:04:13,958
+[SPARK]
+Huh...
+
+41
+00:04:14,041 --> 00:04:15,958
+Huh...?
+
+42
+00:04:16,041 --> 00:04:18,041
+Hm?
+
+43
+00:04:18,125 --> 00:04:19,666
+Huh?!
+
+44
+00:04:20,958 --> 00:04:24,125
+[SPARK] My name! My name's
+not on the list!
+
+45
+00:04:26,375 --> 00:04:29,916
+[music plays]
+
+46
+00:04:30,000 --> 00:04:34,541
+[MAAR] "Time slipped past,
+slipped past, slipped past...
+
+47
+00:04:34,625 --> 00:04:38,000
+...and the boy grew
+into a mighty man.
+
+48
+00:04:38,083 --> 00:04:42,416
+And a dream had he,
+had he, had he...
+
+49
+00:04:42,500 --> 00:04:46,875
+...of becoming a hero
+of Lodoss at last.
+
+50
+00:04:46,958 --> 00:04:48,666
+And the songs they would tell,
+
+51
+00:04:48,750 --> 00:04:51,041
+they would tell,
+they would tell...
+
+52
+00:04:51,125 --> 00:04:54,541
+...of his exploits
+and courage and will...
+
+53
+00:04:54,625 --> 00:04:58,458
+...of dragons fought
+and battles won...
+
+54
+00:04:58,541 --> 00:05:03,208
+...and a land released from
+a black knight's spell.
+
+55
+00:05:03,291 --> 00:05:07,166
+And so, with a high
+elf by his side..."
+
+56
+00:05:07,250 --> 00:05:12,208
+[music continues]
+
+57
+00:05:15,125 --> 00:05:18,208
+[MAAR]
+"And a young lady warrior, too."
+
+58
+00:05:18,291 --> 00:05:23,291
+[music continues]
+
+59
+00:05:25,416 --> 00:05:27,916
+[MAAR]
+"A sorcerer and a king
+
+60
+00:05:28,000 --> 00:05:30,833
+and a wisened sage...
+
+61
+00:05:30,916 --> 00:05:35,666
+The heroes of Lodoss,
+legends spread wide.
+
+62
+00:05:35,750 --> 00:05:40,125
+As time slipped past,
+slipped past, slipped past...
+
+63
+00:05:40,208 --> 00:05:44,625
+...day after day,
+until nine years passed."
+
+64
+00:05:56,125 --> 00:05:57,750
+[footsteps]
+
+65
+00:05:57,833 --> 00:05:59,583
+[curtain rustles]
+
+66
+00:06:02,750 --> 00:06:04,625
+Oh, Mother...
+
+67
+00:06:09,083 --> 00:06:11,458
+"Holy mother of
+the Earth, Marfa.
+
+68
+00:06:11,541 --> 00:06:14,291
+Goddess who grants all life."
+
+69
+00:06:14,375 --> 00:06:16,208
+[YOUNG NEESE] "Holy mother
+of the Earth, Marfa--"
+
+70
+00:06:16,291 --> 00:06:17,750
+--[NEESE] Dear child.
+--[gasps]
+
+71
+00:06:17,833 --> 00:06:21,625
+[NEESE] You cannot give more
+life to one whose time has come.
+
+72
+00:06:21,708 --> 00:06:25,541
+To do so would be an offense
+against the laws of nature.
+
+73
+00:06:25,625 --> 00:06:27,250
+Yes, but--
+
+74
+00:06:27,333 --> 00:06:31,666
+I was born here in Lodoss
+and have lived a good life.
+
+75
+00:06:31,750 --> 00:06:33,333
+A happy life.
+
+76
+00:06:33,416 --> 00:06:36,208
+But to live any more
+than I already have
+
+77
+00:06:36,291 --> 00:06:38,333
+would be unnecessary.
+
+78
+00:06:39,791 --> 00:06:42,833
+You must be tired
+from your long journey.
+
+79
+00:06:42,916 --> 00:06:46,125
+You should go to
+your room and rest.
+
+80
+00:06:46,208 --> 00:06:49,083
+But Grandma, I want
+to stay here with you!
+
+81
+00:06:49,166 --> 00:06:50,500
+[NEESE]
+It's all right, Dear.
+
+82
+00:06:50,583 --> 00:06:52,458
+I may not have much time,
+
+83
+00:06:52,541 --> 00:06:54,875
+but I'll still be
+here a while longer.
+
+84
+00:06:54,958 --> 00:06:56,000
+Don't worry.
+
+85
+00:06:56,083 --> 00:06:59,291
+When the end does come,
+you can be here.
+
+86
+00:06:59,375 --> 00:07:01,791
+Slayn, I don't mean
+to trouble you,
+
+87
+00:07:01,875 --> 00:07:04,125
+but would you please stay?
+
+88
+00:07:08,583 --> 00:07:11,833
+[SLAYN] Why did you ask
+me to stay, Mother?
+
+89
+00:07:11,916 --> 00:07:14,916
+[NEESE] I think it's better
+that only you hear this.
+
+90
+00:07:16,083 --> 00:07:17,416
+The truth is,
+
+91
+00:07:17,500 --> 00:07:21,125
+Leylia really isn't my
+natural daughter, Slayn.
+
+92
+00:07:21,208 --> 00:07:23,083
+[thunder rumbles]
+
+93
+00:07:23,166 --> 00:07:25,916
+My sweet girl is... really...
+
+94
+00:07:26,000 --> 00:07:28,833
+She's the reincarnation
+of Naneel,
+
+95
+00:07:28,916 --> 00:07:30,875
+the High Priestess of Kardis.
+
+96
+00:07:30,958 --> 00:07:32,166
+[gasps]
+
+97
+00:07:32,250 --> 00:07:33,875
+[NEESE]
+Forty years ago,
+
+98
+00:07:33,958 --> 00:07:37,375
+Queen Naneel was destroyed
+by the Six Heroes.
+
+99
+00:07:37,458 --> 00:07:38,916
+After her death,
+
+100
+00:07:39,000 --> 00:07:42,208
+Naneel's soul called
+upon the power of Kardis
+
+101
+00:07:42,291 --> 00:07:45,166
+to resurrect her into
+the body of an infant,
+
+102
+00:07:45,250 --> 00:07:48,208
+one who had no power to resist.
+
+103
+00:07:48,291 --> 00:07:50,958
+I took the cursed
+child as my own
+
+104
+00:07:51,041 --> 00:07:53,000
+and named her Leylia.
+
+105
+00:07:53,083 --> 00:07:56,041
+I believed with the
+help of Marfa's power,
+
+106
+00:07:56,125 --> 00:08:00,041
+Leylia's soul could be
+saved from its evil origins
+
+107
+00:08:00,125 --> 00:08:02,166
+To my great joy,
+
+108
+00:08:02,250 --> 00:08:06,041
+Leylia grew to become a
+devoted servant of Marfa
+
+109
+00:08:06,125 --> 00:08:08,833
+and a most talented priestess.
+
+110
+00:08:08,916 --> 00:08:11,375
+She was free from all evil.
+
+111
+00:08:11,458 --> 00:08:13,375
+Until Karla took control of her.
+
+112
+00:08:13,458 --> 00:08:15,833
+--[thunder rumbles]
+--[SLAYN gasps]
+
+113
+00:08:15,916 --> 00:08:17,916
+[NEESE]
+My dear Slayn...
+
+114
+00:08:18,000 --> 00:08:21,833
+I thank you from the
+bottom of my heart.
+
+115
+00:08:21,916 --> 00:08:27,458
+With you as a part of her life,
+she has been saved in every way.
+
+116
+00:08:31,208 --> 00:08:33,083
+I want you to promise me
+
+117
+00:08:33,166 --> 00:08:37,041
+that you will continue to
+protect Leylia and little Neese.
+
+118
+00:08:37,125 --> 00:08:41,541
+No matter what, evil must never
+be allowed to control her again.
+
+119
+00:08:41,625 --> 00:08:44,541
+I swear I will.
+
+120
+00:08:44,625 --> 00:08:47,833
+It looks like my time
+has finally come.
+
+121
+00:08:47,916 --> 00:08:51,166
+I see that a few of my old
+friends have arrived
+
+122
+00:08:51,250 --> 00:08:53,375
+to help me on my way.
+
+123
+00:08:53,458 --> 00:08:54,916
+[SLAYN]
+Hm?
+
+124
+00:09:03,541 --> 00:09:09,041
+[KARLA] So Neese, you intend to
+follow nature's law and die?
+
+125
+00:09:09,125 --> 00:09:10,541
+[NEESE]
+I do, Karla.
+
+126
+00:09:10,625 --> 00:09:13,166
+My time here has finally ended.
+
+127
+00:09:13,250 --> 00:09:16,416
+[KARLA] But storm clouds from
+the island to the south
+
+128
+00:09:16,500 --> 00:09:20,083
+threaten to overrun
+Lodoss once more.
+
+129
+00:09:20,166 --> 00:09:24,166
+Knowing that, do you
+still wish to pass on?
+
+130
+00:09:24,250 --> 00:09:26,583
+[NEESE chuckles]
+Yes.
+
+131
+00:09:26,666 --> 00:09:29,791
+All I ever wanted
+was to save Lodoss.
+
+132
+00:09:29,875 --> 00:09:32,250
+And to save you as well.
+
+133
+00:09:38,250 --> 00:09:41,125
+[NEESE] However, now I
+must leave that task
+
+134
+00:09:41,208 --> 00:09:42,958
+to these children.
+
+135
+00:09:45,250 --> 00:09:47,833
+[NEESE]
+I still believe...
+
+136
+00:09:47,916 --> 00:09:52,333
+That against all the chaos
+and suffering you cause...
+
+137
+00:09:52,416 --> 00:09:56,375
+...new heroes shall
+rise to the call.
+
+138
+00:09:56,458 --> 00:10:01,291
+And they will win a victory
+for all the people of Lodoss.
+
+139
+00:10:04,833 --> 00:10:06,166
+[gasps]
+
+140
+00:10:06,250 --> 00:10:08,333
+[music plays]
+
+141
+00:10:08,416 --> 00:10:12,458
+[MAAR] "And so, from Earth
+to Heaven, she passed
+
+142
+00:10:12,541 --> 00:10:17,125
+And an era had come
+to its peaceful close.
+
+143
+00:10:17,208 --> 00:10:20,416
+And the seasons have
+passed us once again,
+
+144
+00:10:20,500 --> 00:10:24,625
+ten years since the dragon
+had breathed its last.
+
+145
+00:10:24,708 --> 00:10:28,625
+And still, I pray,
+I pray, I pray...
+
+146
+00:10:28,708 --> 00:10:32,541
+...for the heart of a
+hero to spark to life
+
+147
+00:10:32,625 --> 00:10:36,750
+and answer the challenge
+of Lodoss's call.
+
+148
+00:10:36,833 --> 00:10:39,208
+Can there be such a man?
+
+149
+00:10:39,291 --> 00:10:41,041
+I cannot say..."
+
+150
+00:10:41,125 --> 00:10:42,291
+[SPARK]
+At this rate,
+
+151
+00:10:42,375 --> 00:10:44,875
+I'll be an old man
+before I become a knight!
+
+152
+00:10:44,958 --> 00:10:46,250
+[RUZENAN]
+Stop that horse-cart!
+
+153
+00:10:46,333 --> 00:10:49,500
+Master Spark, please wait!
+
+154
+00:10:49,583 --> 00:10:51,000
+[SPARK]
+Huh?
+
+155
+00:10:52,166 --> 00:10:55,833
+[SPARK] What? I'm invited to
+the king's banquet tonight?
+
+156
+00:10:55,916 --> 00:10:59,000
+Yeah, it looks like
+that way, Master Spark.
+
+157
+00:10:59,083 --> 00:11:00,416
+But why me?
+
+158
+00:11:00,500 --> 00:11:02,125
+Why me, Count Ruzenan?
+
+159
+00:11:02,208 --> 00:11:03,291
+What do you mean?
+
+160
+00:11:03,375 --> 00:11:05,166
+Everybody knows
+that you're in line
+
+161
+00:11:05,250 --> 00:11:07,500
+to become the leader
+of your tribe.
+
+162
+00:11:07,583 --> 00:11:09,833
+You might even become
+a king one day!
+
+163
+00:11:09,916 --> 00:11:12,333
+So it's only natural!
+
+164
+00:11:12,416 --> 00:11:14,625
+Come along now, Master Spark.
+
+165
+00:11:14,708 --> 00:11:17,291
+King Kashue is waiting for you.
+
+166
+00:11:20,375 --> 00:11:22,583
+[SPARK]
+A king? Become a king?
+
+167
+00:11:22,666 --> 00:11:24,125
+What is he talking about?
+
+168
+00:11:24,208 --> 00:11:25,708
+I'm just a knight in training!
+
+169
+00:11:25,791 --> 00:11:28,500
+And it looks like that's
+all I might ever be.
+
+170
+00:11:28,583 --> 00:11:30,708
+[RUZENAN]
+Spark, come along.
+
+171
+00:11:30,791 --> 00:11:32,958
+[SPARK]
+Oh, this is just great!
+
+172
+00:11:33,041 --> 00:11:36,750
+I thought King Kashue didn't
+care about my lineage!
+
+173
+00:11:36,833 --> 00:11:39,583
+I don't want any
+special treatment!
+
+174
+00:11:42,708 --> 00:11:44,208
+[SPARK] There's no way
+a king would invite
+
+175
+00:11:44,291 --> 00:11:46,541
+a normal trainee to a banquet.
+
+176
+00:11:46,625 --> 00:11:48,625
+If he's paying attention
+to me just because
+
+177
+00:11:48,708 --> 00:11:51,416
+I'm related to the
+chief of my tribe,
+
+178
+00:11:51,500 --> 00:11:53,875
+well, I'll just tell
+him straight out.
+
+179
+00:11:53,958 --> 00:11:57,375
+I have no intention of
+ascending any throne!
+
+180
+00:11:57,458 --> 00:12:01,000
+[GUARD A]
+Master Spark, you're here!
+
+181
+00:12:01,083 --> 00:12:02,291
+I'll announce you at once!
+
+182
+00:12:02,375 --> 00:12:03,833
+Please, come with me.
+
+183
+00:12:03,916 --> 00:12:05,541
+I can wait my turn!
+
+184
+00:12:05,625 --> 00:12:06,916
+Uh, but you--
+
+185
+00:12:07,000 --> 00:12:08,875
+Why don't you just do your job?
+
+186
+00:12:08,958 --> 00:12:10,916
+There's no need for
+me to cut the line!
+
+187
+00:12:11,000 --> 00:12:12,291
+[MEN murmuring]
+
+188
+00:12:12,375 --> 00:12:14,333
+[GUARD A gasps]
+
+189
+00:12:14,416 --> 00:12:16,375
+Please just go along with this.
+
+190
+00:12:16,458 --> 00:12:19,333
+If Count Ruzenan finds out
+that I didn't get you right in,
+
+191
+00:12:19,416 --> 00:12:20,916
+it'll be my neck!
+
+192
+00:12:21,000 --> 00:12:24,625
+[SPARK growls]
+Great! I knew this would happen!
+
+193
+00:12:26,958 --> 00:12:30,208
+[GUARD A]
+Announcing... Master Spark!
+
+194
+00:12:36,791 --> 00:12:39,375
+[SPARK] Knight in training
+Spark, reporting, sire.
+
+195
+00:12:39,458 --> 00:12:42,500
+I hope that you are in
+good health, Your Majesty.
+
+196
+00:12:42,583 --> 00:12:46,541
+Count Ruzenan told me about
+the banquet invitation and--
+
+197
+00:12:50,000 --> 00:12:51,166
+[SPARK]
+But where--
+
+198
+00:12:51,250 --> 00:12:53,958
+[KASHUE]
+Forgive me. I'm over here.
+
+199
+00:12:54,041 --> 00:12:56,291
+[SPARK]
+E-Excuse me, King Kashue!
+
+200
+00:12:56,375 --> 00:12:57,833
+[chuckles]
+
+201
+00:12:57,916 --> 00:13:00,375
+I didn't mean to
+startle you, Spark.
+
+202
+00:13:00,458 --> 00:13:03,541
+Come now, you don't
+have to kneel down.
+
+203
+00:13:03,625 --> 00:13:07,375
+Highness? Your Highness,
+I have a question to ask.
+
+204
+00:13:07,458 --> 00:13:09,541
+Was it truly your
+wish that I be invited
+
+205
+00:13:09,625 --> 00:13:11,125
+to this banquet tonight?
+
+206
+00:13:11,208 --> 00:13:14,375
+For if it wasn't,
+then I will not attend.
+
+207
+00:13:14,458 --> 00:13:18,083
+It most certainly is my wish
+that you attend the banquet.
+
+208
+00:13:18,166 --> 00:13:19,833
+[gasps]
+
+209
+00:13:19,916 --> 00:13:21,791
+[KASHUE] But that's not
+why I summoned you.
+
+210
+00:13:21,875 --> 00:13:24,250
+I just thought you might like
+to see an old friend of yours.
+
+211
+00:13:24,333 --> 00:13:26,125
+[SPARK]
+Huh?
+
+212
+00:13:26,208 --> 00:13:28,333
+[PARN]
+It's been a long time, Spark.
+
+213
+00:13:28,416 --> 00:13:29,916
+Have you been well?
+
+214
+00:13:35,625 --> 00:13:37,875
+The free knight! Sir Parn!
+
+215
+00:13:37,958 --> 00:13:40,250
+I can't believe
+it's been ten years.
+
+216
+00:13:40,333 --> 00:13:41,541
+You sure have grown.
+
+217
+00:13:41,625 --> 00:13:43,875
+Really, just turn your
+back for a moment,
+
+218
+00:13:43,958 --> 00:13:47,416
+and you humans get so big!
+
+219
+00:13:47,500 --> 00:13:50,125
+I thought you might enjoy
+sparring with your old idol
+
+220
+00:13:50,208 --> 00:13:52,875
+after the banquet tonight.
+
+221
+00:13:52,958 --> 00:13:54,958
+That is why I wanted to see you.
+
+222
+00:13:55,041 --> 00:13:56,583
+Is there a problem with that?
+
+223
+00:13:56,666 --> 00:13:57,416
+[SPARK gasps]
+
+224
+00:13:57,500 --> 00:13:59,250
+No sir!
+
+225
+00:13:59,333 --> 00:14:00,916
+[SPARK]
+I can't believe it!
+
+226
+00:14:01,000 --> 00:14:04,875
+King Kashue actually remembers
+the way I idolized Parn!
+
+227
+00:14:04,958 --> 00:14:07,458
+That's why he invited
+me to the banquet!
+
+228
+00:14:07,541 --> 00:14:09,166
+And I'm wasting time and energy,
+
+229
+00:14:09,250 --> 00:14:12,125
+getting all worked
+up over nothing.
+
+230
+00:14:12,208 --> 00:14:15,208
+Well, I've taken up
+enough of your time, so.
+
+231
+00:14:15,291 --> 00:14:17,666
+[SPARK gasps]
+E-Excuse me, Your Highness!
+
+232
+00:14:17,750 --> 00:14:19,791
+May I please ask a question?
+
+233
+00:14:19,875 --> 00:14:20,875
+[KASHUE]
+What is it?
+
+234
+00:14:20,958 --> 00:14:22,458
+Will you allow me
+to join the force
+
+235
+00:14:22,541 --> 00:14:24,583
+you're sending out
+to stop the Marmo?
+
+236
+00:14:24,666 --> 00:14:25,625
+[KASHUE]
+Hm?
+
+237
+00:14:25,708 --> 00:14:27,791
+[BOTH gasp]
+
+238
+00:14:27,875 --> 00:14:30,583
+[KASHUE] Is this the will
+of your tribe, Spark?
+
+239
+00:14:30,666 --> 00:14:33,416
+No, this is what I want.
+
+240
+00:14:33,500 --> 00:14:35,875
+It's not the will of the tribe.
+
+241
+00:14:35,958 --> 00:14:37,708
+[KASHUE] Then you're being
+a bit presumptuous!
+
+242
+00:14:37,791 --> 00:14:39,375
+Enough! Now leave!
+
+243
+00:14:39,458 --> 00:14:41,541
+[SPARK gasps]
+Yes, sir!
+
+244
+00:14:46,500 --> 00:14:48,833
+[KASHUE grunts]
+He wants to join the force
+
+245
+00:14:48,916 --> 00:14:51,375
+I'm sending to quell the Marmo.
+
+246
+00:14:52,833 --> 00:14:56,916
+[KASHUE] He doesn't know it, but
+that's why you're here, Parn.
+
+247
+00:14:57,000 --> 00:15:01,958
+--[music plays]
+--[CROWD chatters]
+
+248
+00:15:03,375 --> 00:15:06,291
+[SPARK] I'm not surprised
+King Kashue's angry with me.
+
+249
+00:15:06,375 --> 00:15:10,500
+What was I thinking, asking him
+a question like that?!
+
+250
+00:15:14,708 --> 00:15:16,708
+[footsteps]
+
+251
+00:15:23,916 --> 00:15:25,708
+[ALL gasp]
+
+252
+00:15:25,791 --> 00:15:28,458
+Welcome to this dreary room,
+my friends.
+
+253
+00:15:28,541 --> 00:15:31,500
+I've been waiting for you, Parn.
+
+254
+00:15:31,583 --> 00:15:33,666
+It's Slayn!
+
+255
+00:15:33,750 --> 00:15:35,791
+[DEEDLIT]
+You're looking well, Slayn!
+
+256
+00:15:35,875 --> 00:15:38,708
+Deedlit, your beauty
+hasn't changed a bit,
+
+257
+00:15:38,791 --> 00:15:40,750
+even after all this time.
+
+258
+00:15:40,833 --> 00:15:42,958
+[giggles] I know you're
+a great sorcerer,
+
+259
+00:15:43,041 --> 00:15:45,666
+but when did you
+become a flatterer?
+
+260
+00:15:47,208 --> 00:15:49,750
+I haven't seen you
+since Shooting Star.
+
+261
+00:15:49,833 --> 00:15:52,291
+I can't believe
+it's been ten years!
+
+262
+00:15:52,375 --> 00:15:54,958
+Where does the time go,
+my friend?
+
+263
+00:15:57,500 --> 00:16:00,916
+From what I can gather, you two
+have been rather busy lately,
+
+264
+00:16:01,000 --> 00:16:04,500
+raising a free army and leading
+the fight to liberate Kanon.
+
+265
+00:16:04,583 --> 00:16:06,708
+Can you free them
+from Marmo's control?
+
+266
+00:16:06,791 --> 00:16:07,708
+[PARN]
+Mm-hm!
+
+267
+00:16:07,791 --> 00:16:09,000
+I think the people
+in the villages
+
+268
+00:16:09,083 --> 00:16:10,541
+have finally had enough.
+
+269
+00:16:10,625 --> 00:16:12,750
+They really want the Marmo out.
+
+270
+00:16:12,833 --> 00:16:14,375
+One more good push and I think
+
+271
+00:16:14,458 --> 00:16:17,250
+we'll be able to
+liberate Kanon for good.
+
+272
+00:16:17,333 --> 00:16:20,458
+So I guess you're here to get
+some support from Flaim's army.
+
+273
+00:16:20,541 --> 00:16:22,291
+Am I right?
+
+274
+00:16:22,375 --> 00:16:24,416
+Why is it that you always
+pick the worst time
+
+275
+00:16:24,500 --> 00:16:25,875
+to ask for favors?
+
+276
+00:16:25,958 --> 00:16:28,000
+Duke Raster is that
+big of a problem?
+
+277
+00:16:28,083 --> 00:16:31,458
+Heh, news travels
+fast around here, no?
+
+278
+00:16:31,541 --> 00:16:34,166
+[SLAYN] As the uprisings
+in Alania continue,
+
+279
+00:16:34,250 --> 00:16:36,041
+it seems certain
+that Duke Raster
+
+280
+00:16:36,125 --> 00:16:38,458
+has formed an alliance
+with the Marmo.
+
+281
+00:16:38,541 --> 00:16:43,333
+If by any chance Alania should
+fall under control of the Marmo,
+
+282
+00:16:43,416 --> 00:16:45,666
+they would then have a
+much stronger presence
+
+283
+00:16:45,750 --> 00:16:49,833
+and a larger sphere of
+influence throughout Lodoss.
+
+284
+00:16:49,916 --> 00:16:52,333
+I see. You must attack.
+
+285
+00:16:52,416 --> 00:16:54,083
+[KASHUE]
+I have no choice.
+
+286
+00:16:54,166 --> 00:16:55,833
+Raster has ignored our warnings,
+
+287
+00:16:55,916 --> 00:16:58,916
+and now, he's formed an
+alliance with the Marmo.
+
+288
+00:16:59,000 --> 00:17:01,000
+They must be stopped.
+
+289
+00:17:01,083 --> 00:17:03,208
+A war with Alania...
+
+290
+00:17:03,291 --> 00:17:07,000
+So there is no way for you
+to split your forces now.
+
+291
+00:17:07,083 --> 00:17:10,458
+Stopping Duke Raster
+must come first.
+
+292
+00:17:10,541 --> 00:17:11,666
+But don't worry.
+
+293
+00:17:11,750 --> 00:17:14,041
+As soon as our campaign
+in Alania is over,
+
+294
+00:17:14,125 --> 00:17:16,041
+the army of Flaim
+will assist you.
+
+295
+00:17:16,125 --> 00:17:17,541
+Thank you, sir.
+
+296
+00:17:17,625 --> 00:17:18,708
+In the meantime,
+
+297
+00:17:18,791 --> 00:17:21,708
+the free army will
+hold its own in Kanon.
+
+298
+00:17:21,791 --> 00:17:23,291
+Uh, by the way, sir.
+
+299
+00:17:23,375 --> 00:17:24,333
+[KASHUE]
+Hm?
+
+300
+00:17:24,416 --> 00:17:26,083
+Are you going to
+allow that young man
+
+301
+00:17:26,166 --> 00:17:28,416
+to go with you into battle?
+
+302
+00:17:28,500 --> 00:17:31,833
+Oh, you mean Spark.
+Are you worried about him?
+
+303
+00:17:31,916 --> 00:17:34,250
+I am. He seems so hotheaded,
+
+304
+00:17:34,333 --> 00:17:37,750
+just like a certain young
+man we both used to know.
+
+305
+00:17:37,833 --> 00:17:38,916
+[laughs]
+
+306
+00:17:39,000 --> 00:17:40,500
+Well, that's okay.
+
+307
+00:17:40,583 --> 00:17:44,000
+We're not going to be taking
+our trainees with us this time.
+
+308
+00:17:44,083 --> 00:17:45,583
+Still, Your Highness,
+
+309
+00:17:45,666 --> 00:17:49,166
+I think you should give at least
+some thought to what he said.
+
+310
+00:17:49,250 --> 00:17:52,125
+You can't just keep
+him in training forever.
+
+311
+00:17:52,208 --> 00:17:54,291
+[KASHUE]
+What are you saying, Parn?
+
+312
+00:17:54,375 --> 00:17:55,875
+[PARN]
+War changes a person,
+
+313
+00:17:55,958 --> 00:17:57,958
+either for good or for bad.
+
+314
+00:17:58,041 --> 00:18:01,833
+Don't you think it's about time
+he got some real experience?
+
+315
+00:18:01,916 --> 00:18:04,083
+Perhaps you're right...
+
+316
+00:18:04,166 --> 00:18:06,166
+But Parn, I don't
+want him to become
+
+317
+00:18:06,250 --> 00:18:08,291
+a man who thinks only about war.
+
+318
+00:18:08,375 --> 00:18:10,416
+There is something
+special about that one--
+
+319
+00:18:10,500 --> 00:18:12,125
+something different.
+
+320
+00:18:12,208 --> 00:18:15,500
+I believe he is essential
+for the future of Flaim.
+
+321
+00:18:15,583 --> 00:18:17,208
+He must be.
+
+322
+00:18:18,416 --> 00:18:21,791
+[GUARD B] Hey, isn't that
+Master Spark over there?
+
+323
+00:18:21,875 --> 00:18:23,250
+Huh?
+
+324
+00:18:23,333 --> 00:18:24,625
+Did you want something from
+inside the treasure house?
+
+325
+00:18:24,708 --> 00:18:27,291
+Or have you just had
+enough of the banquet?
+
+326
+00:18:27,375 --> 00:18:30,708
+Uh, no. I just needed
+to get a little air.
+
+327
+00:18:30,791 --> 00:18:33,333
+I take it you two got
+stuck pulling guard duty.
+
+328
+00:18:33,416 --> 00:18:35,083
+Aren't we the lucky ones?
+
+329
+00:18:35,166 --> 00:18:36,500
+We sure are!
+
+330
+00:18:36,583 --> 00:18:39,666
+But if a little wine came
+our way, I wouldn't mind.
+
+331
+00:18:39,750 --> 00:18:41,208
+You may make light of this,
+
+332
+00:18:41,291 --> 00:18:44,291
+but you'll be sorry there's
+trouble and you're unprepared!
+
+333
+00:18:44,375 --> 00:18:47,041
+[GUARD B] What's to worry?
+We're perfectly safe.
+
+334
+00:18:47,125 --> 00:18:49,833
+I heard that Master Slayn
+put a protection spell
+
+335
+00:18:49,916 --> 00:18:52,041
+on the treasure house.
+
+336
+00:18:52,125 --> 00:18:53,375
+So don't worry about us.
+
+337
+00:18:53,458 --> 00:18:56,375
+Just go back and enjoy
+the banquet, Master Spark.
+
+338
+00:18:56,458 --> 00:18:58,666
+[SPARK]
+Right.
+
+339
+00:18:58,750 --> 00:19:01,125
+Hey, thanks.
+I'm going back inside.
+
+340
+00:19:01,208 --> 00:19:03,083
+Have a good night.
+
+341
+00:19:08,750 --> 00:19:12,291
+Have some fun for us, too, okay?
+
+342
+00:19:12,375 --> 00:19:15,166
+[GUARD B screams, groans]
+
+343
+00:19:15,250 --> 00:19:17,333
+[SPARK]
+H-Hey!
+
+344
+00:19:17,416 --> 00:19:18,500
+What happened?!
+
+345
+00:19:18,583 --> 00:19:22,875
+[groans]
+
+346
+00:19:22,958 --> 00:19:24,125
+[SPARK]
+Huh?
+
+347
+00:19:31,375 --> 00:19:34,041
+A Dark Elf! Marmo!
+
+348
+00:19:36,000 --> 00:19:38,708
+[SPARK] What are the Marmo
+doing inside the castle?!
+
+349
+00:19:54,000 --> 00:19:54,583
+[SPARK]
+Welcome...
+
+350
+00:19:54,666 --> 00:19:55,708
+...to Lodoss Island!
+
+351
+00:19:55,791 --> 00:19:57,291
+What you've all
+been waiting for...
+
+352
+00:19:57,375 --> 00:19:59,375
+[BOTH]
+...the second part!
+
+353
+00:20:02,250 --> 00:20:03,625
+[giggles]
+
+354
+00:20:05,458 --> 00:20:06,458
+[PARN]
+Hi!
+
+355
+00:20:06,541 --> 00:20:07,791
+It's Parn!
+
+356
+00:20:07,875 --> 00:20:08,666
+Spark!
+
+357
+00:20:08,750 --> 00:20:11,250
+[laughs]
+
+358
+00:20:11,333 --> 00:20:12,708
+You've gotten really big!
+
+359
+00:20:12,791 --> 00:20:15,125
+But you're not
+a knight, not yet!
+
+360
+00:20:15,208 --> 00:20:18,083
+But it's not a big deal, is it?
+
+361
+00:20:18,166 --> 00:20:21,208
+You'll get your title next year!
+
+362
+00:20:21,291 --> 00:20:24,083
+He's right! You'll get it
+next year, you'll see!
+
+363
+00:20:24,166 --> 00:20:28,500
+Even this big guy took years
+until he became a true knight!
+
+364
+00:20:28,583 --> 00:20:32,041
+Yeah, but how many years
+will I have to wait?
+
+365
+00:20:32,125 --> 00:20:34,458
+I wanna be one right now!
+
+366
+00:20:36,125 --> 00:20:37,750
+I wanna be a knight!
+I wanna, I wanna...!
+
+367
+00:20:37,833 --> 00:20:39,458
+You think you could be one?!
+
+368
+00:20:39,541 --> 00:20:41,083
+[SPARK]
+Yeah...
+
+369
+00:20:41,166 --> 00:20:41,916
+Huh?
+
+370
+00:20:42,000 --> 00:20:43,583
+You're just a child, Spark.
+
+371
+00:20:43,666 --> 00:20:47,416
+[SPARK] But I'm not that young.
+Please, give me one more chance.
+
+372
+00:20:47,500 --> 00:20:50,458
+I'm sorry, but I will
+not change my mind.
+
+373
+00:20:50,541 --> 00:20:51,916
+Aw, come on, Your Highness,
+
+374
+00:20:52,000 --> 00:20:54,458
+don't you remember
+how happy I make you?
+
+375
+00:20:54,541 --> 00:20:54,916
+Now!
+
+376
+00:20:55,000 --> 00:20:56,708
+[cheers]
+
+377
+00:20:57,916 --> 00:20:58,750
+[PARN]
+Huh?
+
+378
+00:20:58,833 --> 00:21:00,291
+[KASHUE]
+Persuasive, isn't he?
+
+379
+00:21:00,375 --> 00:21:02,291
+Very well. When you
+put it that way,
+
+380
+00:21:02,375 --> 00:21:04,083
+I have no choice.
+
+381
+00:21:04,166 --> 00:21:05,541
+[SPARK]
+It worked!
+
+382
+00:21:05,625 --> 00:21:08,333
+Now, you must be prepared to
+complete all of my tasks.
+
+383
+00:21:08,416 --> 00:21:10,583
+I am. I'm ready for anything.
+
+384
+00:21:10,666 --> 00:21:11,791
+Very well!
+
+385
+00:21:11,875 --> 00:21:14,958
+Now, my dear, sweet,
+darling daughter Neese
+
+386
+00:21:15,041 --> 00:21:17,416
+has baked some cookies.
+
+387
+00:21:17,500 --> 00:21:19,333
+Will you come with me
+to Big Dragon Mountain
+
+388
+00:21:19,416 --> 00:21:21,291
+so I can give these
+to the Mama Dragon?
+
+389
+00:21:21,375 --> 00:21:22,250
+[grunts]
+
+390
+00:21:22,333 --> 00:21:23,666
+[SPARK gasps]
+
+391
+00:21:23,750 --> 00:21:24,833
+[NEESE]
+Let's go, Spark!
+
+392
+00:21:24,916 --> 00:21:27,250
+Eh? Cookies?!
+
+393
+00:21:27,333 --> 00:21:30,166
+[KASHUE] He can't even handle
+a simple little assignment.
+
+394
+00:21:30,250 --> 00:21:33,791
+Oh, Spark, how you
+disappoint me...
+
+395
+00:21:33,875 --> 00:21:37,833
+If you pass this test, I know
+you'll become a great knight!
+
+396
+00:21:37,916 --> 00:21:40,166
+[GROUP]
+Yeah, as if!
+
+397
+00:21:40,250 --> 00:21:43,208
+Making him the baby sitter
+was a perfect idea!
+
+398
+00:21:43,291 --> 00:21:45,041
+[laughs]
+
+399
+00:21:45,125 --> 00:21:48,583
+[cries]
+
+400
+00:21:48,666 --> 00:21:50,708
+[ALL]
+We'll be seeing you!
+
+401
+00:23:09,375 --> 00:23:12,583
+[SPARK] Standing before me
+is a menacing Dark Elf!
+
+402
+00:23:12,666 --> 00:23:16,333
+If I defeat him, the king will
+have to accept me as a knight.
+
+403
+00:23:16,416 --> 00:23:18,750
+As I face him alone,
+his black daggers
+
+404
+00:23:18,833 --> 00:23:21,875
+thrust toward my racing heart!
+
+405
+00:23:21,958 --> 00:23:24,666
+Next time,
+on Record of Lodoss War:
+
+406
+00:23:24,750 --> 00:23:26,666
+Chronicles of the Heroic Knight:
+
+407
+00:23:26,750 --> 00:23:29,458
+"Recovery...
+A Mission Assigned."
+

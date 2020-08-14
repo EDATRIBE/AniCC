@@ -1,0 +1,1823 @@
+﻿1
+00:01:50,583 --> 00:01:54,250
+[DAN] The comet
+Crommelin, 27P...
+
+2
+00:01:54,333 --> 00:01:58,833
+First observed by astronomers in
+the early nineteenth century...
+
+3
+00:01:58,916 --> 00:02:01,333
+It cuts a wide elliptical orbit,
+
+4
+00:02:01,416 --> 00:02:04,791
+around the sun and deep
+into our solar system...
+
+5
+00:02:04,875 --> 00:02:09,000
+A twenty-eight year revolution
+through the cosmos.
+
+6
+00:02:09,083 --> 00:02:11,375
+Its infinite journey last
+brought it past Earth
+
+7
+00:02:11,458 --> 00:02:14,250
+in Two Thousand Sixty-Eight...
+
+8
+00:02:14,333 --> 00:02:17,875
+And it won't pass again for
+another twenty eight years.
+
+9
+00:02:20,166 --> 00:02:24,625
+An insignificant blink of time
+in the span of its existence...
+
+10
+00:02:24,708 --> 00:02:26,916
+But I doubt my aging eyes
+will open wide enough
+
+11
+00:02:27,000 --> 00:02:28,916
+to see it again.
+
+12
+00:04:02,541 --> 00:04:04,750
+[COMPUTER] Loading
+the firing charge...
+
+13
+00:04:04,833 --> 00:04:05,833
+Firing.
+
+14
+00:04:05,916 --> 00:04:07,375
+Transport container...
+
+15
+00:04:07,458 --> 00:04:09,708
+B-Three-Seven-One...
+
+16
+00:04:09,791 --> 00:04:11,666
+on standby...
+
+17
+00:04:11,750 --> 00:04:15,541
+Loading of firing
+charge complete.
+
+18
+00:04:15,625 --> 00:04:18,375
+[RICK] Midnight Bazooka calling
+Moon Base Seven Five Five...
+
+19
+00:04:18,458 --> 00:04:19,583
+Come in, Moon Base.
+
+20
+00:04:19,666 --> 00:04:21,166
+[MOON BASE] Go ahead,
+Midnight Bazooka.
+
+21
+00:04:21,250 --> 00:04:23,666
+[RICK] Container
+B-Three-Seven-One comin' at ya'.
+
+22
+00:04:23,750 --> 00:04:24,916
+[MOON BASE] Roger that.
+
+23
+00:04:25,000 --> 00:04:26,166
+[COMPUTER] Seven...
+
+24
+00:04:26,250 --> 00:04:29,166
+Loading, of firing
+charge, complete.
+
+25
+00:04:29,250 --> 00:04:33,083
+Three... Two... One...
+
+26
+00:04:33,166 --> 00:04:34,541
+Fire.
+
+27
+00:05:00,750 --> 00:05:02,791
+[COMPUTER]
+Launch successful...
+
+28
+00:05:02,875 --> 00:05:04,750
+Ventilate firing chamber...
+
+29
+00:05:04,833 --> 00:05:08,583
+Container B-Three-Seven-One
+in flight
+
+30
+00:05:08,666 --> 00:05:12,583
+and headed for moon orbit.
+
+31
+00:05:12,666 --> 00:05:14,666
+Course is normal.
+
+32
+00:05:14,750 --> 00:05:16,125
+[RICK sighs]
+
+33
+00:05:16,208 --> 00:05:18,041
+An' there she goes,
+off to the moon.
+
+34
+00:05:18,125 --> 00:05:19,333
+[DAN] Rick.
+
+35
+00:05:19,416 --> 00:05:20,875
+Make sure you send
+them confirmation
+
+36
+00:05:20,958 --> 00:05:22,708
+that the launch was successful.
+
+37
+00:05:22,791 --> 00:05:24,041
+[RICK] I'm on it...
+
+38
+00:05:24,125 --> 00:05:26,916
+Come in, Moon Base...
+This is Midnight Bazooka.
+
+39
+00:05:27,000 --> 00:05:28,916
+Well that's
+the last of 'em.
+
+40
+00:05:29,000 --> 00:05:30,166
+[MARK] Chief...?
+
+41
+00:05:30,250 --> 00:05:32,375
+Didn't they call in a
+rush job this morning?
+
+42
+00:05:32,458 --> 00:05:33,541
+Oh, yeah.
+
+43
+00:05:33,625 --> 00:05:35,583
+[MARK] Should be
+showin' up anytime now.
+
+44
+00:05:35,666 --> 00:05:37,750
+Right. Go ahead and
+prep the catapult
+
+45
+00:05:37,833 --> 00:05:39,625
+and we'll fire it off
+as soon as it gets here.
+
+46
+00:05:39,708 --> 00:05:41,000
+[RICK] You got it, boss.
+
+47
+00:05:41,083 --> 00:05:44,583
+Oh, man... I am ready
+for some R&amp;R tomorrow!
+
+48
+00:05:44,666 --> 00:05:45,125
+[MARK chuckles]
+
+49
+00:05:45,208 --> 00:05:46,416
+[DAN chuckles]
+
+50
+00:05:46,500 --> 00:05:48,125
+[CREWMAN 2] Hey, chief.
+
+51
+00:05:48,208 --> 00:05:51,166
+We've got an urgent docking
+request from Earth base.
+
+52
+00:05:51,250 --> 00:05:52,541
+That's kinda' weird.
+
+53
+00:05:52,625 --> 00:05:54,041
+What ship is it?
+
+54
+00:05:54,125 --> 00:05:57,250
+[CREWMAN 2] Ship code Zero
+Seven Eight Nine Six Two E-K...
+
+55
+00:05:57,333 --> 00:05:58,791
+The Flying Dutchman.
+
+56
+00:05:58,875 --> 00:06:02,333
+They need to stop for repairs
+before atmospheric reentry.
+
+57
+00:06:02,416 --> 00:06:04,916
+[RICK] The Flying Dutchman?
+Never heard of it.
+
+58
+00:06:05,000 --> 00:06:06,833
+[MARK] It's practically
+a ghost ship...
+
+59
+00:06:06,916 --> 00:06:09,666
+Resurfaces once
+every fifteen years.
+
+60
+00:06:09,750 --> 00:06:11,333
+[RICK] Oh...
+
+61
+00:06:11,416 --> 00:06:15,333
+Man, so they were all the way
+out in Alpha Centauri, huh?
+
+62
+00:06:15,416 --> 00:06:18,500
+You think the proton mining
+worked out this time?
+
+63
+00:06:18,583 --> 00:06:19,916
+Man, if it did,
+that would be like
+
+64
+00:06:20,000 --> 00:06:22,458
+the biggest news to
+hit Earth in a century!
+
+65
+00:06:22,541 --> 00:06:24,125
+[RICK] They'd deserve one
+hell of a homecoming...
+
+66
+00:06:24,208 --> 00:06:26,041
+That's for sure.
+
+67
+00:06:30,666 --> 00:06:32,166
+Chief?
+
+68
+00:06:32,250 --> 00:06:33,375
+Yeah...
+
+69
+00:06:33,458 --> 00:06:36,958
+You should go ahead and
+start preping a dock.
+
+70
+00:06:37,041 --> 00:06:38,916
+A ship like that's
+gotta be ancient...
+
+71
+00:06:39,000 --> 00:06:41,333
+You sure we got all
+the parts on hand?
+
+72
+00:06:41,416 --> 00:06:43,625
+We should be fine, but
+maybe we shoulda stocked up
+
+73
+00:06:43,708 --> 00:06:46,083
+on older parts after working
+on that French shuttle, huh?
+
+74
+00:06:46,166 --> 00:06:48,166
+Heh. Yeah, no kiddin'.
+
+75
+00:06:50,541 --> 00:06:53,208
+[DAN sighs]
+
+76
+00:09:52,666 --> 00:09:54,250
+Go ahead and get
+started on replacing
+
+77
+00:09:54,333 --> 00:09:55,583
+that main nozzle for me, Willie.
+
+78
+00:09:55,666 --> 00:09:57,083
+You got it, boss.
+
+79
+00:09:57,166 --> 00:09:58,958
+[HAYES] I can't believe we're
+stuck this close to Earth.
+
+80
+00:09:59,041 --> 00:10:01,375
+Aw, quit bitchin'.
+It's a direct order from HQ.
+
+81
+00:10:01,458 --> 00:10:03,791
+[MARIA] And they're right about
+the condition of the ship.
+
+82
+00:10:03,875 --> 00:10:04,958
+You in such a big hurry
+
+83
+00:10:05,041 --> 00:10:07,291
+you'd risk burning up
+in the atmosphere?
+
+84
+00:10:07,375 --> 00:10:10,250
+I'll get started on
+the fuel injector.
+
+85
+00:10:10,333 --> 00:10:11,875
+[MARIA gasps]
+
+86
+00:10:26,041 --> 00:10:29,375
+So their cargo bay is loaded
+with liquid proton, right?
+
+87
+00:10:29,458 --> 00:10:31,875
+That's level five
+classification, so...
+
+88
+00:10:31,958 --> 00:10:33,583
+how the hell would I know?
+
+89
+00:10:33,666 --> 00:10:35,166
+[RICK] Hm.
+
+90
+00:10:35,250 --> 00:10:37,250
+Although, considering that
+they were ordered to stop
+
+91
+00:10:37,333 --> 00:10:39,708
+for these repairs
+before reentry...
+
+92
+00:10:39,791 --> 00:10:41,416
+it's a pretty safe bet.
+
+93
+00:10:41,500 --> 00:10:44,625
+Man, that crew's gonna be
+famous once they get back.
+
+94
+00:10:44,708 --> 00:10:47,000
+Too bad their captain's the only
+one who's got the looks for it.
+
+95
+00:10:47,083 --> 00:10:48,583
+[RICK laughs]
+
+96
+00:11:08,458 --> 00:11:09,666
+[MARIA] This is Horn,
+
+97
+00:11:09,750 --> 00:11:12,500
+the second planet of
+the Alpha Centauri system.
+
+98
+00:11:12,583 --> 00:11:15,708
+It may look like a barren
+wasteland, but it's far from it.
+
+99
+00:11:15,791 --> 00:11:18,416
+We dropped a subterranean
+droid in 2020
+
+100
+00:11:18,500 --> 00:11:22,000
+and realized it's
+a treasure trove.
+
+101
+00:11:22,083 --> 00:11:24,583
+Anyway, we put the
+drilling robots to work
+
+102
+00:11:24,666 --> 00:11:27,333
+on our first voyage...
+and we actually didn't finish
+
+103
+00:11:27,416 --> 00:11:29,583
+building the mining plant
+until the second trip.
+
+104
+00:11:29,666 --> 00:11:32,208
+So this last trip was the
+first time we were able to
+
+105
+00:11:32,291 --> 00:11:34,250
+finally reap the
+rewards of our labor.
+
+106
+00:11:34,333 --> 00:11:36,833
+I thought so...
+
+107
+00:11:36,916 --> 00:11:38,541
+Nine tons...
+
+108
+00:11:38,625 --> 00:11:40,583
+That much proton would
+provide the earth
+
+109
+00:11:40,666 --> 00:11:43,458
+with enough power to
+last ten years at least.
+
+110
+00:11:43,541 --> 00:11:45,583
+And it's only
+the beginning.
+
+111
+00:11:45,666 --> 00:11:48,916
+Cheers...
+To our reunion.
+
+112
+00:11:49,000 --> 00:11:51,333
+To your success...
+
+113
+00:11:51,416 --> 00:11:54,416
+You gave up your life
+to pursue this expedition.
+
+114
+00:11:54,500 --> 00:11:57,291
+It's good to see
+that it's paying off.
+
+115
+00:12:03,000 --> 00:12:04,833
+[MARIA sighs]
+
+116
+00:12:06,416 --> 00:12:08,916
+Fifteen years...
+
+117
+00:12:09,000 --> 00:12:11,291
+I'm actually surprised
+to see you here.
+
+118
+00:12:11,375 --> 00:12:13,958
+I didn't think this kind
+of life appealed to you.
+
+119
+00:12:14,041 --> 00:12:19,291
+I feel more at home in space
+than I do on Earth these days...
+
+120
+00:12:19,375 --> 00:12:22,333
+So that's the mining
+plant on Horn, is it?
+
+121
+00:12:22,416 --> 00:12:24,333
+[MARIA] That's right.
+
+122
+00:12:25,416 --> 00:12:28,291
+How's Tokio doing?
+
+123
+00:12:28,375 --> 00:12:31,541
+I bet he turned out
+even taller than you.
+
+124
+00:12:33,291 --> 00:12:35,125
+Tokio passed away.
+
+125
+00:12:35,208 --> 00:12:37,166
+[MARIA gasps]
+
+126
+00:12:42,125 --> 00:12:44,958
+[DAN] He chose to
+become a soldier.
+
+127
+00:12:45,041 --> 00:12:48,875
+He was killed five years
+ago in the African War.
+
+128
+00:13:04,416 --> 00:13:07,583
+[DAN] Don't even start.
+
+129
+00:13:07,666 --> 00:13:10,375
+It's too late for you
+to act like you care.
+
+130
+00:13:10,458 --> 00:13:12,583
+You made a decision
+a long time ago...
+
+131
+00:13:12,666 --> 00:13:17,041
+and you chose space over
+a life with me and my son.
+
+132
+00:13:17,125 --> 00:13:20,208
+My wife also died last year.
+
+133
+00:13:20,291 --> 00:13:23,208
+So once again the
+only person I've got...
+
+134
+00:13:23,291 --> 00:13:26,041
+...is myself.
+
+135
+00:13:26,125 --> 00:13:29,625
+And now you're officially
+caught up on my life.
+
+136
+00:13:29,708 --> 00:13:31,250
+[MARIA] Dan.
+
+137
+00:13:33,458 --> 00:13:36,750
+Do you still hate me
+for leaving you?
+
+138
+00:13:40,333 --> 00:13:44,083
+I guess I'm a cruel
+woman... Aren't I?
+
+139
+00:13:46,916 --> 00:13:48,208
+[beeping]
+
+140
+00:13:48,291 --> 00:13:49,750
+[MARK] Chief...
+
+141
+00:13:49,833 --> 00:13:51,958
+The shuttle delivering that
+last-minute job is on approach.
+
+142
+00:13:52,041 --> 00:13:54,250
+We need you in the control room.
+
+143
+00:13:58,250 --> 00:14:00,458
+[DAN] Roger that.
+I'm heading up.
+
+144
+00:14:05,166 --> 00:14:07,791
+[DAN] It's life that's
+cruel, not you.
+
+145
+00:14:11,375 --> 00:14:13,791
+But if you want to feel
+responsible for my troubles,
+
+146
+00:14:13,875 --> 00:14:18,208
+then go ahead... I guess
+you still have that right.
+
+147
+00:15:05,291 --> 00:15:08,000
+[COMPUTER]
+Shuttle is approaching.
+
+148
+00:15:27,375 --> 00:15:28,625
+[RICK] Loading dock open...
+
+149
+00:15:28,708 --> 00:15:31,791
+Prepare to receive
+container B-Four-Oh-Four.
+
+150
+00:15:31,875 --> 00:15:34,041
+[COMPUTER] Systems, normal.
+
+151
+00:15:34,125 --> 00:15:36,041
+Loading, normal.
+
+152
+00:15:36,125 --> 00:15:38,625
+[RICK] Auto-control's set
+on the cargo loading arms.
+
+153
+00:15:38,708 --> 00:15:42,541
+[COMPUTER] Retrieving,
+container, B-Four-Oh-Four.
+
+154
+00:15:42,625 --> 00:15:44,875
+Stand by.
+
+155
+00:16:34,625 --> 00:16:36,166
+Quit wasting
+your breath.
+
+156
+00:16:36,250 --> 00:16:38,875
+My mind is already made up.
+
+157
+00:16:40,458 --> 00:16:42,750
+You're sure about this?
+
+158
+00:16:42,833 --> 00:16:44,333
+[TOKIO] Mm.
+
+159
+00:16:52,791 --> 00:16:54,500
+[MARK] Chief.
+
+160
+00:16:57,541 --> 00:16:58,583
+[MARK] Chief?
+
+161
+00:16:58,666 --> 00:17:00,250
+[DAN] Hm?
+
+162
+00:17:00,333 --> 00:17:01,375
+Looks like We got that cargo
+
+163
+00:17:01,458 --> 00:17:03,708
+successfully secured
+in the dock.
+
+164
+00:17:05,000 --> 00:17:06,375
+Good...
+
+165
+00:17:06,458 --> 00:17:09,333
+Call in the load report to
+ground control, got that?
+
+166
+00:17:09,416 --> 00:17:11,333
+[RICK] Yes, sir.
+
+167
+00:17:11,416 --> 00:17:14,416
+[DAN] Mark, take watch
+over the bridge.
+
+168
+00:17:14,500 --> 00:17:16,125
+I'll be in my cabin.
+
+169
+00:17:17,333 --> 00:17:19,291
+Sure thing, chief.
+
+170
+00:18:03,250 --> 00:18:04,416
+[MARIA sighs]
+
+171
+00:18:04,500 --> 00:18:06,291
+[MARIA] What the hell
+are you doing in here?
+
+172
+00:18:06,375 --> 00:18:09,083
+[WILLIE laughs]
+
+173
+00:18:09,166 --> 00:18:10,916
+It's my turn tonight, y'know...
+
+174
+00:18:11,000 --> 00:18:12,875
+Don't tell me that you forgot.
+
+175
+00:18:12,958 --> 00:18:15,791
+[WILLIE laughs]
+
+176
+00:18:18,500 --> 00:18:20,166
+[WILLIE] Ooh!
+
+177
+00:18:20,250 --> 00:18:22,291
+Hey!
+
+178
+00:18:22,375 --> 00:18:23,208
+Hey now...
+
+179
+00:18:23,291 --> 00:18:24,375
+--[MARIA] Go!
+--Put that down.
+
+180
+00:18:24,458 --> 00:18:25,583
+[MARIA]
+Get out of here!
+
+181
+00:18:25,666 --> 00:18:27,916
+Didn't I tell you to
+replace the main nozzle?
+
+182
+00:18:28,000 --> 00:18:30,208
+[WILLIE scoffs and laughs]
+
+183
+00:18:30,291 --> 00:18:31,625
+[WILLIE] Why do you
+think I'm here?
+
+184
+00:18:31,708 --> 00:18:34,250
+Just shut up...
+I don't feel like it tonight!
+
+185
+00:18:34,333 --> 00:18:36,583
+Aww, why not? Usually--
+
+186
+00:18:36,666 --> 00:18:38,666
+I'm just not in
+the mood tonight!
+
+187
+00:18:38,750 --> 00:18:40,750
+Not here, okay?
+
+188
+00:18:46,791 --> 00:18:48,458
+[door opens]
+
+189
+00:18:48,541 --> 00:18:50,208
+[WILLIE grunts]
+
+190
+00:18:50,291 --> 00:18:51,541
+[thud]
+
+191
+00:18:51,625 --> 00:18:54,875
+[WILLIE groans]
+
+192
+00:18:54,958 --> 00:18:56,166
+[MARIA gasps]
+
+193
+00:18:58,375 --> 00:18:59,375
+[WILLIE sighs]
+
+194
+00:18:59,458 --> 00:19:02,166
+Geez... What the hell's
+gotten into her?
+
+195
+00:19:07,541 --> 00:19:10,500
+Hey! Wait a second.
+
+196
+00:19:10,583 --> 00:19:12,041
+[WILLIE laughs]
+
+197
+00:19:12,125 --> 00:19:15,875
+Didn't the captain stop by your
+quarters a little while ago?
+
+198
+00:19:15,958 --> 00:19:19,416
+I think I figured out what's
+gotten into her after all...
+
+199
+00:19:19,500 --> 00:19:21,291
+Well?
+
+200
+00:19:24,125 --> 00:19:26,250
+It's nothing to
+be ashamed of...
+
+201
+00:19:26,333 --> 00:19:29,541
+We all get a little lonesome
+in space sometimes...
+
+202
+00:19:29,625 --> 00:19:32,833
+So it only makes sense that us
+little cowboys and cowgirls...
+
+203
+00:19:32,916 --> 00:19:34,666
+...trade mounts.
+
+204
+00:19:36,625 --> 00:19:38,125
+[WILLIE groans]
+
+205
+00:20:14,416 --> 00:20:16,833
+[approaching footsteps]
+
+206
+00:20:30,958 --> 00:20:32,041
+[WILLIE grunts]
+
+207
+00:20:32,125 --> 00:20:33,833
+[WILLIE] Come on,
+Hayes, get a move on.
+
+208
+00:20:33,916 --> 00:20:36,958
+I don't want any more shit
+from the captain today.
+
+209
+00:20:41,916 --> 00:20:44,500
+Don't just stand there, moron.
+
+210
+00:20:50,583 --> 00:20:53,000
+[COMPUTER] Loading
+of firing charge...
+
+211
+00:20:53,083 --> 00:20:54,833
+One hundred percent...
+
+212
+00:20:54,916 --> 00:20:57,583
+Almost done, and then
+we get that sweet day off.
+
+213
+00:20:57,666 --> 00:20:59,125
+Yeah...
+
+214
+00:20:59,208 --> 00:21:01,000
+I was startin' to get kinda
+worried we were gonna lose it.
+
+215
+00:21:01,083 --> 00:21:02,791
+[SPACE TERRORIST LEADER]
+Don't move!
+
+216
+00:21:08,250 --> 00:21:12,166
+[SPACE TERRORIST LEADER] Stay
+calm and do exactly as I say.
+
+217
+00:21:14,458 --> 00:21:16,333
+Now...
+
+218
+00:21:16,416 --> 00:21:19,541
+...tell me where
+your captain is.
+
+219
+00:21:43,416 --> 00:21:44,333
+[SPACE TERRORIST LEADER]
+Two through Five,
+
+220
+00:21:44,416 --> 00:21:46,166
+search the private quarters.
+
+221
+00:21:46,250 --> 00:21:49,958
+Kill anyone who tries
+to get in your way.
+
+222
+00:21:50,041 --> 00:21:52,416
+[MARK] None of
+our men are armed.
+
+223
+00:21:55,375 --> 00:21:56,791
+What could you hope to get
+
+224
+00:21:56,875 --> 00:22:00,708
+out of taking over a cargo
+station, huh? What do you want?
+
+225
+00:22:00,791 --> 00:22:02,916
+[laughs]
+
+226
+00:22:06,583 --> 00:22:10,750
+[rapid knocking at door]
+
+227
+00:22:10,833 --> 00:22:13,583
+[MARIA] Jesus Christ!
+For the last time, no!
+
+228
+00:22:13,666 --> 00:22:14,666
+[MARIA gasps]
+
+229
+00:22:15,750 --> 00:22:17,416
+[typing]
+
+230
+00:22:17,500 --> 00:22:20,416
+What's wrong?
+What's going on?
+
+231
+00:22:21,708 --> 00:22:24,666
+[MARK] What...?!
+Are you completely nuts?!
+
+232
+00:22:24,750 --> 00:22:27,125
+[MARK] You want to load a ton
+of proton into a container
+
+233
+00:22:27,208 --> 00:22:29,875
+and fire it at the moon base?
+
+234
+00:22:35,958 --> 00:22:37,250
+[MARK] This is insane!
+
+235
+00:22:37,333 --> 00:22:40,208
+Do you even realize what'll
+happen if you do that?
+
+236
+00:22:42,708 --> 00:22:44,958
+So much for savin'
+the world, huh?
+
+237
+00:22:45,041 --> 00:22:46,541
+Listen to me.
+
+238
+00:22:46,625 --> 00:22:49,291
+There's more than three hundred
+thousand people on that base...
+
+239
+00:22:49,375 --> 00:22:51,125
+Are you trying to kill them all?
+
+240
+00:22:51,208 --> 00:22:52,708
+[SPACE TERRORIST LEADER] That's
+not even close to the lives
+
+241
+00:22:52,791 --> 00:22:57,375
+we lose from hunger
+everyday on my continent.
+
+242
+00:22:57,458 --> 00:23:00,041
+And despite how many
+are starving on Earth,
+
+243
+00:23:00,125 --> 00:23:05,375
+you send an endless barrage
+of supplies to the moon.
+
+244
+00:23:05,458 --> 00:23:08,541
+We lost the African War
+five years ago...
+
+245
+00:23:08,625 --> 00:23:11,583
+But the real fight
+has just begun.
+
+246
+00:23:11,666 --> 00:23:14,291
+We plan on winning this time.
+
+247
+00:23:14,375 --> 00:23:18,333
+So you can consider this
+our declaration of war.
+
+248
+00:23:20,000 --> 00:23:22,916
+The remaining proton will
+return with us, of course...
+
+249
+00:23:23,000 --> 00:23:25,666
+It has infinite potential
+for military use.
+
+250
+00:23:25,750 --> 00:23:27,166
+[MARIA] No way in hell...!
+
+251
+00:23:27,250 --> 00:23:30,458
+Those bastards aren't gonna
+use my life's work for this!
+
+252
+00:23:30,541 --> 00:23:32,166
+We can try to
+alert the moon base
+
+253
+00:23:32,250 --> 00:23:34,000
+to arm their
+missile system.
+
+254
+00:23:34,083 --> 00:23:35,791
+But even if they
+can intercept it
+
+255
+00:23:35,875 --> 00:23:38,041
+from six thousand miles away...
+
+256
+00:23:38,125 --> 00:23:39,875
+It's likely the blast
+from the proton
+
+257
+00:23:39,958 --> 00:23:43,083
+will completely
+decimate the base.
+
+258
+00:23:43,166 --> 00:23:45,625
+[rapid knocking at door]
+
+259
+00:23:45,708 --> 00:23:48,083
+[SPACE TERRORIST 8]
+Open up! Open the door!
+
+260
+00:23:48,166 --> 00:23:52,666
+[knocking continues]
+
+261
+00:23:52,750 --> 00:23:55,583
+[SPACE TERRORIST 8] 
+Open it! Now, dammit!
+
+262
+00:23:58,833 --> 00:23:59,833
+[MARIA] Dan...
+
+263
+00:23:59,916 --> 00:24:01,083
+Grab the emergency suits!
+
+264
+00:24:01,166 --> 00:24:02,250
+[DAN] Mm.
+
+265
+00:24:04,875 --> 00:24:06,166
+[SPACE TERRORIST 8] Open up!
+
+266
+00:24:06,250 --> 00:24:09,000
+[SPACE TERRORIST 9]
+Stand back. I'll burn it open.
+
+267
+00:24:25,500 --> 00:24:26,833
+[alarm sounds]
+
+268
+00:24:26,916 --> 00:24:28,208
+[SPACE TERRORIST 8]
+Wait! Stop...!
+
+269
+00:24:28,291 --> 00:24:30,541
+That's the pressure warning!
+
+270
+00:24:33,750 --> 00:24:34,875
+[SPACE TERRORIST 8] Oh, shit!
+
+271
+00:24:34,958 --> 00:24:36,541
+[SPACE TERRORISTS yell]
+
+272
+00:24:39,708 --> 00:24:41,666
+[distant explosion]
+
+273
+00:24:41,750 --> 00:24:43,875
+[SPACE TERRORIST LEADER]
+What the hell was that?
+
+274
+00:24:53,125 --> 00:24:54,875
+[SPACE TERRORIST LEADER]
+Number Eight, Number Nine...
+
+275
+00:24:54,958 --> 00:24:58,375
+Report back. Do you copy?!
+
+276
+00:25:00,916 --> 00:25:01,958
+Dammit.
+
+277
+00:25:02,041 --> 00:25:04,333
+Don't let them
+out of your sight.
+
+278
+00:25:13,083 --> 00:25:14,750
+[gunshots]
+
+279
+00:25:21,125 --> 00:25:22,750
+You're okay!
+
+280
+00:25:32,541 --> 00:25:33,583
+[SPACE TERRORIST LEADER]
+Number Eleven...!
+
+281
+00:25:33,666 --> 00:25:35,875
+Take your team to the dock!
+
+282
+00:25:37,375 --> 00:25:38,541
+[MARIA] What's wrong with you?!
+
+283
+00:25:38,625 --> 00:25:41,083
+Did you just completely
+remove the main nozzle?!
+
+284
+00:25:41,166 --> 00:25:43,291
+Yeah and I was just
+about to replace it...
+
+285
+00:25:43,375 --> 00:25:46,500
+...but I took an
+unexpected nap instead.
+
+286
+00:25:49,166 --> 00:25:50,666
+[MARIA] Dammit, Willie...
+
+287
+00:25:50,750 --> 00:25:52,500
+The ship's boosters
+are paralyzed
+
+288
+00:25:52,583 --> 00:25:54,000
+without the main nozzle.
+
+289
+00:25:54,083 --> 00:25:56,375
+Which means it's the four
+of us against them
+
+290
+00:25:56,458 --> 00:25:57,958
+and the only weapons we have
+
+291
+00:25:58,041 --> 00:26:01,625
+are the two lasers we got off
+those guys and my hand laser.
+
+292
+00:26:03,916 --> 00:26:05,833
+Try pointing the deep
+space antenna array
+
+293
+00:26:05,916 --> 00:26:07,083
+at the loading dock.
+
+294
+00:26:07,166 --> 00:26:08,666
+What for?
+
+295
+00:26:08,750 --> 00:26:13,375
+So we'll hit them with a burst
+of electromagnetic radiation...
+
+296
+00:26:13,458 --> 00:26:15,458
+Releasing locks!
+
+297
+00:26:29,625 --> 00:26:32,041
+Fire it up, Willie! Now!
+
+298
+00:26:43,625 --> 00:26:49,000
+[SPACE TERRORISTS scream]
+
+299
+00:26:51,250 --> 00:26:53,250
+Hah! Woohoo!
+
+300
+00:26:53,333 --> 00:26:56,541
+Fried 'em up like a
+mouse in a microwave!
+
+301
+00:27:07,833 --> 00:27:09,791
+[SPACE TERRORIST LEADER]
+That's as far as you get.
+
+302
+00:27:15,208 --> 00:27:16,166
+[SPACE TERRORIST LEADER] Now...
+
+303
+00:27:16,250 --> 00:27:18,125
+Before you make
+another stupid move,
+
+304
+00:27:18,208 --> 00:27:20,166
+you should know that the
+container we rode in on
+
+305
+00:27:20,250 --> 00:27:22,250
+is loaded with explosives.
+
+306
+00:27:22,333 --> 00:27:24,958
+And there's more than enough
+to trigger the liquid proton
+
+307
+00:27:25,041 --> 00:27:27,750
+and destroy this entire station.
+
+308
+00:27:33,958 --> 00:27:35,791
+And guess what I happen
+to be holding...?
+
+309
+00:27:35,875 --> 00:27:39,083
+The detonator to the explosives.
+
+310
+00:27:39,166 --> 00:27:40,750
+Ha, ha, ha...
+
+311
+00:27:43,916 --> 00:27:45,666
+Their ship's engines
+are inactive.
+
+312
+00:27:45,750 --> 00:27:48,916
+We'll cut away the tank
+carrying the proton.
+
+313
+00:27:50,916 --> 00:27:53,416
+Concentrate your fire on
+the connecting locks...
+
+314
+00:27:53,500 --> 00:27:56,958
+Whatever you do,
+don't shoot the tank.
+
+315
+00:27:57,041 --> 00:27:58,875
+Open fire!
+
+316
+00:28:10,291 --> 00:28:11,208
+Oh, shit...
+
+317
+00:28:11,291 --> 00:28:12,416
+The valve controls
+are severed...
+
+318
+00:28:12,500 --> 00:28:15,250
+They've almost got it detached!
+
+319
+00:28:15,333 --> 00:28:16,500
+[MARIA gasps]
+
+320
+00:28:19,041 --> 00:28:21,041
+What do you think
+you're doing?
+
+321
+00:28:21,125 --> 00:28:24,166
+Don't act like you
+don't know. Heh.
+
+322
+00:28:32,125 --> 00:28:33,625
+I love you...
+
+323
+00:28:33,708 --> 00:28:35,958
+Both of you.
+
+324
+00:28:40,500 --> 00:28:41,750
+What are you doing?
+
+325
+00:28:41,833 --> 00:28:43,875
+We're going out to
+release the valves.
+
+326
+00:28:43,958 --> 00:28:45,916
+I'd rather see all that
+proton dumped into space
+
+327
+00:28:46,000 --> 00:28:48,541
+before I'd let them
+get their hands on it.
+
+328
+00:28:52,416 --> 00:28:53,666
+[MARIA] You're not coming.
+
+329
+00:28:53,750 --> 00:28:55,666
+We've only got three weapons
+
+330
+00:28:55,750 --> 00:28:58,625
+and they're armed to the teeth.
+
+331
+00:28:58,708 --> 00:29:00,541
+You have other loyalties.
+
+332
+00:29:00,625 --> 00:29:03,750
+Your first responsibility
+is to your crew.
+
+333
+00:29:03,833 --> 00:29:06,125
+You really think you can stop
+them with just the three of you?
+
+334
+00:29:06,208 --> 00:29:07,833
+[beeping]
+
+335
+00:29:07,916 --> 00:29:10,625
+[MARK] Chief! We overpowered
+the guards and got their guns.
+
+336
+00:29:10,708 --> 00:29:13,541
+What are your orders?
+
+337
+00:29:13,625 --> 00:29:15,208
+Chief!
+
+338
+00:29:21,541 --> 00:29:23,083
+[MARK] Chief!
+
+339
+00:29:30,166 --> 00:29:33,083
+[MARK] Captain,
+we need your orders!
+
+340
+00:29:35,625 --> 00:29:38,583
+Mark, the rush-job
+container B-Four-Oh-Four
+
+341
+00:29:38,666 --> 00:29:40,833
+is loaded with explosives.
+
+342
+00:29:46,416 --> 00:29:49,250
+I love you... Dan.
+
+343
+00:29:54,625 --> 00:29:57,000
+Charge the catapult and
+get that container loaded...
+
+344
+00:29:57,083 --> 00:29:59,375
+Launch it ASAP!
+
+345
+00:30:49,291 --> 00:30:50,958
+[WILLIE grunts]
+
+346
+00:30:51,041 --> 00:30:52,416
+[WILLIE] Bastards!
+
+347
+00:30:52,500 --> 00:30:54,833
+If you think you can just
+fly in and take our stuff
+
+348
+00:30:54,916 --> 00:30:56,208
+without an ass kicking,
+
+349
+00:30:56,291 --> 00:30:58,375
+you've got another thing coming!
+
+350
+00:31:04,208 --> 00:31:05,208
+[SPACE TERRORIST 3 yells]
+
+351
+00:31:26,458 --> 00:31:27,666
+[SPACE TERRORIST 4] Ahh!
+
+352
+00:31:32,291 --> 00:31:33,541
+[SPACE TERRORIST 12 yells]
+
+353
+00:31:36,625 --> 00:31:38,500
+[HAYES] Ah!
+
+354
+00:31:38,583 --> 00:31:40,625
+[HAYES grunts]
+
+355
+00:31:40,708 --> 00:31:42,125
+Hayes!
+
+356
+00:31:42,208 --> 00:31:43,875
+No...
+
+357
+00:31:43,958 --> 00:31:46,208
+Maria, just go!
+
+358
+00:31:53,750 --> 00:31:55,000
+Willie!
+
+359
+00:31:55,083 --> 00:31:56,791
+Get moving!
+
+360
+00:32:01,958 --> 00:32:06,875
+[WILLIE screams]
+
+361
+00:32:08,250 --> 00:32:09,541
+[SPACE TERRORIST 14] Ah!
+
+362
+00:32:24,625 --> 00:32:27,583
+[WILLIE] Ahhh! Ha, ha, ha, ha!
+
+363
+00:32:27,666 --> 00:32:28,458
+[SPACE TERRORIST 13 yells]
+
+364
+00:32:28,541 --> 00:32:29,833
+[WILLIE laughs]
+
+365
+00:32:29,916 --> 00:32:31,083
+[WILLIE] Ah!
+
+366
+00:32:33,833 --> 00:32:35,458
+Willie!
+
+367
+00:32:37,166 --> 00:32:39,166
+Sorry...
+
+368
+00:32:41,916 --> 00:32:44,500
+Damn you-- [gasps]
+
+369
+00:32:46,958 --> 00:32:48,625
+[SPACE TERRORIST LEADER]
+Don't move.
+
+370
+00:32:50,458 --> 00:32:53,125
+[SPACE TERRORIST LEADER]
+Don't even look at that valve.
+
+371
+00:33:03,416 --> 00:33:05,833
+Dan! Don't do it!
+
+372
+00:33:10,666 --> 00:33:12,000
+[MARIA] Baby, no!
+
+373
+00:33:12,083 --> 00:33:17,791
+[SPACE TERRORIST LEADER screams]
+
+374
+00:33:21,666 --> 00:33:24,875
+[COMPUTER] Loading of
+firing charge complete.
+
+375
+00:33:24,958 --> 00:33:28,666
+Three... Two... One...
+
+376
+00:33:28,750 --> 00:33:29,541
+Fire.
+
+377
+00:33:29,625 --> 00:33:31,875
+[SPACE TERRORIST LEADER yells]
+
+378
+00:33:54,500 --> 00:33:58,208
+[GROUP cheers]
+
+379
+00:34:13,083 --> 00:34:14,750
+[DAN] Without their
+leader to guide them,
+
+380
+00:34:14,833 --> 00:34:17,458
+the remaining terrorists
+simply surrendered.
+
+381
+00:34:17,541 --> 00:34:19,291
+The majority of
+the liquid proton
+
+382
+00:34:19,375 --> 00:34:21,875
+was safely delivered to Earth.
+
+383
+00:34:28,000 --> 00:34:29,291
+You know, Dad...
+
+384
+00:34:29,375 --> 00:34:32,500
+I think I understand
+how she must've felt.
+
+385
+00:34:34,958 --> 00:34:36,166
+Love...?
+
+386
+00:34:36,250 --> 00:34:39,250
+It shouldn't be something
+that holds you back.
+
+387
+00:34:50,416 --> 00:34:54,208
+He was right.
+That's how I felt.
+
+388
+00:34:55,708 --> 00:34:58,291
+It must be genetic.
+
+389
+00:35:01,583 --> 00:35:06,208
+[DAN] So... another
+fifteen years, huh?
+
+390
+00:35:06,291 --> 00:35:08,083
+[MARIA] And thirteen
+of those years
+
+391
+00:35:08,166 --> 00:35:11,416
+I'll be asleep in a
+hibernation capsule.
+
+392
+00:35:12,875 --> 00:35:16,291
+[DAN] Which means you'll
+only age another two years.
+
+393
+00:35:19,416 --> 00:35:21,833
+After forty-five years...
+
+394
+00:35:21,916 --> 00:35:24,666
+I'm still not used to it.
+
+395
+00:35:29,250 --> 00:35:30,666
+You were right earlier.
+
+396
+00:35:30,750 --> 00:35:33,416
+You are a cruel woman.
+
+397
+00:35:42,291 --> 00:35:44,000
+Good luck...
+
+398
+00:35:44,083 --> 00:35:46,958
+Wait for me, Baby.
+
+399
+00:35:49,500 --> 00:35:51,625
+Good luck.
+
+400
+00:37:45,416 --> 00:37:46,916
+[DAN] And once again,
+
+401
+00:37:47,000 --> 00:37:50,791
+she vanishes into the timeless
+vacuum of the deepest cosmos...
+
+402
+00:37:52,291 --> 00:37:56,333
+Just like a comet following
+its long elliptical orbit.
+
+403
+00:37:58,250 --> 00:37:59,541
+Or like a sudden memory
+
+404
+00:37:59,625 --> 00:38:03,083
+that fades before
+I can clearly see it.
+
+405
+00:38:03,166 --> 00:38:07,958
+Leaving me alone, once more,
+in its nebulous wake.
+
+406
+00:38:10,875 --> 00:38:14,791
+[DAN] Good luck
+to you... Mother.
+

@@ -1,0 +1,2013 @@
+﻿1
+00:00:25,192 --> 00:00:26,567
+Now fire!
+
+2
+00:00:40,483 --> 00:00:43,400
+The lords of Melromarc
+will finally pay attention.
+
+3
+00:00:43,483 --> 00:00:45,067
+As you wish.
+
+4
+00:00:48,442 --> 00:00:49,483
+[CAPTAIN 3A]
+Hmph.
+
+5
+00:00:49,567 --> 00:00:51,567
+Your will shall be done.
+
+6
+00:00:55,733 --> 00:00:58,525
+[MYNE chuckles]
+
+7
+00:01:04,358 --> 00:01:06,942
+That's no ordinary
+forest fire, is it?
+
+8
+00:01:07,025 --> 00:01:10,650
+Got that right.
+I bet Myne's the one behind it.
+
+9
+00:01:10,733 --> 00:01:14,108
+I guess she thinks
+she can smoke us out.
+
+10
+00:01:14,192 --> 00:01:15,692
+I can't believe she'd...
+
+11
+00:01:15,775 --> 00:01:18,442
+That fire's gonna make it's
+way down the mountain fast.
+
+12
+00:01:18,525 --> 00:01:19,567
+Let's move.
+
+13
+00:01:27,108 --> 00:01:28,567
+[PEDDLER 14A]
+Checkpoint's been closed,
+
+14
+00:01:28,650 --> 00:01:31,275
+and there's emergency security
+forces all along the border.
+
+15
+00:01:31,358 --> 00:01:33,858
+Gonna be tough to cross over
+to Siltvelt for a while,
+
+16
+00:01:33,942 --> 00:01:34,900
+that's for sure.
+
+17
+00:01:34,983 --> 00:01:36,900
+Seems to be the
+Devil of the Shield
+
+18
+00:01:36,983 --> 00:01:38,817
+abducted the
+little Princess Melty
+
+19
+00:01:38,900 --> 00:01:42,108
+and is holed up
+somewhere around here.
+
+20
+00:01:42,192 --> 00:01:43,483
+This oughta be enough.
+
+21
+00:01:43,567 --> 00:01:47,900
+Sure, lemme get
+your change. Huh? Sir?
+
+22
+00:01:50,358 --> 00:01:52,983
+Have you seen this
+man anywhere around here?
+
+23
+00:02:00,275 --> 00:02:02,983
+Oh! Master's back!
+
+24
+00:02:03,067 --> 00:02:05,150
+[RAPHTALIA]
+How'd it go, Master Naofumi?
+
+25
+00:02:05,233 --> 00:02:07,275
+We should probably give up
+on going to Siltvelt,
+
+26
+00:02:07,358 --> 00:02:09,400
+for a while, anyway.
+
+27
+00:02:09,483 --> 00:02:11,275
+Which means that...
+
+28
+00:02:11,358 --> 00:02:14,025
+Sir Shield Hero,
+you are hereby requested
+
+29
+00:02:14,108 --> 00:02:16,650
+to meet with
+Her Majesty the Queen.
+
+30
+00:02:16,733 --> 00:02:18,817
+Is meeting with
+the queen our only option,
+
+31
+00:02:18,900 --> 00:02:21,358
+just like the Shadow told us?
+
+32
+00:02:21,442 --> 00:02:23,858
+Naofumi, what do
+you intend to do?
+
+33
+00:02:25,817 --> 00:02:27,983
+I guess we're off
+to meet the queen.
+
+34
+00:02:28,692 --> 00:02:30,108
+<i>Now or Never</i>
+
+35
+00:02:30,192 --> 00:02:32,150
+<i>Just fight it out</i>
+
+36
+00:02:33,192 --> 00:02:35,150
+<i>Just fight it out</i>
+
+37
+00:02:36,275 --> 00:02:38,275
+<i>Just fight it out</i>
+
+38
+00:02:39,400 --> 00:02:41,358
+<i>Just fight it out</i>
+
+39
+00:02:54,233 --> 00:02:57,067
+<i>Night sky reflects in my eyes</i>
+
+40
+00:02:57,150 --> 00:03:00,108
+<i>Holdin' up my hand to the stars</i>
+
+41
+00:03:00,192 --> 00:03:02,942
+<i>All the time is nearing</i>
+<i>future's bleeding</i>
+
+42
+00:03:03,025 --> 00:03:06,733
+<i>But I want to be</i>
+<i>honest with myself</i>
+
+43
+00:03:06,817 --> 00:03:08,692
+<i>Come clean Follow the wind (ah?)</i>
+
+44
+00:03:08,775 --> 00:03:09,858
+<i>I'm gonna make a scene</i>
+
+45
+00:03:09,942 --> 00:03:11,733
+<i>Keep it real, make a mark (ah?)</i>
+
+46
+00:03:11,817 --> 00:03:12,900
+<i>on the masterpiece</i>
+
+47
+00:03:12,983 --> 00:03:14,358
+<i>Everybody betray me</i>
+
+48
+00:03:14,442 --> 00:03:15,983
+<i>Touch of your hand</i>
+<i>brushed me softly</i>
+
+49
+00:03:16,067 --> 00:03:17,317
+<i>Everything betray me</i>
+
+50
+00:03:17,400 --> 00:03:19,650
+<i>Shake all you want</i>
+<i>But this feeling won't die</i>
+
+51
+00:03:19,733 --> 00:03:22,442
+<i>Through hundreds of times</i>
+<i>through millions of times</i>
+
+52
+00:03:22,525 --> 00:03:25,775
+<i>I'm adding up scars</i>
+<i>never giving up my faith</i>
+
+53
+00:03:25,858 --> 00:03:29,108
+<i>It' s proof I'm alive now,</i>
+<i>always be myself</i>
+
+54
+00:03:29,192 --> 00:03:31,692
+<i>I gotta make a change</i>
+<i>(make a change yeah)</i>
+
+55
+00:03:31,775 --> 00:03:35,067
+<i>In this distorted world</i>
+<i>I follow the footsteps</i>
+
+56
+00:03:35,150 --> 00:03:38,025
+<i>Holding back screaming</i>
+<i>everything is silent</i>
+
+57
+00:03:38,108 --> 00:03:41,150
+<i>Through hundreds of times</i>
+<i>through millions of times</i>
+
+58
+00:03:41,233 --> 00:03:43,567
+<i>I Find & Create myself</i>
+
+59
+00:03:43,650 --> 00:03:45,067
+<i>Now or Never</i>
+
+60
+00:03:45,150 --> 00:03:46,983
+<i>Just fight it out</i>
+
+61
+00:03:48,067 --> 00:03:50,025
+<i>Just fight it out</i>
+
+62
+00:03:51,150 --> 00:03:53,108
+<i>Just fight it out</i>
+
+63
+00:03:54,233 --> 00:03:56,192
+<i>Just fight it out</i>
+
+64
+00:04:09,983 --> 00:04:12,900
+There are so many
+demi-humans in this region.
+
+65
+00:04:12,983 --> 00:04:14,442
+Sure are...
+
+66
+00:04:14,525 --> 00:04:16,817
+I wonder... Oh, right!
+
+67
+00:04:16,900 --> 00:04:18,275
+What is it, Melty?
+
+68
+00:04:18,358 --> 00:04:21,150
+Well, I know the nobleman
+in charge of this region.
+
+69
+00:04:21,233 --> 00:04:22,192
+He's a good man.
+
+70
+00:04:22,275 --> 00:04:24,275
+He might just be
+able to help us out.
+
+71
+00:04:24,358 --> 00:04:25,775
+A nobleman?
+
+72
+00:04:25,858 --> 00:04:28,358
+[MELTY] These days, humans
+treat demi-humans like slaves,
+
+73
+00:04:28,442 --> 00:04:30,317
+but in the past,
+some nobility encouraged
+
+74
+00:04:30,400 --> 00:04:33,483
+peaceful relations
+between the races.
+
+75
+00:04:33,567 --> 00:04:36,483
+The leader of that group
+was a wonderful man.
+
+76
+00:04:36,567 --> 00:04:40,067
+He was the lord of
+the domain of Seyaette.
+
+77
+00:04:40,150 --> 00:04:42,275
+But after he died
+in the first Wave,
+
+78
+00:04:42,358 --> 00:04:44,233
+all the nobles who
+had sided with him
+
+79
+00:04:44,317 --> 00:04:46,317
+were banished
+under Father's orders
+
+80
+00:04:46,400 --> 00:04:49,858
+to the most remote
+regions of the kingdom.
+
+81
+00:04:49,942 --> 00:04:53,108
+What is the king's
+problem with demi-humans?
+
+82
+00:04:53,192 --> 00:04:54,483
+Huh?
+
+83
+00:04:54,567 --> 00:04:57,733
+Raphtalia? What's wrong?
+
+84
+00:04:57,817 --> 00:05:02,567
+The village my family's from.
+It was in the Seyaette district.
+
+85
+00:05:02,650 --> 00:05:04,317
+I heard that
+after the first Wave
+
+86
+00:05:04,400 --> 00:05:07,317
+the Seyaette region
+was badly hit by rioters.
+
+87
+00:05:08,483 --> 00:05:10,567
+I'm afraid it was.
+
+88
+00:05:14,358 --> 00:05:15,358
+[RAPHTALIA]
+My village was attacked
+
+89
+00:05:15,442 --> 00:05:17,067
+by a mob of
+Melromarc's soldiers
+
+90
+00:05:17,150 --> 00:05:19,942
+who were totally
+out of control.
+
+91
+00:05:20,025 --> 00:05:21,650
+The more I hear
+about these scum,
+
+92
+00:05:21,733 --> 00:05:23,775
+the more I'm disgusted.
+
+93
+00:05:26,108 --> 00:05:27,692
+[MELTY]
+I'm so sorry.
+
+94
+00:05:27,775 --> 00:05:30,567
+But, Melty, it's not
+like it was your fault.
+
+95
+00:05:30,650 --> 00:05:32,817
+[MELTY] As royalty,
+there must have been something
+
+96
+00:05:32,900 --> 00:05:34,650
+we could have done.
+
+97
+00:05:34,733 --> 00:05:37,192
+But we did nothing to help.
+
+98
+00:05:37,275 --> 00:05:39,358
+Raphtalia, tell me
+everything you remember
+
+99
+00:05:39,442 --> 00:05:41,067
+about those soldiers.
+
+100
+00:05:41,150 --> 00:05:41,983
+Huh?
+
+101
+00:05:42,067 --> 00:05:43,275
+Once things have
+been cleared up,
+
+102
+00:05:43,358 --> 00:05:46,525
+I'll make sure they're
+brought to justice.
+
+103
+00:05:48,025 --> 00:05:49,525
+Thank you.
+
+104
+00:05:49,608 --> 00:05:53,775
+Okay, so this nobleman that you
+know lives around here, right?
+
+105
+00:05:53,858 --> 00:05:54,900
+[MELTY]
+Yes.
+
+106
+00:05:54,983 --> 00:05:56,525
+The real question
+is whether or not
+
+107
+00:05:56,608 --> 00:05:58,733
+we can actually trust this guy.
+
+108
+00:05:58,817 --> 00:06:00,983
+[VAN]
+You are indeed correct.
+
+109
+00:06:01,067 --> 00:06:02,233
+[RAPHTALIA, FILO, MELTY]
+Huh?
+
+110
+00:06:10,275 --> 00:06:12,817
+It's been too long,
+hasn't it, Reichnott?
+
+111
+00:06:12,900 --> 00:06:16,317
+Princess Melty,
+it's so good to see you again.
+
+112
+00:06:16,400 --> 00:06:18,275
+Very pleased to meet you.
+
+113
+00:06:18,358 --> 00:06:20,275
+You may call me Van Reichnott.
+
+114
+00:06:20,358 --> 00:06:22,942
+I am the reigning lord
+of this region.
+
+115
+00:06:23,025 --> 00:06:26,442
+[NAOFUMI] Wait, this wimp is the
+nobleman she was talking about?
+
+116
+00:06:26,525 --> 00:06:28,233
+But his stealth
+is off the charts.
+
+117
+00:06:28,317 --> 00:06:30,692
+How the hell did he do that?
+
+118
+00:06:30,775 --> 00:06:32,942
+However, this is
+no place for a chat.
+
+119
+00:06:33,025 --> 00:06:35,650
+Why don't you come over
+to the house and we'll talk?
+
+120
+00:06:38,983 --> 00:06:40,525
+[VAN]
+I see.
+
+121
+00:06:40,608 --> 00:06:44,525
+So you reached my domain after
+escaping Melromarc's forces,
+
+122
+00:06:44,608 --> 00:06:45,942
+is that it?
+
+123
+00:06:46,025 --> 00:06:47,358
+[NAOFUMI]
+Yeah.
+
+124
+00:06:47,442 --> 00:06:49,317
+The knights have informed
+me that you were the one
+
+125
+00:06:49,400 --> 00:06:50,858
+who started the
+wildfires in order
+
+126
+00:06:50,942 --> 00:06:52,608
+to cover your tracks,
+Sir Shield Hero.
+
+127
+00:06:52,692 --> 00:06:54,858
+Would you consider that
+account to be accurate?
+
+128
+00:06:54,942 --> 00:06:56,733
+That's a complete lie.
+
+129
+00:06:56,817 --> 00:06:59,900
+I can guarantee the other
+princess is behind that.
+
+130
+00:06:59,983 --> 00:07:01,192
+[VAN]
+I thought so.
+
+131
+00:07:01,275 --> 00:07:03,483
+In fact, when I ran into
+your party in the woods,
+
+132
+00:07:03,567 --> 00:07:05,692
+I had been patrolling
+the area out of concern
+
+133
+00:07:05,775 --> 00:07:07,608
+for Princess Melty.
+
+134
+00:07:07,692 --> 00:07:09,900
+You must be exhausted
+from your travels.
+
+135
+00:07:09,983 --> 00:07:12,233
+You're more than welcome
+to rest up here for a while,
+
+136
+00:07:12,317 --> 00:07:13,317
+if you wish.
+
+137
+00:07:15,233 --> 00:07:17,692
+[FILO]
+Ooh! Wow!
+
+138
+00:07:17,775 --> 00:07:20,192
+May I eat now, Master?
+Please, can I eat?
+
+139
+00:07:20,275 --> 00:07:21,067
+[NAOFUMI]
+No, wait.
+
+140
+00:07:21,150 --> 00:07:22,317
+Huh?
+
+141
+00:07:22,400 --> 00:07:25,400
+Not till I'm convinced
+we can trust this guy.
+
+142
+00:07:25,483 --> 00:07:26,692
+[VAN]
+Mmm!
+
+143
+00:07:26,775 --> 00:07:29,442
+Absolutely exquisite!
+
+144
+00:07:29,525 --> 00:07:32,942
+Rest assured,
+the food isn't poisoned.
+
+145
+00:07:33,025 --> 00:07:35,317
+Okay, everybody, time to eat!
+
+146
+00:07:35,400 --> 00:07:36,400
+[RAPHTALIA]
+Filo!
+
+147
+00:07:36,483 --> 00:07:38,858
+Where're your manners?
+Put that down!
+
+148
+00:07:38,942 --> 00:07:40,483
+'Kay...
+
+149
+00:07:43,150 --> 00:07:45,942
+Come on, Master Naofumi,
+I'm sure it's safe to eat.
+
+150
+00:07:46,025 --> 00:07:48,317
+It's incredibly
+rude to cast such doubts
+
+151
+00:07:48,400 --> 00:07:50,567
+on his gracious hospitality.
+
+152
+00:07:50,650 --> 00:07:53,067
+We're not gonna
+be here that long.
+
+153
+00:07:53,150 --> 00:07:56,650
+We're leaving tomorrow
+morning at dawn.
+
+154
+00:07:56,733 --> 00:07:58,025
+But why so soon?
+
+155
+00:07:58,108 --> 00:08:00,192
+[NAOFUMI]
+The longer we stay,
+
+156
+00:08:00,275 --> 00:08:02,775
+the higher the odds of us
+being sniffed out.
+
+157
+00:08:02,858 --> 00:08:04,775
+Well, yes, but I was, ehm...
+
+158
+00:08:04,858 --> 00:08:07,608
+I was hoping to be able
+to rest a little more.
+
+159
+00:08:07,692 --> 00:08:09,900
+Princess Melty, if you'll
+allow me to say so,
+
+160
+00:08:09,983 --> 00:08:10,900
+it appears you've grown.
+
+161
+00:08:10,983 --> 00:08:12,150
+[MELTY]
+Huh?
+
+162
+00:08:12,233 --> 00:08:14,567
+In the past, you used to
+affect a mature attitude
+
+163
+00:08:14,650 --> 00:08:16,525
+that went beyond your years...
+
+164
+00:08:16,608 --> 00:08:18,817
+However, since you've been
+traveling with the Shield Hero,
+
+165
+00:08:18,900 --> 00:08:23,567
+I'd say it's helped you to grow,
+and I mean that in a good way.
+
+166
+00:08:23,650 --> 00:08:25,400
+[NAOFUMI] I'm pretty sure
+you mean it in a bad way.
+
+167
+00:08:25,483 --> 00:08:27,275
+What?! You keep quiet, you--!
+
+168
+00:08:27,358 --> 00:08:28,483
+[NAOFUMI]
+Quit making such a racket,
+
+169
+00:08:28,567 --> 00:08:29,692
+we're trying to eat here.
+
+170
+00:08:29,775 --> 00:08:31,483
+[MELTY] Whose fault
+do you think that is?!
+
+171
+00:08:31,567 --> 00:08:33,067
+[RAPHTALIA sighs]
+
+172
+00:08:33,150 --> 00:08:34,483
+Oh, wow!
+
+173
+00:08:34,567 --> 00:08:36,900
+This feels amazing!
+
+174
+00:08:36,983 --> 00:08:39,775
+So soft and bouncy!
+
+175
+00:08:41,025 --> 00:08:43,650
+You need to get some rest.
+Why don't you sleep?
+
+176
+00:08:43,733 --> 00:08:44,733
+There's no way of knowing
+
+177
+00:08:44,817 --> 00:08:46,942
+when this place is
+gonna be attacked.
+
+178
+00:08:47,025 --> 00:08:50,650
+I make it a point of not
+sleeping at times like these.
+
+179
+00:08:50,733 --> 00:08:53,108
+Master Naofumi,
+why don't I keep watch,
+
+180
+00:08:53,192 --> 00:08:56,567
+that way you can go ahead
+and get some sleep?
+
+181
+00:08:56,650 --> 00:08:58,525
+All right.
+
+182
+00:08:58,608 --> 00:09:00,025
+[MELTY]
+Wait a minute.
+
+183
+00:09:00,108 --> 00:09:02,900
+Why do you listen to what
+Raphtalia says, but not to me?
+
+184
+00:09:02,983 --> 00:09:04,525
+[NAOFUMI]
+Don't worry about it.
+
+185
+00:09:06,817 --> 00:09:08,108
+Hey, I know.
+
+186
+00:09:08,192 --> 00:09:11,650
+You and I can do some
+exploring around this place.
+
+187
+00:09:11,733 --> 00:09:13,692
+Sure. Let's go.
+
+188
+00:09:15,817 --> 00:09:18,983
+[FILO] I wonder if they have
+some yummy snacks anywhere...
+
+189
+00:09:21,400 --> 00:09:23,400
+Would it hurt if you
+were a bit nicer to her?
+
+190
+00:09:23,483 --> 00:09:26,108
+It wouldn't cost
+you anything, y'know.
+
+191
+00:09:30,817 --> 00:09:32,025
+Huh?
+
+192
+00:09:34,025 --> 00:09:35,817
+[FILO]
+What's wrong, Mel?
+
+193
+00:09:35,900 --> 00:09:37,942
+I don't understand why,
+but I think I've been acting
+
+194
+00:09:38,025 --> 00:09:40,733
+really spoiled since
+meeting Naofumi.
+
+195
+00:09:40,817 --> 00:09:43,942
+Even my speech has
+become more crude as well.
+
+196
+00:09:44,025 --> 00:09:47,733
+I feel like a different person,
+and I'm not sure I like her.
+
+197
+00:09:47,817 --> 00:09:49,483
+Well, I, umm...
+
+198
+00:09:49,567 --> 00:09:52,817
+I'm sorry. You don't really
+understand me, do you?
+
+199
+00:09:52,900 --> 00:09:55,275
+Well, not exactly,
+but I still love you!
+
+200
+00:09:55,358 --> 00:09:56,608
+Huh?
+
+201
+00:09:56,692 --> 00:09:58,650
+I mean, you always look
+so cheerful and everything
+
+202
+00:09:58,733 --> 00:10:01,608
+when you're talking to Master,
+so I can tell you like him.
+
+203
+00:10:01,692 --> 00:10:03,108
+Oh, really?
+
+204
+00:10:03,192 --> 00:10:05,400
+I know, all you have to
+do is get him to dote on you
+
+205
+00:10:05,483 --> 00:10:07,775
+just like he does us.
+it's simple!
+
+206
+00:10:07,858 --> 00:10:10,150
+What...?! Wait, no!
+
+207
+00:10:10,233 --> 00:10:11,233
+[FILO]
+Yep!
+
+208
+00:10:11,317 --> 00:10:12,733
+But that isn't...
+I mean, I don't...
+
+209
+00:10:12,817 --> 00:10:15,108
+That's not really what
+I'm looking for from him!
+
+210
+00:10:19,108 --> 00:10:21,442
+[AULTCRAY]
+You still haven't found her?!
+
+211
+00:10:21,525 --> 00:10:22,942
+If anything happens to Melty,
+
+212
+00:10:23,025 --> 00:10:25,733
+I'll have every one of your
+miserable heads on a pike!
+
+213
+00:10:25,817 --> 00:10:27,483
+[KNIGHTS]
+Yes, sire!
+
+214
+00:10:30,275 --> 00:10:31,733
+Rest assured, Father.
+
+215
+00:10:31,817 --> 00:10:35,858
+I promise you I will find Melty
+and bring her back home to us.
+
+216
+00:10:35,942 --> 00:10:37,733
+Do what you can.
+
+217
+00:10:41,900 --> 00:10:44,525
+This can't happen
+to my family again.
+
+218
+00:10:44,608 --> 00:10:48,317
+How much do you intend
+to make me suffer?
+
+219
+00:10:48,400 --> 00:10:50,358
+Accursed Shield!
+
+220
+00:10:51,608 --> 00:10:52,942
+[MELTY]
+You're up?
+
+221
+00:10:53,025 --> 00:10:53,900
+[NAOFUMI]
+Yeah.
+
+222
+00:10:53,983 --> 00:10:55,483
+I'll take over now.
+
+223
+00:10:55,567 --> 00:10:56,733
+[MELTY]
+It's fine.
+
+224
+00:10:56,817 --> 00:10:59,317
+I'm really not
+very sleepy, actually.
+
+225
+00:10:59,400 --> 00:11:00,942
+What's the matter?
+
+226
+00:11:01,025 --> 00:11:02,650
+[MELTY]
+Naofumi, I...
+
+227
+00:11:02,733 --> 00:11:03,942
+What is it?
+
+228
+00:11:04,025 --> 00:11:05,775
+I was just thinking that,
+as a crown princess,
+
+229
+00:11:05,858 --> 00:11:08,608
+should I really
+keep running like this?
+
+230
+00:11:08,692 --> 00:11:10,067
+As a member of the royal family,
+
+231
+00:11:10,150 --> 00:11:12,733
+there's just so much
+more I could be doing.
+
+232
+00:11:12,817 --> 00:11:16,775
+But I find I'm doing nothing
+because I keep running.
+
+233
+00:11:16,858 --> 00:11:19,817
+[NAOFUMI] You know, your life
+comes before anything else.
+
+234
+00:11:19,900 --> 00:11:22,483
+So you can worry about
+your duties once you're safe
+
+235
+00:11:22,567 --> 00:11:23,817
+and out of danger.
+
+236
+00:11:23,900 --> 00:11:26,858
+[MELTY]
+But I feel so pathetic.
+
+237
+00:11:29,817 --> 00:11:33,775
+Don't be so hard on yourself.
+Get some rest now.
+
+238
+00:11:33,858 --> 00:11:35,150
+[MELTY]
+Okay.
+
+239
+00:11:36,192 --> 00:11:37,608
+Don't worry.
+
+240
+00:11:37,692 --> 00:11:40,442
+I'm sure there are things that
+only you can take care of.
+
+241
+00:11:41,942 --> 00:11:43,358
+[MELTY]
+Thanks. Umm...
+
+242
+00:11:43,442 --> 00:11:44,192
+[NAOFUMI]
+Hm?
+
+243
+00:11:44,275 --> 00:11:45,233
+It's nothing.
+
+244
+00:11:45,317 --> 00:11:46,650
+Not important.
+
+245
+00:11:46,733 --> 00:11:48,108
+Goodnight, Naofumi.
+
+246
+00:11:48,192 --> 00:11:49,692
+Yeah, g'night.
+
+247
+00:11:53,567 --> 00:11:58,483
+[RAPHTALIA whimpering]
+
+248
+00:12:04,442 --> 00:12:07,817
+No... Please...
+No, please, stop...
+
+249
+00:12:20,692 --> 00:12:21,983
+[NAOFUMI]
+Poor thing.
+
+250
+00:12:22,067 --> 00:12:24,817
+She's having that
+same nightmare again?
+
+251
+00:12:32,567 --> 00:12:34,192
+[RAPHTALIA]
+Rifana!
+
+252
+00:12:36,692 --> 00:12:38,650
+[NAOFUMI]
+You okay?
+
+253
+00:12:38,733 --> 00:12:40,858
+[RAPHTALIA]
+Y-Yes.
+
+254
+00:12:40,942 --> 00:12:42,650
+[NAOFUMI]
+We've got bad news.
+
+255
+00:12:42,733 --> 00:12:43,817
+[RAPHTALIA]
+Huh?
+
+256
+00:12:44,900 --> 00:12:48,400
+[gasps] Why is the
+lord being taken away?
+
+257
+00:12:48,483 --> 00:12:51,233
+Sir Hero, you and your
+party have to leave now!
+
+258
+00:12:51,317 --> 00:12:52,817
+What's going on?
+
+259
+00:12:52,900 --> 00:12:54,483
+[MAID 14A] A nobleman from
+the next town over marched
+
+260
+00:12:54,567 --> 00:12:57,025
+right in here and
+accused us of hiding you!
+
+261
+00:12:57,108 --> 00:12:58,192
+[BOTH gasp]
+
+262
+00:12:58,275 --> 00:12:59,942
+Go find that
+Devil of the Shield!
+
+263
+00:13:00,025 --> 00:13:02,067
+The kitchen is the
+only safe way out.
+
+264
+00:13:02,150 --> 00:13:04,025
+Where're Filo and Melty?
+
+265
+00:13:04,108 --> 00:13:05,275
+What do you have to report?
+
+266
+00:13:05,358 --> 00:13:07,567
+He's not anywhere around, sir.
+
+267
+00:13:07,650 --> 00:13:09,608
+This way, quickly.
+
+268
+00:13:11,442 --> 00:13:12,900
+[SOLDIER 14C]
+Hey, you there!
+
+269
+00:13:12,983 --> 00:13:14,400
+What are you doing?
+
+270
+00:13:14,483 --> 00:13:15,900
+[MAID 14A]
+I'm preparing lunch.
+
+271
+00:13:15,983 --> 00:13:16,858
+Well forget that!
+
+272
+00:13:16,942 --> 00:13:18,108
+C'mere!
+
+273
+00:13:19,108 --> 00:13:21,192
+[MELTY]
+What do you think you're doing?
+
+274
+00:13:21,275 --> 00:13:24,358
+I am Melty Melromarc,
+Second Princess of Melromarc.
+
+275
+00:13:24,442 --> 00:13:26,233
+Let her go right now!
+
+276
+00:13:26,317 --> 00:13:29,525
+I command you two
+to stop this right away!
+
+277
+00:13:29,608 --> 00:13:30,775
+What should we do?
+
+278
+00:13:30,858 --> 00:13:32,317
+I'm not sure.
+
+279
+00:13:32,400 --> 00:13:35,900
+[IDOL] My, my,
+if it isn't Princess Melty.
+
+280
+00:13:35,983 --> 00:13:37,067
+[gasps]
+
+281
+00:13:42,275 --> 00:13:43,608
+[MELTY]
+Aren't you...?
+
+282
+00:13:45,692 --> 00:13:46,775
+[gasps]
+
+283
+00:13:46,858 --> 00:13:49,358
+[NAOFUMI]
+Let's wait and see what happens.
+
+284
+00:13:49,442 --> 00:13:51,525
+I'm so glad to see
+you're all right.
+
+285
+00:13:51,608 --> 00:13:54,900
+I rushed right over here because
+I was worried for your safety.
+
+286
+00:13:54,983 --> 00:13:56,608
+Idol Rabier.
+
+287
+00:13:56,692 --> 00:13:59,233
+I heard rumors that in the
+past you'd had disagreements
+
+288
+00:13:59,317 --> 00:14:00,483
+with my father.
+
+289
+00:14:00,567 --> 00:14:01,692
+True.
+
+290
+00:14:01,775 --> 00:14:04,233
+May I assume that these
+soldiers are with you?
+
+291
+00:14:04,317 --> 00:14:05,817
+They are indeed.
+
+292
+00:14:05,900 --> 00:14:08,650
+[MELTY] Then have them withdraw
+from these premises immediately.
+
+293
+00:14:08,733 --> 00:14:10,108
+Before I do
+something like that,
+
+294
+00:14:10,192 --> 00:14:12,817
+tell me where the Devil
+of the Shield is hiding.
+
+295
+00:14:12,900 --> 00:14:15,942
+All I can tell you is that
+the Shield Hero is gone.
+
+296
+00:14:16,025 --> 00:14:16,942
+Really?
+
+297
+00:14:17,025 --> 00:14:19,067
+I encouraged him to escape.
+
+298
+00:14:19,150 --> 00:14:21,192
+There's no way your men
+will ever catch him.
+
+299
+00:14:21,275 --> 00:14:22,817
+He's too far away.
+
+300
+00:14:22,900 --> 00:14:24,192
+That girl...
+
+301
+00:14:24,275 --> 00:14:27,275
+I intend to tell
+my father everything.
+
+302
+00:14:27,358 --> 00:14:29,275
+And I will do
+everything in my power
+
+303
+00:14:29,358 --> 00:14:32,108
+to clear the
+Shield Hero's good name!
+
+304
+00:14:33,900 --> 00:14:37,275
+[MELTY] Now, you will take me to
+the capital as soon as possible.
+
+305
+00:14:37,358 --> 00:14:39,483
+Oh, I understand perfectly.
+
+306
+00:14:39,567 --> 00:14:42,025
+I'll make arrangements for
+your journey at my mansion.
+
+307
+00:14:42,108 --> 00:14:43,817
+You'll be more
+comfortable there.
+
+308
+00:14:43,900 --> 00:14:45,733
+All right, take her.
+
+309
+00:14:54,525 --> 00:14:55,900
+[NAOFUMI]
+Calm down.
+
+310
+00:14:55,983 --> 00:14:58,775
+Don't ruin what
+Melty's trying to do.
+
+311
+00:15:05,025 --> 00:15:06,650
+Filo! You can come out now!
+
+312
+00:15:06,733 --> 00:15:08,567
+Filo, it's us!
+
+313
+00:15:08,650 --> 00:15:12,483
+[MAID 14A]
+Filo! Where are you?
+
+314
+00:15:12,567 --> 00:15:15,692
+Oh, to hell with it.
+
+315
+00:15:15,775 --> 00:15:16,817
+Filo!
+
+316
+00:15:16,900 --> 00:15:18,108
+Get out here now!
+
+317
+00:15:18,192 --> 00:15:19,983
+This is an order!
+
+318
+00:15:20,067 --> 00:15:22,317
+[FILO]
+Ow!
+
+319
+00:15:24,567 --> 00:15:27,567
+Ow! Why are you being
+such a meanie, Master?!
+
+320
+00:15:27,650 --> 00:15:30,067
+It's your fault for
+not coming when I call.
+
+321
+00:15:30,150 --> 00:15:33,817
+And do you mind telling me what
+you were even doing up here?
+
+322
+00:15:33,900 --> 00:15:35,775
+[FILO] Mel wanted
+to play hide and seek.
+
+323
+00:15:35,858 --> 00:15:38,150
+We weren't doing anything wrong.
+
+324
+00:15:38,233 --> 00:15:40,442
+She said it was really important
+I should hide somewhere
+
+325
+00:15:40,525 --> 00:15:44,358
+I wouldn't be found and not
+to come out, no matter what.
+
+326
+00:15:44,442 --> 00:15:47,900
+But then she never
+actually came to find me.
+
+327
+00:15:47,983 --> 00:15:48,983
+Wait a sec.
+
+328
+00:15:49,067 --> 00:15:50,733
+Where's Mel?
+
+329
+00:15:52,192 --> 00:15:53,942
+[FILO]
+I'm going to save her!
+
+330
+00:15:54,025 --> 00:15:55,150
+[RAPHTALIA]
+Filo, no, wait!
+
+331
+00:15:55,233 --> 00:15:56,192
+We have to get going,
+
+332
+00:15:56,275 --> 00:15:57,817
+if we don't hurry up,
+then she'll...
+
+333
+00:15:57,900 --> 00:16:00,900
+[NAOFUMI] Abandoning her
+and running away is an option.
+
+334
+00:16:00,983 --> 00:16:02,692
+I admit that.
+
+335
+00:16:04,608 --> 00:16:07,692
+And yet, she never
+stopped believing in me.
+
+336
+00:16:14,192 --> 00:16:16,150
+So now...
+
+337
+00:16:16,233 --> 00:16:18,900
+I refuse to betray her trust.
+
+338
+00:16:20,150 --> 00:16:21,983
+I made her a promise.
+
+339
+00:16:42,900 --> 00:16:44,942
+I guess you know that Idol scum.
+
+340
+00:16:45,025 --> 00:16:46,858
+He's the one
+in your nightmares?
+
+341
+00:16:46,942 --> 00:16:48,192
+Yes.
+
+342
+00:16:48,275 --> 00:16:49,483
+You can stay
+behind if you want.
+
+343
+00:16:49,567 --> 00:16:51,025
+You don't have to come.
+
+344
+00:16:51,108 --> 00:16:52,317
+No, I'm fine.
+
+345
+00:16:52,400 --> 00:16:55,942
+I'm not afraid anymore
+now that I have my sword.
+
+346
+00:16:56,025 --> 00:16:58,817
+I'm ready to face my past.
+
+347
+00:16:58,900 --> 00:17:01,067
+I know whatcha mean.
+
+348
+00:17:02,358 --> 00:17:04,317
+[DEMI-HUMAN 14A]
+Open the gate!
+
+349
+00:17:04,400 --> 00:17:05,525
+[FILO]
+What's going on?
+
+350
+00:17:05,608 --> 00:17:06,817
+[RAPHTALIA]
+Demi-humans who love their lord
+
+351
+00:17:06,900 --> 00:17:08,650
+must've come here for him.
+
+352
+00:17:08,733 --> 00:17:10,567
+[DEMI-HUMAN 14B]
+Return Lord Van!
+
+353
+00:17:10,650 --> 00:17:12,150
+Well, that's convenient.
+
+354
+00:17:12,233 --> 00:17:14,483
+We'll sneak into the mansion
+while they distract the guards.
+
+355
+00:17:14,567 --> 00:17:15,525
+Let's go.
+
+356
+00:17:15,608 --> 00:17:17,567
+--Right!
+--'Kay!
+
+357
+00:17:23,775 --> 00:17:26,983
+[IDOL]
+Ugh, look at those damned demis!
+
+358
+00:17:27,067 --> 00:17:29,900
+What are they doing out there?
+Why are they protesting?
+
+359
+00:17:29,983 --> 00:17:32,400
+[IDOL] Just some annoying
+flies buzzing around.
+
+360
+00:17:32,483 --> 00:17:34,025
+Nothing to worry about.
+
+361
+00:17:34,108 --> 00:17:36,442
+We'll get rid of them at once.
+
+362
+00:17:36,525 --> 00:17:38,817
+And since we're mentioning
+annoyances, my dear.
+
+363
+00:17:38,900 --> 00:17:39,983
+I believe it's time to tell me
+
+364
+00:17:40,067 --> 00:17:41,942
+where the Devil
+of the Shield is!
+
+365
+00:17:42,025 --> 00:17:44,025
+I've already told
+you several times.
+
+366
+00:17:44,108 --> 00:17:45,983
+I do not know.
+
+367
+00:17:46,067 --> 00:17:47,192
+[MELTY gasps]
+
+368
+00:17:50,192 --> 00:17:51,650
+[MELTY]
+Reichnott?!
+
+369
+00:17:55,108 --> 00:17:56,983
+[IDOL] Where is
+the Devil of the Shield?
+
+370
+00:17:57,067 --> 00:18:00,025
+I have no idea who
+you're speaking of.
+
+371
+00:18:00,108 --> 00:18:02,192
+I-- The only shield
+I've ever heard of
+
+372
+00:18:02,275 --> 00:18:04,025
+is called the Shield Hero.
+
+373
+00:18:04,108 --> 00:18:05,650
+[thud]
+
+374
+00:18:05,733 --> 00:18:07,942
+As you can see, we're having
+a bit of a difficult time
+
+375
+00:18:08,025 --> 00:18:09,567
+getting him to cooperate.
+
+376
+00:18:09,650 --> 00:18:12,192
+I would very much like to
+avoid getting rough with you
+
+377
+00:18:12,275 --> 00:18:15,525
+if that's at all possible.
+
+378
+00:18:15,608 --> 00:18:18,067
+But as a humble
+servant of God, my dear,
+
+379
+00:18:18,150 --> 00:18:20,858
+I have taken a sacred vow
+to punish anyone who sides
+
+380
+00:18:20,942 --> 00:18:22,775
+with the Devil.
+
+381
+00:18:22,858 --> 00:18:26,608
+That is my holy duty,
+dear princess.
+
+382
+00:18:28,858 --> 00:18:29,608
+[SOLDIER 14E]
+Intruders!
+
+383
+00:18:29,692 --> 00:18:31,567
+Over there!
+
+384
+00:18:31,650 --> 00:18:33,483
+[NAOFUMI]
+Filo, time to go wild.
+
+385
+00:18:33,567 --> 00:18:36,108
+We'll go rescue Melty while you
+take care of those soldiers.
+
+386
+00:18:36,192 --> 00:18:37,150
+[FILO]
+Mm!
+
+387
+00:18:37,233 --> 00:18:38,942
+[RAPHTALIA yells]
+
+388
+00:18:43,192 --> 00:18:44,942
+[SOLDIER 14I]
+After them!
+
+389
+00:18:59,983 --> 00:19:02,942
+[FILO]
+Mel!
+
+390
+00:19:11,733 --> 00:19:14,358
+[NAOFUMI]
+Raphtalia, what's down there?
+
+391
+00:19:16,983 --> 00:19:19,525
+Our priority right now
+is rescuing Melty.
+
+392
+00:19:19,608 --> 00:19:22,650
+--We can come back later.
+--[RAPHTALIA] Okay.
+
+393
+00:19:22,733 --> 00:19:24,567
+[SOLDIER 14L]
+I found them! Over there!
+
+394
+00:19:32,733 --> 00:19:34,775
+That is highly potent venom.
+
+395
+00:19:34,858 --> 00:19:38,025
+If you don't take the
+antidote soon, you'll die.
+
+396
+00:19:38,108 --> 00:19:39,692
+But I'm willing to give
+you a chance to live
+
+397
+00:19:39,775 --> 00:19:42,692
+if you answer one question.
+
+398
+00:19:42,775 --> 00:19:44,650
+Where is Melty?
+
+399
+00:19:47,525 --> 00:19:49,358
+Stay away!
+
+400
+00:19:49,442 --> 00:19:51,525
+I truly adore this part!
+
+401
+00:19:51,608 --> 00:19:53,650
+That valiant look in your eye!
+
+402
+00:19:53,733 --> 00:19:56,567
+I want to see it become despair,
+
+403
+00:19:56,650 --> 00:19:59,692
+and watch as your
+face warps in agony.
+
+404
+00:19:59,775 --> 00:20:02,483
+Come on, let me have
+a good look at you!
+
+405
+00:20:06,108 --> 00:20:08,650
+Now what the hell
+is going on out there?!
+
+406
+00:20:08,733 --> 00:20:09,900
+Idol, sir!
+
+407
+00:20:09,983 --> 00:20:11,525
+The Devil of the Shield
+has entered the mansion!
+
+408
+00:20:11,608 --> 00:20:12,692
+Huh?
+
+409
+00:20:12,775 --> 00:20:14,275
+He's done what?!
+
+410
+00:20:18,692 --> 00:20:19,733
+Mel, are you all right?!
+
+411
+00:20:19,817 --> 00:20:22,483
+I'm okay, Filo! Raphtalia!
+
+412
+00:20:23,608 --> 00:20:25,025
+Don't you dare!
+
+413
+00:20:25,108 --> 00:20:27,067
+Take one step and I'll have
+the pleasure of making sure
+
+414
+00:20:27,150 --> 00:20:29,692
+the princess's head will
+roll all the way home.
+
+415
+00:20:29,775 --> 00:20:32,650
+[NAOFUMI] Oh, so we just have
+to stand still, is that it?
+
+416
+00:20:34,650 --> 00:20:36,400
+[NAOFUMI]
+Air Strike Shield!
+
+417
+00:20:44,817 --> 00:20:46,442
+Naofumi!
+
+418
+00:20:52,983 --> 00:20:54,483
+Why did you come back?
+
+419
+00:20:54,567 --> 00:20:55,817
+[NAOFUMI] Because I've
+never heard of a hero
+
+420
+00:20:55,900 --> 00:20:59,025
+who abandons a child
+to save his own skin.
+
+421
+00:20:59,108 --> 00:21:02,067
+You realize that you've
+wasted all my hard work.
+
+422
+00:21:02,150 --> 00:21:03,275
+[sighs]
+
+423
+00:21:03,358 --> 00:21:04,942
+[MELTY]
+But...
+
+424
+00:21:05,025 --> 00:21:06,567
+Thank you.
+
+425
+00:21:08,108 --> 00:21:10,525
+You dare make a mockery of me?
+
+426
+00:21:10,608 --> 00:21:14,275
+Torture clearly isn't
+enough for the likes of you!
+
+427
+00:21:14,358 --> 00:21:17,233
+Your insolence can only
+be paid for with death!
+
+428
+00:21:32,733 --> 00:21:33,900
+Raphtalia!
+
+429
+00:21:33,983 --> 00:21:34,775
+[NAOFUMI]
+Wait.
+
+430
+00:21:34,858 --> 00:21:36,025
+Huh?
+
+431
+00:21:38,275 --> 00:21:41,150
+You miserable, worthless demi!
+
+432
+00:21:47,775 --> 00:21:49,400
+[BOTH gasp]
+
+433
+00:21:52,942 --> 00:21:54,567
+I beg you... [whimpers]
+
+434
+00:21:54,650 --> 00:21:56,317
+No, please!
+
+435
+00:21:58,608 --> 00:22:01,400
+Spare my life,
+I'll give you anything!
+
+436
+00:22:02,858 --> 00:22:05,275
+[RAPHTALIA] So many demi-humans
+begged for their lives
+
+437
+00:22:05,358 --> 00:22:07,483
+just like that, but...
+
+438
+00:22:08,858 --> 00:22:10,733
+...it wasn't enough!
+

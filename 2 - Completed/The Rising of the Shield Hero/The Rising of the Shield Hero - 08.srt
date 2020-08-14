@@ -1,0 +1,1949 @@
+﻿1
+00:00:16,525 --> 00:00:20,900
+[clinking]
+
+2
+00:00:49,275 --> 00:00:50,692
+--[FILO groans]
+--[gasps]
+
+3
+00:00:50,775 --> 00:00:54,650
+What's wrong, Master?
+Can't you get to sleep tonight?
+
+4
+00:00:54,733 --> 00:00:56,733
+[NAOFUMI] I just came
+to check on the two of you.
+
+5
+00:00:56,817 --> 00:00:57,900
+Go back to sleep.
+
+6
+00:00:57,983 --> 00:01:00,275
+M'kay...
+
+7
+00:01:00,358 --> 00:01:03,692
+Good night, Master.
+Thank you for checking up on us.
+
+8
+00:01:03,775 --> 00:01:05,733
+See you tomorrow...
+
+9
+00:01:05,817 --> 00:01:08,275
+Yeah. Goodnight.
+
+10
+00:01:34,400 --> 00:01:37,150
+<i>In this empty void I</i>
+<i>found the way to the light</i>
+
+11
+00:01:37,233 --> 00:01:39,983
+<i>Can't find my way</i>
+<i>in this lingering world</i>
+
+12
+00:01:40,067 --> 00:01:43,358
+<i>Searching for the answer</i>
+<i>the one that I can trust in</i>
+
+13
+00:01:43,442 --> 00:01:45,442
+<i>I'm just wandering around</i>
+
+14
+00:01:45,525 --> 00:01:47,150
+<i>Yeah, still stuck</i>
+<i>in the shadow, ay</i>
+
+15
+00:01:47,233 --> 00:01:48,567
+<i>But I never follow that</i>
+
+16
+00:01:48,650 --> 00:01:50,108
+<i>This pain at last</i>
+<i>Soon will pass</i>
+
+17
+00:01:50,192 --> 00:01:51,567
+<i>Turn into my own</i>
+<i>unbeatable strength</i>
+
+18
+00:01:51,650 --> 00:01:52,900
+<i>This guy or that guy</i>
+<i>dead or alive</i>
+
+19
+00:01:52,983 --> 00:01:54,483
+<i>by hiding alone we can't survive</i>
+
+20
+00:01:54,567 --> 00:01:57,358
+<i>I don't want to lie to myself</i>
+
+21
+00:01:57,442 --> 00:01:59,025
+<i>Keep on the fight, get right</i>
+
+22
+00:01:59,108 --> 00:02:00,275
+<i>I'll never lose and cry</i>
+
+23
+00:02:00,358 --> 00:02:01,942
+<i>Keep run up day and night</i>
+
+24
+00:02:02,025 --> 00:02:03,317
+<i>Time to rewrite</i>
+
+25
+00:02:03,400 --> 00:02:07,525
+<i>No matter what anyone say</i>
+<i>I find my way, yeah</i>
+
+26
+00:02:07,608 --> 00:02:10,067
+<i>Never go away</i>
+
+27
+00:02:10,150 --> 00:02:12,942
+<i>Now, Nobody can stop me no way</i>
+
+28
+00:02:13,025 --> 00:02:15,858
+<i>I will make sure not to</i>
+<i>forget those precious things</i>
+
+29
+00:02:15,942 --> 00:02:18,858
+<i>Yeah I'll take a stand</i>
+<i>get back all that I've lost</i>
+
+30
+00:02:18,942 --> 00:02:21,733
+<i>Rise suddenly in this world</i>
+<i>(I don't look back yeah)</i>
+
+31
+00:02:21,817 --> 00:02:24,608
+<i>This repetition will</i>
+<i>repeat till the end</i>
+
+32
+00:02:24,692 --> 00:02:27,483
+<i>And the regrets are</i>
+<i>still lingering in my head</i>
+
+33
+00:02:27,567 --> 00:02:30,400
+<i>Time to get it all back</i>
+<i>now turn over</i>
+
+34
+00:02:30,483 --> 00:02:34,400
+<i>Rise suddenly in this world</i>
+<i>(I don't look back yeah)</i>
+
+35
+00:02:49,358 --> 00:02:51,150
+[ALL]
+Hmm?
+
+36
+00:02:56,858 --> 00:03:00,275
+[MOTHER 8A] You folks would do
+well to turn back while you can.
+
+37
+00:03:00,358 --> 00:03:02,775
+If you keep going forward
+on this path, you'll die.
+
+38
+00:03:02,858 --> 00:03:04,192
+[RAPHTALIA]
+Huh?
+
+39
+00:03:04,275 --> 00:03:06,233
+[NAOFUMI] We heard there's
+a village down this path.
+
+40
+00:03:07,317 --> 00:03:09,817
+The village is devastated.
+
+41
+00:03:09,900 --> 00:03:13,442
+Even the village elder
+got sick with the plague.
+
+42
+00:03:17,483 --> 00:03:19,733
+What's happening there?
+
+43
+00:03:19,817 --> 00:03:21,483
+We'll know soon.
+
+44
+00:03:34,567 --> 00:03:35,608
+[NAOFUMI]
+Hmm?
+
+45
+00:03:35,692 --> 00:03:36,817
+[VILLAGER 8C]
+Well, what brings you to
+
+46
+00:03:36,900 --> 00:03:38,733
+a godforsaken place like this?
+
+47
+00:03:38,817 --> 00:03:39,900
+[NAOFUMI]
+I'm a traveling merchant.
+
+48
+00:03:39,983 --> 00:03:41,358
+I have medicines to sell.
+
+49
+00:03:41,442 --> 00:03:42,942
+Traveling merchant you say?
+
+50
+00:03:43,025 --> 00:03:45,358
+Wait, that filolial.
+Could it be...?
+
+51
+00:03:45,442 --> 00:03:47,608
+Is that the Heavenly Fowl?!
+
+52
+00:03:47,692 --> 00:03:49,817
+Doctor, quick!
+
+53
+00:03:51,192 --> 00:03:52,942
+[HEALER 8A]
+What is it? What's the matter?
+
+54
+00:03:53,025 --> 00:03:54,608
+[VILLAGER 8C]
+Our Savior of the Heavenly Fowl
+
+55
+00:03:54,692 --> 00:03:57,358
+has come for us!
+He's right there!
+
+56
+00:03:57,442 --> 00:03:58,650
+Huh?
+
+57
+00:03:58,733 --> 00:03:59,900
+[NAOFUMI]
+"Doctor"?
+
+58
+00:03:59,983 --> 00:04:01,983
+[HEALER 8A]
+I run the village clinic.
+
+59
+00:04:02,067 --> 00:04:05,942
+I-If I may ask, a-are you--
+Are you really...?
+
+60
+00:04:06,025 --> 00:04:07,983
+[NAOFUMI]
+I'm just here to sell medicine.
+
+61
+00:04:08,067 --> 00:04:10,233
+[HEALER 8A]
+Even that would be a great help!
+
+62
+00:04:10,317 --> 00:04:13,608
+I can't make anywhere near
+enough for everyone!
+
+63
+00:04:17,817 --> 00:04:20,233
+Good morning. Oh, Doctor,
+are these people with you?
+
+64
+00:04:20,317 --> 00:04:21,400
+They just arrived.
+
+65
+00:04:21,483 --> 00:04:23,608
+They're going to sell
+us some medicine.
+
+66
+00:04:23,692 --> 00:04:24,983
+[NAOFUMI] Looking at this,
+I should probably
+
+67
+00:04:25,067 --> 00:04:27,067
+give it to them myself.
+
+68
+00:04:43,817 --> 00:04:44,900
+[FILO]
+Here.
+
+69
+00:04:48,400 --> 00:04:49,775
+[sighs]
+
+70
+00:04:49,858 --> 00:04:51,983
+Huh?
+
+71
+00:04:52,067 --> 00:04:54,567
+[OLD WOMAN 8A sobs]
+
+72
+00:04:57,317 --> 00:04:59,275
+[NAOFUMI]
+Fifty silvers, huh?
+
+73
+00:04:59,358 --> 00:05:01,275
+We can't thank you
+enough, dear sir.
+
+74
+00:05:01,358 --> 00:05:03,108
+Well, actually,
+it's a bit short.
+
+75
+00:05:03,192 --> 00:05:04,275
+But I guess I'll take it.
+
+76
+00:05:04,358 --> 00:05:06,233
+[HEALER 8A]
+You were truly a great help.
+
+77
+00:05:06,317 --> 00:05:08,733
+Now we've staved off
+the immediate crisis.
+
+78
+00:05:08,817 --> 00:05:10,317
+And that's enough for you?
+
+79
+00:05:10,400 --> 00:05:12,150
+All I did was
+treat their symptoms.
+
+80
+00:05:12,233 --> 00:05:13,650
+I didn't cure them.
+
+81
+00:05:13,733 --> 00:05:16,650
+In no time, they'll be
+right back to square one.
+
+82
+00:05:16,733 --> 00:05:19,108
+I'm afraid you are
+indeed correct.
+
+83
+00:05:19,192 --> 00:05:22,192
+[NAOFUMI] Not that I mind, since
+I'd make good money anyway.
+
+84
+00:05:22,275 --> 00:05:24,733
+Why don't we just
+see which dies out first--
+
+85
+00:05:24,817 --> 00:05:27,275
+you or your pocketbook...
+
+86
+00:05:27,358 --> 00:05:30,442
+We know that we can't let
+this go on... But there's...
+
+87
+00:05:30,525 --> 00:05:32,775
+There's nothing we can do.
+
+88
+00:05:32,858 --> 00:05:34,692
+[RAPHTALIA]
+What do you mean?
+
+89
+00:05:34,775 --> 00:05:36,275
+We believe it's
+the wind coming from
+
+90
+00:05:36,358 --> 00:05:38,817
+the mountain that's the cause
+of the plague in our village.
+
+91
+00:05:38,900 --> 00:05:40,983
+The mountain that's
+home to the monsters.
+
+92
+00:05:41,067 --> 00:05:42,983
+[NAOFUMI]
+Home to what monsters?
+
+93
+00:05:43,067 --> 00:05:45,192
+[HEALER 8A] Around a
+month ago, a large dragon
+
+94
+00:05:45,275 --> 00:05:48,067
+that nested there was
+killed by the Sword Hero.
+
+95
+00:05:48,150 --> 00:05:50,608
+That, at least,
+was the good news.
+
+96
+00:05:50,692 --> 00:05:53,358
+[NAOFUMI] Yeah, I did hear
+some rumors a while back.
+
+97
+00:05:53,442 --> 00:05:54,692
+But wait a sec.
+
+98
+00:05:54,775 --> 00:05:56,817
+How does that connect with
+the plague that's here?
+
+99
+00:05:56,900 --> 00:05:58,983
+[HEALER 8A] Many adventurers
+came to our village,
+
+100
+00:05:59,067 --> 00:06:01,192
+mostly in order to see
+the dragon's corpse,
+
+101
+00:06:01,275 --> 00:06:03,400
+as well as to purchase supplies.
+
+102
+00:06:03,483 --> 00:06:06,400
+That certainly did help the
+village to flourish, of course.
+
+103
+00:06:06,483 --> 00:06:07,775
+But then, one day,
+
+104
+00:06:07,858 --> 00:06:10,692
+one of the adventurers
+collapsed, and more followed.
+
+105
+00:06:10,775 --> 00:06:12,650
+The dragon's flesh
+had begun to rot
+
+106
+00:06:12,733 --> 00:06:15,900
+and began emitting
+some kind of poison.
+
+107
+00:06:15,983 --> 00:06:17,400
+[NAOFUMI]
+Damn Ren!
+
+108
+00:06:17,483 --> 00:06:19,275
+Even a high schooler like you
+oughta have brains enough
+
+109
+00:06:19,358 --> 00:06:22,525
+to know that meat rots
+when you leave it out.
+
+110
+00:06:22,608 --> 00:06:25,358
+Actually, I guess it
+must've slipped his mind,
+
+111
+00:06:25,442 --> 00:06:27,858
+since he thinks this
+world's just a game.
+
+112
+00:06:27,942 --> 00:06:29,150
+If you know what the cause is,
+
+113
+00:06:29,233 --> 00:06:31,525
+how come you haven't
+gotten rid of it already?
+
+114
+00:06:31,608 --> 00:06:33,442
+That mountain's filled
+with violent monsters,
+
+115
+00:06:33,525 --> 00:06:35,442
+so the only ones who
+even dare to go there are
+
+116
+00:06:35,525 --> 00:06:38,400
+the adventurers--there's
+nothing we can do about it.
+
+117
+00:06:38,483 --> 00:06:40,942
+[HEALER 8A] And, perhaps
+due to the dragon's poison,
+
+118
+00:06:41,025 --> 00:06:44,025
+the very ecology of the
+mountain has changed, too.
+
+119
+00:06:44,108 --> 00:06:45,608
+Given the terrible consequences,
+
+120
+00:06:45,692 --> 00:06:49,192
+the average adventurer won't
+go anywhere near the corpse.
+
+121
+00:06:49,275 --> 00:06:51,150
+Have you informed
+the royal court yet?
+
+122
+00:06:51,233 --> 00:06:52,650
+[HEALER 8A]
+Yes. We're supposed to receive
+
+123
+00:06:52,733 --> 00:06:54,442
+a delivery of medicine shortly.
+
+124
+00:06:54,525 --> 00:06:55,942
+[ASSISTANT 8A] But they
+said that the heroes are
+
+125
+00:06:56,025 --> 00:06:59,483
+still too busy to help us yet,
+so all we can do is wait.
+
+126
+00:06:59,567 --> 00:07:01,108
+They're too busy to help?
+
+127
+00:07:01,192 --> 00:07:03,025
+[NAOFUMI] Cancel the request.
+Tell 'em you don't need it.
+
+128
+00:07:03,108 --> 00:07:04,400
+[gasps]
+
+129
+00:07:04,483 --> 00:07:07,025
+[NAOFUMI] Raphtalia...
+Get ready, we're setting out.
+
+130
+00:07:07,108 --> 00:07:08,233
+Right!
+
+131
+00:07:08,317 --> 00:07:09,817
+Wait! You don't mean
+to say you're planning
+
+132
+00:07:09,900 --> 00:07:12,608
+to go out there yourself!
+It'll be far too dangerous!
+
+133
+00:07:12,692 --> 00:07:14,275
+Oh, you don't need
+to worry about us.
+
+134
+00:07:14,358 --> 00:07:15,733
+We're used to danger.
+
+135
+00:07:15,817 --> 00:07:18,942
+I just can't find the words
+to express our gratitude.
+
+136
+00:07:19,025 --> 00:07:22,108
+You can keep your thanks.
+What I want is your money.
+
+137
+00:07:22,192 --> 00:07:23,525
+Five hundred silvers will do it.
+
+138
+00:07:23,608 --> 00:07:26,483
+[HEALER 8A]
+Five hundred?! That's too much!
+
+139
+00:07:26,567 --> 00:07:28,317
+That includes hazard pay
+so you can just give me
+
+140
+00:07:28,400 --> 00:07:29,942
+what you were going
+to pay the court,
+
+141
+00:07:30,025 --> 00:07:31,483
+or were you hoping
+for a discount?
+
+142
+00:07:31,567 --> 00:07:34,067
+"Savior," my foot.
+He's just a lousy money-grubber.
+
+143
+00:07:34,150 --> 00:07:35,858
+[HEALER 8A]
+You musn't speak like that.
+
+144
+00:07:35,942 --> 00:07:38,900
+I don't recall asking
+anybody to call me a savior.
+
+145
+00:07:42,525 --> 00:07:44,567
+[RAPHTALIA] Master Naofumi,
+you're deliberately trying
+
+146
+00:07:44,650 --> 00:07:46,942
+to make them
+hate you, aren't you?
+
+147
+00:07:50,608 --> 00:07:53,150
+[RAPHTALIA] Anyway, I know we're
+dealing with a dragon here,
+
+148
+00:07:53,233 --> 00:07:56,275
+but this is a lot more
+than what we usually carry.
+
+149
+00:07:56,358 --> 00:07:58,192
+[NAOFUMI] We had to take
+the wagon either way.
+
+150
+00:07:58,275 --> 00:08:00,400
+A little more luggage
+isn't a problem.
+
+151
+00:08:00,483 --> 00:08:02,358
+[RAPHTALIA] We could've
+traveled much lighter if Filo
+
+152
+00:08:02,442 --> 00:08:04,567
+hadn't thrown such a tantrum.
+
+153
+00:08:04,650 --> 00:08:06,025
+I've collected
+a lifetime's worth
+
+154
+00:08:06,108 --> 00:08:08,067
+of memories with this wagon.
+
+155
+00:08:08,150 --> 00:08:09,858
+We can't leave it behind!
+
+156
+00:08:09,942 --> 00:08:12,817
+[NAOFUMI] Yeah, right,
+a lifetime of a whole month.
+
+157
+00:08:12,900 --> 00:08:14,400
+[FILO growls]
+
+158
+00:08:14,483 --> 00:08:17,067
+[RAPHTALIA] I don't know what
+to do about Filo's selfishness.
+
+159
+00:08:17,150 --> 00:08:18,400
+[NAOFUMI] You know,
+it might've actually been
+
+160
+00:08:18,483 --> 00:08:20,483
+a pretty good idea after all.
+
+161
+00:08:20,567 --> 00:08:21,650
+[RAPHTALIA gasps]
+
+162
+00:08:22,942 --> 00:08:23,858
+[NAOFUMI]
+We'll never get anywhere
+
+163
+00:08:23,942 --> 00:08:26,067
+if we try to fight them all.
+
+164
+00:08:26,150 --> 00:08:29,108
+As Shield Hero, source of
+thy power, I order thee.
+
+165
+00:08:29,192 --> 00:08:32,525
+Decipher the laws of nature
+and defend my target.
+
+166
+00:08:32,608 --> 00:08:34,400
+Fast Guard!
+
+167
+00:08:34,483 --> 00:08:35,525
+[FILO gasps]
+
+168
+00:08:35,608 --> 00:08:36,733
+[NAOFUMI]
+Run right through 'em, Filo!
+
+169
+00:08:36,817 --> 00:08:38,483
+[FILO]
+Okay!
+
+170
+00:08:46,900 --> 00:08:47,983
+[RAPHTALIA whimpers]
+
+171
+00:08:48,067 --> 00:08:49,317
+[NAOFUMI]
+The air here is terrible.
+
+172
+00:08:49,400 --> 00:08:51,900
+Stay back if you're
+having a hard time.
+
+173
+00:08:51,983 --> 00:08:54,025
+[RAPHTALIA]
+No, don't worry. I'll be fine.
+
+174
+00:08:54,108 --> 00:08:55,233
+[NAOFUMI]
+Okay.
+
+175
+00:08:55,317 --> 00:08:56,567
+But it would've been
+a really good idea
+
+176
+00:08:56,650 --> 00:08:58,483
+to eat before coming here.
+
+177
+00:08:58,567 --> 00:09:01,858
+Looking at this isn't
+doing wonders for my appetite.
+
+178
+00:09:01,942 --> 00:09:04,442
+[FILO chomping]
+I don't know what it is,
+
+179
+00:09:04,525 --> 00:09:06,608
+but looking at it
+sure made me hungry.
+
+180
+00:09:06,692 --> 00:09:08,692
+[RAPHTALIA]
+Try not to overeat!
+
+181
+00:09:08,775 --> 00:09:11,067
+[NAOFUMI groans]
+Given its size,
+
+182
+00:09:11,150 --> 00:09:13,692
+even taking it apart
+will be a pain.
+
+183
+00:09:15,108 --> 00:09:16,608
+[squelching]
+
+184
+00:09:16,692 --> 00:09:17,775
+[NAOFUMI gasps]
+
+185
+00:09:31,692 --> 00:09:33,817
+[NAOFUMI]
+It's a damn dragon zombie!
+
+186
+00:09:33,900 --> 00:09:35,442
+What the--?!
+
+187
+00:09:35,525 --> 00:09:37,608
+[RAPHTALIA]
+What do we do, Master Naofumi?!
+
+188
+00:09:37,692 --> 00:09:39,942
+[NAOFUMI]
+For now, just get away from it!
+
+189
+00:09:41,400 --> 00:09:42,775
+[FILO yells]
+
+190
+00:09:42,858 --> 00:09:43,942
+[NAOFUMI gasps]
+
+191
+00:09:45,400 --> 00:09:48,692
+A dragon?! I hate dragons!
+
+192
+00:09:48,775 --> 00:09:49,733
+[NAOFUMI gasps]
+
+193
+00:09:49,817 --> 00:09:51,150
+[FILO grunts]
+
+194
+00:09:52,233 --> 00:09:54,525
+There might just
+be a way to fight it.
+
+195
+00:09:58,150 --> 00:10:00,733
+Get behind me,
+you two! And do it now!
+
+196
+00:10:05,108 --> 00:10:07,442
+[RAPHTALIA coughs]
+
+197
+00:10:07,525 --> 00:10:10,275
+[NAOFUMI] My shield can't
+block all its poison breath.
+
+198
+00:10:10,358 --> 00:10:12,900
+I have resistance,
+but Raphtalia doesn't!
+
+199
+00:10:12,983 --> 00:10:14,400
+But still...
+
+200
+00:10:14,483 --> 00:10:18,650
+If we don't stop it here,
+it'll cause even more damage!
+
+201
+00:10:18,733 --> 00:10:19,567
+[NAOFUMI growls]
+
+202
+00:10:19,650 --> 00:10:20,650
+Now I'm mad!
+
+203
+00:10:20,733 --> 00:10:24,067
+[gasps] Filo!
+Don't fight it alone!
+
+204
+00:10:27,608 --> 00:10:30,025
+If we don't get away
+and regroup, we're finished!
+
+205
+00:10:30,108 --> 00:10:31,650
+We gotta go, Raphtalia.
+
+206
+00:10:31,733 --> 00:10:32,983
+Filo, c'mon!
+
+207
+00:10:33,067 --> 00:10:34,150
+[RAPHTALIA gasps]
+
+208
+00:10:34,233 --> 00:10:38,150
+[NAOFUMI]
+That idiot! Hey! Filo!
+
+209
+00:10:38,233 --> 00:10:39,317
+Huh--?
+
+210
+00:10:45,775 --> 00:10:48,650
+Filo!
+
+211
+00:10:48,733 --> 00:10:50,275
+[roars]
+
+212
+00:10:50,358 --> 00:10:51,275
+[RAPHTALIA]
+Filo!
+
+213
+00:10:51,358 --> 00:10:53,733
+[RAPHTALIA coughs]
+
+214
+00:10:53,817 --> 00:10:55,692
+[NAOFUMI growls]
+
+215
+00:11:08,525 --> 00:11:10,275
+[NAOFUMI]
+Again?
+
+216
+00:11:10,358 --> 00:11:13,525
+Am I going to lose it all again?
+
+217
+00:11:13,608 --> 00:11:18,358
+Is this world going to...
+take everything from me again?
+
+218
+00:11:21,317 --> 00:11:22,525
+[NAOFUMI]
+Power?
+
+219
+00:11:25,692 --> 00:11:27,150
+[NAOFUMI]
+Hate.
+
+220
+00:11:37,108 --> 00:11:39,233
+[NAOFUMI]
+I hate it.
+
+221
+00:11:39,317 --> 00:11:41,150
+I hate it all.
+
+222
+00:11:44,275 --> 00:11:45,900
+[laughs]
+
+223
+00:11:45,983 --> 00:11:47,483
+[NAOFUMI]
+Hate...
+
+224
+00:11:53,608 --> 00:11:57,608
+[NAOFUMI]
+Hate!
+
+225
+00:12:05,192 --> 00:12:09,817
+How dare you
+kill her! Filo! [gasps]
+
+226
+00:12:09,900 --> 00:12:12,150
+No! Master Naofumi!
+
+227
+00:12:21,942 --> 00:12:25,150
+[RAPHTALIA gasps]
+Master Naofumi!
+
+228
+00:12:30,983 --> 00:12:32,067
+[RAPHTALIA]
+No...
+
+229
+00:12:32,150 --> 00:12:34,983
+Not Master Naofumi, too...
+
+230
+00:12:35,067 --> 00:12:36,483
+[RAPHTALIA gasps]
+
+231
+00:12:38,025 --> 00:12:39,192
+[RAPHTALIA gasps]
+
+232
+00:12:44,067 --> 00:12:48,275
+[NAOFUMI growls]
+
+233
+00:12:48,358 --> 00:12:52,775
+[yells]
+
+234
+00:12:52,858 --> 00:12:54,817
+Master Naofumi!
+
+235
+00:12:58,192 --> 00:12:59,567
+[RAPHTALIA gasps]
+
+236
+00:13:24,358 --> 00:13:26,067
+Now burn.
+
+237
+00:13:37,858 --> 00:13:40,108
+[NAOFUMI]
+Kill.
+
+238
+00:13:40,192 --> 00:13:42,150
+Kill them all.
+
+239
+00:13:53,733 --> 00:13:55,775
+[NAOFUMI]
+Suffer.
+
+240
+00:13:59,733 --> 00:14:04,358
+[NAOFUMI]
+Die!
+
+241
+00:14:05,317 --> 00:14:07,483
+[RAPHTALIA]
+I believe you.
+
+242
+00:14:07,567 --> 00:14:09,483
+[NAOFUMI gasps]
+
+243
+00:14:09,567 --> 00:14:12,233
+[RAPHTALIA] I swear
+to be your sword forever!
+
+244
+00:14:12,317 --> 00:14:13,483
+[NAOFUMI]
+That voice...
+
+245
+00:14:13,567 --> 00:14:15,025
+What...
+
+246
+00:14:15,108 --> 00:14:16,733
+[RAPHTALIA] This is a world
+where it's hard to find people
+
+247
+00:14:16,817 --> 00:14:19,983
+to trust, but I know
+I can trust you.
+
+248
+00:14:20,067 --> 00:14:23,775
+I trust the great Shield Hero.
+
+249
+00:14:23,858 --> 00:14:27,608
+[gasps] What was I doing?
+
+250
+00:14:27,692 --> 00:14:30,567
+[RAPHTALIA]
+Master Naofumi...
+
+251
+00:14:30,650 --> 00:14:33,233
+I'm so glad...
+that you're back to--
+
+252
+00:14:33,317 --> 00:14:35,108
+[coughs]
+
+253
+00:14:36,067 --> 00:14:37,775
+[NAOFUMI gasps]
+Raphtalia!
+
+254
+00:14:37,858 --> 00:14:40,025
+What is all this?
+
+255
+00:14:40,108 --> 00:14:41,817
+What the hell...
+
+256
+00:14:43,358 --> 00:14:46,608
+As Shield Hero, source of
+thy power, I order thee.
+
+257
+00:14:46,692 --> 00:14:49,900
+Decipher the laws of nature
+and heal my target.
+
+258
+00:14:49,983 --> 00:14:51,733
+Fast Heal!
+
+259
+00:14:54,275 --> 00:14:56,525
+[gasps] And heal my target!
+
+260
+00:14:56,608 --> 00:14:58,233
+Fast Heal!
+
+261
+00:14:59,275 --> 00:15:01,275
+Come on, I said heal, dammit!
+
+262
+00:15:01,358 --> 00:15:03,900
+Fast Heal! Fast Heal!
+
+263
+00:15:03,983 --> 00:15:06,567
+It's all my fault...
+
+264
+00:15:06,650 --> 00:15:08,983
+Stay away from her!
+
+265
+00:15:10,150 --> 00:15:11,275
+[NAOFUMI gasps]
+
+266
+00:15:12,608 --> 00:15:14,775
+C'mon!
+
+267
+00:15:16,525 --> 00:15:20,108
+[NAOFUMI] To defeat the dragon,
+I have to use this power.
+
+268
+00:15:20,192 --> 00:15:21,317
+But...
+
+269
+00:15:21,400 --> 00:15:25,608
+If I lose focus,
+hatred will consume my mind.
+
+270
+00:15:25,692 --> 00:15:27,275
+What can I do?!
+
+271
+00:15:37,108 --> 00:15:38,358
+[gasps]
+
+272
+00:15:47,775 --> 00:15:48,858
+What happened?
+
+273
+00:15:48,942 --> 00:15:49,983
+I don't--
+
+274
+00:15:50,067 --> 00:15:52,192
+Master Naofumi?
+
+275
+00:15:52,275 --> 00:15:53,983
+Raphtalia!
+
+276
+00:15:54,067 --> 00:15:55,483
+You okay?
+
+277
+00:15:56,525 --> 00:15:57,775
+Yes, I am...
+
+278
+00:15:57,858 --> 00:16:01,400
+Thanks to your healing,
+Master Naofumi.
+
+279
+00:16:01,483 --> 00:16:04,942
+And... I'm glad we finally
+defeated the dragon...
+
+280
+00:16:17,650 --> 00:16:19,608
+[FILO sighs]
+
+281
+00:16:19,692 --> 00:16:22,233
+Filo! You're alive!
+
+282
+00:16:22,317 --> 00:16:24,817
+Well, It took me
+a little while, but I'm out!
+
+283
+00:16:24,900 --> 00:16:25,942
+[NAOFUMI]
+You okay?
+
+284
+00:16:26,025 --> 00:16:27,275
+[FILO]
+Mm-hmm!
+
+285
+00:16:27,358 --> 00:16:30,275
+But it ate you. And there
+was blood everywhere...
+
+286
+00:16:30,358 --> 00:16:32,692
+Blood? Oh, that was
+just the fruit
+
+287
+00:16:32,775 --> 00:16:36,150
+I threw up when
+the dragon gobbled me up.
+
+288
+00:16:38,233 --> 00:16:40,400
+Seriously,
+you threw up your snack?
+
+289
+00:16:40,483 --> 00:16:42,108
+That's so sweet of you, Master.
+
+290
+00:16:42,192 --> 00:16:45,358
+Thank you so much
+for worrying about me.
+
+291
+00:16:45,442 --> 00:16:46,858
+Who was worried?
+
+292
+00:16:46,942 --> 00:16:49,192
+[FILO] Then why are you
+looking away from me?
+
+293
+00:16:49,275 --> 00:16:50,692
+[NAOFUMI]
+Get outta here...
+
+294
+00:16:50,775 --> 00:16:54,067
+[RAPHTALIA] So, wait, Filo--
+you killed the dragon, too?
+
+295
+00:16:54,150 --> 00:16:56,233
+Sure! And you know what else?
+
+296
+00:16:56,317 --> 00:16:58,817
+While I was tearing at
+its belly trying to get out,
+
+297
+00:16:58,900 --> 00:17:02,150
+I found a big purple crystal.
+
+298
+00:17:02,233 --> 00:17:03,567
+It was so shiny!
+
+299
+00:17:03,650 --> 00:17:05,442
+[NAOFUMI]
+A crystal?
+
+300
+00:17:05,525 --> 00:17:08,358
+So that must have been
+the source of its power.
+
+301
+00:17:08,442 --> 00:17:10,900
+And what did you do
+with the crystal?
+
+302
+00:17:10,983 --> 00:17:12,567
+[belches]
+
+303
+00:17:14,567 --> 00:17:15,817
+[NAOFUMI]
+You ate it?!
+
+304
+00:17:15,900 --> 00:17:17,692
+[RAPHTALIA laughs]
+
+305
+00:17:17,775 --> 00:17:19,317
+--[RAPHTALIA coughs]
+--Uh-- Raphtalia!
+
+306
+00:17:19,400 --> 00:17:20,733
+[FILO]
+Master, what's wrong?
+
+307
+00:17:20,817 --> 00:17:23,150
+Filo, we gotta
+give her medicine.
+
+308
+00:17:23,233 --> 00:17:24,817
+Then we'll head back
+to the village.
+
+309
+00:17:24,900 --> 00:17:26,483
+--[RAPHTALIA] No.
+--[NAOFUMI gasps]
+
+310
+00:17:26,567 --> 00:17:28,650
+We have to get rid of
+the dragon's body first.
+
+311
+00:17:28,733 --> 00:17:30,650
+[NAOFUMI]
+You come first!
+
+312
+00:17:30,733 --> 00:17:33,275
+Stop worrying. I promise
+I'll take the medicine
+
+313
+00:17:33,358 --> 00:17:36,483
+and then rest, and I just
+know that I'll feel better.
+
+314
+00:17:36,567 --> 00:17:39,192
+Filo. Let's clean up this mess.
+
+315
+00:17:39,275 --> 00:17:40,483
+[FILO]
+Mm!
+
+316
+00:17:41,525 --> 00:17:44,150
+[HEALER 8A] The mountain
+wind has gone back to normal.
+
+317
+00:17:44,233 --> 00:17:46,733
+We'll be all right now.
+
+318
+00:17:46,817 --> 00:17:49,317
+Thank you so very much.
+
+319
+00:17:49,400 --> 00:17:52,150
+Go ahead and use that money
+to treat Raphtalia.
+
+320
+00:17:52,233 --> 00:17:55,817
+I don't care how much
+it costs. Just cure her.
+
+321
+00:17:55,900 --> 00:17:58,650
+[HEALER 8A]
+Curing her will be difficult.
+
+322
+00:17:58,733 --> 00:18:00,525
+She's been afflicted
+with a curse,
+
+323
+00:18:00,608 --> 00:18:02,817
+and a powerful one at that.
+
+324
+00:18:02,900 --> 00:18:04,275
+We've done what we can:
+
+325
+00:18:04,358 --> 00:18:07,192
+we wrapped her with bandages
+soaked in holy water,
+
+326
+00:18:07,275 --> 00:18:09,317
+but we don't have a holy water
+that's pure enough
+
+327
+00:18:09,400 --> 00:18:12,025
+to dispel curses like this.
+
+328
+00:18:12,108 --> 00:18:14,400
+However, if you go to
+a church in a big town,
+
+329
+00:18:14,483 --> 00:18:16,150
+I know you'll find some.
+
+330
+00:18:16,233 --> 00:18:18,942
+Please keep this money
+for when you do.
+
+331
+00:18:20,317 --> 00:18:21,942
+Thanks, Doc.
+
+332
+00:18:24,608 --> 00:18:26,858
+Raphtalia, how are you feeling?
+
+333
+00:18:26,942 --> 00:18:30,483
+[RAPHTALIA] Well, they've taken
+good care of me. I feel better.
+
+334
+00:18:30,567 --> 00:18:31,733
+I never knew that corpses
+
+335
+00:18:31,817 --> 00:18:34,608
+could inflict such
+powerful curses.
+
+336
+00:18:34,692 --> 00:18:37,817
+I just can't believe
+how terrifying dragons are.
+
+337
+00:18:37,900 --> 00:18:39,067
+I know, right?
+
+338
+00:18:39,150 --> 00:18:40,692
+I shouldn't have been
+so careless and gotten
+
+339
+00:18:40,775 --> 00:18:43,025
+all that rotten flesh on me.
+
+340
+00:18:44,817 --> 00:18:45,733
+[ASSISTANT 8A]
+Hm?
+
+341
+00:18:45,817 --> 00:18:46,900
+[ASSISTANT 8A giggles]
+
+342
+00:18:46,983 --> 00:18:48,858
+He cares very much
+about you, doesn't he?
+
+343
+00:18:48,942 --> 00:18:51,192
+Eh? Well, I don't think, uh--
+
+344
+00:18:51,275 --> 00:18:53,900
+Take care, Raphtalia. Bye!
+
+345
+00:18:53,983 --> 00:18:55,233
+[FILO]
+Hm?
+
+346
+00:18:56,358 --> 00:18:58,025
+I'm really sorry.
+
+347
+00:18:58,108 --> 00:19:00,150
+Everything's all right.
+
+348
+00:19:00,233 --> 00:19:02,150
+It's just that,
+I got this strange feeling
+
+349
+00:19:02,233 --> 00:19:04,692
+that power would take
+you somewhere far away.
+
+350
+00:19:04,775 --> 00:19:07,192
+And I couldn't bear that.
+
+351
+00:19:07,275 --> 00:19:09,483
+And so, given that
+I was able to stop you
+
+352
+00:19:09,567 --> 00:19:13,400
+before that, this doesn't
+bother me in the slightest.
+
+353
+00:19:15,025 --> 00:19:16,650
+What does she mean, Master?
+
+354
+00:19:16,733 --> 00:19:18,400
+You're not leaving, are you?
+
+355
+00:19:18,483 --> 00:19:21,067
+[NAOFUMI]
+I'm not going anywhere.
+
+356
+00:19:21,150 --> 00:19:23,858
+Oh! I have a gift for you,
+Master! Right here!
+
+357
+00:19:23,942 --> 00:19:25,567
+[NAOFUMI]
+Huh?
+
+358
+00:19:25,650 --> 00:19:26,942
+What's this?
+
+359
+00:19:28,442 --> 00:19:30,983
+It's a crystal I found
+inside the dragon.
+
+360
+00:19:31,067 --> 00:19:32,817
+Filo, tell me you
+didn't throw that up!
+
+361
+00:19:32,900 --> 00:19:34,858
+--[NAOFUMI gasps]
+--Of course not!
+
+362
+00:19:34,942 --> 00:19:38,108
+I kept this one 'cause
+I wanted to give you a gift!
+
+363
+00:19:38,192 --> 00:19:39,525
+[NAOFUMI]
+If this is a crystallization of
+
+364
+00:19:39,608 --> 00:19:42,817
+the residual mana from
+the dragon's corpse...
+
+365
+00:19:49,983 --> 00:19:52,650
+[NAOFUMI]
+My level isn't high enough?
+
+366
+00:19:52,733 --> 00:19:55,733
+That shield wasn't
+in the upgrade tree.
+
+367
+00:19:55,817 --> 00:19:58,275
+If I'd continued
+to use its power,
+
+368
+00:19:58,358 --> 00:20:01,233
+I would've killed both
+Raphtalia and Filo
+
+369
+00:20:01,317 --> 00:20:04,275
+while she was still
+inside the dragon.
+
+370
+00:20:04,358 --> 00:20:06,858
+Master Naofumi?
+
+371
+00:20:06,942 --> 00:20:09,775
+[NAOFUMI]
+Forgive me, both of you.
+
+372
+00:20:09,858 --> 00:20:10,900
+I put you in grave danger
+
+373
+00:20:10,983 --> 00:20:15,025
+because I hesitated
+for an instant.
+
+374
+00:20:15,108 --> 00:20:17,692
+Just as bravery and
+recklessness are different,
+
+375
+00:20:17,775 --> 00:20:20,025
+so are caution and cowardice.
+
+376
+00:20:20,108 --> 00:20:21,650
+If I remain a coward,
+
+377
+00:20:21,733 --> 00:20:24,442
+I'll fail to protect
+the things I care about.
+
+378
+00:20:24,525 --> 00:20:26,400
+Back there,
+I should've stepped up
+
+379
+00:20:26,483 --> 00:20:28,608
+and distracted the dragon.
+
+380
+00:20:28,692 --> 00:20:31,192
+There were so many
+things I could've done!
+
+381
+00:20:31,275 --> 00:20:33,775
+It wasn't your fault,
+Master Naofumi!
+
+382
+00:20:33,858 --> 00:20:36,317
+If only I'd been stronger,
+I could have done more to help!
+
+383
+00:20:36,400 --> 00:20:38,567
+Yeah. Because I
+hate dragons so much,
+
+384
+00:20:38,650 --> 00:20:41,733
+I charged in when
+I shouldn't have.
+
+385
+00:20:41,817 --> 00:20:43,567
+You both are...
+
+386
+00:20:48,525 --> 00:20:51,733
+We are so much stronger now
+than we ever were before.
+
+387
+00:20:51,817 --> 00:20:54,233
+And we'll be even
+stronger tomorrow.
+
+388
+00:20:54,317 --> 00:20:56,650
+Let's keep that up,
+one day at a time.
+
+389
+00:20:56,733 --> 00:20:58,275
+Yes. Together.
+
+390
+00:20:58,358 --> 00:21:00,942
+Yeah! The three of us!
+
+391
+00:21:01,025 --> 00:21:02,108
+Okay!
+
+392
+00:21:02,192 --> 00:21:04,567
+Wow, you smiled, Master!
+
+393
+00:21:04,650 --> 00:21:05,608
+Huh?
+
+394
+00:21:05,692 --> 00:21:07,192
+[RAPHTALIA]
+She's right! It's true!
+
+395
+00:21:07,275 --> 00:21:09,608
+You finally showed us
+an actual smile.
+
+396
+00:21:09,692 --> 00:21:11,275
+[NAOFUMI]
+Did I? Uhh...
+
+397
+00:21:11,358 --> 00:21:13,942
+Yep! Right, Raphtalia?
+He smiled!
+
+398
+00:21:14,025 --> 00:21:14,942
+Sure did!
+
+399
+00:21:15,025 --> 00:21:17,233
+[BOTH laugh]
+
+400
+00:21:17,317 --> 00:21:19,275
+It's getting pretty late now.
+
+401
+00:21:19,358 --> 00:21:21,275
+Time to rest up
+and get some sleep.
+
+402
+00:21:21,358 --> 00:21:23,192
+'Kay! [giggles]
+
+403
+00:21:23,275 --> 00:21:24,983
+U-Um...
+
+404
+00:21:26,025 --> 00:21:27,942
+Master Naofumi,
+would you be willing
+
+405
+00:21:28,025 --> 00:21:29,858
+to spend the night with me?
+
+406
+00:21:29,942 --> 00:21:31,358
+Feeling a little lonely tonight?
+
+407
+00:21:31,442 --> 00:21:33,067
+Oh, it's not that.
+
+408
+00:21:33,150 --> 00:21:35,858
+I just thought I should be
+allowed to have this, for once.
+
+409
+00:21:35,942 --> 00:21:37,692
+--[NAOFUMI] Filo...
+--[RAPHTALIA] Hm?
+
+410
+00:21:37,775 --> 00:21:39,858
+[NAOFUMI]
+Sleep with Raphtalia tonight.
+
+411
+00:21:39,942 --> 00:21:41,692
+--Yes, sir!
+--Huh?
+
+412
+00:21:41,775 --> 00:21:43,442
+[NAOFUMI]
+You're cold, aren't you?
+
+413
+00:21:43,525 --> 00:21:45,317
+No, that's not what
+I'm talking about.
+
+414
+00:21:45,400 --> 00:21:47,067
+What I meant was...
+
+415
+00:21:47,150 --> 00:21:48,817
+Aren't you going
+to join us, Master?
+
+416
+00:21:48,900 --> 00:21:49,817
+It'll be more fun.
+
+417
+00:21:49,900 --> 00:21:50,817
+[NAOFUMI]
+Not a chance.
+
+418
+00:21:50,900 --> 00:21:52,150
+--[FILO] Huh?
+--[RAPHTALIA] Uhh?
+
+419
+00:21:52,233 --> 00:21:54,567
+I'm not exactly
+a warm kinda guy.
+
+420
+00:21:56,358 --> 00:21:58,108
+[BOTH whine]
+
+421
+00:22:02,900 --> 00:22:04,983
+[NAOFUMI]
+I have to grow stronger...
+
+422
+00:22:06,483 --> 00:22:09,150
+[NAOFUMI] Along with
+the people who believe in me.
+
+423
+00:22:10,567 --> 00:22:15,317
+[NAOFUMI] And I'll protect them,
+no matter what happens!
+

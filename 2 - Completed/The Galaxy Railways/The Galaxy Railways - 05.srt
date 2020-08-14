@@ -1,0 +1,1554 @@
+﻿1
+00:01:41,083 --> 00:01:43,041
+[Narr] Planet Leo Glando;
+
+2
+00:01:43,125 --> 00:01:46,333
+its atmosphere is covered
+with a thick Plasma Layer.
+
+3
+00:01:46,416 --> 00:01:48,583
+Famous for its rich
+mineral content,
+
+4
+00:01:48,666 --> 00:01:51,375
+its surface is littered
+with mining operations.
+
+5
+00:01:51,458 --> 00:01:54,041
+At least once a day an
+unmanned freight train
+
+6
+00:01:54,125 --> 00:01:56,583
+carries its valuable
+subterranean treasures
+
+7
+00:01:56,666 --> 00:01:58,791
+to other planets
+in the Galaxy.
+
+8
+00:02:03,416 --> 00:02:04,708
+[Miki] There's been
+an explosion
+
+9
+00:02:04,791 --> 00:02:06,708
+on an ascending
+launch on Leo Glando!
+
+10
+00:02:06,791 --> 00:02:08,375
+The tracks are
+severely damaged!
+
+11
+00:02:08,458 --> 00:02:10,333
+[Kate] Freight train
+Number Five-thirty-four
+
+12
+00:02:10,416 --> 00:02:13,208
+has derailed and crashed on
+the planet surface, Commander.
+
+13
+00:02:14,458 --> 00:02:16,750
+I want Bulge on this!
+Dispatch Sirius Platoon!
+
+14
+00:02:18,750 --> 00:02:22,833
+Two paths will cross again.
+It cannot be avoided.
+
+15
+00:02:56,750 --> 00:02:59,250
+The diagnostic is showing
+that we have a small problem
+
+16
+00:02:59,333 --> 00:03:00,958
+with our Output
+Relay, Captain.
+
+17
+00:03:01,041 --> 00:03:02,416
+It must have
+taken some damage
+
+18
+00:03:02,500 --> 00:03:04,083
+when we broke through
+the Plasma Layer.
+
+19
+00:03:04,166 --> 00:03:06,541
+It shouldn't take that
+long to repair, Sir.
+
+20
+00:03:06,625 --> 00:03:08,083
+All right then, David.
+
+21
+00:03:08,166 --> 00:03:09,916
+You stay here and
+fix the Output Relay
+
+22
+00:03:10,000 --> 00:03:12,208
+while we go ahead and recover
+the Five-thirty-four.
+
+23
+00:03:12,291 --> 00:03:15,083
+Manabu, I want you to
+stay and assist David.
+
+24
+00:03:15,166 --> 00:03:16,041
+The rest of you
+are with me.
+
+25
+00:03:16,125 --> 00:03:16,958
+[All] Yes, Sir!
+
+26
+00:03:32,333 --> 00:03:34,500
+You probably wanted
+to go with the others.
+
+27
+00:03:34,583 --> 00:03:37,250
+Well, I do like to be
+where the action is.
+
+28
+00:03:37,333 --> 00:03:40,416
+And I did study train recovery
+in school a little bit.
+
+29
+00:03:40,500 --> 00:03:42,833
+A little bit? No wonder
+they didn't take you.
+
+30
+00:03:44,208 --> 00:03:46,750
+Yuuki! A little bit of school
+doesn't make you an expert!
+
+31
+00:03:49,541 --> 00:03:50,833
+Ha, ha, ha, ha!
+
+32
+00:03:50,916 --> 00:03:53,000
+Stop loafing, Cadet!
+We're on a timetable here!
+
+33
+00:03:54,041 --> 00:03:56,916
+Ha, ha, ha! Relax!
+I'm only kidding!
+
+34
+00:03:57,000 --> 00:03:58,125
+Now let's get this
+thing patched up
+
+35
+00:03:58,208 --> 00:03:59,333
+so we can join
+the others!
+
+36
+00:03:59,416 --> 00:04:00,541
+[Manabu] Right!
+
+37
+00:04:00,625 --> 00:04:02,666
+Go ahead and connect
+those two there, Manabu.
+
+38
+00:04:02,750 --> 00:04:04,000
+Got it!
+
+39
+00:04:04,083 --> 00:04:06,583
+Hey, David, has Bruce
+always been... You know.
+
+40
+00:04:06,666 --> 00:04:08,166
+Yeah, I know.
+
+41
+00:04:10,000 --> 00:04:12,583
+That was a reckless move!
+You could have been killed!
+
+42
+00:04:12,666 --> 00:04:14,875
+If you have a death wish
+join another platoon!
+
+43
+00:04:17,041 --> 00:04:19,250
+Yeah, ol' Bruce is
+pretty tightly wound.
+
+44
+00:04:19,333 --> 00:04:21,000
+There's no doubt
+about that.
+
+45
+00:04:21,083 --> 00:04:22,291
+Check B Panel
+would ya?
+
+46
+00:04:22,375 --> 00:04:23,750
+Sure.
+Got it.
+
+47
+00:04:25,333 --> 00:04:27,625
+[David] Yeah, Bruce is a
+tough guy to get to know.
+
+48
+00:04:27,708 --> 00:04:29,000
+It's hard to
+talk to him.
+
+49
+00:04:29,083 --> 00:04:32,333
+He wasn't always
+like that though.
+
+50
+00:04:32,416 --> 00:04:34,000
+We're done!
+We did it, Manabu!
+
+51
+00:04:34,083 --> 00:04:35,500
+[Alarm]
+
+52
+00:04:35,583 --> 00:04:36,750
+What is it?
+
+53
+00:04:36,833 --> 00:04:38,583
+Something's interfering
+with the Signal Relay
+
+54
+00:04:38,666 --> 00:04:40,208
+underneath the
+second coach.
+
+55
+00:04:40,291 --> 00:04:41,541
+Ahh, there we go.
+
+56
+00:04:41,625 --> 00:04:43,375
+It's pinpointing
+the trouble.
+
+57
+00:04:43,458 --> 00:04:45,000
+Can you check out
+those areas, Manabu?
+
+58
+00:04:45,083 --> 00:04:45,875
+Yeah! Sure!
+
+59
+00:04:52,791 --> 00:04:53,750
+[Whack!]
+
+60
+00:05:01,333 --> 00:05:03,833
+The train Identification Signal
+from Big One has disappeared!
+
+61
+00:05:03,916 --> 00:05:04,916
+[Commander] What?
+
+62
+00:05:05,000 --> 00:05:07,041
+Big One's not
+responding, Commander!
+
+63
+00:05:07,125 --> 00:05:10,750
+This is unheard of! I want Spica
+Platoon in the air immediately!
+
+64
+00:05:10,833 --> 00:05:13,000
+Big One must be
+found at all costs!
+
+65
+00:05:13,083 --> 00:05:15,791
+[Sayaka] Spica Platoon!
+Immediate dispatch requested!
+
+66
+00:05:15,875 --> 00:05:18,375
+[Miki] Converting Big One's
+signal data to Trace Mode!
+
+67
+00:05:18,458 --> 00:05:20,333
+Transferring it
+to No. 34 now!
+
+68
+00:05:21,750 --> 00:05:23,750
+Manabu? Can
+you hear me?
+
+69
+00:05:28,416 --> 00:05:31,333
+[Bulge] Easy, Manabu. You've
+sustained a head injury.
+
+70
+00:05:31,416 --> 00:05:33,333
+Where am I?
+Where's Big One?
+
+71
+00:05:33,416 --> 00:05:34,416
+[Louis] We
+don't know.
+
+72
+00:05:34,500 --> 00:05:35,583
+[Manabu] What?
+
+73
+00:05:35,666 --> 00:05:37,791
+[Louis] We lost contact
+so we got worried.
+
+74
+00:05:37,875 --> 00:05:39,666
+When we came to check on you,
+Big One was gone.
+
+75
+00:05:39,750 --> 00:05:41,083
+[Manabu] You're
+kidding me!
+
+76
+00:05:41,166 --> 00:05:43,333
+[Louis] We found you lying
+on the ground unconscious.
+
+77
+00:05:43,416 --> 00:05:45,208
+[Bulge] Manabu.
+What happened?
+
+78
+00:05:45,291 --> 00:05:46,666
+I don't remember.
+
+79
+00:05:46,750 --> 00:05:49,125
+I was looking under Big One
+and everything went black.
+
+80
+00:05:49,875 --> 00:05:51,958
+[Bruce] Do you remember
+seeing anyone, Yuuki?
+
+81
+00:05:52,041 --> 00:05:53,250
+No. Sorry.
+
+82
+00:06:07,375 --> 00:06:08,708
+Nice to see
+you, Captain.
+
+83
+00:06:08,791 --> 00:06:12,333
+I wish it were under different
+circumstances, Julia.
+
+84
+00:06:12,416 --> 00:06:14,625
+[AI] Captain, I've never
+seen anything like this.
+
+85
+00:06:14,708 --> 00:06:15,875
+There's so much
+interference
+
+86
+00:06:15,958 --> 00:06:17,625
+from the Plasma Layer
+and the soil components
+
+87
+00:06:17,708 --> 00:06:20,083
+that our radar can't
+function normally here.
+
+88
+00:06:20,166 --> 00:06:22,500
+Since Big One's Train ID
+Signal has been disabled,
+
+89
+00:06:22,583 --> 00:06:24,708
+there's no way for us to
+track it electronically.
+
+90
+00:06:24,791 --> 00:06:26,750
+We'll have to find it
+the old fashioned way.
+
+91
+00:06:26,833 --> 00:06:29,291
+Daylight will be a factor then.
+We should start immediately.
+
+92
+00:06:29,375 --> 00:06:31,791
+Yes. Agreed. But we
+have to be careful
+
+93
+00:06:31,875 --> 00:06:34,250
+communicating with each other
+since Big One's been captured.
+
+94
+00:06:35,833 --> 00:06:38,333
+Before you leave change the
+Network Range in your fighters
+
+95
+00:06:38,416 --> 00:06:39,958
+to Spica's security
+wavelength.
+
+96
+00:06:40,041 --> 00:06:41,083
+[All] Yes, Captain!
+
+97
+00:06:41,166 --> 00:06:42,958
+Manabu. I want
+you to stay here.
+
+98
+00:06:43,041 --> 00:06:44,166
+But Captain!
+
+99
+00:06:44,250 --> 00:06:45,625
+You have a head injury, Manabu.
+
+100
+00:06:45,708 --> 00:06:46,875
+I want you
+to rest.
+
+101
+00:06:46,958 --> 00:06:49,333
+I'm fine, Sir! Please!
+Let me help find David!
+
+102
+00:06:49,416 --> 00:06:51,125
+That's an order, Manabu.
+
+103
+00:06:51,208 --> 00:06:52,708
+Yuki, take him to
+the medical coach
+
+104
+00:06:52,791 --> 00:06:54,333
+and get a proper look
+at that injury.
+
+105
+00:06:54,416 --> 00:06:56,541
+Yes, Sir.
+Let's go, Manabu.
+
+106
+00:07:05,416 --> 00:07:08,583
+How can I stay behind when
+David's life is at stake?
+
+107
+00:07:23,750 --> 00:07:24,916
+Manabu, wait!
+
+108
+00:07:31,416 --> 00:07:32,833
+[Maggie] Are you
+out of your mind?
+
+109
+00:07:32,916 --> 00:07:34,750
+Just get this thing
+up in the air!
+
+110
+00:07:36,541 --> 00:07:39,208
+I think that blow to your
+head knocked a screw loose!
+
+111
+00:07:57,250 --> 00:07:58,833
+[Bulge] How much
+daylight do we have?
+
+112
+00:07:58,916 --> 00:08:00,250
+[Julia] A couple hours.
+
+113
+00:08:11,291 --> 00:08:14,583
+There! This is Manabu!
+We've found Big One!
+
+114
+00:08:14,666 --> 00:08:17,750
+It's heading Northeast
+along Line 14 in Sector 32!
+
+115
+00:08:21,333 --> 00:08:22,291
+Where you goin?
+
+116
+00:08:29,750 --> 00:08:31,416
+[Louis] It looks
+like Line 14
+
+117
+00:08:31,500 --> 00:08:33,250
+comes to an end
+right over there.
+
+118
+00:08:33,333 --> 00:08:35,875
+Huh? Bruce!
+A Plasma Hole!
+
+119
+00:08:35,958 --> 00:08:38,208
+They must be planning to go
+into space through there!
+
+120
+00:08:38,291 --> 00:08:39,750
+Don't be
+ridiculous, Louis.
+
+121
+00:08:39,833 --> 00:08:42,541
+Not even Big One can take to
+the air without using a launch.
+
+122
+00:08:44,208 --> 00:08:45,750
+[Bruce] Is that what
+I think it is?
+
+123
+00:08:46,708 --> 00:08:48,666
+A Transport Ship!
+
+124
+00:08:48,750 --> 00:08:51,666
+And the tracks are leading
+right to the cargo bay!
+
+125
+00:08:51,750 --> 00:08:53,500
+[Pirate] We're almost
+to the Transport Ship.
+
+126
+00:08:53,583 --> 00:08:55,625
+Who would have dreamed
+that it would be this easy?
+
+127
+00:08:55,708 --> 00:08:57,666
+They should be more
+careful with their toys.
+
+128
+00:08:57,750 --> 00:08:59,375
+With a Cosmo Generator,
+the Death Croites
+
+129
+00:08:59,458 --> 00:09:01,291
+can make enough weapons
+for a thousand armies,
+
+130
+00:09:01,375 --> 00:09:02,833
+and they practically
+gift-wrapped it
+
+131
+00:09:02,916 --> 00:09:03,916
+and gave it away.
+
+132
+00:09:04,000 --> 00:09:05,166
+I think we
+should all
+
+133
+00:09:05,250 --> 00:09:07,375
+send a nice thank you
+card to Captain Bulge.
+
+134
+00:09:07,458 --> 00:09:09,291
+[All Laugh]
+
+135
+00:09:09,375 --> 00:09:10,291
+Pirates!
+
+136
+00:09:12,041 --> 00:09:14,250
+[Kate] The data check on
+the illegal ship is complete.
+
+137
+00:09:14,333 --> 00:09:16,208
+Registration number
+two-eight-two!
+
+138
+00:09:16,291 --> 00:09:18,125
+It's identified as
+a large Transport Ship
+
+139
+00:09:18,208 --> 00:09:20,250
+belonging to the
+Death Croites, Commander.
+
+140
+00:09:20,333 --> 00:09:21,833
+What? The Death Croites?
+
+141
+00:09:21,916 --> 00:09:23,541
+Then it was all just a trick!
+
+142
+00:09:23,625 --> 00:09:25,125
+So, their target
+
+143
+00:09:25,208 --> 00:09:26,583
+was Big One all along.
+
+144
+00:09:31,750 --> 00:09:32,916
+How's it going, men?
+
+145
+00:09:33,000 --> 00:09:34,333
+All is well, Sir.
+
+146
+00:09:34,416 --> 00:09:36,250
+I want you to check
+the rear coaches.
+
+147
+00:09:36,333 --> 00:09:38,166
+We're selling the generator
+to the Death Croites,
+
+148
+00:09:38,250 --> 00:09:40,000
+but the rest
+belongs to us.
+
+149
+00:09:40,083 --> 00:09:42,333
+We're pirates after all!
+Let's loot this baby!
+
+150
+00:09:42,416 --> 00:09:44,250
+[All] Yeah!!
+[Laughter]
+
+151
+00:09:50,083 --> 00:09:51,000
+Huh?
+
+152
+00:09:51,083 --> 00:09:52,416
+What is it,
+Manabu?
+
+153
+00:09:52,500 --> 00:09:55,833
+Someone opened up a coded line,
+but didn't speak. David!
+
+154
+00:09:57,083 --> 00:10:00,583
+David! Captain Bulge here!
+Are you okay? What's going on?
+
+155
+00:10:03,750 --> 00:10:06,708
+[tap, tap...]
+
+156
+00:10:06,791 --> 00:10:10,166
+SDF signal code. David's
+tapping out a message.
+
+157
+00:10:10,250 --> 00:10:11,458
+He must not be
+able to talk.
+
+158
+00:10:13,375 --> 00:10:15,708
+Emergency message from
+Galaxy Railway Headquarters.
+
+159
+00:10:15,791 --> 00:10:16,791
+Onscreen!
+
+160
+00:10:18,250 --> 00:10:20,833
+Captains, in accordance
+with Article Three-eighty-seven
+
+161
+00:10:20,916 --> 00:10:22,875
+of SDF Regulations,
+
+162
+00:10:22,958 --> 00:10:25,458
+Galaxy Railway Headquarters
+has made a decision.
+
+163
+00:10:25,541 --> 00:10:27,375
+Destroy Big One.
+
+164
+00:10:27,458 --> 00:10:28,291
+That's an order.
+
+165
+00:10:40,625 --> 00:10:43,541
+[Julia] Commander! You want
+us to Destroy Big One?
+
+166
+00:10:43,625 --> 00:10:44,875
+That's correct,
+Captain.
+
+167
+00:10:44,958 --> 00:10:46,375
+[Bulge] With all due
+respect, Sir.
+
+168
+00:10:46,458 --> 00:10:48,875
+Does Supreme Commander
+know about this?
+
+169
+00:10:48,958 --> 00:10:51,833
+[Cmdr] This decision is
+based on SDF regulations.
+
+170
+00:10:51,916 --> 00:10:53,416
+There's no need
+to consult her.
+
+171
+00:10:53,500 --> 00:10:55,291
+[Bulge] But one of my
+men is on board!
+
+172
+00:10:55,375 --> 00:10:58,750
+We cannot allow Big One to
+fall into enemy hands, Captain.
+
+173
+00:10:58,833 --> 00:11:01,833
+But why are you ordering me
+to destroy my own ship?
+
+174
+00:11:01,916 --> 00:11:03,416
+Why not blow it
+up yourself?
+
+175
+00:11:03,500 --> 00:11:06,083
+If that were possible,
+we would have already done it.
+
+176
+00:11:06,166 --> 00:11:07,416
+We are unable
+to initiate
+
+177
+00:11:07,500 --> 00:11:10,083
+the self-destruct
+sequence at this time.
+
+178
+00:11:10,166 --> 00:11:13,250
+That's because the train ID
+Signal has been disabled, Sirs.
+
+179
+00:11:13,333 --> 00:11:14,791
+It won't work
+without it.
+
+180
+00:11:14,875 --> 00:11:17,500
+You have your orders, Captains.
+I don't care how you do it.
+
+181
+00:11:17,583 --> 00:11:20,375
+Just make sure you get
+the job done. Good luck.
+
+182
+00:11:24,125 --> 00:11:26,708
+[AI] Eagle 2 has completed
+their scan of Big One.
+
+183
+00:11:26,791 --> 00:11:28,708
+We've got two people
+confirmed in the rear coach;
+
+184
+00:11:28,791 --> 00:11:32,000
+two in the main control room;
+and one in the engine room.
+
+185
+00:11:32,083 --> 00:11:33,416
+Looks like
+David's signal
+
+186
+00:11:33,500 --> 00:11:35,041
+is coming from the
+main control room.
+
+187
+00:11:35,125 --> 00:11:38,333
+Captain Bulge, Sir. Permission
+to board Big One. I can make it.
+
+188
+00:11:38,416 --> 00:11:40,958
+I can jump on the roof
+and stop it from inside.
+
+189
+00:11:41,041 --> 00:11:42,875
+Permission denied.
+
+190
+00:11:42,958 --> 00:11:44,125
+Please, Sir!
+
+191
+00:11:44,208 --> 00:11:47,250
+Negative. Big One must
+be derailed and crashed!
+
+192
+00:11:48,791 --> 00:11:50,375
+[Louis] Did he
+say crashed?
+
+193
+00:11:50,458 --> 00:11:53,041
+Captain, this is
+Bruce. Please explain.
+
+194
+00:11:53,125 --> 00:11:55,291
+We can't allow Big
+One to be taken away.
+
+195
+00:11:55,375 --> 00:11:57,833
+We have to stop it before
+it reaches the Transport.
+
+196
+00:11:57,916 --> 00:12:01,041
+Our orders from headquarters
+are to destroy it.
+
+197
+00:12:01,125 --> 00:12:03,916
+[Louis] Captain Bulge,
+there's got to be another way!
+
+198
+00:12:04,000 --> 00:12:06,500
+How can you follow an order
+like that without protesting?
+
+199
+00:12:06,583 --> 00:12:07,416
+It's not right!
+
+200
+00:12:07,500 --> 00:12:08,291
+[Bang]
+
+201
+00:12:11,041 --> 00:12:13,833
+[Bulge] David. You have
+to get off that train.
+
+202
+00:12:13,916 --> 00:12:16,208
+Don't let me down.
+You have to escape.
+
+203
+00:12:20,125 --> 00:12:23,291
+[Bulge] Sirius Platoon!
+Return to the 34 immediately!
+
+204
+00:12:23,375 --> 00:12:24,625
+We're changing
+our plans!
+
+205
+00:12:42,083 --> 00:12:45,166
+[Manabu] I can't.
+I can't leave David.
+
+206
+00:12:45,750 --> 00:12:47,666
+[Maggie] Hey! What do
+you think you're doing?
+
+207
+00:12:47,750 --> 00:12:51,166
+I can't leave my friend behind!
+I'm going after him!
+
+208
+00:12:51,250 --> 00:12:53,208
+You'd do the same
+thing! Wouldn't you?
+
+209
+00:12:57,708 --> 00:12:59,166
+You're right.
+
+210
+00:12:59,250 --> 00:13:00,083
+I would.
+
+211
+00:13:01,291 --> 00:13:02,500
+Let's go for it!
+
+212
+00:13:06,791 --> 00:13:07,708
+There they are!
+
+213
+00:13:07,791 --> 00:13:08,750
+10-4!
+
+214
+00:13:15,625 --> 00:13:18,000
+Boss! We've got a fighter
+approaching from the rear!
+
+215
+00:13:18,083 --> 00:13:20,375
+Ah, don't worry about it.
+They won't attack us.
+
+216
+00:13:20,458 --> 00:13:22,333
+Not while we have
+their friend hostage.
+
+217
+00:13:24,458 --> 00:13:25,708
+Be careful,
+Manabu!
+
+218
+00:13:25,791 --> 00:13:26,625
+I will.
+
+219
+00:13:27,958 --> 00:13:30,375
+Manabu! You're disobeying
+a direct order!
+
+220
+00:13:30,458 --> 00:13:34,291
+I don't have a choice! I can't
+leave David, Captain! I'm going!
+
+221
+00:13:40,500 --> 00:13:42,833
+The scan showed two
+in the rear coach.
+
+222
+00:13:50,583 --> 00:13:52,958
+Somebody cut us loose
+from the freakin' engine!
+
+223
+00:13:53,041 --> 00:13:54,083
+He did it!
+
+224
+00:13:54,166 --> 00:13:54,875
+Hey, guys!
+
+225
+00:13:54,958 --> 00:13:56,041
+Damn you!
+
+226
+00:13:56,125 --> 00:13:57,708
+[Manabu] Have a nice trip!
+
+227
+00:13:57,791 --> 00:13:58,625
+Asshole!
+
+228
+00:14:09,000 --> 00:14:10,208
+Way to go, kid!
+
+229
+00:14:12,041 --> 00:14:13,625
+David! Are you
+all right?
+
+230
+00:14:13,708 --> 00:14:15,333
+Yeah, I'm okay.
+
+231
+00:14:15,416 --> 00:14:17,000
+Damn these things!
+
+232
+00:14:17,083 --> 00:14:19,916
+Forget me! If you don't stop
+this train we're both dead!
+
+233
+00:14:20,000 --> 00:14:22,708
+You're right! This'll
+just take a minute!
+
+234
+00:14:27,416 --> 00:14:29,250
+David! It's
+not working!
+
+235
+00:14:33,458 --> 00:14:34,708
+They jammed the
+Signal Relay!
+
+236
+00:14:34,791 --> 00:14:36,541
+Manabu! Use the manual
+brake in the engine room!
+
+237
+00:14:36,625 --> 00:14:37,500
+Right!
+
+238
+00:14:59,416 --> 00:15:01,625
+Get off that
+train, guys.
+
+239
+00:15:08,416 --> 00:15:10,500
+You'll have a better
+chance living if you jump.
+
+240
+00:15:15,083 --> 00:15:17,791
+You've got guts kid,
+I'll give you that.
+
+241
+00:15:22,750 --> 00:15:25,625
+[Manabu screams]
+
+242
+00:15:29,125 --> 00:15:30,708
+Stupid kid.
+
+243
+00:15:33,375 --> 00:15:34,625
+You'd better
+be dead.
+
+244
+00:15:38,416 --> 00:15:41,375
+[Manabu screams]
+
+245
+00:15:45,875 --> 00:15:48,583
+Now that's impressive.
+I'm starting to enjoy this.
+
+246
+00:16:00,708 --> 00:16:02,625
+Well done, kid!
+Now let's finish the game!
+
+247
+00:16:15,791 --> 00:16:17,500
+What's so shocking
+about my face
+
+248
+00:16:17,583 --> 00:16:20,708
+that you can't defend
+yourself, kid? Huh?
+
+249
+00:16:20,791 --> 00:16:23,500
+You don't remember me,
+do you? Bastard!
+
+250
+00:16:25,000 --> 00:16:28,208
+Five years ago you
+killed my brother.
+
+251
+00:16:28,291 --> 00:16:30,708
+You shot him from
+behind, you coward!
+
+252
+00:16:30,791 --> 00:16:33,625
+Hmm! I wish I remembered
+that, but I don't!
+
+253
+00:16:36,291 --> 00:16:38,458
+[explosion]
+
+254
+00:16:52,125 --> 00:16:53,750
+[Pow, Pow, Pow]
+
+255
+00:16:53,833 --> 00:16:56,541
+They'll reach the bridge
+that we blew up in 3 minutes.
+
+256
+00:16:58,958 --> 00:17:00,625
+[David struggles]
+
+257
+00:17:04,750 --> 00:17:08,041
+[yells in pain]
+
+258
+00:17:08,125 --> 00:17:09,375
+[Guy Sander laughs]
+
+259
+00:17:17,375 --> 00:17:18,750
+What's the matter?
+
+260
+00:17:18,833 --> 00:17:19,791
+Let's go!
+
+261
+00:17:24,125 --> 00:17:25,500
+Ahhh!!
+
+262
+00:17:37,541 --> 00:17:38,500
+This is for Mamoru!
+
+263
+00:17:46,416 --> 00:17:47,791
+Manabu.
+
+264
+00:17:47,875 --> 00:17:48,833
+Dad!
+
+265
+00:17:54,833 --> 00:17:55,833
+Thank you, Dad.
+
+266
+00:17:55,916 --> 00:17:57,041
+Too late!
+
+267
+00:17:57,125 --> 00:17:59,375
+[AI] Two thousand meters.
+
+268
+00:17:59,458 --> 00:18:02,375
+[David] Manabu! Jump off!
+We can't stop in time!
+
+269
+00:18:02,458 --> 00:18:05,333
+No way! We'll stop
+or we'll die trying!
+
+270
+00:18:05,416 --> 00:18:06,583
+Crazy kid!
+
+271
+00:18:07,916 --> 00:18:10,791
+Ahhhhhh!!!
+
+272
+00:18:18,750 --> 00:18:20,041
+Manabu.
+
+273
+00:18:23,083 --> 00:18:25,291
+Ahhh!!
+
+274
+00:18:36,333 --> 00:18:37,583
+Stupid kid.
+
+275
+00:18:37,666 --> 00:18:39,166
+Should have killed me
+while you had the chance.
+
+276
+00:18:40,458 --> 00:18:41,958
+[sinister laugh]
+
+277
+00:18:42,416 --> 00:18:43,708
+Manabu!
+Let's go!
+
+278
+00:18:43,791 --> 00:18:45,833
+I'm staying!
+You go ahead!
+
+279
+00:18:47,916 --> 00:18:48,708
+Die!
+
+280
+00:19:02,791 --> 00:19:03,625
+Need a hand?
+
+281
+00:19:10,666 --> 00:19:11,750
+[AI] Two hundred
+meters to go
+
+282
+00:19:11,833 --> 00:19:13,833
+until Big One
+derails, Captains!
+
+283
+00:19:17,750 --> 00:19:18,875
+One hundred meters!
+
+284
+00:19:22,791 --> 00:19:24,500
+Well done, Son!
+
+285
+00:19:34,208 --> 00:19:35,875
+You did it!
+
+286
+00:19:35,958 --> 00:19:37,458
+No, I didn't do it.
+
+287
+00:19:37,541 --> 00:19:42,291
+Hmm? What do you mean by that?
+Of course you did. Loosen up.
+
+288
+00:19:42,375 --> 00:19:45,666
+You were incredible. You should
+be celebrating right now.
+
+289
+00:19:45,750 --> 00:19:47,333
+I let him go.
+
+290
+00:19:47,416 --> 00:19:50,500
+Manabu! Whoa! Hey!
+
+291
+00:19:50,583 --> 00:19:51,833
+That was incredible!
+
+292
+00:19:51,916 --> 00:19:56,291
+I can't believe you!
+Huh? What's the matter?
+
+293
+00:19:57,458 --> 00:20:03,958
+Father! Why did you
+stop me? It was him!
+
+294
+00:20:05,375 --> 00:20:06,541
+Father!
+
+295
+00:20:06,625 --> 00:20:11,833
+Ahhhhhhhh!!!
+
+296
+00:20:16,833 --> 00:20:20,708
+Man cannot resist
+the flow of his own Fate.
+
+297
+00:20:20,791 --> 00:20:23,125
+How can he, when it
+has been predetermined
+
+298
+00:20:23,208 --> 00:20:24,791
+by his own actions?
+
+299
+00:20:25,833 --> 00:20:27,041
+[Bulge] All
+right, Manabu.
+
+300
+00:20:27,125 --> 00:20:28,500
+I see that you're
+well equipped.
+
+301
+00:20:28,583 --> 00:20:29,833
+It's time to begin.
+
+302
+00:20:29,916 --> 00:20:31,166
+Yes, Sir.
+
+303
+00:20:31,250 --> 00:20:34,125
+There's no excuse for
+disobeying a direct order.
+
+304
+00:20:34,208 --> 00:20:35,750
+I don't want it
+to happen again.
+
+305
+00:20:35,833 --> 00:20:37,333
+It won't, Sir!
+
+306
+00:20:43,125 --> 00:20:44,333
+Hey!
+Catch!
+
+307
+00:20:45,791 --> 00:20:48,291
+I support our boys in uniform!
+Keep up the good work!
+
+308
+00:20:49,833 --> 00:20:53,666
+He must be a
+fan of the SDF.
+
+309
+00:20:53,750 --> 00:20:56,208
+Wait a second. I'm not
+wearing my uniform.
+
+310
+00:21:00,583 --> 00:21:01,958
+[David] What?
+
+311
+00:21:02,041 --> 00:21:03,583
+You didn't think I'd let you
+have all the fun, did you?
+
+312
+00:21:03,666 --> 00:21:05,583
+We both took Big
+One for a joy ride
+
+313
+00:21:05,666 --> 00:21:08,083
+so we both clean her up!
+It's only fair! Right?
+
+314
+00:21:08,166 --> 00:21:09,666
+If you say so.
+
+315
+00:21:09,750 --> 00:21:11,208
+I bet the mechanics 200 ables
+
+316
+00:21:11,291 --> 00:21:13,666
+that you and I could finish
+washing this thing in one hour.
+
+317
+00:21:13,750 --> 00:21:15,666
+One hour!
+That's crazy!
+
+318
+00:21:15,750 --> 00:21:17,666
+You know what's going to
+make it even more difficult?
+
+319
+00:21:17,750 --> 00:21:18,875
+What?
+
+320
+00:21:18,958 --> 00:21:20,875
+If you keep watching
+instead of mopping!
+
+321
+00:21:20,958 --> 00:21:23,041
+Oh!
+Right!
+
+322
+00:21:23,125 --> 00:21:25,875
+[Narr] Sometimes even
+disobeying an order
+
+323
+00:21:25,958 --> 00:21:27,708
+is the right thing to do.
+
+324
+00:21:27,791 --> 00:21:31,250
+A man's conscience
+must be his ultimate guide.
+
+325
+00:23:24,666 --> 00:23:26,166
+On the next
+Galaxy Railways
+
+326
+00:23:26,250 --> 00:23:28,166
+innocent passenger
+trains are being bombed,
+
+327
+00:23:28,250 --> 00:23:29,916
+and all SDF platoons
+are deployed
+
+328
+00:23:30,000 --> 00:23:31,666
+to find out
+who's behind it.
+
+329
+00:23:31,750 --> 00:23:33,583
+I've been on a few
+tough assignments
+
+330
+00:23:33,666 --> 00:23:36,291
+but nothing could
+prepare me for this.
+
+331
+00:23:36,375 --> 00:23:38,708
+See ya next time
+on the Railways.
+

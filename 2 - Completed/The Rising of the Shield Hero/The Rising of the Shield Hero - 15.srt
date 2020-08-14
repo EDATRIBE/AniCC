@@ -1,0 +1,1827 @@
+﻿1
+00:00:25,025 --> 00:00:26,108
+Huh?
+
+2
+00:00:26,192 --> 00:00:27,525
+A person that I love?
+
+3
+00:00:27,608 --> 00:00:28,608
+[RIFANA]
+Mm-hmm.
+
+4
+00:00:28,692 --> 00:00:31,108
+Do you have anyone
+special like that?
+
+5
+00:00:31,192 --> 00:00:33,067
+Um... Uhh...
+
+6
+00:00:34,442 --> 00:00:35,442
+There's my dad.
+
+7
+00:00:35,525 --> 00:00:36,483
+How's that?
+
+8
+00:00:36,567 --> 00:00:37,692
+[RIFANA sighs]
+
+9
+00:00:37,775 --> 00:00:40,483
+[RIFANA] That's not
+what I'm talking about.
+
+10
+00:00:40,567 --> 00:00:42,192
+So what about you, Rifana?
+
+11
+00:00:42,275 --> 00:00:43,775
+Do you have someone?
+
+12
+00:00:44,983 --> 00:00:47,025
+There's no one yet,
+
+13
+00:00:47,108 --> 00:00:51,150
+but I wanna marry someone like
+one of the legendary heroes.
+
+14
+00:00:51,233 --> 00:00:53,692
+Someone like the Shield Hero?
+
+15
+00:00:53,775 --> 00:00:55,942
+I've wanted to meet him forever!
+
+16
+00:01:02,025 --> 00:01:03,983
+[RAPHTALIA, RIFANA scream]
+
+17
+00:01:05,150 --> 00:01:06,567
+Hey, look!
+
+18
+00:01:14,983 --> 00:01:16,942
+Please! Spare me!
+
+19
+00:01:17,025 --> 00:01:18,817
+Have mercy on me.
+
+20
+00:01:20,067 --> 00:01:21,483
+After killing so
+many demi-humans
+
+21
+00:01:21,567 --> 00:01:23,483
+in that underground
+chamber of yours,
+
+22
+00:01:23,567 --> 00:01:25,192
+you dare beg for your life?!
+
+23
+00:01:25,275 --> 00:01:26,567
+You're not--
+
+24
+00:01:26,650 --> 00:01:27,942
+It can't be!
+
+25
+00:01:28,025 --> 00:01:30,400
+One of my enslaved villagers?
+
+26
+00:01:30,483 --> 00:01:32,025
+An animal like you?
+
+27
+00:01:32,108 --> 00:01:33,817
+A damned demi?!
+
+28
+00:01:34,775 --> 00:01:36,192
+<i>Now or Never</i>
+
+29
+00:01:36,275 --> 00:01:38,233
+<i>Just fight it out</i>
+
+30
+00:01:39,275 --> 00:01:41,233
+<i>Just fight it out</i>
+
+31
+00:01:42,358 --> 00:01:44,317
+<i>Just fight it out</i>
+
+32
+00:01:45,442 --> 00:01:47,400
+<i>Just fight it out</i>
+
+33
+00:02:00,317 --> 00:02:03,150
+<i>Night sky reflects in my eyes</i>
+
+34
+00:02:03,233 --> 00:02:06,192
+<i>Holdin' up my hand to the stars</i>
+
+35
+00:02:06,275 --> 00:02:09,025
+<i>All the time is nearing</i>
+<i>future's bleeding</i>
+
+36
+00:02:09,108 --> 00:02:12,817
+<i>But I want to be</i>
+<i>honest with myself</i>
+
+37
+00:02:12,900 --> 00:02:14,775
+<i>Come clean Follow the wind (ah?)</i>
+
+38
+00:02:14,858 --> 00:02:15,942
+<i>I'm gonna make a scene</i>
+
+39
+00:02:16,025 --> 00:02:17,817
+<i>Keep it real, make a mark (ah?)</i>
+
+40
+00:02:17,900 --> 00:02:18,983
+<i>on the masterpiece</i>
+
+41
+00:02:19,067 --> 00:02:20,442
+<i>Everybody betray me</i>
+
+42
+00:02:20,525 --> 00:02:22,067
+<i>Touch of your hand</i>
+<i>brushed me softly</i>
+
+43
+00:02:22,150 --> 00:02:23,400
+<i>Everything betray me</i>
+
+44
+00:02:23,483 --> 00:02:25,692
+<i>Shake all you want</i>
+<i>But this feeling won't die</i>
+
+45
+00:02:25,775 --> 00:02:28,483
+<i>Through hundreds of times</i>
+<i>through millions of times</i>
+
+46
+00:02:28,567 --> 00:02:31,817
+<i>I'm adding up scars</i>
+<i>never giving up my faith</i>
+
+47
+00:02:31,900 --> 00:02:35,150
+<i>It' s proof I'm alive now,</i>
+<i>always be myself</i>
+
+48
+00:02:35,233 --> 00:02:37,775
+<i>I gotta make a change</i>
+<i>(make a change yeah)</i>
+
+49
+00:02:37,858 --> 00:02:41,150
+<i>In this distorted world</i>
+<i>I follow the footsteps</i>
+
+50
+00:02:41,233 --> 00:02:44,108
+<i>Holding back screaming</i>
+<i>everything is silent</i>
+
+51
+00:02:44,192 --> 00:02:47,233
+<i>Through hundreds of times</i>
+<i>through millions of times</i>
+
+52
+00:02:47,317 --> 00:02:49,650
+<i>I Find & Create myself</i>
+
+53
+00:02:49,733 --> 00:02:51,150
+<i>Now or Never</i>
+
+54
+00:02:51,233 --> 00:02:53,067
+<i>Just fight it out</i>
+
+55
+00:02:54,150 --> 00:02:56,108
+<i>Just fight it out</i>
+
+56
+00:02:57,233 --> 00:02:59,192
+<i>Just fight it out</i>
+
+57
+00:03:00,317 --> 00:03:02,275
+<i>Just fight it out</i>
+
+58
+00:03:08,650 --> 00:03:10,733
+[IDOL]
+Wait! Wait a moment!
+
+59
+00:03:10,817 --> 00:03:12,025
+You'd all be dead!
+
+60
+00:03:12,108 --> 00:03:13,733
+The whole lot of you
+would have died like dogs
+
+61
+00:03:13,817 --> 00:03:15,483
+if I hadn't taken
+you in like that!
+
+62
+00:03:15,567 --> 00:03:17,775
+Keep your mouth shut!
+
+63
+00:03:17,858 --> 00:03:21,025
+You think I can forget
+the atrocities you committed?
+
+64
+00:03:21,108 --> 00:03:22,275
+Not till I die!
+
+65
+00:03:22,358 --> 00:03:24,150
+I'll never forget
+what you've done!
+
+66
+00:03:24,233 --> 00:03:26,358
+Ah! I'm sorry--I was wrong!
+
+67
+00:03:26,442 --> 00:03:27,983
+I'll-- I'll apologize!
+
+68
+00:03:28,067 --> 00:03:29,942
+I swear!
+
+69
+00:03:30,025 --> 00:03:33,817
+This scumbag here...
+He took Rifana and he...
+
+70
+00:03:35,067 --> 00:03:36,150
+[IDOL]
+Ah! No!
+
+71
+00:03:36,233 --> 00:03:37,733
+Please don't!
+
+72
+00:03:40,442 --> 00:03:42,233
+[NAOFUMI]
+Raphtalia...
+
+73
+00:03:42,317 --> 00:03:44,067
+I can't imagine how you feel.
+
+74
+00:03:44,150 --> 00:03:47,192
+But will killing him
+help you get closure?
+
+75
+00:03:47,275 --> 00:03:49,233
+You've become
+stronger over time.
+
+76
+00:03:49,317 --> 00:03:51,317
+And not just with your sword.
+
+77
+00:03:59,567 --> 00:04:01,275
+[RAPHTALIA]
+You're a terrible person.
+
+78
+00:04:01,358 --> 00:04:06,442
+A monster who put demi-humans
+through hell, then killed them.
+
+79
+00:04:06,525 --> 00:04:09,108
+I'll never forgive you.
+
+80
+00:04:09,192 --> 00:04:11,358
+But if I kill you,
+
+81
+00:04:11,442 --> 00:04:15,192
+I won't be any different from
+the disgusting worm you are.
+
+82
+00:04:17,150 --> 00:04:19,525
+[RAPHTALIA]
+So I've decided to let you live.
+
+83
+00:04:19,608 --> 00:04:20,983
+That way you can atone
+
+84
+00:04:21,067 --> 00:04:23,942
+for the sins you've
+committed in this place.
+
+85
+00:04:24,025 --> 00:04:26,317
+[IDOL]
+Damn you demi-human...
+
+86
+00:04:26,400 --> 00:04:28,733
+You scum, now you die!
+
+87
+00:04:33,067 --> 00:04:34,275
+[gasps]
+
+88
+00:04:38,442 --> 00:04:40,275
+[yells]
+
+89
+00:04:44,567 --> 00:04:45,858
+Curse you!
+
+90
+00:04:47,233 --> 00:04:49,192
+[IDOL]
+Demis don't deserve to live! I--
+
+91
+00:04:49,275 --> 00:04:50,525
+[IDOL gasps]
+
+92
+00:04:53,400 --> 00:04:54,567
+[gasps]
+
+93
+00:05:00,983 --> 00:05:02,025
+[SOLDIER 15A]
+Idol!
+
+94
+00:05:02,108 --> 00:05:02,942
+[SOLDIER 15B]
+Idol!
+
+95
+00:05:03,025 --> 00:05:04,567
+[SOLDIER 15C]
+Idol is dead!
+
+96
+00:05:04,650 --> 00:05:06,983
+[SOLDIER 15D]
+Retreat! Retreat!
+
+97
+00:05:07,067 --> 00:05:08,858
+Raphtalia, you okay?
+
+98
+00:05:08,942 --> 00:05:10,650
+[MELTY]
+Raphtalia!
+
+99
+00:05:10,733 --> 00:05:13,692
+[RAPHTALIA]
+Master Naofumi... I...
+
+100
+00:05:13,775 --> 00:05:15,442
+Forget it, it's not your fault.
+
+101
+00:05:15,525 --> 00:05:16,942
+But I...
+
+102
+00:05:18,192 --> 00:05:19,733
+It's gonna be all right.
+
+103
+00:05:19,817 --> 00:05:21,567
+[VAN]
+Sir Shield Hero,
+
+104
+00:05:21,650 --> 00:05:24,567
+I can't thank you enough
+for saving my life.
+
+105
+00:05:24,650 --> 00:05:25,608
+[MELTY]
+Reichnott!
+
+106
+00:05:25,692 --> 00:05:26,858
+Are you hurt?
+
+107
+00:05:26,942 --> 00:05:28,067
+No, I'm fine.
+
+108
+00:05:28,150 --> 00:05:30,067
+[MELTY]
+First Aqua Heal.
+
+109
+00:05:33,025 --> 00:05:34,608
+This is our chance to escape.
+
+110
+00:05:34,692 --> 00:05:35,775
+Yeah, I know.
+
+111
+00:05:35,858 --> 00:05:38,358
+But first, there's
+one more thing.
+
+112
+00:05:40,608 --> 00:05:44,400
+Idol imprisoned his
+demi-human slaves underground
+
+113
+00:05:44,483 --> 00:05:46,442
+and tortured them.
+
+114
+00:05:46,525 --> 00:05:48,067
+[VAN]
+How do you know that?
+
+115
+00:05:48,150 --> 00:05:49,483
+I know because...
+
+116
+00:05:49,567 --> 00:05:51,650
+Because I was lucky
+enough to live.
+
+117
+00:05:51,733 --> 00:05:52,858
+[VAN gasps]
+
+118
+00:05:56,900 --> 00:05:58,775
+You don't have
+to do this, Raphtalia.
+
+119
+00:05:58,858 --> 00:06:01,400
+It's okay.
+I'm gonna be all right.
+
+120
+00:06:05,483 --> 00:06:06,733
+[RAPHTALIA'S MOM]
+Always keep smiling
+
+121
+00:06:06,817 --> 00:06:08,650
+and play nicely
+with the villagers.
+
+122
+00:06:08,733 --> 00:06:11,108
+[RAPHTALIA'S DAD] And smile
+even more in hard times.
+
+123
+00:06:11,192 --> 00:06:12,567
+If you smile,
+
+124
+00:06:12,650 --> 00:06:15,733
+you'll be helping everyone
+around you to smile as well!
+
+125
+00:06:17,942 --> 00:06:21,067
+[RAPHTALIA]
+Dad... Mom... I promise.
+
+126
+00:06:21,150 --> 00:06:24,150
+I won't cry anymore.
+
+127
+00:06:24,233 --> 00:06:26,983
+But please watch over me.
+
+128
+00:06:33,442 --> 00:06:35,108
+[RAPHTALIA]
+Everyone! Listen!
+
+129
+00:06:37,275 --> 00:06:39,358
+Remember, we're alive!
+
+130
+00:06:39,442 --> 00:06:41,108
+And we'll keep on living!
+
+131
+00:06:41,192 --> 00:06:43,358
+We can rebuild
+if we all work together!
+
+132
+00:06:43,442 --> 00:06:45,858
+We can make our
+village beautiful again!
+
+133
+00:06:45,942 --> 00:06:47,733
+I know deep in
+my heart that everyone
+
+134
+00:06:47,817 --> 00:06:50,150
+who died here would want that!
+
+135
+00:06:52,108 --> 00:06:53,150
+[KEEL]
+Sure!
+
+136
+00:06:54,192 --> 00:06:56,317
+Hey, you guys,
+Raphtalia's right!
+
+137
+00:06:56,400 --> 00:06:59,025
+Yeah! Let's show them
+all who we are!
+
+138
+00:06:59,108 --> 00:07:00,067
+They're right.
+
+139
+00:07:00,150 --> 00:07:02,358
+We can rebuild
+our village together!
+
+140
+00:07:10,983 --> 00:07:13,150
+[KEEL]
+Raphtalia...
+
+141
+00:07:13,233 --> 00:07:14,567
+Huh?
+
+142
+00:07:14,650 --> 00:07:16,525
+Your parents were
+killed, weren't they?
+
+143
+00:07:16,608 --> 00:07:17,775
+I mean, um...
+
+144
+00:07:17,858 --> 00:07:19,358
+Don't you...
+
+145
+00:07:19,442 --> 00:07:21,233
+Don't you feel sad?
+
+146
+00:07:23,067 --> 00:07:25,483
+Sure, I'm sad.
+
+147
+00:07:25,567 --> 00:07:27,817
+But I tell myself no crying.
+
+148
+00:07:27,900 --> 00:07:30,692
+My dad said I should always
+keep a smile on my face
+
+149
+00:07:30,775 --> 00:07:33,025
+even in hard times.
+
+150
+00:07:33,108 --> 00:07:35,525
+If you're trying so hard to
+keep a smile on your face,
+
+151
+00:07:35,608 --> 00:07:38,150
+then I guess we should, too.
+
+152
+00:07:40,942 --> 00:07:43,442
+Hey, look... Who're they?
+
+153
+00:07:45,150 --> 00:07:46,775
+That could be help
+from the capital!
+
+154
+00:07:46,858 --> 00:07:47,983
+Finally!
+
+155
+00:07:48,067 --> 00:07:49,900
+[SOLDIERS shouting]
+
+156
+00:07:49,983 --> 00:07:51,108
+[gasps]
+
+157
+00:07:51,192 --> 00:07:55,733
+[VILLAGERS screaming]
+
+158
+00:07:55,817 --> 00:07:58,692
+Get in there. Move!
+
+159
+00:07:58,775 --> 00:08:00,567
+Quit wasting time.
+
+160
+00:08:03,233 --> 00:08:04,942
+--Raphtalia!
+--Hey!
+
+161
+00:08:26,608 --> 00:08:28,983
+Mel, are you feeling okay?
+
+162
+00:08:29,067 --> 00:08:30,567
+[MELTY]
+Mm-hm.
+
+163
+00:08:36,733 --> 00:08:40,483
+[NAOFUMI] Raphtalia was
+trapped in a place like this?
+
+164
+00:08:40,567 --> 00:08:43,275
+It's easy to imagine
+what happened here.
+
+165
+00:08:43,358 --> 00:08:46,150
+Just thinking about it
+makes me sick!
+
+166
+00:08:57,233 --> 00:08:58,692
+All right.
+
+167
+00:08:59,983 --> 00:09:01,733
+[IDOL]
+You're boring me!
+
+168
+00:09:01,817 --> 00:09:04,358
+Scream! Cry!
+
+169
+00:09:08,442 --> 00:09:11,067
+--[whipping]
+--[RIFANA crying]
+
+170
+00:09:13,942 --> 00:09:15,775
+[IDOL]
+Yes. Yes, that's it!
+
+171
+00:09:15,858 --> 00:09:18,567
+Cry! Cry! More! More!
+
+172
+00:09:18,650 --> 00:09:20,650
+[RAPHTALIA]
+Rifana...
+
+173
+00:09:27,900 --> 00:09:30,275
+[RAPHTALIA]
+Come on, Rifana, eat something.
+
+174
+00:09:33,400 --> 00:09:34,942
+[RAPHTALIA]
+Don't worry.
+
+175
+00:09:35,025 --> 00:09:37,900
+I'm sure the Shield Hero
+will save us.
+
+176
+00:09:43,192 --> 00:09:47,275
+[RIFANA coughs]
+
+177
+00:09:49,233 --> 00:09:51,025
+Rifana, are you--?
+
+178
+00:09:53,025 --> 00:09:56,233
+[RAPHTALIA gasps]
+You're burning up!
+
+179
+00:09:56,317 --> 00:09:57,817
+No, wait.
+
+180
+00:09:57,900 --> 00:10:00,192
+Remember our village flag?
+
+181
+00:10:00,275 --> 00:10:01,400
+Over the square?
+
+182
+00:10:01,483 --> 00:10:02,983
+[RAPHTALIA]
+Huh?
+
+183
+00:10:03,067 --> 00:10:04,817
+We demi-humans...
+
+184
+00:10:04,900 --> 00:10:06,400
+It was a symbol
+of how we're allowed
+
+185
+00:10:06,483 --> 00:10:09,067
+to build a village
+for ourselves.
+
+186
+00:10:09,150 --> 00:10:11,525
+Uh-huh. Remember?
+
+187
+00:10:11,608 --> 00:10:14,233
+Sure I remember!
+
+188
+00:10:14,317 --> 00:10:16,733
+[RIFANA]
+I wanna see it again.
+
+189
+00:10:16,817 --> 00:10:17,983
+And you will!
+
+190
+00:10:18,067 --> 00:10:19,775
+I promise you.
+
+191
+00:10:29,733 --> 00:10:31,692
+[RIFANA]
+Raphtalia...
+
+192
+00:10:34,567 --> 00:10:36,858
+[mumbling]
+
+193
+00:10:36,942 --> 00:10:38,150
+What?
+
+194
+00:10:39,608 --> 00:10:42,650
+I wanna go... Raphtalia.
+
+195
+00:10:42,733 --> 00:10:43,775
+[RAPHTALIA gasps]
+
+196
+00:10:43,858 --> 00:10:44,817
+Yeah, um...
+
+197
+00:10:44,900 --> 00:10:46,483
+We'll go back.
+
+198
+00:10:46,567 --> 00:10:48,733
+Back home to
+our village together.
+
+199
+00:10:48,817 --> 00:10:50,692
+I wanna go home.
+
+200
+00:10:54,692 --> 00:10:57,233
+[RIFANA]
+Hm? Is that the...?
+
+201
+00:11:01,525 --> 00:11:02,817
+Yeah, I'm sorry.
+
+202
+00:11:02,900 --> 00:11:05,525
+It's the best thing
+I could come up with for now.
+
+203
+00:11:06,567 --> 00:11:08,108
+I'm so happy.
+
+204
+00:11:08,192 --> 00:11:10,067
+Thanks, Raphtalia.
+
+205
+00:11:17,525 --> 00:11:21,150
+[RAPHTALIA coughs]
+Rifana?
+
+206
+00:11:24,442 --> 00:11:26,025
+--[JAILER 15A] Hey.
+--[gasps]
+
+207
+00:11:27,108 --> 00:11:28,358
+[JAILER 15A]
+Out.
+
+208
+00:11:28,442 --> 00:11:29,692
+[RAPHTALIA]
+Huh?
+
+209
+00:11:33,650 --> 00:11:35,483
+[RAPHTALIA coughs]
+
+210
+00:11:35,567 --> 00:11:38,358
+[JAILER 15A] You're being
+sold to a slave merchant.
+
+211
+00:11:38,442 --> 00:11:41,650
+But... what about Rifana?
+
+212
+00:11:41,733 --> 00:11:42,817
+Please!
+
+213
+00:11:42,900 --> 00:11:44,983
+This is the only one
+being sold for now.
+
+214
+00:11:45,067 --> 00:11:46,525
+Go on, get outta here.
+
+215
+00:11:46,608 --> 00:11:47,983
+What about Rifana?!
+
+216
+00:11:48,067 --> 00:11:50,817
+[JAILER 15A laughs]
+She's done for, forget her.
+
+217
+00:12:02,067 --> 00:12:05,608
+[RAPHTALIA] Smile...
+when times are tough...
+
+218
+00:12:07,900 --> 00:12:09,108
+[RAPHTALIA]
+Huh?
+
+219
+00:12:09,192 --> 00:12:11,817
+How will I ever smile again?
+
+220
+00:12:27,775 --> 00:12:29,442
+[VAN]
+There's a survivor!
+
+221
+00:12:31,233 --> 00:12:32,150
+Hey, Raphtalia!
+
+222
+00:12:32,233 --> 00:12:33,483
+Let's go.
+
+223
+00:12:41,442 --> 00:12:43,775
+[VAN]
+You'll be all right now.
+
+224
+00:12:43,858 --> 00:12:46,233
+[MELTY]
+Naofumi! Over here!
+
+225
+00:12:55,692 --> 00:12:57,817
+[FILO]
+There's someone over here, too!
+
+226
+00:13:08,775 --> 00:13:10,025
+You're alive?!
+
+227
+00:13:10,108 --> 00:13:11,358
+Keel!
+
+228
+00:13:14,983 --> 00:13:16,150
+Oh, Keel!
+
+229
+00:13:16,233 --> 00:13:18,525
+I can't believe you're here!
+
+230
+00:13:18,608 --> 00:13:21,317
+Who are... you?
+
+231
+00:13:21,400 --> 00:13:24,608
+I can't believe I found
+you after all this time!
+
+232
+00:13:24,692 --> 00:13:28,150
+I'm so glad--
+so glad you're alive!
+
+233
+00:13:36,983 --> 00:13:38,483
+Who are you? I don't--
+
+234
+00:13:38,567 --> 00:13:40,025
+[RAPHTALIA]
+Have you forgotten already?
+
+235
+00:13:40,108 --> 00:13:41,567
+It's me, Raphtalia.
+
+236
+00:13:41,650 --> 00:13:43,733
+You can't be her.
+
+237
+00:13:43,817 --> 00:13:45,150
+Raphtalia?
+
+238
+00:13:45,233 --> 00:13:47,608
+No way, that's impossible!
+
+239
+00:13:47,692 --> 00:13:49,067
+No! Stay away!
+
+240
+00:13:49,150 --> 00:13:50,483
+Listen to me, Keel.
+
+241
+00:13:50,567 --> 00:13:52,358
+Do you remember that time
+when you went diving
+
+242
+00:13:52,442 --> 00:13:53,900
+and nearly drowned?
+
+243
+00:13:53,983 --> 00:13:56,900
+And we had to find Sadeena,
+so she could come rescue you?
+
+244
+00:13:56,983 --> 00:13:59,233
+And there was another time when
+you ate a poisonous mushroom
+
+245
+00:13:59,317 --> 00:14:01,442
+and ended up with
+an upset stomach.
+
+246
+00:14:01,525 --> 00:14:03,983
+In pain, you begged me
+not to tell anyone.
+
+247
+00:14:04,067 --> 00:14:05,983
+You remember that, don't you?
+
+248
+00:14:06,067 --> 00:14:09,400
+After the Wave, when I said
+we should rebuild the village,
+
+249
+00:14:09,483 --> 00:14:12,817
+you were the very first one
+to speak up and agree with me.
+
+250
+00:14:14,150 --> 00:14:17,567
+[RAPHTALIA] You don't know
+how happy that made me.
+
+251
+00:14:18,650 --> 00:14:21,233
+Raphtalia, it's really you?
+
+252
+00:14:21,317 --> 00:14:23,567
+You're really here after all?
+
+253
+00:14:23,650 --> 00:14:25,067
+Thank goodness!
+
+254
+00:14:25,150 --> 00:14:27,650
+I'm so grateful
+you're still alive.
+
+255
+00:14:30,025 --> 00:14:31,483
+[KEEL]
+Who are they?
+
+256
+00:14:31,567 --> 00:14:33,067
+It's okay.
+
+257
+00:14:33,150 --> 00:14:35,483
+I'm traveling with
+the Shield Hero now.
+
+258
+00:14:35,567 --> 00:14:37,942
+What? The Shield Hero?
+
+259
+00:14:38,025 --> 00:14:39,275
+He really exists?
+
+260
+00:14:39,358 --> 00:14:40,525
+[RAPHTALIA]
+He sure does!
+
+261
+00:14:40,608 --> 00:14:43,442
+And he's come here
+to save all of us.
+
+262
+00:14:43,525 --> 00:14:45,442
+Let me take a
+look at your wounds.
+
+263
+00:14:51,608 --> 00:14:54,275
+[gasps] You really
+exist after all!
+
+264
+00:14:54,358 --> 00:14:55,608
+Then all those stories
+
+265
+00:14:55,692 --> 00:14:59,108
+I've heard about you
+are actually true! [coughs]
+
+266
+00:14:59,192 --> 00:15:01,442
+[RAPHTALIA]
+You okay?
+
+267
+00:15:01,525 --> 00:15:03,025
+[KEEL]
+Yeah.
+
+268
+00:15:03,108 --> 00:15:04,483
+Now I see...
+
+269
+00:15:04,567 --> 00:15:06,192
+I was just thinking...
+
+270
+00:15:06,275 --> 00:15:08,608
+Rifana would've
+wanted to see him.
+
+271
+00:15:08,692 --> 00:15:10,608
+Wait a minute...
+
+272
+00:15:10,692 --> 00:15:12,275
+Where is Rifana?
+
+273
+00:15:12,358 --> 00:15:14,067
+She's in here, right?!
+
+274
+00:15:16,233 --> 00:15:17,900
+[RAPHTALIA gasps]
+
+275
+00:15:17,983 --> 00:15:20,275
+--[RIFANA] Raphtalia...
+--[RAPHTALIA] Hm?
+
+276
+00:15:20,358 --> 00:15:22,692
+You know the Shield Hero?
+
+277
+00:15:22,775 --> 00:15:25,567
+D'you believe
+he'll come to save us?
+
+278
+00:15:25,650 --> 00:15:27,317
+[RAPHTALIA]
+I know he will!
+
+279
+00:15:27,400 --> 00:15:29,150
+[RIFANA]
+I wanna see him soon.
+
+280
+00:15:29,233 --> 00:15:31,483
+See him and...
+
+281
+00:15:31,567 --> 00:15:32,650
+[RAPHTALIA]
+And?
+
+282
+00:15:36,192 --> 00:15:38,900
+And have him make me his wife.
+
+283
+00:15:47,275 --> 00:15:53,275
+[RAPHTALIA sobbing]
+
+284
+00:16:12,358 --> 00:16:14,733
+Oh, Master...
+
+285
+00:16:14,817 --> 00:16:16,233
+I can't see how...
+
+286
+00:16:16,317 --> 00:16:19,650
+...such monstrous deeds
+could exist here.
+
+287
+00:16:19,733 --> 00:16:20,775
+[VAN]
+Melty...
+
+288
+00:16:20,858 --> 00:16:22,733
+As much as I hate to say it,
+
+289
+00:16:22,817 --> 00:16:25,900
+similar things happen
+all across this country.
+
+290
+00:16:25,983 --> 00:16:27,692
+It can't be!
+
+291
+00:16:27,775 --> 00:16:30,400
+[VAN]
+That is why we needed Seyaette.
+
+292
+00:16:31,483 --> 00:16:32,817
+[VAN]
+But now...
+
+293
+00:16:32,900 --> 00:16:34,067
+Melty, my dear,
+
+294
+00:16:34,150 --> 00:16:37,858
+I need you to do
+something important for me.
+
+295
+00:16:37,942 --> 00:16:40,358
+Return to the capital
+and admonish the king
+
+296
+00:16:40,442 --> 00:16:44,650
+for his unjust treatment
+of the Shield Hero.
+
+297
+00:16:44,733 --> 00:16:47,983
+Ordinarily, I would
+go myself, but, as you know...
+
+298
+00:16:50,692 --> 00:16:52,567
+I failed you.
+
+299
+00:16:52,650 --> 00:16:54,317
+Forgive me.
+
+300
+00:16:54,400 --> 00:16:57,317
+Hey, Raphtalia, who was that?
+
+301
+00:16:57,400 --> 00:16:59,275
+My friend, Rifana.
+
+302
+00:16:59,358 --> 00:17:02,608
+She was gentler and
+more graceful than me,
+
+303
+00:17:02,692 --> 00:17:06,983
+and she'd always say that...
+that she wanted to meet you--
+
+304
+00:17:07,067 --> 00:17:09,108
+to meet the Shield Hero.
+
+305
+00:17:11,858 --> 00:17:14,775
+[NAOFUMI] Let's give her and
+the others a proper send-off.
+
+306
+00:17:14,858 --> 00:17:18,775
+They can't rest in peace
+in a place like this.
+
+307
+00:17:18,858 --> 00:17:21,025
+What's wrong?
+
+308
+00:17:21,108 --> 00:17:23,317
+[RAPHTALIA]
+I hate myself.
+
+309
+00:17:23,400 --> 00:17:26,942
+Because I couldn't
+protect anybody.
+
+310
+00:17:27,025 --> 00:17:30,567
+When we first met,
+I was so weak and powerless.
+
+311
+00:17:30,650 --> 00:17:33,317
+I couldn't do anything.
+
+312
+00:17:33,400 --> 00:17:35,567
+I'm sure I could
+have saved everyone.
+
+313
+00:17:35,650 --> 00:17:37,858
+If only I'd been stronger.
+
+314
+00:17:37,942 --> 00:17:40,067
+I'm too late...
+
+315
+00:17:40,150 --> 00:17:41,525
+Come on, you did help!
+
+316
+00:17:41,608 --> 00:17:42,858
+If you hadn't arrived
+when you did,
+
+317
+00:17:42,942 --> 00:17:45,442
+I probably would've
+died in here.
+
+318
+00:17:45,525 --> 00:17:46,858
+You saved my life.
+
+319
+00:17:46,942 --> 00:17:49,317
+You're not weak. [groans]
+
+320
+00:17:49,400 --> 00:17:50,400
+You know what else?
+
+321
+00:17:50,483 --> 00:17:52,442
+The only reason
+everyone hung on so long
+
+322
+00:17:52,525 --> 00:17:54,567
+without losing hope
+was your smile!
+
+323
+00:17:54,650 --> 00:17:57,983
+We decided to keep smiling,
+no matter how bad it got!
+
+324
+00:17:58,067 --> 00:17:58,817
+[RAPHTALIA]
+Sorry.
+
+325
+00:17:58,900 --> 00:18:00,567
+[gasps]
+
+326
+00:18:00,650 --> 00:18:03,442
+I'm sorry, but I'm just not--
+
+327
+00:18:03,525 --> 00:18:06,983
+I'm afraid I'm-- Well, I just
+can't smile like I used to.
+
+328
+00:18:07,067 --> 00:18:08,233
+[KEEL]
+Eh?
+
+329
+00:18:08,317 --> 00:18:10,817
+I'm not worthy...
+
+330
+00:18:10,900 --> 00:18:15,192
+I mean I'm...
+I ended up killing someone.
+
+331
+00:18:17,275 --> 00:18:19,025
+You're wrong.
+
+332
+00:18:19,108 --> 00:18:20,942
+[RAPHTALIA]
+It was all wrong.
+
+333
+00:18:21,025 --> 00:18:23,567
+Every single thing
+I've done so far...
+
+334
+00:18:23,650 --> 00:18:24,942
+All of it...
+
+335
+00:18:25,025 --> 00:18:26,525
+...was a mistake!
+
+336
+00:18:26,608 --> 00:18:28,733
+I don't deserve anything!
+
+337
+00:18:28,817 --> 00:18:30,900
+[NAOFUMI]
+That's not true!
+
+338
+00:18:30,983 --> 00:18:32,483
+Raphtalia...
+
+339
+00:18:32,567 --> 00:18:34,233
+[RAPHTALIA] I don't even have
+the right to walk beside you!
+
+340
+00:18:34,317 --> 00:18:35,150
+I'm worthless!
+
+341
+00:18:35,233 --> 00:18:36,983
+[NAOFUMI]
+Listen!
+
+342
+00:18:37,067 --> 00:18:39,358
+You did nothing wrong!
+
+343
+00:18:39,442 --> 00:18:41,525
+If it wasn't for you
+being in my life,
+
+344
+00:18:41,608 --> 00:18:45,608
+I'd've run from this world
+without ever trusting anyone.
+
+345
+00:18:50,692 --> 00:18:52,150
+[NAOFUMI]
+That's right.
+
+346
+00:18:52,233 --> 00:18:54,150
+It's because you believed in me
+
+347
+00:18:54,233 --> 00:18:56,442
+that I am here
+with you right now...
+
+348
+00:18:56,525 --> 00:18:59,233
+...that I met Filo and Melty.
+
+349
+00:18:59,317 --> 00:19:00,233
+Yeah, see!
+
+350
+00:19:00,317 --> 00:19:02,108
+It just can't be a mistake.
+
+351
+00:19:02,192 --> 00:19:05,650
+It's like, before, you were
+so small and everything,
+
+352
+00:19:05,733 --> 00:19:07,983
+and now you've
+met the Shield Hero.
+
+353
+00:19:08,067 --> 00:19:10,067
+You've turned into
+this really cool lady
+
+354
+00:19:10,150 --> 00:19:12,358
+and even came back to save us!
+
+355
+00:19:14,400 --> 00:19:15,483
+[NAOFUMI]
+Look.
+
+356
+00:19:16,650 --> 00:19:19,775
+[NAOFUMI] You were the one
+who kept those kids alive.
+
+357
+00:19:21,733 --> 00:19:23,775
+Master Naofumi...
+
+358
+00:19:23,858 --> 00:19:25,733
+Stop crying now.
+
+359
+00:19:27,150 --> 00:19:29,942
+And I'm sure Rifana's
+happy now, too.
+
+360
+00:19:30,025 --> 00:19:33,817
+She finally got to
+meet the Shield Hero.
+
+361
+00:19:33,900 --> 00:19:36,483
+From now on,
+it's our job to protect them.
+
+362
+00:19:36,567 --> 00:19:37,942
+To make sure nobody goes through
+
+363
+00:19:38,025 --> 00:19:40,733
+this kind of
+suffering ever again.
+
+364
+00:19:40,817 --> 00:19:43,650
+Isn't that what we've been
+fighting for all this time?
+
+365
+00:19:43,733 --> 00:19:45,150
+[gasps]
+
+366
+00:19:46,608 --> 00:19:50,358
+[NAOFUMI] Together with me,
+the Shield Hero?
+
+367
+00:19:56,442 --> 00:19:57,817
+It is!
+
+368
+00:20:03,525 --> 00:20:04,817
+[RIFANA]
+You're so lucky!
+
+369
+00:20:04,900 --> 00:20:07,483
+You're in the
+Shield Hero's party.
+
+370
+00:20:08,900 --> 00:20:09,858
+[RAPHTALIA chuckles]
+
+371
+00:20:09,942 --> 00:20:11,483
+So now you're jealous, right?
+
+372
+00:20:11,567 --> 00:20:13,900
+Ah! Don't be such a jerk!
+
+373
+00:20:13,983 --> 00:20:16,275
+[RAPHTALIA giggles]
+
+374
+00:20:18,442 --> 00:20:20,525
+I promise to always
+watch over you.
+
+375
+00:20:20,608 --> 00:20:22,608
+[RAPHTALIA]
+Mm.
+
+376
+00:20:22,692 --> 00:20:25,442
+And one day, let's go
+back to our village
+
+377
+00:20:25,525 --> 00:20:26,942
+with that flag, okay?
+
+378
+00:20:27,025 --> 00:20:28,275
+[RAPHTALIA]
+Mm-hm!
+
+379
+00:20:43,525 --> 00:20:45,650
+[RAPHTALIA]
+Rifana...
+
+380
+00:20:45,733 --> 00:20:49,733
+I promise you, I'll bring back
+the flag for our people.
+
+381
+00:20:49,817 --> 00:20:52,025
+With Master Naofumi.
+
+382
+00:21:03,525 --> 00:21:05,275
+[VAN]
+What is going on?
+
+383
+00:21:05,358 --> 00:21:07,567
+[NAOFUMI]
+The demi-humans are rioting.
+
+384
+00:21:07,650 --> 00:21:09,108
+They came to bring
+you home with them.
+
+385
+00:21:09,192 --> 00:21:11,733
+So you probably oughta let them
+know everything's all right.
+
+386
+00:21:11,817 --> 00:21:12,567
+Indeed.
+
+387
+00:21:12,650 --> 00:21:14,233
+[rumbling]
+
+388
+00:21:14,317 --> 00:21:15,400
+What's that?
+
+389
+00:21:15,483 --> 00:21:16,525
+Master, look over there!
+
+390
+00:21:16,608 --> 00:21:18,192
+What is that?
+
+391
+00:21:24,900 --> 00:21:25,733
+What a pain!
+
+392
+00:21:25,817 --> 00:21:27,233
+How's he still alive?
+
+393
+00:21:27,317 --> 00:21:28,817
+[IDOL]
+O supreme god,
+
+394
+00:21:28,900 --> 00:21:33,400
+grant me the power to
+rend the Devil asunder!
+
+395
+00:21:33,483 --> 00:21:35,192
+I don't-- It can't be!
+
+396
+00:21:35,275 --> 00:21:36,650
+What's wrong?
+
+397
+00:21:36,733 --> 00:21:38,817
+The great heroes of the past
+built that stone monument
+
+398
+00:21:38,900 --> 00:21:40,817
+to seal away a monster forever.
+
+399
+00:21:40,900 --> 00:21:43,442
+He's trying to remove the seal!
+
+400
+00:21:46,567 --> 00:21:48,025
+[IDOL]
+Yes! You're free now!
+
+401
+00:21:48,108 --> 00:21:49,942
+Go and destroy everything!
+
+402
+00:21:50,025 --> 00:21:51,942
+You're liberated
+from your prison!
+
+403
+00:21:52,025 --> 00:21:55,942
+Bring divine judgment down
+upon the Devil of the Shield!
+
+404
+00:21:57,442 --> 00:21:58,775
+[roars]
+
+405
+00:21:58,858 --> 00:22:00,692
+Nobody can withstand me now!
+
+406
+00:22:00,775 --> 00:22:02,525
+If I can kill the
+Devil of the Shield,
+
+407
+00:22:02,608 --> 00:22:06,942
+I will be eternally
+blessed by God! [cackles]
+
+408
+00:22:09,358 --> 00:22:14,858
+[roars]
+

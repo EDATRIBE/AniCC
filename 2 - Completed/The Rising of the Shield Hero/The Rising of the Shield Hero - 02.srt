@@ -1,0 +1,1990 @@
+﻿1
+00:00:14,358 --> 00:00:16,900
+--[SLAVE coughing]
+--[NAOFUMI] Hm?
+
+2
+00:00:19,608 --> 00:00:22,525
+[SLAVE coughing]
+
+3
+00:00:26,608 --> 00:00:28,733
+[SLAVE TRADER]
+Sir, over here.
+
+4
+00:00:28,817 --> 00:00:32,483
+I recommend this for a high-
+class gent such as yourself.
+
+5
+00:00:37,817 --> 00:00:40,233
+[SLAVE TRADER]
+It's at level 75.
+
+6
+00:00:40,317 --> 00:00:43,608
+[NAOFUMI]
+That's almost 20 times my level.
+
+7
+00:00:43,692 --> 00:00:45,067
+How much you want for it?
+
+8
+00:00:45,150 --> 00:00:49,025
+Well, it is highly capable
+in battle and fairly rare...
+
+9
+00:00:49,108 --> 00:00:51,525
+How does 15 gold pieces sound?
+
+10
+00:00:51,608 --> 00:00:53,275
+Showing me your
+most expensive slave
+
+11
+00:00:53,358 --> 00:00:55,108
+knowing full well
+I can't afford it?
+
+12
+00:00:55,192 --> 00:00:56,400
+Indeed.
+
+13
+00:00:56,483 --> 00:00:58,317
+You're gonna become
+one of my best customers.
+
+14
+00:00:58,400 --> 00:00:59,858
+I got a nose for these things.
+
+15
+00:00:59,942 --> 00:01:02,275
+So I gotta make sure
+you develop a keen eye,
+
+16
+00:01:02,358 --> 00:01:04,775
+if you catch my drift, good sir.
+
+17
+00:01:04,858 --> 00:01:06,192
+Well, now.
+
+18
+00:01:06,275 --> 00:01:09,025
+Since you've seen my best,
+lemme ask you a question.
+
+19
+00:01:09,108 --> 00:01:12,858
+Exactly what kind of slave
+are you in the market for?
+
+20
+00:01:12,942 --> 00:01:15,942
+One that's cheap and
+obedient'll work.
+
+21
+00:01:16,025 --> 00:01:17,817
+[SLAVE TRADER]
+In other words, a demi-human,
+
+22
+00:01:17,900 --> 00:01:19,775
+if I understand right?
+
+23
+00:01:19,858 --> 00:01:23,483
+These aren't much suited
+for combat or manual labor.
+
+24
+00:01:23,567 --> 00:01:26,025
+Doesn't matter. If I need 'em
+in battle, I'll train them.
+
+25
+00:01:26,108 --> 00:01:28,025
+[SLAVE TRADER] Ha!
+That's an amusing response,
+
+26
+00:01:28,108 --> 00:01:30,775
+when you don't
+believe in people.
+
+27
+00:01:30,858 --> 00:01:32,817
+Yeah, but slaves aren't people.
+
+28
+00:01:32,900 --> 00:01:35,650
+Training one's the same thing
+as upgrading my shield.
+
+29
+00:01:35,733 --> 00:01:37,900
+[SLAVE TRADER] Ha, ha!
+Well, you got me there,
+
+30
+00:01:37,983 --> 00:01:40,275
+that's for sure!
+
+31
+00:01:40,358 --> 00:01:43,275
+These are the cheapest
+slaves I can offer you.
+
+32
+00:01:43,358 --> 00:01:44,900
+Other than the
+dead ones, of course.
+
+33
+00:01:44,983 --> 00:01:46,025
+On the left I have--
+
+34
+00:01:46,108 --> 00:01:46,900
+[NAOFUMI]
+Raise your head.
+
+35
+00:01:46,983 --> 00:01:47,942
+Huh?
+
+36
+00:01:48,025 --> 00:01:51,400
+[SLAVE coughing]
+
+37
+00:01:52,525 --> 00:01:55,108
+[SLAVE TRADER] That mangy
+half-raccoon's sick as a dog
+
+38
+00:01:55,192 --> 00:01:57,942
+and a couple spokes
+short of a cartwheel.
+
+39
+00:01:58,025 --> 00:02:00,817
+I'm having a helluva
+time with her myself.
+
+40
+00:02:00,900 --> 00:02:01,983
+[gasps]
+
+41
+00:02:02,067 --> 00:02:03,317
+[SLAVE TRADER]
+You see, her previous owner
+
+42
+00:02:03,400 --> 00:02:05,858
+loved his torture.
+
+43
+00:02:05,942 --> 00:02:08,900
+She's not long for this world.
+I'd suggest something else.
+
+44
+00:02:08,983 --> 00:02:09,942
+[NAOFUMI]
+I've decided.
+
+45
+00:02:10,025 --> 00:02:11,025
+[SLAVE TRADER]
+Eh?
+
+46
+00:02:11,108 --> 00:02:13,442
+She'll do, I'll take this one.
+
+47
+00:02:13,525 --> 00:02:14,983
+[gasps]
+
+48
+00:02:34,400 --> 00:02:37,192
+<i>In this empty void I</i>
+<i>found the way to the light</i>
+
+49
+00:02:37,275 --> 00:02:40,025
+<i>Can't find my way</i>
+<i>in this lingering world</i>
+
+50
+00:02:40,108 --> 00:02:43,400
+<i>Searching for the answer</i>
+<i>the one that I can trust in</i>
+
+51
+00:02:43,483 --> 00:02:45,483
+<i>I'm just wandering around</i>
+
+52
+00:02:45,567 --> 00:02:47,192
+<i>Yeah, still stuck</i>
+<i>in the shadow, ay</i>
+
+53
+00:02:47,275 --> 00:02:48,608
+<i>But I never follow that</i>
+
+54
+00:02:48,692 --> 00:02:50,150
+<i>This pain at last</i>
+<i>Soon will pass</i>
+
+55
+00:02:50,233 --> 00:02:51,608
+<i>Turn into my own</i>
+<i>unbeatable strength</i>
+
+56
+00:02:51,692 --> 00:02:52,942
+<i>This guy or that guy</i>
+<i>dead or alive</i>
+
+57
+00:02:53,025 --> 00:02:54,525
+<i>by hiding alone we can't survive</i>
+
+58
+00:02:54,608 --> 00:02:57,358
+<i>I don't want to lie to myself</i>
+
+59
+00:02:57,442 --> 00:02:59,025
+<i>Keep on the fight, get right</i>
+
+60
+00:02:59,108 --> 00:03:00,275
+<i>I'll never lose and cry</i>
+
+61
+00:03:00,358 --> 00:03:01,942
+<i>Keep run up day and night</i>
+
+62
+00:03:02,025 --> 00:03:03,317
+<i>Time to rewrite</i>
+
+63
+00:03:03,400 --> 00:03:07,525
+<i>No matter what anyone say</i>
+<i>I find my way, yeah</i>
+
+64
+00:03:07,608 --> 00:03:10,067
+<i>Never go away</i>
+
+65
+00:03:10,150 --> 00:03:12,942
+<i>Now, Nobody can stop me no way</i>
+
+66
+00:03:13,025 --> 00:03:15,858
+<i>I will make sure not to</i>
+<i>forget those precious things</i>
+
+67
+00:03:15,942 --> 00:03:18,900
+<i>Yeah I'll take a stand</i>
+<i>get back all that I've lost</i>
+
+68
+00:03:18,983 --> 00:03:21,775
+<i>Rise suddenly in this world</i>
+<i>(I don't look back yeah)</i>
+
+69
+00:03:21,858 --> 00:03:24,650
+<i>This repetition will</i>
+<i>repeat till the end</i>
+
+70
+00:03:24,733 --> 00:03:27,525
+<i>And the regrets are</i>
+<i>still lingering in my head</i>
+
+71
+00:03:27,608 --> 00:03:30,442
+<i>Time to get it all back</i>
+<i>now turn over</i>
+
+72
+00:03:30,525 --> 00:03:34,442
+<i>Rise suddenly in this world</i>
+<i>(I don't look back yeah)</i>
+
+73
+00:03:50,108 --> 00:03:51,608
+[SLAVE TRADER]
+Let's begin.
+
+74
+00:04:00,608 --> 00:04:01,775
+[SLAVE gasps]
+
+75
+00:04:03,608 --> 00:04:07,025
+[SLAVE groaning]
+
+76
+00:04:07,108 --> 00:04:08,442
+What's with that?
+
+77
+00:04:08,525 --> 00:04:12,358
+Nothing to worry about.
+The pain will dissipate soon.
+
+78
+00:04:13,692 --> 00:04:15,817
+That slave crest
+branded on her chest
+
+79
+00:04:15,900 --> 00:04:19,067
+makes it impossible
+for her to defy you.
+
+80
+00:04:22,400 --> 00:04:25,317
+[NAOFUMI]
+Huh? "Set as companion"?
+
+81
+00:04:25,400 --> 00:04:28,775
+[SLAVE TRADER] There you go,
+good sir. She's all yours.
+
+82
+00:04:28,858 --> 00:04:31,567
+[NAOFUMI]
+Thirty silvers, right?
+
+83
+00:04:36,192 --> 00:04:38,192
+There's one extra in here.
+
+84
+00:04:38,275 --> 00:04:39,567
+That's your commission.
+
+85
+00:04:39,650 --> 00:04:41,192
+You were going to wring
+it out of me anyway,
+
+86
+00:04:41,275 --> 00:04:42,317
+now weren't you?
+
+87
+00:04:42,400 --> 00:04:44,275
+Well, you certainly
+know your stuff!
+
+88
+00:04:44,358 --> 00:04:46,192
+Now then, I guess
+I'm supposed to know
+
+89
+00:04:46,275 --> 00:04:47,608
+what your name is, right?
+
+90
+00:04:47,692 --> 00:04:48,983
+[coughing]
+
+91
+00:04:49,067 --> 00:04:51,400
+[NAOFUMI]
+Well? Tell me your name.
+
+92
+00:04:51,483 --> 00:04:53,150
+I said, what's your name?
+
+93
+00:04:53,233 --> 00:04:56,067
+I'm called... Raphtalia.
+
+94
+00:04:56,150 --> 00:04:58,025
+Raphtalia, huh?
+
+95
+00:04:59,525 --> 00:05:00,858
+[NAOFUMI]
+Let's go.
+
+96
+00:05:02,775 --> 00:05:06,358
+I look forward to your next
+visit--we're always open!
+
+97
+00:05:07,692 --> 00:05:09,650
+[chuckles]
+
+98
+00:05:09,733 --> 00:05:11,858
+[SLAVE TRADER]
+So he really did choose her.
+
+99
+00:05:11,942 --> 00:05:15,942
+I'm gettin' goosebumps just
+thinkin' about it. [chuckles]
+
+100
+00:05:17,025 --> 00:05:19,858
+[ERHARDT]
+Welcome! Hm?
+
+101
+00:05:19,942 --> 00:05:23,192
+Oh, it's you.
+
+102
+00:05:23,275 --> 00:05:26,317
+Well, well. What's
+with the girl, kid?
+
+103
+00:05:26,400 --> 00:05:28,150
+Hm?
+
+104
+00:05:28,233 --> 00:05:30,233
+[NAOFUMI]
+Give me a weapon she can use.
+
+105
+00:05:30,317 --> 00:05:32,942
+And keep it under
+six silvers, all right?
+
+106
+00:05:35,108 --> 00:05:36,983
+[NAOFUMI]
+Took you long enough.
+
+107
+00:05:37,067 --> 00:05:39,067
+I'm-I'm sorry, sir.
+
+108
+00:05:39,150 --> 00:05:40,900
+Yeah, right...
+
+109
+00:05:40,983 --> 00:05:43,900
+Now come on--let's see
+you draw your knife.
+
+110
+00:05:43,983 --> 00:05:45,025
+Huh?
+
+111
+00:05:46,400 --> 00:05:47,650
+[gasps]
+
+112
+00:05:47,733 --> 00:05:49,692
+I want you to stab this thing.
+
+113
+00:05:49,775 --> 00:05:51,692
+[RAPHTALIA]
+N-No...
+
+114
+00:05:51,775 --> 00:05:53,358
+That's an order!
+
+115
+00:05:57,400 --> 00:06:00,067
+[NAOFUMI] You only hurt
+yourself by refusing.
+
+116
+00:06:00,150 --> 00:06:01,650
+Now do it!
+
+117
+00:06:04,192 --> 00:06:05,733
+[yells]
+
+118
+00:06:07,025 --> 00:06:10,025
+Too weak! Put some
+muscle into it!
+
+119
+00:06:10,108 --> 00:06:11,233
+Come on!
+
+120
+00:06:12,275 --> 00:06:13,900
+[yells]
+
+121
+00:06:17,608 --> 00:06:20,525
+[NAOFUMI] Huh? I got
+experience points, too?
+
+122
+00:06:20,608 --> 00:06:22,567
+[ERHARDT] Probably because
+when you formed the pact,
+
+123
+00:06:22,650 --> 00:06:24,525
+you set her as a companion.
+
+124
+00:06:24,608 --> 00:06:25,775
+Oh, now wait a minute,
+
+125
+00:06:25,858 --> 00:06:27,192
+don't tell me you didn't
+do that with the lady
+
+126
+00:06:27,275 --> 00:06:28,358
+who was in here before.
+
+127
+00:06:28,442 --> 00:06:31,150
+[NAOFUMI grunts]
+Damn that woman...
+
+128
+00:06:31,233 --> 00:06:32,692
+--Listen up, you!
+--[RAPHTALIA gasps]
+
+129
+00:06:32,775 --> 00:06:35,567
+From here on out, I expect
+you to fight monsters for me,
+
+130
+00:06:35,650 --> 00:06:38,108
+is that perfectly clear?
+
+131
+00:06:38,192 --> 00:06:40,400
+Even though it wasn't
+much, I paid for you,
+
+132
+00:06:40,483 --> 00:06:43,233
+so you'd better pitch in and
+help me recoup the expense.
+
+133
+00:06:43,317 --> 00:06:47,025
+Y'know what, kid? You're not
+gonna die a painless death.
+
+134
+00:06:47,108 --> 00:06:50,317
+Don't beat around the bush,
+say what you really think.
+
+135
+00:06:50,400 --> 00:06:52,692
+Come on, off your
+butt. Let's move.
+
+136
+00:06:52,775 --> 00:06:54,525
+Um, yes, sir!
+
+137
+00:06:56,317 --> 00:06:57,650
+Oh, boy....
+
+138
+00:06:57,733 --> 00:06:59,775
+I don't know whether the
+country's going to the dogs
+
+139
+00:06:59,858 --> 00:07:02,192
+or if the kid's just
+been corrupted.
+
+140
+00:07:04,400 --> 00:07:08,733
+All I've got left is
+three silvers. [sighs]
+
+141
+00:07:08,817 --> 00:07:10,733
+[MERCHANT 2A]
+Hey! Get a move on!
+
+142
+00:07:10,817 --> 00:07:12,108
+Huh?
+
+143
+00:07:12,192 --> 00:07:14,150
+[MERCHANT 2A] Move your butts,
+you stinkin' demis!
+
+144
+00:07:16,358 --> 00:07:18,233
+[MERCHANT 2A] I don't have
+all day, you little moron!
+
+145
+00:07:18,317 --> 00:07:19,942
+[stomach growls]
+
+146
+00:07:20,025 --> 00:07:21,858
+You want something to eat?
+
+147
+00:07:21,942 --> 00:07:23,400
+No, sir.
+
+148
+00:07:23,483 --> 00:07:26,775
+You can't fight on an empty
+stomach. Let's get some lunch.
+
+149
+00:07:26,858 --> 00:07:28,067
+[RAPHTALIA]
+Lunch?
+
+150
+00:07:32,567 --> 00:07:33,983
+U-Uh, sir?
+
+151
+00:07:34,067 --> 00:07:34,817
+[NAOFUMI]
+Now what?
+
+152
+00:07:34,900 --> 00:07:35,692
+This place--
+
+153
+00:07:35,775 --> 00:07:37,067
+[NAOFUMI]
+Hurry up!
+
+154
+00:07:40,275 --> 00:07:41,983
+Welcome to the Inn!
+
+155
+00:07:42,067 --> 00:07:43,900
+Ugh. The Shield Hero.
+
+156
+00:07:43,983 --> 00:07:45,275
+[PATRON 2A]
+Is he the rapist?
+
+157
+00:07:45,358 --> 00:07:46,692
+[PATRON 2B]
+Shut up! Do you...
+
+158
+00:07:46,775 --> 00:07:48,025
+Can we get somthin' to eat here?
+
+159
+00:07:48,108 --> 00:07:50,525
+Huh? Yeah, be right there.
+
+160
+00:07:50,608 --> 00:07:52,108
+[PATRON 2C]
+Look, it's a demi-human.
+
+161
+00:07:52,192 --> 00:07:55,608
+Gimme the cheapest lunch
+that you got here, for one.
+
+162
+00:07:55,692 --> 00:07:59,275
+And, uh, she'll have whatever
+that kid over there's having.
+
+163
+00:07:59,358 --> 00:08:01,192
+[WAITER 2A]
+That'll be nine coppers.
+
+164
+00:08:01,275 --> 00:08:02,942
+[NAOFUMI]
+Yeah... fine.
+
+165
+00:08:05,858 --> 00:08:07,358
+Why, sir?
+
+166
+00:08:07,442 --> 00:08:09,942
+Why what? You don't want that?
+
+167
+00:08:10,025 --> 00:08:13,108
+No, sir. Why are you
+getting it for me?
+
+168
+00:08:13,192 --> 00:08:16,650
+I dunno. 'Cause you looked like
+you wanted to try it, I guess.
+
+169
+00:08:18,650 --> 00:08:21,150
+[WAITER 2A]
+All right, here's your food.
+
+170
+00:08:21,233 --> 00:08:23,358
+[RAPHTALIA gasps]
+
+171
+00:08:24,858 --> 00:08:25,817
+You saving it for later?
+
+172
+00:08:25,900 --> 00:08:27,567
+[RAPHTALIA]
+It's all for me?
+
+173
+00:08:30,150 --> 00:08:31,858
+[NAOFUMI]
+Go on, eat.
+
+174
+00:08:47,733 --> 00:08:48,900
+[NAOFUMI]
+Drink this.
+
+175
+00:08:57,358 --> 00:08:58,358
+How's the food?
+
+176
+00:08:58,442 --> 00:08:59,483
+[RAPHTALIA]
+Hm?
+
+177
+00:09:06,150 --> 00:09:08,775
+[NAOFUMI]
+Damn, still can't taste a thing.
+
+178
+00:09:11,067 --> 00:09:12,650
+[NAOFUMI]
+Raphtalia!
+
+179
+00:09:12,733 --> 00:09:14,400
+Y-Yes!
+
+180
+00:09:14,483 --> 00:09:15,900
+[RAPHTALIA yells]
+
+181
+00:09:18,858 --> 00:09:20,275
+Attack now!
+
+182
+00:09:30,567 --> 00:09:32,775
+[NAOFUMI]
+Blending ability, huh?
+
+183
+00:09:32,858 --> 00:09:35,108
+That's something that
+might come in handy.
+
+184
+00:09:35,192 --> 00:09:37,442
+[RAPHTALIA]
+Master? Sir?
+
+185
+00:09:38,400 --> 00:09:41,733
+Who are you? And what I
+mean is, who are you really?
+
+186
+00:09:41,817 --> 00:09:44,233
+I'm a hero. The Shield Hero.
+
+187
+00:09:44,317 --> 00:09:47,525
+Wait, do you mean...
+the Four Cardinal Heroes?
+
+188
+00:09:47,608 --> 00:09:49,025
+Uh-huh.
+
+189
+00:09:50,567 --> 00:09:52,567
+[RAPHTALIA'S DAD]
+Raphtalia.
+
+190
+00:09:52,650 --> 00:09:55,358
+Do you know of the
+four legendary heroes?
+
+191
+00:09:55,442 --> 00:09:56,358
+[RAPHTALIA]
+Mm-hm.
+
+192
+00:09:56,442 --> 00:09:57,608
+The ones with the
+sword, the bow,
+
+193
+00:09:57,692 --> 00:09:59,275
+the spear, and then, um...
+
+194
+00:09:59,358 --> 00:10:01,192
+And then the one
+with the shield!
+
+195
+00:10:01,275 --> 00:10:02,442
+Right.
+
+196
+00:10:02,525 --> 00:10:04,483
+The Shield Hero, out of
+all the Cardinal Heroes,
+
+197
+00:10:04,567 --> 00:10:07,525
+treated us demi-humans very well
+and we're grateful to him.
+
+198
+00:10:07,608 --> 00:10:08,692
+He did?
+
+199
+00:10:08,775 --> 00:10:10,900
+Then I for sure wanna
+meet him, Daddy.
+
+200
+00:10:10,983 --> 00:10:12,192
+[RAPHTALIA'S MOM]
+If you're a good girl,
+
+201
+00:10:12,275 --> 00:10:13,775
+one day I'm sure you will.
+
+202
+00:10:13,858 --> 00:10:15,275
+[RAPHTALIA giggles]
+
+203
+00:10:20,775 --> 00:10:23,733
+You're really the Shield Hero...
+
+204
+00:10:23,817 --> 00:10:26,650
+[gasps] Please, sir.
+What do I call you?
+
+205
+00:10:26,733 --> 00:10:28,483
+Naofumi Iwatani.
+
+206
+00:10:28,567 --> 00:10:31,400
+Naofumi Iwatani.
+
+207
+00:10:31,483 --> 00:10:33,525
+[coughs]
+
+208
+00:10:33,608 --> 00:10:34,900
+[NAOFUMI]
+Drink this.
+
+209
+00:10:36,442 --> 00:10:37,942
+[NAOFUMI]
+It's a medicine that I blended.
+
+210
+00:10:38,025 --> 00:10:40,692
+Apparently, it can
+cure light colds.
+
+211
+00:10:40,775 --> 00:10:42,025
+Drink it.
+
+212
+00:10:45,692 --> 00:10:46,650
+[RAPHTALIA retches]
+
+213
+00:10:46,733 --> 00:10:48,192
+[RAPHTALIA]
+It's so bitter!
+
+214
+00:10:48,275 --> 00:10:50,108
+Good medicine's supposed
+to taste bitter.
+
+215
+00:10:50,192 --> 00:10:51,358
+Drink it up, now!
+
+216
+00:10:51,442 --> 00:10:54,983
+[RAPHTALIA whining]
+
+217
+00:11:15,108 --> 00:11:17,775
+[RAPHTALIA'S DAD]
+I'm sorry, Raphtalia.
+
+218
+00:11:17,858 --> 00:11:21,233
+Raphtalia. We only wanted
+to make sure you survived.
+
+219
+00:11:21,317 --> 00:11:23,025
+Please find it in your
+heart to forgive us
+
+220
+00:11:23,108 --> 00:11:25,275
+our selfishness if you can!
+
+221
+00:11:30,942 --> 00:11:32,150
+[RAPHTALIA]
+No!
+
+222
+00:11:32,233 --> 00:11:33,692
+[gasps]
+
+223
+00:11:33,775 --> 00:11:35,817
+They're dead! They're dead!
+
+224
+00:11:35,900 --> 00:11:37,400
+[NAOFUMI]
+What's wrong?
+
+225
+00:11:37,483 --> 00:11:40,025
+Just calm down.
+Everything's okay.
+
+226
+00:11:40,108 --> 00:11:41,942
+Father...
+
+227
+00:11:42,025 --> 00:11:43,817
+No! My mother...
+
+228
+00:11:43,900 --> 00:11:45,442
+Don't cry.
+
+229
+00:11:45,525 --> 00:11:47,275
+...they're both gone.
+
+230
+00:11:47,358 --> 00:11:48,900
+It's all right.
+
+231
+00:11:50,608 --> 00:11:52,400
+[NAOFUMI]
+It'll be all right...
+
+232
+00:11:55,567 --> 00:11:56,567
+[HERBALIST 1A]
+Hm...
+
+233
+00:11:56,650 --> 00:11:59,483
+Very impressive,
+if I do say so myself.
+
+234
+00:11:59,567 --> 00:12:02,608
+Are you well versed in
+making medicines, Sir Hero?
+
+235
+00:12:02,692 --> 00:12:04,942
+Actually, yesterday
+was my first try.
+
+236
+00:12:05,025 --> 00:12:06,067
+[HERBALIST 1A]
+Really?
+
+237
+00:12:06,150 --> 00:12:07,608
+[NAOFUMI]
+So which is more profitable,
+
+238
+00:12:07,692 --> 00:12:09,233
+selling herbs or medicine?
+
+239
+00:12:09,317 --> 00:12:10,775
+[HERBALIST 1A]
+Due to the Wave's impact,
+
+240
+00:12:10,858 --> 00:12:13,650
+medicine has been flying
+off the shelves lately,
+
+241
+00:12:13,733 --> 00:12:16,942
+so rather than herbs, I'd pay
+more for your medicine.
+
+242
+00:12:17,025 --> 00:12:18,525
+[NAOFUMI]
+I see.
+
+243
+00:12:19,608 --> 00:12:22,567
+[HERBALIST 1A] In total,
+this is worth four silvers.
+
+244
+00:12:22,650 --> 00:12:26,025
+Listen, you wouldn't happen to
+have any tools you don't use?
+
+245
+00:12:26,108 --> 00:12:27,192
+[KID 2A]
+Here we go!
+
+246
+00:12:27,275 --> 00:12:28,025
+[KID 2B]
+Okay!
+
+247
+00:12:28,108 --> 00:12:28,858
+[KID 2A]
+One, two...
+
+248
+00:12:28,942 --> 00:12:30,317
+Raphtalia.
+
+249
+00:12:31,733 --> 00:12:32,983
+[NAOFUMI]
+Would you like a ball like that?
+
+250
+00:12:33,067 --> 00:12:34,650
+[RAPHTALIA gasps]
+
+251
+00:12:34,733 --> 00:12:36,067
+No, I don't!
+
+252
+00:12:36,150 --> 00:12:38,692
+I'd never want a
+ball, not at all!
+
+253
+00:12:40,692 --> 00:12:42,900
+[NAOFUMI]
+Yeah, right...
+
+254
+00:12:42,983 --> 00:12:44,150
+Huh?
+
+255
+00:12:45,900 --> 00:12:49,442
+You can play with it after
+we're done with work.
+
+256
+00:12:49,525 --> 00:12:50,942
+Of course!
+
+257
+00:12:51,025 --> 00:12:52,400
+[bell rings]
+
+258
+00:12:52,483 --> 00:12:54,317
+I'm coming! [gasps]
+
+259
+00:12:54,400 --> 00:12:55,900
+The Shield Hero's here.
+
+260
+00:12:55,983 --> 00:12:57,317
+I'd like to rent a room.
+
+261
+00:12:57,400 --> 00:12:59,817
+My companion tends to
+scream at night, though.
+
+262
+00:12:59,900 --> 00:13:01,900
+[INNKEEPER 2A groans]
+
+263
+00:13:01,983 --> 00:13:04,317
+[NAOFUMI]
+You will let us stay, won't you?
+
+264
+00:13:04,400 --> 00:13:05,442
+Yes, of course!
+
+265
+00:13:05,525 --> 00:13:07,442
+I'll prepare your room at once!
+
+266
+00:13:10,692 --> 00:13:13,025
+[NAOFUMI] I have to
+find a way to survive
+
+267
+00:13:13,108 --> 00:13:16,067
+before the next Wave
+of Catastrophe hits.
+
+268
+00:13:49,400 --> 00:13:50,775
+Okay.
+
+269
+00:13:50,858 --> 00:13:52,525
+I think we can go a little
+deeper into the forest now.
+
+270
+00:13:52,608 --> 00:13:53,900
+[rustling]
+
+271
+00:13:56,733 --> 00:13:59,025
+An enemy... rabbit?
+
+272
+00:13:59,108 --> 00:14:00,817
+Watch out!
+
+273
+00:14:00,900 --> 00:14:03,567
+Kill it, Raphtalia!
+Go on--quickly!
+
+274
+00:14:04,775 --> 00:14:06,900
+[NAOFUMI] Hurry up!
+What're you waiting for?
+
+275
+00:14:06,983 --> 00:14:08,317
+But I can't.
+
+276
+00:14:08,400 --> 00:14:09,900
+It'll bleed if I stab it.
+
+277
+00:14:09,983 --> 00:14:11,942
+[NAOFUMI]
+Raphtalia!
+
+278
+00:14:12,025 --> 00:14:13,483
+I hate blood!
+
+279
+00:14:16,608 --> 00:14:18,692
+[NAOFUMI]
+Listen up now, and listen good!
+
+280
+00:14:18,775 --> 00:14:20,192
+If you can't fight,
+
+281
+00:14:20,275 --> 00:14:22,400
+then I'm not gonna take care
+of you anymore, you got me?!
+
+282
+00:14:22,483 --> 00:14:23,942
+[gasps]
+
+283
+00:14:24,025 --> 00:14:24,942
+[NAOFUMI]
+There's a Wave coming
+
+284
+00:14:25,025 --> 00:14:26,608
+that could end everything!
+
+285
+00:14:26,692 --> 00:14:28,442
+I have to get as
+strong as possible
+
+286
+00:14:28,525 --> 00:14:30,608
+before we're all wiped out.
+
+287
+00:14:30,692 --> 00:14:33,233
+But defense is all I'm good for.
+
+288
+00:14:33,317 --> 00:14:36,567
+I need someone to fight for me.
+
+289
+00:14:36,650 --> 00:14:39,233
+If you can't, I'll
+find someone else.
+
+290
+00:14:39,317 --> 00:14:40,733
+[gasps]
+
+291
+00:14:40,817 --> 00:14:41,817
+Understand?
+
+292
+00:14:41,900 --> 00:14:44,358
+You'll fight the Waves
+of Catastrophe?
+
+293
+00:14:44,442 --> 00:14:46,608
+I have to, that's my job.
+
+294
+00:14:47,817 --> 00:14:49,358
+[RAPHTALIA]
+I understand.
+
+295
+00:14:53,608 --> 00:14:55,358
+[yells]
+
+296
+00:15:01,733 --> 00:15:03,983
+Then I, too, have no choice...
+
+297
+00:15:04,067 --> 00:15:06,650
+Master, I'll fight for you.
+
+298
+00:15:06,733 --> 00:15:10,275
+Just don't--don't throw me away!
+
+299
+00:15:10,358 --> 00:15:11,567
+Deal.
+
+300
+00:15:12,650 --> 00:15:16,192
+[NAOFUMI]
+This is reality. Not a game.
+
+301
+00:15:16,275 --> 00:15:19,608
+I want to live, so there's
+nothing to do but fight!
+
+302
+00:15:22,108 --> 00:15:23,983
+[NAOFUMI] What kind of
+weapon can I get for that?
+
+303
+00:15:24,067 --> 00:15:25,525
+Well. The time has come
+
+304
+00:15:25,608 --> 00:15:28,525
+to get the little miss
+a real sword then.
+
+305
+00:15:29,817 --> 00:15:32,525
+[ERHARDT] One on the short
+side's a good place to start.
+
+306
+00:15:32,608 --> 00:15:36,608
+Here's a nice little item.
+A pre-owned iron short sword.
+
+307
+00:15:36,692 --> 00:15:38,192
+Listen, um...
+
+308
+00:15:38,275 --> 00:15:39,525
+With the equipment we have,
+
+309
+00:15:39,608 --> 00:15:41,983
+is there a village or town
+nearby we can travel to?
+
+310
+00:15:42,067 --> 00:15:43,567
+With all your stuff?
+
+311
+00:15:43,650 --> 00:15:45,067
+The only place that
+comes to mind
+
+312
+00:15:45,150 --> 00:15:47,900
+would be a small
+village called Lute.
+
+313
+00:15:50,817 --> 00:15:52,275
+[NAOFUMI]
+How much?
+
+314
+00:15:52,358 --> 00:15:56,733
+I'd say... about two silvers,
+give or take a copper.
+
+315
+00:15:56,817 --> 00:15:57,942
+Really?
+
+316
+00:15:58,025 --> 00:16:00,317
+Hey, do you know
+of any spots nearby
+
+317
+00:16:00,400 --> 00:16:02,483
+where you can earn
+a lot of money quick?
+
+318
+00:16:02,567 --> 00:16:03,483
+[MERCHANT 2B]
+Hmm...
+
+319
+00:16:03,567 --> 00:16:05,233
+Well, now that you mention it,
+
+320
+00:16:05,317 --> 00:16:07,192
+the ore coming out of the
+mines outside the walls
+
+321
+00:16:07,275 --> 00:16:09,608
+oughta fetch a
+decent amount, but...
+
+322
+00:16:09,692 --> 00:16:11,525
+[NAOFUMI]
+But what? What's the catch?
+
+323
+00:16:11,608 --> 00:16:13,358
+Ever since the first Wave came,
+
+324
+00:16:13,442 --> 00:16:15,983
+it's become home to a bunch
+of dangerous monsters.
+
+325
+00:16:16,067 --> 00:16:18,817
+These days nobody wants to go
+anywhere near that place.
+
+326
+00:16:18,900 --> 00:16:19,817
+Monsters, huh?
+
+327
+00:16:19,900 --> 00:16:21,192
+[MERCHANT 2B]
+Huh.
+
+328
+00:16:21,275 --> 00:16:22,483
+I don't know what our
+summoned "heroes" are doing,
+
+329
+00:16:22,567 --> 00:16:24,733
+but if you ask me,
+it isn't much.
+
+330
+00:16:34,733 --> 00:16:37,483
+Well, exclusive
+effects and skills.
+
+331
+00:16:41,900 --> 00:16:43,567
+That's pretty boring.
+
+332
+00:16:43,650 --> 00:16:46,192
+A Rope Shield?
+
+333
+00:16:46,275 --> 00:16:48,233
+All right.
+
+334
+00:16:48,317 --> 00:16:50,400
+Air Strike Shield!
+
+335
+00:16:54,733 --> 00:16:56,400
+[gasps]
+
+336
+00:16:56,483 --> 00:16:58,608
+Anything wrong, sir?
+
+337
+00:16:58,692 --> 00:16:59,608
+[NAOFUMI clears throat]
+
+338
+00:16:59,692 --> 00:17:02,233
+It's nothing. Let's go.
+
+339
+00:17:08,317 --> 00:17:10,108
+[NAOFUMI] If there
+really are monsters here,
+
+340
+00:17:10,192 --> 00:17:12,317
+the moment things
+go south, we run.
+
+341
+00:17:12,400 --> 00:17:13,858
+And you're gonna
+have to keep up.
+
+342
+00:17:13,942 --> 00:17:15,233
+Okay.
+
+343
+00:17:16,483 --> 00:17:18,150
+[RAPHTALIA]
+Uh... 'scuse me?
+
+344
+00:17:18,233 --> 00:17:19,525
+[NAOFUMI]
+What is it?
+
+345
+00:17:19,608 --> 00:17:21,483
+I was just wondering about...
+
+346
+00:17:21,567 --> 00:17:23,775
+I mean, how should
+I address you?
+
+347
+00:17:23,858 --> 00:17:25,192
+[NAOFUMI]
+Call me whatever.
+
+348
+00:17:25,275 --> 00:17:27,400
+All right then.
+
+349
+00:17:27,483 --> 00:17:28,525
+[RAPHTALIA gasps]
+
+350
+00:17:31,317 --> 00:17:32,983
+[NAOFUMI]
+Looks like the place.
+
+351
+00:17:34,192 --> 00:17:35,692
+Okay.
+
+352
+00:17:38,608 --> 00:17:40,650
+[RAPHTALIA]
+Hm?
+
+353
+00:17:40,733 --> 00:17:42,567
+Footprints?
+
+354
+00:17:42,650 --> 00:17:45,233
+This may not be
+so tough after all.
+
+355
+00:17:45,317 --> 00:17:48,025
+Raphtalia, let's try
+a little further--
+
+356
+00:17:57,150 --> 00:17:59,525
+[RAPHTALIA]
+No!
+
+357
+00:18:11,150 --> 00:18:12,983
+[RAPHTALIA coughs]
+
+358
+00:18:13,067 --> 00:18:14,567
+Think you can make it?
+
+359
+00:18:14,650 --> 00:18:17,025
+Dog... Dog monster...
+
+360
+00:18:17,108 --> 00:18:21,983
+It killed all the villagers--
+even my mother and father.
+
+361
+00:18:22,067 --> 00:18:24,233
+[NAOFUMI]
+During the first Wave, huh?
+
+362
+00:18:25,483 --> 00:18:28,025
+[NAOFUMI] That's why
+she cries every night.
+
+363
+00:18:32,025 --> 00:18:33,192
+[RAPHTALIA gasps]
+
+364
+00:18:34,567 --> 00:18:35,650
+[NAOFUMI]
+Is that the same monster
+
+365
+00:18:35,733 --> 00:18:37,817
+that killed your parents?
+
+366
+00:18:37,900 --> 00:18:38,817
+[RAPHTALIA]
+No.
+
+367
+00:18:38,900 --> 00:18:41,317
+[NAOFUMI]
+Listen, Raphtalia.
+
+368
+00:18:41,400 --> 00:18:44,150
+You take that thing
+out here and now.
+
+369
+00:18:44,233 --> 00:18:45,192
+Huh?
+
+370
+00:18:45,275 --> 00:18:46,900
+If you fight and
+make me stronger,
+
+371
+00:18:46,983 --> 00:18:48,858
+we'll fend off the
+Waves of Catastrophe
+
+372
+00:18:48,942 --> 00:18:52,358
+and make sure that tragedy
+never happens again.
+
+373
+00:18:52,442 --> 00:18:55,358
+Face it, your parents
+aren't coming back.
+
+374
+00:18:55,442 --> 00:18:56,858
+But we can prevent other kids
+
+375
+00:18:56,942 --> 00:18:59,525
+from going through
+what you experienced.
+
+376
+00:18:59,608 --> 00:19:00,733
+You can do it!
+
+377
+00:19:00,817 --> 00:19:02,817
+And what I'm capable
+of doing is making sure
+
+378
+00:19:02,900 --> 00:19:05,567
+you have the skills to
+fight as best you can!
+
+379
+00:19:09,525 --> 00:19:10,567
+[gasps]
+
+380
+00:19:10,650 --> 00:19:13,775
+Raphtalia! You gotta kill it!
+
+381
+00:19:13,858 --> 00:19:17,983
+Grab your sword and
+kill this thing! Do it now!
+
+382
+00:19:18,067 --> 00:19:19,400
+I can't...
+
+383
+00:19:20,900 --> 00:19:23,400
+[NAOFUMI]
+If I die, you're gonna die, too!
+
+384
+00:19:23,483 --> 00:19:24,525
+Please, no!
+
+385
+00:19:24,608 --> 00:19:26,692
+[NAOFUMI]
+Then hurry up and kill it!
+
+386
+00:19:26,775 --> 00:19:28,942
+That's an order! Do it now!
+
+387
+00:19:29,025 --> 00:19:31,150
+[screams]
+
+388
+00:19:43,692 --> 00:19:47,150
+All right then, just forget it.
+
+389
+00:19:47,233 --> 00:19:49,858
+If you can't fight,
+then get the hell outta here.
+
+390
+00:19:49,942 --> 00:19:52,317
+[gasps] But what'll
+you do, Master?
+
+391
+00:19:52,400 --> 00:19:55,400
+[NAOFUMI]
+I'll buy time for you to escape.
+
+392
+00:19:55,483 --> 00:19:57,358
+[RAPHTALIA]
+What?
+
+393
+00:19:57,442 --> 00:20:02,358
+Then that'd be just...
+just like my parents...
+
+394
+00:20:02,442 --> 00:20:03,858
+[NAOFUMI]
+Hurry up! Run!
+
+395
+00:20:03,942 --> 00:20:05,358
+Master, I can't!
+
+396
+00:20:05,442 --> 00:20:06,817
+[NAOFUMI groans]
+
+397
+00:20:06,900 --> 00:20:09,483
+I can't do this.
+
+398
+00:20:09,567 --> 00:20:10,858
+No!
+
+399
+00:20:15,025 --> 00:20:16,733
+[RAPHTALIA]
+Don't leave me!
+
+400
+00:20:18,108 --> 00:20:20,567
+Don't leave me, please, no!
+
+401
+00:20:27,358 --> 00:20:29,275
+[RAPHTALIA]
+No!
+
+402
+00:20:36,108 --> 00:20:36,983
+[RAPHTALIA gasps]
+
+403
+00:20:37,067 --> 00:20:38,567
+[NAOFUMI]
+Air Strike Shield!
+
+404
+00:20:40,275 --> 00:20:41,358
+Now, Raphtalia!
+
+405
+00:20:41,442 --> 00:20:43,608
+[yells]
+
+406
+00:20:52,608 --> 00:20:54,358
+[NAOFUMI]
+Nice job, kid.
+
+407
+00:20:59,733 --> 00:21:02,608
+Master! Naofumi!
+
+408
+00:21:02,692 --> 00:21:03,775
+Careful!
+
+409
+00:21:03,858 --> 00:21:05,233
+Even with the shield's power,
+
+410
+00:21:05,317 --> 00:21:07,358
+this wound still
+hurts like hell.
+
+411
+00:21:07,442 --> 00:21:09,400
+Promise me you won't ever die!
+
+412
+00:21:09,483 --> 00:21:13,192
+Don't leave me alone,
+Master Naofumi--please!
+
+413
+00:21:13,275 --> 00:21:15,192
+[NAOFUMI]
+She's chosen my name...
+
+414
+00:21:16,442 --> 00:21:18,983
+[NAOFUMI]
+You attack, and I defend.
+
+415
+00:21:19,067 --> 00:21:22,150
+That way, neither of us'll
+have to worry about dying.
+
+416
+00:21:22,233 --> 00:21:24,025
+All right.
+
+417
+00:21:24,108 --> 00:21:25,775
+[NAOFUMI] We'll get outta
+here once I feed this monster
+
+418
+00:21:25,858 --> 00:21:27,150
+to my shield.
+
+419
+00:21:27,233 --> 00:21:29,983
+[RAPHTALIA]
+Okay, Master Naofumi.
+
+420
+00:21:31,900 --> 00:21:33,233
+Come on, get up.
+
+421
+00:21:33,317 --> 00:21:34,650
+[RAPHTALIA]
+A little longer?
+
+422
+00:21:34,733 --> 00:21:36,275
+[NAOFUMI groans]
+
+423
+00:23:12,108 --> 00:23:13,983
+[NAOFUMI] With all the cash
+we made off that ore,
+
+424
+00:23:14,067 --> 00:23:15,525
+you can eat all you want!
+
+425
+00:23:15,608 --> 00:23:16,858
+[RAPHTALIA]
+Thank you!
+
+426
+00:23:18,358 --> 00:23:19,650
+Food okay?
+
+427
+00:23:19,733 --> 00:23:21,233
+[RAPHTALIA]
+Mm-hm!
+
+428
+00:23:21,317 --> 00:23:22,692
+That's good.
+
+429
+00:23:26,608 --> 00:23:27,817
+Master Naofumi?
+
+430
+00:23:27,900 --> 00:23:29,275
+[NAOFUMI]
+Hm?
+
+431
+00:23:29,358 --> 00:23:32,108
+No matter what happens,
+we're going to survive!
+
+432
+00:23:32,192 --> 00:23:33,900
+Of course we are.
+
+433
+00:23:35,025 --> 00:23:36,608
+[RAPHTALIA]
+Hm?
+
+434
+00:23:36,692 --> 00:23:37,900
+[NAOFUMI]
+Here.
+
+435
+00:23:37,983 --> 00:23:41,900
+A kids' lunch isn't
+complete... without this.
+
+436
+00:23:41,983 --> 00:23:43,358
+[RAPHTALIA]
+Huh?
+
