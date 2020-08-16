@@ -5953,14 +5953,294 @@
   ],
   "Incompleted": [
     {
-      "number": "1",
-      "title_en": "ALL OUT!!",
-      "title_ro": "",
-      "type": "TV",
-      "episodes": "24/25",
-      "anidb_no": "11580",
-      "link": "ALL OUT!!",
-      "category": "Incompleted"
+        "number": 1,
+        "title_en": "All Out!!",
+        "title_ro": "",
+        "type": "TV",
+        "episodes": 24,
+        "anidb_no": "11580",
+        "link": "ALL OUT!!",
+        "category": "Incompleted"
+    },
+    {
+        "number": 2,
+        "title_en": "Azur Lane the Animation",
+        "title_ro": "",
+        "type": "TV",
+        "episodes": 10,
+        "anidb_no": "14396",
+        "link": "AZUR LANE",
+        "category": "Incompleted"
+    },
+    {
+        "number": 3,
+        "title_en": "Black Clover",
+        "title_ro": "",
+        "type": "TV",
+        "episodes": 90,
+        "anidb_no": "12665",
+        "link": "Black Clover",
+        "category": "Incompleted"
+    },
+    {
+        "number": 4,
+        "title_en": "Case File No. 221: Kabukicho",
+        "title_ro": "Kabukichou Sherlock",
+        "type": "TV",
+        "episodes": 12,
+        "anidb_no": "14257",
+        "link": "Case File No. 221 Kabukicho",
+        "category": "Incompleted"
+    },
+    {
+        "number": 5,
+        "title_en": "Chobits",
+        "title_ro": "",
+        "type": "TV",
+        "episodes": 24,
+        "anidb_no": "12",
+        "link": "Chobits",
+        "category": "Incompleted"
+    },
+    {
+        "number": 6,
+        "title_en": "Death Parade",
+        "title_ro": "",
+        "type": "TV",
+        "episodes": 10,
+        "anidb_no": "10905",
+        "link": "Death Parade",
+        "category": "Incompleted"
+    },
+    {
+        "number": 7,
+        "title_en": "Dragon Ball Super",
+        "title_ro": "",
+        "type": "TV",
+        "episodes": 91,
+        "anidb_no": "11210",
+        "link": "Dragon Ball Super",
+        "category": "Incompleted"
+    },
+    {
+        "number": 8,
+        "title_en": "",
+        "title_ro": "El Cazador de la Bruja",
+        "type": "TV",
+        "episodes": 25,
+        "anidb_no": "4966",
+        "link": "El Cazador de la Bruja",
+        "category": "Incompleted"
+    },
+    {
+        "number": 9,
+        "title_en": "Free! - Movie",
+        "title_ro": "Gekijouban Free! Road to the World - Yume",
+        "type": "Movie",
+        "episodes": 7,
+        "anidb_no": "14601",
+        "link": "Free! - Movie",
+        "category": "Incompleted"
+    },
+    {
+        "number": 10,
+        "title_en": "Free! Dive to the Future",
+        "title_ro": "Free! Dive to the Future",
+        "type": "TV",
+        "episodes": 6,
+        "anidb_no": "13548",
+        "link": "Free! Dive to the Future",
+        "category": "Incompleted"
+    },
+    {
+        "number": 11,
+        "title_en": "Future Card Buddyfight 100",
+        "title_ro": "",
+        "type": "TV",
+        "episodes": 25,
+        "anidb_no": "11077",
+        "link": "Future Card Buddyfight 100",
+        "category": "Incompleted"
+    },
+    {
+        "number": 12,
+        "title_en": "Ghost Hunt",
+        "title_ro": "",
+        "type": "TV",
+        "episodes": 18,
+        "anidb_no": "4564",
+        "link": "Ghost Hunt",
+        "category": "Incompleted"
+    },
+    {
+        "number": 13,
+        "title_en": "",
+        "title_ro": "Gintama",
+        "type": "TV",
+        "episodes": 49,
+        "anidb_no": "3468",
+        "link": "GINTAMA",
+        "category": "Incompleted"
+    },
+    {
+        "number": 14,
+        "title_en": "Hetalia: Axis Powers",
+        "title_ro": "",
+        "type": "Web",
+        "episodes": 33,
+        "anidb_no": "6234",
+        "link": "Hetalia",
+        "category": "Incompleted"
+    },
+    {
+        "number": 15,
+        "title_en": "Hunter x Hunter (1999)",
+        "title_ro": "",
+        "type": "TV",
+        "episodes": 52,
+        "anidb_no": "132",
+        "link": "Hunter x Hunter",
+        "category": "Incompleted"
+    },
+    {
+        "number": 16,
+        "title_en": "If My Favorite Pop Idol Made It to the Budokan, I Would Die",
+        "title_ro": "Oshi ga Budoukan Itte Kuretara Shinu",
+        "type": "TV",
+        "episodes": 11,
+        "anidb_no": "14087",
+        "link": "If My Favorite Pop Idol Made It to the Budokan, I Would Die",
+        "category": "Incompleted"
+    },
+    {
+        "number": 17,
+        "title_en": "Isekai Quartet",
+        "title_ro": "",
+        "type": "TV",
+        "episodes": 20,
+        "anidb_no": "14435",
+        "link": "ISEKAI QUARTET",
+        "category": "Incompleted"
+    },
+    {
+        "number": 18,
+        "title_en": "Lupin the 3rd",
+        "title_ro": "Lupin Sansei (1977)",
+        "type": "TV",
+        "episodes": 79,
+        "anidb_no": "1484",
+        "link": "Lupin the Third Part II",
+        "category": "Incompleted"
+    },
+    {
+        "number": 19,
+        "title_en": "Maria the Virgin Witch",
+        "title_ro": "Junketsu no Maria",
+        "type": "TV",
+        "episodes": 9,
+        "anidb_no": "10178",
+        "link": "Maria the Virgin Witch",
+        "category": "Incompleted"
+    },
+    {
+        "number": 20,
+        "title_en": "Mix: Meisei Story",
+        "title_ro": "",
+        "type": "TV",
+        "episodes": 16,
+        "anidb_no": "14245",
+        "link": "MIX",
+        "category": "Incompleted"
+    },
+    {
+        "number": 21,
+        "title_en": "Monster Hunter Stories: Ride On",
+        "title_ro": "",
+        "type": "TV",
+        "episodes": 48,
+        "anidb_no": "11599",
+        "link": "Monster Hunter Stories Ride On",
+        "category": "Incompleted"
+    },
+    {
+        "number": 22,
+        "title_en": "Prison School",
+        "title_ro": "",
+        "type": "TV",
+        "episodes": 11,
+        "anidb_no": "10768",
+        "link": "Prison School",
+        "category": "Incompleted"
+    },
+    {
+        "number": 23,
+        "title_en": "Puzzle & Dragons X",
+        "title_ro": "Puzzle & Dragons Cross",
+        "type": "TV",
+        "episodes": 38,
+        "anidb_no": "11927",
+        "link": "Puzzle & Dragons X",
+        "category": "Incompleted"
+    },
+    {
+        "number": 24,
+        "title_en": "Re:Zero - Starting Life in Another World",
+        "title_ro": "Re:Zero kara Hajimeru Isekai Seikatsu",
+        "type": "TV",
+        "episodes": 10,
+        "anidb_no": "11370",
+        "link": "Re Zero - Starting Life in Another World",
+        "category": "Incompleted"
+    },
+    {
+        "number": 25,
+        "title_en": "Soul Eater",
+        "title_ro": "",
+        "type": "TV",
+        "episodes": 24,
+        "anidb_no": "5610",
+        "link": "Soul Eater",
+        "category": "Incompleted"
+    },
+    {
+        "number": 26,
+        "title_en": "Soul Eater Not!",
+        "title_ro": "",
+        "type": "TV",
+        "episodes": 11,
+        "anidb_no": "10254",
+        "link": "Soul Eater Not!",
+        "category": "Incompleted"
+    },
+    {
+        "number": 27,
+        "title_en": "Star Blazers",
+        "title_ro": "Uchuu Senkan Yamato",
+        "type": "TV",
+        "episodes": 13,
+        "anidb_no": "648",
+        "link": "Star Blazers",
+        "category": "Incompleted"
+    },
+    {
+        "number": 28,
+        "title_en": "The Prince of Tennis",
+        "title_ro": "Tennis no Ouji-sama",
+        "type": "TV",
+        "episodes": 50,
+        "anidb_no": "56",
+        "link": "The Prince of Tennis",
+        "category": "Incompleted"
+    },
+    {
+        "number": 29,
+        "title_en": "Tokyo Majin",
+        "title_ro": "Tokyo Majin Gakuen Kenpuchou Tou",
+        "type": "TV",
+        "episodes": 13,
+        "anidb_no": "4799",
+        "link": "Tokyo Majin",
+        "category": "Incompleted"
     }
-  ]
+]
 }
