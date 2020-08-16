@@ -1,7 +1,6 @@
 {
   "Synchronized": [
     {"number": 1,
-<<<<<<< Updated upstream
       "title_en": "Teasing Master Takagi-san",
       "title_ro": "Karakai Jouzu no Takagi-san",
       "type": "TV",
@@ -19,15 +18,6 @@
         "link": "Your Name",
         "category": "Synchronized"
       }
-=======
-      "title_en": ".hack//Legend of the Twilight",
-      "title_ro": ".hack//Tasogare no Udewa Densetsu",
-      "type": "TV",
-      "episodes": 12,
-      "anidb_no": 447,
-      "link": ".hack Legend of the Twilight",
-      "category": "Completed"}
->>>>>>> Stashed changes
   ],
   "Completed": [
     {
@@ -5919,7 +5909,6 @@
       "anidb_no": 14198,
       "link": "ZOMBIE LAND SAGA",
       "category": "Completed"
-<<<<<<< Updated upstream
     },
     {
       "number": 590,
@@ -5960,8 +5949,6 @@
       "anidb_no": 1069,
       "link": "Dragon Ball Z - Movie09 Bojack Unbound",
       "category": "Completed"
-=======
->>>>>>> Stashed changes
     }
   ],
   "Incompleted": [
