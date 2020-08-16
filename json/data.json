@@ -1,5 +1,25 @@
 {
   "Synchronized": [
+    {"number": 1,
+      "title_en": "Teasing Master Takagi-san",
+      "title_ro": "Karakai Jouzu no Takagi-san",
+      "type": "TV",
+      "episodes": 12,
+      "anidb_no": 13270,
+      "link": "Teasing Master Takagi-san",
+      "category": "Synchronized"},
+      {
+        "number": 2,
+        "title_en": "Your Name.",
+        "title_ro": "Kimi no Na wa.",
+        "type": "Movie",
+        "episodes": 1,
+        "anidb_no": 11829,
+        "link": "Your Name",
+        "category": "Synchronized"
+      }
+  ],
+  "Completed": [
     {
       "number": 1,
       "title_en": ".hack//Legend of the Twilight",
@@ -5889,37 +5909,45 @@
       "anidb_no": 14198,
       "link": "ZOMBIE LAND SAGA",
       "category": "Completed"
-    }
-  ],
-  "Completed": [
+    },
     {
-      "number": "1",
-      "title_en": ".hack//Legend of the Twilight",
-      "title_ro": ".hack//Tasogare no Udewa Densetsu",
-      "type": "TV",
-      "episodes": "12",
-      "anidb_no": "447",
-      "link": ".hack Legend of the Twilight",
+      "number": 590,
+      "title_en": "Dragon Ball Z: Cooler`s Revenge",
+      "title_ro": "Dragon Ball Z: Tobikkiri no Saikyou tai Saikyou",
+      "type": "Movie",
+      "episodes": 1,
+      "anidb_no": 1045,
+      "link": "Dragon Ball Z - Movie05 Cooler's Revenge",
       "category": "Completed"
     },
     {
-      "number": "2",
-      "title_en": ".hack//Quantum",
-      "title_ro": "",
-      "type": "OVA",
-      "episodes": "3",
-      "anidb_no": "7883",
-      "link": ".hack Quantum",
+      "number": 600,
+      "title_en": "Dragon Ball Z: Wrath of the Dragon",
+      "title_ro": "Dragon Ball Z: Ryuuken Bakuhatsu!! Gokuu ga Yaraneba Dare ga Yaru",
+      "type": "Movie",
+      "episodes": 1,
+      "anidb_no": 397,
+      "link": "Dragon Ball Z - Movie13 Wrath of the Dragon",
       "category": "Completed"
     },
     {
-      "number": "3",
-      "title_en": "Ace Attorney Season 2",
-      "title_ro": "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari! Season 2",
-      "type": "TV",
-      "episodes": "23",
-      "anidb_no": "7883",
-      "link": "Ace Attorney Season 2",
+      "number": 601,
+      "title_en": "Dragon Ball Z: Super Android 13!",
+      "title_ro": "Dragon Ball Z: Kyokugen Battle!! Sandai Super Saiya-jin",
+      "type": "Movie",
+      "episodes": 1,
+      "anidb_no": 548,
+      "link": "Dragon Ball Z - Movie07 Super Android 13!",
+      "category": "Completed"
+    },
+    {
+      "number": 602,
+      "title_en": "Dragon Ball Z: Bojack Unbound",
+      "title_ro": "Dragon Ball Z: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu",
+      "type": "Movie",
+      "episodes": 1,
+      "anidb_no": 1069,
+      "link": "Dragon Ball Z - Movie09 Bojack Unbound",
       "category": "Completed"
     }
   ],
